@@ -1,0 +1,31 @@
+id: archaeo
+display: archaeo-
+type: combining form
+core_meaning: ancient / old
+zh: 古代的；古老的
+origin: Greek arkhaios = ancient
+source_meaning_zh: 古代的
+senses:
+  - meaning: ancient / old
+    zh: 古代的
+    examples:
+      - archaeology
+      - archaeological
+      - archaeologist
+similar_form:
+  - arch
+  - archi
+  - arche
+  - archa
+similar_meaning:
+  - paleo
+  - proto
+patterns:
+  - archaeo- + field suffix = study connected with ancient remains
+high_value_words:
+  - archaeology
+  - archaeological
+  - archaeologist
+confusable_words:
+  - archaeology vs architecture
+  - archaeology vs archetype

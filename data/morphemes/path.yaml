@@ -1,0 +1,29 @@
+id: path
+display: path-
+type: root
+core_meaning: feeling / suffering / disease
+zh: 感受；痛苦；疾病
+origin: Greek pathos = suffering, feeling
+senses:
+  - meaning: feeling
+    zh: 感受
+    examples:
+      - sympathy
+      - empathy
+  - meaning: disease
+    zh: 疾病
+    examples:
+      - pathology
+      - pathogen
+similar_form:
+  - bath
+similar_meaning:
+  - pass
+patterns:
+  - path- shifts between feeling and disease by context
+high_value_words:
+  - sympathy
+  - empathy
+  - pathology
+confusable_words:
+  - sympathy vs empathy

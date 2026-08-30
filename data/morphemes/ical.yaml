@@ -1,0 +1,26 @@
+id: ical
+display: -ical
+type: suffix
+core_meaning: relating to
+zh: 与……有关的
+origin: adjective-forming suffix from -ic + -al
+senses:
+  - meaning: relating to
+    zh: 与……有关
+    examples:
+      - archaeological
+      - psychological
+      - physiological
+similar_form:
+  - ic
+  - al
+similar_meaning:
+  - ous
+patterns:
+  - noun root + -ical = adjective relating to that field
+high_value_words:
+  - archaeological
+  - psychological
+  - physiological
+confusable_words:
+  - archaeological vs architectural

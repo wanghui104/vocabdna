@@ -1,0 +1,28 @@
+id: spontaneous
+word: spontaneous
+pos: adjective
+phonetic: /spɑːnˈteɪniəs/
+zh: 自发的；自然产生的
+en: happening naturally or from an internal impulse, without external force
+components:
+  - morpheme: sponte
+    form: sponte-
+    meaning_in_word: of one's own will
+    zh: 自愿地；出于自身
+    role: root
+  - morpheme: aneous
+    form: -aneous
+    meaning_in_word: having the nature of
+    zh: 具有……性质的
+    role: suffix
+word_family:
+  - spontaneity
+  - spontaneously
+confusables:
+  - word: simultaneous
+    reason: the shared -aneous ending can distract from the different root meaning.
+  - word: voluntary
+    reason: both involve internal choice, but spontaneous often means unplanned or naturally arising.
+examples:
+  - en: The audience broke into spontaneous applause.
+    zh: 观众自发地鼓起掌来。

@@ -1,0 +1,26 @@
+id: physio
+display: physio-
+type: combining form
+core_meaning: nature / bodily function
+zh: 自然；身体机能
+origin: Greek physis = nature
+senses:
+  - meaning: bodily function
+    zh: 身体机能
+    examples:
+      - physiology
+      - physiological
+      - physiotherapy
+similar_form:
+  - psycho
+similar_meaning:
+  - bio
+  - somat
+patterns:
+  - physio- + -logy = study of bodily function
+high_value_words:
+  - physiology
+  - physiological
+  - physiologist
+confusable_words:
+  - physiology vs psychology

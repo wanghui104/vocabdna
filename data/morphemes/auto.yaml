@@ -1,0 +1,26 @@
+id: auto
+display: auto-
+type: prefix
+core_meaning: self
+zh: 自我；自己
+origin: Greek autos = self
+senses:
+  - meaning: self
+    zh: 自我；自己
+    examples:
+      - automatic
+      - autonomy
+      - autobiography
+similar_form:
+  - anti
+similar_meaning:
+  - self
+  - sponte
+patterns:
+  - auto- + root = self-acting or self-related
+high_value_words:
+  - autonomy
+  - automatic
+  - autobiography
+confusable_words:
+  - automatic vs autonomous

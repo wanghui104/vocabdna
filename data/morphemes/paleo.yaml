@@ -1,0 +1,23 @@
+id: paleo
+display: paleo-
+type: combining form
+core_meaning: ancient / prehistoric
+zh: 古代的；史前的
+origin: Greek palaios = old, ancient
+senses:
+  - meaning: ancient / prehistoric
+    zh: 古代；史前
+    examples:
+      - paleontology
+      - Paleolithic
+similar_form:
+  - pelago
+similar_meaning:
+  - archaeo
+patterns:
+  - paleo- often marks prehistoric time rather than classical oldness
+high_value_words:
+  - paleontology
+  - Paleolithic
+confusable_words:
+  - paleontology vs archaeology

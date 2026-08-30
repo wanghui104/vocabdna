@@ -1,0 +1,25 @@
+id: ic
+display: -ic
+type: suffix
+core_meaning: relating to / characterized by
+zh: 与……有关的；具有……性质的
+origin: Greek and Latin adjective-forming suffix
+senses:
+  - meaning: relating to
+    zh: 与……有关
+    examples:
+      - archaic
+      - logic
+      - biologic
+similar_form:
+  - ical
+  - al
+similar_meaning:
+  - ous
+patterns:
+  - root + -ic = adjective-like relation or quality
+high_value_words:
+  - archaic
+  - logic
+confusable_words:
+  - archaic vs archetypal

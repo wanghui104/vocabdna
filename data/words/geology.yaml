@@ -1,0 +1,29 @@
+id: geology
+word: geology
+pos: noun
+phonetic: /dʒiˈɑːlədʒi/
+zh: 地质学
+en: the study of the earth, rocks, and physical history
+components:
+  - morpheme: geo
+    form: geo-
+    meaning_in_word: earth
+    zh: 地球；土地
+    role: combining_form
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / science of
+    zh: ……学；……研究
+    role: suffix
+word_family:
+  - geological
+  - geologist
+  - geologically
+confusables:
+  - word: biology
+    reason: both share -logy; the first component controls the field.
+  - word: geography
+    reason: geo- is shared, but -graphy points to writing, mapping, or description.
+examples:
+  - en: Geology explains how mountains form and erode.
+    zh: 地质学解释山脉如何形成和侵蚀。

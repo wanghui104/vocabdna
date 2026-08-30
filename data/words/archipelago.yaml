@@ -1,0 +1,27 @@
+id: archipelago
+word: archipelago
+pos: noun
+phonetic: /ˌɑːrkəˈpeləɡoʊ/
+zh: 群岛；多岛海
+en: a group or chain of islands
+components:
+  - morpheme: archi
+    form: archi-
+    meaning_in_word: principal / chief
+    zh: 主要的
+    role: prefix
+  - morpheme: pelago
+    form: -pelago
+    meaning_in_word: sea
+    zh: 海
+    role: root
+word_family:
+  - archipelagic
+confusables:
+  - word: archaeology
+    reason: the arch- opening is visually similar, but the semantic path is sea and islands.
+  - word: archetype
+    reason: both begin with arch-like letters, but their roots diverge.
+examples:
+  - en: The country is an archipelago of thousands of islands.
+    zh: 这个国家是由数千座岛屿组成的群岛。

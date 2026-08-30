@@ -1,0 +1,27 @@
+id: prologue
+word: prologue
+pos: noun
+phonetic: /ˈproʊlɔːɡ/
+zh: 序言；开场白
+en: an introductory section or speech before the main work
+components:
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: before / forward
+    zh: 在前；向前
+    role: prefix
+  - morpheme: log
+    form: -logue
+    meaning_in_word: speech / discourse
+    zh: 话语；言说
+    role: root
+word_family:
+  - prologize
+confusables:
+  - word: dialogue
+    reason: both contain -logue, but prologue is positioned before the main work.
+  - word: epilogue
+    reason: pro- means before while epi- can mark after or upon in this literary pair.
+examples:
+  - en: The prologue gives readers the political background.
+    zh: 序言向读者交代政治背景。

@@ -1,0 +1,29 @@
+id: ecology
+word: ecology
+pos: noun
+phonetic: /iˈkɑːlədʒi/
+zh: 生态学
+en: the study of organisms and their environment
+components:
+  - morpheme: eco
+    form: eco-
+    meaning_in_word: house / environment
+    zh: 家园；环境
+    role: combining_form
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / science of
+    zh: ……学；……研究
+    role: suffix
+word_family:
+  - ecological
+  - ecologist
+  - ecologically
+confusables:
+  - word: economy
+    reason: both come from house-management roots, but ecology studies environments while economy manages resources.
+  - word: etymology
+    reason: both are -logy fields, but eco- and etymo- are unrelated.
+examples:
+  - en: Ecology examines relationships between organisms and habitats.
+    zh: 生态学考察生物与栖息地之间的关系。

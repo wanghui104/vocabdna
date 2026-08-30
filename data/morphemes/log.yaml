@@ -1,0 +1,28 @@
+id: log
+display: -log- / -logue
+type: root
+core_meaning: word / speech / discourse
+zh: 词；话语；言说
+origin: Greek logos = word, speech, reason
+senses:
+  - meaning: speech / discourse
+    zh: 话语；言说
+    examples:
+      - monologue
+      - dialogue
+      - prologue
+similar_form:
+  - logy
+  - logo
+similar_meaning:
+  - dict
+  - phon
+patterns:
+  - prefix + -logue = a structured speech situation
+high_value_words:
+  - monologue
+  - dialogue
+  - prologue
+confusable_words:
+  - monologue vs dialogue
+  - prologue vs dialogue

@@ -1,0 +1,26 @@
+id: type
+display: -type
+type: root
+core_meaning: model / mark / impression
+zh: 类型；模型；印记
+origin: Greek typos = blow, mark, model
+senses:
+  - meaning: model / kind
+    zh: 模型；类型
+    examples:
+      - archetype
+      - prototype
+      - stereotype
+similar_form:
+  - typo
+similar_meaning:
+  - model
+  - form
+patterns:
+  - prefix + -type = a kind of model or class
+high_value_words:
+  - archetype
+  - prototype
+  - stereotype
+confusable_words:
+  - archetype vs prototype

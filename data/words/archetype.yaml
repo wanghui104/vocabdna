@@ -1,0 +1,28 @@
+id: archetype
+word: archetype
+pos: noun
+phonetic: /ˈɑːrkiˌtaɪp/
+zh: 原型；典型
+en: an original pattern or model from which similar things are copied
+components:
+  - morpheme: arche
+    form: arche-
+    meaning_in_word: first / original
+    zh: 最初的；原始模型
+    role: root
+  - morpheme: type
+    form: -type
+    meaning_in_word: model / impression
+    zh: 类型；模型
+    role: root
+word_family:
+  - archetypal
+  - archetypically
+confusables:
+  - word: archaeology
+    reason: arche- looks close to archaeo-, but the meaning path is first model, not ancient study.
+  - word: architecture
+    reason: arch-like opening letters can mislead learners into a false family.
+examples:
+  - en: The trickster is a common archetype in mythology.
+    zh: 恶作剧者是神话中常见的原型。

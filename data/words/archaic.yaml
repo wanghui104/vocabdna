@@ -1,0 +1,28 @@
+id: archaic
+word: archaic
+pos: adjective
+phonetic: /ɑːrˈkeɪɪk/
+zh: 古旧的；早期的
+en: very old or belonging to an earlier period
+components:
+  - morpheme: archa
+    form: archa-
+    meaning_in_word: old / ancient
+    zh: 古老的
+    role: root
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to
+    zh: 与……有关的
+    role: suffix
+word_family:
+  - archaism
+  - archaically
+confusables:
+  - word: archetype
+    reason: archa- means old, while arche- points to first or original model.
+  - word: archaeology
+    reason: archaic is an adjective for old style; archaeology is a field of study.
+examples:
+  - en: The poem uses several archaic words.
+    zh: 这首诗使用了几个古旧词。

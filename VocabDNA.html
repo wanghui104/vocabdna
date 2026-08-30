@@ -1,0 +1,920 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>VocabDNA</title>
+  <meta name="description" content="A local word and morpheme graph for advanced English vocabulary." />
+  <style>
+    :root {
+      --background: #f7f4ec;
+      --foreground: #182334;
+      --card: #fffefa;
+      --muted: #627083;
+      --line: #d8d0bf;
+      --soft: #ece6d8;
+      --accent: #d3ede6;
+      --primary: #165f75;
+      --primary-dark: #0f4151;
+      --warning: #9a5a18;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--background);
+      color: var(--foreground);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    button, input { font: inherit; }
+    button { cursor: pointer; }
+    body > header {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      border-bottom: 1px solid var(--line);
+      background: color-mix(in srgb, var(--background) 94%, white);
+      backdrop-filter: blur(12px);
+    }
+    .topbar {
+      display: grid;
+      grid-template-columns: 220px minmax(260px, 700px) 1fr;
+      gap: 14px;
+      align-items: center;
+      max-width: 1500px;
+      margin: 0 auto;
+      padding: 12px 24px;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      border: 0;
+      background: transparent;
+      color: inherit;
+      padding: 0;
+      text-align: left;
+    }
+    .mark {
+      display: grid;
+      width: 32px;
+      height: 32px;
+      place-items: center;
+      border-radius: 6px;
+      background: var(--foreground);
+      color: var(--background);
+      font-weight: 800;
+      line-height: 1;
+    }
+    .brand strong { display: block; font-size: 19px; line-height: 20px; }
+    .brand span:last-child { display: block; color: var(--muted); font-size: 12px; }
+    .search { position: relative; }
+    .search input {
+      width: 100%;
+      height: 42px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--card);
+      padding: 0 42px 0 36px;
+      color: var(--foreground);
+      outline: none;
+    }
+    .search input:focus { border-color: var(--primary); box-shadow: 0 0 0 3px color-mix(in srgb, var(--primary) 16%, transparent); }
+    .search-icon { position: absolute; left: 12px; top: 10px; color: var(--muted); }
+    .clear {
+      position: absolute;
+      right: 5px;
+      top: 5px;
+      width: 32px;
+      height: 32px;
+      border: 0;
+      border-radius: 5px;
+      background: transparent;
+      color: var(--muted);
+    }
+    .clear:hover { background: var(--soft); color: var(--foreground); }
+    .stats {
+      display: flex;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+    .topbar-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 12px;
+    }
+    .freeze-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--card);
+      color: var(--muted);
+      padding: 4px 8px;
+      font-size: 12px;
+      font-weight: 700;
+      box-shadow: 0 1px 0 rgb(0 0 0 / 3%);
+    }
+    .freeze-toggle:hover { background: var(--soft); }
+    .freeze-toggle.active { color: var(--primary); }
+    .freeze-switch {
+      position: relative;
+      display: inline-flex;
+      width: 44px;
+      height: 24px;
+      flex: 0 0 auto;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: var(--soft);
+      transition: background-color 160ms ease, border-color 160ms ease;
+    }
+    .freeze-switch-thumb {
+      position: absolute;
+      left: 2px;
+      top: 2px;
+      width: 20px;
+      height: 20px;
+      border-radius: 999px;
+      background: var(--card);
+      box-shadow: 0 1px 4px rgb(0 0 0 / 22%);
+      transition: transform 160ms ease;
+    }
+    .freeze-toggle.active .freeze-switch {
+      border-color: var(--primary);
+      background: #18c89a;
+    }
+    .freeze-toggle.active .freeze-switch-thumb { transform: translateX(20px); }
+    .freeze-state {
+      width: 24px;
+      color: inherit;
+      font-size: 10px;
+      text-align: left;
+    }
+    .shell {
+      display: grid;
+      grid-template-columns: 270px minmax(0, 1fr);
+      gap: 20px;
+      max-width: 1500px;
+      margin: 0 auto;
+      padding: 20px 24px;
+    }
+    aside {
+      align-self: start;
+      position: sticky;
+      top: 78px;
+      max-height: calc(100vh - 96px);
+      overflow: auto;
+    }
+    .panel, .article {
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--card);
+      box-shadow: 0 1px 0 rgba(0,0,0,.03);
+    }
+    .panel { padding: 15px; margin-bottom: 14px; }
+    .article { padding: 26px 32px; }
+    .panel-title {
+      margin: 0 0 12px;
+      font-size: 14px;
+      font-weight: 750;
+    }
+    .group-title {
+      margin: 14px 0 7px;
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 760;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+    .result-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 8px;
+      width: 100%;
+      border: 0;
+      border-radius: 5px;
+      background: transparent;
+      padding: 7px 8px;
+      color: inherit;
+      text-align: left;
+    }
+    .result-row:hover { background: var(--soft); }
+    .result-row.active { background: var(--accent); color: var(--primary-dark); }
+    .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .result-sub { color: var(--muted); font-size: 12px; }
+    .article header {
+      position: static;
+      border-bottom: 1px solid var(--line);
+      background: transparent;
+      padding: 0 0 18px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 42px;
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+    .meta {
+      display: inline-flex;
+      margin-left: 10px;
+      transform: translateY(-5px);
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      padding: 2px 7px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 750;
+      text-transform: uppercase;
+    }
+    .meta.phonetic { text-transform: none; }
+    .definition { margin: 10px 0 0; font-size: 18px; line-height: 1.55; }
+    .zh { margin: 3px 0 0; color: var(--muted); line-height: 1.7; }
+    section.detail {
+      border-bottom: 1px solid var(--line);
+      padding: 22px 0;
+    }
+    section.detail:last-child { border-bottom: 0; padding-bottom: 0; }
+    section.detail h2 {
+      margin: 0 0 12px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 780;
+      text-transform: uppercase;
+    }
+    table {
+      width: 100%;
+      min-width: 820px;
+      table-layout: fixed;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 14px;
+    }
+    .dna-col-form { width: 13%; }
+    .dna-col-meaning { width: 24%; }
+    .dna-col-zh { width: 16%; }
+    .dna-col-etymon { width: 23%; }
+    .dna-col-etymon-meaning { width: 24%; }
+    th {
+      border-bottom: 1px solid var(--line);
+      padding: 8px 10px;
+      color: var(--muted);
+      font-size: 11px;
+      text-transform: uppercase;
+      white-space: normal;
+      overflow-wrap: anywhere;
+    }
+    td {
+      border-bottom: 1px solid var(--line);
+      padding: 9px 10px;
+      vertical-align: top;
+      line-height: 1.55;
+      white-space: normal;
+      overflow-wrap: anywhere;
+    }
+    .scroll { overflow-x: auto; }
+    .sub-panel {
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: color-mix(in srgb, var(--soft) 55%, white);
+      padding: 12px;
+    }
+    .freeze-pane { background: var(--card); }
+    .freeze-pane.active {
+      position: sticky;
+      top: 72px;
+      z-index: 4;
+      margin-left: -32px;
+      margin-right: -32px;
+      padding-left: 32px;
+      padding-right: 32px;
+      background: var(--card);
+      box-shadow: 0 8px 16px rgb(24 35 52 / 10%);
+    }
+    .freeze-pane section.detail:last-child { border-bottom: 1px solid var(--line); }
+    .family-tabs {
+      display: flex;
+      gap: 1px;
+      overflow-x: auto;
+      margin: -26px -32px 22px;
+      border-bottom: 1px solid var(--line);
+      background: var(--line);
+    }
+    .family-tab {
+      min-width: 96px;
+      border: 0;
+      background: var(--soft);
+      color: var(--foreground);
+      padding: 7px 14px;
+      font-size: 14px;
+      font-weight: 650;
+      text-align: left;
+    }
+    .family-tab:hover { background: var(--accent); }
+    .family-tab.active { background: var(--card); color: var(--primary); }
+    .family-stem-tab {
+      cursor: default;
+      background: var(--card);
+      color: var(--primary);
+    }
+    .family-stem-tab:hover { background: var(--card); }
+    .root-family-layout {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      align-items: start;
+      gap: 14px;
+    }
+    .root-family-column {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .root-family-column h3 {
+      margin: 0;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 760;
+    }
+    .grid-2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    .link-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 14px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      font-size: 14px;
+      line-height: 1.7;
+    }
+    .dense-list { margin: 0; padding-left: 18px; color: var(--muted); line-height: 1.75; }
+    .inline-link {
+      border: 0;
+      background: transparent;
+      color: var(--primary);
+      padding: 0;
+      font-weight: 720;
+      text-decoration: none;
+    }
+    .inline-link:hover { text-decoration: underline; text-underline-offset: 2px; }
+    .inline-word-static {
+      display: block;
+      width: 100%;
+      color: var(--foreground);
+      font-weight: 720;
+      text-align: center;
+    }
+    .comparison {
+      display: grid;
+      grid-template-columns: 160px minmax(0, 1fr);
+      gap: 10px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: color-mix(in srgb, var(--soft) 45%, white);
+      padding: 10px 12px;
+      margin-bottom: 8px;
+    }
+    blockquote {
+      border-left: 2px solid var(--primary);
+      margin: 0 0 12px;
+      padding-left: 12px;
+    }
+    blockquote p { margin: 0; line-height: 1.65; }
+    .note { color: var(--muted); font-size: 14px; line-height: 1.65; }
+    .mini-group {
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
+      margin-top: 12px;
+    }
+    .mini-group:first-of-type { border-top: 0; padding-top: 0; margin-top: 0; }
+    @media (max-width: 760px) {
+      .topbar { grid-template-columns: 1fr; padding: 12px 14px; }
+      .topbar-actions { justify-content: flex-start; }
+      .shell { grid-template-columns: 1fr; padding: 14px; }
+      aside { position: static; max-height: none; }
+      .article { padding: 20px 16px; }
+      .freeze-pane.active {
+        top: 128px;
+        margin-left: -16px;
+        margin-right: -16px;
+        padding-left: 16px;
+        padding-right: 16px;
+      }
+      .family-tabs { margin: -20px -16px 20px; }
+      h1 { font-size: 34px; }
+      .grid-2, .comparison, .root-family-layout { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="topbar">
+      <button class="brand" type="button" data-route="word:archaeology">
+        <span class="mark">VD</span>
+        <span><strong>VocabDNA</strong><span>word roots, not word lists</span></span>
+      </button>
+      <label class="search">
+        <span class="search-icon">⌕</span>
+        <input id="search" autocomplete="off" placeholder="Search word or morpheme: archaeology, -logy, simul..." />
+        <button id="clear" class="clear" type="button" aria-label="Clear search">×</button>
+      </label>
+      <div class="topbar-actions">
+        <div class="stats"><span id="word-count"></span><span>/</span><span id="morpheme-count"></span><span>/</span><span>local HTML</span></div>
+        <button id="freeze-toggle" class="freeze-toggle" type="button" aria-pressed="false" aria-label="Freeze top pane off">
+          <span class="freeze-label">Freeze Top Pane</span>
+          <span class="freeze-switch" aria-hidden="true"><span class="freeze-switch-thumb"></span></span>
+          <span id="freeze-state" class="freeze-state">OFF</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="shell">
+    <aside>
+      <div class="panel">
+        <h2 class="panel-title">Search Results</h2>
+        <div id="search-results" class="note">Type any word, root, prefix, suffix, English meaning, or Chinese gloss.</div>
+      </div>
+      <div class="panel">
+        <h2 class="panel-title">Browse</h2>
+        <div id="browse"></div>
+      </div>
+    </aside>
+    <article id="detail" class="article"></article>
+  </main>
+  <script id="vocab-data" type="application/json">{"words":[{"id":"analogy","word":"analogy","pos":"noun","phonetic":"/əˈnælədʒi/","zh":"类比；相似关系","en":"a comparison based on a similarity of relations","components":[{"morpheme":"ana","form":"ana-","meaning_in_word":"up / back / according to","zh":"向上；返回；依照","role":"prefix"},{"morpheme":"logy","form":"-logy","meaning_in_word":"relation / reasoned proportion","zh":"关系；理性比例","role":"root"}],"word_family":["analogous","analogical","analogically"],"confusables":[{"word":"logic","reason":"both connect to logos, but analogy is comparison, not logic as a discipline."},{"word":"anthology","reason":"similar ending shape, but anthology comes from flowers and collection."}],"examples":[{"en":"She explained memory with an analogy to a library catalogue.","zh":"她用图书馆目录的类比来解释记忆。"}]},{"id":"anthology","word":"anthology","pos":"noun","phonetic":"/ænˈθɑːlədʒi/","zh":"选集；文选","en":"a published collection of selected writings","components":[{"morpheme":"antho","form":"antho-","meaning_in_word":"flower","zh":"花","role":"root"},{"morpheme":"logy","form":"-logy","meaning_in_word":"collection / gathering","zh":"收集；汇集","role":"root"}],"word_family":["anthological","anthologist"],"confusables":[{"word":"analogy","reason":"the ending looks alike, but anthology is a gathered collection, not comparison."},{"word":"etymology","reason":"both end in -logy-like spelling but have different historical paths."}],"examples":[{"en":"The course begins with an anthology of modern essays.","zh":"这门课从一本现代散文选集开始。"}]},{"id":"archaeological","word":"archaeological","pos":"adjective","phonetic":"/ˌɑːrkiəˈlɑːdʒɪkəl/","zh":"考古学的","en":"relating to archaeology or ancient remains","components":[{"morpheme":"archaeo","form":"archaeo-","meaning_in_word":"ancient / old","zh":"古代的","role":"combining_form"},{"morpheme":"logy","form":"-log-","meaning_in_word":"study / discourse","zh":"研究；学科","role":"root"},{"morpheme":"ical","form":"-ical","meaning_in_word":"relating to","zh":"与……有关的","role":"suffix"}],"word_family":["archaeology","archaeologist","archaeologically"],"word_family_details":[{"word":"archaeology","en":"the study of ancient human history through remains","zh":"考古学"},{"word":"archaeologist","en":"a person who studies archaeology","zh":"考古学家"},{"word":"archaeologically","en":"in an archaeological way","zh":"以考古学方式"}],"confusables":[{"word":"architectural","reason":"archaeological concerns ancient remains; architectural concerns buildings or design.","zh_reason":"两词都带 arch- 开头和 -al/-ical 形容词外形，但 archaeological 指考古遗存，architectural 指建筑设计。"}],"examples":[{"en":"The site contains archaeological evidence of trade.","zh":"该遗址包含贸易活动的考古证据。"}]},{"id":"archaeology","word":"archaeology","pos":"noun","phonetic":"/ˌɑːrkiˈɑːlədʒi/","zh":"考古学","en":"the study of ancient human history through remains","components":[{"morpheme":"archaeo","form":"archaeo-","meaning_in_word":"ancient / old","zh":"古代的","role":"combining_form"},{"morpheme":"logy","form":"-logy","meaning_in_word":"study of / science of","zh":"……学；……研究","role":"suffix"}],"word_family":["archaeological","archaeologist","archaeologically"],"word_family_details":[{"word":"archaeological","en":"relating to archaeology or ancient remains","zh":"考古学的"},{"word":"archaeologist","en":"a person who studies archaeology","zh":"考古学家"},{"word":"archaeologically","en":"in a way related to archaeology","zh":"以考古学方式"}],"confusables":[{"word":"architecture","reason":"archaeo- and archi-/arch- look similar, but their meanings differ.","zh_reason":"两词都以 arch- 视觉开头，但 archaeology 的 archaeo- 是“古代”，architecture 的 archi-/tect- 指向“建筑/建造”。"},{"word":"archetype","reason":"similar opening form, but arche- points to first model or original pattern.","zh_reason":"archetype 和 archaeology 开头相似，但 arche- 是“最初/原型”，不是“古代遗存研究”。"},{"word":"archipelago","reason":"similar spelling shape, unrelated meaning path.","zh_reason":"archipelago 只是拼写轮廓相近，核心路径是 pelago“海”，和 archaeology 的 archaeo- + -logy 无关。"}],"why_confusing":"archaeo- looks close to arch-/archi-, but archaeo- means ancient, while arch-/archi- can mean chief, master, principal, or building-related craft.","examples":[{"en":"Archaeology helps us understand ancient civilizations.","zh":"考古学帮助我们理解古代文明。"}]},{"id":"archaic","word":"archaic","pos":"adjective","phonetic":"/ɑːrˈkeɪɪk/","zh":"古旧的；早期的","en":"very old or belonging to an earlier period","components":[{"morpheme":"archa","form":"archa-","meaning_in_word":"old / ancient","zh":"古老的","role":"root"},{"morpheme":"ic","form":"-ic","meaning_in_word":"relating to","zh":"与……有关的","role":"suffix"}],"word_family":["archaism","archaically"],"confusables":[{"word":"archetype","reason":"archa- means old, while arche- points to first or original model."},{"word":"archaeology","reason":"archaic is an adjective for old style; archaeology is a field of study."}],"examples":[{"en":"The poem uses several archaic words.","zh":"这首诗使用了几个古旧词。"}]},{"id":"archetype","word":"archetype","pos":"noun","phonetic":"/ˈɑːrkiˌtaɪp/","zh":"原型；典型","en":"an original pattern or model from which similar things are copied","components":[{"morpheme":"arche","form":"arche-","meaning_in_word":"first / original","zh":"最初的；原始模型","role":"root"},{"morpheme":"type","form":"-type","meaning_in_word":"model / impression","zh":"类型；模型","role":"root"}],"word_family":["archetypal","archetypically"],"confusables":[{"word":"archaeology","reason":"arche- looks close to archaeo-, but the meaning path is first model, not ancient study."},{"word":"architecture","reason":"arch-like opening letters can mislead learners into a false family."}],"examples":[{"en":"The trickster is a common archetype in mythology.","zh":"恶作剧者是神话中常见的原型。"}]},{"id":"archipelago","word":"archipelago","pos":"noun","phonetic":"/ˌɑːrkəˈpeləɡoʊ/","zh":"群岛；多岛海","en":"a group or chain of islands","components":[{"morpheme":"archi","form":"archi-","meaning_in_word":"principal / chief","zh":"主要的","role":"prefix"},{"morpheme":"pelago","form":"-pelago","meaning_in_word":"sea","zh":"海","role":"root"}],"word_family":["archipelagic"],"confusables":[{"word":"archaeology","reason":"the arch- opening is visually similar, but the semantic path is sea and islands."},{"word":"archetype","reason":"both begin with arch-like letters, but their roots diverge."}],"examples":[{"en":"The country is an archipelago of thousands of islands.","zh":"这个国家是由数千座岛屿组成的群岛。"}]},{"id":"architecture","word":"architecture","pos":"noun","phonetic":"/ˈɑːrkɪˌtektʃər/","zh":"建筑学；建筑风格；系统结构","en":"the art, practice, or style of designing buildings or systems","components":[{"morpheme":"archi","form":"archi-","meaning_in_word":"chief / master","zh":"主要的；高阶的","role":"prefix"},{"morpheme":"tect","form":"-tect-","meaning_in_word":"build / construct","zh":"建造","role":"root"},{"morpheme":"ure","form":"-ure","meaning_in_word":"result / state","zh":"结果；状态","role":"suffix"}],"word_family":["architectural","architect","architectonic"],"confusables":[{"word":"archaeology","reason":"archi-/arch- resembles archaeo-, but architecture is about building and design."},{"word":"archetype","reason":"both begin with arch-like letters, yet archetype is about an original model."}],"examples":[{"en":"The architecture of the library balances stone and light.","zh":"这座图书馆的建筑设计平衡了石材与光线。"}]},{"id":"biology","word":"biology","pos":"noun","phonetic":"/baɪˈɑːlədʒi/","zh":"生物学","en":"the scientific study of living things","components":[{"morpheme":"bio","form":"bio-","meaning_in_word":"life","zh":"生命","role":"combining_form"},{"morpheme":"logy","form":"-logy","meaning_in_word":"study of / science of","zh":"……学；……研究","role":"suffix"}],"word_family":["biological","biologist","biologically"],"confusables":[{"word":"geology","reason":"both use -logy; bio- means life while geo- means earth."},{"word":"physiology","reason":"both concern living systems, but physiology focuses on function."}],"examples":[{"en":"Biology connects chemistry with the behavior of living organisms.","zh":"生物学把化学与生物体行为联系起来。"}]},{"id":"dialogue","word":"dialogue","pos":"noun","phonetic":"/ˈdaɪəlɔːɡ/","zh":"对话；交流","en":"conversation between two or more people","components":[{"morpheme":"dia","form":"dia-","meaning_in_word":"through / across / between","zh":"穿过；相互之间","role":"prefix"},{"morpheme":"log","form":"-logue","meaning_in_word":"speech / discourse","zh":"话语；言说","role":"root"}],"word_family":["dialogic","dialogical"],"confusables":[{"word":"monologue","reason":"mono- marks one speaker; dia- marks speech moving between sides."},{"word":"prologue","reason":"the -logue ending is shared, but pro- changes the function."}],"examples":[{"en":"Real dialogue requires listening, not just taking turns.","zh":"真正的对话需要倾听，而不只是轮流说话。"}]},{"id":"ecology","word":"ecology","pos":"noun","phonetic":"/iˈkɑːlədʒi/","zh":"生态学","en":"the study of organisms and their environment","components":[{"morpheme":"eco","form":"eco-","meaning_in_word":"house / environment","zh":"家园；环境","role":"combining_form"},{"morpheme":"logy","form":"-logy","meaning_in_word":"study of / science of","zh":"……学；……研究","role":"suffix"}],"word_family":["ecological","ecologist","ecologically"],"confusables":[{"word":"economy","reason":"both come from house-management roots, but ecology studies environments while economy manages resources."},{"word":"etymology","reason":"both are -logy fields, but eco- and etymo- are unrelated."}],"examples":[{"en":"Ecology examines relationships between organisms and habitats.","zh":"生态学考察生物与栖息地之间的关系。"}]},{"id":"entomology","word":"entomology","pos":"noun","phonetic":"/ˌentəˈmɑːlədʒi/","zh":"昆虫学","en":"the scientific study of insects","components":[{"morpheme":"entomo","form":"entomo-","meaning_in_word":"insect","zh":"昆虫","role":"combining_form"},{"morpheme":"logy","form":"-logy","meaning_in_word":"study of / science of","zh":"……学；……研究","role":"suffix"}],"word_family":["entomological","entomologist"],"confusables":[{"word":"etymology","reason":"entomo- and etymo- differ by one letter but point to insects versus word origins."},{"word":"biology","reason":"entomology is within life science but specifically insects."}],"examples":[{"en":"Entomology includes the study of bees, beetles, and butterflies.","zh":"昆虫学包括对蜜蜂、甲虫和蝴蝶的研究。"}]},{"id":"etymology","word":"etymology","pos":"noun","phonetic":"/ˌetɪˈmɑːlədʒi/","zh":"词源学","en":"the study of the origin and history of words","components":[{"morpheme":"etymo","form":"etymo-","meaning_in_word":"true origin","zh":"真实来源；词源","role":"combining_form"},{"morpheme":"logy","form":"-logy","meaning_in_word":"study of / science of","zh":"……学；……研究","role":"suffix"}],"word_family":["etymological","etymologist","etymologically"],"confusables":[{"word":"entomology","reason":"one extra n changes etymo- word origins into entomo- insects."},{"word":"ecology","reason":"both are -logy fields, but the first component is decisive."}],"examples":[{"en":"Etymology can reveal old metaphors hidden inside modern words.","zh":"词源学能揭示现代词汇中隐藏的古老隐喻。"}]},{"id":"geology","word":"geology","pos":"noun","phonetic":"/dʒiˈɑːlədʒi/","zh":"地质学","en":"the study of the earth, rocks, and physical history","components":[{"morpheme":"geo","form":"geo-","meaning_in_word":"earth","zh":"地球；土地","role":"combining_form"},{"morpheme":"logy","form":"-logy","meaning_in_word":"study of / science of","zh":"……学；……研究","role":"suffix"}],"word_family":["geological","geologist","geologically"],"confusables":[{"word":"biology","reason":"both share -logy; the first component controls the field."},{"word":"geography","reason":"geo- is shared, but -graphy points to writing, mapping, or description."}],"examples":[{"en":"Geology explains how mountains form and erode.","zh":"地质学解释山脉如何形成和侵蚀。"}]},{"id":"logic","word":"logic","pos":"noun","phonetic":"/ˈlɑːdʒɪk/","zh":"逻辑；推理体系","en":"reasoning conducted according to valid principles","components":[{"morpheme":"logic","form":"logic","meaning_in_word":"reason / ordered thought","zh":"理性；推理","role":"root"}],"word_family":["logical","logically","logician"],"confusables":[{"word":"logy","reason":"-logy often means study of, while logic is the noun for reasoning itself."},{"word":"analogy","reason":"analogy uses ana- plus -logy/logos to compare relations, not formal logic alone."}],"examples":[{"en":"The logic of the argument depends on one hidden premise.","zh":"这个论证的逻辑依赖一个隐藏前提。"}]},{"id":"monologue","word":"monologue","pos":"noun","phonetic":"/ˈmɑːnəlɔːɡ/","zh":"独白；长篇独说","en":"a long speech by one person","components":[{"morpheme":"mono","form":"mono-","meaning_in_word":"one / single","zh":"单一的","role":"prefix"},{"morpheme":"log","form":"-logue","meaning_in_word":"speech / discourse","zh":"话语；言说","role":"root"}],"word_family":["monologic","monologuist"],"confusables":[{"word":"dialogue","reason":"mono- means one while dia- means across or between."},{"word":"prologue","reason":"both end in -logue, but pro- places speech before the main work."}],"examples":[{"en":"The actor opened the play with a quiet monologue.","zh":"演员以一段安静的独白开场。"}]},{"id":"physiology","word":"physiology","pos":"noun","phonetic":"/ˌfɪziˈɑːlədʒi/","zh":"生理学","en":"the study of how living bodies and their parts function","components":[{"morpheme":"physio","form":"physio-","meaning_in_word":"nature / bodily function","zh":"自然；身体机能","role":"combining_form"},{"morpheme":"logy","form":"-logy","meaning_in_word":"study of / science of","zh":"……学；……研究","role":"suffix"}],"word_family":["physiological","physiologist","physiologically"],"confusables":[{"word":"psychology","reason":"psych- and physio- look and sound close, but mind and body function are different domains."},{"word":"biology","reason":"physiology is a subdomain of biology focused on function."}],"examples":[{"en":"Physiology explains how muscles, nerves, and organs work.","zh":"生理学解释肌肉、神经和器官如何工作。"}]},{"id":"pomology","word":"pomology","pos":"noun","phonetic":"/poʊˈmɑːlədʒi/","zh":"果树学；果实学","en":"the branch of botany concerned with fruit and fruit cultivation","components":[{"morpheme":"pomo","form":"pomo-","meaning_in_word":"fruit","zh":"果实","role":"combining_form"},{"morpheme":"logy","form":"-logy","meaning_in_word":"study of / science of","zh":"……学；……研究","role":"suffix"}],"word_family":["pomological","pomologist"],"confusables":[{"word":"biology","reason":"both are -logy fields, but pomo- narrows the domain to fruit."},{"word":"etymology","reason":"the shared ending can hide very different first components."}],"examples":[{"en":"Pomology studies fruit varieties and orchard practices.","zh":"果树学研究果实品种和果园栽培方法。"}]},{"id":"prologue","word":"prologue","pos":"noun","phonetic":"/ˈproʊlɔːɡ/","zh":"序言；开场白","en":"an introductory section or speech before the main work","components":[{"morpheme":"pro","form":"pro-","meaning_in_word":"before / forward","zh":"在前；向前","role":"prefix"},{"morpheme":"log","form":"-logue","meaning_in_word":"speech / discourse","zh":"话语；言说","role":"root"}],"word_family":["prologize"],"confusables":[{"word":"dialogue","reason":"both contain -logue, but prologue is positioned before the main work."},{"word":"epilogue","reason":"pro- means before while epi- can mark after or upon in this literary pair."}],"examples":[{"en":"The prologue gives readers the political background.","zh":"序言向读者交代政治背景。"}]},{"id":"psychology","word":"psychology","pos":"noun","phonetic":"/saɪˈkɑːlədʒi/","zh":"心理学","en":"the scientific study of mind and behavior","components":[{"morpheme":"psycho","form":"psycho-","meaning_in_word":"mind / soul","zh":"心灵；心理","role":"combining_form"},{"morpheme":"logy","form":"-logy","meaning_in_word":"study of / science of","zh":"……学；……研究","role":"suffix"}],"word_family":["psychological","psychologist","psychologically"],"confusables":[{"word":"physiology","reason":"psychology studies mind and behavior; physiology studies bodily function."},{"word":"psychiatry","reason":"both start psych-, but psychiatry is medical treatment of mental illness."}],"examples":[{"en":"Psychology studies how people remember, decide, and feel.","zh":"心理学研究人如何记忆、决策和感受。"}]},{"id":"simultaneous","word":"simultaneous","pos":"adjective","phonetic":"/ˌsaɪməlˈteɪniəs/","zh":"同时发生的","en":"happening or existing at the same time","components":[{"morpheme":"simul","form":"simul-","meaning_in_word":"at the same time / together","zh":"同时；一起","role":"root"},{"morpheme":"aneous","form":"-aneous","meaning_in_word":"having the nature of","zh":"具有……性质的","role":"suffix"}],"word_family":["simultaneity","simultaneously"],"confusables":[{"word":"spontaneous","reason":"both end in -aneous, but simul- means together while sponte means of one's own will."},{"word":"simulation","reason":"similar spelling comes from simulare, to make like, not necessarily same-time action."}],"examples":[{"en":"The two teams made simultaneous announcements.","zh":"两个团队同时发布了公告。"}]},{"id":"spontaneous","word":"spontaneous","pos":"adjective","phonetic":"/spɑːnˈteɪniəs/","zh":"自发的；自然产生的","en":"happening naturally or from an internal impulse, without external force","components":[{"morpheme":"sponte","form":"sponte-","meaning_in_word":"of one's own will","zh":"自愿地；出于自身","role":"root"},{"morpheme":"aneous","form":"-aneous","meaning_in_word":"having the nature of","zh":"具有……性质的","role":"suffix"}],"word_family":["spontaneity","spontaneously"],"confusables":[{"word":"simultaneous","reason":"the shared -aneous ending can distract from the different root meaning."},{"word":"voluntary","reason":"both involve internal choice, but spontaneous often means unplanned or naturally arising."}],"examples":[{"en":"The audience broke into spontaneous applause.","zh":"观众自发地鼓起掌来。"}]}],"morphemes":[{"id":"al","display":"-al","type":"suffix","core_meaning":"relating to","zh":"与……有关的","origin":"Latin adjective-forming suffix -alis","senses":[{"meaning":"relating to","zh":"与……有关","examples":["biological","geological","logical"]}],"similar_form":["ical","ic"],"similar_meaning":["ous"],"patterns":["noun + -al = adjective relating to the noun"],"high_value_words":["logical","biological","geological"],"confusable_words":["logical vs biological"]},{"id":"aneous","display":"-aneous","type":"suffix","core_meaning":"having the nature of / characterized by","zh":"具有……性质的","origin":"Latin adjective-forming ending through -aneus","senses":[{"meaning":"having the nature of","zh":"具有……性质","examples":["simultaneous","spontaneous","extraneous"]}],"similar_form":["eous","ious"],"similar_meaning":["al","ic"],"patterns":["root + -aneous = characterized by the root idea"],"high_value_words":["simultaneous","spontaneous","extraneous"],"confusable_words":["simultaneous vs spontaneous"]},{"id":"eous","display":"-eous","type":"suffix","core_meaning":"full of / characterized by","zh":"充满……的；具有……性质的","origin":"Latin adjective-forming suffix -eus","senses":[{"meaning":"characterized by","zh":"具有……性质","examples":["courageous","erroneous"]}],"similar_form":["aneous","ious"],"similar_meaning":["ous","ic"],"patterns":["root + -eous = having the quality of the root"],"high_value_words":["courageous","erroneous"],"confusable_words":["-aneous vs -eous"]},{"id":"graph","display":"-graph-","type":"root","core_meaning":"write / record / draw","zh":"写；记录；绘制","origin":"Greek graphein = to write","senses":[{"meaning":"write / record","zh":"写；记录","examples":["biography","geography","monograph"]}],"similar_form":["gram"],"similar_meaning":["scrib","script"],"patterns":["X + -graphy = writing, mapping, or description of X"],"high_value_words":["biography","geography","monograph"],"confusable_words":["geology vs geography"]},{"id":"ic","display":"-ic","type":"suffix","core_meaning":"relating to / characterized by","zh":"与……有关的；具有……性质的","origin":"Greek and Latin adjective-forming suffix","senses":[{"meaning":"relating to","zh":"与……有关","examples":["archaic","logic","biologic"]}],"similar_form":["ical","al"],"similar_meaning":["ous"],"patterns":["root + -ic = adjective-like relation or quality"],"high_value_words":["archaic","logic"],"confusable_words":["archaic vs archetypal"]},{"id":"ical","display":"-ical","type":"suffix","core_meaning":"relating to","zh":"与……有关的","origin":"adjective-forming suffix from -ic + -al","senses":[{"meaning":"relating to","zh":"与……有关","examples":["archaeological","psychological","physiological"]}],"similar_form":["ic","al"],"similar_meaning":["ous"],"patterns":["noun root + -ical = adjective relating to that field"],"high_value_words":["archaeological","psychological","physiological"],"confusable_words":["archaeological vs architectural"]},{"id":"ious","display":"-ious","type":"suffix","core_meaning":"full of / having quality of","zh":"充满……的；具有……性质的","origin":"Latin adjective-forming suffix","senses":[{"meaning":"full of / having","zh":"充满；具有","examples":["curious","anxious","religious"]}],"similar_form":["eous","aneous"],"similar_meaning":["ous","ic"],"patterns":["noun or root + -ious = possessing a quality"],"high_value_words":["curious","anxious","religious"],"confusable_words":["curious vs courteous"]},{"id":"ism","display":"-ism","type":"suffix","core_meaning":"doctrine / practice / condition","zh":"主义；做法；状态","origin":"Greek -ismos through Latin","senses":[{"meaning":"doctrine / practice","zh":"主义；实践","examples":["realism","archaism","mechanism"]}],"similar_form":["ist"],"similar_meaning":["doctrine"],"patterns":["root + -ism = system, doctrine, practice, or condition"],"high_value_words":["realism","archaism","mechanism"],"confusable_words":["-ism doctrine vs -ist person"]},{"id":"ist","display":"-ist","type":"suffix","core_meaning":"person who practices or specializes in","zh":"从事……的人；专家","origin":"Greek -istes through Latin and French","senses":[{"meaning":"specialist / practitioner","zh":"专家；从业者","examples":["biologist","geologist","archaeologist"]}],"similar_form":["ism"],"similar_meaning":["er","or"],"patterns":["field + -ist = person who studies or practices that field"],"high_value_words":["biologist","geologist","archaeologist"],"confusable_words":["-ist person vs -ism doctrine"]},{"id":"log","display":"-log- / -logue","type":"root","core_meaning":"word / speech / discourse","zh":"词；话语；言说","origin":"Greek logos = word, speech, reason","senses":[{"meaning":"speech / discourse","zh":"话语；言说","examples":["monologue","dialogue","prologue"]}],"similar_form":["logy","logo"],"similar_meaning":["dict","phon"],"patterns":["prefix + -logue = a structured speech situation"],"high_value_words":["monologue","dialogue","prologue"],"confusable_words":["monologue vs dialogue","prologue vs dialogue"]},{"id":"logy","display":"-logy","type":"suffix","core_meaning":"study of / science of; speech or reason in some words","zh":"……学；……研究；话语；理性","origin":"Greek logos = word, reason, discourse","source_meaning_zh":"词；理性；话语","senses":[{"meaning":"study / science of","zh":"……学","examples":["biology","geology","archaeology","pomology","etymology","entomology","psychology","physiology","ecology"]},{"meaning":"speech / discourse / word","zh":"话语；言说","examples":["monologue","dialogue","prologue"]},{"meaning":"reason / relation","zh":"理性；关系","examples":["logic","analogy"]}],"similar_form":["logo","log","leg","lect"],"similar_meaning":["sophy","sci","gnos"],"patterns":["X + -logy = the study of X","prefix + -logue = a kind of speech or discourse"],"high_value_words":["biology","geology","psychology","physiology","etymology"],"confusable_words":["etymology vs entomology","psychology vs physiology","analogy vs anthology"]},{"id":"nomy","display":"-nomy","type":"suffix","core_meaning":"arrangement / law / management","zh":"法则；管理；体系","origin":"Greek nomos = law, custom, arrangement","senses":[{"meaning":"law / system","zh":"法则；体系","examples":["astronomy","taxonomy","economy"]}],"similar_form":["mono"],"similar_meaning":["law"],"patterns":["X + -nomy = ordered system or management of X"],"high_value_words":["economy","taxonomy","astronomy"],"confusable_words":["ecology vs economy"]},{"id":"pelago","display":"-pelago","type":"root","core_meaning":"sea","zh":"海","origin":"Greek pelagos = sea","senses":[{"meaning":"sea","zh":"海","examples":["archipelago","pelagic"]}],"similar_form":["paleo"],"similar_meaning":["mare","thalass"],"patterns":["archi- + pelago = principal sea, later group of islands"],"high_value_words":["archipelago","pelagic"],"confusable_words":["archipelago vs archetype"]},{"id":"sophy","display":"-sophy","type":"suffix","core_meaning":"wisdom / knowledge","zh":"智慧；知识体系","origin":"Greek sophia = wisdom","senses":[{"meaning":"wisdom / knowledge system","zh":"智慧；知识体系","examples":["philosophy","theosophy"]}],"similar_form":["soph"],"similar_meaning":["logy","sci","gnos"],"patterns":["X + -sophy = wisdom or system of thought about X"],"high_value_words":["philosophy","theosophy"],"confusable_words":["philosophy vs philology"]},{"id":"tect","display":"-tect-","type":"root","core_meaning":"build / construct","zh":"建造；构筑","origin":"Greek tekton = builder, carpenter","senses":[{"meaning":"build / builder","zh":"建造","examples":["architecture","architect","tectonic"]}],"similar_form":["techn"],"similar_meaning":["struct","fabr"],"patterns":["archi- + -tect- = master builder"],"high_value_words":["architecture","architect","tectonic"],"confusable_words":["architecture vs archaeology"]},{"id":"type","display":"-type","type":"root","core_meaning":"model / mark / impression","zh":"类型；模型；印记","origin":"Greek typos = blow, mark, model","senses":[{"meaning":"model / kind","zh":"模型；类型","examples":["archetype","prototype","stereotype"]}],"similar_form":["typo"],"similar_meaning":["model","form"],"patterns":["prefix + -type = a kind of model or class"],"high_value_words":["archetype","prototype","stereotype"],"confusable_words":["archetype vs prototype"]},{"id":"ure","display":"-ure","type":"suffix","core_meaning":"result / state / process","zh":"结果；状态；过程","origin":"Latin noun-forming suffix -ura","senses":[{"meaning":"result / state","zh":"结果；状态","examples":["architecture","structure","closure"]}],"similar_form":["or","er"],"similar_meaning":["tion"],"patterns":["verb or root + -ure = result or state"],"high_value_words":["architecture","structure","closure"],"confusable_words":["architecture vs architect"]},{"id":"ana","display":"ana-","type":"prefix","core_meaning":"up / back / again / according to","zh":"向上；返回；再次；依照","origin":"Greek ana = up, back, again","senses":[{"meaning":"according to / proportional relation","zh":"依照；比例关系","examples":["analogy","analogous"]},{"meaning":"back / again","zh":"返回；再次","examples":["analysis","anagram"]}],"similar_form":["anti","ante"],"similar_meaning":["re"],"patterns":["ana- + logos path = relation or proportion in analogy"],"high_value_words":["analogy","analysis","analogous"],"confusable_words":["analogy vs anthology"]},{"id":"antho","display":"antho-","type":"root","core_meaning":"flower","zh":"花","origin":"Greek anthos = flower","senses":[{"meaning":"flower","zh":"花","examples":["anthology","anther"]}],"similar_form":["entomo","ana"],"similar_meaning":["flor"],"patterns":["antho- + collection path = gathered flowers, then collected writings"],"high_value_words":["anthology","anthologist"],"confusable_words":["anthology vs analogy"]},{"id":"arch","display":"arch-","type":"root","core_meaning":"chief / ruler; also arch shape in separate paths","zh":"统治者；首要；拱形","origin":"Greek arkhos = ruler; Latin arcus = bow or arch in a separate line","senses":[{"meaning":"chief / ruler","zh":"统治者；首要","examples":["monarchy","hierarchy"]},{"meaning":"arch / curve","zh":"拱形","examples":["arch","arcade"]}],"similar_form":["archaeo","archi","arche"],"similar_meaning":["crat","prim"],"patterns":["arch- is a high-risk visual root because similar spellings can come from different histories"],"high_value_words":["hierarchy","monarchy","arch"],"confusable_words":["arch- chief vs arch as curve","archaeology vs architecture"]},{"id":"archa","display":"archa-","type":"root","core_meaning":"old / ancient","zh":"古旧的；早期的","origin":"Greek arkhaios = ancient","senses":[{"meaning":"old / ancient","zh":"古旧","examples":["archaic","archaism"]}],"similar_form":["archaeo","arche"],"similar_meaning":["paleo"],"patterns":["archa- + adjective suffix = old-fashioned or early-period"],"high_value_words":["archaic","archaism"],"confusable_words":["archaic vs archetype"]},{"id":"archaeo","display":"archaeo-","type":"combining form","core_meaning":"ancient / old","zh":"古代的；古老的","origin":"Greek arkhaios = ancient","source_meaning_zh":"古代的","senses":[{"meaning":"ancient / old","zh":"古代的","examples":["archaeology","archaeological","archaeologist"]}],"similar_form":["arch","archi","arche","archa"],"similar_meaning":["paleo","proto"],"patterns":["archaeo- + field suffix = study connected with ancient remains"],"high_value_words":["archaeology","archaeological","archaeologist"],"confusable_words":["archaeology vs architecture","archaeology vs archetype"]},{"id":"arche","display":"arche-","type":"root","core_meaning":"first / original / beginning","zh":"最初；原型；开端","origin":"Greek arche = beginning, origin, first principle","senses":[{"meaning":"first / original model","zh":"原型；最初模型","examples":["archetype","archetypal"]}],"similar_form":["archaeo","arch","archi"],"similar_meaning":["proto","prim"],"patterns":["arche- + type = original model"],"high_value_words":["archetype","archetypal"],"confusable_words":["archetype vs archaeology","archetype vs architecture"]},{"id":"archi","display":"archi-","type":"prefix","core_meaning":"chief / principal / master","zh":"主要的；最高的；首要的","origin":"Greek arkhi- = chief, first, ruling","senses":[{"meaning":"chief / principal","zh":"首要的","examples":["architecture","archipelago","archbishop"]}],"similar_form":["arch","archaeo","arche"],"similar_meaning":["proto","prim"],"patterns":["archi- can mark chief or principal status, but not every arch- word shares one modern meaning"],"high_value_words":["architecture","archipelago"],"confusable_words":["architecture vs archaeology","archipelago vs archetype"]},{"id":"auto","display":"auto-","type":"prefix","core_meaning":"self","zh":"自我；自己","origin":"Greek autos = self","senses":[{"meaning":"self","zh":"自我；自己","examples":["automatic","autonomy","autobiography"]}],"similar_form":["anti"],"similar_meaning":["self","sponte"],"patterns":["auto- + root = self-acting or self-related"],"high_value_words":["autonomy","automatic","autobiography"],"confusable_words":["automatic vs autonomous"]},{"id":"bio","display":"bio-","type":"combining form","core_meaning":"life","zh":"生命；生物","origin":"Greek bios = life","senses":[{"meaning":"life","zh":"生命","examples":["biology","biography","biosphere"]}],"similar_form":["bi","biblio"],"similar_meaning":["viv","zo"],"patterns":["bio- + -logy = study of life"],"high_value_words":["biology","biography","biosphere"],"confusable_words":["biology vs biography","biology vs physiology"]},{"id":"co","display":"co- / con-","type":"prefix","core_meaning":"together / with","zh":"一起；共同","origin":"Latin com- = with, together","senses":[{"meaning":"together / jointly","zh":"一起；共同","examples":["cooperate","connect","collect"]}],"similar_form":["contra"],"similar_meaning":["syn","simul"],"patterns":["com- adapts to con-, col-, cor-, or co- before different sounds"],"high_value_words":["cooperate","connect","collect"],"confusable_words":["cooperate vs coordinate"]},{"id":"dia","display":"dia-","type":"prefix","core_meaning":"through / across / between","zh":"穿过；跨越；相互之间","origin":"Greek dia = through, across","senses":[{"meaning":"across / between","zh":"相互之间","examples":["dialogue","diameter","diagnosis"]}],"similar_form":["dis"],"similar_meaning":["trans","inter"],"patterns":["dia- + -logue = speech between sides"],"high_value_words":["dialogue","diagnosis","diameter"],"confusable_words":["dialogue vs monologue"]},{"id":"eco","display":"eco-","type":"combining form","core_meaning":"house / environment","zh":"家园；环境","origin":"Greek oikos = house, household","senses":[{"meaning":"environment / household system","zh":"生态环境；家园系统","examples":["ecology","economy","ecosystem"]}],"similar_form":["echo"],"similar_meaning":["habitat"],"patterns":["eco- + -logy = study of environmental relationships"],"high_value_words":["ecology","ecosystem","economy"],"confusable_words":["ecology vs economy"]},{"id":"entomo","display":"entomo-","type":"combining form","core_meaning":"insect","zh":"昆虫","origin":"Greek entomon = insect, literally cut into sections","senses":[{"meaning":"insect","zh":"昆虫","examples":["entomology","entomologist"]}],"similar_form":["etymo"],"similar_meaning":["insect"],"patterns":["entomo- + -logy = study of insects"],"high_value_words":["entomology","entomologist"],"confusable_words":["entomology vs etymology"]},{"id":"etymo","display":"etymo-","type":"combining form","core_meaning":"true origin","zh":"真实来源；词源","origin":"Greek etymon = true sense of a word","senses":[{"meaning":"true source of a word","zh":"词源","examples":["etymology","etymological"]}],"similar_form":["entomo"],"similar_meaning":["origin"],"patterns":["etymo- + -logy = study of word origins"],"high_value_words":["etymology","etymological"],"confusable_words":["etymology vs entomology"]},{"id":"geo","display":"geo-","type":"combining form","core_meaning":"earth / land","zh":"地球；土地","origin":"Greek ge = earth","senses":[{"meaning":"earth / land","zh":"地球；土地","examples":["geology","geography","geometry"]}],"similar_form":["gen","graph"],"similar_meaning":["terr"],"patterns":["geo- + -logy = study of earth","geo- + -graphy = description or mapping of earth"],"high_value_words":["geology","geography","geometry"],"confusable_words":["geology vs geography"]},{"id":"gnos","display":"gnos-","type":"root","core_meaning":"know","zh":"知道；认识","origin":"Greek gignoskein = to know","senses":[{"meaning":"know / recognize","zh":"认识；知道","examples":["diagnosis","prognosis","agnostic"]}],"similar_form":["gon"],"similar_meaning":["sci","sophy","logy"],"patterns":["dia- + gnos- = know through, diagnose"],"high_value_words":["diagnosis","prognosis","agnostic"],"confusable_words":["prognosis vs diagnosis"]},{"id":"lect","display":"lect-","type":"root","core_meaning":"gather / choose / read","zh":"收集；选择；阅读","origin":"Latin legere, past participle lectus","senses":[{"meaning":"gather / choose","zh":"收集；选择","examples":["collect","select","elect"]},{"meaning":"read / speak","zh":"阅读；讲授","examples":["lecture","dialect"]}],"similar_form":["leg","logy"],"similar_meaning":["leg"],"patterns":["con-/se-/e- + lect = gather, choose, or pick out"],"high_value_words":["collect","select","lecture"],"confusable_words":["lect- vs log-"]},{"id":"leg","display":"leg-","type":"root","core_meaning":"gather / read / choose; law in another line","zh":"收集；阅读；选择；法律","origin":"Latin legere = gather, choose, read; lex = law","senses":[{"meaning":"read / choose","zh":"阅读；选择","examples":["lecture","eligible"]},{"meaning":"law","zh":"法律","examples":["legal","legislation"]}],"similar_form":["logy","lect"],"similar_meaning":["lect"],"patterns":["leg- and lect- are related variants in many read/gather words"],"high_value_words":["legal","eligible","lecture"],"confusable_words":["leg- vs log-"]},{"id":"logic","display":"logic","type":"root","core_meaning":"reason / ordered thought","zh":"逻辑；理性推理","origin":"Greek logike = art of reasoning","senses":[{"meaning":"reason / ordered thought","zh":"理性；推理","examples":["logic","logical","logician"]}],"similar_form":["logy","log"],"similar_meaning":["ratio","reason"],"patterns":["logic + -al = relating to reasoned order"],"high_value_words":["logic","logical","logician"],"confusable_words":["logic vs analogy"]},{"id":"logo","display":"logo-","type":"root","core_meaning":"word / sign / reason","zh":"词；标记；理性","origin":"Greek logos = word, reason","senses":[{"meaning":"word / sign","zh":"词；标记","examples":["logo","logotype"]}],"similar_form":["logy","log"],"similar_meaning":["sign"],"patterns":["logo- often points to word or sign, not automatically a field of study"],"high_value_words":["logo","logotype"],"confusable_words":["logo vs -logy"]},{"id":"mono","display":"mono-","type":"prefix","core_meaning":"one / single","zh":"单一；一个","origin":"Greek monos = alone, single","senses":[{"meaning":"one / single","zh":"一个；单一","examples":["monologue","monopoly","monograph"]}],"similar_form":["nomo"],"similar_meaning":["uni","sol"],"patterns":["mono- + -logue = speech by one person"],"high_value_words":["monologue","monopoly","monograph"],"confusable_words":["monologue vs dialogue"]},{"id":"morph","display":"morph-","type":"root","core_meaning":"form / shape","zh":"形态；形状","origin":"Greek morphe = form","senses":[{"meaning":"form / shape","zh":"形态；形状","examples":["morphology","metamorphosis","morpheme"]}],"similar_form":["graph"],"similar_meaning":["form"],"patterns":["morph- + -logy = study of form or word structure"],"high_value_words":["morphology","morpheme","metamorphosis"],"confusable_words":["morphology vs phonology"]},{"id":"paleo","display":"paleo-","type":"combining form","core_meaning":"ancient / prehistoric","zh":"古代的；史前的","origin":"Greek palaios = old, ancient","senses":[{"meaning":"ancient / prehistoric","zh":"古代；史前","examples":["paleontology","Paleolithic"]}],"similar_form":["pelago"],"similar_meaning":["archaeo"],"patterns":["paleo- often marks prehistoric time rather than classical oldness"],"high_value_words":["paleontology","Paleolithic"],"confusable_words":["paleontology vs archaeology"]},{"id":"path","display":"path-","type":"root","core_meaning":"feeling / suffering / disease","zh":"感受；痛苦；疾病","origin":"Greek pathos = suffering, feeling","senses":[{"meaning":"feeling","zh":"感受","examples":["sympathy","empathy"]},{"meaning":"disease","zh":"疾病","examples":["pathology","pathogen"]}],"similar_form":["bath"],"similar_meaning":["pass"],"patterns":["path- shifts between feeling and disease by context"],"high_value_words":["sympathy","empathy","pathology"],"confusable_words":["sympathy vs empathy"]},{"id":"phono","display":"phon- / phono-","type":"combining form","core_meaning":"sound / voice","zh":"声音；语音","origin":"Greek phone = sound, voice","senses":[{"meaning":"sound / voice","zh":"声音；语音","examples":["phonology","telephone","phonetics"]}],"similar_form":["physio"],"similar_meaning":["son","voc"],"patterns":["phono- + -logy = study of sound systems"],"high_value_words":["phonology","phonetics","telephone"],"confusable_words":["phonology vs physiology"]},{"id":"physio","display":"physio-","type":"combining form","core_meaning":"nature / bodily function","zh":"自然；身体机能","origin":"Greek physis = nature","senses":[{"meaning":"bodily function","zh":"身体机能","examples":["physiology","physiological","physiotherapy"]}],"similar_form":["psycho"],"similar_meaning":["bio","somat"],"patterns":["physio- + -logy = study of bodily function"],"high_value_words":["physiology","physiological","physiologist"],"confusable_words":["physiology vs psychology"]},{"id":"pomo","display":"pomo-","type":"combining form","core_meaning":"fruit","zh":"果实","origin":"Latin pomum = fruit","senses":[{"meaning":"fruit","zh":"果实","examples":["pomology","pomologist"]}],"similar_form":["pomo"],"similar_meaning":["fruct"],"patterns":["pomo- + -logy = study of fruit cultivation"],"high_value_words":["pomology","pomologist"],"confusable_words":["pomology vs biology"]},{"id":"prim","display":"prim-","type":"root","core_meaning":"first","zh":"第一；首要","origin":"Latin primus = first","senses":[{"meaning":"first / chief","zh":"第一；首要","examples":["primary","primitive","prime"]}],"similar_form":["pro"],"similar_meaning":["proto","arche","archi"],"patterns":["prim- marks firstness or basic status"],"high_value_words":["primary","primitive","prime"],"confusable_words":["primary vs primitive"]},{"id":"pro","display":"pro-","type":"prefix","core_meaning":"before / forward / in favor of","zh":"在前；向前；支持","origin":"Greek and Latin pro = before, forward, for","senses":[{"meaning":"before / forward","zh":"在前；向前","examples":["prologue","proceed","promote"]},{"meaning":"in favor of","zh":"支持","examples":["pro-democracy"]}],"similar_form":["proto"],"similar_meaning":["pre","fore"],"patterns":["pro- + -logue = speech before the main work"],"high_value_words":["prologue","proceed","promote"],"confusable_words":["prologue vs epilogue"]},{"id":"proto","display":"proto-","type":"prefix","core_meaning":"first / earliest","zh":"最初的；原始的","origin":"Greek protos = first","senses":[{"meaning":"first / earliest","zh":"最初；原始","examples":["prototype","protocol","protohistory"]}],"similar_form":["pro"],"similar_meaning":["arche","prim"],"patterns":["proto- + type = first model"],"high_value_words":["prototype","protocol"],"confusable_words":["prototype vs archetype"]},{"id":"psycho","display":"psych-","type":"combining form","core_meaning":"mind / soul","zh":"心灵；心理","origin":"Greek psyche = soul, mind","senses":[{"meaning":"mind / mental life","zh":"心理；心灵","examples":["psychology","psychological","psychiatry"]}],"similar_form":["physio"],"similar_meaning":["ment","anim"],"patterns":["psych- + -logy = study of mind and behavior"],"high_value_words":["psychology","psychological","psychologist"],"confusable_words":["psychology vs physiology","psychology vs psychiatry"]},{"id":"sci","display":"sci-","type":"root","core_meaning":"know","zh":"知道；知识","origin":"Latin scire = to know","senses":[{"meaning":"know / knowledge","zh":"知道；知识","examples":["science","conscious","omniscient"]}],"similar_form":["skep"],"similar_meaning":["gnos","logy","sophy"],"patterns":["con- + sci- = knowing with oneself"],"high_value_words":["science","conscious","omniscient"],"confusable_words":["science vs conscience"]},{"id":"simul","display":"simul-","type":"root","core_meaning":"at the same time / together","zh":"同时；一起","origin":"Latin simul = at the same time","senses":[{"meaning":"same time / together","zh":"同时；一起","examples":["simultaneous","simultaneously","simultaneity"]}],"similar_form":["simil","sponte"],"similar_meaning":["syn","co"],"patterns":["simul- + -aneous = happening at the same time"],"high_value_words":["simultaneous","simultaneously"],"confusable_words":["simultaneous vs spontaneous","simultaneous vs simulation"]},{"id":"sponte","display":"sponte-","type":"root","core_meaning":"of one's own will","zh":"自愿地；出于自身","origin":"Latin sponte = of one's own accord","senses":[{"meaning":"own will / internal impulse","zh":"自愿；自发","examples":["spontaneous","spontaneously","spontaneity"]}],"similar_form":["simul"],"similar_meaning":["volunt","auto"],"patterns":["sponte- + -aneous = arising from itself or one's own impulse"],"high_value_words":["spontaneous","spontaneity"],"confusable_words":["spontaneous vs simultaneous","spontaneous vs voluntary"]},{"id":"syn","display":"syn- / sym-","type":"prefix","core_meaning":"together / with","zh":"一起；共同","origin":"Greek syn = together, with","senses":[{"meaning":"together / with","zh":"一起；共同","examples":["synthesis","sympathy","synchronize"]}],"similar_form":["simul"],"similar_meaning":["simul","co"],"patterns":["syn- changes to sym- before some consonants"],"high_value_words":["synthesis","sympathy","synchronize"],"confusable_words":["sympathy vs empathy"]},{"id":"theo","display":"theo-","type":"combining form","core_meaning":"god / deity","zh":"神；神灵","origin":"Greek theos = god","senses":[{"meaning":"god / deity","zh":"神","examples":["theology","theosophy","atheist"]}],"similar_form":["theo"],"similar_meaning":["div"],"patterns":["theo- + -logy = study of religious belief or God"],"high_value_words":["theology","atheist","theosophy"],"confusable_words":["theology vs theosophy"]},{"id":"volunt","display":"volunt-","type":"root","core_meaning":"will / wish","zh":"意愿；自愿","origin":"Latin voluntas = will","senses":[{"meaning":"will / voluntary choice","zh":"意愿；自愿","examples":["voluntary","volunteer"]}],"similar_form":["violent"],"similar_meaning":["sponte"],"patterns":["volunt- words emphasize will or chosen action"],"high_value_words":["voluntary","volunteer"],"confusable_words":["spontaneous vs voluntary"]}]}</script>
+  <script>
+    const data = JSON.parse(document.getElementById('vocab-data').textContent);
+    const words = data.words;
+    const morphemes = data.morphemes;
+    const wordById = new Map(words.map((word) => [word.id, word]));
+    const wordByLabel = new Map(words.map((word) => [word.word.toLowerCase(), word]));
+    const morphemeById = new Map(morphemes.map((morpheme) => [morpheme.id, morpheme]));
+    const searchInput = document.getElementById('search');
+    const clearButton = document.getElementById('clear');
+    const freezeToggle = document.getElementById('freeze-toggle');
+    const freezeState = document.getElementById('freeze-state');
+    let freezeTopPane = readFreezeSetting();
+
+    document.getElementById('word-count').textContent = words.length + ' Words';
+    document.getElementById('morpheme-count').textContent = morphemes.length + ' Morphemes';
+
+    function readFreezeSetting() {
+      try {
+        return localStorage.getItem('vocabdna-freeze-top-pane') === 'true';
+      } catch {
+        return false;
+      }
+    }
+
+    function saveFreezeSetting(value) {
+      try {
+        localStorage.setItem('vocabdna-freeze-top-pane', String(value));
+      } catch {
+        // The local file still works when browser storage is unavailable.
+      }
+    }
+
+    function updateFreezeToggle() {
+      freezeToggle.classList.toggle('active', freezeTopPane);
+      freezeToggle.setAttribute('aria-pressed', String(freezeTopPane));
+      freezeToggle.setAttribute('aria-label', 'Freeze top pane ' + (freezeTopPane ? 'on' : 'off'));
+      freezeState.textContent = freezeTopPane ? 'ON' : 'OFF';
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? '').replace(/[&<>"']/g, (char) => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+      })[char]);
+    }
+
+    function normalize(value) {
+      return String(value ?? '').trim().toLowerCase().replace(/^[-]+|[-]+$/g, '');
+    }
+
+    function score(query, text) {
+      const normalized = normalize(text);
+      const stripped = normalized.replaceAll('-', '');
+      if (!query) return 1;
+      if (normalized.startsWith(query) || stripped.startsWith(query)) return 4;
+      if (normalized.includes(query) || stripped.includes(query)) return 2;
+      return query.split(/\s+/).filter((token) => token && normalized.includes(token)).length;
+    }
+
+    function searchWords(query) {
+      const q = normalize(query);
+      return words
+        .map((word) => ({
+          word,
+          score: score(q, [word.word, word.zh, word.en, word.pos, word.word_family?.join(' '), word.components?.map((item) => item.form + ' ' + item.meaning_in_word).join(' ')].join(' '))
+        }))
+        .filter((item) => !q || item.score > 0)
+        .sort((a, b) => b.score - a.score || a.word.word.localeCompare(b.word.word))
+        .map((item) => item.word);
+    }
+
+    function searchMorphemes(query) {
+      const q = normalize(query);
+      return morphemes
+        .map((morpheme) => ({
+          morpheme,
+          score: score(q, [morpheme.id, morpheme.display, morpheme.type, morpheme.core_meaning, morpheme.zh, morpheme.origin, morpheme.high_value_words?.join(' '), morpheme.senses?.map((sense) => sense.meaning + ' ' + sense.zh + ' ' + sense.examples.join(' ')).join(' ')].join(' '))
+        }))
+        .filter((item) => !q || item.score > 0)
+        .sort((a, b) => b.score - a.score || a.morpheme.display.localeCompare(b.morpheme.display))
+        .map((item) => item.morpheme);
+    }
+
+    function getRoute() {
+      const [type, id] = location.hash.replace(/^#\/?/, '').split('/');
+      if (type === 'morpheme' && morphemeById.has(id)) return { type, id };
+      if (type === 'word' && wordById.has(id)) return { type, id };
+      return { type: 'word', id: 'archaeology' };
+    }
+
+    function setRoute(type, id) {
+      location.hash = type + '/' + id;
+    }
+
+    function routeButton(type, id, label, className = 'inline-link') {
+      return '<button class="' + className + '" type="button" data-route="' + type + ':' + id + '">' + escapeHtml(label) + '</button>';
+    }
+
+    function inlineWord(label) {
+      const word = wordByLabel.get(String(label).toLowerCase());
+      return word ? routeButton('word', word.id, word.word) : '<span class="inline-word-static">' + escapeHtml(label) + '</span>';
+    }
+
+    function wordList(labels) {
+      const unique = [...new Set((labels ?? []).filter(Boolean))];
+      if (!unique.length) return '<p class="note">No entries yet.</p>';
+      return '<ul class="link-list">' + unique.map((label) => '<li>' + inlineWord(label) + '</li>').join('') + '</ul>';
+    }
+
+    function getWordFamilyDetail(word, label) {
+      const explicit = (word.word_family_details ?? []).find(
+        (item) => String(item.word).toLowerCase() === String(label).toLowerCase()
+      );
+      if (explicit) return explicit;
+
+      const linkedWord = wordByLabel.get(String(label).toLowerCase());
+      if (linkedWord) return { en: linkedWord.en, zh: linkedWord.zh };
+
+      return {
+        en: 'derived form of ' + word.word,
+        zh: word.zh + ' 的派生词'
+      };
+    }
+
+    function wordFamilyRows(word) {
+      const unique = [...new Set((word.word_family ?? []).filter(Boolean))];
+      if (!unique.length) return '<p class="note">No entries yet.</p>';
+      return unique.map((label) => {
+        const detail = getWordFamilyDetail(word, label);
+        return '<div class="comparison">' + inlineWord(label) + '<span class="note">' + escapeHtml(detail.en) + ' / ' + escapeHtml(detail.zh) + '</span></div>';
+      }).join('');
+    }
+
+    function getWordFamilyEntries(word) {
+      const familyLabels = new Set([
+        String(word.word).toLowerCase(),
+        ...(word.word_family ?? []).map((label) => String(label).toLowerCase())
+      ]);
+
+      for (const entry of words) {
+        if ((entry.word_family ?? []).some((label) => String(label).toLowerCase() === String(word.word).toLowerCase())) {
+          familyLabels.add(String(entry.word).toLowerCase());
+        }
+      }
+
+      return words
+        .filter((entry) => familyLabels.has(String(entry.word).toLowerCase()))
+        .sort((a, b) => a.word.length - b.word.length || a.word.localeCompare(b.word));
+    }
+
+    function getPosShortLabel(pos) {
+      if (pos === 'adjective') return 'adj';
+      if (pos === 'adverb') return 'adv';
+      return pos;
+    }
+
+    function getWordFamilyStem(familyEntries) {
+      const labels = familyEntries.map((entry) => String(entry.word).toLowerCase());
+      const commonPrefix = getCommonPrefix(labels).replace(/[^a-z]+$/g, '');
+      const fallbackStem = familyEntries[0]?.components?.at(0)?.form?.replace(/-+$/g, '');
+      const stem = commonPrefix || fallbackStem || familyEntries[0]?.word || '';
+      return String(stem).endsWith('-') ? String(stem) : String(stem) + '-';
+    }
+
+    function getCommonPrefix(labels) {
+      if (!labels.length) return '';
+
+      let prefix = labels[0];
+      for (const label of labels.slice(1)) {
+        while (prefix && !label.startsWith(prefix)) {
+          prefix = prefix.slice(0, -1);
+        }
+      }
+      return prefix;
+    }
+
+    function getWordVariantSuffix(word, familyStem) {
+      const lowerWord = String(word.word).toLowerCase();
+      const normalizedStem = familyStem?.replace(/-+$/g, '').toLowerCase();
+      if (normalizedStem && lowerWord.startsWith(normalizedStem)) {
+        const suffix = lowerWord.slice(normalizedStem.length);
+        if (suffix) return '-' + suffix;
+      }
+
+      const suffixPatterns = [
+        ['ologically', '-ly'],
+        ['ically', '-ly'],
+        ['logist', '-ist'],
+        ['ological', '-ical'],
+        ['ology', '-y'],
+        ['aneous', '-aneous'],
+        ['eous', '-eous'],
+        ['ical', '-ical'],
+        ['tion', '-tion'],
+        ['ist', '-ist'],
+        ['ism', '-ism'],
+        ['ure', '-ure'],
+        ['ous', '-ous'],
+        ['ic', '-ic'],
+        ['al', '-al'],
+        ['y', '-y']
+      ];
+      const matchedPattern = suffixPatterns.find(([ending]) => lowerWord.endsWith(ending));
+      if (matchedPattern) return matchedPattern[1];
+      return word.components?.at(-1)?.form ?? word.word;
+    }
+
+    function getWordVariantLabel(word, familyStem) {
+      return getWordVariantSuffix(word, familyStem) + ' · ' + getPosShortLabel(word.pos);
+    }
+
+    function wordFamilyTabs(activeWord) {
+      const familyEntries = getWordFamilyEntries(activeWord);
+      if (familyEntries.length < 2) return '';
+      const familyStem = getWordFamilyStem(familyEntries);
+
+      return '<nav class="family-tabs" aria-label="' + escapeHtml(familyEntries[0].word) + ' word family">' +
+        '<span class="family-tab family-stem-tab">' + escapeHtml(familyStem) + '</span>' +
+        familyEntries.map((entry) => {
+          const active = entry.id === activeWord.id ? ' active' : '';
+          return routeButton('word', entry.id, getWordVariantLabel(entry, familyStem), 'family-tab' + active);
+        }).join('') +
+      '</nav>';
+    }
+
+    function normalizeMorphemeId(label) {
+      return String(label ?? '').trim().toLowerCase().replace(/^[-]+|[-]+$/g, '');
+    }
+
+    function getConfusionDescription(item) {
+      const linkedWord = wordByLabel.get(String(item.word).toLowerCase());
+      if (linkedWord?.zh) return item.reason + ' / ' + linkedWord.zh;
+
+      const linkedMorpheme = morphemeById.get(normalizeMorphemeId(item.word));
+      if (linkedMorpheme?.zh) return item.reason + ' / ' + linkedMorpheme.zh;
+
+      return item.reason;
+    }
+
+    function getConfusionReasonLine(word, item) {
+      if (item.zh_reason) return '混淆原因：' + item.zh_reason;
+
+      const linkedWord = wordByLabel.get(String(item.word).toLowerCase());
+      const linkedMorpheme = morphemeById.get(normalizeMorphemeId(item.word));
+      const comparisonZh = linkedWord?.zh ?? linkedMorpheme?.zh;
+
+      return comparisonZh
+        ? '混淆原因：' + item.word + ' 和 ' + word.word + ' 在拼写、词根或主题上接近，但核心义不同；' + word.word + ' 指“' + word.zh + '”，' + item.word + ' 指“' + comparisonZh + '”。'
+        : '混淆原因：' + item.word + ' 和 ' + word.word + ' 外形或词根线索接近，但走的是不同的意义路径。';
+    }
+
+    function isCoreComponent(component) {
+      if (typeof component.is_core === 'boolean') return component.is_core;
+      const commonMorphemes = new Set(['al', 'aneous', 'eous', 'ic', 'ical', 'ious', 'ism', 'ist', 'log', 'logy', 'type', 'ure']);
+      if (commonMorphemes.has(component.morpheme)) return false;
+      return component.role !== 'suffix';
+    }
+
+    function parseOrigin(origin) {
+      const [source, meaning] = String(origin ?? '').split('=').map((part) => part.trim());
+      if (!source || !meaning) return { form: formatEtymonSource(origin), meaning: undefined };
+      return { form: formatEtymonSource(source), meaning };
+    }
+
+    function formatEtymonSource(source) {
+      const languagePrefixes = ['Old English', 'Middle English', 'Greek and Latin', 'Latin and French', 'Greek', 'Latin', 'French'];
+      const matchedPrefix = languagePrefixes.find((prefix) => String(source ?? '').startsWith(prefix + ' '));
+      if (!matchedPrefix) return source;
+      return matchedPrefix + ' / ' + String(source).slice(matchedPrefix.length).trim();
+    }
+
+    function getComponentSource(component) {
+      const morpheme = morphemeById.get(component.morpheme);
+      const parsedOrigin = parseOrigin(morpheme?.origin ?? '');
+      const meaning = morpheme?.source_meaning ?? parsedOrigin.meaning ?? morpheme?.core_meaning ?? component.meaning_in_word;
+      const meaningZh = morpheme?.source_meaning_zh ?? morpheme?.zh ?? component.zh;
+      return {
+        form: morpheme?.source_form ?? parsedOrigin.form ?? morpheme?.display ?? '',
+        meaning: meaning + ' / ' + meaningZh
+      };
+    }
+
+    function rootFamilyCard(component) {
+      const morpheme = morphemeById.get(component.morpheme);
+      const examples = [...(morpheme?.high_value_words ?? []), ...((morpheme?.senses ?? []).flatMap((sense) => sense.examples))];
+      return '<div class="sub-panel"><strong>' + escapeHtml(component.form) + '</strong><div style="margin-top:8px">' + wordList(examples) + '</div></div>';
+    }
+
+    function rootFamilyColumn(title, components, emptyLabel) {
+      const content = components.length
+        ? components.map(rootFamilyCard).join('')
+        : '<p class="note">' + escapeHtml(emptyLabel) + '</p>';
+      return '<div class="root-family-column"><h3>' + escapeHtml(title) + '</h3>' + content + '</div>';
+    }
+
+    function rootFamilyLayout(word) {
+      const coreComponents = word.components.filter(isCoreComponent);
+      const supportComponents = word.components.filter((component) => !isCoreComponent(component));
+      return '<div class="root-family-layout">' +
+        rootFamilyColumn('核心词根', coreComponents, 'No core roots marked yet.') +
+        rootFamilyColumn('非核心词根', supportComponents, 'No supporting roots.') +
+      '</div>';
+    }
+
+    function morphemeList(ids) {
+      const unique = [...new Set((ids ?? []).filter(Boolean))];
+      if (!unique.length) return '<p class="note">No entries yet.</p>';
+      return '<ul class="link-list">' + unique.map((id) => {
+        const morpheme = morphemeById.get(id);
+        return '<li>' + (morpheme ? routeButton('morpheme', id, morpheme.display) : escapeHtml(id)) + '</li>';
+      }).join('') + '</ul>';
+    }
+
+    function resultGroup(title, items, route, emptyLabel) {
+      return '<h3 class="group-title">' + escapeHtml(title) + '</h3>' +
+        (items.length ? items.map((item) => {
+          const active = route.type === item.type && route.id === item.id ? ' active' : '';
+          return '<button class="result-row' + active + '" type="button" data-route="' + item.type + ':' + item.id + '">' +
+            '<span class="truncate">' + escapeHtml(item.label) + '</span>' +
+            '<span class="result-sub truncate">' + escapeHtml(item.sublabel ?? '') + '</span>' +
+          '</button>';
+        }).join('') : (emptyLabel ? '<p class="note">' + escapeHtml(emptyLabel) + '</p>' : ''));
+    }
+
+    function getCoreMorphemeIds(word) {
+      return new Set((word.components ?? []).filter(isCoreComponent).map((component) => component.morpheme));
+    }
+
+    function getWordsSharingCoreRoots(activeWord) {
+      const coreMorphemeIds = getCoreMorphemeIds(activeWord);
+      if (!coreMorphemeIds.size) return [];
+
+      return words
+        .filter((word) => (word.components ?? []).some((component) => coreMorphemeIds.has(component.morpheme)))
+        .sort((a, b) => {
+          if (a.id === activeWord.id) return -1;
+          if (b.id === activeWord.id) return 1;
+          return a.word.localeCompare(b.word);
+        });
+    }
+
+    function getWordsUsingMorpheme(morphemeId) {
+      return words.filter((word) => (word.components ?? []).some((component) => component.morpheme === morphemeId));
+    }
+
+    function browsePanel(route) {
+      if (route.type === 'word') {
+        const activeWord = wordById.get(route.id);
+        const sameCoreRootWords = activeWord ? getWordsSharingCoreRoots(activeWord).slice(0, 10) : [];
+        return resultGroup(
+          'Same Core Root Words / 同核心词根词',
+          sameCoreRootWords.map((word) => ({ type: 'word', id: word.id, label: word.word, sublabel: word.pos })),
+          route,
+          ''
+        );
+      }
+
+      const activeMorpheme = morphemeById.get(route.id);
+      const wordsUsingMorpheme = activeMorpheme ? getWordsUsingMorpheme(activeMorpheme.id).slice(0, 10) : [];
+      const similarMorphemes = (activeMorpheme?.similar_form ?? [])
+        .map((id) => morphemeById.get(id))
+        .filter(Boolean)
+        .slice(0, 10);
+
+      return resultGroup(
+        'Words Using This Root / 使用该词根的词',
+        wordsUsingMorpheme.map((word) => ({ type: 'word', id: word.id, label: word.word, sublabel: word.pos })),
+        route,
+        ''
+      ) +
+      resultGroup(
+        'Similar-Looking Roots / 拼写相近词根',
+        similarMorphemes.map((morpheme) => ({ type: 'morpheme', id: morpheme.id, label: morpheme.display, sublabel: morpheme.type })),
+        route,
+        ''
+      );
+    }
+
+    function detailSection(title, body) {
+      return '<section class="detail"><h2>' + escapeHtml(title) + '</h2>' + body + '</section>';
+    }
+
+    function renderSearch(route) {
+      const query = searchInput.value;
+      document.getElementById('search-results').innerHTML = query
+        ? resultGroup('Word', searchWords(query).slice(0, 9).map((word) => ({ type: 'word', id: word.id, label: word.word, sublabel: word.zh })), route, 'No matching words') +
+          resultGroup('Morpheme', searchMorphemes(query).slice(0, 9).map((morpheme) => ({ type: 'morpheme', id: morpheme.id, label: morpheme.display, sublabel: morpheme.zh })), route, 'No matching morphemes')
+        : 'Type any word, root, prefix, suffix, English meaning, or Chinese gloss.';
+
+      document.getElementById('browse').innerHTML =
+        browsePanel(route);
+    }
+
+    function renderWord(word) {
+      const rows = word.components.map((component) => {
+        const source = getComponentSource(component);
+        return '<tr><td>' + routeButton('morpheme', component.morpheme, component.form) + '</td><td>' + escapeHtml(component.meaning_in_word) + '</td><td>' + escapeHtml(component.zh) + '</td><td>' + escapeHtml(source.form) + '</td><td>' + escapeHtml(source.meaning) + '</td></tr>';
+      }).join('');
+
+      const confusions = word.confusables.map((item) =>
+        '<div class="comparison">' + inlineWord(item.word) + '<span class="note"><span style="display:block">' + escapeHtml(getConfusionDescription(item)) + '</span><span style="display:block">' + escapeHtml(getConfusionReasonLine(word, item)) + '</span></span></div>'
+      ).join('');
+
+      const examples = word.examples.map((example) =>
+        '<blockquote><p>' + escapeHtml(example.en) + '</p><p class="zh">' + escapeHtml(example.zh) + '</p></blockquote>'
+      ).join('');
+      const phonetic = word.phonetic ? '<span class="meta phonetic">' + escapeHtml(word.phonetic) + '</span>' : '';
+      const freezeClass = freezeTopPane ? ' active' : '';
+
+      document.getElementById('detail').innerHTML =
+        '<div class="freeze-pane' + freezeClass + '">' +
+          wordFamilyTabs(word) +
+          '<header><h1>' + escapeHtml(word.word) + '<span class="meta">' + escapeHtml(word.pos) + '</span>' + phonetic + '</h1><p class="definition">' + escapeHtml(word.en) + ' <span class="zh">/ ' + escapeHtml(word.zh) + '</span></p></header>' +
+          detailSection('Word DNA / 构词拆解', '<div class="scroll"><table><colgroup><col class="dna-col-form"><col class="dna-col-meaning"><col class="dna-col-zh"><col class="dna-col-etymon"><col class="dna-col-etymon-meaning"></colgroup><thead><tr><th>Form</th><th>Meaning in this word</th><th>中文</th><th>Etymon / 源词根</th><th>Etymon Meaning / 源义</th></tr></thead><tbody>' + rows + '</tbody></table></div>') +
+        '</div>' +
+        detailSection('Root Families / 相关例词', rootFamilyLayout(word)) +
+        detailSection('Word Family / 派生词', wordFamilyRows(word)) +
+        detailSection('Common Confusions / 易混淆词', confusions) +
+        detailSection('Examples', examples);
+    }
+
+    function renderMorpheme(morpheme) {
+      const meanings = morpheme.senses.map((sense, index) =>
+        '<li class="sub-panel" style="margin-bottom:12px"><strong>' + (index + 1) + '. ' + escapeHtml(sense.meaning) + '</strong><span class="note"> ' + escapeHtml(sense.zh) + '</span><div style="margin-top:8px">' + wordList(sense.examples) + '</div></li>'
+      ).join('');
+      const connectedWords = words.filter((word) => word.components.some((component) => component.morpheme === morpheme.id)).map((word) => word.word);
+
+      document.getElementById('detail').innerHTML =
+        '<header><h1>' + escapeHtml(morpheme.display) + '<span class="meta">' + escapeHtml(morpheme.type) + '</span></h1><p class="definition">' + escapeHtml(morpheme.core_meaning) + '</p><p class="zh">' + escapeHtml(morpheme.zh) + '</p></header>' +
+        detailSection('Origin', '<p class="note">' + escapeHtml(morpheme.origin) + '</p>') +
+        detailSection('Top Meanings', '<ol style="margin:0;padding-left:22px">' + meanings + '</ol>') +
+        detailSection('Common Patterns', '<ul class="dense-list">' + (morpheme.patterns ?? []).map((item) => '<li>' + escapeHtml(item) + '</li>').join('') + '</ul>') +
+        detailSection('High-Value Words', wordList(morpheme.high_value_words)) +
+        '<div class="grid-2">' +
+          detailSection('Similar-Looking Roots', morphemeList(morpheme.similar_form)) +
+          detailSection('Meaning-Neighbor Roots', morphemeList(morpheme.similar_meaning)) +
+        '</div>' +
+        detailSection('Confusable Words', '<ul class="dense-list">' + (morpheme.confusable_words ?? []).map((item) => '<li>' + escapeHtml(item) + '</li>').join('') + '</ul>') +
+        detailSection('Connected Words', wordList(connectedWords));
+    }
+
+    function render() {
+      const route = getRoute();
+      renderSearch(route);
+      if (route.type === 'morpheme') renderMorpheme(morphemeById.get(route.id));
+      else renderWord(wordById.get(route.id));
+    }
+
+    document.addEventListener('click', (event) => {
+      const button = event.target.closest('[data-route]');
+      if (!button) return;
+      const [type, id] = button.dataset.route.split(':');
+      setRoute(type, id);
+    });
+
+    searchInput.addEventListener('input', render);
+    clearButton.addEventListener('click', () => {
+      searchInput.value = '';
+      render();
+      searchInput.focus();
+    });
+    freezeToggle.addEventListener('click', () => {
+      freezeTopPane = !freezeTopPane;
+      saveFreezeSetting(freezeTopPane);
+      updateFreezeToggle();
+      render();
+    });
+    window.addEventListener('hashchange', render);
+    if (!location.hash) location.hash = 'word/archaeology';
+    updateFreezeToggle();
+    render();
+  </script>
+</body>
+</html>

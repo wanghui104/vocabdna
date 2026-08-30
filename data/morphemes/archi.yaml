@@ -1,0 +1,28 @@
+id: archi
+display: archi-
+type: prefix
+core_meaning: chief / principal / master
+zh: 主要的；最高的；首要的
+origin: Greek arkhi- = chief, first, ruling
+senses:
+  - meaning: chief / principal
+    zh: 首要的
+    examples:
+      - architecture
+      - archipelago
+      - archbishop
+similar_form:
+  - arch
+  - archaeo
+  - arche
+similar_meaning:
+  - proto
+  - prim
+patterns:
+  - archi- can mark chief or principal status, but not every arch- word shares one modern meaning
+high_value_words:
+  - architecture
+  - archipelago
+confusable_words:
+  - architecture vs archaeology
+  - archipelago vs archetype

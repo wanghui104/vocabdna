@@ -1,0 +1,28 @@
+id: pomology
+word: pomology
+pos: noun
+phonetic: /poʊˈmɑːlədʒi/
+zh: 果树学；果实学
+en: the branch of botany concerned with fruit and fruit cultivation
+components:
+  - morpheme: pomo
+    form: pomo-
+    meaning_in_word: fruit
+    zh: 果实
+    role: combining_form
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / science of
+    zh: ……学；……研究
+    role: suffix
+word_family:
+  - pomological
+  - pomologist
+confusables:
+  - word: biology
+    reason: both are -logy fields, but pomo- narrows the domain to fruit.
+  - word: etymology
+    reason: the shared ending can hide very different first components.
+examples:
+  - en: Pomology studies fruit varieties and orchard practices.
+    zh: 果树学研究果实品种和果园栽培方法。

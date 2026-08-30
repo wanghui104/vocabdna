@@ -1,0 +1,29 @@
+id: etymology
+word: etymology
+pos: noun
+phonetic: /ˌetɪˈmɑːlədʒi/
+zh: 词源学
+en: the study of the origin and history of words
+components:
+  - morpheme: etymo
+    form: etymo-
+    meaning_in_word: true origin
+    zh: 真实来源；词源
+    role: combining_form
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / science of
+    zh: ……学；……研究
+    role: suffix
+word_family:
+  - etymological
+  - etymologist
+  - etymologically
+confusables:
+  - word: entomology
+    reason: one extra n changes etymo- word origins into entomo- insects.
+  - word: ecology
+    reason: both are -logy fields, but the first component is decisive.
+examples:
+  - en: Etymology can reveal old metaphors hidden inside modern words.
+    zh: 词源学能揭示现代词汇中隐藏的古老隐喻。

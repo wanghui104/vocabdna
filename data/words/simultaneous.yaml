@@ -1,0 +1,28 @@
+id: simultaneous
+word: simultaneous
+pos: adjective
+phonetic: /ˌsaɪməlˈteɪniəs/
+zh: 同时发生的
+en: happening or existing at the same time
+components:
+  - morpheme: simul
+    form: simul-
+    meaning_in_word: at the same time / together
+    zh: 同时；一起
+    role: root
+  - morpheme: aneous
+    form: -aneous
+    meaning_in_word: having the nature of
+    zh: 具有……性质的
+    role: suffix
+word_family:
+  - simultaneity
+  - simultaneously
+confusables:
+  - word: spontaneous
+    reason: both end in -aneous, but simul- means together while sponte means of one's own will.
+  - word: simulation
+    reason: similar spelling comes from simulare, to make like, not necessarily same-time action.
+examples:
+  - en: The two teams made simultaneous announcements.
+    zh: 两个团队同时发布了公告。

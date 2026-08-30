@@ -1,0 +1,31 @@
+id: lect
+display: lect-
+type: root
+core_meaning: gather / choose / read
+zh: 收集；选择；阅读
+origin: Latin legere, past participle lectus
+senses:
+  - meaning: gather / choose
+    zh: 收集；选择
+    examples:
+      - collect
+      - select
+      - elect
+  - meaning: read / speak
+    zh: 阅读；讲授
+    examples:
+      - lecture
+      - dialect
+similar_form:
+  - leg
+  - logy
+similar_meaning:
+  - leg
+patterns:
+  - con-/se-/e- + lect = gather, choose, or pick out
+high_value_words:
+  - collect
+  - select
+  - lecture
+confusable_words:
+  - lect- vs log-

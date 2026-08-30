@@ -1,0 +1,26 @@
+id: sponte
+display: sponte-
+type: root
+core_meaning: of one's own will
+zh: 自愿地；出于自身
+origin: Latin sponte = of one's own accord
+senses:
+  - meaning: own will / internal impulse
+    zh: 自愿；自发
+    examples:
+      - spontaneous
+      - spontaneously
+      - spontaneity
+similar_form:
+  - simul
+similar_meaning:
+  - volunt
+  - auto
+patterns:
+  - sponte- + -aneous = arising from itself or one's own impulse
+high_value_words:
+  - spontaneous
+  - spontaneity
+confusable_words:
+  - spontaneous vs simultaneous
+  - spontaneous vs voluntary

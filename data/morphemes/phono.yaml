@@ -1,0 +1,26 @@
+id: phono
+display: phon- / phono-
+type: combining form
+core_meaning: sound / voice
+zh: 声音；语音
+origin: Greek phone = sound, voice
+senses:
+  - meaning: sound / voice
+    zh: 声音；语音
+    examples:
+      - phonology
+      - telephone
+      - phonetics
+similar_form:
+  - physio
+similar_meaning:
+  - son
+  - voc
+patterns:
+  - phono- + -logy = study of sound systems
+high_value_words:
+  - phonology
+  - phonetics
+  - telephone
+confusable_words:
+  - phonology vs physiology

@@ -1,0 +1,24 @@
+id: antho
+display: antho-
+type: root
+core_meaning: flower
+zh: 花
+origin: Greek anthos = flower
+senses:
+  - meaning: flower
+    zh: 花
+    examples:
+      - anthology
+      - anther
+similar_form:
+  - entomo
+  - ana
+similar_meaning:
+  - flor
+patterns:
+  - antho- + collection path = gathered flowers, then collected writings
+high_value_words:
+  - anthology
+  - anthologist
+confusable_words:
+  - anthology vs analogy

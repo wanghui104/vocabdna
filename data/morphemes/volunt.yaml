@@ -1,0 +1,23 @@
+id: volunt
+display: volunt-
+type: root
+core_meaning: will / wish
+zh: 意愿；自愿
+origin: Latin voluntas = will
+senses:
+  - meaning: will / voluntary choice
+    zh: 意愿；自愿
+    examples:
+      - voluntary
+      - volunteer
+similar_form:
+  - violent
+similar_meaning:
+  - sponte
+patterns:
+  - volunt- words emphasize will or chosen action
+high_value_words:
+  - voluntary
+  - volunteer
+confusable_words:
+  - spontaneous vs voluntary

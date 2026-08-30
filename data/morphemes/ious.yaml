@@ -1,0 +1,27 @@
+id: ious
+display: -ious
+type: suffix
+core_meaning: full of / having quality of
+zh: 充满……的；具有……性质的
+origin: Latin adjective-forming suffix
+senses:
+  - meaning: full of / having
+    zh: 充满；具有
+    examples:
+      - curious
+      - anxious
+      - religious
+similar_form:
+  - eous
+  - aneous
+similar_meaning:
+  - ous
+  - ic
+patterns:
+  - noun or root + -ious = possessing a quality
+high_value_words:
+  - curious
+  - anxious
+  - religious
+confusable_words:
+  - curious vs courteous

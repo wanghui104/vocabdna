@@ -1,0 +1,23 @@
+id: entomo
+display: entomo-
+type: combining form
+core_meaning: insect
+zh: 昆虫
+origin: Greek entomon = insect, literally cut into sections
+senses:
+  - meaning: insect
+    zh: 昆虫
+    examples:
+      - entomology
+      - entomologist
+similar_form:
+  - etymo
+similar_meaning:
+  - insect
+patterns:
+  - entomo- + -logy = study of insects
+high_value_words:
+  - entomology
+  - entomologist
+confusable_words:
+  - entomology vs etymology

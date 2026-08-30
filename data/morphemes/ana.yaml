@@ -1,0 +1,30 @@
+id: ana
+display: ana-
+type: prefix
+core_meaning: up / back / again / according to
+zh: 向上；返回；再次；依照
+origin: Greek ana = up, back, again
+senses:
+  - meaning: according to / proportional relation
+    zh: 依照；比例关系
+    examples:
+      - analogy
+      - analogous
+  - meaning: back / again
+    zh: 返回；再次
+    examples:
+      - analysis
+      - anagram
+similar_form:
+  - anti
+  - ante
+similar_meaning:
+  - re
+patterns:
+  - ana- + logos path = relation or proportion in analogy
+high_value_words:
+  - analogy
+  - analysis
+  - analogous
+confusable_words:
+  - analogy vs anthology

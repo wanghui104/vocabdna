@@ -1,0 +1,25 @@
+id: morph
+display: morph-
+type: root
+core_meaning: form / shape
+zh: 形态；形状
+origin: Greek morphe = form
+senses:
+  - meaning: form / shape
+    zh: 形态；形状
+    examples:
+      - morphology
+      - metamorphosis
+      - morpheme
+similar_form:
+  - graph
+similar_meaning:
+  - form
+patterns:
+  - morph- + -logy = study of form or word structure
+high_value_words:
+  - morphology
+  - morpheme
+  - metamorphosis
+confusable_words:
+  - morphology vs phonology

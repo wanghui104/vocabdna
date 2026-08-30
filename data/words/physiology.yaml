@@ -1,0 +1,29 @@
+id: physiology
+word: physiology
+pos: noun
+phonetic: /ˌfɪziˈɑːlədʒi/
+zh: 生理学
+en: the study of how living bodies and their parts function
+components:
+  - morpheme: physio
+    form: physio-
+    meaning_in_word: nature / bodily function
+    zh: 自然；身体机能
+    role: combining_form
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / science of
+    zh: ……学；……研究
+    role: suffix
+word_family:
+  - physiological
+  - physiologist
+  - physiologically
+confusables:
+  - word: psychology
+    reason: psych- and physio- look and sound close, but mind and body function are different domains.
+  - word: biology
+    reason: physiology is a subdomain of biology focused on function.
+examples:
+  - en: Physiology explains how muscles, nerves, and organs work.
+    zh: 生理学解释肌肉、神经和器官如何工作。

@@ -1,0 +1,26 @@
+id: dia
+display: dia-
+type: prefix
+core_meaning: through / across / between
+zh: 穿过；跨越；相互之间
+origin: Greek dia = through, across
+senses:
+  - meaning: across / between
+    zh: 相互之间
+    examples:
+      - dialogue
+      - diameter
+      - diagnosis
+similar_form:
+  - dis
+similar_meaning:
+  - trans
+  - inter
+patterns:
+  - dia- + -logue = speech between sides
+high_value_words:
+  - dialogue
+  - diagnosis
+  - diameter
+confusable_words:
+  - dialogue vs monologue

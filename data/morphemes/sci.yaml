@@ -1,0 +1,27 @@
+id: sci
+display: sci-
+type: root
+core_meaning: know
+zh: 知道；知识
+origin: Latin scire = to know
+senses:
+  - meaning: know / knowledge
+    zh: 知道；知识
+    examples:
+      - science
+      - conscious
+      - omniscient
+similar_form:
+  - skep
+similar_meaning:
+  - gnos
+  - logy
+  - sophy
+patterns:
+  - con- + sci- = knowing with oneself
+high_value_words:
+  - science
+  - conscious
+  - omniscient
+confusable_words:
+  - science vs conscience

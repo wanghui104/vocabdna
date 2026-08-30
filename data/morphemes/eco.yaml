@@ -1,0 +1,25 @@
+id: eco
+display: eco-
+type: combining form
+core_meaning: house / environment
+zh: 家园；环境
+origin: Greek oikos = house, household
+senses:
+  - meaning: environment / household system
+    zh: 生态环境；家园系统
+    examples:
+      - ecology
+      - economy
+      - ecosystem
+similar_form:
+  - echo
+similar_meaning:
+  - habitat
+patterns:
+  - eco- + -logy = study of environmental relationships
+high_value_words:
+  - ecology
+  - ecosystem
+  - economy
+confusable_words:
+  - ecology vs economy

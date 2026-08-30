@@ -1,0 +1,25 @@
+id: proto
+display: proto-
+type: prefix
+core_meaning: first / earliest
+zh: 最初的；原始的
+origin: Greek protos = first
+senses:
+  - meaning: first / earliest
+    zh: 最初；原始
+    examples:
+      - prototype
+      - protocol
+      - protohistory
+similar_form:
+  - pro
+similar_meaning:
+  - arche
+  - prim
+patterns:
+  - proto- + type = first model
+high_value_words:
+  - prototype
+  - protocol
+confusable_words:
+  - prototype vs archetype

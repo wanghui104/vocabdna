@@ -1,0 +1,27 @@
+id: gnos
+display: gnos-
+type: root
+core_meaning: know
+zh: 知道；认识
+origin: Greek gignoskein = to know
+senses:
+  - meaning: know / recognize
+    zh: 认识；知道
+    examples:
+      - diagnosis
+      - prognosis
+      - agnostic
+similar_form:
+  - gon
+similar_meaning:
+  - sci
+  - sophy
+  - logy
+patterns:
+  - dia- + gnos- = know through, diagnose
+high_value_words:
+  - diagnosis
+  - prognosis
+  - agnostic
+confusable_words:
+  - prognosis vs diagnosis

@@ -1,0 +1,26 @@
+id: ist
+display: -ist
+type: suffix
+core_meaning: person who practices or specializes in
+zh: 从事……的人；专家
+origin: Greek -istes through Latin and French
+senses:
+  - meaning: specialist / practitioner
+    zh: 专家；从业者
+    examples:
+      - biologist
+      - geologist
+      - archaeologist
+similar_form:
+  - ism
+similar_meaning:
+  - er
+  - or
+patterns:
+  - field + -ist = person who studies or practices that field
+high_value_words:
+  - biologist
+  - geologist
+  - archaeologist
+confusable_words:
+  - -ist person vs -ism doctrine

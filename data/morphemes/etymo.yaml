@@ -1,0 +1,23 @@
+id: etymo
+display: etymo-
+type: combining form
+core_meaning: true origin
+zh: 真实来源；词源
+origin: Greek etymon = true sense of a word
+senses:
+  - meaning: true source of a word
+    zh: 词源
+    examples:
+      - etymology
+      - etymological
+similar_form:
+  - entomo
+similar_meaning:
+  - origin
+patterns:
+  - etymo- + -logy = study of word origins
+high_value_words:
+  - etymology
+  - etymological
+confusable_words:
+  - etymology vs entomology

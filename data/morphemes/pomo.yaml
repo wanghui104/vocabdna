@@ -1,0 +1,23 @@
+id: pomo
+display: pomo-
+type: combining form
+core_meaning: fruit
+zh: 果实
+origin: Latin pomum = fruit
+senses:
+  - meaning: fruit
+    zh: 果实
+    examples:
+      - pomology
+      - pomologist
+similar_form:
+  - pomo
+similar_meaning:
+  - fruct
+patterns:
+  - pomo- + -logy = study of fruit cultivation
+high_value_words:
+  - pomology
+  - pomologist
+confusable_words:
+  - pomology vs biology

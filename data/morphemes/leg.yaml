@@ -1,0 +1,30 @@
+id: leg
+display: leg-
+type: root
+core_meaning: gather / read / choose; law in another line
+zh: 收集；阅读；选择；法律
+origin: Latin legere = gather, choose, read; lex = law
+senses:
+  - meaning: read / choose
+    zh: 阅读；选择
+    examples:
+      - lecture
+      - eligible
+  - meaning: law
+    zh: 法律
+    examples:
+      - legal
+      - legislation
+similar_form:
+  - logy
+  - lect
+similar_meaning:
+  - lect
+patterns:
+  - leg- and lect- are related variants in many read/gather words
+high_value_words:
+  - legal
+  - eligible
+  - lecture
+confusable_words:
+  - leg- vs log-

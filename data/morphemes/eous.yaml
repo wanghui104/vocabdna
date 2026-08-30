@@ -1,0 +1,25 @@
+id: eous
+display: -eous
+type: suffix
+core_meaning: full of / characterized by
+zh: 充满……的；具有……性质的
+origin: Latin adjective-forming suffix -eus
+senses:
+  - meaning: characterized by
+    zh: 具有……性质
+    examples:
+      - courageous
+      - erroneous
+similar_form:
+  - aneous
+  - ious
+similar_meaning:
+  - ous
+  - ic
+patterns:
+  - root + -eous = having the quality of the root
+high_value_words:
+  - courageous
+  - erroneous
+confusable_words:
+  - -aneous vs -eous

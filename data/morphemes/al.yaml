@@ -1,0 +1,26 @@
+id: al
+display: -al
+type: suffix
+core_meaning: relating to
+zh: 与……有关的
+origin: Latin adjective-forming suffix -alis
+senses:
+  - meaning: relating to
+    zh: 与……有关
+    examples:
+      - biological
+      - geological
+      - logical
+similar_form:
+  - ical
+  - ic
+similar_meaning:
+  - ous
+patterns:
+  - noun + -al = adjective relating to the noun
+high_value_words:
+  - logical
+  - biological
+  - geological
+confusable_words:
+  - logical vs biological

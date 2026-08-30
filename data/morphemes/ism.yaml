@@ -1,0 +1,25 @@
+id: ism
+display: -ism
+type: suffix
+core_meaning: doctrine / practice / condition
+zh: 主义；做法；状态
+origin: Greek -ismos through Latin
+senses:
+  - meaning: doctrine / practice
+    zh: 主义；实践
+    examples:
+      - realism
+      - archaism
+      - mechanism
+similar_form:
+  - ist
+similar_meaning:
+  - doctrine
+patterns:
+  - root + -ism = system, doctrine, practice, or condition
+high_value_words:
+  - realism
+  - archaism
+  - mechanism
+confusable_words:
+  - -ism doctrine vs -ist person

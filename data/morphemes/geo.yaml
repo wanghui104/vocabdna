@@ -1,0 +1,27 @@
+id: geo
+display: geo-
+type: combining form
+core_meaning: earth / land
+zh: 地球；土地
+origin: Greek ge = earth
+senses:
+  - meaning: earth / land
+    zh: 地球；土地
+    examples:
+      - geology
+      - geography
+      - geometry
+similar_form:
+  - gen
+  - graph
+similar_meaning:
+  - terr
+patterns:
+  - geo- + -logy = study of earth
+  - geo- + -graphy = description or mapping of earth
+high_value_words:
+  - geology
+  - geography
+  - geometry
+confusable_words:
+  - geology vs geography

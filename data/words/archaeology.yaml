@@ -1,0 +1,45 @@
+id: archaeology
+word: archaeology
+pos: noun
+phonetic: /ˌɑːrkiˈɑːlədʒi/
+zh: 考古学
+en: the study of ancient human history through remains
+components:
+  - morpheme: archaeo
+    form: archaeo-
+    meaning_in_word: ancient / old
+    zh: 古代的
+    role: combining_form
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / science of
+    zh: ……学；……研究
+    role: suffix
+word_family:
+  - archaeological
+  - archaeologist
+  - archaeologically
+word_family_details:
+  - word: archaeological
+    en: relating to archaeology or ancient remains
+    zh: 考古学的
+  - word: archaeologist
+    en: a person who studies archaeology
+    zh: 考古学家
+  - word: archaeologically
+    en: in a way related to archaeology
+    zh: 以考古学方式
+confusables:
+  - word: architecture
+    reason: archaeo- and archi-/arch- look similar, but their meanings differ.
+    zh_reason: 两词都以 arch- 视觉开头，但 archaeology 的 archaeo- 是“古代”，architecture 的 archi-/tect- 指向“建筑/建造”。
+  - word: archetype
+    reason: similar opening form, but arche- points to first model or original pattern.
+    zh_reason: archetype 和 archaeology 开头相似，但 arche- 是“最初/原型”，不是“古代遗存研究”。
+  - word: archipelago
+    reason: similar spelling shape, unrelated meaning path.
+    zh_reason: archipelago 只是拼写轮廓相近，核心路径是 pelago“海”，和 archaeology 的 archaeo- + -logy 无关。
+why_confusing: archaeo- looks close to arch-/archi-, but archaeo- means ancient, while arch-/archi- can mean chief, master, principal, or building-related craft.
+examples:
+  - en: Archaeology helps us understand ancient civilizations.
+    zh: 考古学帮助我们理解古代文明。

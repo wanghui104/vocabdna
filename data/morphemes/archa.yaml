@@ -1,0 +1,24 @@
+id: archa
+display: archa-
+type: root
+core_meaning: old / ancient
+zh: 古旧的；早期的
+origin: Greek arkhaios = ancient
+senses:
+  - meaning: old / ancient
+    zh: 古旧
+    examples:
+      - archaic
+      - archaism
+similar_form:
+  - archaeo
+  - arche
+similar_meaning:
+  - paleo
+patterns:
+  - archa- + adjective suffix = old-fashioned or early-period
+high_value_words:
+  - archaic
+  - archaism
+confusable_words:
+  - archaic vs archetype

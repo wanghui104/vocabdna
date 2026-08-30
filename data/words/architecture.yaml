@@ -1,0 +1,34 @@
+id: architecture
+word: architecture
+pos: noun
+phonetic: /ˈɑːrkɪˌtektʃər/
+zh: 建筑学；建筑风格；系统结构
+en: the art, practice, or style of designing buildings or systems
+components:
+  - morpheme: archi
+    form: archi-
+    meaning_in_word: chief / master
+    zh: 主要的；高阶的
+    role: prefix
+  - morpheme: tect
+    form: -tect-
+    meaning_in_word: build / construct
+    zh: 建造
+    role: root
+  - morpheme: ure
+    form: -ure
+    meaning_in_word: result / state
+    zh: 结果；状态
+    role: suffix
+word_family:
+  - architectural
+  - architect
+  - architectonic
+confusables:
+  - word: archaeology
+    reason: archi-/arch- resembles archaeo-, but architecture is about building and design.
+  - word: archetype
+    reason: both begin with arch-like letters, yet archetype is about an original model.
+examples:
+  - en: The architecture of the library balances stone and light.
+    zh: 这座图书馆的建筑设计平衡了石材与光线。

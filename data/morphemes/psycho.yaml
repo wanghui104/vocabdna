@@ -1,0 +1,27 @@
+id: psycho
+display: psych-
+type: combining form
+core_meaning: mind / soul
+zh: 心灵；心理
+origin: Greek psyche = soul, mind
+senses:
+  - meaning: mind / mental life
+    zh: 心理；心灵
+    examples:
+      - psychology
+      - psychological
+      - psychiatry
+similar_form:
+  - physio
+similar_meaning:
+  - ment
+  - anim
+patterns:
+  - psych- + -logy = study of mind and behavior
+high_value_words:
+  - psychology
+  - psychological
+  - psychologist
+confusable_words:
+  - psychology vs physiology
+  - psychology vs psychiatry

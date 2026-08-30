@@ -1,0 +1,28 @@
+id: dialogue
+word: dialogue
+pos: noun
+phonetic: /ˈdaɪəlɔːɡ/
+zh: 对话；交流
+en: conversation between two or more people
+components:
+  - morpheme: dia
+    form: dia-
+    meaning_in_word: through / across / between
+    zh: 穿过；相互之间
+    role: prefix
+  - morpheme: log
+    form: -logue
+    meaning_in_word: speech / discourse
+    zh: 话语；言说
+    role: root
+word_family:
+  - dialogic
+  - dialogical
+confusables:
+  - word: monologue
+    reason: mono- marks one speaker; dia- marks speech moving between sides.
+  - word: prologue
+    reason: the -logue ending is shared, but pro- changes the function.
+examples:
+  - en: Real dialogue requires listening, not just taking turns.
+    zh: 真正的对话需要倾听，而不只是轮流说话。

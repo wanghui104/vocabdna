@@ -1,0 +1,33 @@
+id: arch
+display: arch-
+type: root
+core_meaning: chief / ruler; also arch shape in separate paths
+zh: 统治者；首要；拱形
+origin: Greek arkhos = ruler; Latin arcus = bow or arch in a separate line
+senses:
+  - meaning: chief / ruler
+    zh: 统治者；首要
+    examples:
+      - monarchy
+      - hierarchy
+  - meaning: arch / curve
+    zh: 拱形
+    examples:
+      - arch
+      - arcade
+similar_form:
+  - archaeo
+  - archi
+  - arche
+similar_meaning:
+  - crat
+  - prim
+patterns:
+  - arch- is a high-risk visual root because similar spellings can come from different histories
+high_value_words:
+  - hierarchy
+  - monarchy
+  - arch
+confusable_words:
+  - arch- chief vs arch as curve
+  - archaeology vs architecture

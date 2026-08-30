@@ -1,0 +1,53 @@
+id: logy
+display: -logy
+type: suffix
+core_meaning: study of / science of; speech or reason in some words
+zh: ……学；……研究；话语；理性
+origin: Greek logos = word, reason, discourse
+source_meaning_zh: 词；理性；话语
+senses:
+  - meaning: study / science of
+    zh: ……学
+    examples:
+      - biology
+      - geology
+      - archaeology
+      - pomology
+      - etymology
+      - entomology
+      - psychology
+      - physiology
+      - ecology
+  - meaning: speech / discourse / word
+    zh: 话语；言说
+    examples:
+      - monologue
+      - dialogue
+      - prologue
+  - meaning: reason / relation
+    zh: 理性；关系
+    examples:
+      - logic
+      - analogy
+similar_form:
+  - logo
+  - log
+  - leg
+  - lect
+similar_meaning:
+  - sophy
+  - sci
+  - gnos
+patterns:
+  - X + -logy = the study of X
+  - prefix + -logue = a kind of speech or discourse
+high_value_words:
+  - biology
+  - geology
+  - psychology
+  - physiology
+  - etymology
+confusable_words:
+  - etymology vs entomology
+  - psychology vs physiology
+  - analogy vs anthology

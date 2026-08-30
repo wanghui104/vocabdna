@@ -1,0 +1,28 @@
+id: monologue
+word: monologue
+pos: noun
+phonetic: /ˈmɑːnəlɔːɡ/
+zh: 独白；长篇独说
+en: a long speech by one person
+components:
+  - morpheme: mono
+    form: mono-
+    meaning_in_word: one / single
+    zh: 单一的
+    role: prefix
+  - morpheme: log
+    form: -logue
+    meaning_in_word: speech / discourse
+    zh: 话语；言说
+    role: root
+word_family:
+  - monologic
+  - monologuist
+confusables:
+  - word: dialogue
+    reason: mono- means one while dia- means across or between.
+  - word: prologue
+    reason: both end in -logue, but pro- places speech before the main work.
+examples:
+  - en: The actor opened the play with a quiet monologue.
+    zh: 演员以一段安静的独白开场。

@@ -1,0 +1,28 @@
+id: entomology
+word: entomology
+pos: noun
+phonetic: /ˌentəˈmɑːlədʒi/
+zh: 昆虫学
+en: the scientific study of insects
+components:
+  - morpheme: entomo
+    form: entomo-
+    meaning_in_word: insect
+    zh: 昆虫
+    role: combining_form
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / science of
+    zh: ……学；……研究
+    role: suffix
+word_family:
+  - entomological
+  - entomologist
+confusables:
+  - word: etymology
+    reason: entomo- and etymo- differ by one letter but point to insects versus word origins.
+  - word: biology
+    reason: entomology is within life science but specifically insects.
+examples:
+  - en: Entomology includes the study of bees, beetles, and butterflies.
+    zh: 昆虫学包括对蜜蜂、甲虫和蝴蝶的研究。

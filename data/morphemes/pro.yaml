@@ -1,0 +1,30 @@
+id: pro
+display: pro-
+type: prefix
+core_meaning: before / forward / in favor of
+zh: 在前；向前；支持
+origin: Greek and Latin pro = before, forward, for
+senses:
+  - meaning: before / forward
+    zh: 在前；向前
+    examples:
+      - prologue
+      - proceed
+      - promote
+  - meaning: in favor of
+    zh: 支持
+    examples:
+      - pro-democracy
+similar_form:
+  - proto
+similar_meaning:
+  - pre
+  - fore
+patterns:
+  - pro- + -logue = speech before the main work
+high_value_words:
+  - prologue
+  - proceed
+  - promote
+confusable_words:
+  - prologue vs epilogue

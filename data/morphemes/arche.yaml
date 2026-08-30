@@ -1,0 +1,27 @@
+id: arche
+display: arche-
+type: root
+core_meaning: first / original / beginning
+zh: 最初；原型；开端
+origin: Greek arche = beginning, origin, first principle
+senses:
+  - meaning: first / original model
+    zh: 原型；最初模型
+    examples:
+      - archetype
+      - archetypal
+similar_form:
+  - archaeo
+  - arch
+  - archi
+similar_meaning:
+  - proto
+  - prim
+patterns:
+  - arche- + type = original model
+high_value_words:
+  - archetype
+  - archetypal
+confusable_words:
+  - archetype vs archaeology
+  - archetype vs architecture

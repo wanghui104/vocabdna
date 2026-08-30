@@ -1,0 +1,25 @@
+id: theo
+display: theo-
+type: combining form
+core_meaning: god / deity
+zh: 神；神灵
+origin: Greek theos = god
+senses:
+  - meaning: god / deity
+    zh: 神
+    examples:
+      - theology
+      - theosophy
+      - atheist
+similar_form:
+  - theo
+similar_meaning:
+  - div
+patterns:
+  - theo- + -logy = study of religious belief or God
+high_value_words:
+  - theology
+  - atheist
+  - theosophy
+confusable_words:
+  - theology vs theosophy

@@ -1,0 +1,29 @@
+id: analogy
+word: analogy
+pos: noun
+phonetic: /əˈnælədʒi/
+zh: 类比；相似关系
+en: a comparison based on a similarity of relations
+components:
+  - morpheme: ana
+    form: ana-
+    meaning_in_word: up / back / according to
+    zh: 向上；返回；依照
+    role: prefix
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: relation / reasoned proportion
+    zh: 关系；理性比例
+    role: root
+word_family:
+  - analogous
+  - analogical
+  - analogically
+confusables:
+  - word: logic
+    reason: both connect to logos, but analogy is comparison, not logic as a discipline.
+  - word: anthology
+    reason: similar ending shape, but anthology comes from flowers and collection.
+examples:
+  - en: She explained memory with an analogy to a library catalogue.
+    zh: 她用图书馆目录的类比来解释记忆。

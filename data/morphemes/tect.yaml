@@ -1,0 +1,26 @@
+id: tect
+display: -tect-
+type: root
+core_meaning: build / construct
+zh: 建造；构筑
+origin: Greek tekton = builder, carpenter
+senses:
+  - meaning: build / builder
+    zh: 建造
+    examples:
+      - architecture
+      - architect
+      - tectonic
+similar_form:
+  - techn
+similar_meaning:
+  - struct
+  - fabr
+patterns:
+  - archi- + -tect- = master builder
+high_value_words:
+  - architecture
+  - architect
+  - tectonic
+confusable_words:
+  - architecture vs archaeology

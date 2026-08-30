@@ -1,0 +1,25 @@
+id: nomy
+display: -nomy
+type: suffix
+core_meaning: arrangement / law / management
+zh: 法则；管理；体系
+origin: Greek nomos = law, custom, arrangement
+senses:
+  - meaning: law / system
+    zh: 法则；体系
+    examples:
+      - astronomy
+      - taxonomy
+      - economy
+similar_form:
+  - mono
+similar_meaning:
+  - law
+patterns:
+  - X + -nomy = ordered system or management of X
+high_value_words:
+  - economy
+  - taxonomy
+  - astronomy
+confusable_words:
+  - ecology vs economy

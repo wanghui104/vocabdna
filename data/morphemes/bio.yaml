@@ -1,0 +1,28 @@
+id: bio
+display: bio-
+type: combining form
+core_meaning: life
+zh: 生命；生物
+origin: Greek bios = life
+senses:
+  - meaning: life
+    zh: 生命
+    examples:
+      - biology
+      - biography
+      - biosphere
+similar_form:
+  - bi
+  - biblio
+similar_meaning:
+  - viv
+  - zo
+patterns:
+  - bio- + -logy = study of life
+high_value_words:
+  - biology
+  - biography
+  - biosphere
+confusable_words:
+  - biology vs biography
+  - biology vs physiology

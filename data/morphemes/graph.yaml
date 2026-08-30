@@ -1,0 +1,26 @@
+id: graph
+display: -graph-
+type: root
+core_meaning: write / record / draw
+zh: 写；记录；绘制
+origin: Greek graphein = to write
+senses:
+  - meaning: write / record
+    zh: 写；记录
+    examples:
+      - biography
+      - geography
+      - monograph
+similar_form:
+  - gram
+similar_meaning:
+  - scrib
+  - script
+patterns:
+  - X + -graphy = writing, mapping, or description of X
+high_value_words:
+  - biography
+  - geography
+  - monograph
+confusable_words:
+  - geology vs geography

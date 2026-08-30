@@ -1,0 +1,27 @@
+id: prim
+display: prim-
+type: root
+core_meaning: first
+zh: 第一；首要
+origin: Latin primus = first
+senses:
+  - meaning: first / chief
+    zh: 第一；首要
+    examples:
+      - primary
+      - primitive
+      - prime
+similar_form:
+  - pro
+similar_meaning:
+  - proto
+  - arche
+  - archi
+patterns:
+  - prim- marks firstness or basic status
+high_value_words:
+  - primary
+  - primitive
+  - prime
+confusable_words:
+  - primary vs primitive

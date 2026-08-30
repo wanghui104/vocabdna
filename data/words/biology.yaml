@@ -1,0 +1,29 @@
+id: biology
+word: biology
+pos: noun
+phonetic: /baɪˈɑːlədʒi/
+zh: 生物学
+en: the scientific study of living things
+components:
+  - morpheme: bio
+    form: bio-
+    meaning_in_word: life
+    zh: 生命
+    role: combining_form
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / science of
+    zh: ……学；……研究
+    role: suffix
+word_family:
+  - biological
+  - biologist
+  - biologically
+confusables:
+  - word: geology
+    reason: both use -logy; bio- means life while geo- means earth.
+  - word: physiology
+    reason: both concern living systems, but physiology focuses on function.
+examples:
+  - en: Biology connects chemistry with the behavior of living organisms.
+    zh: 生物学把化学与生物体行为联系起来。

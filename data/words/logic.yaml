@@ -1,0 +1,24 @@
+id: logic
+word: logic
+pos: noun
+phonetic: /ˈlɑːdʒɪk/
+zh: 逻辑；推理体系
+en: reasoning conducted according to valid principles
+components:
+  - morpheme: logic
+    form: logic
+    meaning_in_word: reason / ordered thought
+    zh: 理性；推理
+    role: root
+word_family:
+  - logical
+  - logically
+  - logician
+confusables:
+  - word: logy
+    reason: -logy often means study of, while logic is the noun for reasoning itself.
+  - word: analogy
+    reason: analogy uses ana- plus -logy/logos to compare relations, not formal logic alone.
+examples:
+  - en: The logic of the argument depends on one hidden premise.
+    zh: 这个论证的逻辑依赖一个隐藏前提。

@@ -1,0 +1,26 @@
+id: syn
+display: syn- / sym-
+type: prefix
+core_meaning: together / with
+zh: 一起；共同
+origin: Greek syn = together, with
+senses:
+  - meaning: together / with
+    zh: 一起；共同
+    examples:
+      - synthesis
+      - sympathy
+      - synchronize
+similar_form:
+  - simul
+similar_meaning:
+  - simul
+  - co
+patterns:
+  - syn- changes to sym- before some consonants
+high_value_words:
+  - synthesis
+  - sympathy
+  - synchronize
+confusable_words:
+  - sympathy vs empathy

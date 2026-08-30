@@ -1,0 +1,26 @@
+id: co
+display: co- / con-
+type: prefix
+core_meaning: together / with
+zh: 一起；共同
+origin: Latin com- = with, together
+senses:
+  - meaning: together / jointly
+    zh: 一起；共同
+    examples:
+      - cooperate
+      - connect
+      - collect
+similar_form:
+  - contra
+similar_meaning:
+  - syn
+  - simul
+patterns:
+  - com- adapts to con-, col-, cor-, or co- before different sounds
+high_value_words:
+  - cooperate
+  - connect
+  - collect
+confusable_words:
+  - cooperate vs coordinate

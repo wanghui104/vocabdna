@@ -1,0 +1,29 @@
+id: psychology
+word: psychology
+pos: noun
+phonetic: /saɪˈkɑːlədʒi/
+zh: 心理学
+en: the scientific study of mind and behavior
+components:
+  - morpheme: psycho
+    form: psycho-
+    meaning_in_word: mind / soul
+    zh: 心灵；心理
+    role: combining_form
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / science of
+    zh: ……学；……研究
+    role: suffix
+word_family:
+  - psychological
+  - psychologist
+  - psychologically
+confusables:
+  - word: physiology
+    reason: psychology studies mind and behavior; physiology studies bodily function.
+  - word: psychiatry
+    reason: both start psych-, but psychiatry is medical treatment of mental illness.
+examples:
+  - en: Psychology studies how people remember, decide, and feel.
+    zh: 心理学研究人如何记忆、决策和感受。

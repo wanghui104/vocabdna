@@ -1,0 +1,43 @@
+id: archaeological
+word: archaeological
+pos: adjective
+phonetic: /ˌɑːrkiəˈlɑːdʒɪkəl/
+zh: 考古学的
+en: relating to archaeology or ancient remains
+components:
+  - morpheme: archaeo
+    form: archaeo-
+    meaning_in_word: ancient / old
+    zh: 古代的
+    role: combining_form
+  - morpheme: logy
+    form: -log-
+    meaning_in_word: study / discourse
+    zh: 研究；学科
+    role: root
+  - morpheme: ical
+    form: -ical
+    meaning_in_word: relating to
+    zh: 与……有关的
+    role: suffix
+word_family:
+  - archaeology
+  - archaeologist
+  - archaeologically
+word_family_details:
+  - word: archaeology
+    en: the study of ancient human history through remains
+    zh: 考古学
+  - word: archaeologist
+    en: a person who studies archaeology
+    zh: 考古学家
+  - word: archaeologically
+    en: in an archaeological way
+    zh: 以考古学方式
+confusables:
+  - word: architectural
+    reason: archaeological concerns ancient remains; architectural concerns buildings or design.
+    zh_reason: 两词都带 arch- 开头和 -al/-ical 形容词外形，但 archaeological 指考古遗存，architectural 指建筑设计。
+examples:
+  - en: The site contains archaeological evidence of trade.
+    zh: 该遗址包含贸易活动的考古证据。

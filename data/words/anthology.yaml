@@ -1,0 +1,28 @@
+id: anthology
+word: anthology
+pos: noun
+phonetic: /ænˈθɑːlədʒi/
+zh: 选集；文选
+en: a published collection of selected writings
+components:
+  - morpheme: antho
+    form: antho-
+    meaning_in_word: flower
+    zh: 花
+    role: root
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: collection / gathering
+    zh: 收集；汇集
+    role: root
+word_family:
+  - anthological
+  - anthologist
+confusables:
+  - word: analogy
+    reason: the ending looks alike, but anthology is a gathered collection, not comparison.
+  - word: etymology
+    reason: both end in -logy-like spelling but have different historical paths.
+examples:
+  - en: The course begins with an anthology of modern essays.
+    zh: 这门课从一本现代散文选集开始。

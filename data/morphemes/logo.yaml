@@ -1,0 +1,24 @@
+id: logo
+display: logo-
+type: root
+core_meaning: word / sign / reason
+zh: 词；标记；理性
+origin: Greek logos = word, reason
+senses:
+  - meaning: word / sign
+    zh: 词；标记
+    examples:
+      - logo
+      - logotype
+similar_form:
+  - logy
+  - log
+similar_meaning:
+  - sign
+patterns:
+  - logo- often points to word or sign, not automatically a field of study
+high_value_words:
+  - logo
+  - logotype
+confusable_words:
+  - logo vs -logy

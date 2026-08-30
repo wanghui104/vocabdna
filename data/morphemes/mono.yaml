@@ -1,0 +1,26 @@
+id: mono
+display: mono-
+type: prefix
+core_meaning: one / single
+zh: 单一；一个
+origin: Greek monos = alone, single
+senses:
+  - meaning: one / single
+    zh: 一个；单一
+    examples:
+      - monologue
+      - monopoly
+      - monograph
+similar_form:
+  - nomo
+similar_meaning:
+  - uni
+  - sol
+patterns:
+  - mono- + -logue = speech by one person
+high_value_words:
+  - monologue
+  - monopoly
+  - monograph
+confusable_words:
+  - monologue vs dialogue

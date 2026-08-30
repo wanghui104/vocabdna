@@ -1,0 +1,27 @@
+id: simul
+display: simul-
+type: root
+core_meaning: at the same time / together
+zh: 同时；一起
+origin: Latin simul = at the same time
+senses:
+  - meaning: same time / together
+    zh: 同时；一起
+    examples:
+      - simultaneous
+      - simultaneously
+      - simultaneity
+similar_form:
+  - simil
+  - sponte
+similar_meaning:
+  - syn
+  - co
+patterns:
+  - simul- + -aneous = happening at the same time
+high_value_words:
+  - simultaneous
+  - simultaneously
+confusable_words:
+  - simultaneous vs spontaneous
+  - simultaneous vs simulation

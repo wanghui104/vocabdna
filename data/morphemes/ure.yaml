@@ -1,0 +1,26 @@
+id: ure
+display: -ure
+type: suffix
+core_meaning: result / state / process
+zh: 结果；状态；过程
+origin: Latin noun-forming suffix -ura
+senses:
+  - meaning: result / state
+    zh: 结果；状态
+    examples:
+      - architecture
+      - structure
+      - closure
+similar_form:
+  - or
+  - er
+similar_meaning:
+  - tion
+patterns:
+  - verb or root + -ure = result or state
+high_value_words:
+  - architecture
+  - structure
+  - closure
+confusable_words:
+  - architecture vs architect

@@ -1,0 +1,25 @@
+id: sophy
+display: -sophy
+type: suffix
+core_meaning: wisdom / knowledge
+zh: 智慧；知识体系
+origin: Greek sophia = wisdom
+senses:
+  - meaning: wisdom / knowledge system
+    zh: 智慧；知识体系
+    examples:
+      - philosophy
+      - theosophy
+similar_form:
+  - soph
+similar_meaning:
+  - logy
+  - sci
+  - gnos
+patterns:
+  - X + -sophy = wisdom or system of thought about X
+high_value_words:
+  - philosophy
+  - theosophy
+confusable_words:
+  - philosophy vs philology

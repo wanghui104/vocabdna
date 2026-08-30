@@ -1,0 +1,24 @@
+id: pelago
+display: -pelago
+type: root
+core_meaning: sea
+zh: 海
+origin: Greek pelagos = sea
+senses:
+  - meaning: sea
+    zh: 海
+    examples:
+      - archipelago
+      - pelagic
+similar_form:
+  - paleo
+similar_meaning:
+  - mare
+  - thalass
+patterns:
+  - archi- + pelago = principal sea, later group of islands
+high_value_words:
+  - archipelago
+  - pelagic
+confusable_words:
+  - archipelago vs archetype

@@ -1,0 +1,27 @@
+id: aneous
+display: -aneous
+type: suffix
+core_meaning: having the nature of / characterized by
+zh: 具有……性质的
+origin: Latin adjective-forming ending through -aneus
+senses:
+  - meaning: having the nature of
+    zh: 具有……性质
+    examples:
+      - simultaneous
+      - spontaneous
+      - extraneous
+similar_form:
+  - eous
+  - ious
+similar_meaning:
+  - al
+  - ic
+patterns:
+  - root + -aneous = characterized by the root idea
+high_value_words:
+  - simultaneous
+  - spontaneous
+  - extraneous
+confusable_words:
+  - simultaneous vs spontaneous

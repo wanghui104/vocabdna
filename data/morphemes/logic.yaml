@@ -1,0 +1,27 @@
+id: logic
+display: logic
+type: root
+core_meaning: reason / ordered thought
+zh: 逻辑；理性推理
+origin: Greek logike = art of reasoning
+senses:
+  - meaning: reason / ordered thought
+    zh: 理性；推理
+    examples:
+      - logic
+      - logical
+      - logician
+similar_form:
+  - logy
+  - log
+similar_meaning:
+  - ratio
+  - reason
+patterns:
+  - logic + -al = relating to reasoned order
+high_value_words:
+  - logic
+  - logical
+  - logician
+confusable_words:
+  - logic vs analogy
