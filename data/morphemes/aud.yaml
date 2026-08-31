@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aud
+display: aud
+type: root
+core_meaning: hear
+zh: 听
+origin: Latin
+senses:
+  - meaning: hear
+    zh: 听
+    examples:
+      - audible
+      - audience
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - aud / -ible -> audible
+  - aud -> audience
+high_value_words:
+  - audible
+  - audience
+confusable_words:
+  []

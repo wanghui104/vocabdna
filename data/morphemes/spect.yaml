@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spect
+display: spect
+type: root
+core_meaning: look, see
+zh: 看
+origin: Latin
+senses:
+  - meaning: look, see
+    zh: 看
+    examples:
+      - spectacle
+      - inspect
+      - respect
+      - microscope
+      - telescope
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - spect -> spectacle
+  - spect -> inspect
+  - spect -> respect
+  - scope- -> microscope
+  - scope- -> telescope
+high_value_words:
+  - spectacle
+  - inspect
+  - respect
+  - microscope
+  - telescope
+confusable_words:
+  []

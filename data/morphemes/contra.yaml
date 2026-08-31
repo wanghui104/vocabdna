@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contra
+display: contra-
+type: prefix
+core_meaning: against, opposite
+zh: 反对、相反
+origin: Latin
+senses:
+  - meaning: against, opposite
+    zh: 反对、相反
+    examples:
+      - contradict
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - contra- -> contradict
+high_value_words:
+  - contradict
+confusable_words:
+  []

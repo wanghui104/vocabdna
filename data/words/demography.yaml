@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: demography
+word: demography
+pos: noun
+zh: 人口统计学
+en: the study of populations and their structure
+components:
+  - morpheme: demo
+    form: demo-
+    meaning_in_word: people
+    zh: 人民、人群
+    role: combining_form
+    is_core: true
+  - morpheme: graph
+    form: graphy-
+    meaning_in_word: writing, recording
+    zh: 写、记录
+    role: combining_form
+    is_core: true
+word_family:
+  - demographic
+  - biography
+  - autograph
+word_family_details:
+  - word: demographic
+    en: related form of demographic
+    zh: demographic 的相关词
+  - word: biography
+    en: a written account of someone's life
+    zh: 传记
+  - word: autograph
+    en: a person's own signature
+    zh: 亲笔签名
+confusables:
+  - word: democracy
+    reason: demography 是人口研究；democracy 是民主制度。
+    zh_reason: demography 是人口研究；democracy 是民主制度。
+examples:
+  - en: Demography helps planners understand population change.
+    zh: 人口统计学帮助规划者理解人口变化。
+why_confusing: demography 是人口研究；democracy 是民主制度。

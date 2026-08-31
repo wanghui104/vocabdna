@@ -250,7 +250,7 @@ function parseYaml(raw: string): RawRecord {
   const lines = raw
     .replace(/\r\n/g, '\n')
     .split('\n')
-    .map((line) => line.replace(/\s+#.*$/, ''))
+    .map((line) => line.replace(/(^|\s+)#.*$/, ''))
     .filter((line) => line.trim())
     .map((line) => ({
       indent: line.match(/^ */)?.[0].length ?? 0,
@@ -264,6 +264,9 @@ function parseBlock(lines: Line[], index: number, indent: number) {
   const line = lines[index];
   if (!line || line.indent < indent) {
     return { value: null, index };
+  }
+  if (line.text === '[]') {
+    return { value: [], index: index + 1 };
   }
   if (line.text.startsWith('- ')) {
     return parseArray(lines, index, line.indent);

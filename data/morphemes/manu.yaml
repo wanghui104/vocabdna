@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: manu
+display: manu
+type: root
+core_meaning: hand
+zh: 手
+origin: Latin
+senses:
+  - meaning: hand
+    zh: 手
+    examples:
+      - manufacture
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - manu -> manufacture
+high_value_words:
+  - manufacture
+confusable_words:
+  []

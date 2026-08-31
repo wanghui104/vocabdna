@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contradict
+word: contradict
+pos: verb
+zh: 反驳；与……矛盾
+en: to say the opposite of something or be inconsistent with it
+components:
+  - morpheme: contra
+    form: contra-
+    meaning_in_word: against
+    zh: 反对、相反
+    role: prefix
+    is_core: false
+  - morpheme: dict
+    form: dict
+    meaning_in_word: say
+    zh: 说、宣告
+    role: root
+    is_core: true
+word_family:
+  - contradiction
+  - contradictory
+  - dictate
+  - predict
+word_family_details:
+  - word: contradiction
+    en: related form of contradiction
+    zh: contradiction 的相关词
+  - word: contradictory
+    en: related form of contradictory
+    zh: contradictory 的相关词
+  - word: dictate
+    en: to say words for someone to write down or to command
+    zh: 口述；命令；决定
+  - word: predict
+    en: to say what will happen before it happens
+    zh: 预测；预言
+confusables:
+  - word: contrast
+    reason: contradict 是矛盾/反驳；contrast 是对比。
+    zh_reason: contradict 是矛盾/反驳；contrast 是对比。
+examples:
+  - en: The second report contradicts the first.
+    zh: 第二份报告与第一份报告矛盾。
+why_confusing: contradict 是矛盾/反驳；contrast 是对比。

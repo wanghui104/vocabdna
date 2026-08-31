@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: de
+display: de-
+type: prefix
+core_meaning: down, away, undo
+zh: 向下、离开、取消
+origin: Latin
+senses:
+  - meaning: down, away, undo
+    zh: 向下、离开、取消
+    examples:
+      - destruct
+      - dismiss
+      - describe
+      - deduct
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - de- -> destruct
+  - dis- -> dismiss
+  - de- -> describe
+  - de- -> deduct
+high_value_words:
+  - destruct
+  - dismiss
+  - describe
+  - deduct
+confusable_words:
+  []

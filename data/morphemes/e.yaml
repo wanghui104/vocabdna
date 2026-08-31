@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: e
+display: e-
+type: prefix
+core_meaning: out, from
+zh: 出、向外
+origin: Latin
+senses:
+  - meaning: out, from
+    zh: 出、向外
+    examples:
+      - export
+      - eject
+      - exceed
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ex- -> export
+  - e- -> eject
+  - ex- -> exceed
+high_value_words:
+  - export
+  - eject
+  - exceed
+confusable_words:
+  []

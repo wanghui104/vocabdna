@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: audience
+word: audience
+pos: noun
+zh: 观众；听众；受众
+en: the people who listen to or watch something
+components:
+  - morpheme: aud
+    form: aud
+    meaning_in_word: hear
+    zh: 听
+    role: root
+    is_core: true
+word_family:
+  - audible
+word_family_details:
+  - word: audible
+    en: able to be heard
+    zh: 听得见的
+confusables:
+  - word: audition
+    reason: audience 是受众；audition 是试镜/试听。
+    zh_reason: audience 是受众；audition 是试镜/试听。
+examples:
+  - en: The speaker knew her audience well.
+    zh: 演讲者很了解她的听众。
+why_confusing: audience 是受众；audition 是试镜/试听。

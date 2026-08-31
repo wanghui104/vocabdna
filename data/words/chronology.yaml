@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chronology
+word: chronology
+pos: noun
+zh: 年代顺序；年表
+en: the order of events in time
+components:
+  - morpheme: chron
+    form: chrono-
+    meaning_in_word: time
+    zh: 时间
+    role: combining_form
+    is_core: true
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of
+    zh: 学科、研究
+    role: suffix
+    is_core: false
+word_family:
+  - chronological
+  - synchronize
+word_family_details:
+  - word: chronological
+    en: related form of chronological
+    zh: chronological 的相关词
+  - word: synchronize
+    en: to make things happen at the same time
+    zh: 使同步
+confusables:
+  - word: chronicle
+    reason: chronology 是时间顺序；chronicle 是编年记录。
+    zh_reason: chronology 是时间顺序；chronicle 是编年记录。
+examples:
+  - en: The report gives a clear chronology of events.
+    zh: 报告给出了清晰的事件时间顺序。
+why_confusing: chronology 是时间顺序；chronicle 是编年记录。

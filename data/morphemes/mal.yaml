@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mal
+display: mal
+type: root
+core_meaning: bad, evil
+zh: 坏、恶
+origin: Latin
+senses:
+  - meaning: bad, evil
+    zh: 坏、恶
+    examples:
+      - malevolent
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - male -> malevolent
+high_value_words:
+  - malevolent
+confusable_words:
+  []

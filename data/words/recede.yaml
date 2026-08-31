@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: recede
+word: recede
+pos: verb
+zh: 后退；退去
+en: to move back or become more distant
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: excess-ceed
+    form: cede
+    meaning_in_word: go
+    zh: 走、前进、让步
+    role: root
+    is_core: true
+word_family:
+  - recession
+  - proceed
+  - exceed
+  - succeed
+word_family_details:
+  - word: recession
+    en: related form of recession
+    zh: recession 的相关词
+  - word: proceed
+    en: to continue or move forward
+    zh: 继续进行；前进
+  - word: exceed
+    en: to be greater than a limit or expectation
+    zh: 超过；超出
+  - word: succeed
+    en: to achieve success or come after someone
+    zh: 成功；继承；接替
+confusables:
+  - word: recede
+    reason: recede 是退去；reseed 是重新播种。
+    zh_reason: recede 是退去；reseed 是重新播种。
+  - word: reseed
+    reason: recede 是退去；reseed 是重新播种。
+    zh_reason: recede 是退去；reseed 是重新播种。
+examples:
+  - en: The floodwater began to recede.
+    zh: 洪水开始退去。
+why_confusing: recede 是退去；reseed 是重新播种。

@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inscription
+word: inscription
+pos: noun
+zh: 铭文；题词
+en: words written or carved on something
+components:
+  - morpheme: im
+    form: in-
+    meaning_in_word: in, on
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+  - morpheme: scrib
+    form: script
+    meaning_in_word: write
+    zh: 写
+    role: root
+    is_core: true
+word_family:
+  - inscribe
+  - subscribe
+  - describe
+word_family_details:
+  - word: inscribe
+    en: related form of inscribe
+    zh: inscribe 的相关词
+  - word: subscribe
+    en: to sign up for or agree with an idea
+    zh: 订阅；同意
+  - word: describe
+    en: to say or write what something is like
+    zh: 描述
+confusables:
+  - word: subscription
+    reason: inscription 是铭文；subscription 是订阅。
+    zh_reason: inscription 是铭文；subscription 是订阅。
+examples:
+  - en: The ring has a short inscription inside.
+    zh: 戒指内侧有一段短题词。
+why_confusing: inscription 是铭文；subscription 是订阅。

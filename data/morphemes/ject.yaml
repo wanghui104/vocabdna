@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ject
+display: ject
+type: root
+core_meaning: throw
+zh: 投、扔
+origin: Latin
+senses:
+  - meaning: throw
+    zh: 投、扔
+    examples:
+      - eject
+      - inject
+      - project
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ject -> eject
+  - ject -> inject
+  - ject -> project
+high_value_words:
+  - eject
+  - inject
+  - project
+confusable_words:
+  []

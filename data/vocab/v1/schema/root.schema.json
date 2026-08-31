@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://vocabdna.local/schema/root.schema.json",
+  "title": "VocabDNA Root Entry",
+  "type": "object",
+  "required": [
+    "id",
+    "slug",
+    "forms",
+    "type",
+    "origin",
+    "meaning",
+    "status",
+    "learning"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^root:[a-z0-9-]+$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "forms": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "type": {
+      "type": "string",
+      "enum": ["prefix", "root", "suffix", "combiningForm"]
+    },
+    "origin": {
+      "type": "string",
+      "enum": ["Latin", "Greek", "Old English", "French", "Mixed", "Unknown"]
+    },
+    "meaning": {
+      "type": "object",
+      "required": ["zh", "en"],
+      "additionalProperties": false,
+      "properties": {
+        "zh": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "published"]
+    },
+    "learning": {
+      "type": "object",
+      "required": ["coreImage", "notes"],
+      "additionalProperties": false,
+      "properties": {
+        "coreImage": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "relatedRootIds": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^root:[a-z0-9-]+$"
+      },
+      "uniqueItems": true
+    }
+  }
+}
+

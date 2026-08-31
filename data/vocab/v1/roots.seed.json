@@ -1,0 +1,770 @@
+{
+  "$schema": "./schema/roots-file.schema.json",
+  "version": "vocab-data-v1",
+  "roots": [
+    {
+      "id": "root:ad",
+      "slug": "ad",
+      "forms": [
+        "ad",
+        "ac",
+        "af",
+        "ag",
+        "al",
+        "an",
+        "ap",
+        "ar",
+        "as",
+        "at"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "去、向、靠近",
+        "en": "to, toward"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "动作朝某个目标靠近。",
+        "notes": "常因后接辅音发生同化。"
+      }
+    },
+    {
+      "id": "root:art",
+      "slug": "art",
+      "forms": [
+        "art"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "技艺、技巧",
+        "en": "skill, craft"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "被技巧做出来的东西。",
+        "notes": "artifact 中强调人工制作。"
+      }
+    },
+    {
+      "id": "root:aud",
+      "slug": "aud",
+      "forms": [
+        "aud",
+        "audit"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "听",
+        "en": "hear"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "声音进入耳朵。",
+        "notes": "audience 原指听的人。"
+      }
+    },
+    {
+      "id": "root:be",
+      "slug": "be",
+      "forms": [
+        "be"
+      ],
+      "type": "prefix",
+      "origin": "Old English",
+      "meaning": {
+        "zh": "使成为、加强",
+        "en": "make, intensify"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把状态施加到对象上。",
+        "notes": "在 befriend、belittle 等词中常改变动词方向。"
+      }
+    },
+    {
+      "id": "root:bene",
+      "slug": "bene",
+      "forms": [
+        "bene"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "好、善",
+        "en": "good, well"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "正向、有益的力量。",
+        "notes": "和 mal 构成常见反义组。"
+      }
+    },
+    {
+      "id": "root:bio",
+      "slug": "bio",
+      "forms": [
+        "bio"
+      ],
+      "type": "combiningForm",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "生命",
+        "en": "life"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "生命体与生命经历。",
+        "notes": "常见于科学词和人物书写。"
+      }
+    },
+    {
+      "id": "root:chron",
+      "slug": "chron",
+      "forms": [
+        "chron",
+        "chrono"
+      ],
+      "type": "combiningForm",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "时间",
+        "en": "time"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "沿时间顺序排列。",
+        "notes": "chronology, synchronize 都和时间关系有关。"
+      }
+    },
+    {
+      "id": "root:con",
+      "slug": "con",
+      "forms": [
+        "con",
+        "com",
+        "col",
+        "cor",
+        "co"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "共同、一起、加强",
+        "en": "with, together"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "多个东西合到一起。",
+        "notes": "常因后接音发生同化。"
+      }
+    },
+    {
+      "id": "root:contra",
+      "slug": "contra",
+      "forms": [
+        "contra",
+        "counter"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "反对、相反",
+        "en": "against, opposite"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "力量朝相反方向顶回去。",
+        "notes": "contradict 是说法互相冲突。"
+      }
+    },
+    {
+      "id": "root:de",
+      "slug": "de",
+      "forms": [
+        "de"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "向下、离开、取消",
+        "en": "down, away, undo"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把东西拆下或拿走。",
+        "notes": "在 describe 中不是取消义，需要按词源解释。"
+      }
+    },
+    {
+      "id": "root:demo",
+      "slug": "demo",
+      "forms": [
+        "demo"
+      ],
+      "type": "combiningForm",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "人民、人群",
+        "en": "people"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "一群人作为统计或政治主体。",
+        "notes": "demography 是人群分布研究。"
+      }
+    },
+    {
+      "id": "root:dict",
+      "slug": "dict",
+      "forms": [
+        "dict"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "说、宣告",
+        "en": "say, speak"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把话说出来并形成判断。",
+        "notes": "predict, contradict, dictate 都是说法方向不同。"
+      }
+    },
+    {
+      "id": "root:duc",
+      "slug": "duc",
+      "forms": [
+        "duc",
+        "duct"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "引导、带领",
+        "en": "lead"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "带着某物沿路径走。",
+        "notes": "produce/reduce/conduct 的方向由前缀决定。"
+      }
+    },
+    {
+      "id": "root:e",
+      "slug": "e",
+      "forms": [
+        "e",
+        "ex",
+        "ef"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "出、向外",
+        "en": "out, from"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "东西从内部出来。",
+        "notes": "export, eject, exceed 都含向外或越出的感觉。"
+      }
+    },
+    {
+      "id": "root:excess-ceed",
+      "slug": "ceed-cess",
+      "forms": [
+        "ceed",
+        "cess",
+        "cede"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "走、前进、让步",
+        "en": "go, yield"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "沿路径走到某处。",
+        "notes": "proceed, exceed, succeed, recede 形成方向组。"
+      }
+    },
+    {
+      "id": "root:fac",
+      "slug": "fac",
+      "forms": [
+        "fac",
+        "fact",
+        "fic",
+        "fect"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "做、制造",
+        "en": "make, do"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "用行动把东西做出来。",
+        "notes": "manufacture, benefactor, artifact 都接近制作/行为。"
+      }
+    },
+    {
+      "id": "root:graph",
+      "slug": "graph",
+      "forms": [
+        "graph",
+        "gram"
+      ],
+      "type": "combiningForm",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "写、记录",
+        "en": "write, record"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把信息写下来留下痕迹。",
+        "notes": "autograph, biography 中都指书写记录。"
+      }
+    },
+    {
+      "id": "root:im",
+      "slug": "im",
+      "forms": [
+        "im",
+        "in",
+        "il",
+        "ir"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "进入、向内；不、否定",
+        "en": "in, into; not"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "进入内部，或作为否定前缀。",
+        "notes": "import 是进入；invisible 是否定。"
+      }
+    },
+    {
+      "id": "root:ject",
+      "slug": "ject",
+      "forms": [
+        "ject"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "投、扔",
+        "en": "throw"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把东西抛向某个方向。",
+        "notes": "eject, inject, project 由前缀决定方向。"
+      }
+    },
+    {
+      "id": "root:logy",
+      "slug": "logy",
+      "forms": [
+        "logy",
+        "ology"
+      ],
+      "type": "suffix",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "学科、研究",
+        "en": "study of"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把对象作为系统来研究。",
+        "notes": "常接在 Greek combining form 后。"
+      }
+    },
+    {
+      "id": "root:mal",
+      "slug": "mal",
+      "forms": [
+        "mal",
+        "male"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "坏、恶",
+        "en": "bad, evil"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "负向、有害的力量。",
+        "notes": "常和 bene 形成清晰对照。"
+      }
+    },
+    {
+      "id": "root:manu",
+      "slug": "manu",
+      "forms": [
+        "manu"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "手",
+        "en": "hand"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "用手加工或操作。",
+        "notes": "manufacture 原是手工制作。"
+      }
+    },
+    {
+      "id": "root:micro",
+      "slug": "micro",
+      "forms": [
+        "micro"
+      ],
+      "type": "combiningForm",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "小、微小",
+        "en": "small"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把视野缩到很小的尺度。",
+        "notes": "microscope 是看小物的工具。"
+      }
+    },
+    {
+      "id": "root:mit",
+      "slug": "mit-miss",
+      "forms": [
+        "mit",
+        "miss"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "送、放出",
+        "en": "send, let go"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把东西发送出去。",
+        "notes": "transmit, dismiss, permit 属同一核心。"
+      }
+    },
+    {
+      "id": "root:per",
+      "slug": "per",
+      "forms": [
+        "per"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "穿过、完全",
+        "en": "through, completely"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "从一端穿过到另一端。",
+        "notes": "permit 可理解为让某事通过。"
+      }
+    },
+    {
+      "id": "root:phon",
+      "slug": "phon",
+      "forms": [
+        "phon",
+        "phone"
+      ],
+      "type": "combiningForm",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "声音",
+        "en": "sound, voice"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "声音本身。",
+        "notes": "phonetic, symphony 都与声音有关。"
+      }
+    },
+    {
+      "id": "root:port",
+      "slug": "port",
+      "forms": [
+        "port"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "携带、运输",
+        "en": "carry"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把东西带到别处。",
+        "notes": "transport/import/export 是方向组。"
+      }
+    },
+    {
+      "id": "root:pre",
+      "slug": "pre",
+      "forms": [
+        "pre"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "预先、在前",
+        "en": "before"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "事情发生前先出现。",
+        "notes": "predict 是事前说出。"
+      }
+    },
+    {
+      "id": "root:pro",
+      "slug": "pro",
+      "forms": [
+        "pro"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "向前、公开、代替",
+        "en": "forward, forth, for"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "往前推出。",
+        "notes": "project, proceed, produce 中都可见向前感。"
+      }
+    },
+    {
+      "id": "root:re",
+      "slug": "re",
+      "forms": [
+        "re"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "回、再、反向",
+        "en": "back, again"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "动作回到原处或再次发生。",
+        "notes": "revise, revert, recede 都是回向。"
+      }
+    },
+    {
+      "id": "root:scrib",
+      "slug": "scrib-script",
+      "forms": [
+        "scrib",
+        "script"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "写",
+        "en": "write"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把内容写成文字。",
+        "notes": "describe, subscribe, inscription 是书写方向组。"
+      }
+    },
+    {
+      "id": "root:spect",
+      "slug": "spect",
+      "forms": [
+        "spect",
+        "spec",
+        "spic"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "看",
+        "en": "look, see"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "用眼睛观察。",
+        "notes": "inspect, respect, spectacle 视角不同。"
+      }
+    },
+    {
+      "id": "root:struct",
+      "slug": "struct",
+      "forms": [
+        "struct"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "建造、排列",
+        "en": "build, arrange"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把部件堆叠成结构。",
+        "notes": "construct/destruct 是建与拆的方向组。"
+      }
+    },
+    {
+      "id": "root:sub",
+      "slug": "sub",
+      "forms": [
+        "sub",
+        "suc",
+        "suf",
+        "sup",
+        "sus"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "在下、靠近、从属",
+        "en": "under, near"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "放在下面或接近某物。",
+        "notes": "subscribe 是在下面写名，引申订阅。"
+      }
+    },
+    {
+      "id": "root:syn",
+      "slug": "syn",
+      "forms": [
+        "syn",
+        "sym",
+        "syl"
+      ],
+      "type": "prefix",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "共同、一起",
+        "en": "together"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "多个元素同步发生。",
+        "notes": "symphony, synchronize 都含共同性。"
+      }
+    },
+    {
+      "id": "root:tele",
+      "slug": "tele",
+      "forms": [
+        "tele"
+      ],
+      "type": "combiningForm",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "远",
+        "en": "far"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "距离被拉远。",
+        "notes": "telescope 是看远物的工具。"
+      }
+    },
+    {
+      "id": "root:trans",
+      "slug": "trans",
+      "forms": [
+        "trans"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "横越、穿过、转移",
+        "en": "across, through"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "从一边越到另一边。",
+        "notes": "transport, transmit 都是跨越传递。"
+      }
+    },
+    {
+      "id": "root:vert",
+      "slug": "vert",
+      "forms": [
+        "vert",
+        "vers"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "转、转向",
+        "en": "turn"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "方向发生转动。",
+        "notes": "convert, revert, avert 是转向组。"
+      }
+    },
+    {
+      "id": "root:vis",
+      "slug": "vis",
+      "forms": [
+        "vis",
+        "vid"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "看、可见",
+        "en": "see"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "被看见或重新看。",
+        "notes": "visible, revise 共用视觉核心。"
+      }
+    },
+    {
+      "id": "root:vol",
+      "slug": "vol",
+      "forms": [
+        "vol",
+        "volunt"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "愿望、意志",
+        "en": "will, wish"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "内心愿意做某事。",
+        "notes": "benevolent/malevolent 是善意和恶意。"
+      }
+    }
+  ]
+}

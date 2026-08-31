@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: con
+display: con-
+type: prefix
+core_meaning: with, together
+zh: 共同、一起、加强
+origin: Latin
+senses:
+  - meaning: with, together
+    zh: 共同、一起、加强
+    examples:
+      - construct
+      - convert
+      - conduct
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - con- -> construct
+  - con- -> convert
+  - con- -> conduct
+high_value_words:
+  - construct
+  - convert
+  - conduct
+confusable_words:
+  []

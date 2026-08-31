@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spectacle
+word: spectacle
+pos: noun
+zh: 壮观场面；景象
+en: an impressive public sight or display
+components:
+  - morpheme: spect
+    form: spect
+    meaning_in_word: look
+    zh: 看
+    role: root
+    is_core: true
+word_family:
+  - spectacular
+  - inspect
+  - respect
+word_family_details:
+  - word: spectacular
+    en: related form of spectacular
+    zh: spectacular 的相关词
+  - word: inspect
+    en: to look at something carefully
+    zh: 检查；视察
+  - word: respect
+    en: to regard someone or something with care or honor
+    zh: 尊重；方面
+confusables:
+  - word: spectacles
+    reason: spectacle 可指场面；spectacles 可指眼镜。
+    zh_reason: spectacle 可指场面；spectacles 可指眼镜。
+examples:
+  - en: The parade was a colorful spectacle.
+    zh: 游行是一场色彩斑斓的壮观景象。
+why_confusing: spectacle 可指场面；spectacles 可指眼镜。

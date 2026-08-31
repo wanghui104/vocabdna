@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bene
+display: bene
+type: root
+core_meaning: good, well
+zh: 好、善
+origin: Latin
+senses:
+  - meaning: good, well
+    zh: 好、善
+    examples:
+      - benevolent
+      - benefactor
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bene -> benevolent
+  - bene -> benefactor
+high_value_words:
+  - benevolent
+  - benefactor
+confusable_words:
+  []

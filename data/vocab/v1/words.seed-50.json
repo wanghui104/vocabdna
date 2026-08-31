@@ -1,0 +1,3062 @@
+{
+  "$schema": "./schema/words-file.schema.json",
+  "version": "vocab-data-v1",
+  "words": [
+    {
+      "id": "word:construct",
+      "slug": "construct",
+      "term": "construct",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "build",
+          "zh": "建造；构建",
+          "en": "to build or put parts together",
+          "example": {
+            "en": "Engineers construct a bridge from many smaller parts.",
+            "zh": "工程师用许多小部件建造一座桥。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "con",
+          "type": "prefix",
+          "meaning": "together",
+          "rootId": "root:con"
+        },
+        {
+          "form": "struct",
+          "type": "root",
+          "meaning": "build",
+          "rootId": "root:struct"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:struct"
+      ],
+      "relations": {
+        "derivatives": [
+          "construction",
+          "constructive"
+        ],
+        "sameFamily": [
+          "destruct"
+        ],
+        "confusables": [
+          "constitute"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把部件放到一起形成结构。",
+        "memoryHook": "con + struct = together + build。",
+        "watchOut": "construct 强调建造；constitute 强调构成。"
+      },
+      "tags": [
+        "pilot-50",
+        "structure"
+      ]
+    },
+    {
+      "id": "word:destruct",
+      "slug": "destruct",
+      "term": "destruct",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "destroy",
+          "zh": "破坏；摧毁",
+          "en": "to damage or destroy a structure",
+          "example": {
+            "en": "The device is designed to self-destruct.",
+            "zh": "这个装置被设计为自毁。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "de",
+          "type": "prefix",
+          "meaning": "down, undo",
+          "rootId": "root:de"
+        },
+        {
+          "form": "struct",
+          "type": "root",
+          "meaning": "build",
+          "rootId": "root:struct"
+        }
+      ],
+      "rootIds": [
+        "root:de",
+        "root:struct"
+      ],
+      "relations": {
+        "derivatives": [
+          "destruction",
+          "destructive"
+        ],
+        "sameFamily": [
+          "construct"
+        ],
+        "confusables": [
+          "destroy"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把已建成的结构拆掉。",
+        "memoryHook": "de 把 struct 拆下来。",
+        "watchOut": "destruct 较正式或技术化；destroy 更常用。"
+      },
+      "tags": [
+        "pilot-50",
+        "structure"
+      ]
+    },
+    {
+      "id": "word:transport",
+      "slug": "transport",
+      "term": "transport",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "carry across",
+          "zh": "运输；运送",
+          "en": "to carry people or goods from one place to another",
+          "example": {
+            "en": "Trains transport passengers across the city.",
+            "zh": "火车把乘客运送穿过城市。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "trans",
+          "type": "prefix",
+          "meaning": "across",
+          "rootId": "root:trans"
+        },
+        {
+          "form": "port",
+          "type": "root",
+          "meaning": "carry",
+          "rootId": "root:port"
+        }
+      ],
+      "rootIds": [
+        "root:trans",
+        "root:port"
+      ],
+      "relations": {
+        "derivatives": [
+          "transportation"
+        ],
+        "sameFamily": [
+          "import",
+          "export"
+        ],
+        "confusables": [
+          "transfer"
+        ]
+      },
+      "learning": {
+        "coreIdea": "跨地点携带。",
+        "memoryHook": "trans + port = carry across。",
+        "watchOut": "transport 偏运输；transfer 偏转移位置或权限。"
+      },
+      "tags": [
+        "pilot-50",
+        "movement"
+      ]
+    },
+    {
+      "id": "word:import",
+      "slug": "import",
+      "term": "import",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "bring in",
+          "zh": "进口；引入",
+          "en": "to bring goods or data into a place or system",
+          "example": {
+            "en": "The company imports coffee from Brazil.",
+            "zh": "这家公司从巴西进口咖啡。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "im",
+          "type": "prefix",
+          "meaning": "in",
+          "rootId": "root:im"
+        },
+        {
+          "form": "port",
+          "type": "root",
+          "meaning": "carry",
+          "rootId": "root:port"
+        }
+      ],
+      "rootIds": [
+        "root:im",
+        "root:port"
+      ],
+      "relations": {
+        "derivatives": [
+          "importer",
+          "important"
+        ],
+        "sameFamily": [
+          "export",
+          "transport"
+        ],
+        "confusables": [
+          "important"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把东西带进来。",
+        "memoryHook": "im + port = carry in。",
+        "watchOut": "import 和 important 形近但词源路径不同。"
+      },
+      "tags": [
+        "pilot-50",
+        "movement"
+      ]
+    },
+    {
+      "id": "word:export",
+      "slug": "export",
+      "term": "export",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "send out",
+          "zh": "出口；导出",
+          "en": "to send goods or data out of a place or system",
+          "example": {
+            "en": "The app can export your notes as a PDF.",
+            "zh": "这个应用可以把笔记导出为 PDF。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ex",
+          "type": "prefix",
+          "meaning": "out",
+          "rootId": "root:e"
+        },
+        {
+          "form": "port",
+          "type": "root",
+          "meaning": "carry",
+          "rootId": "root:port"
+        }
+      ],
+      "rootIds": [
+        "root:e",
+        "root:port"
+      ],
+      "relations": {
+        "derivatives": [
+          "exporter"
+        ],
+        "sameFamily": [
+          "import",
+          "transport"
+        ],
+        "confusables": [
+          "exploit"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把东西带出去。",
+        "memoryHook": "ex + port = carry out。",
+        "watchOut": "export 是输出；exploit 是利用或剥削。"
+      },
+      "tags": [
+        "pilot-50",
+        "movement"
+      ]
+    },
+    {
+      "id": "word:benevolent",
+      "slug": "benevolent",
+      "term": "benevolent",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "well-wishing",
+          "zh": "仁慈的；善意的",
+          "en": "kind and wishing to do good",
+          "example": {
+            "en": "The fund was created by a benevolent donor.",
+            "zh": "这项基金由一位仁慈的捐赠者创立。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "bene",
+          "type": "root",
+          "meaning": "good",
+          "rootId": "root:bene"
+        },
+        {
+          "form": "vol",
+          "type": "root",
+          "meaning": "will",
+          "rootId": "root:vol"
+        }
+      ],
+      "rootIds": [
+        "root:bene",
+        "root:vol"
+      ],
+      "relations": {
+        "derivatives": [
+          "benevolence"
+        ],
+        "sameFamily": [
+          "benefactor",
+          "malevolent"
+        ],
+        "confusables": [
+          "beneficial"
+        ]
+      },
+      "learning": {
+        "coreIdea": "心里愿意做好事。",
+        "memoryHook": "bene + vol = good will。",
+        "watchOut": "benevolent 是态度仁慈；beneficial 是结果有益。"
+      },
+      "tags": [
+        "pilot-50",
+        "character"
+      ]
+    },
+    {
+      "id": "word:malevolent",
+      "slug": "malevolent",
+      "term": "malevolent",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "ill-wishing",
+          "zh": "恶意的；狠毒的",
+          "en": "having or showing a wish to harm others",
+          "example": {
+            "en": "The rumor had a malevolent purpose.",
+            "zh": "这个谣言带有恶意目的。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "male",
+          "type": "root",
+          "meaning": "bad",
+          "rootId": "root:mal"
+        },
+        {
+          "form": "vol",
+          "type": "root",
+          "meaning": "will",
+          "rootId": "root:vol"
+        }
+      ],
+      "rootIds": [
+        "root:mal",
+        "root:vol"
+      ],
+      "relations": {
+        "derivatives": [
+          "malevolence"
+        ],
+        "sameFamily": [
+          "benevolent"
+        ],
+        "confusables": [
+          "malignant"
+        ]
+      },
+      "learning": {
+        "coreIdea": "心里怀着坏意图。",
+        "memoryHook": "mal + vol = bad will。",
+        "watchOut": "malevolent 强调意图；malignant 常用于恶性或有害性质。"
+      },
+      "tags": [
+        "pilot-50",
+        "character"
+      ]
+    },
+    {
+      "id": "word:benefactor",
+      "slug": "benefactor",
+      "term": "benefactor",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "helper",
+          "zh": "恩人；捐助者",
+          "en": "a person who gives help, especially money",
+          "example": {
+            "en": "The school thanked its benefactor publicly.",
+            "zh": "学校公开感谢了它的捐助者。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "bene",
+          "type": "root",
+          "meaning": "good",
+          "rootId": "root:bene"
+        },
+        {
+          "form": "fact",
+          "type": "root",
+          "meaning": "do, make",
+          "rootId": "root:fac"
+        },
+        {
+          "form": "or",
+          "type": "suffix",
+          "meaning": "person who",
+          "rootId": "root:fac",
+          "note": "agent suffix placeholder until suffix catalog is expanded"
+        }
+      ],
+      "rootIds": [
+        "root:bene",
+        "root:fac"
+      ],
+      "relations": {
+        "derivatives": [
+          "benefaction"
+        ],
+        "sameFamily": [
+          "benevolent",
+          "manufacture"
+        ],
+        "confusables": [
+          "beneficiary"
+        ]
+      },
+      "learning": {
+        "coreIdea": "做善事的人。",
+        "memoryHook": "bene + fact + or = good-doing person。",
+        "watchOut": "benefactor 给帮助；beneficiary 接受好处。"
+      },
+      "tags": [
+        "pilot-50",
+        "character"
+      ]
+    },
+    {
+      "id": "word:manufacture",
+      "slug": "manufacture",
+      "term": "manufacture",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "make by process",
+          "zh": "制造；生产",
+          "en": "to make goods, often in large quantities",
+          "example": {
+            "en": "The factory manufactures medical equipment.",
+            "zh": "这家工厂制造医疗设备。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "manu",
+          "type": "root",
+          "meaning": "hand",
+          "rootId": "root:manu"
+        },
+        {
+          "form": "fact",
+          "type": "root",
+          "meaning": "make",
+          "rootId": "root:fac"
+        }
+      ],
+      "rootIds": [
+        "root:manu",
+        "root:fac"
+      ],
+      "relations": {
+        "derivatives": [
+          "manufacturer"
+        ],
+        "sameFamily": [
+          "benefactor",
+          "artifact"
+        ],
+        "confusables": [
+          "produce"
+        ]
+      },
+      "learning": {
+        "coreIdea": "从手工制作引申为工业制造。",
+        "memoryHook": "manu + fact = make by hand。",
+        "watchOut": "manufacture 强调生产过程；produce 更宽泛。"
+      },
+      "tags": [
+        "pilot-50",
+        "making"
+      ]
+    },
+    {
+      "id": "word:artifact",
+      "slug": "artifact",
+      "term": "artifact",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "made object",
+          "zh": "人工制品；文物",
+          "en": "an object made by humans, often of historical interest",
+          "example": {
+            "en": "The museum displayed an ancient artifact.",
+            "zh": "博物馆展出了一件古代文物。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "art",
+          "type": "root",
+          "meaning": "skill",
+          "rootId": "root:art"
+        },
+        {
+          "form": "fact",
+          "type": "root",
+          "meaning": "make",
+          "rootId": "root:fac"
+        }
+      ],
+      "rootIds": [
+        "root:art",
+        "root:fac"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [
+          "manufacture",
+          "benefactor"
+        ],
+        "confusables": [
+          "article"
+        ]
+      },
+      "learning": {
+        "coreIdea": "由技艺做出来的东西。",
+        "memoryHook": "art + fact = skill-made object。",
+        "watchOut": "artifact 是人工制品；article 是文章或物品。"
+      },
+      "tags": [
+        "pilot-50",
+        "making"
+      ]
+    },
+    {
+      "id": "word:dictate",
+      "slug": "dictate",
+      "term": "dictate",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "say with authority",
+          "zh": "口述；命令；决定",
+          "en": "to say words for someone to write down or to command",
+          "example": {
+            "en": "The policy will dictate how data is stored.",
+            "zh": "这项政策将决定数据如何存储。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "dict",
+          "type": "root",
+          "meaning": "say",
+          "rootId": "root:dict"
+        }
+      ],
+      "rootIds": [
+        "root:dict"
+      ],
+      "relations": {
+        "derivatives": [
+          "dictation",
+          "dictator"
+        ],
+        "sameFamily": [
+          "predict",
+          "contradict"
+        ],
+        "confusables": [
+          "dedicate"
+        ]
+      },
+      "learning": {
+        "coreIdea": "说出来并带有权威。",
+        "memoryHook": "dict = say。",
+        "watchOut": "dictate 是命令/口述；dedicate 是奉献。"
+      },
+      "tags": [
+        "pilot-50",
+        "speech"
+      ]
+    },
+    {
+      "id": "word:predict",
+      "slug": "predict",
+      "term": "predict",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "say before",
+          "zh": "预测；预言",
+          "en": "to say what will happen before it happens",
+          "example": {
+            "en": "The model predicts tomorrow's demand.",
+            "zh": "这个模型预测明天的需求。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "pre",
+          "type": "prefix",
+          "meaning": "before",
+          "rootId": "root:pre"
+        },
+        {
+          "form": "dict",
+          "type": "root",
+          "meaning": "say",
+          "rootId": "root:dict"
+        }
+      ],
+      "rootIds": [
+        "root:pre",
+        "root:dict"
+      ],
+      "relations": {
+        "derivatives": [
+          "prediction",
+          "predictable"
+        ],
+        "sameFamily": [
+          "dictate",
+          "contradict"
+        ],
+        "confusables": [
+          "predicate"
+        ]
+      },
+      "learning": {
+        "coreIdea": "事前说出结果。",
+        "memoryHook": "pre + dict = say before。",
+        "watchOut": "predict 是预测；predicate 是语法谓语或断言。"
+      },
+      "tags": [
+        "pilot-50",
+        "speech"
+      ]
+    },
+    {
+      "id": "word:contradict",
+      "slug": "contradict",
+      "term": "contradict",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "speak against",
+          "zh": "反驳；与……矛盾",
+          "en": "to say the opposite of something or be inconsistent with it",
+          "example": {
+            "en": "The second report contradicts the first.",
+            "zh": "第二份报告与第一份报告矛盾。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "contra",
+          "type": "prefix",
+          "meaning": "against",
+          "rootId": "root:contra"
+        },
+        {
+          "form": "dict",
+          "type": "root",
+          "meaning": "say",
+          "rootId": "root:dict"
+        }
+      ],
+      "rootIds": [
+        "root:contra",
+        "root:dict"
+      ],
+      "relations": {
+        "derivatives": [
+          "contradiction",
+          "contradictory"
+        ],
+        "sameFamily": [
+          "dictate",
+          "predict"
+        ],
+        "confusables": [
+          "contrast"
+        ]
+      },
+      "learning": {
+        "coreIdea": "说法朝相反方向。",
+        "memoryHook": "contra + dict = speak against。",
+        "watchOut": "contradict 是矛盾/反驳；contrast 是对比。"
+      },
+      "tags": [
+        "pilot-50",
+        "speech"
+      ]
+    },
+    {
+      "id": "word:spectacle",
+      "slug": "spectacle",
+      "term": "spectacle",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "show to see",
+          "zh": "壮观场面；景象",
+          "en": "an impressive public sight or display",
+          "example": {
+            "en": "The parade was a colorful spectacle.",
+            "zh": "游行是一场色彩斑斓的壮观景象。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "spect",
+          "type": "root",
+          "meaning": "look",
+          "rootId": "root:spect"
+        }
+      ],
+      "rootIds": [
+        "root:spect"
+      ],
+      "relations": {
+        "derivatives": [
+          "spectacular"
+        ],
+        "sameFamily": [
+          "inspect",
+          "respect"
+        ],
+        "confusables": [
+          "spectacles"
+        ]
+      },
+      "learning": {
+        "coreIdea": "给人观看的场面。",
+        "memoryHook": "spect = look。",
+        "watchOut": "spectacle 可指场面；spectacles 可指眼镜。"
+      },
+      "tags": [
+        "pilot-50",
+        "seeing"
+      ]
+    },
+    {
+      "id": "word:inspect",
+      "slug": "inspect",
+      "term": "inspect",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "look into",
+          "zh": "检查；视察",
+          "en": "to look at something carefully",
+          "example": {
+            "en": "The technician inspected the engine.",
+            "zh": "技术员检查了发动机。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "in",
+          "type": "prefix",
+          "meaning": "into",
+          "rootId": "root:im"
+        },
+        {
+          "form": "spect",
+          "type": "root",
+          "meaning": "look",
+          "rootId": "root:spect"
+        }
+      ],
+      "rootIds": [
+        "root:im",
+        "root:spect"
+      ],
+      "relations": {
+        "derivatives": [
+          "inspection",
+          "inspector"
+        ],
+        "sameFamily": [
+          "spectacle",
+          "respect"
+        ],
+        "confusables": [
+          "expect"
+        ]
+      },
+      "learning": {
+        "coreIdea": "向里面仔细看。",
+        "memoryHook": "in + spect = look into。",
+        "watchOut": "inspect 是检查；expect 是期待。"
+      },
+      "tags": [
+        "pilot-50",
+        "seeing"
+      ]
+    },
+    {
+      "id": "word:respect",
+      "slug": "respect",
+      "term": "respect",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "look back with regard",
+          "zh": "尊重；方面",
+          "en": "to regard someone or something with care or honor",
+          "example": {
+            "en": "Good teams respect different opinions.",
+            "zh": "好的团队尊重不同意见。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back",
+          "rootId": "root:re"
+        },
+        {
+          "form": "spect",
+          "type": "root",
+          "meaning": "look",
+          "rootId": "root:spect"
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:spect"
+      ],
+      "relations": {
+        "derivatives": [
+          "respectful",
+          "respective"
+        ],
+        "sameFamily": [
+          "inspect",
+          "spectacle"
+        ],
+        "confusables": [
+          "respective"
+        ]
+      },
+      "learning": {
+        "coreIdea": "回头认真看，因此重视。",
+        "memoryHook": "re + spect = look back at。",
+        "watchOut": "respectful 是恭敬的；respective 是各自的。"
+      },
+      "tags": [
+        "pilot-50",
+        "seeing"
+      ]
+    },
+    {
+      "id": "word:visible",
+      "slug": "visible",
+      "term": "visible",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "able to be seen",
+          "zh": "可见的；明显的",
+          "en": "able to be seen",
+          "example": {
+            "en": "The mountain is visible from the window.",
+            "zh": "从窗户可以看见那座山。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "vis",
+          "type": "root",
+          "meaning": "see",
+          "rootId": "root:vis"
+        },
+        {
+          "form": "ible",
+          "type": "suffix",
+          "meaning": "able to be",
+          "rootId": "root:vis",
+          "note": "suffix placeholder until suffix catalog is expanded"
+        }
+      ],
+      "rootIds": [
+        "root:vis"
+      ],
+      "relations": {
+        "derivatives": [
+          "visibility"
+        ],
+        "sameFamily": [
+          "revise"
+        ],
+        "confusables": [
+          "visual"
+        ]
+      },
+      "learning": {
+        "coreIdea": "能够被看见。",
+        "memoryHook": "vis + ible = able to be seen。",
+        "watchOut": "visible 是可见；visual 是视觉的。"
+      },
+      "tags": [
+        "pilot-50",
+        "seeing"
+      ]
+    },
+    {
+      "id": "word:revise",
+      "slug": "revise",
+      "term": "revise",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "look again and change",
+          "zh": "修订；复习",
+          "en": "to review and change or study again",
+          "example": {
+            "en": "She revised the essay after feedback.",
+            "zh": "她根据反馈修订了文章。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "again",
+          "rootId": "root:re"
+        },
+        {
+          "form": "vis",
+          "type": "root",
+          "meaning": "see",
+          "rootId": "root:vis"
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:vis"
+      ],
+      "relations": {
+        "derivatives": [
+          "revision"
+        ],
+        "sameFamily": [
+          "visible"
+        ],
+        "confusables": [
+          "review"
+        ]
+      },
+      "learning": {
+        "coreIdea": "重新看一遍并修改。",
+        "memoryHook": "re + vis = see again。",
+        "watchOut": "revise 常含修改；review 可只是回顾。"
+      },
+      "tags": [
+        "pilot-50",
+        "seeing"
+      ]
+    },
+    {
+      "id": "word:eject",
+      "slug": "eject",
+      "term": "eject",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "throw out",
+          "zh": "弹出；逐出",
+          "en": "to force something or someone out",
+          "example": {
+            "en": "The pilot ejected from the aircraft.",
+            "zh": "飞行员从飞机中弹射出来。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "e",
+          "type": "prefix",
+          "meaning": "out",
+          "rootId": "root:e"
+        },
+        {
+          "form": "ject",
+          "type": "root",
+          "meaning": "throw",
+          "rootId": "root:ject"
+        }
+      ],
+      "rootIds": [
+        "root:e",
+        "root:ject"
+      ],
+      "relations": {
+        "derivatives": [
+          "ejection"
+        ],
+        "sameFamily": [
+          "inject",
+          "project"
+        ],
+        "confusables": [
+          "evict"
+        ]
+      },
+      "learning": {
+        "coreIdea": "向外抛出。",
+        "memoryHook": "e + ject = throw out。",
+        "watchOut": "eject 可指弹出；evict 常指依法驱逐。"
+      },
+      "tags": [
+        "pilot-50",
+        "motion"
+      ]
+    },
+    {
+      "id": "word:inject",
+      "slug": "inject",
+      "term": "inject",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "throw in",
+          "zh": "注入；注射",
+          "en": "to put something into something else, often by force",
+          "example": {
+            "en": "The nurse injected the medicine carefully.",
+            "zh": "护士小心地注射了药物。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "in",
+          "type": "prefix",
+          "meaning": "in",
+          "rootId": "root:im"
+        },
+        {
+          "form": "ject",
+          "type": "root",
+          "meaning": "throw",
+          "rootId": "root:ject"
+        }
+      ],
+      "rootIds": [
+        "root:im",
+        "root:ject"
+      ],
+      "relations": {
+        "derivatives": [
+          "injection"
+        ],
+        "sameFamily": [
+          "eject",
+          "project"
+        ],
+        "confusables": [
+          "insert"
+        ]
+      },
+      "learning": {
+        "coreIdea": "向内投放。",
+        "memoryHook": "in + ject = throw in。",
+        "watchOut": "inject 常带压力或进入内部；insert 是插入。"
+      },
+      "tags": [
+        "pilot-50",
+        "motion"
+      ]
+    },
+    {
+      "id": "word:project",
+      "slug": "project",
+      "term": "project",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "throw forward",
+          "zh": "项目；投射；预计",
+          "en": "a planned task, or to throw forward, display, or estimate",
+          "example": {
+            "en": "The team will project sales for next year.",
+            "zh": "团队将预测明年的销售额。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "pro",
+          "type": "prefix",
+          "meaning": "forward",
+          "rootId": "root:pro"
+        },
+        {
+          "form": "ject",
+          "type": "root",
+          "meaning": "throw",
+          "rootId": "root:ject"
+        }
+      ],
+      "rootIds": [
+        "root:pro",
+        "root:ject"
+      ],
+      "relations": {
+        "derivatives": [
+          "projection"
+        ],
+        "sameFamily": [
+          "eject",
+          "inject"
+        ],
+        "confusables": [
+          "predict"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把东西向前抛出，引申为计划或投影。",
+        "memoryHook": "pro + ject = throw forward。",
+        "watchOut": "project 作名词重音通常在前；作动词重音通常在后。"
+      },
+      "tags": [
+        "pilot-50",
+        "motion"
+      ]
+    },
+    {
+      "id": "word:transmit",
+      "slug": "transmit",
+      "term": "transmit",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "send across",
+          "zh": "传输；传播",
+          "en": "to send information, signals, or disease from one place to another",
+          "example": {
+            "en": "Satellites transmit signals around the world.",
+            "zh": "卫星向全球传输信号。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "trans",
+          "type": "prefix",
+          "meaning": "across",
+          "rootId": "root:trans"
+        },
+        {
+          "form": "mit",
+          "type": "root",
+          "meaning": "send",
+          "rootId": "root:mit"
+        }
+      ],
+      "rootIds": [
+        "root:trans",
+        "root:mit"
+      ],
+      "relations": {
+        "derivatives": [
+          "transmission"
+        ],
+        "sameFamily": [
+          "dismiss",
+          "permit"
+        ],
+        "confusables": [
+          "transfer"
+        ]
+      },
+      "learning": {
+        "coreIdea": "跨距离发送。",
+        "memoryHook": "trans + mit = send across。",
+        "watchOut": "transmit 强调发送信号/疾病；transfer 强调转移。"
+      },
+      "tags": [
+        "pilot-50",
+        "sending"
+      ]
+    },
+    {
+      "id": "word:dismiss",
+      "slug": "dismiss",
+      "term": "dismiss",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "send away",
+          "zh": "解散；驳回；不予理会",
+          "en": "to send away or refuse to consider",
+          "example": {
+            "en": "The judge dismissed the case.",
+            "zh": "法官驳回了这个案件。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "dis",
+          "type": "prefix",
+          "meaning": "away",
+          "rootId": "root:de",
+          "note": "dis prefix to be split into its own root in a later schema pass"
+        },
+        {
+          "form": "miss",
+          "type": "root",
+          "meaning": "send",
+          "rootId": "root:mit"
+        }
+      ],
+      "rootIds": [
+        "root:de",
+        "root:mit"
+      ],
+      "relations": {
+        "derivatives": [
+          "dismissal"
+        ],
+        "sameFamily": [
+          "transmit",
+          "permit"
+        ],
+        "confusables": [
+          "miss"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把人或想法送走。",
+        "memoryHook": "dis + miss = send away。",
+        "watchOut": "dismiss 不是 miss 的简单加强，而是 send away。"
+      },
+      "tags": [
+        "pilot-50",
+        "sending"
+      ]
+    },
+    {
+      "id": "word:permit",
+      "slug": "permit",
+      "term": "permit",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "let through",
+          "zh": "允许；许可证",
+          "en": "to allow, or an official document allowing something",
+          "example": {
+            "en": "The city issued a parking permit.",
+            "zh": "市政府签发了一张停车许可证。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "per",
+          "type": "prefix",
+          "meaning": "through",
+          "rootId": "root:per"
+        },
+        {
+          "form": "mit",
+          "type": "root",
+          "meaning": "send",
+          "rootId": "root:mit"
+        }
+      ],
+      "rootIds": [
+        "root:per",
+        "root:mit"
+      ],
+      "relations": {
+        "derivatives": [
+          "permission"
+        ],
+        "sameFamily": [
+          "transmit",
+          "dismiss"
+        ],
+        "confusables": [
+          "allow"
+        ]
+      },
+      "learning": {
+        "coreIdea": "让某事通过。",
+        "memoryHook": "per + mit = send through。",
+        "watchOut": "permit 作名词和动词重音可能不同。"
+      },
+      "tags": [
+        "pilot-50",
+        "sending"
+      ]
+    },
+    {
+      "id": "word:subscribe",
+      "slug": "subscribe",
+      "term": "subscribe",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "write under",
+          "zh": "订阅；同意",
+          "en": "to sign up for or agree with an idea",
+          "example": {
+            "en": "Many readers subscribe to the newsletter.",
+            "zh": "许多读者订阅这份通讯。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "sub",
+          "type": "prefix",
+          "meaning": "under",
+          "rootId": "root:sub"
+        },
+        {
+          "form": "scrib",
+          "type": "root",
+          "meaning": "write",
+          "rootId": "root:scrib"
+        }
+      ],
+      "rootIds": [
+        "root:sub",
+        "root:scrib"
+      ],
+      "relations": {
+        "derivatives": [
+          "subscription",
+          "subscriber"
+        ],
+        "sameFamily": [
+          "describe",
+          "inscription"
+        ],
+        "confusables": [
+          "prescribe"
+        ]
+      },
+      "learning": {
+        "coreIdea": "在下面签名，后来变成订阅或赞同。",
+        "memoryHook": "sub + scrib = write under。",
+        "watchOut": "subscribe to 可表示订阅，也可表示赞同观点。"
+      },
+      "tags": [
+        "pilot-50",
+        "writing"
+      ]
+    },
+    {
+      "id": "word:describe",
+      "slug": "describe",
+      "term": "describe",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "write down fully",
+          "zh": "描述",
+          "en": "to say or write what something is like",
+          "example": {
+            "en": "Can you describe the route?",
+            "zh": "你能描述一下路线吗？"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "de",
+          "type": "prefix",
+          "meaning": "down, fully",
+          "rootId": "root:de"
+        },
+        {
+          "form": "scrib",
+          "type": "root",
+          "meaning": "write",
+          "rootId": "root:scrib"
+        }
+      ],
+      "rootIds": [
+        "root:de",
+        "root:scrib"
+      ],
+      "relations": {
+        "derivatives": [
+          "description",
+          "descriptive"
+        ],
+        "sameFamily": [
+          "subscribe",
+          "inscription"
+        ],
+        "confusables": [
+          "depict"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把观察写下来。",
+        "memoryHook": "de + scrib = write down。",
+        "watchOut": "describe 用语言描述；depict 用图像或文字描绘。"
+      },
+      "tags": [
+        "pilot-50",
+        "writing"
+      ]
+    },
+    {
+      "id": "word:inscription",
+      "slug": "inscription",
+      "term": "inscription",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "writing on surface",
+          "zh": "铭文；题词",
+          "en": "words written or carved on something",
+          "example": {
+            "en": "The ring has a short inscription inside.",
+            "zh": "戒指内侧有一段短题词。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "in",
+          "type": "prefix",
+          "meaning": "in, on",
+          "rootId": "root:im"
+        },
+        {
+          "form": "script",
+          "type": "root",
+          "meaning": "write",
+          "rootId": "root:scrib"
+        }
+      ],
+      "rootIds": [
+        "root:im",
+        "root:scrib"
+      ],
+      "relations": {
+        "derivatives": [
+          "inscribe"
+        ],
+        "sameFamily": [
+          "subscribe",
+          "describe"
+        ],
+        "confusables": [
+          "subscription"
+        ]
+      },
+      "learning": {
+        "coreIdea": "写或刻在某物上的文字。",
+        "memoryHook": "in + script = write into/on。",
+        "watchOut": "inscription 是铭文；subscription 是订阅。"
+      },
+      "tags": [
+        "pilot-50",
+        "writing"
+      ]
+    },
+    {
+      "id": "word:convert",
+      "slug": "convert",
+      "term": "convert",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "turn into",
+          "zh": "转换；改变信仰者",
+          "en": "to change something into another form",
+          "example": {
+            "en": "The tool converts speech into text.",
+            "zh": "这个工具把语音转换成文字。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "con",
+          "type": "prefix",
+          "meaning": "together, completely",
+          "rootId": "root:con"
+        },
+        {
+          "form": "vert",
+          "type": "root",
+          "meaning": "turn",
+          "rootId": "root:vert"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:vert"
+      ],
+      "relations": {
+        "derivatives": [
+          "conversion"
+        ],
+        "sameFamily": [
+          "revert",
+          "avert"
+        ],
+        "confusables": [
+          "convey"
+        ]
+      },
+      "learning": {
+        "coreIdea": "转成另一种状态。",
+        "memoryHook": "con + vert = turn together/fully。",
+        "watchOut": "convert 是转换；convey 是传达或运输。"
+      },
+      "tags": [
+        "pilot-50",
+        "turning"
+      ]
+    },
+    {
+      "id": "word:revert",
+      "slug": "revert",
+      "term": "revert",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "turn back",
+          "zh": "恢复；回复到",
+          "en": "to return to a previous state",
+          "example": {
+            "en": "The system reverted to its old settings.",
+            "zh": "系统恢复到了旧设置。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back",
+          "rootId": "root:re"
+        },
+        {
+          "form": "vert",
+          "type": "root",
+          "meaning": "turn",
+          "rootId": "root:vert"
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:vert"
+      ],
+      "relations": {
+        "derivatives": [
+          "reversion"
+        ],
+        "sameFamily": [
+          "convert",
+          "avert"
+        ],
+        "confusables": [
+          "reverse"
+        ]
+      },
+      "learning": {
+        "coreIdea": "转回原状态。",
+        "memoryHook": "re + vert = turn back。",
+        "watchOut": "revert to 后接旧状态；reply 是回复消息。"
+      },
+      "tags": [
+        "pilot-50",
+        "turning"
+      ]
+    },
+    {
+      "id": "word:avert",
+      "slug": "avert",
+      "term": "avert",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "turn away",
+          "zh": "避免；转移开",
+          "en": "to prevent something bad or turn away",
+          "example": {
+            "en": "Quick action averted a crisis.",
+            "zh": "迅速行动避免了一场危机。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "a",
+          "type": "prefix",
+          "meaning": "away",
+          "rootId": "root:ad",
+          "note": "historical form from ab/ad group; to refine later"
+        },
+        {
+          "form": "vert",
+          "type": "root",
+          "meaning": "turn",
+          "rootId": "root:vert"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:vert"
+      ],
+      "relations": {
+        "derivatives": [
+          "aversion"
+        ],
+        "sameFamily": [
+          "convert",
+          "revert"
+        ],
+        "confusables": [
+          "avoid"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把坏事转开。",
+        "memoryHook": "a + vert = turn away。",
+        "watchOut": "avert 常接危机/危险；avoid 更普通。"
+      },
+      "tags": [
+        "pilot-50",
+        "turning"
+      ]
+    },
+    {
+      "id": "word:proceed",
+      "slug": "proceed",
+      "term": "proceed",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "go forward",
+          "zh": "继续进行；前进",
+          "en": "to continue or move forward",
+          "example": {
+            "en": "After the check, we can proceed.",
+            "zh": "检查之后，我们可以继续进行。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "pro",
+          "type": "prefix",
+          "meaning": "forward",
+          "rootId": "root:pro"
+        },
+        {
+          "form": "ceed",
+          "type": "root",
+          "meaning": "go",
+          "rootId": "root:excess-ceed"
+        }
+      ],
+      "rootIds": [
+        "root:pro",
+        "root:excess-ceed"
+      ],
+      "relations": {
+        "derivatives": [
+          "procedure",
+          "proceeding"
+        ],
+        "sameFamily": [
+          "exceed",
+          "succeed",
+          "recede"
+        ],
+        "confusables": [
+          "precede"
+        ]
+      },
+      "learning": {
+        "coreIdea": "向前继续走。",
+        "memoryHook": "pro + ceed = go forward。",
+        "watchOut": "proceed 是继续；precede 是在前。"
+      },
+      "tags": [
+        "pilot-50",
+        "movement"
+      ]
+    },
+    {
+      "id": "word:exceed",
+      "slug": "exceed",
+      "term": "exceed",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "go beyond",
+          "zh": "超过；超出",
+          "en": "to be greater than a limit or expectation",
+          "example": {
+            "en": "Demand exceeded supply.",
+            "zh": "需求超过了供应。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ex",
+          "type": "prefix",
+          "meaning": "out, beyond",
+          "rootId": "root:e"
+        },
+        {
+          "form": "ceed",
+          "type": "root",
+          "meaning": "go",
+          "rootId": "root:excess-ceed"
+        }
+      ],
+      "rootIds": [
+        "root:e",
+        "root:excess-ceed"
+      ],
+      "relations": {
+        "derivatives": [
+          "excess",
+          "exceedingly"
+        ],
+        "sameFamily": [
+          "proceed",
+          "succeed",
+          "recede"
+        ],
+        "confusables": [
+          "excel"
+        ]
+      },
+      "learning": {
+        "coreIdea": "走出边界之外。",
+        "memoryHook": "ex + ceed = go beyond。",
+        "watchOut": "exceed 是超过；excel 是擅长。"
+      },
+      "tags": [
+        "pilot-50",
+        "movement"
+      ]
+    },
+    {
+      "id": "word:succeed",
+      "slug": "succeed",
+      "term": "succeed",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "follow or do well",
+          "zh": "成功；继承；接替",
+          "en": "to achieve success or come after someone",
+          "example": {
+            "en": "She succeeded through steady practice.",
+            "zh": "她通过稳定练习取得了成功。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "suc",
+          "type": "prefix",
+          "meaning": "under, after",
+          "rootId": "root:sub"
+        },
+        {
+          "form": "ceed",
+          "type": "root",
+          "meaning": "go",
+          "rootId": "root:excess-ceed"
+        }
+      ],
+      "rootIds": [
+        "root:sub",
+        "root:excess-ceed"
+      ],
+      "relations": {
+        "derivatives": [
+          "success",
+          "successor"
+        ],
+        "sameFamily": [
+          "proceed",
+          "exceed",
+          "recede"
+        ],
+        "confusables": [
+          "successful"
+        ]
+      },
+      "learning": {
+        "coreIdea": "跟着走到结果，后来表示成功或接替。",
+        "memoryHook": "suc + ceed = go after/under。",
+        "watchOut": "succeed in doing something；不要直接说 succeed to do。"
+      },
+      "tags": [
+        "pilot-50",
+        "movement"
+      ]
+    },
+    {
+      "id": "word:recede",
+      "slug": "recede",
+      "term": "recede",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "go back",
+          "zh": "后退；退去",
+          "en": "to move back or become more distant",
+          "example": {
+            "en": "The floodwater began to recede.",
+            "zh": "洪水开始退去。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back",
+          "rootId": "root:re"
+        },
+        {
+          "form": "cede",
+          "type": "root",
+          "meaning": "go",
+          "rootId": "root:excess-ceed"
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:excess-ceed"
+      ],
+      "relations": {
+        "derivatives": [
+          "recession"
+        ],
+        "sameFamily": [
+          "proceed",
+          "exceed",
+          "succeed"
+        ],
+        "confusables": [
+          "recede",
+          "reseed"
+        ]
+      },
+      "learning": {
+        "coreIdea": "往后退走。",
+        "memoryHook": "re + cede = go back。",
+        "watchOut": "recede 是退去；reseed 是重新播种。"
+      },
+      "tags": [
+        "pilot-50",
+        "movement"
+      ]
+    },
+    {
+      "id": "word:conduct",
+      "slug": "conduct",
+      "term": "conduct",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "lead together",
+          "zh": "实施；引导；行为",
+          "en": "to lead, organize, or carry out",
+          "example": {
+            "en": "Researchers conducted a survey.",
+            "zh": "研究人员开展了一项调查。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "con",
+          "type": "prefix",
+          "meaning": "together",
+          "rootId": "root:con"
+        },
+        {
+          "form": "duct",
+          "type": "root",
+          "meaning": "lead",
+          "rootId": "root:duc"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:duc"
+      ],
+      "relations": {
+        "derivatives": [
+          "conduction",
+          "conductor"
+        ],
+        "sameFamily": [
+          "induct",
+          "produce",
+          "reduce"
+        ],
+        "confusables": [
+          "conductive"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把事情带着完成。",
+        "memoryHook": "con + duct = lead together。",
+        "watchOut": "conduct 作名词可指行为，作动词可指实施。"
+      },
+      "tags": [
+        "pilot-50",
+        "leading"
+      ]
+    },
+    {
+      "id": "word:induct",
+      "slug": "induct",
+      "term": "induct",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "lead in",
+          "zh": "使正式就任；吸纳",
+          "en": "to formally bring someone into a role or group",
+          "example": {
+            "en": "The club inducted three new members.",
+            "zh": "俱乐部吸纳了三名新成员。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "in",
+          "type": "prefix",
+          "meaning": "in",
+          "rootId": "root:im"
+        },
+        {
+          "form": "duct",
+          "type": "root",
+          "meaning": "lead",
+          "rootId": "root:duc"
+        }
+      ],
+      "rootIds": [
+        "root:im",
+        "root:duc"
+      ],
+      "relations": {
+        "derivatives": [
+          "induction"
+        ],
+        "sameFamily": [
+          "conduct",
+          "produce",
+          "reduce"
+        ],
+        "confusables": [
+          "deduct"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把人引入组织或职位。",
+        "memoryHook": "in + duct = lead in。",
+        "watchOut": "induct 是引入/就任；deduct 是扣除。"
+      },
+      "tags": [
+        "pilot-50",
+        "leading"
+      ]
+    },
+    {
+      "id": "word:produce",
+      "slug": "produce",
+      "term": "produce",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "lead forth",
+          "zh": "生产；产生；农产品",
+          "en": "to make or bring something forth",
+          "example": {
+            "en": "The process produces less waste.",
+            "zh": "这个过程产生更少废料。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "pro",
+          "type": "prefix",
+          "meaning": "forth",
+          "rootId": "root:pro"
+        },
+        {
+          "form": "duce",
+          "type": "root",
+          "meaning": "lead",
+          "rootId": "root:duc"
+        }
+      ],
+      "rootIds": [
+        "root:pro",
+        "root:duc"
+      ],
+      "relations": {
+        "derivatives": [
+          "production",
+          "producer"
+        ],
+        "sameFamily": [
+          "conduct",
+          "reduce",
+          "induct"
+        ],
+        "confusables": [
+          "product"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把东西带出来。",
+        "memoryHook": "pro + duce = lead forth。",
+        "watchOut": "produce 作名词可指农产品，重音不同。"
+      },
+      "tags": [
+        "pilot-50",
+        "leading"
+      ]
+    },
+    {
+      "id": "word:reduce",
+      "slug": "reduce",
+      "term": "reduce",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "lead back/down",
+          "zh": "减少；降低",
+          "en": "to make something smaller or less",
+          "example": {
+            "en": "Walking can reduce stress.",
+            "zh": "散步可以降低压力。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back, down",
+          "rootId": "root:re"
+        },
+        {
+          "form": "duce",
+          "type": "root",
+          "meaning": "lead",
+          "rootId": "root:duc"
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:duc"
+      ],
+      "relations": {
+        "derivatives": [
+          "reduction"
+        ],
+        "sameFamily": [
+          "produce",
+          "conduct",
+          "induct"
+        ],
+        "confusables": [
+          "deduce"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把数量带回更低。",
+        "memoryHook": "re + duce = lead back/down。",
+        "watchOut": "reduce 是减少；deduce 是推论。"
+      },
+      "tags": [
+        "pilot-50",
+        "leading"
+      ]
+    },
+    {
+      "id": "word:audible",
+      "slug": "audible",
+      "term": "audible",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "able to be heard",
+          "zh": "听得见的",
+          "en": "able to be heard",
+          "example": {
+            "en": "Her voice was barely audible.",
+            "zh": "她的声音几乎听不见。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "aud",
+          "type": "root",
+          "meaning": "hear",
+          "rootId": "root:aud"
+        },
+        {
+          "form": "ible",
+          "type": "suffix",
+          "meaning": "able to be",
+          "rootId": "root:aud",
+          "note": "suffix placeholder until suffix catalog is expanded"
+        }
+      ],
+      "rootIds": [
+        "root:aud"
+      ],
+      "relations": {
+        "derivatives": [
+          "audibility"
+        ],
+        "sameFamily": [
+          "audience"
+        ],
+        "confusables": [
+          "edible"
+        ]
+      },
+      "learning": {
+        "coreIdea": "能够被听见。",
+        "memoryHook": "aud + ible = able to be heard。",
+        "watchOut": "audible 是听得见；edible 是可食用。"
+      },
+      "tags": [
+        "pilot-50",
+        "sound"
+      ]
+    },
+    {
+      "id": "word:audience",
+      "slug": "audience",
+      "term": "audience",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "hearers",
+          "zh": "观众；听众；受众",
+          "en": "the people who listen to or watch something",
+          "example": {
+            "en": "The speaker knew her audience well.",
+            "zh": "演讲者很了解她的听众。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "aud",
+          "type": "root",
+          "meaning": "hear",
+          "rootId": "root:aud"
+        }
+      ],
+      "rootIds": [
+        "root:aud"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [
+          "audible"
+        ],
+        "confusables": [
+          "audition"
+        ]
+      },
+      "learning": {
+        "coreIdea": "正在听的人群，后来包括观众和受众。",
+        "memoryHook": "audience = people who hear。",
+        "watchOut": "audience 是受众；audition 是试镜/试听。"
+      },
+      "tags": [
+        "pilot-50",
+        "sound"
+      ]
+    },
+    {
+      "id": "word:phonetic",
+      "slug": "phonetic",
+      "term": "phonetic",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "about speech sounds",
+          "zh": "语音的；按发音的",
+          "en": "related to speech sounds",
+          "example": {
+            "en": "The dictionary includes phonetic symbols.",
+            "zh": "这本词典包含音标。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "phon",
+          "type": "combiningForm",
+          "meaning": "sound",
+          "rootId": "root:phon"
+        }
+      ],
+      "rootIds": [
+        "root:phon"
+      ],
+      "relations": {
+        "derivatives": [
+          "phonetics"
+        ],
+        "sameFamily": [
+          "symphony"
+        ],
+        "confusables": [
+          "phonics"
+        ]
+      },
+      "learning": {
+        "coreIdea": "和语音声音有关。",
+        "memoryHook": "phon = sound。",
+        "watchOut": "phonetic 偏语音学；phonics 偏自然拼读教学。"
+      },
+      "tags": [
+        "pilot-50",
+        "sound"
+      ]
+    },
+    {
+      "id": "word:symphony",
+      "slug": "symphony",
+      "term": "symphony",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "sounds together",
+          "zh": "交响乐；和谐组合",
+          "en": "a long musical work for orchestra, or a harmonious combination",
+          "example": {
+            "en": "The orchestra performed a new symphony.",
+            "zh": "管弦乐队演奏了一首新交响曲。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "sym",
+          "type": "prefix",
+          "meaning": "together",
+          "rootId": "root:syn"
+        },
+        {
+          "form": "phony",
+          "type": "combiningForm",
+          "meaning": "sound",
+          "rootId": "root:phon"
+        }
+      ],
+      "rootIds": [
+        "root:syn",
+        "root:phon"
+      ],
+      "relations": {
+        "derivatives": [
+          "symphonic"
+        ],
+        "sameFamily": [
+          "phonetic",
+          "synchronize"
+        ],
+        "confusables": [
+          "sympathy"
+        ]
+      },
+      "learning": {
+        "coreIdea": "声音共同响起。",
+        "memoryHook": "sym + phon = sounds together。",
+        "watchOut": "symphony 是交响；sympathy 是共感。"
+      },
+      "tags": [
+        "pilot-50",
+        "sound"
+      ]
+    },
+    {
+      "id": "word:autograph",
+      "slug": "autograph",
+      "term": "autograph",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun",
+        "verb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "self writing",
+          "zh": "亲笔签名",
+          "en": "a person's own signature",
+          "example": {
+            "en": "Fans waited for the actor's autograph.",
+            "zh": "粉丝等待演员的亲笔签名。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "auto",
+          "type": "combiningForm",
+          "meaning": "self",
+          "rootId": "root:graph",
+          "note": "auto root to be added if pilot expands self-family words"
+        },
+        {
+          "form": "graph",
+          "type": "combiningForm",
+          "meaning": "write",
+          "rootId": "root:graph"
+        }
+      ],
+      "rootIds": [
+        "root:graph"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [
+          "biography",
+          "demography"
+        ],
+        "confusables": [
+          "autobiography"
+        ]
+      },
+      "learning": {
+        "coreIdea": "自己亲手写下的名字。",
+        "memoryHook": "auto + graph = self writing。",
+        "watchOut": "autograph 是签名；autobiography 是自传。"
+      },
+      "tags": [
+        "pilot-50",
+        "writing"
+      ]
+    },
+    {
+      "id": "word:biography",
+      "slug": "biography",
+      "term": "biography",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "life writing",
+          "zh": "传记",
+          "en": "a written account of someone's life",
+          "example": {
+            "en": "The biography covers her early career.",
+            "zh": "这本传记讲述了她早期的职业生涯。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "bio",
+          "type": "combiningForm",
+          "meaning": "life",
+          "rootId": "root:bio"
+        },
+        {
+          "form": "graphy",
+          "type": "combiningForm",
+          "meaning": "writing",
+          "rootId": "root:graph"
+        }
+      ],
+      "rootIds": [
+        "root:bio",
+        "root:graph"
+      ],
+      "relations": {
+        "derivatives": [
+          "biographical"
+        ],
+        "sameFamily": [
+          "autograph",
+          "demography"
+        ],
+        "confusables": [
+          "autobiography"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把一个人的生命经历写下来。",
+        "memoryHook": "bio + graphy = life writing。",
+        "watchOut": "biography 是别人写的人生；autobiography 是自传。"
+      },
+      "tags": [
+        "pilot-50",
+        "writing"
+      ]
+    },
+    {
+      "id": "word:demography",
+      "slug": "demography",
+      "term": "demography",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "people writing/study",
+          "zh": "人口统计学",
+          "en": "the study of populations and their structure",
+          "example": {
+            "en": "Demography helps planners understand population change.",
+            "zh": "人口统计学帮助规划者理解人口变化。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "demo",
+          "type": "combiningForm",
+          "meaning": "people",
+          "rootId": "root:demo"
+        },
+        {
+          "form": "graphy",
+          "type": "combiningForm",
+          "meaning": "writing, recording",
+          "rootId": "root:graph"
+        }
+      ],
+      "rootIds": [
+        "root:demo",
+        "root:graph"
+      ],
+      "relations": {
+        "derivatives": [
+          "demographic"
+        ],
+        "sameFamily": [
+          "biography",
+          "autograph"
+        ],
+        "confusables": [
+          "democracy"
+        ]
+      },
+      "learning": {
+        "coreIdea": "记录和研究人群。",
+        "memoryHook": "demo + graphy = people recording。",
+        "watchOut": "demography 是人口研究；democracy 是民主制度。"
+      },
+      "tags": [
+        "pilot-50",
+        "people"
+      ]
+    },
+    {
+      "id": "word:microscope",
+      "slug": "microscope",
+      "term": "microscope",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "small-view tool",
+          "zh": "显微镜",
+          "en": "an instrument for viewing very small objects",
+          "example": {
+            "en": "Students observed cells through a microscope.",
+            "zh": "学生通过显微镜观察细胞。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "micro",
+          "type": "combiningForm",
+          "meaning": "small",
+          "rootId": "root:micro"
+        },
+        {
+          "form": "scope",
+          "type": "combiningForm",
+          "meaning": "look",
+          "rootId": "root:spect",
+          "note": "scope root can be split later if more scope words are added"
+        }
+      ],
+      "rootIds": [
+        "root:micro",
+        "root:spect"
+      ],
+      "relations": {
+        "derivatives": [
+          "microscopic"
+        ],
+        "sameFamily": [
+          "telescope"
+        ],
+        "confusables": [
+          "microphone"
+        ]
+      },
+      "learning": {
+        "coreIdea": "看微小东西的工具。",
+        "memoryHook": "micro + scope = look at small things。",
+        "watchOut": "microscope 看小物；microphone 收声音。"
+      },
+      "tags": [
+        "pilot-50",
+        "science"
+      ]
+    },
+    {
+      "id": "word:telescope",
+      "slug": "telescope",
+      "term": "telescope",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun",
+        "verb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "far-view tool",
+          "zh": "望远镜；压缩",
+          "en": "an instrument for viewing distant objects",
+          "example": {
+            "en": "The telescope revealed distant galaxies.",
+            "zh": "望远镜揭示了遥远的星系。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "tele",
+          "type": "combiningForm",
+          "meaning": "far",
+          "rootId": "root:tele"
+        },
+        {
+          "form": "scope",
+          "type": "combiningForm",
+          "meaning": "look",
+          "rootId": "root:spect",
+          "note": "scope root can be split later if more scope words are added"
+        }
+      ],
+      "rootIds": [
+        "root:tele",
+        "root:spect"
+      ],
+      "relations": {
+        "derivatives": [
+          "telescopic"
+        ],
+        "sameFamily": [
+          "microscope"
+        ],
+        "confusables": [
+          "telegraph"
+        ]
+      },
+      "learning": {
+        "coreIdea": "看远处东西的工具。",
+        "memoryHook": "tele + scope = look far。",
+        "watchOut": "telescope 是望远镜；telegraph 是远距离书写/电报。"
+      },
+      "tags": [
+        "pilot-50",
+        "science"
+      ]
+    },
+    {
+      "id": "word:chronology",
+      "slug": "chronology",
+      "term": "chronology",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "time order study",
+          "zh": "年代顺序；年表",
+          "en": "the order of events in time",
+          "example": {
+            "en": "The report gives a clear chronology of events.",
+            "zh": "报告给出了清晰的事件时间顺序。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "chrono",
+          "type": "combiningForm",
+          "meaning": "time",
+          "rootId": "root:chron"
+        },
+        {
+          "form": "logy",
+          "type": "suffix",
+          "meaning": "study of",
+          "rootId": "root:logy"
+        }
+      ],
+      "rootIds": [
+        "root:chron",
+        "root:logy"
+      ],
+      "relations": {
+        "derivatives": [
+          "chronological"
+        ],
+        "sameFamily": [
+          "synchronize"
+        ],
+        "confusables": [
+          "chronicle"
+        ]
+      },
+      "learning": {
+        "coreIdea": "按时间记录和排列。",
+        "memoryHook": "chrono + logy = study/order of time。",
+        "watchOut": "chronology 是时间顺序；chronicle 是编年记录。"
+      },
+      "tags": [
+        "pilot-50",
+        "time"
+      ]
+    },
+    {
+      "id": "word:synchronize",
+      "slug": "synchronize",
+      "term": "synchronize",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "time together",
+          "zh": "使同步",
+          "en": "to make things happen at the same time",
+          "example": {
+            "en": "The app synchronizes data across devices.",
+            "zh": "这个应用在多台设备之间同步数据。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "syn",
+          "type": "prefix",
+          "meaning": "together",
+          "rootId": "root:syn"
+        },
+        {
+          "form": "chron",
+          "type": "combiningForm",
+          "meaning": "time",
+          "rootId": "root:chron"
+        }
+      ],
+      "rootIds": [
+        "root:syn",
+        "root:chron"
+      ],
+      "relations": {
+        "derivatives": [
+          "synchronization"
+        ],
+        "sameFamily": [
+          "chronology",
+          "symphony"
+        ],
+        "confusables": [
+          "synergize"
+        ]
+      },
+      "learning": {
+        "coreIdea": "让时间一起对齐。",
+        "memoryHook": "syn + chron = time together。",
+        "watchOut": "synchronize 是同步；synergize 是协同增效。"
+      },
+      "tags": [
+        "pilot-50",
+        "time"
+      ]
+    },
+    {
+      "id": "word:deduct",
+      "slug": "deduct",
+      "term": "deduct",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "lead down, take away",
+          "zh": "扣除；减去",
+          "en": "to subtract or take away from a total",
+          "example": {
+            "en": "The fee will be deducted from your account.",
+            "zh": "这笔费用将从你的账户中扣除。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "de",
+          "type": "prefix",
+          "meaning": "down, away",
+          "rootId": "root:de"
+        },
+        {
+          "form": "duct",
+          "type": "root",
+          "meaning": "lead",
+          "rootId": "root:duc"
+        }
+      ],
+      "rootIds": [
+        "root:de",
+        "root:duc"
+      ],
+      "relations": {
+        "derivatives": [
+          "deduction",
+          "deductible"
+        ],
+        "sameFamily": [
+          "conduct",
+          "induct",
+          "reduce"
+        ],
+        "confusables": [
+          "deduce"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把数量从总数里带走。",
+        "memoryHook": "de + duct = lead down/away。",
+        "watchOut": "deduct 是扣除；deduce 是推论。"
+      },
+      "tags": [
+        "pilot-50",
+        "leading"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pre
+display: pre-
+type: prefix
+core_meaning: before
+zh: 预先、在前
+origin: Latin
+senses:
+  - meaning: before
+    zh: 预先、在前
+    examples:
+      - predict
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pre- -> predict
+high_value_words:
+  - predict
+confusable_words:
+  []

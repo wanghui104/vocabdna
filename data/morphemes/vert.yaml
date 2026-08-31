@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vert
+display: vert
+type: root
+core_meaning: turn
+zh: 转、转向
+origin: Latin
+senses:
+  - meaning: turn
+    zh: 转、转向
+    examples:
+      - convert
+      - revert
+      - avert
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - vert -> convert
+  - vert -> revert
+  - vert -> avert
+high_value_words:
+  - convert
+  - revert
+  - avert
+confusable_words:
+  []

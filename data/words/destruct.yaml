@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: destruct
+word: destruct
+pos: verb
+zh: 破坏；摧毁
+en: to damage or destroy a structure
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, undo
+    zh: 向下、离开、取消
+    role: prefix
+    is_core: false
+  - morpheme: struct
+    form: struct
+    meaning_in_word: build
+    zh: 建造、排列
+    role: root
+    is_core: true
+word_family:
+  - destruction
+  - destructive
+  - construct
+word_family_details:
+  - word: destruction
+    en: related form of destruction
+    zh: destruction 的相关词
+  - word: destructive
+    en: related form of destructive
+    zh: destructive 的相关词
+  - word: construct
+    en: to build or put parts together
+    zh: 建造；构建
+confusables:
+  - word: destroy
+    reason: destruct 较正式或技术化；destroy 更常用。
+    zh_reason: destruct 较正式或技术化；destroy 更常用。
+examples:
+  - en: The device is designed to self-destruct.
+    zh: 这个装置被设计为自毁。
+why_confusing: destruct 较正式或技术化；destroy 更常用。

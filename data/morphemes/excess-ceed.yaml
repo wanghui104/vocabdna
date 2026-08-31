@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: excess-ceed
+display: ceed
+type: root
+core_meaning: go, yield
+zh: 走、前进、让步
+origin: Latin
+senses:
+  - meaning: go, yield
+    zh: 走、前进、让步
+    examples:
+      - proceed
+      - exceed
+      - succeed
+      - recede
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ceed -> proceed
+  - ceed -> exceed
+  - ceed -> succeed
+  - cede -> recede
+high_value_words:
+  - proceed
+  - exceed
+  - succeed
+  - recede
+confusable_words:
+  []

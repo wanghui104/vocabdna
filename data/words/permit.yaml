@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: permit
+word: permit
+pos: verb/noun
+zh: 允许；许可证
+en: to allow, or an official document allowing something
+components:
+  - morpheme: per
+    form: per-
+    meaning_in_word: through
+    zh: 穿过、完全
+    role: prefix
+    is_core: false
+  - morpheme: mit
+    form: mit
+    meaning_in_word: send
+    zh: 送、放出
+    role: root
+    is_core: true
+word_family:
+  - permission
+  - transmit
+  - dismiss
+word_family_details:
+  - word: permission
+    en: related form of permission
+    zh: permission 的相关词
+  - word: transmit
+    en: to send information, signals, or disease from one place to another
+    zh: 传输；传播
+  - word: dismiss
+    en: to send away or refuse to consider
+    zh: 解散；驳回；不予理会
+confusables:
+  - word: allow
+    reason: permit 作名词和动词重音可能不同。
+    zh_reason: permit 作名词和动词重音可能不同。
+examples:
+  - en: The city issued a parking permit.
+    zh: 市政府签发了一张停车许可证。
+why_confusing: permit 作名词和动词重音可能不同。

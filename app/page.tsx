@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useMemo, useState } from 'react';
-import { BookOpen, Network, Search, X } from 'lucide-react';
+import { BookOpen, ChevronDown, Network, Search, X } from 'lucide-react';
 
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -146,6 +146,7 @@ export default function Home() {
             route={route}
           />
           <BrowsePanel route={route} />
+          <AlphabetBrowsePanel route={route} />
         </aside>
 
         <section className="min-w-0">
@@ -295,6 +296,67 @@ function BrowsePanel({ route }: { route: RouteState }) {
       </div>
     </section>
   );
+}
+
+function AlphabetBrowsePanel({ route }: { route: RouteState }) {
+  const groups = useMemo(() => getAlphabetWordGroups(), []);
+
+  return (
+    <section className="vocab-panel">
+      <PanelTitle icon={<BookOpen className="size-4" />} title="A-Z Words" />
+      <div className="alphabet-dropdowns">
+        {groups.map((group) => {
+          const activeInGroup =
+            route.type === 'word' &&
+            group.words.some((word) => word.id === route.id);
+          return (
+            <details
+              className="alpha-dropdown"
+              key={group.letter}
+              open={activeInGroup}
+            >
+              <summary className="alpha-summary">
+                <span className="alpha-letter">{group.letter}</span>
+                <span className="alpha-count">{group.words.length}</span>
+                <ChevronDown className="alpha-chevron" aria-hidden="true" />
+              </summary>
+              <div className="alpha-menu">
+                {group.words.length ? (
+                  group.words.map((word) => {
+                    const isActive =
+                      route.type === 'word' && route.id === word.id;
+                    return (
+                      <button
+                        className={`alpha-word ${isActive ? 'alpha-word-active' : ''}`}
+                        key={word.id}
+                        onClick={() => navigate({ type: 'word', id: word.id })}
+                        type="button"
+                      >
+                        <span>{word.word}</span>
+                        <span>{word.pos}</span>
+                      </button>
+                    );
+                  })
+                ) : (
+                  <p className="alpha-empty">No words yet</p>
+                )}
+              </div>
+            </details>
+          );
+        })}
+      </div>
+    </section>
+  );
+}
+
+function getAlphabetWordGroups() {
+  const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+  return letters.map((letter) => ({
+    letter,
+    words: words.filter(
+      (word) => word.word.charAt(0).toUpperCase() === letter,
+    ),
+  }));
 }
 
 function getWordsSharingCoreRoots(activeWord: WordEntry) {

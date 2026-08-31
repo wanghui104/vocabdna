@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: respect
+word: respect
+pos: verb/noun
+zh: 尊重；方面
+en: to regard someone or something with care or honor
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: spect
+    form: spect
+    meaning_in_word: look
+    zh: 看
+    role: root
+    is_core: true
+word_family:
+  - respectful
+  - respective
+  - inspect
+  - spectacle
+word_family_details:
+  - word: respectful
+    en: related form of respectful
+    zh: respectful 的相关词
+  - word: respective
+    en: related form of respective
+    zh: respective 的相关词
+  - word: inspect
+    en: to look at something carefully
+    zh: 检查；视察
+  - word: spectacle
+    en: an impressive public sight or display
+    zh: 壮观场面；景象
+confusables:
+  - word: respective
+    reason: respectful 是恭敬的；respective 是各自的。
+    zh_reason: respectful 是恭敬的；respective 是各自的。
+examples:
+  - en: Good teams respect different opinions.
+    zh: 好的团队尊重不同意见。
+why_confusing: respectful 是恭敬的；respective 是各自的。

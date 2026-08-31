@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inject
+word: inject
+pos: verb
+zh: 注入；注射
+en: to put something into something else, often by force
+components:
+  - morpheme: im
+    form: in-
+    meaning_in_word: in
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+  - morpheme: ject
+    form: ject
+    meaning_in_word: throw
+    zh: 投、扔
+    role: root
+    is_core: true
+word_family:
+  - injection
+  - eject
+  - project
+word_family_details:
+  - word: injection
+    en: related form of injection
+    zh: injection 的相关词
+  - word: eject
+    en: to force something or someone out
+    zh: 弹出；逐出
+  - word: project
+    en: a planned task, or to throw forward, display, or estimate
+    zh: 项目；投射；预计
+confusables:
+  - word: insert
+    reason: inject 常带压力或进入内部；insert 是插入。
+    zh_reason: inject 常带压力或进入内部；insert 是插入。
+examples:
+  - en: The nurse injected the medicine carefully.
+    zh: 护士小心地注射了药物。
+why_confusing: inject 常带压力或进入内部；insert 是插入。

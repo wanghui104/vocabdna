@@ -1,0 +1,171 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://vocabdna.local/schema/word.schema.json",
+  "title": "VocabDNA Word Entry",
+  "type": "object",
+  "required": [
+    "id",
+    "slug",
+    "term",
+    "language",
+    "status",
+    "partOfSpeech",
+    "definitions",
+    "morphemes",
+    "rootIds",
+    "relations",
+    "learning"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^word:[a-z0-9-]+$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "term": {
+      "type": "string",
+      "minLength": 1
+    },
+    "language": {
+      "type": "string",
+      "default": "en"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "published"]
+    },
+    "partOfSpeech": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "enum": ["noun", "verb", "adjective", "adverb", "prefix", "suffix", "root", "phrase"]
+      },
+      "uniqueItems": true
+    },
+    "frequencyBand": {
+      "type": "string",
+      "enum": ["core", "high", "medium", "low", "specialized"]
+    },
+    "definitions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["sense", "zh", "en"],
+        "additionalProperties": false,
+        "properties": {
+          "sense": {
+            "type": "string"
+          },
+          "zh": {
+            "type": "string"
+          },
+          "en": {
+            "type": "string"
+          },
+          "example": {
+            "type": "object",
+            "required": ["en", "zh"],
+            "additionalProperties": false,
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "zh": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "morphemes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["form", "type", "meaning", "rootId"],
+        "additionalProperties": false,
+        "properties": {
+          "form": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["prefix", "root", "suffix", "combiningForm", "connector"]
+          },
+          "meaning": {
+            "type": "string"
+          },
+          "rootId": {
+            "type": "string",
+            "pattern": "^root:[a-z0-9-]+$"
+          },
+          "note": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "rootIds": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^root:[a-z0-9-]+$"
+      },
+      "uniqueItems": true
+    },
+    "relations": {
+      "type": "object",
+      "required": ["derivatives", "sameFamily", "confusables"],
+      "additionalProperties": false,
+      "properties": {
+        "derivatives": {
+          "$ref": "#/$defs/slugArray"
+        },
+        "sameFamily": {
+          "$ref": "#/$defs/slugArray"
+        },
+        "confusables": {
+          "$ref": "#/$defs/slugArray"
+        }
+      }
+    },
+    "learning": {
+      "type": "object",
+      "required": ["coreIdea", "memoryHook", "watchOut"],
+      "additionalProperties": false,
+      "properties": {
+        "coreIdea": {
+          "type": "string"
+        },
+        "memoryHook": {
+          "type": "string"
+        },
+        "watchOut": {
+          "type": "string"
+        }
+      }
+    },
+    "tags": {
+      "$ref": "#/$defs/slugArray"
+    }
+  },
+  "$defs": {
+    "slugArray": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "uniqueItems": true
+    }
+  }
+}
+

@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: transmit
+word: transmit
+pos: verb
+zh: 传输；传播
+en: to send information, signals, or disease from one place to another
+components:
+  - morpheme: trans
+    form: trans-
+    meaning_in_word: across
+    zh: 横越、穿过、转移
+    role: prefix
+    is_core: false
+  - morpheme: mit
+    form: mit
+    meaning_in_word: send
+    zh: 送、放出
+    role: root
+    is_core: true
+word_family:
+  - transmission
+  - dismiss
+  - permit
+word_family_details:
+  - word: transmission
+    en: related form of transmission
+    zh: transmission 的相关词
+  - word: dismiss
+    en: to send away or refuse to consider
+    zh: 解散；驳回；不予理会
+  - word: permit
+    en: to allow, or an official document allowing something
+    zh: 允许；许可证
+confusables:
+  - word: transfer
+    reason: transmit 强调发送信号/疾病；transfer 强调转移。
+    zh_reason: transmit 强调发送信号/疾病；transfer 强调转移。
+examples:
+  - en: Satellites transmit signals around the world.
+    zh: 卫星向全球传输信号。
+why_confusing: transmit 强调发送信号/疾病；transfer 强调转移。

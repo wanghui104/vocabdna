@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: subscribe
+word: subscribe
+pos: verb
+zh: 订阅；同意
+en: to sign up for or agree with an idea
+components:
+  - morpheme: sub
+    form: sub-
+    meaning_in_word: under
+    zh: 在下、靠近、从属
+    role: prefix
+    is_core: false
+  - morpheme: scrib
+    form: scrib
+    meaning_in_word: write
+    zh: 写
+    role: root
+    is_core: true
+word_family:
+  - subscription
+  - subscriber
+  - describe
+  - inscription
+word_family_details:
+  - word: subscription
+    en: related form of subscription
+    zh: subscription 的相关词
+  - word: subscriber
+    en: related form of subscriber
+    zh: subscriber 的相关词
+  - word: describe
+    en: to say or write what something is like
+    zh: 描述
+  - word: inscription
+    en: words written or carved on something
+    zh: 铭文；题词
+confusables:
+  - word: prescribe
+    reason: subscribe to 可表示订阅，也可表示赞同观点。
+    zh_reason: subscribe to 可表示订阅，也可表示赞同观点。
+examples:
+  - en: Many readers subscribe to the newsletter.
+    zh: 许多读者订阅这份通讯。
+why_confusing: subscribe to 可表示订阅，也可表示赞同观点。

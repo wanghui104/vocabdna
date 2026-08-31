@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: benevolent
+word: benevolent
+pos: adjective
+zh: 仁慈的；善意的
+en: kind and wishing to do good
+components:
+  - morpheme: bene
+    form: bene
+    meaning_in_word: good
+    zh: 好、善
+    role: root
+    is_core: true
+  - morpheme: vol
+    form: vol
+    meaning_in_word: will
+    zh: 愿望、意志
+    role: root
+    is_core: true
+word_family:
+  - benevolence
+  - benefactor
+  - malevolent
+word_family_details:
+  - word: benevolence
+    en: related form of benevolence
+    zh: benevolence 的相关词
+  - word: benefactor
+    en: a person who gives help, especially money
+    zh: 恩人；捐助者
+  - word: malevolent
+    en: having or showing a wish to harm others
+    zh: 恶意的；狠毒的
+confusables:
+  - word: beneficial
+    reason: benevolent 是态度仁慈；beneficial 是结果有益。
+    zh_reason: benevolent 是态度仁慈；beneficial 是结果有益。
+examples:
+  - en: The fund was created by a benevolent donor.
+    zh: 这项基金由一位仁慈的捐赠者创立。
+why_confusing: benevolent 是态度仁慈；beneficial 是结果有益。

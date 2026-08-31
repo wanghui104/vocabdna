@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: synchronize
+word: synchronize
+pos: verb
+zh: 使同步
+en: to make things happen at the same time
+components:
+  - morpheme: syn
+    form: syn-
+    meaning_in_word: together
+    zh: 共同、一起
+    role: prefix
+    is_core: false
+  - morpheme: chron
+    form: chron-
+    meaning_in_word: time
+    zh: 时间
+    role: combining_form
+    is_core: true
+word_family:
+  - synchronization
+  - chronology
+  - symphony
+word_family_details:
+  - word: synchronization
+    en: related form of synchronization
+    zh: synchronization 的相关词
+  - word: chronology
+    en: the order of events in time
+    zh: 年代顺序；年表
+  - word: symphony
+    en: a long musical work for orchestra, or a harmonious combination
+    zh: 交响乐；和谐组合
+confusables:
+  - word: synergize
+    reason: synchronize 是同步；synergize 是协同增效。
+    zh_reason: synchronize 是同步；synergize 是协同增效。
+examples:
+  - en: The app synchronizes data across devices.
+    zh: 这个应用在多台设备之间同步数据。
+why_confusing: synchronize 是同步；synergize 是协同增效。

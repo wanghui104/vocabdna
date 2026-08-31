@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dict
+display: dict
+type: root
+core_meaning: say, speak
+zh: 说、宣告
+origin: Latin
+senses:
+  - meaning: say, speak
+    zh: 说、宣告
+    examples:
+      - dictate
+      - predict
+      - contradict
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - dict -> dictate
+  - dict -> predict
+  - dict -> contradict
+high_value_words:
+  - dictate
+  - predict
+  - contradict
+confusable_words:
+  []

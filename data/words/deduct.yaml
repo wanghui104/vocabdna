@@ -1,0 +1,49 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deduct
+word: deduct
+pos: verb
+zh: 扣除；减去
+en: to subtract or take away from a total
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, away
+    zh: 向下、离开、取消
+    role: prefix
+    is_core: false
+  - morpheme: duc
+    form: duct
+    meaning_in_word: lead
+    zh: 引导、带领
+    role: root
+    is_core: true
+word_family:
+  - deduction
+  - deductible
+  - conduct
+  - induct
+  - reduce
+word_family_details:
+  - word: deduction
+    en: related form of deduction
+    zh: deduction 的相关词
+  - word: deductible
+    en: related form of deductible
+    zh: deductible 的相关词
+  - word: conduct
+    en: to lead, organize, or carry out
+    zh: 实施；引导；行为
+  - word: induct
+    en: to formally bring someone into a role or group
+    zh: 使正式就任；吸纳
+  - word: reduce
+    en: to make something smaller or less
+    zh: 减少；降低
+confusables:
+  - word: deduce
+    reason: deduct 是扣除；deduce 是推论。
+    zh_reason: deduct 是扣除；deduce 是推论。
+examples:
+  - en: The fee will be deducted from your account.
+    zh: 这笔费用将从你的账户中扣除。
+why_confusing: deduct 是扣除；deduce 是推论。

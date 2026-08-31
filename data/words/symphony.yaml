@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: symphony
+word: symphony
+pos: noun
+zh: 交响乐；和谐组合
+en: a long musical work for orchestra, or a harmonious combination
+components:
+  - morpheme: syn
+    form: sym-
+    meaning_in_word: together
+    zh: 共同、一起
+    role: prefix
+    is_core: false
+  - morpheme: phon
+    form: phony-
+    meaning_in_word: sound
+    zh: 声音
+    role: combining_form
+    is_core: true
+word_family:
+  - symphonic
+  - phonetic
+  - synchronize
+word_family_details:
+  - word: symphonic
+    en: related form of symphonic
+    zh: symphonic 的相关词
+  - word: phonetic
+    en: related to speech sounds
+    zh: 语音的；按发音的
+  - word: synchronize
+    en: to make things happen at the same time
+    zh: 使同步
+confusables:
+  - word: sympathy
+    reason: symphony 是交响；sympathy 是共感。
+    zh_reason: symphony 是交响；sympathy 是共感。
+examples:
+  - en: The orchestra performed a new symphony.
+    zh: 管弦乐队演奏了一首新交响曲。
+why_confusing: symphony 是交响；sympathy 是共感。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: im
+display: im-
+type: prefix
+core_meaning: in, into; not
+zh: 进入、向内；不、否定
+origin: Latin
+senses:
+  - meaning: in, into; not
+    zh: 进入、向内；不、否定
+    examples:
+      - import
+      - inspect
+      - inject
+      - inscription
+      - induct
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - im- -> import
+  - in- -> inspect
+  - in- -> inject
+  - in- -> inscription
+  - in- -> induct
+high_value_words:
+  - import
+  - inspect
+  - inject
+  - inscription
+  - induct
+confusable_words:
+  []

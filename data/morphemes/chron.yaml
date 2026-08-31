@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chron
+display: chron-
+type: combining form
+core_meaning: time
+zh: 时间
+origin: Greek
+senses:
+  - meaning: time
+    zh: 时间
+    examples:
+      - chronology
+      - synchronize
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - chrono- -> chronology
+  - chron- -> synchronize
+high_value_words:
+  - chronology
+  - synchronize
+confusable_words:
+  []

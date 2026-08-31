@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tele
+display: tele-
+type: combining form
+core_meaning: far
+zh: 远
+origin: Greek
+senses:
+  - meaning: far
+    zh: 远
+    examples:
+      - telescope
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tele- -> telescope
+high_value_words:
+  - telescope
+confusable_words:
+  []

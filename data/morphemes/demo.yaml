@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: demo
+display: demo-
+type: combining form
+core_meaning: people
+zh: 人民、人群
+origin: Greek
+senses:
+  - meaning: people
+    zh: 人民、人群
+    examples:
+      - demography
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - demo- -> demography
+high_value_words:
+  - demography
+confusable_words:
+  []

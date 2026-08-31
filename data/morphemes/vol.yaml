@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vol
+display: vol
+type: root
+core_meaning: will, wish
+zh: 愿望、意志
+origin: Latin
+senses:
+  - meaning: will, wish
+    zh: 愿望、意志
+    examples:
+      - benevolent
+      - malevolent
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - vol -> benevolent
+  - vol -> malevolent
+high_value_words:
+  - benevolent
+  - malevolent
+confusable_words:
+  []

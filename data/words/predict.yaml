@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: predict
+word: predict
+pos: verb
+zh: 预测；预言
+en: to say what will happen before it happens
+components:
+  - morpheme: pre
+    form: pre-
+    meaning_in_word: before
+    zh: 预先、在前
+    role: prefix
+    is_core: false
+  - morpheme: dict
+    form: dict
+    meaning_in_word: say
+    zh: 说、宣告
+    role: root
+    is_core: true
+word_family:
+  - prediction
+  - predictable
+  - dictate
+  - contradict
+word_family_details:
+  - word: prediction
+    en: related form of prediction
+    zh: prediction 的相关词
+  - word: predictable
+    en: related form of predictable
+    zh: predictable 的相关词
+  - word: dictate
+    en: to say words for someone to write down or to command
+    zh: 口述；命令；决定
+  - word: contradict
+    en: to say the opposite of something or be inconsistent with it
+    zh: 反驳；与……矛盾
+confusables:
+  - word: predicate
+    reason: predict 是预测；predicate 是语法谓语或断言。
+    zh_reason: predict 是预测；predicate 是语法谓语或断言。
+examples:
+  - en: The model predicts tomorrow's demand.
+    zh: 这个模型预测明天的需求。
+why_confusing: predict 是预测；predicate 是语法谓语或断言。

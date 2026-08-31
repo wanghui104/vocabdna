@@ -239,6 +239,66 @@ function buildHtml(data) {
     }
     .result-row:hover { background: var(--soft); }
     .result-row.active { background: var(--accent); color: var(--primary-dark); }
+    .alphabet-dropdowns { display: grid; gap: 4px; }
+    .alpha-dropdown { position: relative; }
+    .alpha-summary {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      height: 32px;
+      border: 1px solid transparent;
+      border-radius: 6px;
+      padding: 0 8px;
+      cursor: pointer;
+      list-style: none;
+      font-size: 14px;
+      font-weight: 720;
+    }
+    .alpha-summary::-webkit-details-marker { display: none; }
+    .alpha-summary:hover { background: var(--soft); }
+    .alpha-letter { width: 24px; }
+    .alpha-count {
+      margin-left: auto;
+      min-width: 28px;
+      border-radius: 4px;
+      background: var(--soft);
+      color: var(--muted);
+      padding: 1px 6px;
+      text-align: center;
+      font-size: 11px;
+      font-weight: 700;
+    }
+    .alpha-chevron { color: var(--muted); transition: transform 160ms ease; }
+    .alpha-dropdown[open] .alpha-summary { border-color: var(--line); background: var(--soft); }
+    .alpha-dropdown[open] .alpha-chevron { transform: rotate(180deg); }
+    .alpha-menu {
+      max-height: 224px;
+      overflow-y: auto;
+      margin-top: 4px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--card);
+      padding: 4px 0;
+      box-shadow: 0 10px 24px rgb(24 35 52 / 14%);
+    }
+    .alpha-word {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      width: 100%;
+      border: 0;
+      background: transparent;
+      color: inherit;
+      padding: 7px 12px;
+      text-align: left;
+      font-size: 14px;
+    }
+    .alpha-word:hover { background: var(--soft); }
+    .alpha-word.active { background: var(--accent); color: var(--primary-dark); }
+    .alpha-word span:first-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 650; }
+    .alpha-word span:last-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--muted); font-size: 12px; }
+    .alpha-word.active span:last-child { color: color-mix(in srgb, var(--primary-dark) 72%, var(--muted)); }
+    .alpha-empty { margin: 0; padding: 8px 12px; color: var(--muted); font-size: 14px; }
     .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
     .result-sub { color: var(--muted); font-size: 12px; }
     .article header {
@@ -517,6 +577,10 @@ function buildHtml(data) {
       <div class="panel">
         <h2 class="panel-title">Browse</h2>
         <div id="browse"></div>
+      </div>
+      <div class="panel">
+        <h2 class="panel-title">A-Z Words</h2>
+        <div id="alphabet-browse"></div>
       </div>
     </aside>
     <article id="detail" class="article"></article>
@@ -865,6 +929,28 @@ function buildHtml(data) {
       return new Set((word.components ?? []).filter(isCoreComponent).map((component) => component.morpheme));
     }
 
+    function getAlphabetWordGroups() {
+      return 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map((letter) => ({
+        letter,
+        words: words.filter((word) => String(word.word).charAt(0).toUpperCase() === letter)
+      }));
+    }
+
+    function alphabetBrowsePanel(route) {
+      return '<div class="alphabet-dropdowns">' + getAlphabetWordGroups().map((group) => {
+        const activeInGroup = route.type === 'word' && group.words.some((word) => word.id === route.id);
+        const open = activeInGroup ? ' open' : '';
+        const body = group.words.length
+          ? group.words.map((word) => {
+              const active = route.type === 'word' && route.id === word.id ? ' active' : '';
+              return '<button class="alpha-word' + active + '" type="button" data-route="word:' + word.id + '"><span>' + escapeHtml(word.word) + '</span><span>' + escapeHtml(word.pos) + '</span></button>';
+            }).join('')
+          : '<p class="alpha-empty">No words yet</p>';
+
+        return '<details class="alpha-dropdown"' + open + '><summary class="alpha-summary"><span class="alpha-letter">' + group.letter + '</span><span class="alpha-count">' + group.words.length + '</span><span class="alpha-chevron">⌄</span></summary><div class="alpha-menu">' + body + '</div></details>';
+      }).join('') + '</div>';
+    }
+
     function getWordsSharingCoreRoots(activeWord) {
       const coreMorphemeIds = getCoreMorphemeIds(activeWord);
       if (!coreMorphemeIds.size) return [];
@@ -928,6 +1014,8 @@ function buildHtml(data) {
 
       document.getElementById('browse').innerHTML =
         browsePanel(route);
+      document.getElementById('alphabet-browse').innerHTML =
+        alphabetBrowsePanel(route);
     }
 
     function renderWord(word) {
@@ -1014,7 +1102,7 @@ function parseYaml(raw) {
   const lines = raw
     .replace(/\r\n/g, '\n')
     .split('\n')
-    .map((line) => line.replace(/\s+#.*$/, ''))
+    .map((line) => line.replace(/(^|\s+)#.*$/, ''))
     .filter((line) => line.trim())
     .map((line) => ({
       indent: line.match(/^ */)?.[0].length ?? 0,
@@ -1028,6 +1116,9 @@ function parseBlock(lines, index, indent) {
   const line = lines[index];
   if (!line || line.indent < indent) {
     return { value: null, index };
+  }
+  if (line.text === '[]') {
+    return { value: [], index: index + 1 };
   }
   if (line.text.startsWith('- ')) {
     return parseArray(lines, index, line.indent);

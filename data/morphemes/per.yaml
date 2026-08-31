@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: per
+display: per-
+type: prefix
+core_meaning: through, completely
+zh: 穿过、完全
+origin: Latin
+senses:
+  - meaning: through, completely
+    zh: 穿过、完全
+    examples:
+      - permit
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - per- -> permit
+high_value_words:
+  - permit
+confusable_words:
+  []

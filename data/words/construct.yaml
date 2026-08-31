@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: construct
+word: construct
+pos: verb/noun
+zh: 建造；构建
+en: to build or put parts together
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: struct
+    form: struct
+    meaning_in_word: build
+    zh: 建造、排列
+    role: root
+    is_core: true
+word_family:
+  - construction
+  - constructive
+  - destruct
+word_family_details:
+  - word: construction
+    en: related form of construction
+    zh: construction 的相关词
+  - word: constructive
+    en: related form of constructive
+    zh: constructive 的相关词
+  - word: destruct
+    en: to damage or destroy a structure
+    zh: 破坏；摧毁
+confusables:
+  - word: constitute
+    reason: construct 强调建造；constitute 强调构成。
+    zh_reason: construct 强调建造；constitute 强调构成。
+examples:
+  - en: Engineers construct a bridge from many smaller parts.
+    zh: 工程师用许多小部件建造一座桥。
+why_confusing: construct 强调建造；constitute 强调构成。

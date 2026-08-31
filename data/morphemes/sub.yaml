@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sub
+display: sub-
+type: prefix
+core_meaning: under, near
+zh: 在下、靠近、从属
+origin: Latin
+senses:
+  - meaning: under, near
+    zh: 在下、靠近、从属
+    examples:
+      - subscribe
+      - succeed
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sub- -> subscribe
+  - suc- -> succeed
+high_value_words:
+  - subscribe
+  - succeed
+confusable_words:
+  []

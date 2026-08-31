@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: re
+display: re-
+type: prefix
+core_meaning: back, again
+zh: 回、再、反向
+origin: Latin
+senses:
+  - meaning: back, again
+    zh: 回、再、反向
+    examples:
+      - respect
+      - revise
+      - revert
+      - recede
+      - reduce
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - re- -> respect
+  - re- -> revise
+  - re- -> revert
+  - re- -> recede
+  - re- -> reduce
+high_value_words:
+  - respect
+  - revise
+  - revert
+  - recede
+  - reduce
+confusable_words:
+  []

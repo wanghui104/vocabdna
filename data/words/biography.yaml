@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: biography
+word: biography
+pos: noun
+zh: 传记
+en: a written account of someone's life
+components:
+  - morpheme: bio
+    form: bio-
+    meaning_in_word: life
+    zh: 生命
+    role: combining_form
+    is_core: true
+  - morpheme: graph
+    form: graphy-
+    meaning_in_word: writing
+    zh: 写、记录
+    role: combining_form
+    is_core: true
+word_family:
+  - biographical
+  - autograph
+  - demography
+word_family_details:
+  - word: biographical
+    en: related form of biographical
+    zh: biographical 的相关词
+  - word: autograph
+    en: a person's own signature
+    zh: 亲笔签名
+  - word: demography
+    en: the study of populations and their structure
+    zh: 人口统计学
+confusables:
+  - word: autobiography
+    reason: biography 是别人写的人生；autobiography 是自传。
+    zh_reason: biography 是别人写的人生；autobiography 是自传。
+examples:
+  - en: The biography covers her early career.
+    zh: 这本传记讲述了她早期的职业生涯。
+why_confusing: biography 是别人写的人生；autobiography 是自传。

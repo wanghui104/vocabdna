@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: port
+display: port
+type: root
+core_meaning: carry
+zh: 携带、运输
+origin: Latin
+senses:
+  - meaning: carry
+    zh: 携带、运输
+    examples:
+      - transport
+      - import
+      - export
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - port -> transport
+  - port -> import
+  - port -> export
+high_value_words:
+  - transport
+  - import
+  - export
+confusable_words:
+  []

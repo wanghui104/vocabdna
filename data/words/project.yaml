@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: project
+word: project
+pos: verb/noun
+zh: 项目；投射；预计
+en: a planned task, or to throw forward, display, or estimate
+components:
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: forward
+    zh: 向前、公开、代替
+    role: prefix
+    is_core: false
+  - morpheme: ject
+    form: ject
+    meaning_in_word: throw
+    zh: 投、扔
+    role: root
+    is_core: true
+word_family:
+  - projection
+  - eject
+  - inject
+word_family_details:
+  - word: projection
+    en: related form of projection
+    zh: projection 的相关词
+  - word: eject
+    en: to force something or someone out
+    zh: 弹出；逐出
+  - word: inject
+    en: to put something into something else, often by force
+    zh: 注入；注射
+confusables:
+  - word: predict
+    reason: project 作名词重音通常在前；作动词重音通常在后。
+    zh_reason: project 作名词重音通常在前；作动词重音通常在后。
+examples:
+  - en: The team will project sales for next year.
+    zh: 团队将预测明年的销售额。
+why_confusing: project 作名词重音通常在前；作动词重音通常在后。

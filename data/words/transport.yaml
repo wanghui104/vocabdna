@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: transport
+word: transport
+pos: verb/noun
+zh: 运输；运送
+en: to carry people or goods from one place to another
+components:
+  - morpheme: trans
+    form: trans-
+    meaning_in_word: across
+    zh: 横越、穿过、转移
+    role: prefix
+    is_core: false
+  - morpheme: port
+    form: port
+    meaning_in_word: carry
+    zh: 携带、运输
+    role: root
+    is_core: true
+word_family:
+  - transportation
+  - import
+  - export
+word_family_details:
+  - word: transportation
+    en: related form of transportation
+    zh: transportation 的相关词
+  - word: import
+    en: to bring goods or data into a place or system
+    zh: 进口；引入
+  - word: export
+    en: to send goods or data out of a place or system
+    zh: 出口；导出
+confusables:
+  - word: transfer
+    reason: transport 偏运输；transfer 偏转移位置或权限。
+    zh_reason: transport 偏运输；transfer 偏转移位置或权限。
+examples:
+  - en: Trains transport passengers across the city.
+    zh: 火车把乘客运送穿过城市。
+why_confusing: transport 偏运输；transfer 偏转移位置或权限。

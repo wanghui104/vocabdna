@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dismiss
+word: dismiss
+pos: verb
+zh: 解散；驳回；不予理会
+en: to send away or refuse to consider
+components:
+  - morpheme: de
+    form: dis-
+    meaning_in_word: away
+    zh: 向下、离开、取消
+    role: prefix
+    is_core: false
+  - morpheme: mit
+    form: miss
+    meaning_in_word: send
+    zh: 送、放出
+    role: root
+    is_core: true
+word_family:
+  - dismissal
+  - transmit
+  - permit
+word_family_details:
+  - word: dismissal
+    en: related form of dismissal
+    zh: dismissal 的相关词
+  - word: transmit
+    en: to send information, signals, or disease from one place to another
+    zh: 传输；传播
+  - word: permit
+    en: to allow, or an official document allowing something
+    zh: 允许；许可证
+confusables:
+  - word: miss
+    reason: dismiss 不是 miss 的简单加强，而是 send away。
+    zh_reason: dismiss 不是 miss 的简单加强，而是 send away。
+examples:
+  - en: The judge dismissed the case.
+    zh: 法官驳回了这个案件。
+why_confusing: dismiss 不是 miss 的简单加强，而是 send away。

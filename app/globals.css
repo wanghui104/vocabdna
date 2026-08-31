@@ -245,6 +245,70 @@ body {
     @apply bg-accent text-accent-foreground hover:bg-accent;
   }
 
+  .alphabet-dropdowns {
+    @apply space-y-1;
+  }
+
+  .alpha-dropdown {
+    @apply relative;
+  }
+
+  .alpha-summary {
+    @apply flex h-8 cursor-pointer list-none items-center gap-2 rounded-md border border-transparent px-2 text-sm font-semibold hover:bg-secondary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring;
+  }
+
+  .alpha-summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .alpha-letter {
+    @apply w-6 text-foreground;
+  }
+
+  .alpha-count {
+    @apply ml-auto min-w-7 rounded-sm bg-secondary px-1.5 py-0.5 text-center text-[11px] text-muted-foreground;
+  }
+
+  .alpha-chevron {
+    @apply size-3.5 text-muted-foreground transition-transform;
+  }
+
+  .alpha-dropdown[open] .alpha-summary {
+    @apply border-border bg-secondary;
+  }
+
+  .alpha-dropdown[open] .alpha-chevron {
+    @apply rotate-180;
+  }
+
+  .alpha-menu {
+    @apply mt-1 max-h-56 overflow-y-auto rounded-md border border-border bg-popover py-1 shadow-[0_10px_24px_rgb(24_35_52/14%)];
+  }
+
+  .alpha-word {
+    @apply grid w-full grid-cols-[minmax(0,1fr)_auto] gap-3 px-3 py-1.5 text-left text-sm hover:bg-secondary;
+  }
+
+  .alpha-word span:first-child {
+    @apply truncate font-medium;
+  }
+
+  .alpha-word span:last-child {
+    @apply truncate text-xs text-muted-foreground;
+  }
+
+  .alpha-word-active {
+    @apply bg-accent text-accent-foreground hover:bg-accent;
+  }
+
+  .alpha-word-active span:last-child {
+    @apply text-accent-foreground/75;
+  }
+
+  .alpha-empty {
+    @apply px-3 py-2 text-sm text-muted-foreground;
+  }
+
   .inline-link {
     @apply font-semibold text-primary underline-offset-2 hover:underline focus-visible:rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring;
   }

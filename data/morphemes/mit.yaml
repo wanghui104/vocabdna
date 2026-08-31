@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mit
+display: mit
+type: root
+core_meaning: send, let go
+zh: 送、放出
+origin: Latin
+senses:
+  - meaning: send, let go
+    zh: 送、放出
+    examples:
+      - transmit
+      - dismiss
+      - permit
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - mit -> transmit
+  - miss -> dismiss
+  - mit -> permit
+high_value_words:
+  - transmit
+  - dismiss
+  - permit
+confusable_words:
+  []

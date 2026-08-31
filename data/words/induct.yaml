@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: induct
+word: induct
+pos: verb
+zh: 使正式就任；吸纳
+en: to formally bring someone into a role or group
+components:
+  - morpheme: im
+    form: in-
+    meaning_in_word: in
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+  - morpheme: duc
+    form: duct
+    meaning_in_word: lead
+    zh: 引导、带领
+    role: root
+    is_core: true
+word_family:
+  - induction
+  - conduct
+  - produce
+  - reduce
+word_family_details:
+  - word: induction
+    en: related form of induction
+    zh: induction 的相关词
+  - word: conduct
+    en: to lead, organize, or carry out
+    zh: 实施；引导；行为
+  - word: produce
+    en: to make or bring something forth
+    zh: 生产；产生；农产品
+  - word: reduce
+    en: to make something smaller or less
+    zh: 减少；降低
+confusables:
+  - word: deduct
+    reason: induct 是引入/就任；deduct 是扣除。
+    zh_reason: induct 是引入/就任；deduct 是扣除。
+examples:
+  - en: The club inducted three new members.
+    zh: 俱乐部吸纳了三名新成员。
+why_confusing: induct 是引入/就任；deduct 是扣除。

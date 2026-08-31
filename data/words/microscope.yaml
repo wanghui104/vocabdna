@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: microscope
+word: microscope
+pos: noun
+zh: 显微镜
+en: an instrument for viewing very small objects
+components:
+  - morpheme: micro
+    form: micro-
+    meaning_in_word: small
+    zh: 小、微小
+    role: combining_form
+    is_core: true
+  - morpheme: spect
+    form: scope-
+    meaning_in_word: look
+    zh: 看
+    role: combining_form
+    is_core: true
+word_family:
+  - microscopic
+  - telescope
+word_family_details:
+  - word: microscopic
+    en: related form of microscopic
+    zh: microscopic 的相关词
+  - word: telescope
+    en: an instrument for viewing distant objects
+    zh: 望远镜；压缩
+confusables:
+  - word: microphone
+    reason: microscope 看小物；microphone 收声音。
+    zh_reason: microscope 看小物；microphone 收声音。
+examples:
+  - en: Students observed cells through a microscope.
+    zh: 学生通过显微镜观察细胞。
+why_confusing: microscope 看小物；microphone 收声音。

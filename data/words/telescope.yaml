@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: telescope
+word: telescope
+pos: noun/verb
+zh: 望远镜；压缩
+en: an instrument for viewing distant objects
+components:
+  - morpheme: tele
+    form: tele-
+    meaning_in_word: far
+    zh: 远
+    role: combining_form
+    is_core: true
+  - morpheme: spect
+    form: scope-
+    meaning_in_word: look
+    zh: 看
+    role: combining_form
+    is_core: true
+word_family:
+  - telescopic
+  - microscope
+word_family_details:
+  - word: telescopic
+    en: related form of telescopic
+    zh: telescopic 的相关词
+  - word: microscope
+    en: an instrument for viewing very small objects
+    zh: 显微镜
+confusables:
+  - word: telegraph
+    reason: telescope 是望远镜；telegraph 是远距离书写/电报。
+    zh_reason: telescope 是望远镜；telegraph 是远距离书写/电报。
+examples:
+  - en: The telescope revealed distant galaxies.
+    zh: 望远镜揭示了遥远的星系。
+why_confusing: telescope 是望远镜；telegraph 是远距离书写/电报。

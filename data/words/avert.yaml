@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: avert
+word: avert
+pos: verb
+zh: 避免；转移开
+en: to prevent something bad or turn away
+components:
+  - morpheme: ad
+    form: a-
+    meaning_in_word: away
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: vert
+    meaning_in_word: turn
+    zh: 转、转向
+    role: root
+    is_core: true
+word_family:
+  - aversion
+  - convert
+  - revert
+word_family_details:
+  - word: aversion
+    en: related form of aversion
+    zh: aversion 的相关词
+  - word: convert
+    en: to change something into another form
+    zh: 转换；改变信仰者
+  - word: revert
+    en: to return to a previous state
+    zh: 恢复；回复到
+confusables:
+  - word: avoid
+    reason: avert 常接危机/危险；avoid 更普通。
+    zh_reason: avert 常接危机/危险；avoid 更普通。
+examples:
+  - en: Quick action averted a crisis.
+    zh: 迅速行动避免了一场危机。
+why_confusing: avert 常接危机/危险；avoid 更普通。

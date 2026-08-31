@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: export
+word: export
+pos: verb/noun
+zh: 出口；导出
+en: to send goods or data out of a place or system
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out
+    zh: 出、向外
+    role: prefix
+    is_core: false
+  - morpheme: port
+    form: port
+    meaning_in_word: carry
+    zh: 携带、运输
+    role: root
+    is_core: true
+word_family:
+  - exporter
+  - import
+  - transport
+word_family_details:
+  - word: exporter
+    en: related form of exporter
+    zh: exporter 的相关词
+  - word: import
+    en: to bring goods or data into a place or system
+    zh: 进口；引入
+  - word: transport
+    en: to carry people or goods from one place to another
+    zh: 运输；运送
+confusables:
+  - word: exploit
+    reason: export 是输出；exploit 是利用或剥削。
+    zh_reason: export 是输出；exploit 是利用或剥削。
+examples:
+  - en: The app can export your notes as a PDF.
+    zh: 这个应用可以把笔记导出为 PDF。
+why_confusing: export 是输出；exploit 是利用或剥削。

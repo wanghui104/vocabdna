@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: audible
+word: audible
+pos: adjective
+zh: 听得见的
+en: able to be heard
+components:
+  - morpheme: aud
+    form: aud
+    meaning_in_word: hear
+    zh: 听
+    role: root
+    is_core: true
+  - morpheme: aud
+    form: -ible
+    meaning_in_word: able to be
+    zh: 听
+    role: suffix
+    is_core: false
+word_family:
+  - audibility
+  - audience
+word_family_details:
+  - word: audibility
+    en: related form of audibility
+    zh: audibility 的相关词
+  - word: audience
+    en: the people who listen to or watch something
+    zh: 观众；听众；受众
+confusables:
+  - word: edible
+    reason: audible 是听得见；edible 是可食用。
+    zh_reason: audible 是听得见；edible 是可食用。
+examples:
+  - en: Her voice was barely audible.
+    zh: 她的声音几乎听不见。
+why_confusing: audible 是听得见；edible 是可食用。

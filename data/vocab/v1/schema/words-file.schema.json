@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://vocabdna.local/schema/words-file.schema.json",
+  "title": "VocabDNA Words File",
+  "type": "object",
+  "required": ["version", "words"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string",
+      "const": "vocab-data-v1"
+    },
+    "words": {
+      "type": "array",
+      "items": {
+        "$ref": "./word.schema.json"
+      }
+    }
+  }
+}
+

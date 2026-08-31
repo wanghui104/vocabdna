@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: phon
+display: phon-
+type: combining form
+core_meaning: sound, voice
+zh: 声音
+origin: Greek
+senses:
+  - meaning: sound, voice
+    zh: 声音
+    examples:
+      - phonetic
+      - symphony
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - phon- -> phonetic
+  - phony- -> symphony
+high_value_words:
+  - phonetic
+  - symphony
+confusable_words:
+  []

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: art
+display: art
+type: root
+core_meaning: skill, craft
+zh: 技艺、技巧
+origin: Latin
+senses:
+  - meaning: skill, craft
+    zh: 技艺、技巧
+    examples:
+      - artifact
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - art -> artifact
+high_value_words:
+  - artifact
+confusable_words:
+  []

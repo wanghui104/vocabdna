@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ad
+display: ad-
+type: prefix
+core_meaning: to, toward
+zh: 去、向、靠近
+origin: Latin
+senses:
+  - meaning: to, toward
+    zh: 去、向、靠近
+    examples:
+      - avert
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - a- -> avert
+high_value_words:
+  - avert
+confusable_words:
+  []

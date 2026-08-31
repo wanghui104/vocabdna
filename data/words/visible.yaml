@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: visible
+word: visible
+pos: adjective
+zh: 可见的；明显的
+en: able to be seen
+components:
+  - morpheme: vis
+    form: vis
+    meaning_in_word: see
+    zh: 看、可见
+    role: root
+    is_core: true
+  - morpheme: vis
+    form: -ible
+    meaning_in_word: able to be
+    zh: 看、可见
+    role: suffix
+    is_core: false
+word_family:
+  - visibility
+  - revise
+word_family_details:
+  - word: visibility
+    en: related form of visibility
+    zh: visibility 的相关词
+  - word: revise
+    en: to review and change or study again
+    zh: 修订；复习
+confusables:
+  - word: visual
+    reason: visible 是可见；visual 是视觉的。
+    zh_reason: visible 是可见；visual 是视觉的。
+examples:
+  - en: The mountain is visible from the window.
+    zh: 从窗户可以看见那座山。
+why_confusing: visible 是可见；visual 是视觉的。

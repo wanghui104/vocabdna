@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fac
+display: fac
+type: root
+core_meaning: make, do
+zh: 做、制造
+origin: Latin
+senses:
+  - meaning: make, do
+    zh: 做、制造
+    examples:
+      - benefactor
+      - manufacture
+      - artifact
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fact / -or -> benefactor
+  - fact -> manufacture
+  - fact -> artifact
+high_value_words:
+  - benefactor
+  - manufacture
+  - artifact
+confusable_words:
+  []

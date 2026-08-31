@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: revert
+word: revert
+pos: verb
+zh: 恢复；回复到
+en: to return to a previous state
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: vert
+    meaning_in_word: turn
+    zh: 转、转向
+    role: root
+    is_core: true
+word_family:
+  - reversion
+  - convert
+  - avert
+word_family_details:
+  - word: reversion
+    en: related form of reversion
+    zh: reversion 的相关词
+  - word: convert
+    en: to change something into another form
+    zh: 转换；改变信仰者
+  - word: avert
+    en: to prevent something bad or turn away
+    zh: 避免；转移开
+confusables:
+  - word: reverse
+    reason: revert to 后接旧状态；reply 是回复消息。
+    zh_reason: revert to 后接旧状态；reply 是回复消息。
+examples:
+  - en: The system reverted to its old settings.
+    zh: 系统恢复到了旧设置。
+why_confusing: revert to 后接旧状态；reply 是回复消息。

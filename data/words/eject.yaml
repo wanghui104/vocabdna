@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eject
+word: eject
+pos: verb
+zh: 弹出；逐出
+en: to force something or someone out
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out
+    zh: 出、向外
+    role: prefix
+    is_core: false
+  - morpheme: ject
+    form: ject
+    meaning_in_word: throw
+    zh: 投、扔
+    role: root
+    is_core: true
+word_family:
+  - ejection
+  - inject
+  - project
+word_family_details:
+  - word: ejection
+    en: related form of ejection
+    zh: ejection 的相关词
+  - word: inject
+    en: to put something into something else, often by force
+    zh: 注入；注射
+  - word: project
+    en: a planned task, or to throw forward, display, or estimate
+    zh: 项目；投射；预计
+confusables:
+  - word: evict
+    reason: eject 可指弹出；evict 常指依法驱逐。
+    zh_reason: eject 可指弹出；evict 常指依法驱逐。
+examples:
+  - en: The pilot ejected from the aircraft.
+    zh: 飞行员从飞机中弹射出来。
+why_confusing: eject 可指弹出；evict 常指依法驱逐。

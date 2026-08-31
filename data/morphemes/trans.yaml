@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: trans
+display: trans-
+type: prefix
+core_meaning: across, through
+zh: 横越、穿过、转移
+origin: Latin
+senses:
+  - meaning: across, through
+    zh: 横越、穿过、转移
+    examples:
+      - transport
+      - transmit
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - trans- -> transport
+  - trans- -> transmit
+high_value_words:
+  - transport
+  - transmit
+confusable_words:
+  []

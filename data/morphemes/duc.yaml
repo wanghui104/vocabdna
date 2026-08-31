@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: duc
+display: duc
+type: root
+core_meaning: lead
+zh: 引导、带领
+origin: Latin
+senses:
+  - meaning: lead
+    zh: 引导、带领
+    examples:
+      - conduct
+      - induct
+      - produce
+      - reduce
+      - deduct
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - duct -> conduct
+  - duct -> induct
+  - duce -> produce
+  - duce -> reduce
+  - duct -> deduct
+high_value_words:
+  - conduct
+  - induct
+  - produce
+  - reduce
+  - deduct
+confusable_words:
+  []

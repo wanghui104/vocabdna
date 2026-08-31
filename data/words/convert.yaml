@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: convert
+word: convert
+pos: verb/noun
+zh: 转换；改变信仰者
+en: to change something into another form
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together, completely
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: vert
+    meaning_in_word: turn
+    zh: 转、转向
+    role: root
+    is_core: true
+word_family:
+  - conversion
+  - revert
+  - avert
+word_family_details:
+  - word: conversion
+    en: related form of conversion
+    zh: conversion 的相关词
+  - word: revert
+    en: to return to a previous state
+    zh: 恢复；回复到
+  - word: avert
+    en: to prevent something bad or turn away
+    zh: 避免；转移开
+confusables:
+  - word: convey
+    reason: convert 是转换；convey 是传达或运输。
+    zh_reason: convert 是转换；convey 是传达或运输。
+examples:
+  - en: The tool converts speech into text.
+    zh: 这个工具把语音转换成文字。
+why_confusing: convert 是转换；convey 是传达或运输。

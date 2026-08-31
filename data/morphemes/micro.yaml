@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: micro
+display: micro-
+type: combining form
+core_meaning: small
+zh: 小、微小
+origin: Greek
+senses:
+  - meaning: small
+    zh: 小、微小
+    examples:
+      - microscope
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - micro- -> microscope
+high_value_words:
+  - microscope
+confusable_words:
+  []
