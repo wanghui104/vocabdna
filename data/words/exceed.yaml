@@ -20,9 +20,6 @@ components:
 word_family:
   - excess
   - exceedingly
-  - proceed
-  - succeed
-  - recede
 word_family_details:
   - word: excess
     en: related form of excess
@@ -30,15 +27,6 @@ word_family_details:
   - word: exceedingly
     en: related form of exceedingly
     zh: exceedingly 的相关词
-  - word: proceed
-    en: to continue or move forward
-    zh: 继续进行；前进
-  - word: succeed
-    en: to achieve success or come after someone
-    zh: 成功；继承；接替
-  - word: recede
-    en: to move back or become more distant
-    zh: 后退；退去
 confusables:
   - word: excel
     reason: exceed 是超过；excel 是擅长。

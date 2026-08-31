@@ -18,15 +18,9 @@ components:
     role: combining_form
     is_core: true
 word_family:
-  - biography
-  - demography
+  []
 word_family_details:
-  - word: biography
-    en: a written account of someone's life
-    zh: 传记
-  - word: demography
-    en: the study of populations and their structure
-    zh: 人口统计学
+  []
 confusables:
   - word: autobiography
     reason: autograph 是签名；autobiography 是自传。

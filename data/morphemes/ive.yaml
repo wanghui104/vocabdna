@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ive
+display: -ive
+type: suffix
+core_meaning: having the nature of, tending to
+zh: 具有……性质的；倾向于……的
+origin: Latin
+senses:
+  - meaning: having the nature of, tending to
+    zh: 具有……性质的；倾向于……的
+    examples:
+      - inductive
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ive -> inductive
+high_value_words:
+  - inductive
+confusable_words:
+  []

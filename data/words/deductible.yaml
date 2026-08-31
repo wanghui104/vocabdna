@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deductible
+word: deductible
+pos: adjective/noun
+zh: 可扣除的；免赔额
+en: able to be subtracted, or the amount paid before insurance covers costs
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, away
+    zh: 向下、离开、取消
+    role: prefix
+    is_core: false
+  - morpheme: duc
+    form: duct
+    meaning_in_word: lead
+    zh: 引导、带领
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -ible
+    meaning_in_word: able to be
+    zh: 能够被……的
+    role: suffix
+    is_core: false
+word_family:
+  - deduct
+  - deduction
+word_family_details:
+  - word: deduct
+    en: to subtract or take away from a total
+    zh: 扣除；减去
+  - word: deduction
+    en: an amount taken away, or reasoning from a rule to a conclusion
+    zh: 扣除；推论；演绎
+confusables:
+  - word: deductive
+    reason: deductible 可作形容词，也可作保险中的免赔额名词。
+    zh_reason: deductible 可作形容词，也可作保险中的免赔额名词。
+examples:
+  - en: Some business expenses are deductible.
+    zh: 一些商业开支是可以扣除的。
+why_confusing: deductible 可作形容词，也可作保险中的免赔额名词。

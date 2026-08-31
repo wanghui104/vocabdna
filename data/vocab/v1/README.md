@@ -12,6 +12,8 @@ indexes, and navigation indexes from the same source of truth.
 - `schema/root.schema.json`: JSON Schema for root entries.
 - `words.seed-50.json`: the first 50 pilot words.
 - `roots.seed.json`: root and affix entries referenced by the pilot words.
+- `ADDING_WORDS.md`: operational guide for adding new words safely.
+- `DELETING_WORDS.md`: operational guide for removing words safely.
 
 ## Design Principles
 

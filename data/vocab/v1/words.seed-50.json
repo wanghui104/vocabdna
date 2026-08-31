@@ -2197,7 +2197,8 @@
       ],
       "relations": {
         "derivatives": [
-          "induction"
+          "induction",
+          "inductive"
         ],
         "sameFamily": [
           "conduct",
@@ -3055,6 +3056,360 @@
       },
       "tags": [
         "pilot-50",
+        "leading"
+      ]
+    },
+    {
+      "id": "word:induction",
+      "slug": "induction",
+      "term": "induction",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "leading in, formal entry or reasoning",
+          "zh": "就职仪式；归纳；诱导",
+          "en": "the act of bringing someone into a role, or reasoning from examples to a rule",
+          "example": {
+            "en": "The induction ceremony welcomed the new members.",
+            "zh": "入会仪式欢迎了新成员。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "in",
+          "type": "prefix",
+          "meaning": "in",
+          "rootId": "root:im"
+        },
+        {
+          "form": "duct",
+          "type": "root",
+          "meaning": "lead",
+          "rootId": "root:duc"
+        },
+        {
+          "form": "ion",
+          "type": "suffix",
+          "meaning": "act, process, result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:im",
+        "root:duc",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "induct",
+          "inductive"
+        ],
+        "sameFamily": [
+          "conduct",
+          "produce",
+          "reduce",
+          "deduct"
+        ],
+        "confusables": [
+          "deduction"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把人或想法引入某个体系，也可指从例子引出规则。",
+        "memoryHook": "in + duct + ion = leading in as an action/result.",
+        "watchOut": "induction 是引入或归纳；deduction 是扣除或演绎推理。"
+      },
+      "tags": [
+        "pilot-family",
+        "leading"
+      ]
+    },
+    {
+      "id": "word:inductive",
+      "slug": "inductive",
+      "term": "inductive",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "leading toward a general rule",
+          "zh": "归纳的；诱导的",
+          "en": "using particular examples to reach a general rule",
+          "example": {
+            "en": "Inductive reasoning moves from examples to a broader pattern.",
+            "zh": "归纳推理从例子走向更广泛的规律。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "in",
+          "type": "prefix",
+          "meaning": "in",
+          "rootId": "root:im"
+        },
+        {
+          "form": "duct",
+          "type": "root",
+          "meaning": "lead",
+          "rootId": "root:duc"
+        },
+        {
+          "form": "ive",
+          "type": "suffix",
+          "meaning": "having the nature of",
+          "rootId": "root:ive"
+        }
+      ],
+      "rootIds": [
+        "root:im",
+        "root:duc",
+        "root:ive"
+      ],
+      "relations": {
+        "derivatives": [
+          "induct",
+          "induction"
+        ],
+        "sameFamily": [
+          "conduct",
+          "produce",
+          "reduce",
+          "deduct"
+        ],
+        "confusables": [
+          "deductive"
+        ]
+      },
+      "learning": {
+        "coreIdea": "有引导出结论的性质。",
+        "memoryHook": "in + duct + ive = tending to lead in/toward a rule.",
+        "watchOut": "inductive 是归纳的；deductive 是演绎的。"
+      },
+      "tags": [
+        "pilot-family",
+        "leading"
+      ]
+    },
+    {
+      "id": "word:reduction",
+      "slug": "reduction",
+      "term": "reduction",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "making smaller",
+          "zh": "减少；降低；缩减",
+          "en": "the act or result of making something smaller or less",
+          "example": {
+            "en": "The plan aims for a reduction in waste.",
+            "zh": "该计划旨在减少废弃物。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back, down",
+          "rootId": "root:re"
+        },
+        {
+          "form": "duct",
+          "type": "root",
+          "meaning": "lead",
+          "rootId": "root:duc"
+        },
+        {
+          "form": "ion",
+          "type": "suffix",
+          "meaning": "act, process, result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:duc",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "reduce"
+        ],
+        "sameFamily": [
+          "produce",
+          "conduct",
+          "induct",
+          "deduct"
+        ],
+        "confusables": [
+          "deduction"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把数量带到更低后的过程或结果。",
+        "memoryHook": "re + duct + ion = leading down as a result.",
+        "watchOut": "reduction 是减少；deduction 是扣除或推论。"
+      },
+      "tags": [
+        "pilot-family",
+        "leading"
+      ]
+    },
+    {
+      "id": "word:deduction",
+      "slug": "deduction",
+      "term": "deduction",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "taking away or reasoning down",
+          "zh": "扣除；推论；演绎",
+          "en": "an amount taken away, or reasoning from a rule to a conclusion",
+          "example": {
+            "en": "Tax deductions lowered the final bill.",
+            "zh": "税务扣除降低了最终账单。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "de",
+          "type": "prefix",
+          "meaning": "down, away",
+          "rootId": "root:de"
+        },
+        {
+          "form": "duct",
+          "type": "root",
+          "meaning": "lead",
+          "rootId": "root:duc"
+        },
+        {
+          "form": "ion",
+          "type": "suffix",
+          "meaning": "act, process, result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:de",
+        "root:duc",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "deduct",
+          "deductible"
+        ],
+        "sameFamily": [
+          "conduct",
+          "induct",
+          "reduce"
+        ],
+        "confusables": [
+          "induction",
+          "reduction"
+        ]
+      },
+      "learning": {
+        "coreIdea": "从总数中带走一部分，或从规则带出结论。",
+        "memoryHook": "de + duct + ion = leading away/down as a result.",
+        "watchOut": "deduction 是扣除或演绎；reduction 是减少；induction 是归纳。"
+      },
+      "tags": [
+        "pilot-family",
+        "leading"
+      ]
+    },
+    {
+      "id": "word:deductible",
+      "slug": "deductible",
+      "term": "deductible",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective",
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "able to be deducted",
+          "zh": "可扣除的；免赔额",
+          "en": "able to be subtracted, or the amount paid before insurance covers costs",
+          "example": {
+            "en": "Some business expenses are deductible.",
+            "zh": "一些商业开支是可以扣除的。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "de",
+          "type": "prefix",
+          "meaning": "down, away",
+          "rootId": "root:de"
+        },
+        {
+          "form": "duct",
+          "type": "root",
+          "meaning": "lead",
+          "rootId": "root:duc"
+        },
+        {
+          "form": "ible",
+          "type": "suffix",
+          "meaning": "able to be",
+          "rootId": "root:able"
+        }
+      ],
+      "rootIds": [
+        "root:de",
+        "root:duc",
+        "root:able"
+      ],
+      "relations": {
+        "derivatives": [
+          "deduct",
+          "deduction"
+        ],
+        "sameFamily": [
+          "conduct",
+          "induct",
+          "reduce"
+        ],
+        "confusables": [
+          "deductive"
+        ]
+      },
+      "learning": {
+        "coreIdea": "可以从总数中扣除的。",
+        "memoryHook": "de + duct + ible = able to be led away from a total.",
+        "watchOut": "deductible 可作形容词，也可作保险中的免赔额名词。"
+      },
+      "tags": [
+        "pilot-family",
         "leading"
       ]
     }

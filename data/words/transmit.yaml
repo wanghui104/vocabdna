@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - transmission
-  - dismiss
-  - permit
 word_family_details:
   - word: transmission
     en: related form of transmission
     zh: transmission 的相关词
-  - word: dismiss
-    en: to send away or refuse to consider
-    zh: 解散；驳回；不予理会
-  - word: permit
-    en: to allow, or an official document allowing something
-    zh: 允许；许可证
 confusables:
   - word: transfer
     reason: transmit 强调发送信号/疾病；transfer 强调转移。

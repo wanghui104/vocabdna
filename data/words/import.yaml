@@ -20,8 +20,6 @@ components:
 word_family:
   - importer
   - important
-  - export
-  - transport
 word_family_details:
   - word: importer
     en: related form of importer
@@ -29,12 +27,6 @@ word_family_details:
   - word: important
     en: related form of important
     zh: important 的相关词
-  - word: export
-    en: to send goods or data out of a place or system
-    zh: 出口；导出
-  - word: transport
-    en: to carry people or goods from one place to another
-    zh: 运输；运送
 confusables:
   - word: important
     reason: import 和 important 形近但词源路径不同。

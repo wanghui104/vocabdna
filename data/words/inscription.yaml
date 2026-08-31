@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - inscribe
-  - subscribe
-  - describe
 word_family_details:
   - word: inscribe
     en: related form of inscribe
     zh: inscribe 的相关词
-  - word: subscribe
-    en: to sign up for or agree with an idea
-    zh: 订阅；同意
-  - word: describe
-    en: to say or write what something is like
-    zh: 描述
 confusables:
   - word: subscription
     reason: inscription 是铭文；subscription 是订阅。

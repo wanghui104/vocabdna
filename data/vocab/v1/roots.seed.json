@@ -765,6 +765,65 @@
         "coreImage": "内心愿意做某事。",
         "notes": "benevolent/malevolent 是善意和恶意。"
       }
+    },
+    {
+      "id": "root:ion",
+      "slug": "ion",
+      "forms": [
+        "ion",
+        "tion",
+        "sion"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "行为、过程、结果",
+        "en": "act, process, result"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把动作名词化，表示一个行为、过程或结果。",
+        "notes": "induction, reduction, deduction 都使用这个名词化后缀。"
+      }
+    },
+    {
+      "id": "root:ive",
+      "slug": "ive",
+      "forms": [
+        "ive",
+        "ative",
+        "itive"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "具有……性质的；倾向于……的",
+        "en": "having the nature of, tending to"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把动作变成一种性质或倾向。",
+        "notes": "inductive 表示具有引导出结论的性质。"
+      }
+    },
+    {
+      "id": "root:able",
+      "slug": "able-ible",
+      "forms": [
+        "able",
+        "ible"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "能够被……的",
+        "en": "able to be"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "某个动作可以发生在对象身上。",
+        "notes": "deductible 表示可以被扣除的。"
+      }
     }
   ]
 }

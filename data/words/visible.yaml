@@ -19,14 +19,10 @@ components:
     is_core: false
 word_family:
   - visibility
-  - revise
 word_family_details:
   - word: visibility
     en: related form of visibility
     zh: visibility 的相关词
-  - word: revise
-    en: to review and change or study again
-    zh: 修订；复习
 confusables:
   - word: visual
     reason: visible 是可见；visual 是视觉的。

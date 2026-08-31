@@ -13,6 +13,8 @@ senses:
       - dismiss
       - describe
       - deduct
+      - deduction
+      - deductible
 similar_form:
   []
 similar_meaning:
@@ -22,10 +24,14 @@ patterns:
   - dis- -> dismiss
   - de- -> describe
   - de- -> deduct
+  - de- -> deduction
+  - de- -> deductible
 high_value_words:
   - destruct
   - dismiss
   - describe
   - deduct
+  - deduction
+  - deductible
 confusable_words:
   []

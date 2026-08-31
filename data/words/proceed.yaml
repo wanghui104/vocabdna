@@ -20,9 +20,6 @@ components:
 word_family:
   - procedure
   - proceeding
-  - exceed
-  - succeed
-  - recede
 word_family_details:
   - word: procedure
     en: related form of procedure
@@ -30,15 +27,6 @@ word_family_details:
   - word: proceeding
     en: related form of proceeding
     zh: proceeding 的相关词
-  - word: exceed
-    en: to be greater than a limit or expectation
-    zh: 超过；超出
-  - word: succeed
-    en: to achieve success or come after someone
-    zh: 成功；继承；接替
-  - word: recede
-    en: to move back or become more distant
-    zh: 后退；退去
 confusables:
   - word: precede
     reason: proceed 是继续；precede 是在前。

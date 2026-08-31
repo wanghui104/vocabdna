@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - manufacturer
-  - benefactor
-  - artifact
 word_family_details:
   - word: manufacturer
     en: related form of manufacturer
     zh: manufacturer 的相关词
-  - word: benefactor
-    en: a person who gives help, especially money
-    zh: 恩人；捐助者
-  - word: artifact
-    en: an object made by humans, often of historical interest
-    zh: 人工制品；文物
 confusables:
   - word: produce
     reason: manufacture 强调生产过程；produce 更宽泛。

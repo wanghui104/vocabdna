@@ -19,14 +19,10 @@ components:
     is_core: true
 word_family:
   - microscopic
-  - telescope
 word_family_details:
   - word: microscopic
     en: related form of microscopic
     zh: microscopic 的相关词
-  - word: telescope
-    en: an instrument for viewing distant objects
-    zh: 望远镜；压缩
 confusables:
   - word: microphone
     reason: microscope 看小物；microphone 收声音。

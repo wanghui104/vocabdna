@@ -20,7 +20,6 @@ components:
 word_family:
   - destruction
   - destructive
-  - construct
 word_family_details:
   - word: destruction
     en: related form of destruction
@@ -28,9 +27,6 @@ word_family_details:
   - word: destructive
     en: related form of destructive
     zh: destructive 的相关词
-  - word: construct
-    en: to build or put parts together
-    zh: 建造；构建
 confusables:
   - word: destroy
     reason: destruct 较正式或技术化；destroy 更常用。

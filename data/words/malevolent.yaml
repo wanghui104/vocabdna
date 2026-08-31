@@ -19,14 +19,10 @@ components:
     is_core: true
 word_family:
   - malevolence
-  - benevolent
 word_family_details:
   - word: malevolence
     en: related form of malevolence
     zh: malevolence 的相关词
-  - word: benevolent
-    en: kind and wishing to do good
-    zh: 仁慈的；善意的
 confusables:
   - word: malignant
     reason: malevolent 强调意图；malignant 常用于恶性或有害性质。

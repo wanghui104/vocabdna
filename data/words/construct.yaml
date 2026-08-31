@@ -20,7 +20,6 @@ components:
 word_family:
   - construction
   - constructive
-  - destruct
 word_family_details:
   - word: construction
     en: related form of construction
@@ -28,9 +27,6 @@ word_family_details:
   - word: constructive
     en: related form of constructive
     zh: constructive 的相关词
-  - word: destruct
-    en: to damage or destroy a structure
-    zh: 破坏；摧毁
 confusables:
   - word: constitute
     reason: construct 强调建造；constitute 强调构成。

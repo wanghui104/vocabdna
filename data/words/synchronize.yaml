@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - synchronization
-  - chronology
-  - symphony
 word_family_details:
   - word: synchronization
     en: related form of synchronization
     zh: synchronization 的相关词
-  - word: chronology
-    en: the order of events in time
-    zh: 年代顺序；年表
-  - word: symphony
-    en: a long musical work for orchestra, or a harmonious combination
-    zh: 交响乐；和谐组合
 confusables:
   - word: synergize
     reason: synchronize 是同步；synergize 是协同增效。

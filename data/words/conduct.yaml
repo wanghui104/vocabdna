@@ -20,9 +20,6 @@ components:
 word_family:
   - conduction
   - conductor
-  - induct
-  - produce
-  - reduce
 word_family_details:
   - word: conduction
     en: related form of conduction
@@ -30,15 +27,6 @@ word_family_details:
   - word: conductor
     en: related form of conductor
     zh: conductor 的相关词
-  - word: induct
-    en: to formally bring someone into a role or group
-    zh: 使正式就任；吸纳
-  - word: produce
-    en: to make or bring something forth
-    zh: 生产；产生；农产品
-  - word: reduce
-    en: to make something smaller or less
-    zh: 减少；降低
 confusables:
   - word: conductive
     reason: conduct 作名词可指行为，作动词可指实施。

@@ -20,8 +20,6 @@ components:
 word_family:
   - contradiction
   - contradictory
-  - dictate
-  - predict
 word_family_details:
   - word: contradiction
     en: related form of contradiction
@@ -29,12 +27,6 @@ word_family_details:
   - word: contradictory
     en: related form of contradictory
     zh: contradictory 的相关词
-  - word: dictate
-    en: to say words for someone to write down or to command
-    zh: 口述；命令；决定
-  - word: predict
-    en: to say what will happen before it happens
-    zh: 预测；预言
 confusables:
   - word: contrast
     reason: contradict 是矛盾/反驳；contrast 是对比。

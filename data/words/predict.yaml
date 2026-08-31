@@ -20,8 +20,6 @@ components:
 word_family:
   - prediction
   - predictable
-  - dictate
-  - contradict
 word_family_details:
   - word: prediction
     en: related form of prediction
@@ -29,12 +27,6 @@ word_family_details:
   - word: predictable
     en: related form of predictable
     zh: predictable 的相关词
-  - word: dictate
-    en: to say words for someone to write down or to command
-    zh: 口述；命令；决定
-  - word: contradict
-    en: to say the opposite of something or be inconsistent with it
-    zh: 反驳；与……矛盾
 confusables:
   - word: predicate
     reason: predict 是预测；predicate 是语法谓语或断言。

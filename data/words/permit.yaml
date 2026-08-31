@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - permission
-  - transmit
-  - dismiss
 word_family_details:
   - word: permission
     en: related form of permission
     zh: permission 的相关词
-  - word: transmit
-    en: to send information, signals, or disease from one place to another
-    zh: 传输；传播
-  - word: dismiss
-    en: to send away or refuse to consider
-    zh: 解散；驳回；不予理会
 confusables:
   - word: allow
     reason: permit 作名词和动词重音可能不同。

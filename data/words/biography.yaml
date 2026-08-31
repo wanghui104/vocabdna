@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - biographical
-  - autograph
-  - demography
 word_family_details:
   - word: biographical
     en: related form of biographical
     zh: biographical 的相关词
-  - word: autograph
-    en: a person's own signature
-    zh: 亲笔签名
-  - word: demography
-    en: the study of populations and their structure
-    zh: 人口统计学
 confusables:
   - word: autobiography
     reason: biography 是别人写的人生；autobiography 是自传。

@@ -25,18 +25,10 @@ components:
     is_core: false
 word_family:
   - benefaction
-  - benevolent
-  - manufacture
 word_family_details:
   - word: benefaction
     en: related form of benefaction
     zh: benefaction 的相关词
-  - word: benevolent
-    en: kind and wishing to do good
-    zh: 仁慈的；善意的
-  - word: manufacture
-    en: to make goods, often in large quantities
-    zh: 制造；生产
 confusables:
   - word: beneficiary
     reason: benefactor 给帮助；beneficiary 接受好处。

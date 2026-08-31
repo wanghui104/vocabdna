@@ -20,8 +20,6 @@ components:
 word_family:
   - description
   - descriptive
-  - subscribe
-  - inscription
 word_family_details:
   - word: description
     en: related form of description
@@ -29,12 +27,6 @@ word_family_details:
   - word: descriptive
     en: related form of descriptive
     zh: descriptive 的相关词
-  - word: subscribe
-    en: to sign up for or agree with an idea
-    zh: 订阅；同意
-  - word: inscription
-    en: words written or carved on something
-    zh: 铭文；题词
 confusables:
   - word: depict
     reason: describe 用语言描述；depict 用图像或文字描绘。

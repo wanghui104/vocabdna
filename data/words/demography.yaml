@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - demographic
-  - biography
-  - autograph
 word_family_details:
   - word: demographic
     en: related form of demographic
     zh: demographic 的相关词
-  - word: biography
-    en: a written account of someone's life
-    zh: 传记
-  - word: autograph
-    en: a person's own signature
-    zh: 亲笔签名
 confusables:
   - word: democracy
     reason: demography 是人口研究；democracy 是民主制度。

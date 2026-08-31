@@ -20,8 +20,6 @@ components:
 word_family:
   - inspection
   - inspector
-  - spectacle
-  - respect
 word_family_details:
   - word: inspection
     en: related form of inspection
@@ -29,12 +27,6 @@ word_family_details:
   - word: inspector
     en: related form of inspector
     zh: inspector 的相关词
-  - word: spectacle
-    en: an impressive public sight or display
-    zh: 壮观场面；景象
-  - word: respect
-    en: to regard someone or something with care or honor
-    zh: 尊重；方面
 confusables:
   - word: expect
     reason: inspect 是检查；expect 是期待。

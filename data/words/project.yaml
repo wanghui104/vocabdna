@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - projection
-  - eject
-  - inject
 word_family_details:
   - word: projection
     en: related form of projection
     zh: projection 的相关词
-  - word: eject
-    en: to force something or someone out
-    zh: 弹出；逐出
-  - word: inject
-    en: to put something into something else, often by force
-    zh: 注入；注射
 confusables:
   - word: predict
     reason: project 作名词重音通常在前；作动词重音通常在后。

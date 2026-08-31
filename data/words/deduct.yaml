@@ -20,25 +20,13 @@ components:
 word_family:
   - deduction
   - deductible
-  - conduct
-  - induct
-  - reduce
 word_family_details:
   - word: deduction
-    en: related form of deduction
-    zh: deduction 的相关词
+    en: an amount taken away, or reasoning from a rule to a conclusion
+    zh: 扣除；推论；演绎
   - word: deductible
-    en: related form of deductible
-    zh: deductible 的相关词
-  - word: conduct
-    en: to lead, organize, or carry out
-    zh: 实施；引导；行为
-  - word: induct
-    en: to formally bring someone into a role or group
-    zh: 使正式就任；吸纳
-  - word: reduce
-    en: to make something smaller or less
-    zh: 减少；降低
+    en: able to be subtracted, or the amount paid before insurance covers costs
+    zh: 可扣除的；免赔额
 confusables:
   - word: deduce
     reason: deduct 是扣除；deduce 是推论。

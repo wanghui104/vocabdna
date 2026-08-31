@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - benevolence
-  - benefactor
-  - malevolent
 word_family_details:
   - word: benevolence
     en: related form of benevolence
     zh: benevolence 的相关词
-  - word: benefactor
-    en: a person who gives help, especially money
-    zh: 恩人；捐助者
-  - word: malevolent
-    en: having or showing a wish to harm others
-    zh: 恶意的；狠毒的
 confusables:
   - word: beneficial
     reason: benevolent 是态度仁慈；beneficial 是结果有益。

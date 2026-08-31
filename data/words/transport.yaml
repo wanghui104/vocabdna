@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - transportation
-  - import
-  - export
 word_family_details:
   - word: transportation
     en: related form of transportation
     zh: transportation 的相关词
-  - word: import
-    en: to bring goods or data into a place or system
-    zh: 进口；引入
-  - word: export
-    en: to send goods or data out of a place or system
-    zh: 出口；导出
 confusables:
   - word: transfer
     reason: transport 偏运输；transfer 偏转移位置或权限。

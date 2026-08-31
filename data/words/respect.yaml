@@ -20,8 +20,6 @@ components:
 word_family:
   - respectful
   - respective
-  - inspect
-  - spectacle
 word_family_details:
   - word: respectful
     en: related form of respectful
@@ -29,12 +27,6 @@ word_family_details:
   - word: respective
     en: related form of respective
     zh: respective 的相关词
-  - word: inspect
-    en: to look at something carefully
-    zh: 检查；视察
-  - word: spectacle
-    en: an impressive public sight or display
-    zh: 壮观场面；景象
 confusables:
   - word: respective
     reason: respectful 是恭敬的；respective 是各自的。

@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - ejection
-  - inject
-  - project
 word_family_details:
   - word: ejection
     en: related form of ejection
     zh: ejection 的相关词
-  - word: inject
-    en: to put something into something else, often by force
-    zh: 注入；注射
-  - word: project
-    en: a planned task, or to throw forward, display, or estimate
-    zh: 项目；投射；预计
 confusables:
   - word: evict
     reason: eject 可指弹出；evict 常指依法驱逐。

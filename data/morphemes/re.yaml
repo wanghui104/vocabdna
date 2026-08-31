@@ -14,6 +14,7 @@ senses:
       - revert
       - recede
       - reduce
+      - reduction
 similar_form:
   []
 similar_meaning:
@@ -24,11 +25,13 @@ patterns:
   - re- -> revert
   - re- -> recede
   - re- -> reduce
+  - re- -> reduction
 high_value_words:
   - respect
   - revise
   - revert
   - recede
   - reduce
+  - reduction
 confusable_words:
   []

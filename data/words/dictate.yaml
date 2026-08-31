@@ -14,8 +14,6 @@ components:
 word_family:
   - dictation
   - dictator
-  - predict
-  - contradict
 word_family_details:
   - word: dictation
     en: related form of dictation
@@ -23,12 +21,6 @@ word_family_details:
   - word: dictator
     en: related form of dictator
     zh: dictator 的相关词
-  - word: predict
-    en: to say what will happen before it happens
-    zh: 预测；预言
-  - word: contradict
-    en: to say the opposite of something or be inconsistent with it
-    zh: 反驳；与……矛盾
 confusables:
   - word: dedicate
     reason: dictate 是命令/口述；dedicate 是奉献。

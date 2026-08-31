@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - dismissal
-  - transmit
-  - permit
 word_family_details:
   - word: dismissal
     en: related form of dismissal
     zh: dismissal 的相关词
-  - word: transmit
-    en: to send information, signals, or disease from one place to another
-    zh: 传输；传播
-  - word: permit
-    en: to allow, or an official document allowing something
-    zh: 允许；许可证
 confusables:
   - word: miss
     reason: dismiss 不是 miss 的简单加强，而是 send away。

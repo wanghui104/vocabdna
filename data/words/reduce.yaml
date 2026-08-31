@@ -19,22 +19,10 @@ components:
     is_core: true
 word_family:
   - reduction
-  - produce
-  - conduct
-  - induct
 word_family_details:
   - word: reduction
-    en: related form of reduction
-    zh: reduction 的相关词
-  - word: produce
-    en: to make or bring something forth
-    zh: 生产；产生；农产品
-  - word: conduct
-    en: to lead, organize, or carry out
-    zh: 实施；引导；行为
-  - word: induct
-    en: to formally bring someone into a role or group
-    zh: 使正式就任；吸纳
+    en: the act or result of making something smaller or less
+    zh: 减少；降低；缩减
 confusables:
   - word: deduce
     reason: reduce 是减少；deduce 是推论。

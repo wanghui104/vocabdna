@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - exporter
-  - import
-  - transport
 word_family_details:
   - word: exporter
     en: related form of exporter
     zh: exporter 的相关词
-  - word: import
-    en: to bring goods or data into a place or system
-    zh: 进口；引入
-  - word: transport
-    en: to carry people or goods from one place to another
-    zh: 运输；运送
 confusables:
   - word: exploit
     reason: export 是输出；exploit 是利用或剥削。

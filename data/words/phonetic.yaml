@@ -13,14 +13,10 @@ components:
     is_core: true
 word_family:
   - phonetics
-  - symphony
 word_family_details:
   - word: phonetics
     en: related form of phonetics
     zh: phonetics 的相关词
-  - word: symphony
-    en: a long musical work for orchestra, or a harmonious combination
-    zh: 交响乐；和谐组合
 confusables:
   - word: phonics
     reason: phonetic 偏语音学；phonics 偏自然拼读教学。

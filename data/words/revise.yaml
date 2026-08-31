@@ -19,14 +19,10 @@ components:
     is_core: true
 word_family:
   - revision
-  - visible
 word_family_details:
   - word: revision
     en: related form of revision
     zh: revision 的相关词
-  - word: visible
-    en: able to be seen
-    zh: 可见的；明显的
 confusables:
   - word: review
     reason: revise 常含修改；review 可只是回顾。

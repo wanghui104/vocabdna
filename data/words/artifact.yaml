@@ -18,15 +18,9 @@ components:
     role: root
     is_core: true
 word_family:
-  - manufacture
-  - benefactor
+  []
 word_family_details:
-  - word: manufacture
-    en: to make goods, often in large quantities
-    zh: 制造；生产
-  - word: benefactor
-    en: a person who gives help, especially money
-    zh: 恩人；捐助者
+  []
 confusables:
   - word: article
     reason: artifact 是人工制品；article 是文章或物品。

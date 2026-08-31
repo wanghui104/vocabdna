@@ -19,14 +19,10 @@ components:
     is_core: false
 word_family:
   - audibility
-  - audience
 word_family_details:
   - word: audibility
     en: related form of audibility
     zh: audibility 的相关词
-  - word: audience
-    en: the people who listen to or watch something
-    zh: 观众；听众；受众
 confusables:
   - word: edible
     reason: audible 是听得见；edible 是可食用。

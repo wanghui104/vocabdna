@@ -19,14 +19,10 @@ components:
     is_core: false
 word_family:
   - chronological
-  - synchronize
 word_family_details:
   - word: chronological
     en: related form of chronological
     zh: chronological 的相关词
-  - word: synchronize
-    en: to make things happen at the same time
-    zh: 使同步
 confusables:
   - word: chronicle
     reason: chronology 是时间顺序；chronicle 是编年记录。

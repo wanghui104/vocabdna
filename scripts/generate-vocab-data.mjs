@@ -159,7 +159,6 @@ function buildWordYaml(word, wordsBySlug, rootsById) {
   const definition = word.definitions[0];
   const familySlugs = unique([
     ...(word.relations.derivatives ?? []),
-    ...(word.relations.sameFamily ?? []).filter((slug) => slug !== word.slug),
   ]);
   const examples = word.definitions
     .map((item) => item.example)

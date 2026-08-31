@@ -20,9 +20,6 @@ components:
 word_family:
   - success
   - successor
-  - proceed
-  - exceed
-  - recede
 word_family_details:
   - word: success
     en: related form of success
@@ -30,15 +27,6 @@ word_family_details:
   - word: successor
     en: related form of successor
     zh: successor 的相关词
-  - word: proceed
-    en: to continue or move forward
-    zh: 继续进行；前进
-  - word: exceed
-    en: to be greater than a limit or expectation
-    zh: 超过；超出
-  - word: recede
-    en: to move back or become more distant
-    zh: 后退；退去
 confusables:
   - word: successful
     reason: succeed in doing something；不要直接说 succeed to do。

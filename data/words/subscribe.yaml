@@ -20,8 +20,6 @@ components:
 word_family:
   - subscription
   - subscriber
-  - describe
-  - inscription
 word_family_details:
   - word: subscription
     en: related form of subscription
@@ -29,12 +27,6 @@ word_family_details:
   - word: subscriber
     en: related form of subscriber
     zh: subscriber 的相关词
-  - word: describe
-    en: to say or write what something is like
-    zh: 描述
-  - word: inscription
-    en: words written or carved on something
-    zh: 铭文；题词
 confusables:
   - word: prescribe
     reason: subscribe to 可表示订阅，也可表示赞同观点。

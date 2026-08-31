@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: able
+display: -able
+type: suffix
+core_meaning: able to be
+zh: 能够被……的
+origin: Latin
+senses:
+  - meaning: able to be
+    zh: 能够被……的
+    examples:
+      - deductible
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ible -> deductible
+high_value_words:
+  - deductible
+confusable_words:
+  []

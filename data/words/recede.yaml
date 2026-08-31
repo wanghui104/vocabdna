@@ -19,22 +19,10 @@ components:
     is_core: true
 word_family:
   - recession
-  - proceed
-  - exceed
-  - succeed
 word_family_details:
   - word: recession
     en: related form of recession
     zh: recession 的相关词
-  - word: proceed
-    en: to continue or move forward
-    zh: 继续进行；前进
-  - word: exceed
-    en: to be greater than a limit or expectation
-    zh: 超过；超出
-  - word: succeed
-    en: to achieve success or come after someone
-    zh: 成功；继承；接替
 confusables:
   - word: recede
     reason: recede 是退去；reseed 是重新播种。

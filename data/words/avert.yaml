@@ -19,18 +19,10 @@ components:
     is_core: true
 word_family:
   - aversion
-  - convert
-  - revert
 word_family_details:
   - word: aversion
     en: related form of aversion
     zh: aversion 的相关词
-  - word: convert
-    en: to change something into another form
-    zh: 转换；改变信仰者
-  - word: revert
-    en: to return to a previous state
-    zh: 恢复；回复到
 confusables:
   - word: avoid
     reason: avert 常接危机/危险；avoid 更普通。

@@ -12,11 +12,9 @@ components:
     role: root
     is_core: true
 word_family:
-  - audible
+  []
 word_family_details:
-  - word: audible
-    en: able to be heard
-    zh: 听得见的
+  []
 confusables:
   - word: audition
     reason: audience 是受众；audition 是试镜/试听。
