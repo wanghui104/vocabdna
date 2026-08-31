@@ -261,6 +261,29 @@ body {
     @apply flex flex-wrap gap-x-3 gap-y-1.5 text-sm leading-6;
   }
 
+  .word-gloss-list {
+    @apply flex list-none flex-wrap gap-x-5 gap-y-2 p-0 text-sm leading-6;
+  }
+
+  .word-gloss-item {
+    @apply inline-flex min-w-36 items-baseline gap-1.5;
+  }
+
+  .word-gloss-meaning {
+    @apply text-xs text-muted-foreground;
+  }
+  .morpheme-grid {
+    @apply grid list-none gap-2 p-0 text-sm;
+    grid-template-columns: repeat(auto-fill, minmax(96px, 96px));
+  }
+
+  .morpheme-grid-item {
+    @apply min-h-14 rounded-md border border-border bg-secondary/35 p-2 leading-5;
+  }
+
+  .morpheme-grid-meaning {
+    @apply mt-1 block break-words text-xs leading-4 text-muted-foreground;
+  }
   .dense-list {
     @apply space-y-1 text-sm leading-6 text-muted-foreground;
   }

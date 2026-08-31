@@ -350,7 +350,50 @@
       font-size: 14px;
       line-height: 1.7;
     }
-    .dense-list { margin: 0; padding-left: 18px; color: var(--muted); line-height: 1.75; }
+    .word-gloss-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 20px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      font-size: 14px;
+      line-height: 1.65;
+    }
+    .word-gloss-item {
+      display: inline-flex;
+      min-width: 144px;
+      align-items: baseline;
+      gap: 6px;
+    }
+    .word-gloss-meaning {
+      color: var(--muted);
+      font-size: 12px;
+    }    .morpheme-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(96px, 96px));
+      gap: 8px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      font-size: 14px;
+    }
+    .morpheme-grid-item {
+      min-height: 56px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: color-mix(in srgb, var(--soft) 45%, white);
+      padding: 8px;
+      line-height: 1.45;
+    }
+    .morpheme-grid-meaning {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.35;
+      overflow-wrap: anywhere;
+    }    .dense-list { margin: 0; padding-left: 18px; color: var(--muted); line-height: 1.75; }
     .inline-link {
       border: 0;
       background: transparent;
@@ -552,6 +595,14 @@
       if (!unique.length) return '<p class="note">No entries yet.</p>';
       return '<ul class="link-list">' + unique.map((label) => '<li>' + inlineWord(label) + '</li>').join('') + '</ul>';
     }
+    function wordGlossList(labels) {
+      const unique = [...new Set((labels ?? []).filter(Boolean))];
+      if (!unique.length) return '<p class="note">No entries yet.</p>';
+      return '<ul class="word-gloss-list">' + unique.map((label) => {
+        const word = wordByLabel.get(String(label).toLowerCase());
+        return '<li class="word-gloss-item">' + inlineWord(label) + '<span class="word-gloss-meaning">' + escapeHtml(word?.zh ?? '') + '</span></li>';
+      }).join('') + '</ul>';
+    }
 
     function getWordFamilyDetail(word, label) {
       const explicit = (word.word_family_details ?? []).find(
@@ -717,9 +768,13 @@
 
     function getComponentSource(component) {
       const morpheme = morphemeById.get(component.morpheme);
+      return getMorphemeSource(morpheme, component.meaning_in_word, component.zh);
+    }
+
+    function getMorphemeSource(morpheme, fallbackMeaning = '', fallbackZh = '') {
       const parsedOrigin = parseOrigin(morpheme?.origin ?? '');
-      const meaning = morpheme?.source_meaning ?? parsedOrigin.meaning ?? morpheme?.core_meaning ?? component.meaning_in_word;
-      const meaningZh = morpheme?.source_meaning_zh ?? morpheme?.zh ?? component.zh;
+      const meaning = morpheme?.source_meaning ?? parsedOrigin.meaning ?? morpheme?.core_meaning ?? fallbackMeaning;
+      const meaningZh = morpheme?.source_meaning_zh ?? morpheme?.zh ?? fallbackZh;
       return {
         form: morpheme?.source_form ?? parsedOrigin.form ?? morpheme?.display ?? '',
         meaning: meaning + ' / ' + meaningZh
@@ -748,14 +803,18 @@
       '</div>';
     }
 
-    function morphemeList(ids) {
+
+    function morphemeGrid(ids, showMeaning = false) {
       const unique = [...new Set((ids ?? []).filter(Boolean))];
       if (!unique.length) return '<p class="note">No entries yet.</p>';
-      return '<ul class="link-list">' + unique.map((id) => {
+      return '<ul class="morpheme-grid">' + unique.map((id) => {
         const morpheme = morphemeById.get(id);
-        return '<li>' + (morpheme ? routeButton('morpheme', id, morpheme.display) : escapeHtml(id)) + '</li>';
+        const label = morpheme ? routeButton('morpheme', id, morpheme.display) : '<span style="font-weight:720">' + escapeHtml(id) + '</span>';
+        const meaning = showMeaning ? '<span class="morpheme-grid-meaning">' + escapeHtml(morpheme?.zh ?? '') + '</span>' : '';
+        return '<li class="morpheme-grid-item">' + label + meaning + '</li>';
       }).join('') + '</ul>';
     }
+
 
     function resultGroup(title, items, route, emptyLabel) {
       return '<h3 class="group-title">' + escapeHtml(title) + '</h3>' +
@@ -866,23 +925,20 @@
     }
 
     function renderMorpheme(morpheme) {
+      const source = getMorphemeSource(morpheme);
       const meanings = morpheme.senses.map((sense, index) =>
-        '<li class="sub-panel" style="margin-bottom:12px"><strong>' + (index + 1) + '. ' + escapeHtml(sense.meaning) + '</strong><span class="note"> ' + escapeHtml(sense.zh) + '</span><div style="margin-top:8px">' + wordList(sense.examples) + '</div></li>'
+        '<div class="sub-panel" style="margin-bottom:12px"><strong>' + (index + 1) + '. ' + escapeHtml(sense.meaning) + '</strong><span class="note"> ' + escapeHtml(sense.zh) + '</span><div style="margin-top:8px">' + wordGlossList(sense.examples) + '</div></div>'
       ).join('');
-      const connectedWords = words.filter((word) => word.components.some((component) => component.morpheme === morpheme.id)).map((word) => word.word);
 
       document.getElementById('detail').innerHTML =
-        '<header><h1>' + escapeHtml(morpheme.display) + '<span class="meta">' + escapeHtml(morpheme.type) + '</span></h1><p class="definition">' + escapeHtml(morpheme.core_meaning) + '</p><p class="zh">' + escapeHtml(morpheme.zh) + '</p></header>' +
-        detailSection('Origin', '<p class="note">' + escapeHtml(morpheme.origin) + '</p>') +
-        detailSection('Top Meanings', '<ol style="margin:0;padding-left:22px">' + meanings + '</ol>') +
+        '<header><h1>' + escapeHtml(morpheme.display) + '<span class="meta">' + escapeHtml(morpheme.type) + '</span></h1><p class="definition">' + escapeHtml(morpheme.core_meaning) + ' <span class="zh">/ ' + escapeHtml(morpheme.zh) + '</span></p></header>' +
+        detailSection('Root DNA / 词根拆解', '<div class="scroll"><table><colgroup><col class="dna-col-form"><col class="dna-col-meaning"><col class="dna-col-zh"><col class="dna-col-etymon"><col class="dna-col-etymon-meaning"></colgroup><thead><tr><th>Form</th><th>Core Meaning</th><th>中文</th><th>Etymon / 源词根</th><th>Etymon Meaning / 源义</th></tr></thead><tbody><tr><td><span class="inline-link">' + escapeHtml(morpheme.display) + '</span></td><td>' + escapeHtml(morpheme.core_meaning) + '</td><td>' + escapeHtml(morpheme.zh) + '</td><td>' + escapeHtml(source.form) + '</td><td>' + escapeHtml(source.meaning) + '</td></tr></tbody></table></div>') +
+        detailSection('Meanings', '<div>' + meanings + '</div>') +
         detailSection('Common Patterns', '<ul class="dense-list">' + (morpheme.patterns ?? []).map((item) => '<li>' + escapeHtml(item) + '</li>').join('') + '</ul>') +
-        detailSection('High-Value Words', wordList(morpheme.high_value_words)) +
-        '<div class="grid-2">' +
-          detailSection('Similar-Looking Roots', morphemeList(morpheme.similar_form)) +
-          detailSection('Meaning-Neighbor Roots', morphemeList(morpheme.similar_meaning)) +
-        '</div>' +
-        detailSection('Confusable Words', '<ul class="dense-list">' + (morpheme.confusable_words ?? []).map((item) => '<li>' + escapeHtml(item) + '</li>').join('') + '</ul>') +
-        detailSection('Connected Words', wordList(connectedWords));
+        detailSection('Connected Words', wordList(morpheme.high_value_words)) +
+        detailSection('Similar-Looking Roots', morphemeGrid(morpheme.similar_form, true)) +
+        detailSection('Meaning-Neighbor Roots', morphemeGrid(morpheme.similar_meaning, true)) +
+        detailSection('Confusable Words', '<ul class="dense-list">' + (morpheme.confusable_words ?? []).map((item) => '<li>' + escapeHtml(item) + '</li>').join('') + '</ul>');
     }
 
     function render() {

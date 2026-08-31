@@ -803,13 +803,25 @@ function isCoreComponent(component: WordComponent) {
 
 function getComponentSource(component: WordComponent) {
   const morpheme = getMorpheme(component.morpheme);
+  return getMorphemeSource(
+    morpheme,
+    component.meaning_in_word,
+    component.zh,
+  );
+}
+
+function getMorphemeSource(
+  morpheme: MorphemeEntry | undefined,
+  fallbackMeaning = '',
+  fallbackZh = '',
+) {
   const parsedOrigin = parseOrigin(morpheme?.origin ?? '');
   const meaning =
     morpheme?.source_meaning ??
     parsedOrigin.meaning ??
     morpheme?.core_meaning ??
-    component.meaning_in_word;
-  const meaningZh = morpheme?.source_meaning_zh ?? morpheme?.zh ?? component.zh;
+    fallbackMeaning;
+  const meaningZh = morpheme?.source_meaning_zh ?? morpheme?.zh ?? fallbackZh;
 
   return {
     form: morpheme?.source_form ?? parsedOrigin.form ?? morpheme?.display ?? '',
@@ -848,9 +860,7 @@ function formatEtymonSource(source: string) {
 }
 
 function MorphemeDetail({ morpheme }: { morpheme: MorphemeEntry }) {
-  const connectedWords = words.filter((word) =>
-    word.components.some((component) => component.morpheme === morpheme.id),
-  );
+  const source = getMorphemeSource(morpheme);
 
   return (
     <article className="vocab-article">
@@ -863,50 +873,79 @@ function MorphemeDetail({ morpheme }: { morpheme: MorphemeEntry }) {
             {morpheme.type}
           </span>
         </div>
-        <p className="mt-2 text-lg leading-7">{morpheme.core_meaning}</p>
-        <p className="mt-1 text-[15px] leading-7 text-muted-foreground">
-          {morpheme.zh}
+        <p className="mt-2 text-lg leading-7">
+          {morpheme.core_meaning}
+          <span className="text-muted-foreground"> / {morpheme.zh}</span>
         </p>
       </header>
 
-      <DetailSection title="Origin">
-        <p className="text-[15px] leading-7 text-muted-foreground">
-          {morpheme.origin}
-        </p>
+      <DetailSection title="Root DNA / 词根拆解">
+        <div className="overflow-x-auto">
+          <table className="dna-table">
+            <colgroup>
+              <col className="dna-col-form" />
+              <col className="dna-col-meaning" />
+              <col className="dna-col-zh" />
+              <col className="dna-col-etymon" />
+              <col className="dna-col-etymon-meaning" />
+            </colgroup>
+            <thead>
+              <tr>
+                <th>Form</th>
+                <th>Core Meaning</th>
+                <th>中文</th>
+                <th>Etymon / 源词根</th>
+                <th>Etymon Meaning / 源义</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <span className="font-semibold text-primary">
+                    {morpheme.display}
+                  </span>
+                </td>
+                <td>{morpheme.core_meaning}</td>
+                <td>{morpheme.zh}</td>
+                <td>{source.form}</td>
+                <td>{source.meaning}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
       </DetailSection>
 
-      <DetailSection title="Top Meanings">
-        <ol className="space-y-4">
+      <DetailSection title="Meanings">
+        <div className="space-y-4">
           {morpheme.senses.map((sense, index) => (
-            <li className="sub-panel" key={`${morpheme.id}-${sense.meaning}`}>
+            <div className="sub-panel" key={`${morpheme.id}-${sense.meaning}`}>
               <h3 className="mb-2 text-sm font-semibold">
                 {index + 1}. {sense.meaning}
                 <span className="ml-2 font-normal text-muted-foreground">
                   {sense.zh}
                 </span>
               </h3>
-              <WordList words={sense.examples} />
-            </li>
+              <WordGlossList words={sense.examples} />
+            </div>
           ))}
-        </ol>
+        </div>
       </DetailSection>
 
       <DetailSection title="Common Patterns">
         <PatternList patterns={morpheme.patterns} />
       </DetailSection>
 
-      <DetailSection title="High-Value Words">
+      <DetailSection title="Connected Words">
         <WordList words={morpheme.high_value_words ?? []} />
       </DetailSection>
 
-      <div className="grid gap-5 lg:grid-cols-2">
-        <DetailSection title="Similar-Looking Roots">
-          <MorphemeList ids={morpheme.similar_form} />
-        </DetailSection>
-        <DetailSection title="Meaning-Neighbor Roots">
-          <MorphemeList ids={morpheme.similar_meaning} />
-        </DetailSection>
-      </div>
+      <DetailSection title="Similar-Looking Roots">
+        <MorphemeGrid ids={morpheme.similar_form} showMeaning />
+      </DetailSection>
+
+      <DetailSection title="Meaning-Neighbor Roots">
+        <MorphemeGrid ids={morpheme.similar_meaning} showMeaning />
+      </DetailSection>
 
       <DetailSection title="Confusable Words">
         <ul className="dense-list">
@@ -916,9 +955,6 @@ function MorphemeDetail({ morpheme }: { morpheme: MorphemeEntry }) {
         </ul>
       </DetailSection>
 
-      <DetailSection title="Connected Words">
-        <WordList words={connectedWords.map((word) => word.word)} />
-      </DetailSection>
     </article>
   );
 }
@@ -969,6 +1005,25 @@ function WordList({ words: wordLabels }: { words: string[] }) {
   );
 }
 
+function WordGlossList({ words: wordLabels }: { words: string[] }) {
+  const uniqueWords = Array.from(new Set(wordLabels)).filter(Boolean);
+  if (!uniqueWords.length) {
+    return <p className="text-sm text-muted-foreground">No entries yet.</p>;
+  }
+  return (
+    <ul className="word-gloss-list">
+      {uniqueWords.map((label) => {
+        const word = getWord(label.toLowerCase());
+        return (
+          <li className="word-gloss-item" key={label}>
+            <InlineWord label={label} />
+            <span className="word-gloss-meaning">{word?.zh ?? ''}</span>
+          </li>
+        );
+      })}
+    </ul>
+  );
+}
 function PatternList({ patterns }: { patterns: string[] }) {
   if (!patterns.length) {
     return <p className="text-sm text-muted-foreground">No patterns yet.</p>;
@@ -982,32 +1037,43 @@ function PatternList({ patterns }: { patterns: string[] }) {
   );
 }
 
-function MorphemeList({ ids }: { ids: string[] }) {
+
+function MorphemeGrid({
+  ids,
+  showMeaning = false,
+}: {
+  ids: string[];
+  showMeaning?: boolean;
+}) {
   const uniqueIds = Array.from(new Set(ids)).filter(Boolean);
   if (!uniqueIds.length) {
     return <p className="text-sm text-muted-foreground">No entries yet.</p>;
   }
   return (
-    <ul className="link-list">
+    <ul className="morpheme-grid">
       {uniqueIds.map((id) => {
         const morpheme = getMorpheme(id);
         return (
-          <li key={id}>
+          <li className="morpheme-grid-item" key={id}>
             {morpheme ? (
               <InlineLink
                 label={morpheme.display}
                 route={{ type: 'morpheme', id }}
               />
             ) : (
-              <span>{id}</span>
+              <span className="font-semibold">{id}</span>
             )}
+            {showMeaning ? (
+              <span className="morpheme-grid-meaning">
+                {morpheme?.zh ?? ''}
+              </span>
+            ) : null}
           </li>
         );
       })}
     </ul>
   );
 }
-
 function InlineWord({ label }: { label: string }) {
   const word = getWord(label.toLowerCase());
   if (!word) {
