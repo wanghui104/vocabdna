@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abut
+word: abut
+pos: verb
+zh: 邻接；毗邻
+en: to touch or border on something
+components:
+  - morpheme: ad
+    form: a-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: but
+    form: but
+    meaning_in_word: end or touch
+    zh: 端点、碰接
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: about
+    reason: abut 是正式词；about 是介词/副词，拼写相近但不同。
+    zh_reason: abut 是正式词；about 是介词/副词，拼写相近但不同。
+examples:
+  - en: The garden abuts the river.
+    zh: 花园紧邻河流。
+why_confusing: abut 是正式词；about 是介词/副词，拼写相近但不同。

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: use
+display: use
+type: root
+core_meaning: use
+zh: 使用
+origin: Latin
+source_form: Latin uti / usus
+source_meaning: use
+source_meaning_zh: 使用
+senses:
+  - meaning: use
+    zh: 使用
+    examples:
+      - abuse
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - use -> abuse
+high_value_words:
+  - abuse
+confusable_words:
+  []

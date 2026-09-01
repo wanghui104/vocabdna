@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ablaze
+word: ablaze
+pos: adjective
+zh: 着火的；闪耀的
+en: burning, brightly lit, or shining strongly
+components:
+  - morpheme: ab
+    form: a-
+    meaning_in_word: in a state of
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: blaze
+    form: blaze
+    meaning_in_word: flame or shine
+    zh: 火焰、闪耀
+    role: root
+    is_core: true
+word_family:
+  - blazing
+word_family_details:
+  - word: blazing
+    en: burning fiercely or shining very brightly
+    zh: 炽烧的；闪耀的
+confusables:
+  []
+examples:
+  - en: The sky was ablaze at sunset.
+    zh: 日落时天空一片灿烂。
+why_confusing: ablaze 通常作表语：the room was ablaze。

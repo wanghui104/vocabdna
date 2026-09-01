@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ian
+display: -ian
+type: suffix
+core_meaning: person connected with
+zh: 属于……的人
+origin: Latin
+source_form: Latin -ianus
+source_meaning: belonging to
+source_meaning_zh: 属于……的
+senses:
+  - meaning: person connected with
+    zh: 属于……的人
+    examples:
+      - academician
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ician -> academician
+high_value_words:
+  - academician
+confusable_words:
+  []

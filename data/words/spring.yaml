@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spring
+word: spring
+pos: noun/verb
+zh: 跳起；涌出；突然出现
+en: to jump, rise, or appear suddenly
+components:
+  - morpheme: spring
+    form: spring
+    meaning_in_word: leap, rise, burst forth, rebound
+    zh: 跳起、涌出、弹回
+    role: root
+    is_core: true
+word_family:
+  - springy
+  - springtime
+  - springboard
+word_family_details:
+  - word: springy
+    en: related form of springy
+    zh: springy 的相关词
+  - word: springtime
+    en: related form of springtime
+    zh: springtime 的相关词
+  - word: springboard
+    en: related form of springboard
+    zh: springboard 的相关词
+confusables:
+  []
+examples:
+  - en: New shoots spring from the soil after rain.
+    zh: 雨后，新芽从土里冒出来。
+  - en: The garden is full of color in spring.
+    zh: 春天，花园里满是色彩。
+  - en: The village grew around a clear mountain spring.
+    zh: 村庄围绕一处清澈的山泉发展起来。
+  - en: The spring pushed the lid back open.
+    zh: 弹簧把盖子又弹开了。
+why_confusing: spring 的几个常见名词义是同一词的多义 sense，不要拆成多个 derivative tab。

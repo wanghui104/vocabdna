@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conceive
+word: conceive
+pos: verb
+zh: 构想；想出；设想
+en: to form an idea, plan, image, or possibility in the mind
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together, fully, intensively
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: ceive
+    meaning_in_word: take in, hold
+    zh: 拿、抓、接收
+    role: root
+    is_core: true
+word_family:
+  - conception
+  - conceivable
+word_family_details:
+  - word: conception
+    en: the act or process of forming an idea in the mind
+    zh: 构想；设想；观念形成
+  - word: conceivable
+    en: possible to imagine, believe, or suppose
+    zh: 可想象的；可能的
+confusables:
+  - word: receive
+    reason: conceive 是构想/受孕；receive 是收到；concept 是已经形成的概念名词。
+    zh_reason: conceive 是构想/受孕；receive 是收到；concept 是已经形成的概念名词。
+  - word: concept
+    reason: conceive 是构想/受孕；receive 是收到；concept 是已经形成的概念名词。
+    zh_reason: conceive 是构想/受孕；receive 是收到；concept 是已经形成的概念名词。
+examples:
+  - en: The architect conceived a library filled with natural light.
+    zh: 建筑师构想了一座充满自然光的图书馆。
+  - en: They had been trying to conceive for several months.
+    zh: 他们已经尝试受孕几个月了。
+  - en: It is hard to conceive of a fair solution without compromise.
+    zh: 没有妥协，很难想象一个公平的解决方案。
+why_confusing: conceive 是构想/受孕；receive 是收到；concept 是已经形成的概念名词。

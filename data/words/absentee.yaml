@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: absentee
+word: absentee
+pos: noun
+zh: 缺席者
+en: a person who is not present where expected
+components:
+  - morpheme: esse-sent
+    form: absent
+    meaning_in_word: not present
+    zh: 存在、在场
+    role: root
+    is_core: true
+  - morpheme: ee
+    form: -ee
+    meaning_in_word: person affected
+    zh: 接受动作的人
+    role: suffix
+    is_core: false
+word_family:
+  - absent
+  - absence
+  - absenteeism
+word_family_details:
+  - word: absent
+    en: not present, or missing from a place or situation
+    zh: 缺少的；不在的；缺席的
+  - word: absence
+    en: the state of being away or not present
+    zh: 缺少；不在；缺席
+  - word: absenteeism
+    en: frequent absence from school or work
+    zh: 旷课；旷工
+confusables:
+  []
+examples:
+  - en: Absentees must submit the form later.
+    zh: 缺席者必须稍后提交表格。
+why_confusing: absentee 可用于 absentee ballot，指缺席投票相关。

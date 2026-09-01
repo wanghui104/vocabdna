@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: absolutely
+word: absolutely
+pos: adverb
+zh: 完全地；绝对地
+en: completely or without qualification
+components:
+  - morpheme: solv-solut
+    form: absolute
+    meaning_in_word: complete
+    zh: 松开、解开
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - absolute
+word_family_details:
+  - word: absolute
+    en: complete, total, or not limited by conditions
+    zh: 完全的；绝对的
+confusables:
+  []
+examples:
+  - en: You are absolutely right.
+    zh: 你完全正确。
+why_confusing: 口语中 absolutely 也可表示强烈同意。

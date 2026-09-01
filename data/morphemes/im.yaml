@@ -16,6 +16,7 @@ senses:
       - induct
       - induction
       - inductive
+      - inability
 similar_form:
   []
 similar_meaning:
@@ -28,6 +29,7 @@ patterns:
   - in- -> induct
   - in- -> induction
   - in- -> inductive
+  - in- -> inability
 high_value_words:
   - import
   - inspect
@@ -36,5 +38,6 @@ high_value_words:
   - induct
   - induction
   - inductive
+  - inability
 confusable_words:
   []

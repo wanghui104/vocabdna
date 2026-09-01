@@ -1,0 +1,58 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: receptive
+word: receptive
+pos: adjective
+zh: 乐于接受的；能接收的
+en: willing or able to receive ideas, suggestions, signals, or impressions
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back, in return
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: cept
+    meaning_in_word: take, receive
+    zh: 拿、抓、接收
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having the nature of, tending to
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - receive
+  - reception
+  - receiver
+  - receipt
+  - recipient
+word_family_details:
+  - word: receive
+    en: to get or take something that is given, sent, or offered
+    zh: 收到；接收；得到
+  - word: reception
+    en: the act or manner of receiving someone or something
+    zh: 接收；接待；欢迎
+  - word: receiver
+    en: a person or thing that receives something
+    zh: 接收者；收件人
+  - word: receipt
+    en: a written or electronic record showing that money or goods were received
+    zh: 收据；收条
+  - word: recipient
+    en: a person or group that receives something
+    zh: 接受者；收件人；受方
+confusables:
+  - word: respective
+    reason: receptive 是乐于接受；respective 是各自的；perceptive 是有洞察力的。
+    zh_reason: receptive 是乐于接受；respective 是各自的；perceptive 是有洞察力的。
+  - word: perceptive
+    reason: receptive 是乐于接受；respective 是各自的；perceptive 是有洞察力的。
+    zh_reason: receptive 是乐于接受；respective 是各自的；perceptive 是有洞察力的。
+examples:
+  - en: The audience was receptive to the new idea.
+    zh: 观众愿意接受这个新想法。
+why_confusing: receptive 是乐于接受；respective 是各自的；perceptive 是有洞察力的。

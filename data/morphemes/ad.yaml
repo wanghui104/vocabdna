@@ -10,13 +10,40 @@ senses:
     zh: 去、向、靠近
     examples:
       - avert
+      - abut
+      - accelerate
+      - accelerated
+      - accelerating
+      - acceleration
+      - access
+      - accessible
+      - accessibility
+      - accessory
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - a- -> avert
+  - a- -> abut
+  - ac- -> accelerate
+  - ac- -> accelerated
+  - ac- -> accelerating
+  - ac- -> acceleration
+  - ac- -> access
+  - ac- -> accessible
+  - ac- -> accessibility
+  - ac- -> accessory
 high_value_words:
   - avert
+  - abut
+  - accelerate
+  - accelerated
+  - accelerating
+  - acceleration
+  - access
+  - accessible
+  - accessibility
+  - accessory
 confusable_words:
   []

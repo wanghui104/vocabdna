@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: or
+display: -or
+type: suffix
+core_meaning: person or thing that does
+zh: 做……的人或物
+origin: Latin
+source_form: Latin -or
+source_meaning: person or thing that does
+source_meaning_zh: 做……的人或物
+senses:
+  - meaning: person or thing that does
+    zh: 做……的人或物
+    examples:
+      - competitor
+      - receiver
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -or -> competitor
+  - -er -> receiver
+high_value_words:
+  - competitor
+  - receiver
+confusable_words:
+  []

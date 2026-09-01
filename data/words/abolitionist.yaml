@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abolitionist
+word: abolitionist
+pos: noun
+zh: 废奴主义者
+en: a person who worked to end slavery or supports abolishing a system
+components:
+  - morpheme: abol
+    form: abolition
+    meaning_in_word: abolition
+    zh: 废除、毁掉
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person concerned with
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - abolish
+  - abolition
+word_family_details:
+  - word: abolish
+    en: to officially end a law, system, or practice
+    zh: 废除；取消
+  - word: abolition
+    en: the act of officially ending a law, system, or practice
+    zh: 废除；取消
+confusables:
+  []
+examples:
+  - en: The abolitionist spoke against slavery.
+    zh: 这位废奴主义者发表演讲反对奴隶制。
+why_confusing: 最常见含义是废奴主义者，但结构上也可指支持废除某制度的人。

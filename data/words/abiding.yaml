@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abiding
+word: abiding
+pos: adjective
+zh: 持久的
+en: continuing for a long time
+components:
+  - morpheme: bide
+    form: bide
+    meaning_in_word: remain
+    zh: 停留、等待、忍受
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: continuing quality
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - abide
+word_family_details:
+  - word: abide
+    en: to accept and follow a rule or decision
+    zh: 遵守
+confusables:
+  []
+examples:
+  - en: He has an abiding interest in history.
+    zh: 他对历史有持久的兴趣。
+why_confusing: abiding 多修饰 interest, faith, influence 等抽象名词。

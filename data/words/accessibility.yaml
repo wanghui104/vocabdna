@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accessibility
+word: accessibility
+pos: noun
+zh: 易接近；可达到
+en: the quality of being easy to reach, use, understand, or obtain
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: to, toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: excess-ceed
+    form: cess
+    meaning_in_word: go
+    zh: 走、前进、让步
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -ibil
+    meaning_in_word: able to be
+    zh: 能够被……的
+    role: suffix
+    is_core: false
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: quality
+    zh: 性质、状态
+    role: suffix
+    is_core: false
+word_family:
+  - access
+  - accessible
+word_family_details:
+  - word: access
+    en: the opportunity or right to approach, enter, or use something
+    zh: 接触；接近的机会
+  - word: accessible
+    en: easy to reach, enter, use, understand, or obtain
+    zh: 可接近的；可接触的；可得到的
+confusables:
+  []
+examples:
+  - en: The redesign improved accessibility.
+    zh: 重新设计提升了可达性。
+why_confusing: 技术和建筑语境中常指无障碍性。

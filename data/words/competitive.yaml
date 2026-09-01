@@ -1,0 +1,49 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: competitive
+word: competitive
+pos: adjective
+zh: 竞争的；比赛的
+en: involving competition or rivalry
+components:
+  - morpheme: con
+    form: com-
+    meaning_in_word: together, with
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: pet
+    form: petit
+    meaning_in_word: seek, strive for
+    zh: 追求、寻求、冲向
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having the nature of, tending to
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - compete
+  - competition
+  - competitor
+word_family_details:
+  - word: compete
+    en: to strive against others for a goal, prize, market, or advantage
+    zh: 竞争；比赛
+  - word: competition
+    en: rivalry or a contest in which people try to win the same goal
+    zh: 竞争；比赛；竞赛
+  - word: competitor
+    en: a person, team, or company that competes
+    zh: 竞争者；对手
+confusables:
+  - word: competent
+    reason: competitive 是竞争性的；competent 是胜任的、能力足够的。
+    zh_reason: competitive 是竞争性的；competent 是胜任的、能力足够的。
+examples:
+  - en: The market is highly competitive.
+    zh: 这个市场竞争非常激烈。
+  - en: She is competitive but fair.
+    zh: 她好胜但公平。
+why_confusing: competitive 是竞争性的；competent 是胜任的、能力足够的。

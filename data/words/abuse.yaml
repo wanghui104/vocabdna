@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abuse
+word: abuse
+pos: verb
+zh: 滥用；虐待
+en: to use wrongly or treat someone cruelly
+components:
+  - morpheme: ab
+    form: ab-
+    meaning_in_word: away from proper use
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: use
+    form: use
+    meaning_in_word: use
+    zh: 使用
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: misuse
+    reason: abuse 可指滥用权力，也可指虐待。
+    zh_reason: abuse 可指滥用权力，也可指虐待。
+examples:
+  - en: Officials must not abuse their power.
+    zh: 官员不得滥用权力。
+why_confusing: abuse 可指滥用权力，也可指虐待。

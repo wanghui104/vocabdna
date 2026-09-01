@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spring
+display: spring
+type: root
+core_meaning: leap, burst forth, rebound
+zh: 跳起、涌出、弹回
+origin: Old English
+senses:
+  - meaning: leap, burst forth, rebound
+    zh: 跳起、涌出、弹回
+    examples:
+      - spring
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - spring -> spring
+high_value_words:
+  - spring
+confusable_words:
+  []

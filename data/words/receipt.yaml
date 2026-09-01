@@ -1,0 +1,54 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: receipt
+word: receipt
+pos: noun
+zh: 收据；收条
+en: a written or electronic record showing that money or goods were received
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back, in return
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: ceipt
+    meaning_in_word: thing received; act of receiving
+    zh: 拿、抓、接收
+    role: root
+    is_core: true
+word_family:
+  - receive
+  - reception
+  - receptive
+  - receiver
+  - recipient
+word_family_details:
+  - word: receive
+    en: to get or take something that is given, sent, or offered
+    zh: 收到；接收；得到
+  - word: reception
+    en: the act or manner of receiving someone or something
+    zh: 接收；接待；欢迎
+  - word: receptive
+    en: willing or able to receive ideas, suggestions, signals, or impressions
+    zh: 乐于接受的；能接收的
+  - word: receiver
+    en: a person or thing that receives something
+    zh: 接收者；收件人
+  - word: recipient
+    en: a person or group that receives something
+    zh: 接受者；收件人；受方
+confusables:
+  - word: recipe
+    reason: receipt 是收据；recipe 是配方；receive 是动词“收到”。
+    zh_reason: receipt 是收据；recipe 是配方；receive 是动词“收到”。
+  - word: receive
+    reason: receipt 是收据；recipe 是配方；receive 是动词“收到”。
+    zh_reason: receipt 是收据；recipe 是配方；receive 是动词“收到”。
+examples:
+  - en: Keep the receipt in case you need to return the item.
+    zh: 保留收据，以防需要退货。
+  - en: Payment is due upon receipt of the invoice.
+    zh: 收到发票后即应付款。
+why_confusing: receipt 是收据；recipe 是配方；receive 是动词“收到”。

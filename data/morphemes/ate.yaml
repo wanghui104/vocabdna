@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ate
+display: -ate
+type: suffix
+core_meaning: make, cause to be
+zh: 使成为、使做
+origin: Latin
+source_form: Latin -atus / -are
+source_meaning: make or do
+source_meaning_zh: 使……、做……
+senses:
+  - meaning: make, cause to be
+    zh: 使成为、使做
+    examples:
+      - abbreviate
+      - accelerate
+      - accelerated
+      - accelerating
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ate -> abbreviate
+  - -ate -> accelerate
+  - -ate -> accelerated
+  - -ate -> accelerating
+high_value_words:
+  - abbreviate
+  - accelerate
+  - accelerated
+  - accelerating
+confusable_words:
+  []

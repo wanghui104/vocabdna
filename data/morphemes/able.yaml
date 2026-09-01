@@ -5,18 +5,46 @@ type: suffix
 core_meaning: able to be
 zh: 能够被……的
 origin: Latin
+source_form: Latin -abilis
+source_meaning: able to be
+source_meaning_zh: 能够被……的
+source_note: English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.
 senses:
   - meaning: able to be
     zh: 能够被……的
     examples:
+      - conceivable
       - deductible
+      - ability
+      - inability
+      - capability
+      - viability
+      - variability
+      - accessible
+      - accessibility
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - -able -> conceivable
   - -ible -> deductible
+  - abil -> ability
+  - abil -> inability
+  - -able -> capability
+  - -able -> viability
+  - -able -> variability
+  - -ible -> accessible
+  - -ibil -> accessibility
 high_value_words:
+  - conceivable
   - deductible
+  - ability
+  - inability
+  - capability
+  - viability
+  - variability
+  - accessible
+  - accessibility
 confusable_words:
   []

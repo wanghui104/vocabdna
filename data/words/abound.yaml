@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abound
+word: abound
+pos: verb
+zh: 充满；富于
+en: to exist in large numbers or amounts
+components:
+  - morpheme: abund
+    form: abund
+    meaning_in_word: overflow
+    zh: 涌出、丰富
+    role: root
+    is_core: true
+word_family:
+  - abundant
+  - abundantly
+  - abundance
+word_family_details:
+  - word: abundant
+    en: available in large quantities
+    zh: 丰富的；充裕的；大量的
+  - word: abundantly
+    en: in a plentiful or very clear way
+    zh: 丰富地
+  - word: abundance
+    en: a very large quantity of something
+    zh: 丰富；充裕
+confusables:
+  []
+examples:
+  - en: Wildflowers abound in the valley.
+    zh: 山谷里野花遍布。
+why_confusing: abound 常与 in/with 搭配。

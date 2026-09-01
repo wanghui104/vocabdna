@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: academician
+word: academician
+pos: noun
+zh: 学会会员；院士；学者
+en: a member of an academy or a scholar
+components:
+  - morpheme: academ
+    form: academ
+    meaning_in_word: academy or learning
+    zh: 学院、学术
+    role: root
+    is_core: true
+  - morpheme: ian
+    form: -ician
+    meaning_in_word: person connected with
+    zh: 属于……的人
+    role: suffix
+    is_core: false
+word_family:
+  - academic
+word_family_details:
+  - word: academic
+    en: related to schools, scholarship, or theoretical study
+    zh: 学术的；学院的；理论的
+confusables:
+  []
+examples:
+  - en: The academician presented new research.
+    zh: 这位院士展示了新的研究。
+why_confusing: 在不同国家 academician 的制度含义可能不同。

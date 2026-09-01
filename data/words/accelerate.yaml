@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accelerate
+word: accelerate
+pos: verb
+zh: 加快；加速
+en: to make something happen faster or move faster
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: celer
+    form: celer
+    meaning_in_word: swift
+    zh: 快、迅速
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - accelerated
+  - accelerating
+  - acceleration
+word_family_details:
+  - word: accelerated
+    en: made faster or occurring faster than usual
+    zh: 加速的；迅速的
+  - word: accelerating
+    en: increasing in speed or pace
+    zh: 加速的
+  - word: acceleration
+    en: an increase in speed, or the rate of that increase
+    zh: 加速度；加速
+confusables:
+  []
+examples:
+  - en: The new policy may accelerate growth.
+    zh: 新政策可能加速增长。
+why_confusing: accelerate 可及物也可不及物。

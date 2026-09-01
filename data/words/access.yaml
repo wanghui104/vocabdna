@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: access
+word: access
+pos: noun
+zh: 接触；接近的机会
+en: the opportunity or right to approach, enter, or use something
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: to, toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: excess-ceed
+    form: cess
+    meaning_in_word: go
+    zh: 走、前进、让步
+    role: root
+    is_core: true
+word_family:
+  - accessible
+  - accessibility
+word_family_details:
+  - word: accessible
+    en: easy to reach, enter, use, understand, or obtain
+    zh: 可接近的；可接触的；可得到的
+  - word: accessibility
+    en: the quality of being easy to reach, use, understand, or obtain
+    zh: 易接近；可达到
+confusables:
+  - word: excess
+    reason: access 是接近/使用机会；excess 是过量。
+    zh_reason: access 是接近/使用机会；excess 是过量。
+examples:
+  - en: Students need access to reliable internet.
+    zh: 学生需要能使用可靠的互联网。
+  - en: The building has wheelchair access.
+    zh: 这栋楼有轮椅通道。
+why_confusing: access 是接近/使用机会；excess 是过量。

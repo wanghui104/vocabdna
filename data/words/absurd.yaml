@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: absurd
+word: absurd
+pos: adjective
+zh: 荒谬的；可笑的
+en: so unreasonable that it seems ridiculous
+components:
+  - morpheme: ab
+    form: ab-
+    meaning_in_word: away from
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: surd
+    form: surd
+    meaning_in_word: dull or deaf
+    zh: 聋的、迟钝的
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: ridiculous
+    reason: absurd 语气较强，常指不合逻辑到可笑。
+    zh_reason: absurd 语气较强，常指不合逻辑到可笑。
+examples:
+  - en: The claim was absurd.
+    zh: 这个说法很荒谬。
+why_confusing: absurd 语气较强，常指不合逻辑到可笑。

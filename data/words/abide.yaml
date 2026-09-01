@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abide
+word: abide
+pos: verb
+zh: 遵守
+en: to accept and follow a rule or decision
+components:
+  - morpheme: bide
+    form: bide
+    meaning_in_word: remain or endure
+    zh: 停留、等待、忍受
+    role: root
+    is_core: true
+word_family:
+  - abiding
+word_family_details:
+  - word: abiding
+    en: continuing for a long time
+    zh: 持久的
+confusables:
+  []
+examples:
+  - en: All members must abide by the rules.
+    zh: 所有成员都必须遵守规则。
+  - en: She cannot abide unfair treatment.
+    zh: 她无法忍受不公平待遇。
+why_confusing: abide 常和 by 搭配表示遵守；作“忍受”时多用于否定。

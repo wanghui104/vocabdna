@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blazing
+word: blazing
+pos: adjective
+zh: 炽烧的；闪耀的
+en: burning fiercely or shining very brightly
+components:
+  - morpheme: blaze
+    form: blaz
+    meaning_in_word: flame or shine
+    zh: 火焰、闪耀
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing quality
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - ablaze
+word_family_details:
+  - word: ablaze
+    en: burning, brightly lit, or shining strongly
+    zh: 着火的；闪耀的
+confusables:
+  []
+examples:
+  - en: They walked under the blazing sun.
+    zh: 他们走在烈日下。
+why_confusing: blazing 可指火、光、太阳，也可指速度很快。

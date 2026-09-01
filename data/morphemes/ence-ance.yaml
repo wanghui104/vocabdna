@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ence-ance
+display: -ence
+type: suffix
+core_meaning: state, quality
+zh: 状态、性质
+origin: Latin
+source_form: Latin -entia / -antia
+source_meaning: state, quality
+source_meaning_zh: 状态、性质
+senses:
+  - meaning: state, quality
+    zh: 状态、性质
+    examples:
+      - absence
+      - abundance
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ence -> absence
+  - -ance -> abundance
+high_value_words:
+  - absence
+  - abundance
+confusable_words:
+  []

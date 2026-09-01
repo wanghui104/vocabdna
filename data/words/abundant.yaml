@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abundant
+word: abundant
+pos: adjective
+zh: 丰富的；充裕的；大量的
+en: available in large quantities
+components:
+  - morpheme: abund
+    form: abund
+    meaning_in_word: overflow
+    zh: 涌出、丰富
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ant
+    meaning_in_word: having the quality of
+    zh: ……的人；具有……性质的
+    role: suffix
+    is_core: false
+word_family:
+  - abound
+  - abundantly
+  - abundance
+word_family_details:
+  - word: abound
+    en: to exist in large numbers or amounts
+    zh: 充满；富于
+  - word: abundantly
+    en: in a plentiful or very clear way
+    zh: 丰富地
+  - word: abundance
+    en: a very large quantity of something
+    zh: 丰富；充裕
+confusables:
+  []
+examples:
+  - en: The region has abundant rainfall.
+    zh: 该地区雨水充沛。
+why_confusing: abundant 常修饰 resources, evidence, rainfall。

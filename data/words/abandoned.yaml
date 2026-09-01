@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abandoned
+word: abandoned
+pos: adjective
+zh: 被抛弃的；废置的
+en: left and no longer used, wanted, or cared for
+components:
+  - morpheme: abandon
+    form: abandon
+    meaning_in_word: give up
+    zh: 放弃、交出控制
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past state
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - abandon
+  - abandonment
+word_family_details:
+  - word: abandon
+    en: to leave someone or something behind or give up an effort
+    zh: 抛弃；放弃
+  - word: abandonment
+    en: the act of leaving or giving something up
+    zh: 抛弃；放弃
+confusables:
+  []
+examples:
+  - en: They found an abandoned cabin near the road.
+    zh: 他们在路边发现了一间废弃小屋。
+why_confusing: abandoned 可形容地点、物品或人，也可有情感色彩。

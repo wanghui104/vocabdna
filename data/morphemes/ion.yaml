@@ -5,24 +5,52 @@ type: suffix
 core_meaning: act, process, result
 zh: 行为、过程、结果
 origin: Latin
+source_form: Latin -io / -ion-
+source_meaning: act, process, result
+source_meaning_zh: 行为、过程、结果
+source_note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
 senses:
   - meaning: act, process, result
     zh: 行为、过程、结果
     examples:
+      - conception
       - induction
       - reduction
       - deduction
+      - competition
+      - reception
+      - abbreviation
+      - abolition
+      - abrasion
+      - absorption
+      - acceleration
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - -ion -> conception
   - -ion -> induction
   - -ion -> reduction
   - -ion -> deduction
+  - -ion -> competition
+  - -ion -> reception
+  - -ation -> abbreviation
+  - -ition -> abolition
+  - -ion -> abrasion
+  - -ion -> absorption
+  - -ation -> acceleration
 high_value_words:
+  - conception
   - induction
   - reduction
   - deduction
+  - competition
+  - reception
+  - abbreviation
+  - abolition
+  - abrasion
+  - absorption
+  - acceleration
 confusable_words:
   []

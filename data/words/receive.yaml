@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: receive
+word: receive
+pos: verb
+zh: 收到；接收；得到
+en: to get or take something that is given, sent, or offered
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back, again
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: ceive
+    meaning_in_word: take, take in
+    zh: 拿、抓、接收
+    role: root
+    is_core: true
+word_family:
+  - reception
+  - receptive
+  - receiver
+  - receipt
+  - recipient
+word_family_details:
+  - word: reception
+    en: the act or manner of receiving someone or something
+    zh: 接收；接待；欢迎
+  - word: receptive
+    en: willing or able to receive ideas, suggestions, signals, or impressions
+    zh: 乐于接受的；能接收的
+  - word: receiver
+    en: a person or thing that receives something
+    zh: 接收者；收件人
+  - word: receipt
+    en: a written or electronic record showing that money or goods were received
+    zh: 收据；收条
+  - word: recipient
+    en: a person or group that receives something
+    zh: 接受者；收件人；受方
+confusables:
+  - word: recipe
+    reason: receive 是接收；recipe 是配方；receipt 是收据，三者同源但现代用法分开。
+    zh_reason: receive 是接收；recipe 是配方；receipt 是收据，三者同源但现代用法分开。
+examples:
+  - en: I received your message this morning.
+    zh: 我今天早上收到了你的信息。
+  - en: The host received the guests at the door.
+    zh: 主人在门口接待客人。
+  - en: The proposal received strong support.
+    zh: 这个提议得到了强烈支持。
+why_confusing: receive 是接收；recipe 是配方；receipt 是收据，三者同源但现代用法分开。

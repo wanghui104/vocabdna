@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: competitor
+word: competitor
+pos: noun
+zh: 竞争者；对手
+en: a person, team, or company that competes
+components:
+  - morpheme: con
+    form: com-
+    meaning_in_word: together, with
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: pet
+    form: petit
+    meaning_in_word: seek, strive for
+    zh: 追求、寻求、冲向
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person or thing that does
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - compete
+  - competition
+  - competitive
+word_family_details:
+  - word: compete
+    en: to strive against others for a goal, prize, market, or advantage
+    zh: 竞争；比赛
+  - word: competition
+    en: rivalry or a contest in which people try to win the same goal
+    zh: 竞争；比赛；竞赛
+  - word: competitive
+    en: involving competition or rivalry
+    zh: 竞争的；比赛的
+confusables:
+  - word: competent
+    reason: competitor 是竞争者；competent 是有能力的。
+    zh_reason: competitor 是竞争者；competent 是有能力的。
+examples:
+  - en: Each competitor presented a different design.
+    zh: 每个参赛者都展示了不同的设计。
+why_confusing: competitor 是竞争者；competent 是有能力的。

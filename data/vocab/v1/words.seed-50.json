@@ -3,6 +3,274 @@
   "version": "vocab-data-v1",
   "words": [
     {
+      "id": "word:conceivable",
+      "slug": "conceivable",
+      "term": "conceivable",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "possible to imagine",
+          "zh": "可想象的；可能的",
+          "en": "possible to imagine, believe, or suppose",
+          "example": {
+            "en": "There is no conceivable reason to delay the repair.",
+            "zh": "没有任何可想象的理由推迟维修。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "con",
+          "type": "prefix",
+          "meaning": "together, fully, intensively",
+          "rootId": "root:con"
+        },
+        {
+          "form": "ceiv",
+          "type": "root",
+          "meaning": "take in, imagine",
+          "rootId": "root:cap",
+          "note": "The spelling keeps the conceive family visible before -able."
+        },
+        {
+          "form": "able",
+          "type": "suffix",
+          "meaning": "able to be",
+          "rootId": "root:able"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:cap",
+        "root:able"
+      ],
+      "relations": {
+        "derivatives": [
+          "conceive",
+          "conception"
+        ],
+        "sameFamily": [
+          "receive",
+          "reception",
+          "receptive",
+          "receiver",
+          "receipt",
+          "recipient",
+          "perceive",
+          "deceive",
+          "recipe",
+          "receptacle",
+          "receptor",
+          "concept",
+          "conceit",
+          "misconceive",
+          "preconceive"
+        ],
+        "confusables": [
+          "conceited",
+          "perceivable"
+        ]
+      },
+      "learning": {
+        "coreIdea": "能够被头脑接纳、想象或认为可能。",
+        "memoryHook": "conceivable = able to be conceived in the mind。",
+        "watchOut": "conceivable 是可想象/可能；conceited 是自负；perceivable 是可感知。"
+      }
+    },
+    {
+      "id": "word:conceive",
+      "slug": "conceive",
+      "term": "conceive",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "form in the mind",
+          "zh": "构想；想出；设想",
+          "en": "to form an idea, plan, image, or possibility in the mind",
+          "example": {
+            "en": "The architect conceived a library filled with natural light.",
+            "zh": "建筑师构想了一座充满自然光的图书馆。"
+          }
+        },
+        {
+          "sense": "become pregnant",
+          "zh": "怀孕；受孕",
+          "en": "to become pregnant with a child",
+          "example": {
+            "en": "They had been trying to conceive for several months.",
+            "zh": "他们已经尝试受孕几个月了。"
+          }
+        },
+        {
+          "sense": "understand or imagine",
+          "zh": "理解；想象",
+          "en": "to understand, imagine, or think of something as possible",
+          "example": {
+            "en": "It is hard to conceive of a fair solution without compromise.",
+            "zh": "没有妥协，很难想象一个公平的解决方案。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "con",
+          "type": "prefix",
+          "meaning": "together, fully, intensively",
+          "rootId": "root:con",
+          "note": "In Latin concipere, con- is often explained as an intensive or together-with prefix."
+        },
+        {
+          "form": "ceive",
+          "type": "root",
+          "meaning": "take in, hold",
+          "rootId": "root:cap",
+          "note": "From Latin concipere, built from con- plus a combining form of capere."
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:cap"
+      ],
+      "relations": {
+        "derivatives": [
+          "conception",
+          "conceivable"
+        ],
+        "sameFamily": [
+          "receive",
+          "reception",
+          "receptive",
+          "receiver",
+          "receipt",
+          "recipient",
+          "perceive",
+          "deceive",
+          "recipe",
+          "receptacle",
+          "receptor",
+          "concept",
+          "conceit",
+          "misconceive",
+          "preconceive"
+        ],
+        "confusables": [
+          "receive",
+          "concept"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把东西接进身体或头脑里，并在那里形成、保有。",
+        "memoryHook": "con + ceive = take in and hold：身体里形成生命，头脑里形成想法。",
+        "watchOut": "conceive 是构想/受孕；receive 是收到；concept 是已经形成的概念名词。"
+      }
+    },
+    {
+      "id": "word:conception",
+      "slug": "conception",
+      "term": "conception",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "forming an idea",
+          "zh": "构想；设想；观念形成",
+          "en": "the act or process of forming an idea in the mind",
+          "example": {
+            "en": "The project changed between conception and launch.",
+            "zh": "这个项目从构想到发布之间发生了变化。"
+          }
+        },
+        {
+          "sense": "idea or understanding",
+          "zh": "概念；理解；观念",
+          "en": "an idea, understanding, or way of thinking about something",
+          "example": {
+            "en": "Her conception of leadership emphasizes service.",
+            "zh": "她对领导力的理解强调服务。"
+          }
+        },
+        {
+          "sense": "beginning of pregnancy",
+          "zh": "受孕；怀孕开始",
+          "en": "the beginning of pregnancy",
+          "example": {
+            "en": "The doctor explained the early stages after conception.",
+            "zh": "医生解释了受孕后的早期阶段。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "con",
+          "type": "prefix",
+          "meaning": "together, fully, intensively",
+          "rootId": "root:con"
+        },
+        {
+          "form": "cept",
+          "type": "root",
+          "meaning": "take in, conceive",
+          "rootId": "root:cap",
+          "note": "From Latin conceptionem/conceptio, built on the past-participle stem of concipere."
+        },
+        {
+          "form": "ion",
+          "type": "suffix",
+          "meaning": "act, process, result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:cap",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "conceive",
+          "conceivable"
+        ],
+        "sameFamily": [
+          "receive",
+          "reception",
+          "receptive",
+          "receiver",
+          "receipt",
+          "recipient",
+          "perceive",
+          "deceive",
+          "recipe",
+          "receptacle",
+          "receptor",
+          "concept",
+          "conceit",
+          "misconceive",
+          "preconceive"
+        ],
+        "confusables": [
+          "concept",
+          "contraception",
+          "misconception"
+        ]
+      },
+      "learning": {
+        "coreIdea": "构想、理解或受孕这个形成过程本身。",
+        "memoryHook": "conception = the act/result of conceiving：一个想法或生命开始形成。",
+        "watchOut": "conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。"
+      }
+    },
+    {
       "id": "word:construct",
       "slug": "construct",
       "term": "construct",
@@ -3411,6 +3679,3957 @@
       "tags": [
         "pilot-family",
         "leading"
+      ]
+    },
+    {
+      "id": "word:spring",
+      "slug": "spring",
+      "term": "spring",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun",
+        "verb"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "leap or burst forth",
+          "zh": "跳起；涌出；突然出现",
+          "en": "to jump, rise, or appear suddenly",
+          "example": {
+            "en": "New shoots spring from the soil after rain.",
+            "zh": "雨后，新芽从土里冒出来。"
+          }
+        },
+        {
+          "sense": "season after winter",
+          "zh": "春天",
+          "en": "the season when plants begin to grow again",
+          "example": {
+            "en": "The garden is full of color in spring.",
+            "zh": "春天，花园里满是色彩。"
+          }
+        },
+        {
+          "sense": "water source",
+          "zh": "泉水；泉源",
+          "en": "a natural place where water flows up from the ground",
+          "example": {
+            "en": "The village grew around a clear mountain spring.",
+            "zh": "村庄围绕一处清澈的山泉发展起来。"
+          }
+        },
+        {
+          "sense": "elastic coil",
+          "zh": "弹簧",
+          "en": "a coil or device that returns after being pressed or stretched",
+          "example": {
+            "en": "The spring pushed the lid back open.",
+            "zh": "弹簧把盖子又弹开了。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "spring",
+          "type": "root",
+          "meaning": "leap, rise, burst forth, rebound",
+          "rootId": "root:spring"
+        }
+      ],
+      "rootIds": [
+        "root:spring"
+      ],
+      "relations": {
+        "derivatives": [
+          "springy",
+          "springtime",
+          "springboard"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "某物带着力量突然冒出、跃起、涌出或弹回。",
+        "memoryHook": "spring 的画面不是“春天”本身，而是生命、水或物体突然 spring forth。",
+        "watchOut": "spring 的几个常见名词义是同一词的多义 sense，不要拆成多个 derivative tab。"
+      },
+      "tags": [
+        "polysemy",
+        "old-english",
+        "core-image"
+      ]
+    },
+    {
+      "id": "word:scale",
+      "slug": "scale",
+      "term": "scale",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun",
+        "verb"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "measure or size level",
+          "zh": "刻度；等级；规模；比例",
+          "en": "a system of steps or marks used to measure size, amount, or level",
+          "example": {
+            "en": "The map uses a scale of one inch to ten miles.",
+            "zh": "这张地图使用一英寸代表十英里的比例尺。"
+          }
+        },
+        {
+          "sense": "fish or reptile plate",
+          "zh": "鳞片；片状外壳",
+          "en": "a thin shell-like plate on a fish, reptile, or surface",
+          "example": {
+            "en": "The fish had bright silver scales.",
+            "zh": "这条鱼有亮银色的鳞片。"
+          }
+        },
+        {
+          "sense": "weighing instrument",
+          "zh": "秤；天平",
+          "en": "an instrument for weighing things",
+          "example": {
+            "en": "She put the package on the scale.",
+            "zh": "她把包裹放在秤上。"
+          }
+        },
+        {
+          "sense": "climb",
+          "zh": "攀登；翻越",
+          "en": "to climb up or over something steep",
+          "example": {
+            "en": "The hikers scaled the cliff before noon.",
+            "zh": "徒步者在中午前攀上了悬崖。"
+          }
+        },
+        {
+          "sense": "resize proportionally",
+          "zh": "按比例缩放",
+          "en": "to change size or amount proportionally",
+          "example": {
+            "en": "The app can scale the image without distortion.",
+            "zh": "这个应用可以无失真地按比例缩放图片。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "scale",
+          "type": "root",
+          "meaning": "shell plate; weighing pan from a split-shell image",
+          "rootId": "root:skel",
+          "note": "fish-scale and weighing-scale branch"
+        },
+        {
+          "form": "scale",
+          "type": "root",
+          "meaning": "ladder, steps; graded measure or climb",
+          "rootId": "root:scala",
+          "note": "measure/climb branch"
+        }
+      ],
+      "rootIds": [
+        "root:skel",
+        "root:scala"
+      ],
+      "relations": {
+        "derivatives": [
+          "scalable",
+          "scaling"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "scale 是一个同形交汇点：一条线是壳片/鳞片/天平盘，一条线是阶梯/刻度/攀登。",
+        "memoryHook": "scale 可以想成“片”和“级”：鳞片是一片片，刻度和攀登是一阶阶。",
+        "watchOut": "scale 有同形多源风险；不要把鱼鳞、天平、刻度和攀登硬讲成单一现代词根。"
+      },
+      "tags": [
+        "polysemy",
+        "homograph-risk",
+        "measurement"
+      ]
+    },
+    {
+      "id": "word:draft",
+      "slug": "draft",
+      "term": "draft",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun",
+        "verb",
+        "adjective"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "rough version",
+          "zh": "草稿；初稿",
+          "en": "a first version of a piece of writing or a plan",
+          "example": {
+            "en": "Please send me the first draft of your essay.",
+            "zh": "请把你的论文初稿发给我。"
+          }
+        },
+        {
+          "sense": "select for service",
+          "zh": "征召；选拔",
+          "en": "to choose people for military service, a team, or a task",
+          "example": {
+            "en": "The team drafted a young quarterback.",
+            "zh": "球队选中了一名年轻四分卫。"
+          }
+        },
+        {
+          "sense": "current of air",
+          "zh": "气流；穿堂风",
+          "en": "a current of air moving through a space",
+          "example": {
+            "en": "A cold draft came under the door.",
+            "zh": "一阵冷风从门缝里钻进来。"
+          }
+        },
+        {
+          "sense": "drawn from a cask or tap",
+          "zh": "散装的；桶装啤酒",
+          "en": "served by being drawn from a cask or tap",
+          "example": {
+            "en": "They ordered draft beer with dinner.",
+            "zh": "他们晚餐时点了生啤。"
+          }
+        },
+        {
+          "sense": "payment order",
+          "zh": "汇票",
+          "en": "a written order to pay money from one account to another",
+          "example": {
+            "en": "The invoice was paid by bank draft.",
+            "zh": "这张发票是用银行汇票支付的。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "draft",
+          "type": "root",
+          "meaning": "draw, pull, draw off",
+          "rootId": "root:draft"
+        }
+      ],
+      "rootIds": [
+        "root:draft"
+      ],
+      "relations": {
+        "derivatives": [
+          "drafting",
+          "drafty",
+          "draftee",
+          "overdraft"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "draught",
+          "drift"
+        ]
+      },
+      "learning": {
+        "coreIdea": "draft 的多义围绕 draw：拉出一股空气、汲出啤酒、抽调人员、先拉出一版文字。",
+        "memoryHook": "草稿是先 draw 出来的版本；生啤是从桶里 draw 出来的酒；征兵是把人 draw off 出来。",
+        "watchOut": "draft 和 draught 在英美用法中分工不同；drift 是“漂移”，不是 draft。"
+      },
+      "tags": [
+        "polysemy",
+        "old-english",
+        "usage"
+      ]
+    },
+    {
+      "id": "word:compete",
+      "slug": "compete",
+      "term": "compete",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "strive against others",
+          "zh": "竞争；比赛",
+          "en": "to strive against others for a goal, prize, market, or advantage",
+          "example": {
+            "en": "Several teams compete for the championship.",
+            "zh": "几支队伍争夺冠军。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "com",
+          "type": "prefix",
+          "meaning": "together, with",
+          "rootId": "root:con"
+        },
+        {
+          "form": "pete",
+          "type": "root",
+          "meaning": "seek, strive for",
+          "rootId": "root:pet"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:pet"
+      ],
+      "relations": {
+        "derivatives": [
+          "competition",
+          "competitive",
+          "competitor"
+        ],
+        "sameFamily": [
+          "petition",
+          "appetite"
+        ],
+        "confusables": [
+          "complete",
+          "competent"
+        ]
+      },
+      "learning": {
+        "coreIdea": "和别人一起追求同一个目标，于是形成竞争。",
+        "memoryHook": "com + pete = together + seek：大家都朝同一个奖品伸手。",
+        "watchOut": "compete 是竞争；complete 是完成；competent 是有能力的，不等于 competitive。"
+      },
+      "tags": [
+        "latin",
+        "word-family-anchor",
+        "competition"
+      ]
+    },
+    {
+      "id": "word:competition",
+      "slug": "competition",
+      "term": "competition",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "rivalry or contest",
+          "zh": "竞争；比赛；竞赛",
+          "en": "rivalry or a contest in which people try to win the same goal",
+          "example": {
+            "en": "The competition attracted students from many schools.",
+            "zh": "这场比赛吸引了许多学校的学生。"
+          }
+        },
+        {
+          "sense": "business rivals",
+          "zh": "竞争对手；竞争方",
+          "en": "the people or companies competing against someone",
+          "example": {
+            "en": "The company lowered prices to beat the competition.",
+            "zh": "公司降价以击败竞争对手。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "com",
+          "type": "prefix",
+          "meaning": "together, with",
+          "rootId": "root:con"
+        },
+        {
+          "form": "petit",
+          "type": "root",
+          "meaning": "seek, strive for",
+          "rootId": "root:pet"
+        },
+        {
+          "form": "ion",
+          "type": "suffix",
+          "meaning": "act, process, result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:pet",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "compete",
+          "competitive",
+          "competitor"
+        ],
+        "sameFamily": [
+          "petition",
+          "appetite"
+        ],
+        "confusables": [
+          "composition"
+        ]
+      },
+      "learning": {
+        "coreIdea": "多人或多方同时追求同一个目标的过程或局面。",
+        "memoryHook": "competition = the act/process of competing。",
+        "watchOut": "competition 是竞争；composition 是组成或作文，拼写相近但词根路径不同。"
+      },
+      "tags": [
+        "latin",
+        "competition",
+        "noun-tab"
+      ]
+    },
+    {
+      "id": "word:competitive",
+      "slug": "competitive",
+      "term": "competitive",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "involving competition",
+          "zh": "竞争的；比赛的",
+          "en": "involving competition or rivalry",
+          "example": {
+            "en": "The market is highly competitive.",
+            "zh": "这个市场竞争非常激烈。"
+          }
+        },
+        {
+          "sense": "eager to win",
+          "zh": "好竞争的；有竞争力的",
+          "en": "eager to compete or strong enough to compete well",
+          "example": {
+            "en": "She is competitive but fair.",
+            "zh": "她好胜但公平。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "com",
+          "type": "prefix",
+          "meaning": "together, with",
+          "rootId": "root:con"
+        },
+        {
+          "form": "petit",
+          "type": "root",
+          "meaning": "seek, strive for",
+          "rootId": "root:pet"
+        },
+        {
+          "form": "ive",
+          "type": "suffix",
+          "meaning": "having the nature of, tending to",
+          "rootId": "root:ive"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:pet",
+        "root:ive"
+      ],
+      "relations": {
+        "derivatives": [
+          "compete",
+          "competition",
+          "competitor"
+        ],
+        "sameFamily": [
+          "petition",
+          "appetite"
+        ],
+        "confusables": [
+          "competent"
+        ]
+      },
+      "learning": {
+        "coreIdea": "具有竞争性质，或有争胜倾向。",
+        "memoryHook": "competitive = having the nature of compete。",
+        "watchOut": "competitive 是竞争性的；competent 是胜任的、能力足够的。"
+      },
+      "tags": [
+        "latin",
+        "competition",
+        "adjective-tab"
+      ]
+    },
+    {
+      "id": "word:competitor",
+      "slug": "competitor",
+      "term": "competitor",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "one who competes",
+          "zh": "竞争者；对手",
+          "en": "a person, team, or company that competes",
+          "example": {
+            "en": "Each competitor presented a different design.",
+            "zh": "每个参赛者都展示了不同的设计。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "com",
+          "type": "prefix",
+          "meaning": "together, with",
+          "rootId": "root:con"
+        },
+        {
+          "form": "petit",
+          "type": "root",
+          "meaning": "seek, strive for",
+          "rootId": "root:pet"
+        },
+        {
+          "form": "or",
+          "type": "suffix",
+          "meaning": "person or thing that does",
+          "rootId": "root:or"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:pet",
+        "root:or"
+      ],
+      "relations": {
+        "derivatives": [
+          "compete",
+          "competition",
+          "competitive"
+        ],
+        "sameFamily": [
+          "petition",
+          "appetite"
+        ],
+        "confusables": [
+          "competent"
+        ]
+      },
+      "learning": {
+        "coreIdea": "和别人追求同一目标的人、队伍或公司。",
+        "memoryHook": "competitor = a person or group that competes。",
+        "watchOut": "competitor 是竞争者；competent 是有能力的。"
+      },
+      "tags": [
+        "latin",
+        "competition",
+        "role-noun-tab"
+      ]
+    },
+    {
+      "id": "word:receive",
+      "slug": "receive",
+      "term": "receive",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "frequencyBand": "core",
+      "definitions": [
+        {
+          "sense": "take or get",
+          "zh": "收到；接收；得到",
+          "en": "to get or take something that is given, sent, or offered",
+          "example": {
+            "en": "I received your message this morning.",
+            "zh": "我今天早上收到了你的信息。"
+          }
+        },
+        {
+          "sense": "welcome or admit",
+          "zh": "接待；接纳",
+          "en": "to welcome someone or allow someone to enter",
+          "example": {
+            "en": "The host received the guests at the door.",
+            "zh": "主人在门口接待客人。"
+          }
+        },
+        {
+          "sense": "accept as true or experience",
+          "zh": "接受；遭受；经历",
+          "en": "to accept something as true or experience an effect, injury, or treatment",
+          "example": {
+            "en": "The proposal received strong support.",
+            "zh": "这个提议得到了强烈支持。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back, again",
+          "rootId": "root:re",
+          "note": "Latin re- in recipere has an unclear exact force here, but keeps the back/take-in image."
+        },
+        {
+          "form": "ceive",
+          "type": "root",
+          "meaning": "take, take in",
+          "rootId": "root:cap",
+          "note": "From Latin recipere, with -cipere as a combining form of capere."
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:cap"
+      ],
+      "relations": {
+        "derivatives": [
+          "reception",
+          "receptive",
+          "receiver",
+          "receipt",
+          "recipient"
+        ],
+        "sameFamily": [
+          "conceive",
+          "perceive",
+          "deceive",
+          "recipe",
+          "receptacle",
+          "receptor"
+        ],
+        "confusables": [
+          "recipe"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把给出、送来、进入的东西接到自己这边。",
+        "memoryHook": "re + ceive = take in/back：东西从外面被接进来。",
+        "watchOut": "receive 是接收；recipe 是配方；receipt 是收据，三者同源但现代用法分开。"
+      },
+      "tags": [
+        "latin",
+        "word-family-anchor",
+        "receiving"
+      ]
+    },
+    {
+      "id": "word:reception",
+      "slug": "reception",
+      "term": "reception",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "act of receiving",
+          "zh": "接收；接待；欢迎",
+          "en": "the act or manner of receiving someone or something",
+          "example": {
+            "en": "The speaker received a warm reception.",
+            "zh": "演讲者受到了热烈欢迎。"
+          }
+        },
+        {
+          "sense": "front desk or event",
+          "zh": "接待处；招待会",
+          "en": "a reception desk or a formal social gathering",
+          "example": {
+            "en": "Please check in at reception.",
+            "zh": "请在接待处登记。"
+          }
+        },
+        {
+          "sense": "signal quality",
+          "zh": "信号接收",
+          "en": "the quality of received radio, phone, or television signals",
+          "example": {
+            "en": "Cell phone reception is weak here.",
+            "zh": "这里手机信号接收很弱。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back, in return",
+          "rootId": "root:re"
+        },
+        {
+          "form": "cept",
+          "type": "root",
+          "meaning": "take, receive",
+          "rootId": "root:cap",
+          "note": "From Latin receptio/receptus, built on recipere/capere."
+        },
+        {
+          "form": "ion",
+          "type": "suffix",
+          "meaning": "act, process, result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:cap",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "receive",
+          "receptive",
+          "receiver",
+          "receipt",
+          "recipient"
+        ],
+        "sameFamily": [
+          "conceive",
+          "perceive",
+          "deceive",
+          "recipe",
+          "receptacle",
+          "receptor"
+        ],
+        "confusables": [
+          "recession",
+          "recipe"
+        ]
+      },
+      "learning": {
+        "coreIdea": "接收这个动作、场景或结果。",
+        "memoryHook": "reception = the act/result/place of receiving。",
+        "watchOut": "reception 是接待/接收；recession 是衰退；recipe 是配方。"
+      },
+      "tags": [
+        "latin",
+        "receiving",
+        "noun-tab"
+      ]
+    },
+    {
+      "id": "word:receptive",
+      "slug": "receptive",
+      "term": "receptive",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "open to receiving",
+          "zh": "乐于接受的；能接收的",
+          "en": "willing or able to receive ideas, suggestions, signals, or impressions",
+          "example": {
+            "en": "The audience was receptive to the new idea.",
+            "zh": "观众愿意接受这个新想法。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back, in return",
+          "rootId": "root:re"
+        },
+        {
+          "form": "cept",
+          "type": "root",
+          "meaning": "take, receive",
+          "rootId": "root:cap",
+          "note": "From Latin receptus/recipere, from capere."
+        },
+        {
+          "form": "ive",
+          "type": "suffix",
+          "meaning": "having the nature of, tending to",
+          "rootId": "root:ive"
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:cap",
+        "root:ive"
+      ],
+      "relations": {
+        "derivatives": [
+          "receive",
+          "reception",
+          "receiver",
+          "receipt",
+          "recipient"
+        ],
+        "sameFamily": [
+          "conceive",
+          "perceive",
+          "deceive",
+          "recipe",
+          "receptacle",
+          "receptor"
+        ],
+        "confusables": [
+          "respective",
+          "perceptive"
+        ]
+      },
+      "learning": {
+        "coreIdea": "具有接收、接受或响应的倾向。",
+        "memoryHook": "receptive = having the nature of receiving。",
+        "watchOut": "receptive 是乐于接受；respective 是各自的；perceptive 是有洞察力的。"
+      },
+      "tags": [
+        "latin",
+        "receiving",
+        "adjective-tab"
+      ]
+    },
+    {
+      "id": "word:receiver",
+      "slug": "receiver",
+      "term": "receiver",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "one who receives",
+          "zh": "接收者；收件人",
+          "en": "a person or thing that receives something",
+          "example": {
+            "en": "The receiver signed for the package.",
+            "zh": "收件人签收了包裹。"
+          }
+        },
+        {
+          "sense": "device that receives signals",
+          "zh": "接收器；听筒",
+          "en": "a device that receives signals, sound, or information",
+          "example": {
+            "en": "The radio receiver picked up a clear signal.",
+            "zh": "无线电接收器接收到清晰信号。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back, again",
+          "rootId": "root:re"
+        },
+        {
+          "form": "ceive",
+          "type": "root",
+          "meaning": "take, take in",
+          "rootId": "root:cap",
+          "note": "English receive plus agent suffix."
+        },
+        {
+          "form": "er",
+          "type": "suffix",
+          "meaning": "person or thing that does",
+          "rootId": "root:or",
+          "note": "Using the existing agent suffix entry; receiver is the one/thing that receives."
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:cap",
+        "root:or"
+      ],
+      "relations": {
+        "derivatives": [
+          "receive",
+          "reception",
+          "receptive",
+          "receipt",
+          "recipient"
+        ],
+        "sameFamily": [
+          "conceive",
+          "perceive",
+          "deceive",
+          "recipe",
+          "receptacle",
+          "receptor"
+        ],
+        "confusables": [
+          "recipient"
+        ]
+      },
+      "learning": {
+        "coreIdea": "接收动作的执行者或接收装置。",
+        "memoryHook": "receiver = one that receives。",
+        "watchOut": "receiver 常指设备或收件人；recipient 更偏正式地指收到某物的人。"
+      },
+      "tags": [
+        "latin",
+        "receiving",
+        "role-noun-tab"
+      ]
+    },
+    {
+      "id": "word:receipt",
+      "slug": "receipt",
+      "term": "receipt",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "written proof of receiving",
+          "zh": "收据；收条",
+          "en": "a written or electronic record showing that money or goods were received",
+          "example": {
+            "en": "Keep the receipt in case you need to return the item.",
+            "zh": "保留收据，以防需要退货。"
+          }
+        },
+        {
+          "sense": "act of receiving",
+          "zh": "收到；接收",
+          "en": "the act or fact of receiving something",
+          "example": {
+            "en": "Payment is due upon receipt of the invoice.",
+            "zh": "收到发票后即应付款。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back, in return",
+          "rootId": "root:re"
+        },
+        {
+          "form": "ceipt",
+          "type": "root",
+          "meaning": "thing received; act of receiving",
+          "rootId": "root:cap",
+          "note": "The restored written p points back to Latin recipere/recepta, though it is silent in modern pronunciation."
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:cap"
+      ],
+      "relations": {
+        "derivatives": [
+          "receive",
+          "reception",
+          "receptive",
+          "receiver",
+          "recipient"
+        ],
+        "sameFamily": [
+          "conceive",
+          "perceive",
+          "deceive",
+          "recipe",
+          "receptacle",
+          "receptor"
+        ],
+        "confusables": [
+          "recipe",
+          "receive"
+        ]
+      },
+      "learning": {
+        "coreIdea": "收到这件事留下的凭证，或收到这个动作本身。",
+        "memoryHook": "receipt 里的 p 是历史拼写影子：写出来提醒 capere/recipere，读音里不发。",
+        "watchOut": "receipt 是收据；recipe 是配方；receive 是动词“收到”。"
+      },
+      "tags": [
+        "latin",
+        "receiving",
+        "lexicalized-tab"
+      ]
+    },
+    {
+      "id": "word:recipient",
+      "slug": "recipient",
+      "term": "recipient",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "high",
+      "definitions": [
+        {
+          "sense": "person who receives",
+          "zh": "接受者；收件人；受方",
+          "en": "a person or group that receives something",
+          "example": {
+            "en": "The scholarship recipient thanked the committee.",
+            "zh": "奖学金获得者感谢了委员会。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "re",
+          "type": "prefix",
+          "meaning": "back, in return",
+          "rootId": "root:re"
+        },
+        {
+          "form": "cip",
+          "type": "root",
+          "meaning": "take, receive",
+          "rootId": "root:cap",
+          "note": "From Latin recipiens/recipient-, present participle of recipere."
+        },
+        {
+          "form": "ient",
+          "type": "suffix",
+          "meaning": "one who, that which",
+          "rootId": "root:ent"
+        }
+      ],
+      "rootIds": [
+        "root:re",
+        "root:cap",
+        "root:ent"
+      ],
+      "relations": {
+        "derivatives": [
+          "receive",
+          "reception",
+          "receptive",
+          "receiver",
+          "receipt"
+        ],
+        "sameFamily": [
+          "conceive",
+          "perceive",
+          "deceive",
+          "recipe",
+          "receptacle",
+          "receptor"
+        ],
+        "confusables": [
+          "receiver"
+        ]
+      },
+      "learning": {
+        "coreIdea": "处在接收位置上的人或群体。",
+        "memoryHook": "recipient = the one receiving; cip keeps the Latin capere/recipere family visible.",
+        "watchOut": "recipient 比 receiver 更正式；receiver 也可指设备。"
+      },
+      "tags": [
+        "latin",
+        "receiving",
+        "role-noun-tab"
+      ]
+    },
+    {
+      "id": "word:abandon",
+      "slug": "abandon",
+      "term": "abandon",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "give up or leave",
+          "zh": "抛弃；放弃",
+          "en": "to leave someone or something behind or give up an effort",
+          "example": {
+            "en": "The team refused to abandon the project.",
+            "zh": "团队拒绝放弃这个项目。"
+          }
+        },
+        {
+          "sense": "uncontrolled freedom",
+          "zh": "放纵；沉溺",
+          "en": "a free or uncontrolled way of behaving",
+          "example": {
+            "en": "The children danced with abandon.",
+            "zh": "孩子们尽情地跳舞。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abandon",
+          "type": "root",
+          "meaning": "give up",
+          "rootId": "root:abandon"
+        }
+      ],
+      "rootIds": [
+        "root:abandon"
+      ],
+      "relations": {
+        "derivatives": [
+          "abandoned",
+          "abandonment"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "abase"
+        ]
+      },
+      "learning": {
+        "coreIdea": "放开控制权，不再继续守住。",
+        "memoryHook": "abandon = give up control and leave it behind。",
+        "watchOut": "注意名词 abandon 表示放纵，不等于 abandonment。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abandoned",
+      "slug": "abandoned",
+      "term": "abandoned",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "left behind",
+          "zh": "被抛弃的；废置的",
+          "en": "left and no longer used, wanted, or cared for",
+          "example": {
+            "en": "They found an abandoned cabin near the road.",
+            "zh": "他们在路边发现了一间废弃小屋。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abandon",
+          "type": "root",
+          "meaning": "give up",
+          "rootId": "root:abandon"
+        },
+        {
+          "form": "ed",
+          "type": "suffix",
+          "meaning": "past state",
+          "rootId": "root:ed"
+        }
+      ],
+      "rootIds": [
+        "root:abandon",
+        "root:ed"
+      ],
+      "relations": {
+        "derivatives": [
+          "abandon",
+          "abandonment"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "被放弃后留下来的状态。",
+        "memoryHook": "abandoned = abandon + ed。",
+        "watchOut": "abandoned 可形容地点、物品或人，也可有情感色彩。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abandonment",
+      "slug": "abandonment",
+      "term": "abandonment",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "act of giving up",
+          "zh": "抛弃；放弃",
+          "en": "the act of leaving or giving something up",
+          "example": {
+            "en": "The plan's abandonment surprised investors.",
+            "zh": "这个计划被放弃让投资者感到意外。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abandon",
+          "type": "root",
+          "meaning": "give up",
+          "rootId": "root:abandon"
+        },
+        {
+          "form": "ment",
+          "type": "suffix",
+          "meaning": "act or result",
+          "rootId": "root:ment"
+        }
+      ],
+      "rootIds": [
+        "root:abandon",
+        "root:ment"
+      ],
+      "relations": {
+        "derivatives": [
+          "abandon",
+          "abandoned"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "放弃这个动作或结果。",
+        "memoryHook": "abandonment = the result of abandoning。",
+        "watchOut": "和 abandon 的名词义“放纵”不同，abandonment 更强调抛弃/放弃。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abbreviate",
+      "slug": "abbreviate",
+      "term": "abbreviate",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "make shorter",
+          "zh": "缩短；缩写",
+          "en": "to shorten a word, phrase, text, or process",
+          "example": {
+            "en": "Please abbreviate the title in the chart.",
+            "zh": "请在图表中缩写标题。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "brevi",
+          "type": "root",
+          "meaning": "short",
+          "rootId": "root:brev"
+        },
+        {
+          "form": "ate",
+          "type": "suffix",
+          "meaning": "make or do",
+          "rootId": "root:ate"
+        }
+      ],
+      "rootIds": [
+        "root:ate",
+        "root:brev"
+      ],
+      "relations": {
+        "derivatives": [
+          "abbreviation"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "把长表达变短。",
+        "memoryHook": "abbreviate = make brief。",
+        "watchOut": "不要和 alleviate 混淆；abbreviate 是缩短，不是减轻。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abbreviation",
+      "slug": "abbreviation",
+      "term": "abbreviation",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "shortened form",
+          "zh": "缩写；缩写词",
+          "en": "a shortened form of a word or phrase",
+          "example": {
+            "en": "NASA is an abbreviation.",
+            "zh": "NASA 是一个缩写。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abbrevi",
+          "type": "root",
+          "meaning": "short",
+          "rootId": "root:brev"
+        },
+        {
+          "form": "ation",
+          "type": "suffix",
+          "meaning": "act or result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:brev",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "abbreviate"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "缩短后的表达结果。",
+        "memoryHook": "abbreviation = the result of abbreviating。",
+        "watchOut": "abbreviation 指缩写形式；acronym 特指按字母读或成词的缩略词。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abide",
+      "slug": "abide",
+      "term": "abide",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "obey",
+          "zh": "遵守",
+          "en": "to accept and follow a rule or decision",
+          "example": {
+            "en": "All members must abide by the rules.",
+            "zh": "所有成员都必须遵守规则。"
+          }
+        },
+        {
+          "sense": "endure",
+          "zh": "忍受",
+          "en": "to tolerate or endure something",
+          "example": {
+            "en": "She cannot abide unfair treatment.",
+            "zh": "她无法忍受不公平待遇。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "bide",
+          "type": "root",
+          "meaning": "remain or endure",
+          "rootId": "root:bide"
+        }
+      ],
+      "rootIds": [
+        "root:bide"
+      ],
+      "relations": {
+        "derivatives": [
+          "abiding"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "留下来承受规则或状态。",
+        "memoryHook": "abide by = stay with and obey。",
+        "watchOut": "abide 常和 by 搭配表示遵守；作“忍受”时多用于否定。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abiding",
+      "slug": "abiding",
+      "term": "abiding",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "lasting",
+          "zh": "持久的",
+          "en": "continuing for a long time",
+          "example": {
+            "en": "He has an abiding interest in history.",
+            "zh": "他对历史有持久的兴趣。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "bide",
+          "type": "root",
+          "meaning": "remain",
+          "rootId": "root:bide"
+        },
+        {
+          "form": "ing",
+          "type": "suffix",
+          "meaning": "continuing quality",
+          "rootId": "root:ing"
+        }
+      ],
+      "rootIds": [
+        "root:bide",
+        "root:ing"
+      ],
+      "relations": {
+        "derivatives": [
+          "abide"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "一直留下来的性质。",
+        "memoryHook": "abiding = remaining over time。",
+        "watchOut": "abiding 多修饰 interest, faith, influence 等抽象名词。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:ability",
+      "slug": "ability",
+      "term": "ability",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "power or skill",
+          "zh": "能力；才干",
+          "en": "the power, skill, or capacity to do something",
+          "example": {
+            "en": "The test measures reading ability.",
+            "zh": "这项测试衡量阅读能力。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abil",
+          "type": "root",
+          "meaning": "able",
+          "rootId": "root:able"
+        },
+        {
+          "form": "ity",
+          "type": "suffix",
+          "meaning": "quality or state",
+          "rootId": "root:ity"
+        }
+      ],
+      "rootIds": [
+        "root:able",
+        "root:ity"
+      ],
+      "relations": {
+        "derivatives": [
+          "inability"
+        ],
+        "sameFamily": [
+          "capability"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "能够做某事的状态。",
+        "memoryHook": "ability = able + ity。",
+        "watchOut": "ability 泛指能力；capability 更强调可发挥的能力或性能。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:inability",
+      "slug": "inability",
+      "term": "inability",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "lack of ability",
+          "zh": "无能；无力",
+          "en": "the state of not being able to do something",
+          "example": {
+            "en": "His inability to focus hurt his performance.",
+            "zh": "他无法集中注意力影响了表现。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "in",
+          "type": "prefix",
+          "meaning": "not",
+          "rootId": "root:im"
+        },
+        {
+          "form": "abil",
+          "type": "root",
+          "meaning": "able",
+          "rootId": "root:able"
+        },
+        {
+          "form": "ity",
+          "type": "suffix",
+          "meaning": "quality or state",
+          "rootId": "root:ity"
+        }
+      ],
+      "rootIds": [
+        "root:able",
+        "root:im",
+        "root:ity"
+      ],
+      "relations": {
+        "derivatives": [
+          "ability"
+        ],
+        "sameFamily": [
+          "capability"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "没有能力的状态。",
+        "memoryHook": "inability = not + ability。",
+        "watchOut": "inability 后常接 to do。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:capability",
+      "slug": "capability",
+      "term": "capability",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "ability or capacity",
+          "zh": "能力；性能；容量",
+          "en": "the ability or capacity to do, contain, or achieve something",
+          "example": {
+            "en": "The device has expanded storage capability.",
+            "zh": "这台设备扩展了存储能力。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "cap",
+          "type": "root",
+          "meaning": "take or hold",
+          "rootId": "root:cap"
+        },
+        {
+          "form": "able",
+          "type": "suffix",
+          "meaning": "able to be",
+          "rootId": "root:able"
+        },
+        {
+          "form": "ity",
+          "type": "suffix",
+          "meaning": "quality or state",
+          "rootId": "root:ity"
+        }
+      ],
+      "rootIds": [
+        "root:able",
+        "root:cap",
+        "root:ity"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [
+          "ability",
+          "inability"
+        ],
+        "confusables": [
+          "capacity"
+        ]
+      },
+      "learning": {
+        "coreIdea": "能够抓住任务、承载容量或完成事情。",
+        "memoryHook": "capability has cap: the capacity to hold or do.",
+        "watchOut": "capability 强调可实现能力；capacity 更偏容量或承载量。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:viability",
+      "slug": "viability",
+      "term": "viability",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "ability to survive or work",
+          "zh": "生存能力；可行性",
+          "en": "the ability to live, continue, or succeed",
+          "example": {
+            "en": "The study tested the plan's viability.",
+            "zh": "这项研究检验了计划的可行性。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "vi",
+          "type": "root",
+          "meaning": "life",
+          "rootId": "root:viv-vit"
+        },
+        {
+          "form": "able",
+          "type": "suffix",
+          "meaning": "able to be",
+          "rootId": "root:able"
+        },
+        {
+          "form": "ity",
+          "type": "suffix",
+          "meaning": "quality or state",
+          "rootId": "root:ity"
+        }
+      ],
+      "rootIds": [
+        "root:able",
+        "root:ity",
+        "root:viv-vit"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": [
+          "vitality"
+        ]
+      },
+      "learning": {
+        "coreIdea": "能活下去或行得通的状态。",
+        "memoryHook": "viability = life/able/ity: able to live or work.",
+        "watchOut": "viable 是形容词；viability 是名词。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:variability",
+      "slug": "variability",
+      "term": "variability",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "changeability",
+          "zh": "可变性",
+          "en": "the quality of being likely or able to vary",
+          "example": {
+            "en": "Climate variability affects crop yields.",
+            "zh": "气候可变性会影响作物产量。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "vari",
+          "type": "root",
+          "meaning": "vary",
+          "rootId": "root:vari"
+        },
+        {
+          "form": "able",
+          "type": "suffix",
+          "meaning": "able to be",
+          "rootId": "root:able"
+        },
+        {
+          "form": "ity",
+          "type": "suffix",
+          "meaning": "quality or state",
+          "rootId": "root:ity"
+        }
+      ],
+      "rootIds": [
+        "root:able",
+        "root:ity",
+        "root:vari"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": [
+          "variety"
+        ]
+      },
+      "learning": {
+        "coreIdea": "能够变化的性质。",
+        "memoryHook": "variability = the quality of being variable.",
+        "watchOut": "variability 是可变性；variety 是种类多样性。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:ablaze",
+      "slug": "ablaze",
+      "term": "ablaze",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "on fire or shining",
+          "zh": "着火的；闪耀的",
+          "en": "burning, brightly lit, or shining strongly",
+          "example": {
+            "en": "The sky was ablaze at sunset.",
+            "zh": "日落时天空一片灿烂。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "a",
+          "type": "prefix",
+          "meaning": "in a state of",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "blaze",
+          "type": "root",
+          "meaning": "flame or shine",
+          "rootId": "root:blaze"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:blaze"
+      ],
+      "relations": {
+        "derivatives": [
+          "blazing"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "处在燃烧或闪耀状态。",
+        "memoryHook": "ablaze = in a blaze。",
+        "watchOut": "ablaze 通常作表语：the room was ablaze。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:blazing",
+      "slug": "blazing",
+      "term": "blazing",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "burning or bright",
+          "zh": "炽烧的；闪耀的",
+          "en": "burning fiercely or shining very brightly",
+          "example": {
+            "en": "They walked under the blazing sun.",
+            "zh": "他们走在烈日下。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "blaz",
+          "type": "root",
+          "meaning": "flame or shine",
+          "rootId": "root:blaze"
+        },
+        {
+          "form": "ing",
+          "type": "suffix",
+          "meaning": "ongoing quality",
+          "rootId": "root:ing"
+        }
+      ],
+      "rootIds": [
+        "root:blaze",
+        "root:ing"
+      ],
+      "relations": {
+        "derivatives": [
+          "ablaze"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "像火焰一样持续发亮或发热。",
+        "memoryHook": "blazing = blaze + ing。",
+        "watchOut": "blazing 可指火、光、太阳，也可指速度很快。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abnormal",
+      "slug": "abnormal",
+      "term": "abnormal",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "not normal",
+          "zh": "反常的；异常的；变态的",
+          "en": "different from what is usual, expected, or normal",
+          "example": {
+            "en": "The scan showed abnormal results.",
+            "zh": "扫描显示结果异常。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ab",
+          "type": "prefix",
+          "meaning": "away from",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "norm",
+          "type": "root",
+          "meaning": "standard",
+          "rootId": "root:norm"
+        },
+        {
+          "form": "al",
+          "type": "suffix",
+          "meaning": "relating to",
+          "rootId": "root:al"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:al",
+        "root:norm"
+      ],
+      "relations": {
+        "derivatives": [
+          "normal"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "偏离标准状态。",
+        "memoryHook": "abnormal = away from the norm。",
+        "watchOut": "abnormal 可用于医学或统计语境，语气比 unusual 更正式。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:normal",
+      "slug": "normal",
+      "term": "normal",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "usual or standard",
+          "zh": "正常的；正规的；标准的",
+          "en": "usual, regular, or according to a standard",
+          "example": {
+            "en": "Her temperature returned to normal.",
+            "zh": "她的体温恢复正常。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "norm",
+          "type": "root",
+          "meaning": "standard",
+          "rootId": "root:norm"
+        },
+        {
+          "form": "al",
+          "type": "suffix",
+          "meaning": "relating to",
+          "rootId": "root:al"
+        }
+      ],
+      "rootIds": [
+        "root:al",
+        "root:norm"
+      ],
+      "relations": {
+        "derivatives": [
+          "abnormal"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "符合标准或常态。",
+        "memoryHook": "normal = according to the norm。",
+        "watchOut": "normal 是中性词；ordinary 更偏普通。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abolish",
+      "slug": "abolish",
+      "term": "abolish",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "formally end",
+          "zh": "废除；取消",
+          "en": "to officially end a law, system, or practice",
+          "example": {
+            "en": "The law abolished the old tax.",
+            "zh": "这项法律废除了旧税制。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abol",
+          "type": "root",
+          "meaning": "abolish",
+          "rootId": "root:abol"
+        },
+        {
+          "form": "ish",
+          "type": "suffix",
+          "meaning": "make or do",
+          "rootId": "root:ish"
+        }
+      ],
+      "rootIds": [
+        "root:abol",
+        "root:ish"
+      ],
+      "relations": {
+        "derivatives": [
+          "abolition",
+          "abolitionist"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "abandon"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把制度或做法彻底取消。",
+        "memoryHook": "abolish = formally do away with。",
+        "watchOut": "abolish 多用于制度、法律；cancel 更宽泛。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abolition",
+      "slug": "abolition",
+      "term": "abolition",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "official ending",
+          "zh": "废除；取消",
+          "en": "the act of officially ending a law, system, or practice",
+          "example": {
+            "en": "The abolition of the rule took years.",
+            "zh": "这条规则的废除花了多年。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abol",
+          "type": "root",
+          "meaning": "abolish",
+          "rootId": "root:abol"
+        },
+        {
+          "form": "ition",
+          "type": "suffix",
+          "meaning": "act or result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:abol",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "abolish",
+          "abolitionist"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "废除这个行为或结果。",
+        "memoryHook": "abolition = the act of abolishing。",
+        "watchOut": "历史语境中 abolition 常特指废奴。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abolitionist",
+      "slug": "abolitionist",
+      "term": "abolitionist",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "opponent of slavery",
+          "zh": "废奴主义者",
+          "en": "a person who worked to end slavery or supports abolishing a system",
+          "example": {
+            "en": "The abolitionist spoke against slavery.",
+            "zh": "这位废奴主义者发表演讲反对奴隶制。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abolition",
+          "type": "root",
+          "meaning": "abolition",
+          "rootId": "root:abol"
+        },
+        {
+          "form": "ist",
+          "type": "suffix",
+          "meaning": "person concerned with",
+          "rootId": "root:ist"
+        }
+      ],
+      "rootIds": [
+        "root:abol",
+        "root:ist"
+      ],
+      "relations": {
+        "derivatives": [
+          "abolish",
+          "abolition"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "推动废除制度的人。",
+        "memoryHook": "abolitionist = abolition + ist。",
+        "watchOut": "最常见含义是废奴主义者，但结构上也可指支持废除某制度的人。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abort",
+      "slug": "abort",
+      "term": "abort",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun",
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "stop a plan or mission",
+          "zh": "中止计划或任务",
+          "en": "to stop a plan, process, or mission before it is completed",
+          "example": {
+            "en": "The crew had to abort the launch.",
+            "zh": "工作人员不得不中止发射。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ab",
+          "type": "prefix",
+          "meaning": "away from",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "ort",
+          "type": "root",
+          "meaning": "rise or be born",
+          "rootId": "root:ort"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:ort"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": [
+          "abandon"
+        ]
+      },
+      "learning": {
+        "coreIdea": "在事情成形前让它停止。",
+        "memoryHook": "abort = stop before it fully comes into being。",
+        "watchOut": "现代常作动词；Excel 中列为名词义时可理解为中止任务的行为。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abound",
+      "slug": "abound",
+      "term": "abound",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "be plentiful",
+          "zh": "充满；富于",
+          "en": "to exist in large numbers or amounts",
+          "example": {
+            "en": "Wildflowers abound in the valley.",
+            "zh": "山谷里野花遍布。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abund",
+          "type": "root",
+          "meaning": "overflow",
+          "rootId": "root:abund"
+        }
+      ],
+      "rootIds": [
+        "root:abund"
+      ],
+      "relations": {
+        "derivatives": [
+          "abundant",
+          "abundantly",
+          "abundance"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "多到像溢出来。",
+        "memoryHook": "abound = overflow in quantity。",
+        "watchOut": "abound 常与 in/with 搭配。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abrasion",
+      "slug": "abrasion",
+      "term": "abrasion",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "scraped area",
+          "zh": "磨破；表面磨损",
+          "en": "damage caused by scraping or rubbing a surface",
+          "example": {
+            "en": "The helmet had signs of abrasion.",
+            "zh": "头盔有磨损痕迹。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "a",
+          "type": "prefix",
+          "meaning": "away/off",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "bras",
+          "type": "root",
+          "meaning": "scrape",
+          "rootId": "root:rad-ras"
+        },
+        {
+          "form": "ion",
+          "type": "suffix",
+          "meaning": "act or result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:ion",
+        "root:rad-ras"
+      ],
+      "relations": {
+        "derivatives": [
+          "abrasive"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "表面被刮擦磨掉。",
+        "memoryHook": "abrasion = scraping away a surface。",
+        "watchOut": "abrasion 是磨损结果；abrasive 是会磨损的材料或态度。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abrasive",
+      "slug": "abrasive",
+      "term": "abrasive",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "scraping or harsh",
+          "zh": "研磨的；粗糙刺耳的",
+          "en": "able to scrape surfaces, or harsh in manner",
+          "example": {
+            "en": "The cleaner contains abrasive particles.",
+            "zh": "这种清洁剂含有研磨颗粒。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "a",
+          "type": "prefix",
+          "meaning": "away/off",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "bras",
+          "type": "root",
+          "meaning": "scrape",
+          "rootId": "root:rad-ras"
+        },
+        {
+          "form": "ive",
+          "type": "suffix",
+          "meaning": "having the quality of",
+          "rootId": "root:ive"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:ive",
+        "root:rad-ras"
+      ],
+      "relations": {
+        "derivatives": [
+          "abrasion"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "具有刮擦性质。",
+        "memoryHook": "abrasive = having a scraping quality。",
+        "watchOut": "abrasive 也可形容人说话刺耳。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abrupt",
+      "slug": "abrupt",
+      "term": "abrupt",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "sudden or unexpected",
+          "zh": "突然的；意外的",
+          "en": "sudden, unexpected, or seeming rudely brief",
+          "example": {
+            "en": "The meeting came to an abrupt end.",
+            "zh": "会议突然结束了。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ab",
+          "type": "prefix",
+          "meaning": "off",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "rupt",
+          "type": "root",
+          "meaning": "break",
+          "rootId": "root:rupt"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:rupt"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": [
+          "sudden"
+        ]
+      },
+      "learning": {
+        "coreIdea": "像被一下子打断。",
+        "memoryHook": "abrupt = broken off suddenly。",
+        "watchOut": "abrupt 可指变化突然，也可指态度生硬。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:absenteeism",
+      "slug": "absenteeism",
+      "term": "absenteeism",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "habitual absence",
+          "zh": "旷课；旷工",
+          "en": "frequent absence from school or work",
+          "example": {
+            "en": "The company tried to reduce absenteeism.",
+            "zh": "公司试图减少旷工现象。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "absent",
+          "type": "root",
+          "meaning": "not present",
+          "rootId": "root:esse-sent"
+        },
+        {
+          "form": "ee",
+          "type": "suffix",
+          "meaning": "person affected",
+          "rootId": "root:ee"
+        },
+        {
+          "form": "ism",
+          "type": "suffix",
+          "meaning": "condition or practice",
+          "rootId": "root:ism"
+        }
+      ],
+      "rootIds": [
+        "root:ee",
+        "root:esse-sent",
+        "root:ism"
+      ],
+      "relations": {
+        "derivatives": [
+          "absentee",
+          "absent",
+          "absence"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "缺席变成一种反复现象。",
+        "memoryHook": "absenteeism = the condition/practice of being absent.",
+        "watchOut": "absenteeism 指旷课/旷工现象，不是一次 absence。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:absentee",
+      "slug": "absentee",
+      "term": "absentee",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "person absent",
+          "zh": "缺席者",
+          "en": "a person who is not present where expected",
+          "example": {
+            "en": "Absentees must submit the form later.",
+            "zh": "缺席者必须稍后提交表格。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "absent",
+          "type": "root",
+          "meaning": "not present",
+          "rootId": "root:esse-sent"
+        },
+        {
+          "form": "ee",
+          "type": "suffix",
+          "meaning": "person affected",
+          "rootId": "root:ee"
+        }
+      ],
+      "rootIds": [
+        "root:ee",
+        "root:esse-sent"
+      ],
+      "relations": {
+        "derivatives": [
+          "absent",
+          "absence",
+          "absenteeism"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "本该在场却不在的人。",
+        "memoryHook": "absentee = one who is absent。",
+        "watchOut": "absentee 可用于 absentee ballot，指缺席投票相关。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:absent",
+      "slug": "absent",
+      "term": "absent",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "not present or lacking",
+          "zh": "缺少的；不在的；缺席的",
+          "en": "not present, or missing from a place or situation",
+          "example": {
+            "en": "Several students were absent today.",
+            "zh": "今天有几名学生缺席。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ab",
+          "type": "prefix",
+          "meaning": "away from",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "sent",
+          "type": "root",
+          "meaning": "being present",
+          "rootId": "root:esse-sent"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:esse-sent"
+      ],
+      "relations": {
+        "derivatives": [
+          "absence",
+          "absentee",
+          "absenteeism"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "present"
+        ]
+      },
+      "learning": {
+        "coreIdea": "离开了应该在的位置。",
+        "memoryHook": "absent = away from being present。",
+        "watchOut": "absent-minded 是心不在焉，不只是缺席。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:absence",
+      "slug": "absence",
+      "term": "absence",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "state of not being present",
+          "zh": "缺少；不在；缺席",
+          "en": "the state of being away or not present",
+          "example": {
+            "en": "Her absence was noticed immediately.",
+            "zh": "她的缺席立刻被注意到了。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ab",
+          "type": "prefix",
+          "meaning": "away from",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "sence",
+          "type": "root",
+          "meaning": "being present",
+          "rootId": "root:esse-sent"
+        },
+        {
+          "form": "ence",
+          "type": "suffix",
+          "meaning": "state",
+          "rootId": "root:ence-ance"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:ence-ance",
+        "root:esse-sent"
+      ],
+      "relations": {
+        "derivatives": [
+          "absent",
+          "absentee",
+          "absenteeism"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "presence"
+        ]
+      },
+      "learning": {
+        "coreIdea": "不在场这一状态。",
+        "memoryHook": "absence = the state of being absent。",
+        "watchOut": "absence 可指人不在，也可指某物缺乏。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:absolute",
+      "slug": "absolute",
+      "term": "absolute",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "complete or total",
+          "zh": "完全的；绝对的",
+          "en": "complete, total, or not limited by conditions",
+          "example": {
+            "en": "The ruler claimed absolute power.",
+            "zh": "统治者声称拥有绝对权力。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ab",
+          "type": "prefix",
+          "meaning": "away from",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "solut",
+          "type": "root",
+          "meaning": "loosened",
+          "rootId": "root:solv-solut"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:solv-solut"
+      ],
+      "relations": {
+        "derivatives": [
+          "absolutely"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "obsolete"
+        ]
+      },
+      "learning": {
+        "coreIdea": "从限制中解开，所以不受条件限制。",
+        "memoryHook": "absolute = loosened from conditions。",
+        "watchOut": "absolute 可表示完全，也可表示绝对不依赖外物。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:absolutely",
+      "slug": "absolutely",
+      "term": "absolutely",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adverb"
+      ],
+      "definitions": [
+        {
+          "sense": "completely",
+          "zh": "完全地；绝对地",
+          "en": "completely or without qualification",
+          "example": {
+            "en": "You are absolutely right.",
+            "zh": "你完全正确。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "absolute",
+          "type": "root",
+          "meaning": "complete",
+          "rootId": "root:solv-solut"
+        },
+        {
+          "form": "ly",
+          "type": "suffix",
+          "meaning": "in the manner of",
+          "rootId": "root:ly"
+        }
+      ],
+      "rootIds": [
+        "root:ly",
+        "root:solv-solut"
+      ],
+      "relations": {
+        "derivatives": [
+          "absolute"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "以完全无条件的方式。",
+        "memoryHook": "absolutely = in an absolute way。",
+        "watchOut": "口语中 absolutely 也可表示强烈同意。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:absorb",
+      "slug": "absorb",
+      "term": "absorb",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "take in",
+          "zh": "吸收液体或知识",
+          "en": "to take in liquid, energy, information, or attention",
+          "example": {
+            "en": "Plants absorb water through their roots.",
+            "zh": "植物通过根吸收水分。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ab",
+          "type": "prefix",
+          "meaning": "into/from",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "sorb",
+          "type": "root",
+          "meaning": "suck in",
+          "rootId": "root:sorb"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:sorb"
+      ],
+      "relations": {
+        "derivatives": [
+          "absorption"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "adsorb"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把东西吸进内部。",
+        "memoryHook": "absorb = suck in。",
+        "watchOut": "absorb 是吸收进入内部；adsorb 是吸附在表面。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:absorption",
+      "slug": "absorption",
+      "term": "absorption",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "act of taking in",
+          "zh": "吸收",
+          "en": "the process of taking in liquid, energy, or information",
+          "example": {
+            "en": "The material improves sound absorption.",
+            "zh": "这种材料改善吸音效果。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ab",
+          "type": "prefix",
+          "meaning": "into/from",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "sorpt",
+          "type": "root",
+          "meaning": "suck in",
+          "rootId": "root:sorb"
+        },
+        {
+          "form": "ion",
+          "type": "suffix",
+          "meaning": "process",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:ion",
+        "root:sorb"
+      ],
+      "relations": {
+        "derivatives": [
+          "absorb"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "adsorption"
+        ]
+      },
+      "learning": {
+        "coreIdea": "吸收这个过程。",
+        "memoryHook": "absorption = the process of absorbing。",
+        "watchOut": "注意 absorption 和 adsorption 拼写及含义不同。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abstract",
+      "slug": "abstract",
+      "term": "abstract",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective",
+        "noun",
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "not concrete",
+          "zh": "抽象的",
+          "en": "existing as an idea rather than a physical thing",
+          "example": {
+            "en": "Justice is an abstract concept.",
+            "zh": "正义是一个抽象概念。"
+          }
+        },
+        {
+          "sense": "summary or extract",
+          "zh": "摘要；提炼",
+          "en": "a short summary, or to draw out the main idea",
+          "example": {
+            "en": "The article begins with an abstract.",
+            "zh": "这篇文章以摘要开头。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abs",
+          "type": "prefix",
+          "meaning": "away from",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "tract",
+          "type": "root",
+          "meaning": "draw or pull",
+          "rootId": "root:tract"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:tract"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": [
+          "extract"
+        ]
+      },
+      "learning": {
+        "coreIdea": "从具体事物中抽离出核心。",
+        "memoryHook": "abstract = draw away from the concrete。",
+        "watchOut": "abstract 作名词是摘要；作形容词是抽象的。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:absurd",
+      "slug": "absurd",
+      "term": "absurd",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "ridiculous",
+          "zh": "荒谬的；可笑的",
+          "en": "so unreasonable that it seems ridiculous",
+          "example": {
+            "en": "The claim was absurd.",
+            "zh": "这个说法很荒谬。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ab",
+          "type": "prefix",
+          "meaning": "away from",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "surd",
+          "type": "root",
+          "meaning": "dull or deaf",
+          "rootId": "root:surd"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:surd"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": [
+          "ridiculous"
+        ]
+      },
+      "learning": {
+        "coreIdea": "偏离理性到听不进去道理。",
+        "memoryHook": "absurd = away from reason or sense。",
+        "watchOut": "absurd 语气较强，常指不合逻辑到可笑。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abundant",
+      "slug": "abundant",
+      "term": "abundant",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "plentiful",
+          "zh": "丰富的；充裕的；大量的",
+          "en": "available in large quantities",
+          "example": {
+            "en": "The region has abundant rainfall.",
+            "zh": "该地区雨水充沛。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abund",
+          "type": "root",
+          "meaning": "overflow",
+          "rootId": "root:abund"
+        },
+        {
+          "form": "ant",
+          "type": "suffix",
+          "meaning": "having the quality of",
+          "rootId": "root:ent"
+        }
+      ],
+      "rootIds": [
+        "root:abund",
+        "root:ent"
+      ],
+      "relations": {
+        "derivatives": [
+          "abound",
+          "abundantly",
+          "abundance"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "多到溢出来的。",
+        "memoryHook": "abundant = overflowing in amount。",
+        "watchOut": "abundant 常修饰 resources, evidence, rainfall。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abundantly",
+      "slug": "abundantly",
+      "term": "abundantly",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adverb"
+      ],
+      "definitions": [
+        {
+          "sense": "plentifully",
+          "zh": "丰富地",
+          "en": "in a plentiful or very clear way",
+          "example": {
+            "en": "The data make the point abundantly clear.",
+            "zh": "数据把这一点说明得非常清楚。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abundant",
+          "type": "root",
+          "meaning": "plentiful",
+          "rootId": "root:abund"
+        },
+        {
+          "form": "ly",
+          "type": "suffix",
+          "meaning": "in the manner of",
+          "rootId": "root:ly"
+        }
+      ],
+      "rootIds": [
+        "root:abund",
+        "root:ly"
+      ],
+      "relations": {
+        "derivatives": [
+          "abound",
+          "abundant",
+          "abundance"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "以丰富或非常明显的方式。",
+        "memoryHook": "abundantly = in an abundant way。",
+        "watchOut": "abundantly clear 是常见搭配。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abundance",
+      "slug": "abundance",
+      "term": "abundance",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "large amount",
+          "zh": "丰富；充裕",
+          "en": "a very large quantity of something",
+          "example": {
+            "en": "The forest provides an abundance of food.",
+            "zh": "森林提供大量食物。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "abund",
+          "type": "root",
+          "meaning": "overflow",
+          "rootId": "root:abund"
+        },
+        {
+          "form": "ance",
+          "type": "suffix",
+          "meaning": "state",
+          "rootId": "root:ence-ance"
+        }
+      ],
+      "rootIds": [
+        "root:abund",
+        "root:ence-ance"
+      ],
+      "relations": {
+        "derivatives": [
+          "abound",
+          "abundant",
+          "abundantly"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "丰富这一状态。",
+        "memoryHook": "abundance = state of overflowing plenty。",
+        "watchOut": "an abundance of 后接不可数或复数名词。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abuse",
+      "slug": "abuse",
+      "term": "abuse",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "misuse or treat cruelly",
+          "zh": "滥用；虐待",
+          "en": "to use wrongly or treat someone cruelly",
+          "example": {
+            "en": "Officials must not abuse their power.",
+            "zh": "官员不得滥用权力。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ab",
+          "type": "prefix",
+          "meaning": "away from proper use",
+          "rootId": "root:ab"
+        },
+        {
+          "form": "use",
+          "type": "root",
+          "meaning": "use",
+          "rootId": "root:use"
+        }
+      ],
+      "rootIds": [
+        "root:ab",
+        "root:use"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": [
+          "misuse"
+        ]
+      },
+      "learning": {
+        "coreIdea": "偏离正常使用，或错误对待人。",
+        "memoryHook": "abuse = use away from the proper use。",
+        "watchOut": "abuse 可指滥用权力，也可指虐待。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:abut",
+      "slug": "abut",
+      "term": "abut",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "border on",
+          "zh": "邻接；毗邻",
+          "en": "to touch or border on something",
+          "example": {
+            "en": "The garden abuts the river.",
+            "zh": "花园紧邻河流。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "a",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "but",
+          "type": "root",
+          "meaning": "end or touch",
+          "rootId": "root:but"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:but"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": [
+          "about"
+        ]
+      },
+      "learning": {
+        "coreIdea": "边缘顶到另一个边缘。",
+        "memoryHook": "abut = touch at the end or border。",
+        "watchOut": "abut 是正式词；about 是介词/副词，拼写相近但不同。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:academic",
+      "slug": "academic",
+      "term": "academic",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "scholarly or theoretical",
+          "zh": "学术的；学院的；理论的",
+          "en": "related to schools, scholarship, or theoretical study",
+          "example": {
+            "en": "The article uses an academic style.",
+            "zh": "这篇文章使用学术风格。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "academ",
+          "type": "root",
+          "meaning": "academy or learning",
+          "rootId": "root:academ"
+        },
+        {
+          "form": "ic",
+          "type": "suffix",
+          "meaning": "relating to",
+          "rootId": "root:al"
+        }
+      ],
+      "rootIds": [
+        "root:academ",
+        "root:al"
+      ],
+      "relations": {
+        "derivatives": [
+          "academician"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "与学院和学术研究有关。",
+        "memoryHook": "academic = related to the academy。",
+        "watchOut": "academic 也可表示理论上的、非实际的。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:academician",
+      "slug": "academician",
+      "term": "academician",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "scholar or academy member",
+          "zh": "学会会员；院士；学者",
+          "en": "a member of an academy or a scholar",
+          "example": {
+            "en": "The academician presented new research.",
+            "zh": "这位院士展示了新的研究。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "academ",
+          "type": "root",
+          "meaning": "academy or learning",
+          "rootId": "root:academ"
+        },
+        {
+          "form": "ician",
+          "type": "suffix",
+          "meaning": "person connected with",
+          "rootId": "root:ian"
+        }
+      ],
+      "rootIds": [
+        "root:academ",
+        "root:ian"
+      ],
+      "relations": {
+        "derivatives": [
+          "academic"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "属于学术机构或学术领域的人。",
+        "memoryHook": "academician = academy-related person。",
+        "watchOut": "在不同国家 academician 的制度含义可能不同。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accelerate",
+      "slug": "accelerate",
+      "term": "accelerate",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "speed up",
+          "zh": "加快；加速",
+          "en": "to make something happen faster or move faster",
+          "example": {
+            "en": "The new policy may accelerate growth.",
+            "zh": "新政策可能加速增长。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "celer",
+          "type": "root",
+          "meaning": "swift",
+          "rootId": "root:celer"
+        },
+        {
+          "form": "ate",
+          "type": "suffix",
+          "meaning": "make",
+          "rootId": "root:ate"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:ate",
+        "root:celer"
+      ],
+      "relations": {
+        "derivatives": [
+          "accelerated",
+          "accelerating",
+          "acceleration"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "让速度朝更快推进。",
+        "memoryHook": "accelerate = make swift。",
+        "watchOut": "accelerate 可及物也可不及物。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accelerated",
+      "slug": "accelerated",
+      "term": "accelerated",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "sped up",
+          "zh": "加速的；迅速的",
+          "en": "made faster or occurring faster than usual",
+          "example": {
+            "en": "The school offers an accelerated program.",
+            "zh": "学校提供加速课程。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "celer",
+          "type": "root",
+          "meaning": "swift",
+          "rootId": "root:celer"
+        },
+        {
+          "form": "ate",
+          "type": "suffix",
+          "meaning": "make",
+          "rootId": "root:ate"
+        },
+        {
+          "form": "ed",
+          "type": "suffix",
+          "meaning": "completed state",
+          "rootId": "root:ed"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:ate",
+        "root:celer",
+        "root:ed"
+      ],
+      "relations": {
+        "derivatives": [
+          "accelerate",
+          "accelerating",
+          "acceleration"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "已经被加快的状态。",
+        "memoryHook": "accelerated = made faster。",
+        "watchOut": "accelerated program 指压缩或加快进度的课程。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accelerating",
+      "slug": "accelerating",
+      "term": "accelerating",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "speeding up",
+          "zh": "加速的",
+          "en": "increasing in speed or pace",
+          "example": {
+            "en": "They faced accelerating costs.",
+            "zh": "他们面临不断加速上涨的成本。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "celer",
+          "type": "root",
+          "meaning": "swift",
+          "rootId": "root:celer"
+        },
+        {
+          "form": "ate",
+          "type": "suffix",
+          "meaning": "make",
+          "rootId": "root:ate"
+        },
+        {
+          "form": "ing",
+          "type": "suffix",
+          "meaning": "ongoing quality",
+          "rootId": "root:ing"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:ate",
+        "root:celer",
+        "root:ing"
+      ],
+      "relations": {
+        "derivatives": [
+          "accelerate",
+          "accelerated",
+          "acceleration"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "正在变快的状态。",
+        "memoryHook": "accelerating = becoming faster。",
+        "watchOut": "accelerating 可修饰增长、成本、变化等。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acceleration",
+      "slug": "acceleration",
+      "term": "acceleration",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "increase in speed",
+          "zh": "加速度；加速",
+          "en": "an increase in speed, or the rate of that increase",
+          "example": {
+            "en": "The car's acceleration was impressive.",
+            "zh": "这辆车的加速性能令人印象深刻。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "celer",
+          "type": "root",
+          "meaning": "swift",
+          "rootId": "root:celer"
+        },
+        {
+          "form": "ation",
+          "type": "suffix",
+          "meaning": "process or result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:celer",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "accelerate",
+          "accelerated",
+          "accelerating"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "速度增加这个过程或程度。",
+        "memoryHook": "acceleration = the process/rate of speeding up。",
+        "watchOut": "物理中 acceleration 指加速度；日常语境可指加快。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:access",
+      "slug": "access",
+      "term": "access",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "opportunity to approach or use",
+          "zh": "接触；接近的机会",
+          "en": "the opportunity or right to approach, enter, or use something",
+          "example": {
+            "en": "Students need access to reliable internet.",
+            "zh": "学生需要能使用可靠的互联网。"
+          }
+        },
+        {
+          "sense": "entrance or passage",
+          "zh": "入口；通道",
+          "en": "a way of entering or reaching a place",
+          "example": {
+            "en": "The building has wheelchair access.",
+            "zh": "这栋楼有轮椅通道。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "to, toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cess",
+          "type": "root",
+          "meaning": "go",
+          "rootId": "root:excess-ceed"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:excess-ceed"
+      ],
+      "relations": {
+        "derivatives": [
+          "accessible",
+          "accessibility"
+        ],
+        "sameFamily": [
+          "accessory"
+        ],
+        "confusables": [
+          "excess"
+        ]
+      },
+      "learning": {
+        "coreIdea": "走到某处并获得使用或进入机会。",
+        "memoryHook": "access = a way to go toward or enter。",
+        "watchOut": "access 是接近/使用机会；excess 是过量。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accessible",
+      "slug": "accessible",
+      "term": "accessible",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "easy to reach or obtain",
+          "zh": "可接近的；可接触的；可得到的",
+          "en": "easy to reach, enter, use, understand, or obtain",
+          "example": {
+            "en": "The museum is accessible by subway.",
+            "zh": "这个博物馆可以乘地铁到达。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "to, toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cess",
+          "type": "root",
+          "meaning": "go",
+          "rootId": "root:excess-ceed"
+        },
+        {
+          "form": "ible",
+          "type": "suffix",
+          "meaning": "able to be",
+          "rootId": "root:able"
+        }
+      ],
+      "rootIds": [
+        "root:able",
+        "root:ad",
+        "root:excess-ceed"
+      ],
+      "relations": {
+        "derivatives": [
+          "access",
+          "accessibility"
+        ],
+        "sameFamily": [
+          "accessory"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "可以被到达、进入或理解。",
+        "memoryHook": "accessible = able to be accessed。",
+        "watchOut": "accessible 也常表示无障碍或易懂。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accessibility",
+      "slug": "accessibility",
+      "term": "accessibility",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "ease of access",
+          "zh": "易接近；可达到",
+          "en": "the quality of being easy to reach, use, understand, or obtain",
+          "example": {
+            "en": "The redesign improved accessibility.",
+            "zh": "重新设计提升了可达性。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "to, toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cess",
+          "type": "root",
+          "meaning": "go",
+          "rootId": "root:excess-ceed"
+        },
+        {
+          "form": "ibil",
+          "type": "suffix",
+          "meaning": "able to be",
+          "rootId": "root:able"
+        },
+        {
+          "form": "ity",
+          "type": "suffix",
+          "meaning": "quality",
+          "rootId": "root:ity"
+        }
+      ],
+      "rootIds": [
+        "root:able",
+        "root:ad",
+        "root:excess-ceed",
+        "root:ity"
+      ],
+      "relations": {
+        "derivatives": [
+          "access",
+          "accessible"
+        ],
+        "sameFamily": [
+          "accessory"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "容易被到达或使用的性质。",
+        "memoryHook": "accessibility = quality of being accessible。",
+        "watchOut": "技术和建筑语境中常指无障碍性。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accessory",
+      "slug": "accessory",
+      "term": "accessory",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "extra item or part",
+          "zh": "附件；零件",
+          "en": "an extra item that is useful but not essential",
+          "example": {
+            "en": "The case is sold as a phone accessory.",
+            "zh": "这个保护壳作为手机配件出售。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "to, toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cess",
+          "type": "root",
+          "meaning": "go",
+          "rootId": "root:excess-ceed"
+        },
+        {
+          "form": "ory",
+          "type": "suffix",
+          "meaning": "relating to",
+          "rootId": "root:ory"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:excess-ceed",
+        "root:ory"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [
+          "access",
+          "accessible",
+          "accessibility"
+        ],
+        "confusables": [
+          "necessary"
+        ]
+      },
+      "learning": {
+        "coreIdea": "附加到主体旁边的东西。",
+        "memoryHook": "accessory = something that goes along with another thing。",
+        "watchOut": "accessory 不等于 access；法律上 accessory 也可指从犯。"
+      },
+      "tags": [
+        "toefl-5400"
       ]
     }
   ]

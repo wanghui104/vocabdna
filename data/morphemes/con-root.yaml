@@ -5,24 +5,49 @@ type: prefix
 core_meaning: with, together
 zh: 共同、一起、加强
 origin: Latin
+source_form: Latin com-/con-
+source_meaning: with, together
+source_meaning_zh: 共同、一起
+source_note: Assimilated Latin prefix forms include com-, con-, col-, cor-, and co-.
 senses:
   - meaning: with, together
     zh: 共同、一起、加强
     examples:
+      - conceivable
+      - conceive
+      - conception
       - construct
       - convert
       - conduct
+      - compete
+      - competition
+      - competitive
+      - competitor
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - con- -> conceivable
+  - con- -> conceive
+  - con- -> conception
   - con- -> construct
   - con- -> convert
   - con- -> conduct
+  - com- -> compete
+  - com- -> competition
+  - com- -> competitive
+  - com- -> competitor
 high_value_words:
+  - conceivable
+  - conceive
+  - conception
   - construct
   - convert
   - conduct
+  - compete
+  - competition
+  - competitive
+  - competitor
 confusable_words:
   []

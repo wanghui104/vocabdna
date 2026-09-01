@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: draft
+display: draft
+type: root
+core_meaning: draw, pull, draw off
+zh: 拉、抽、汲取
+origin: Old English
+senses:
+  - meaning: draw, pull, draw off
+    zh: 拉、抽、汲取
+    examples:
+      - draft
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - draft -> draft
+high_value_words:
+  - draft
+confusable_words:
+  []

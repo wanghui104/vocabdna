@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abbreviate
+word: abbreviate
+pos: verb
+zh: 缩短；缩写
+en: to shorten a word, phrase, text, or process
+components:
+  - morpheme: brev
+    form: brevi
+    meaning_in_word: short
+    zh: 短
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or do
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - abbreviation
+word_family_details:
+  - word: abbreviation
+    en: a shortened form of a word or phrase
+    zh: 缩写；缩写词
+confusables:
+  []
+examples:
+  - en: Please abbreviate the title in the chart.
+    zh: 请在图表中缩写标题。
+why_confusing: 不要和 alleviate 混淆；abbreviate 是缩短，不是减轻。

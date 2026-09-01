@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: absorption
+word: absorption
+pos: noun
+zh: 吸收
+en: the process of taking in liquid, energy, or information
+components:
+  - morpheme: ab
+    form: ab-
+    meaning_in_word: into/from
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: sorb
+    form: sorpt
+    meaning_in_word: suck in
+    zh: 吸入、吞吸
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: process
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - absorb
+word_family_details:
+  - word: absorb
+    en: to take in liquid, energy, information, or attention
+    zh: 吸收液体或知识
+confusables:
+  - word: adsorption
+    reason: 注意 absorption 和 adsorption 拼写及含义不同。
+    zh_reason: 注意 absorption 和 adsorption 拼写及含义不同。
+examples:
+  - en: The material improves sound absorption.
+    zh: 这种材料改善吸音效果。
+why_confusing: 注意 absorption 和 adsorption 拼写及含义不同。

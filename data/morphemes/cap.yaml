@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cap
+display: cap
+type: root
+core_meaning: take, seize, receive
+zh: 拿、抓、接收
+origin: Latin
+source_form: Latin capere
+source_meaning: take, seize, receive
+source_meaning_zh: 拿、抓、接收
+source_note: receive comes through Latin recipere = re- + -cipere; conceive comes through Latin concipere = con- + -cipere. In both, -cipere is a combining form of capere.
+senses:
+  - meaning: take, seize, receive
+    zh: 拿、抓、接收
+    examples:
+      - conceivable
+      - conceive
+      - conception
+      - receive
+      - reception
+      - receptive
+      - receiver
+      - receipt
+      - recipient
+      - capability
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ceiv -> conceivable
+  - ceive -> conceive
+  - cept -> conception
+  - ceive -> receive
+  - cept -> reception
+  - cept -> receptive
+  - ceive -> receiver
+  - ceipt -> receipt
+  - cip -> recipient
+  - cap -> capability
+high_value_words:
+  - conceivable
+  - conceive
+  - conception
+  - receive
+  - reception
+  - receptive
+  - receiver
+  - receipt
+  - recipient
+  - capability
+confusable_words:
+  []

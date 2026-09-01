@@ -1,0 +1,51 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accelerating
+word: accelerating
+pos: adjective
+zh: 加速的
+en: increasing in speed or pace
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: celer
+    form: celer
+    meaning_in_word: swift
+    zh: 快、迅速
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing quality
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - accelerate
+  - accelerated
+  - acceleration
+word_family_details:
+  - word: accelerate
+    en: to make something happen faster or move faster
+    zh: 加快；加速
+  - word: accelerated
+    en: made faster or occurring faster than usual
+    zh: 加速的；迅速的
+  - word: acceleration
+    en: an increase in speed, or the rate of that increase
+    zh: 加速度；加速
+confusables:
+  []
+examples:
+  - en: They faced accelerating costs.
+    zh: 他们面临不断加速上涨的成本。
+why_confusing: accelerating 可修饰增长、成本、变化等。

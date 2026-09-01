@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: normal
+word: normal
+pos: adjective
+zh: 正常的；正规的；标准的
+en: usual, regular, or according to a standard
+components:
+  - morpheme: norm
+    form: norm
+    meaning_in_word: standard
+    zh: 标准、规则
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - abnormal
+word_family_details:
+  - word: abnormal
+    en: different from what is usual, expected, or normal
+    zh: 反常的；异常的；变态的
+confusables:
+  []
+examples:
+  - en: Her temperature returned to normal.
+    zh: 她的体温恢复正常。
+why_confusing: normal 是中性词；ordinary 更偏普通。

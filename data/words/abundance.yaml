@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abundance
+word: abundance
+pos: noun
+zh: 丰富；充裕
+en: a very large quantity of something
+components:
+  - morpheme: abund
+    form: abund
+    meaning_in_word: overflow
+    zh: 涌出、丰富
+    role: root
+    is_core: true
+  - morpheme: ence-ance
+    form: -ance
+    meaning_in_word: state
+    zh: 状态、性质
+    role: suffix
+    is_core: false
+word_family:
+  - abound
+  - abundant
+  - abundantly
+word_family_details:
+  - word: abound
+    en: to exist in large numbers or amounts
+    zh: 充满；富于
+  - word: abundant
+    en: available in large quantities
+    zh: 丰富的；充裕的；大量的
+  - word: abundantly
+    en: in a plentiful or very clear way
+    zh: 丰富地
+confusables:
+  []
+examples:
+  - en: The forest provides an abundance of food.
+    zh: 森林提供大量食物。
+why_confusing: an abundance of 后接不可数或复数名词。

@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: absorb
+word: absorb
+pos: verb
+zh: 吸收液体或知识
+en: to take in liquid, energy, information, or attention
+components:
+  - morpheme: ab
+    form: ab-
+    meaning_in_word: into/from
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: sorb
+    form: sorb
+    meaning_in_word: suck in
+    zh: 吸入、吞吸
+    role: root
+    is_core: true
+word_family:
+  - absorption
+word_family_details:
+  - word: absorption
+    en: the process of taking in liquid, energy, or information
+    zh: 吸收
+confusables:
+  - word: adsorb
+    reason: absorb 是吸收进入内部；adsorb 是吸附在表面。
+    zh_reason: absorb 是吸收进入内部；adsorb 是吸附在表面。
+examples:
+  - en: Plants absorb water through their roots.
+    zh: 植物通过根吸收水分。
+why_confusing: absorb 是吸收进入内部；adsorb 是吸附在表面。

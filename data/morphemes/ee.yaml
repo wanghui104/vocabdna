@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ee
+display: -ee
+type: suffix
+core_meaning: person affected by an action
+zh: 接受动作的人
+origin: French
+source_form: French -e
+source_meaning: person affected by an action
+source_meaning_zh: 动作接受者
+senses:
+  - meaning: person affected by an action
+    zh: 接受动作的人
+    examples:
+      - absenteeism
+      - absentee
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ee -> absenteeism
+  - -ee -> absentee
+high_value_words:
+  - absenteeism
+  - absentee
+confusable_words:
+  []

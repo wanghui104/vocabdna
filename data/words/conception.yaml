@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conception
+word: conception
+pos: noun
+zh: 构想；设想；观念形成
+en: the act or process of forming an idea in the mind
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together, fully, intensively
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: cept
+    meaning_in_word: take in, conceive
+    zh: 拿、抓、接收
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - conceive
+  - conceivable
+word_family_details:
+  - word: conceive
+    en: to form an idea, plan, image, or possibility in the mind
+    zh: 构想；想出；设想
+  - word: conceivable
+    en: possible to imagine, believe, or suppose
+    zh: 可想象的；可能的
+confusables:
+  - word: concept
+    reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
+    zh_reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
+  - word: contraception
+    reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
+    zh_reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
+  - word: misconception
+    reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
+    zh_reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
+examples:
+  - en: The project changed between conception and launch.
+    zh: 这个项目从构想到发布之间发生了变化。
+  - en: Her conception of leadership emphasizes service.
+    zh: 她对领导力的理解强调服务。
+  - en: The doctor explained the early stages after conception.
+    zh: 医生解释了受孕后的早期阶段。
+why_confusing: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。

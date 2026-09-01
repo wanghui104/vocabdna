@@ -151,6 +151,14 @@
       ],
       "type": "prefix",
       "origin": "Latin",
+      "source": {
+        "form": "Latin com-/con-",
+        "meaning": {
+          "zh": "共同、一起",
+          "en": "with, together"
+        },
+        "note": "Assimilated Latin prefix forms include com-, con-, col-, cor-, and co-."
+      },
       "meaning": {
         "zh": "共同、一起、加强",
         "en": "with, together"
@@ -564,6 +572,13 @@
       ],
       "type": "prefix",
       "origin": "Latin",
+      "source": {
+        "form": "Latin re-",
+        "meaning": {
+          "zh": "回、再",
+          "en": "back, again"
+        }
+      },
       "meaning": {
         "zh": "回、再、反向",
         "en": "back, again"
@@ -776,6 +791,14 @@
       ],
       "type": "suffix",
       "origin": "Latin",
+      "source": {
+        "form": "Latin -io / -ion-",
+        "meaning": {
+          "zh": "行为、过程、结果",
+          "en": "act, process, result"
+        },
+        "note": "English -ion reflects Latin noun-forming -io with oblique stem -ion-."
+      },
       "meaning": {
         "zh": "行为、过程、结果",
         "en": "act, process, result"
@@ -796,6 +819,13 @@
       ],
       "type": "suffix",
       "origin": "Latin",
+      "source": {
+        "form": "Latin -ivus",
+        "meaning": {
+          "zh": "具有……性质的",
+          "en": "having the nature of"
+        }
+      },
       "meaning": {
         "zh": "具有……性质的；倾向于……的",
         "en": "having the nature of, tending to"
@@ -823,6 +853,1132 @@
       "learning": {
         "coreImage": "某个动作可以发生在对象身上。",
         "notes": "deductible 表示可以被扣除的。"
+      },
+      "source": {
+        "form": "Latin -abilis",
+        "meaning": {
+          "zh": "能够被……的",
+          "en": "able to be"
+        },
+        "note": "English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis."
+      }
+    },
+    {
+      "id": "root:spring",
+      "slug": "spring",
+      "forms": [
+        "spring"
+      ],
+      "type": "root",
+      "origin": "Old English",
+      "meaning": {
+        "zh": "跳起、涌出、弹回",
+        "en": "leap, burst forth, rebound"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "能量突然向上、向外或向回释放。",
+        "notes": "用于 spring 的多义核心：跳起、泉水涌出、春天生长、弹簧回弹。"
+      }
+    },
+    {
+      "id": "root:skel",
+      "slug": "skel",
+      "forms": [
+        "skel",
+        "scale"
+      ],
+      "type": "root",
+      "origin": "Mixed",
+      "meaning": {
+        "zh": "切开、分裂；壳片、鳞片",
+        "en": "cut, split; shell or scale"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "东西被切分成薄片、壳片或鳞片。",
+        "notes": "支撑 scale 的鱼鳞/壳片和天平盘义支；和刻度/攀登的 Latin scala 义支区分。"
+      }
+    },
+    {
+      "id": "root:scala",
+      "slug": "scala",
+      "forms": [
+        "scala",
+        "scale"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin scala",
+        "meaning": {
+          "zh": "梯子、阶梯",
+          "en": "ladder, staircase"
+        }
+      },
+      "meaning": {
+        "zh": "梯子、阶梯；按级测量",
+        "en": "ladder, steps; measure by steps"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "一级一级往上爬，也一级一级标出刻度。",
+        "notes": "支撑 scale 的攀登、刻度、比例、等级义支；同形但不等同于鱼鳞/天平的 skel 义支。"
+      }
+    },
+    {
+      "id": "root:draft",
+      "slug": "draft-draught",
+      "forms": [
+        "draft",
+        "draught"
+      ],
+      "type": "root",
+      "origin": "Old English",
+      "meaning": {
+        "zh": "拉、抽、汲取",
+        "en": "draw, pull, draw off"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把东西拉出来、抽出来，或先拉出一个版本。",
+        "notes": "draft 是 draught 的美式拼写发展；草稿、征召、气流、生啤等义项都可从 draw/pull/draw off 连接。"
+      }
+    },
+    {
+      "id": "root:pet",
+      "slug": "pet-petit",
+      "forms": [
+        "pet",
+        "petit",
+        "pete"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin petere",
+        "meaning": {
+          "zh": "追求、寻求、冲向",
+          "en": "seek, strive for, rush toward"
+        },
+        "note": "compete comes from Latin competere = com- + petere; petit- is the participial stem seen in petition/petitionary patterns."
+      },
+      "meaning": {
+        "zh": "追求、寻求、冲向",
+        "en": "seek, strive for, rush toward"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "朝目标用力去求、去争、去冲。",
+        "notes": "compete 来自 com- + petere，表示一起追求同一个目标；petition, appetite 等同源词以后可复用。"
+      }
+    },
+    {
+      "id": "root:or",
+      "slug": "or",
+      "forms": [
+        "or",
+        "er"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin -or",
+        "meaning": {
+          "zh": "做……的人或物",
+          "en": "person or thing that does"
+        }
+      },
+      "meaning": {
+        "zh": "做……的人或物",
+        "en": "person or thing that does"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "动作后面接上执行者。",
+        "notes": "competitor, conductor, producer 等施事名词可以复用这个后缀。"
+      }
+    },
+    {
+      "id": "root:cap",
+      "slug": "cap-cip-cept-ceive",
+      "forms": [
+        "cap",
+        "cip",
+        "cept",
+        "ceive",
+        "ceipt",
+        "capt"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin capere",
+        "meaning": {
+          "zh": "拿、抓、接收",
+          "en": "take, seize, receive"
+        },
+        "note": "receive comes through Latin recipere = re- + -cipere; conceive comes through Latin concipere = con- + -cipere. In both, -cipere is a combining form of capere."
+      },
+      "meaning": {
+        "zh": "拿、抓、接收",
+        "en": "take, seize, receive"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "手把东西拿住，也可以把信息、客人或影响接进来。",
+        "notes": "receive 来自 Old French receivre，源自 Latin recipere = re- + -cipere；conceive 来自 Old French conceveir，源自 Latin concipere = con- + -cipere。-cipere 是 capere 的组合形；receipt/reception/receptive/recipient 与 conception/conceivable 保留 ceipt/cept/cip/ceiv 等历史词干。"
+      }
+    },
+    {
+      "id": "root:ent",
+      "slug": "ent-ant-ient",
+      "forms": [
+        "ent",
+        "ant",
+        "ient"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin -ens / -ent-",
+        "meaning": {
+          "zh": "……的人；具有……性质的",
+          "en": "one who, having the quality of"
+        }
+      },
+      "meaning": {
+        "zh": "……的人；具有……性质的",
+        "en": "one who, that which, having the quality of"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "动作或性质附着在一个人或事物上。",
+        "notes": "recipient 中 -ient 表示承受/执行相关动作的人；后续可用于 patient, agent 等词族。"
+      }
+    },
+    {
+      "id": "root:ab",
+      "slug": "ab",
+      "forms": [
+        "ab",
+        "abs",
+        "a"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "离开、偏离",
+        "en": "away, from, off"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "动作离开原点，或偏离正常位置。",
+        "notes": "常见于 absent, abstract, absorb, abrupt 等词。"
+      },
+      "source": {
+        "form": "Latin ab-/abs-",
+        "meaning": {
+          "zh": "离开、从",
+          "en": "away, from"
+        }
+      }
+    },
+    {
+      "id": "root:abandon",
+      "slug": "abandon",
+      "forms": [
+        "abandon"
+      ],
+      "type": "root",
+      "origin": "French",
+      "meaning": {
+        "zh": "放弃、交出控制",
+        "en": "give up, surrender control"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把控制权放出去，不再守住。",
+        "notes": "用于 abandon, abandoned, abandonment 词族。"
+      },
+      "source": {
+        "form": "Old French abandoner",
+        "meaning": {
+          "zh": "交出、放弃",
+          "en": "surrender, give up"
+        }
+      }
+    },
+    {
+      "id": "root:ment",
+      "slug": "ment",
+      "forms": [
+        "ment"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "行为、结果、状态",
+        "en": "act, result, state"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把动作变成一个结果或状态。",
+        "notes": "常形成名词，如 abandonment。"
+      },
+      "source": {
+        "form": "Latin -mentum",
+        "meaning": {
+          "zh": "行为或结果",
+          "en": "means or result of an action"
+        }
+      }
+    },
+    {
+      "id": "root:ed",
+      "slug": "ed",
+      "forms": [
+        "ed"
+      ],
+      "type": "suffix",
+      "origin": "Old English",
+      "meaning": {
+        "zh": "已经……的",
+        "en": "past or completed"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "动作完成后留下的状态。",
+        "notes": "用于过去分词和形容词，如 abandoned, accelerated。"
+      },
+      "source": {
+        "form": "Old English -ed",
+        "meaning": {
+          "zh": "过去分词后缀",
+          "en": "past-participle suffix"
+        }
+      }
+    },
+    {
+      "id": "root:brev",
+      "slug": "brev",
+      "forms": [
+        "brev",
+        "brevi"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "短",
+        "en": "short"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把长的东西压短。",
+        "notes": "用于 abbreviate, abbreviation。"
+      },
+      "source": {
+        "form": "Latin brevis",
+        "meaning": {
+          "zh": "短的",
+          "en": "short"
+        }
+      }
+    },
+    {
+      "id": "root:ate",
+      "slug": "ate",
+      "forms": [
+        "ate"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "使成为、使做",
+        "en": "make, cause to be"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把词根动作化，让某事发生。",
+        "notes": "常见动词后缀，如 abbreviate, accelerate。"
+      },
+      "source": {
+        "form": "Latin -atus / -are",
+        "meaning": {
+          "zh": "使……、做……",
+          "en": "make or do"
+        }
+      }
+    },
+    {
+      "id": "root:bide",
+      "slug": "bide",
+      "forms": [
+        "bide",
+        "bid"
+      ],
+      "type": "root",
+      "origin": "Old English",
+      "meaning": {
+        "zh": "停留、等待、忍受",
+        "en": "remain, wait, endure"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "留下来承受一段时间。",
+        "notes": "用于 abide, abiding。"
+      },
+      "source": {
+        "form": "Old English bidan",
+        "meaning": {
+          "zh": "停留、等待",
+          "en": "remain, wait"
+        }
+      }
+    },
+    {
+      "id": "root:ing",
+      "slug": "ing",
+      "forms": [
+        "ing"
+      ],
+      "type": "suffix",
+      "origin": "Old English",
+      "meaning": {
+        "zh": "正在……的、与……有关的",
+        "en": "ongoing, related to"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "动作正在持续，或变成性质。",
+        "notes": "用于 abiding, blazing, accelerating。"
+      },
+      "source": {
+        "form": "Old English -ing",
+        "meaning": {
+          "zh": "动作或性质",
+          "en": "action or related quality"
+        }
+      }
+    },
+    {
+      "id": "root:ity",
+      "slug": "ity",
+      "forms": [
+        "ity",
+        "ty"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "性质、状态",
+        "en": "quality, state"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把形容词性质名词化。",
+        "notes": "用于 ability, capability, viability, variability, accessibility。"
+      },
+      "source": {
+        "form": "Latin -itas",
+        "meaning": {
+          "zh": "性质、状态",
+          "en": "quality, state"
+        }
+      }
+    },
+    {
+      "id": "root:viv-vit",
+      "slug": "viv-vit",
+      "forms": [
+        "viv",
+        "vit",
+        "vi"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "生命、活着",
+        "en": "life, live"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "生命保持运转。",
+        "notes": "用于 viability。"
+      },
+      "source": {
+        "form": "Latin vivere / vita",
+        "meaning": {
+          "zh": "生活、生命",
+          "en": "to live; life"
+        }
+      }
+    },
+    {
+      "id": "root:vari",
+      "slug": "vari",
+      "forms": [
+        "vari",
+        "vary"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "变化、不同",
+        "en": "change, varied"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "状态可以变成不同样子。",
+        "notes": "用于 variability。"
+      },
+      "source": {
+        "form": "Latin varius",
+        "meaning": {
+          "zh": "不同的、多样的",
+          "en": "varied, diverse"
+        }
+      }
+    },
+    {
+      "id": "root:blaze",
+      "slug": "blaze",
+      "forms": [
+        "blaze",
+        "blaz"
+      ],
+      "type": "root",
+      "origin": "Old English",
+      "meaning": {
+        "zh": "火焰、闪耀",
+        "en": "flame, shine"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "火光亮起来。",
+        "notes": "用于 ablaze, blazing。"
+      },
+      "source": {
+        "form": "Old English blaese",
+        "meaning": {
+          "zh": "火焰、火把",
+          "en": "flame, torch"
+        }
+      }
+    },
+    {
+      "id": "root:norm",
+      "slug": "norm",
+      "forms": [
+        "norm"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "标准、规则",
+        "en": "standard, rule"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "用尺规定出的正常标准。",
+        "notes": "用于 normal, abnormal。"
+      },
+      "source": {
+        "form": "Latin norma",
+        "meaning": {
+          "zh": "木匠尺、标准",
+          "en": "carpenter's square, standard"
+        }
+      }
+    },
+    {
+      "id": "root:al",
+      "slug": "al",
+      "forms": [
+        "al"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "属于……的",
+        "en": "relating to"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把名词变成相关性质。",
+        "notes": "用于 normal, academic。"
+      },
+      "source": {
+        "form": "Latin -alis",
+        "meaning": {
+          "zh": "属于……的",
+          "en": "relating to"
+        }
+      }
+    },
+    {
+      "id": "root:abol",
+      "slug": "abol",
+      "forms": [
+        "abol"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "废除、毁掉",
+        "en": "destroy, abolish"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把制度或做法彻底拿掉。",
+        "notes": "用于 abolish, abolition, abolitionist。"
+      },
+      "source": {
+        "form": "Latin abolere",
+        "meaning": {
+          "zh": "毁灭、废除",
+          "en": "destroy, abolish"
+        }
+      }
+    },
+    {
+      "id": "root:ish",
+      "slug": "ish",
+      "forms": [
+        "ish"
+      ],
+      "type": "suffix",
+      "origin": "Mixed",
+      "meaning": {
+        "zh": "使成、带有……性质",
+        "en": "make, somewhat like"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "让词根呈现出一种动作或性质。",
+        "notes": "在 abolish 中作为英语动词结尾处理。"
+      },
+      "source": {
+        "form": "English -ish",
+        "meaning": {
+          "zh": "动词或形容词结尾",
+          "en": "verbal or adjectival ending"
+        }
+      }
+    },
+    {
+      "id": "root:ist",
+      "slug": "ist",
+      "forms": [
+        "ist"
+      ],
+      "type": "suffix",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "从事……的人",
+        "en": "person concerned with"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把行为或主张变成从事者身份。",
+        "notes": "用于 abolitionist。"
+      },
+      "source": {
+        "form": "Greek -istes",
+        "meaning": {
+          "zh": "做某事的人",
+          "en": "one who does"
+        }
+      }
+    },
+    {
+      "id": "root:ort",
+      "slug": "ort",
+      "forms": [
+        "ort"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "升起、出生",
+        "en": "rise, be born"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "生命或动作刚刚升起。",
+        "notes": "用于 abort 的词源拆分。"
+      },
+      "source": {
+        "form": "Latin oriri / ortus",
+        "meaning": {
+          "zh": "升起、出生",
+          "en": "rise, be born"
+        }
+      }
+    },
+    {
+      "id": "root:abund",
+      "slug": "abund",
+      "forms": [
+        "abund",
+        "ound"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "涌出、丰富",
+        "en": "overflow, be plentiful"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "像水涨出来一样变多。",
+        "notes": "用于 abound, abundant, abundance。"
+      },
+      "source": {
+        "form": "Latin abundare",
+        "meaning": {
+          "zh": "溢出、丰富",
+          "en": "overflow, abound"
+        }
+      }
+    },
+    {
+      "id": "root:rad-ras",
+      "slug": "rad-ras",
+      "forms": [
+        "rad",
+        "ras",
+        "rase"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "刮、擦",
+        "en": "scrape, shave"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "表面被刮擦掉一层。",
+        "notes": "用于 abrasion, abrasive。"
+      },
+      "source": {
+        "form": "Latin radere / rasus",
+        "meaning": {
+          "zh": "刮、擦",
+          "en": "scrape, shave"
+        }
+      }
+    },
+    {
+      "id": "root:rupt",
+      "slug": "rupt",
+      "forms": [
+        "rupt"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "破裂、打断",
+        "en": "break, burst"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "连续状态被突然打断。",
+        "notes": "用于 abrupt。"
+      },
+      "source": {
+        "form": "Latin rumpere / ruptus",
+        "meaning": {
+          "zh": "打破、破裂",
+          "en": "break, burst"
+        }
+      }
+    },
+    {
+      "id": "root:esse-sent",
+      "slug": "esse-sent",
+      "forms": [
+        "esse",
+        "sent",
+        "sence"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "存在、在场",
+        "en": "be, be present"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "某人或某物是否处在现场。",
+        "notes": "用于 absent, absence, absentee。"
+      },
+      "source": {
+        "form": "Latin esse / -sens",
+        "meaning": {
+          "zh": "存在、在",
+          "en": "to be; being"
+        }
+      }
+    },
+    {
+      "id": "root:ence-ance",
+      "slug": "ence-ance",
+      "forms": [
+        "ence",
+        "ance"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "状态、性质",
+        "en": "state, quality"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把性质变成一个名词状态。",
+        "notes": "用于 absence, abundance。"
+      },
+      "source": {
+        "form": "Latin -entia / -antia",
+        "meaning": {
+          "zh": "状态、性质",
+          "en": "state, quality"
+        }
+      }
+    },
+    {
+      "id": "root:ee",
+      "slug": "ee",
+      "forms": [
+        "ee"
+      ],
+      "type": "suffix",
+      "origin": "French",
+      "meaning": {
+        "zh": "接受动作的人",
+        "en": "person affected by an action"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "动作落到某个人身上。",
+        "notes": "用于 absentee。"
+      },
+      "source": {
+        "form": "French -e",
+        "meaning": {
+          "zh": "动作接受者",
+          "en": "person affected by an action"
+        }
+      }
+    },
+    {
+      "id": "root:ism",
+      "slug": "ism",
+      "forms": [
+        "ism"
+      ],
+      "type": "suffix",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "行为、制度、现象",
+        "en": "practice, system, condition"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把行为或状态变成一种现象。",
+        "notes": "用于 absenteeism。"
+      },
+      "source": {
+        "form": "Greek -ismos",
+        "meaning": {
+          "zh": "行为、状态、主义",
+          "en": "practice, condition"
+        }
+      }
+    },
+    {
+      "id": "root:solv-solut",
+      "slug": "solv-solut",
+      "forms": [
+        "solv",
+        "solut",
+        "solu"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "松开、解开",
+        "en": "loosen, release"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把绑住的东西解开。",
+        "notes": "用于 absolute, absolutely。"
+      },
+      "source": {
+        "form": "Latin solvere / solutus",
+        "meaning": {
+          "zh": "松开、解开",
+          "en": "loosen, release"
+        }
+      }
+    },
+    {
+      "id": "root:ly",
+      "slug": "ly",
+      "forms": [
+        "ly"
+      ],
+      "type": "suffix",
+      "origin": "Old English",
+      "meaning": {
+        "zh": "以……方式地",
+        "en": "in the manner of"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把形容词变成动作方式。",
+        "notes": "用于 absolutely, abundantly。"
+      },
+      "source": {
+        "form": "Old English -lice",
+        "meaning": {
+          "zh": "以……方式",
+          "en": "in the manner of"
+        }
+      }
+    },
+    {
+      "id": "root:sorb",
+      "slug": "sorb",
+      "forms": [
+        "sorb",
+        "sorpt"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "吸入、吞吸",
+        "en": "suck in, absorb"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把液体或信息吸进去。",
+        "notes": "用于 absorb, absorption。"
+      },
+      "source": {
+        "form": "Latin sorbere",
+        "meaning": {
+          "zh": "吸入、吞咽",
+          "en": "suck in, swallow"
+        }
+      }
+    },
+    {
+      "id": "root:tract",
+      "slug": "tract",
+      "forms": [
+        "tract"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "拉、抽出",
+        "en": "draw, pull"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把东西从整体中拉出来。",
+        "notes": "用于 abstract。"
+      },
+      "source": {
+        "form": "Latin trahere / tractus",
+        "meaning": {
+          "zh": "拉、拖",
+          "en": "draw, pull"
+        }
+      }
+    },
+    {
+      "id": "root:surd",
+      "slug": "surd",
+      "forms": [
+        "surd"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "聋的、迟钝的",
+        "en": "deaf, dull"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "声音或道理进不去，显得不合理。",
+        "notes": "用于 absurd。"
+      },
+      "source": {
+        "form": "Latin surdus",
+        "meaning": {
+          "zh": "聋的、迟钝的",
+          "en": "deaf, dull"
+        }
+      }
+    },
+    {
+      "id": "root:use",
+      "slug": "use",
+      "forms": [
+        "use",
+        "us"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "使用",
+        "en": "use"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把某物拿来发挥功能。",
+        "notes": "用于 abuse。"
+      },
+      "source": {
+        "form": "Latin uti / usus",
+        "meaning": {
+          "zh": "使用",
+          "en": "use"
+        }
+      }
+    },
+    {
+      "id": "root:but",
+      "slug": "but",
+      "forms": [
+        "but",
+        "bout"
+      ],
+      "type": "root",
+      "origin": "French",
+      "meaning": {
+        "zh": "端点、碰接",
+        "en": "end, touch, strike"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "两个边缘顶到一起。",
+        "notes": "用于 abut。"
+      },
+      "source": {
+        "form": "Old French bouter / bout",
+        "meaning": {
+          "zh": "推、端点",
+          "en": "push; end"
+        }
+      }
+    },
+    {
+      "id": "root:academ",
+      "slug": "academ",
+      "forms": [
+        "academ",
+        "academy"
+      ],
+      "type": "root",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "学院、学术",
+        "en": "academy, learning"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "围绕学院和学术训练展开。",
+        "notes": "用于 academic, academician。"
+      },
+      "source": {
+        "form": "Greek Akademeia",
+        "meaning": {
+          "zh": "柏拉图学园名",
+          "en": "name of Plato's Academy"
+        }
+      }
+    },
+    {
+      "id": "root:ian",
+      "slug": "ian",
+      "forms": [
+        "ian",
+        "ician"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "属于……的人",
+        "en": "person connected with"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把领域变成从业者或成员。",
+        "notes": "用于 academician。"
+      },
+      "source": {
+        "form": "Latin -ianus",
+        "meaning": {
+          "zh": "属于……的",
+          "en": "belonging to"
+        }
+      }
+    },
+    {
+      "id": "root:celer",
+      "slug": "celer",
+      "forms": [
+        "celer",
+        "celerate"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "快、迅速",
+        "en": "swift, speed"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "速度变快。",
+        "notes": "用于 accelerate, acceleration。"
+      },
+      "source": {
+        "form": "Latin celer",
+        "meaning": {
+          "zh": "快的",
+          "en": "swift"
+        }
+      }
+    },
+    {
+      "id": "root:ory",
+      "slug": "ory",
+      "forms": [
+        "ory",
+        "ary"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "与……有关的",
+        "en": "relating to"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "表示某物与前面的动作或名词有关。",
+        "notes": "用于 accessory。"
+      },
+      "source": {
+        "form": "Latin -orius",
+        "meaning": {
+          "zh": "与……有关的",
+          "en": "relating to"
+        }
       }
     }
   ]

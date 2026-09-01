@@ -13,6 +13,10 @@ senses:
       - exceed
       - succeed
       - recede
+      - access
+      - accessible
+      - accessibility
+      - accessory
 similar_form:
   []
 similar_meaning:
@@ -22,10 +26,18 @@ patterns:
   - ceed -> exceed
   - ceed -> succeed
   - cede -> recede
+  - cess -> access
+  - cess -> accessible
+  - cess -> accessibility
+  - cess -> accessory
 high_value_words:
   - proceed
   - exceed
   - succeed
   - recede
+  - access
+  - accessible
+  - accessibility
+  - accessory
 confusable_words:
   []

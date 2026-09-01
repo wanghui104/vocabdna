@@ -5,6 +5,9 @@ type: prefix
 core_meaning: back, again
 zh: 回、再、反向
 origin: Latin
+source_form: Latin re-
+source_meaning: back, again
+source_meaning_zh: 回、再
 senses:
   - meaning: back, again
     zh: 回、再、反向
@@ -15,6 +18,12 @@ senses:
       - recede
       - reduce
       - reduction
+      - receive
+      - reception
+      - receptive
+      - receiver
+      - receipt
+      - recipient
 similar_form:
   []
 similar_meaning:
@@ -26,6 +35,12 @@ patterns:
   - re- -> recede
   - re- -> reduce
   - re- -> reduction
+  - re- -> receive
+  - re- -> reception
+  - re- -> receptive
+  - re- -> receiver
+  - re- -> receipt
+  - re- -> recipient
 high_value_words:
   - respect
   - revise
@@ -33,5 +48,11 @@ high_value_words:
   - recede
   - reduce
   - reduction
+  - receive
+  - reception
+  - receptive
+  - receiver
+  - receipt
+  - recipient
 confusable_words:
   []

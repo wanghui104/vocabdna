@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abstract
+word: abstract
+pos: adjective/noun/verb
+zh: 抽象的
+en: existing as an idea rather than a physical thing
+components:
+  - morpheme: ab
+    form: abs-
+    meaning_in_word: away from
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: tract
+    form: tract
+    meaning_in_word: draw or pull
+    zh: 拉、抽出
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: extract
+    reason: abstract 作名词是摘要；作形容词是抽象的。
+    zh_reason: abstract 作名词是摘要；作形容词是抽象的。
+examples:
+  - en: Justice is an abstract concept.
+    zh: 正义是一个抽象概念。
+  - en: The article begins with an abstract.
+    zh: 这篇文章以摘要开头。
+why_confusing: abstract 作名词是摘要；作形容词是抽象的。

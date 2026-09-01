@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ish
+display: -ish
+type: suffix
+core_meaning: make, somewhat like
+zh: 使成、带有……性质
+origin: Mixed
+source_form: English -ish
+source_meaning: verbal or adjectival ending
+source_meaning_zh: 动词或形容词结尾
+senses:
+  - meaning: make, somewhat like
+    zh: 使成、带有……性质
+    examples:
+      - abolish
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ish -> abolish
+high_value_words:
+  - abolish
+confusable_words:
+  []

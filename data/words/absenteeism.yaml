@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: absenteeism
+word: absenteeism
+pos: noun
+zh: 旷课；旷工
+en: frequent absence from school or work
+components:
+  - morpheme: esse-sent
+    form: absent
+    meaning_in_word: not present
+    zh: 存在、在场
+    role: root
+    is_core: true
+  - morpheme: ee
+    form: -ee
+    meaning_in_word: person affected
+    zh: 接受动作的人
+    role: suffix
+    is_core: false
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: condition or practice
+    zh: 行为、制度、现象
+    role: suffix
+    is_core: false
+word_family:
+  - absentee
+  - absent
+  - absence
+word_family_details:
+  - word: absentee
+    en: a person who is not present where expected
+    zh: 缺席者
+  - word: absent
+    en: not present, or missing from a place or situation
+    zh: 缺少的；不在的；缺席的
+  - word: absence
+    en: the state of being away or not present
+    zh: 缺少；不在；缺席
+confusables:
+  []
+examples:
+  - en: The company tried to reduce absenteeism.
+    zh: 公司试图减少旷工现象。
+why_confusing: absenteeism 指旷课/旷工现象，不是一次 absence。

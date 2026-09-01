@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: abrupt
+word: abrupt
+pos: adjective
+zh: 突然的；意外的
+en: sudden, unexpected, or seeming rudely brief
+components:
+  - morpheme: ab
+    form: ab-
+    meaning_in_word: off
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: rupt
+    form: rupt
+    meaning_in_word: break
+    zh: 破裂、打断
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: sudden
+    reason: abrupt 可指变化突然，也可指态度生硬。
+    zh_reason: abrupt 可指变化突然，也可指态度生硬。
+examples:
+  - en: The meeting came to an abrupt end.
+    zh: 会议突然结束了。
+why_confusing: abrupt 可指变化突然，也可指态度生硬。

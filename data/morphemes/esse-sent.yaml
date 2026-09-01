@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: esse-sent
+display: esse
+type: root
+core_meaning: be, be present
+zh: 存在、在场
+origin: Latin
+source_form: Latin esse / -sens
+source_meaning: to be; being
+source_meaning_zh: 存在、在
+senses:
+  - meaning: be, be present
+    zh: 存在、在场
+    examples:
+      - absenteeism
+      - absentee
+      - absent
+      - absence
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - absent -> absenteeism
+  - absent -> absentee
+  - sent -> absent
+  - sence -> absence
+high_value_words:
+  - absenteeism
+  - absentee
+  - absent
+  - absence
+confusable_words:
+  []

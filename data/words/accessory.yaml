@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accessory
+word: accessory
+pos: noun
+zh: 附件；零件
+en: an extra item that is useful but not essential
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: to, toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: excess-ceed
+    form: cess
+    meaning_in_word: go
+    zh: 走、前进、让步
+    role: root
+    is_core: true
+  - morpheme: ory
+    form: -ory
+    meaning_in_word: relating to
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: necessary
+    reason: accessory 不等于 access；法律上 accessory 也可指从犯。
+    zh_reason: accessory 不等于 access；法律上 accessory 也可指从犯。
+examples:
+  - en: The case is sold as a phone accessory.
+    zh: 这个保护壳作为手机配件出售。
+why_confusing: accessory 不等于 access；法律上 accessory 也可指从犯。

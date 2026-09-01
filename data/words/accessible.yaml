@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accessible
+word: accessible
+pos: adjective
+zh: 可接近的；可接触的；可得到的
+en: easy to reach, enter, use, understand, or obtain
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: to, toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: excess-ceed
+    form: cess
+    meaning_in_word: go
+    zh: 走、前进、让步
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -ible
+    meaning_in_word: able to be
+    zh: 能够被……的
+    role: suffix
+    is_core: false
+word_family:
+  - access
+  - accessibility
+word_family_details:
+  - word: access
+    en: the opportunity or right to approach, enter, or use something
+    zh: 接触；接近的机会
+  - word: accessibility
+    en: the quality of being easy to reach, use, understand, or obtain
+    zh: 易接近；可达到
+confusables:
+  []
+examples:
+  - en: The museum is accessible by subway.
+    zh: 这个博物馆可以乘地铁到达。
+why_confusing: accessible 也常表示无障碍或易懂。

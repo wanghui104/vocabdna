@@ -1,0 +1,62 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: reception
+word: reception
+pos: noun
+zh: 接收；接待；欢迎
+en: the act or manner of receiving someone or something
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back, in return
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: cept
+    meaning_in_word: take, receive
+    zh: 拿、抓、接收
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - receive
+  - receptive
+  - receiver
+  - receipt
+  - recipient
+word_family_details:
+  - word: receive
+    en: to get or take something that is given, sent, or offered
+    zh: 收到；接收；得到
+  - word: receptive
+    en: willing or able to receive ideas, suggestions, signals, or impressions
+    zh: 乐于接受的；能接收的
+  - word: receiver
+    en: a person or thing that receives something
+    zh: 接收者；收件人
+  - word: receipt
+    en: a written or electronic record showing that money or goods were received
+    zh: 收据；收条
+  - word: recipient
+    en: a person or group that receives something
+    zh: 接受者；收件人；受方
+confusables:
+  - word: recession
+    reason: reception 是接待/接收；recession 是衰退；recipe 是配方。
+    zh_reason: reception 是接待/接收；recession 是衰退；recipe 是配方。
+  - word: recipe
+    reason: reception 是接待/接收；recession 是衰退；recipe 是配方。
+    zh_reason: reception 是接待/接收；recession 是衰退；recipe 是配方。
+examples:
+  - en: The speaker received a warm reception.
+    zh: 演讲者受到了热烈欢迎。
+  - en: Please check in at reception.
+    zh: 请在接待处登记。
+  - en: Cell phone reception is weak here.
+    zh: 这里手机信号接收很弱。
+why_confusing: reception 是接待/接收；recession 是衰退；recipe 是配方。

@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: absence
+word: absence
+pos: noun
+zh: 缺少；不在；缺席
+en: the state of being away or not present
+components:
+  - morpheme: ab
+    form: ab-
+    meaning_in_word: away from
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: esse-sent
+    form: sence
+    meaning_in_word: being present
+    zh: 存在、在场
+    role: root
+    is_core: true
+  - morpheme: ence-ance
+    form: -ence
+    meaning_in_word: state
+    zh: 状态、性质
+    role: suffix
+    is_core: false
+word_family:
+  - absent
+  - absentee
+  - absenteeism
+word_family_details:
+  - word: absent
+    en: not present, or missing from a place or situation
+    zh: 缺少的；不在的；缺席的
+  - word: absentee
+    en: a person who is not present where expected
+    zh: 缺席者
+  - word: absenteeism
+    en: frequent absence from school or work
+    zh: 旷课；旷工
+confusables:
+  - word: presence
+    reason: absence 可指人不在，也可指某物缺乏。
+    zh_reason: absence 可指人不在，也可指某物缺乏。
+examples:
+  - en: Her absence was noticed immediately.
+    zh: 她的缺席立刻被注意到了。
+why_confusing: absence 可指人不在，也可指某物缺乏。

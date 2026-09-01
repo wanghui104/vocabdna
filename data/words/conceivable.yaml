@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conceivable
+word: conceivable
+pos: adjective
+zh: 可想象的；可能的
+en: possible to imagine, believe, or suppose
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together, fully, intensively
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: ceiv
+    meaning_in_word: take in, imagine
+    zh: 拿、抓、接收
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be
+    zh: 能够被……的
+    role: suffix
+    is_core: false
+word_family:
+  - conceive
+  - conception
+word_family_details:
+  - word: conceive
+    en: to form an idea, plan, image, or possibility in the mind
+    zh: 构想；想出；设想
+  - word: conception
+    en: the act or process of forming an idea in the mind
+    zh: 构想；设想；观念形成
+confusables:
+  - word: conceited
+    reason: conceivable 是可想象/可能；conceited 是自负；perceivable 是可感知。
+    zh_reason: conceivable 是可想象/可能；conceited 是自负；perceivable 是可感知。
+  - word: perceivable
+    reason: conceivable 是可想象/可能；conceited 是自负；perceivable 是可感知。
+    zh_reason: conceivable 是可想象/可能；conceited 是自负；perceivable 是可感知。
+examples:
+  - en: There is no conceivable reason to delay the repair.
+    zh: 没有任何可想象的理由推迟维修。
+why_confusing: conceivable 是可想象/可能；conceited 是自负；perceivable 是可感知。

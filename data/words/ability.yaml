@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ability
+word: ability
+pos: noun
+zh: 能力；才干
+en: the power, skill, or capacity to do something
+components:
+  - morpheme: able
+    form: abil
+    meaning_in_word: able
+    zh: 能够被……的
+    role: root
+    is_core: true
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: quality or state
+    zh: 性质、状态
+    role: suffix
+    is_core: false
+word_family:
+  - inability
+word_family_details:
+  - word: inability
+    en: the state of not being able to do something
+    zh: 无能；无力
+confusables:
+  []
+examples:
+  - en: The test measures reading ability.
+    zh: 这项测试衡量阅读能力。
+why_confusing: ability 泛指能力；capability 更强调可发挥的能力或性能。
