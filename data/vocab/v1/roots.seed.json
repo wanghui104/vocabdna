@@ -170,6 +170,33 @@
       }
     },
     {
+      "id": "root:fer",
+      "slug": "fer",
+      "forms": [
+        "fer",
+        "ferr"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "携带、带来",
+        "en": "carry, bring, bear"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把东西、想法或身份从一处带到另一处。",
+        "notes": "用于 confer, conference；后续可连接 refer, infer, transfer, defer, prefer, offer 等 fer 词族。"
+      },
+      "source": {
+        "form": "Latin ferre",
+        "meaning": {
+          "zh": "携带、承载、带来",
+          "en": "carry, bear, bring"
+        },
+        "note": "Latin conferre combines con- with ferre, literally bringing or carrying together."
+      }
+    },
+    {
       "id": "root:contra",
       "slug": "contra",
       "forms": [
@@ -360,6 +387,32 @@
       "learning": {
         "coreImage": "进入内部，或作为否定前缀。",
         "notes": "import 是进入；invisible 是否定。"
+      }
+    },
+    {
+      "id": "root:in",
+      "slug": "in",
+      "forms": [
+        "in"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin in-",
+        "meaning": {
+          "zh": "在……之中；进入；到……上",
+          "en": "in, into, on, onto"
+        },
+        "note": "In inundate, in- is the locative/directional Latin prefix meaning onto or over, not the negative in- meaning not."
+      },
+      "meaning": {
+        "zh": "在内、进入、到……上",
+        "en": "in, into, on, onto"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "动作进入某处，或覆盖到某物之上。",
+        "notes": "用于 inundate, inundation；和表示否定的 in-/im-/il-/ir- 要区分。"
       }
     },
     {
@@ -1532,14 +1585,74 @@
       "status": "draft",
       "learning": {
         "coreImage": "像水涨出来一样变多。",
-        "notes": "用于 abound, abundant, abundance。"
+        "notes": "用于 abound, abundant, abundantly, abundance；表层词根 abund- 还可向下理解为 ab- + unda。"
       },
       "source": {
         "form": "Latin abundare",
         "meaning": {
           "zh": "溢出、丰富",
           "en": "overflow, abound"
-        }
+        },
+        "note": "Latin abundare is formed from ab- plus undare, from unda meaning wave; the image is water rising and flowing away or over."
+      },
+      "relatedRootIds": [
+        "root:ab",
+        "root:unda"
+      ]
+    },
+    {
+      "id": "root:unda",
+      "slug": "unda",
+      "forms": [
+        "unda",
+        "und"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "波浪、水波",
+        "en": "wave, surge"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "水面一波一波涌起。",
+        "notes": "深层连接 abound, abundant, abundantly, abundance；也直接支撑 inundate, inundation, undulate, undulation。"
+      },
+      "source": {
+        "form": "Latin unda / undare",
+        "meaning": {
+          "zh": "波浪；像波浪一样涌起",
+          "en": "wave; rise in waves"
+        },
+        "note": "Latin unda means wave; undare means to rise in waves."
+      }
+    },
+    {
+      "id": "root:ul",
+      "slug": "ul",
+      "forms": [
+        "ul",
+        "ula",
+        "ule"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin -ulus / -ula",
+        "meaning": {
+          "zh": "小的；小……",
+          "en": "small, little"
+        },
+        "note": "In undulate, Latin undula is a diminutive of unda, literally a small wave or wavelet."
+      },
+      "meaning": {
+        "zh": "小的；小型的",
+        "en": "small, little"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把词根缩成一个小形态或小单位。",
+        "notes": "用于 undulate, undulation 中的 undul-；这里帮助学习者看见 unda wave -> undula wavelet 的层级。"
       }
     },
     {
@@ -1978,6 +2091,559 @@
         "meaning": {
           "zh": "与……有关的",
           "en": "relating to"
+        }
+      }
+    },
+    {
+      "id": "root:cad-cid-cas",
+      "slug": "cad-cid-cas",
+      "forms": [
+        "cad",
+        "cid",
+        "cas"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "落下、发生",
+        "en": "fall, happen"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "事情像落下来一样发生。",
+        "notes": "用于 accident, accidental, accidentally。"
+      },
+      "source": {
+        "form": "Latin cadere / casus",
+        "meaning": {
+          "zh": "落下；事件",
+          "en": "fall; event"
+        }
+      }
+    },
+    {
+      "id": "root:claim-clam",
+      "slug": "claim-clam",
+      "forms": [
+        "claim",
+        "clam"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "呼喊、宣称",
+        "en": "cry out, proclaim"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "声音公开喊出来，形成称赞或宣告。",
+        "notes": "用于 acclaim, acclaimed。"
+      },
+      "source": {
+        "form": "Latin clamare",
+        "meaning": {
+          "zh": "呼喊",
+          "en": "cry out"
+        }
+      }
+    },
+    {
+      "id": "root:commod",
+      "slug": "commod",
+      "forms": [
+        "commod",
+        "mod"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "合适、便利",
+        "en": "suitable, convenient"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把条件调到合适、便利。",
+        "notes": "用于 accommodate, accommodating。"
+      },
+      "source": {
+        "form": "Latin commodus",
+        "meaning": {
+          "zh": "合适的、便利的",
+          "en": "suitable, convenient"
+        }
+      }
+    },
+    {
+      "id": "root:compan-pan",
+      "slug": "compan-pan",
+      "forms": [
+        "compan",
+        "company",
+        "pany"
+      ],
+      "type": "root",
+      "origin": "French",
+      "meaning": {
+        "zh": "陪伴、同伴",
+        "en": "companion, company"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "一起分享面包的人，引申为陪伴。",
+        "notes": "用于 accompany, accompanying, accompaniment。"
+      },
+      "source": {
+        "form": "Old French compaignon",
+        "meaning": {
+          "zh": "同伴",
+          "en": "companion"
+        },
+        "note": "Ultimately from Latin com- + panis, bread."
+      }
+    },
+    {
+      "id": "root:ple-plen-plet",
+      "slug": "ple-plen-plet",
+      "forms": [
+        "ple",
+        "plen",
+        "plet",
+        "plish"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "填满、完成",
+        "en": "fill, complete"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把缺口填满，事情就完成。",
+        "notes": "用于 accomplish, accomplished, accomplishment。"
+      },
+      "source": {
+        "form": "Latin plere / plenus",
+        "meaning": {
+          "zh": "填满；满的",
+          "en": "fill; full"
+        }
+      }
+    },
+    {
+      "id": "root:cord",
+      "slug": "cord",
+      "forms": [
+        "cord",
+        "cordi"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "心、一致",
+        "en": "heart, agreement"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "心意合在一起，或声音合在一起。",
+        "notes": "用于 accordion。"
+      },
+      "source": {
+        "form": "Latin cor / cordis",
+        "meaning": {
+          "zh": "心",
+          "en": "heart"
+        }
+      }
+    },
+    {
+      "id": "root:count",
+      "slug": "count",
+      "forms": [
+        "count",
+        "comput"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "计算、说明",
+        "en": "count, reckon, explain"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把事情算清、说明清。",
+        "notes": "用于 account, accounting, accountant 和相关短语。"
+      },
+      "source": {
+        "form": "Latin computare",
+        "meaning": {
+          "zh": "计算",
+          "en": "calculate, reckon"
+        }
+      }
+    },
+    {
+      "id": "root:cred",
+      "slug": "cred",
+      "forms": [
+        "cred",
+        "credit"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "相信、信用",
+        "en": "believe, trust"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "被相信才有信用或授权。",
+        "notes": "用于 accredit。"
+      },
+      "source": {
+        "form": "Latin credere",
+        "meaning": {
+          "zh": "相信、信任",
+          "en": "believe, trust"
+        }
+      }
+    },
+    {
+      "id": "root:cumul",
+      "slug": "cumul",
+      "forms": [
+        "cumul"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "堆积、累积",
+        "en": "heap, accumulate"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "一层一层堆起来。",
+        "notes": "用于 accumulate, accumulation。"
+      },
+      "source": {
+        "form": "Latin cumulus",
+        "meaning": {
+          "zh": "堆、积云",
+          "en": "heap"
+        }
+      }
+    },
+    {
+      "id": "root:cur-care",
+      "slug": "cur-care",
+      "forms": [
+        "cur",
+        "cure",
+        "cura"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "小心、照料",
+        "en": "care, attention"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "认真照料细节，结果更准确。",
+        "notes": "用于 accurate, accuracy。"
+      },
+      "source": {
+        "form": "Latin cura",
+        "meaning": {
+          "zh": "关心、照料",
+          "en": "care"
+        }
+      }
+    },
+    {
+      "id": "root:caus-cus",
+      "slug": "caus-cus",
+      "forms": [
+        "caus",
+        "cus",
+        "cuse"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "原因、控诉",
+        "en": "cause, accusation"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "指出原因并把责任归到某人身上。",
+        "notes": "用于 accuse, accusation。"
+      },
+      "source": {
+        "form": "Latin causa",
+        "meaning": {
+          "zh": "原因、诉讼",
+          "en": "cause, legal case"
+        }
+      }
+    },
+    {
+      "id": "root:custom",
+      "slug": "custom",
+      "forms": [
+        "custom",
+        "costum"
+      ],
+      "type": "root",
+      "origin": "French",
+      "meaning": {
+        "zh": "习惯、惯例",
+        "en": "habit, custom"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "反复做而形成习惯。",
+        "notes": "用于 accustomed。"
+      },
+      "source": {
+        "form": "Old French costume / custume",
+        "meaning": {
+          "zh": "习惯、惯例",
+          "en": "custom, habit"
+        }
+      }
+    },
+    {
+      "id": "root:chief-achieve",
+      "slug": "chief-achieve",
+      "forms": [
+        "chief",
+        "chiev",
+        "chev"
+      ],
+      "type": "root",
+      "origin": "French",
+      "meaning": {
+        "zh": "头、终点、完成",
+        "en": "head, end, accomplish"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "到达事情的顶点或终点。",
+        "notes": "用于 achieve, achievement。"
+      },
+      "source": {
+        "form": "Old French achever",
+        "meaning": {
+          "zh": "完成、做到",
+          "en": "bring to an end"
+        }
+      }
+    },
+    {
+      "id": "root:acid",
+      "slug": "acid",
+      "forms": [
+        "acid",
+        "acrid"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "酸、尖锐",
+        "en": "sour, sharp"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "味道或语言带尖锐感。",
+        "notes": "用于 acid, acidic, acidity。"
+      },
+      "source": {
+        "form": "Latin acidus",
+        "meaning": {
+          "zh": "酸的",
+          "en": "sour"
+        }
+      }
+    },
+    {
+      "id": "root:quaint-cogn",
+      "slug": "quaint-cogn",
+      "forms": [
+        "quaint",
+        "cogn",
+        "coint"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "认识、熟悉",
+        "en": "know, become familiar"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "让人知道并熟悉。",
+        "notes": "用于 acquaint, acquaintance。"
+      },
+      "source": {
+        "form": "Latin cognoscere",
+        "meaning": {
+          "zh": "认识、知道",
+          "en": "come to know"
+        }
+      }
+    },
+    {
+      "id": "root:quir-quis",
+      "slug": "quir-quis",
+      "forms": [
+        "quir",
+        "quis",
+        "quire"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "寻求、获得",
+        "en": "seek, obtain"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "主动寻求并拿到。",
+        "notes": "用于 acquire, acquisition。"
+      },
+      "source": {
+        "form": "Latin quaerere / quaesitus",
+        "meaning": {
+          "zh": "寻求、寻找",
+          "en": "seek, ask"
+        }
+      }
+    },
+    {
+      "id": "root:acro",
+      "slug": "acro",
+      "forms": [
+        "acro"
+      ],
+      "type": "combiningForm",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "顶端、开头",
+        "en": "tip, beginning"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "拿词组开头的字母。",
+        "notes": "用于 acronym。"
+      },
+      "source": {
+        "form": "Greek akros",
+        "meaning": {
+          "zh": "最高的、顶端的",
+          "en": "highest, at the tip"
+        }
+      }
+    },
+    {
+      "id": "root:onym",
+      "slug": "onym",
+      "forms": [
+        "onym",
+        "onymy"
+      ],
+      "type": "combiningForm",
+      "origin": "Greek",
+      "meaning": {
+        "zh": "名字",
+        "en": "name"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "用名字或名称来标记事物。",
+        "notes": "用于 acronym。"
+      },
+      "source": {
+        "form": "Greek onyma / onoma",
+        "meaning": {
+          "zh": "名字",
+          "en": "name"
+        }
+      }
+    },
+    {
+      "id": "root:act",
+      "slug": "act",
+      "forms": [
+        "act",
+        "ag"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "做、驱动",
+        "en": "do, drive, act"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把事情推动起来。",
+        "notes": "用于 actual, actually, actuate, activate, actively。"
+      },
+      "source": {
+        "form": "Latin agere / actus",
+        "meaning": {
+          "zh": "做、驱动",
+          "en": "do, drive"
+        }
+      }
+    },
+    {
+      "id": "root:acut",
+      "slug": "acut",
+      "forms": [
+        "acut",
+        "acu"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "尖锐、敏锐",
+        "en": "sharp, keen"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "像针尖一样尖，也可指头脑敏锐。",
+        "notes": "用于 acute, acumen。"
+      },
+      "source": {
+        "form": "Latin acuere / acutus",
+        "meaning": {
+          "zh": "使尖锐；尖锐的",
+          "en": "sharpen; sharp"
+        }
+      }
+    },
+    {
+      "id": "root:cy",
+      "slug": "cy",
+      "forms": [
+        "cy"
+      ],
+      "type": "suffix",
+      "origin": "Latin",
+      "meaning": {
+        "zh": "性质、状态",
+        "en": "quality, state"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "把形容词状态名词化。",
+        "notes": "用于 accuracy。"
+      },
+      "source": {
+        "form": "Latin -cia",
+        "meaning": {
+          "zh": "性质、状态",
+          "en": "quality, state"
         }
       }
     }

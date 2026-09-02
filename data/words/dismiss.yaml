@@ -11,6 +11,7 @@ components:
     zh: 向下、离开、取消
     role: prefix
     is_core: false
+    note: dis prefix to be split into its own root in a later schema pass
   - morpheme: mit
     form: miss
     meaning_in_word: send

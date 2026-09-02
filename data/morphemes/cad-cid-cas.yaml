@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cad-cid-cas
+display: cad
+type: root
+core_meaning: fall, happen
+zh: 落下、发生
+origin: Latin
+source_form: Latin cadere / casus
+source_meaning: fall; event
+source_meaning_zh: 落下；事件
+related_morphemes:
+  []
+senses:
+  - meaning: fall, happen
+    zh: 落下、发生
+    examples:
+      - accidental
+      - accidentally
+      - accident
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cid -> accidental
+  - accidental -> accidentally
+  - cid -> accident
+high_value_words:
+  - accidental
+  - accidentally
+  - accident
+confusable_words:
+  []

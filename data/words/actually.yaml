@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: actually
+word: actually
+pos: adverb
+zh: 实际上；事实上
+en: in fact or really
+components:
+  - morpheme: act
+    form: actual
+    meaning_in_word: real
+    zh: 做、驱动
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - actual
+word_family_details:
+  - word: actual
+    en: real, existing in fact, or current
+    zh: 实际的；现行的
+confusables:
+  []
+examples:
+  - en: Actually, I agree with you.
+    zh: 事实上，我同意你的看法。
+why_confusing: 口语中常用于纠正或补充。

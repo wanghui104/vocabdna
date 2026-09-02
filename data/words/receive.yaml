@@ -11,12 +11,14 @@ components:
     zh: 回、再、反向
     role: prefix
     is_core: false
+    note: Latin re- in recipere has an unclear exact force here, but keeps the back/take-in image.
   - morpheme: cap
     form: ceive
     meaning_in_word: take, take in
     zh: 拿、抓、接收
     role: root
     is_core: true
+    note: From Latin recipere, with -cipere as a combining form of capere.
 word_family:
   - reception
   - receptive

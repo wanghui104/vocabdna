@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: acquaint
+word: acquaint
+pos: verb
+zh: 使熟悉；告知
+en: to make someone familiar with or aware of something
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: quaint-cogn
+    form: quaint
+    meaning_in_word: make known
+    zh: 认识、熟悉
+    role: root
+    is_core: true
+word_family:
+  - acquaintance
+word_family_details:
+  - word: acquaintance
+    en: a person one knows but not very well
+    zh: 熟人
+confusables:
+  []
+examples:
+  - en: The guide acquainted us with local customs.
+    zh: 导游让我们熟悉了当地习俗。
+why_confusing: 常用 acquaint someone with something。

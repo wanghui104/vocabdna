@@ -11,6 +11,10 @@ components:
     zh: 涌出、丰富
     role: root
     is_core: true
+    note: Surface stem from Latin abundare; deeper layer: ab- (away/from) + unda (wave).
+    related_morphemes:
+      - ab
+      - unda
 word_family:
   - abundant
   - abundantly

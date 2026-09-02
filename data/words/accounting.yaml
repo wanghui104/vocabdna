@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accounting
+word: accounting
+pos: noun
+zh: 会计学
+en: the system or work of recording financial information
+components:
+  - morpheme: count
+    form: account
+    meaning_in_word: reckon or record
+    zh: 计算、说明
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: field or activity
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - account
+  - accountant
+word_family_details:
+  - word: account
+    en: a description or explanation of events
+    zh: 说明；解释
+  - word: accountant
+    en: a person whose job is to keep or inspect financial accounts
+    zh: 会计员；会计师
+confusables:
+  []
+examples:
+  - en: She studied accounting in college.
+    zh: 她在大学学习会计。
+why_confusing: accounting 是学科/工作；accountant 是人。

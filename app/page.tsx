@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useMemo, useState } from 'react';
+import { Fragment, useEffect, useMemo, useState } from 'react';
 import { BookOpen, ChevronDown, Network, Search, X } from 'lucide-react';
 
 import { Button } from '@/components/ui/button';
@@ -147,6 +147,7 @@ export default function Home() {
           />
           <BrowsePanel route={route} />
           <AlphabetBrowsePanel route={route} />
+          <AlphabetRootBrowsePanel route={route} />
         </aside>
 
         <section className="min-w-0">
@@ -349,6 +350,59 @@ function AlphabetBrowsePanel({ route }: { route: RouteState }) {
   );
 }
 
+function AlphabetRootBrowsePanel({ route }: { route: RouteState }) {
+  const groups = useMemo(() => getAlphabetMorphemeGroups(), []);
+
+  return (
+    <section className="vocab-panel">
+      <PanelTitle icon={<Network className="size-4" />} title="A-Z Roots" />
+      <div className="alphabet-dropdowns">
+        {groups.map((group) => {
+          const activeInGroup =
+            route.type === 'morpheme' &&
+            group.morphemes.some((morpheme) => morpheme.id === route.id);
+          return (
+            <details
+              className="alpha-dropdown"
+              key={group.letter}
+              open={activeInGroup}
+            >
+              <summary className="alpha-summary">
+                <span className="alpha-letter">{group.letter}</span>
+                <span className="alpha-count">{group.morphemes.length}</span>
+                <ChevronDown className="alpha-chevron" aria-hidden="true" />
+              </summary>
+              <div className="alpha-menu">
+                {group.morphemes.length ? (
+                  group.morphemes.map((morpheme) => {
+                    const isActive =
+                      route.type === 'morpheme' && route.id === morpheme.id;
+                    return (
+                      <button
+                        className={`alpha-word ${isActive ? 'alpha-word-active' : ''}`}
+                        key={morpheme.id}
+                        onClick={() =>
+                          navigate({ type: 'morpheme', id: morpheme.id })
+                        }
+                        type="button"
+                      >
+                        <span>{morpheme.display}</span>
+                        <span>{morpheme.zh}</span>
+                      </button>
+                    );
+                  })
+                ) : (
+                  <p className="alpha-empty">No roots yet</p>
+                )}
+              </div>
+            </details>
+          );
+        })}
+      </div>
+    </section>
+  );
+}
+
 function getAlphabetWordGroups() {
   const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
   return letters.map((letter) => ({
@@ -357,6 +411,20 @@ function getAlphabetWordGroups() {
       (word) => word.word.charAt(0).toUpperCase() === letter,
     ),
   }));
+}
+
+function getAlphabetMorphemeGroups() {
+  const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+  return letters.map((letter) => ({
+    letter,
+    morphemes: morphemes.filter(
+      (morpheme) => getAlphabetLabel(morpheme.display).charAt(0) === letter,
+    ),
+  }));
+}
+
+function getAlphabetLabel(label: string) {
+  return label.replace(/^[^A-Za-z]+/, '').toUpperCase();
 }
 
 function getWordsSharingCoreRoots(activeWord: WordEntry) {
@@ -498,22 +566,34 @@ function WordDetail({
                 </tr>
               </thead>
               <tbody>
-                {word.components.map((component) => {
+                {word.components.map((component, componentIndex) => {
                   const source = getComponentSource(component);
+                  const ownerKey = `${word.id}-${component.morpheme}-${componentIndex}`;
 
                   return (
-                    <tr key={`${word.id}-${component.morpheme}`}>
-                      <td>
-                        <InlineLink
-                          label={component.form}
-                          route={{ type: 'morpheme', id: component.morpheme }}
-                        />
-                      </td>
-                      <td>{component.meaning_in_word}</td>
-                      <td>{component.zh}</td>
-                      <td>{source.form}</td>
-                      <td>{source.meaning}</td>
-                    </tr>
+                    <Fragment key={ownerKey}>
+                      <tr>
+                        <td>
+                          <InlineLink
+                            label={component.form}
+                            route={{ type: "morpheme", id: component.morpheme }}
+                          />
+                        </td>
+                        <td>
+                          {component.meaning_in_word}
+                          {component.note ? (
+                            <span className="dna-note">{component.note}</span>
+                          ) : null}
+                        </td>
+                        <td>{component.zh}</td>
+                        <td>{source.form}</td>
+                        <td>{source.meaning}</td>
+                      </tr>
+                      <RelatedMorphemeRows
+                        ids={component.related_morphemes}
+                        ownerKey={ownerKey}
+                      />
+                    </Fragment>
                   );
                 })}
               </tbody>
@@ -886,7 +966,9 @@ function getMorphemeSource(
   const meaningZh = morpheme?.source_meaning_zh ?? morpheme?.zh ?? fallbackZh;
 
   return {
-    form: morpheme?.source_form ?? parsedOrigin.form ?? morpheme?.display ?? '',
+    form: morpheme?.source_form
+      ? formatEtymonSource(morpheme.source_form)
+      : (parsedOrigin.form ?? morpheme?.display ?? ''),
     meaning: `${meaning} / ${meaningZh}`,
   };
 }
@@ -919,6 +1001,63 @@ function formatEtymonSource(source: string) {
   }
 
   return `${matchedPrefix} / ${source.slice(matchedPrefix.length).trim()}`;
+}
+
+function getRelatedMorphemes(ids: string[] | undefined) {
+  return [...new Set(ids ?? [])]
+    .map((id) => getMorpheme(id))
+    .filter((morpheme): morpheme is MorphemeEntry => Boolean(morpheme));
+}
+
+function RelatedMorphemeRows({
+  ids,
+  ownerKey,
+}: {
+  ids: string[] | undefined;
+  ownerKey: string;
+}) {
+  return getRelatedMorphemes(ids).map((morpheme) => {
+    const source = getMorphemeSource(morpheme);
+
+    return (
+      <tr className="dna-subrow" key={`${ownerKey}-${morpheme.id}`}>
+        <td>
+          <span className="dna-subform">
+            <InlineLink
+              label={morpheme.display}
+              route={{ type: "morpheme", id: morpheme.id }}
+            />
+          </span>
+        </td>
+        <td>{morpheme.core_meaning}</td>
+        <td>{morpheme.zh}</td>
+        <td>{source.form}</td>
+        <td>{source.meaning}</td>
+      </tr>
+    );
+  });
+}
+
+function LayeredConnectedWords({ morpheme }: { morpheme: MorphemeEntry }) {
+  const relatedMorphemes = getRelatedMorphemes(morpheme.related_morphemes);
+
+  return (
+    <div className="space-y-3">
+      <div className="sub-panel">
+        <h3 className="mb-2 text-sm font-semibold">{morpheme.display}</h3>
+        <WordList words={morpheme.high_value_words ?? []} />
+      </div>
+      {relatedMorphemes.map((related) => (
+        <details className="sub-panel root-layer-panel" key={related.id}>
+          <summary className="root-layer-summary">
+            <span>{related.display}</span>
+            <span className="root-layer-type">{related.type}</span>
+          </summary>
+          <WordList words={related.high_value_words ?? []} />
+        </details>
+      ))}
+    </div>
+  );
 }
 
 function MorphemeDetail({ morpheme }: { morpheme: MorphemeEntry }) {
@@ -972,9 +1111,13 @@ function MorphemeDetail({ morpheme }: { morpheme: MorphemeEntry }) {
                 <td>{source.form}</td>
                 <td>{source.meaning}</td>
               </tr>
+              <RelatedMorphemeRows ids={morpheme.related_morphemes} ownerKey={morpheme.id} />
             </tbody>
           </table>
         </div>
+        {morpheme.source_note ? (
+          <p className="dna-source-note">{morpheme.source_note}</p>
+        ) : null}
       </DetailSection>
 
       <DetailSection title="Meanings">
@@ -998,7 +1141,7 @@ function MorphemeDetail({ morpheme }: { morpheme: MorphemeEntry }) {
       </DetailSection>
 
       <DetailSection title="Connected Words">
-        <WordList words={morpheme.high_value_words ?? []} />
+        <LayeredConnectedWords morpheme={morpheme} />
       </DetailSection>
 
       <DetailSection title="Similar-Looking Roots">
@@ -1086,19 +1229,94 @@ function WordGlossList({ words: wordLabels }: { words: string[] }) {
     </ul>
   );
 }
+type PatternFamilyGroup = {
+  key: string;
+  labels: string[];
+};
+
+type PatternFormGroup = {
+  form: string;
+  families: PatternFamilyGroup[];
+};
+
 function PatternList({ patterns }: { patterns: string[] }) {
+  const groupedPatterns = groupPatternsByFormAndFamily(patterns);
+
   if (!patterns.length) {
     return <p className="text-sm text-muted-foreground">No patterns yet.</p>;
   }
   return (
-    <ul className="dense-list">
-      {patterns.map((pattern) => (
-        <li key={pattern}>{pattern}</li>
+    <ul className="pattern-list">
+      {groupedPatterns.map((pattern) => (
+        <li className="pattern-row" key={pattern.form}>
+          <span className="pattern-form">{pattern.form}</span>
+          <span className="pattern-arrow">-&gt;</span>
+          <span className="pattern-families">
+            {pattern.families.map((family) => (
+              <span className="pattern-family" key={family.key}>
+                {family.labels.map((label, index) => (
+                  <Fragment key={label}>
+                    {index > 0 ? <span className="pattern-comma">, </span> : null}
+                    <InlineWord label={label} />
+                  </Fragment>
+                ))}
+              </span>
+            ))}
+          </span>
+        </li>
       ))}
     </ul>
   );
 }
 
+function groupPatternsByFormAndFamily(patterns: string[]): PatternFormGroup[] {
+  const groups = new Map<string, PatternFamilyGroup[]>();
+
+  for (const pattern of patterns) {
+    const parsed = parsePattern(pattern);
+    if (!parsed) {
+      const fallback = getOrCreatePatternFamily(groups, pattern, `pattern:${pattern}`);
+      fallback.labels.push(pattern);
+      continue;
+    }
+
+    const word = getWord(parsed.label.toLowerCase());
+    const familyEntries = word ? getWordFamilyEntries(word) : [];
+    const familyKey = familyEntries[0]?.id ?? `word:${parsed.label.toLowerCase()}`;
+    const family = getOrCreatePatternFamily(groups, parsed.form, familyKey);
+    if (!family.labels.some((label) => label.toLowerCase() === parsed.label.toLowerCase())) {
+      family.labels.push(parsed.label);
+    }
+  }
+
+  return Array.from(groups, ([form, families]) => ({ form, families }));
+}
+
+function parsePattern(pattern: string) {
+  const match = pattern.match(/^\s*(.+?)\s*->\s*(.+?)\s*$/);
+  if (!match) {
+    return null;
+  }
+  return {
+    form: match[1],
+    label: match[2],
+  };
+}
+
+function getOrCreatePatternFamily(
+  groups: Map<string, PatternFamilyGroup[]>,
+  form: string,
+  familyKey: string,
+) {
+  const families = groups.get(form) ?? [];
+  let family = families.find((item) => item.key === familyKey);
+  if (!family) {
+    family = { key: familyKey, labels: [] };
+    families.push(family);
+    groups.set(form, families);
+  }
+  return family;
+}
 
 function MorphemeGrid({
   ids,

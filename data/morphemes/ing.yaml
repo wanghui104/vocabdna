@@ -8,6 +8,8 @@ origin: Old English
 source_form: Old English -ing
 source_meaning: action or related quality
 source_meaning_zh: 动作或性质
+related_morphemes:
+  []
 senses:
   - meaning: ongoing, related to
     zh: 正在……的、与……有关的
@@ -15,6 +17,9 @@ senses:
       - abiding
       - blazing
       - accelerating
+      - accommodating
+      - accompanying
+      - accounting
 similar_form:
   []
 similar_meaning:
@@ -23,9 +28,15 @@ patterns:
   - -ing -> abiding
   - -ing -> blazing
   - -ing -> accelerating
+  - -ating -> accommodating
+  - -ing -> accompanying
+  - -ing -> accounting
 high_value_words:
   - abiding
   - blazing
   - accelerating
+  - accommodating
+  - accompanying
+  - accounting
 confusable_words:
   []

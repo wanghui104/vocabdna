@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inundation
+word: inundation
+pos: noun
+zh: 洪水；泛滥；大量涌入
+en: a flood, or an overwhelming flow of something
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: onto, over
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+  - morpheme: unda
+    form: unda
+    meaning_in_word: wave, flow in waves
+    zh: 波浪、水波
+    role: root
+    is_core: true
+    note: Latin inundatio names the act or result of inundare, from in- plus undare.
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: act or result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - inundate
+word_family_details:
+  - word: inundate
+    en: to cover a place with floodwater
+    zh: 淹没；泛滥
+confusables:
+  - word: undulation
+    reason: inundation 可指真正的洪水，也可比喻大量信息、请求、邮件等涌入。不要和 undulation（波动、起伏）混淆。
+    zh_reason: inundation 可指真正的洪水，也可比喻大量信息、请求、邮件等涌入。不要和 undulation（波动、起伏）混淆。
+examples:
+  - en: The inundation damaged roads and homes near the river.
+    zh: 洪水损坏了河边的道路和房屋。
+why_confusing: inundation 可指真正的洪水，也可比喻大量信息、请求、邮件等涌入。不要和 undulation（波动、起伏）混淆。

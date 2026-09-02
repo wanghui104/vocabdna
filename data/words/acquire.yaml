@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: acquire
+word: acquire
+pos: verb
+zh: 获得；学到
+en: to get, obtain, buy, or learn something
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: quir-quis
+    form: quire
+    meaning_in_word: seek or obtain
+    zh: 寻求、获得
+    role: root
+    is_core: true
+word_family:
+  - acquisition
+word_family_details:
+  - word: acquisition
+    en: the act of gaining, buying, or learning something
+    zh: 获得
+confusables:
+  - word: require
+    reason: acquire 是获得；require 是要求。
+    zh_reason: acquire 是获得；require 是要求。
+examples:
+  - en: Children acquire language naturally.
+    zh: 儿童自然习得语言。
+why_confusing: acquire 是获得；require 是要求。

@@ -5924,11 +5924,14 @@
           "form": "abund",
           "type": "root",
           "meaning": "overflow",
-          "rootId": "root:abund"
+          "rootId": "root:abund",
+          "note": "Surface stem from Latin abundare; deeper layer: ab- (away/from) + unda (wave)."
         }
       ],
       "rootIds": [
-        "root:abund"
+        "root:abund",
+        "root:ab",
+        "root:unda"
       ],
       "relations": {
         "derivatives": [
@@ -6739,7 +6742,8 @@
           "form": "abund",
           "type": "root",
           "meaning": "overflow",
-          "rootId": "root:abund"
+          "rootId": "root:abund",
+          "note": "Surface stem from Latin abundare; deeper layer: ab- (away/from) + unda (wave)."
         },
         {
           "form": "ant",
@@ -6750,7 +6754,9 @@
       ],
       "rootIds": [
         "root:abund",
-        "root:ent"
+        "root:ent",
+        "root:ab",
+        "root:unda"
       ],
       "relations": {
         "derivatives": [
@@ -6792,10 +6798,17 @@
       ],
       "morphemes": [
         {
-          "form": "abundant",
+          "form": "abund",
           "type": "root",
-          "meaning": "plentiful",
-          "rootId": "root:abund"
+          "meaning": "overflow",
+          "rootId": "root:abund",
+          "note": "Surface stem from Latin abundare; deeper layer: ab- (away/from) + unda (wave)."
+        },
+        {
+          "form": "ant",
+          "type": "suffix",
+          "meaning": "having the quality of",
+          "rootId": "root:ent"
         },
         {
           "form": "ly",
@@ -6806,7 +6819,10 @@
       ],
       "rootIds": [
         "root:abund",
-        "root:ly"
+        "root:ent",
+        "root:ly",
+        "root:ab",
+        "root:unda"
       ],
       "relations": {
         "derivatives": [
@@ -6819,7 +6835,7 @@
       },
       "learning": {
         "coreIdea": "以丰富或非常明显的方式。",
-        "memoryHook": "abundantly = in an abundant way。",
+        "memoryHook": "abundantly = abundant + -ly；构词层面可看作 abund- + -ant + -ly。",
         "watchOut": "abundantly clear 是常见搭配。"
       },
       "tags": [
@@ -6851,7 +6867,8 @@
           "form": "abund",
           "type": "root",
           "meaning": "overflow",
-          "rootId": "root:abund"
+          "rootId": "root:abund",
+          "note": "Surface stem from Latin abundare; deeper layer: ab- (away/from) + unda (wave)."
         },
         {
           "form": "ance",
@@ -6862,7 +6879,9 @@
       ],
       "rootIds": [
         "root:abund",
-        "root:ence-ance"
+        "root:ence-ance",
+        "root:ab",
+        "root:unda"
       ],
       "relations": {
         "derivatives": [
@@ -7627,6 +7646,3090 @@
         "coreIdea": "附加到主体旁边的东西。",
         "memoryHook": "accessory = something that goes along with another thing。",
         "watchOut": "accessory 不等于 access；法律上 accessory 也可指从犯。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accidental",
+      "slug": "accidental",
+      "term": "accidental",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "by chance",
+          "zh": "意外的；偶然的",
+          "en": "happening by chance and not planned",
+          "example": {
+            "en": "The discovery was accidental.",
+            "zh": "这个发现是偶然的。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cid",
+          "type": "root",
+          "meaning": "fall or happen",
+          "rootId": "root:cad-cid-cas"
+        },
+        {
+          "form": "ent",
+          "type": "suffix",
+          "meaning": "having the quality of",
+          "rootId": "root:ent"
+        },
+        {
+          "form": "al",
+          "type": "suffix",
+          "meaning": "relating to",
+          "rootId": "root:al"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:al",
+        "root:cad-cid-cas",
+        "root:ent"
+      ],
+      "relations": {
+        "derivatives": [
+          "accident",
+          "accidentally"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "incidental"
+        ]
+      },
+      "learning": {
+        "coreIdea": "事情偶然落到某处而发生。",
+        "memoryHook": "accidental = happening by accident.",
+        "watchOut": "accidental 是偶然的；incidental 是附带的。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accidentally",
+      "slug": "accidentally",
+      "term": "accidentally",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adverb"
+      ],
+      "definitions": [
+        {
+          "sense": "by accident",
+          "zh": "意外地；偶然地",
+          "en": "in a way that was not planned or intended",
+          "example": {
+            "en": "I accidentally deleted the file.",
+            "zh": "我不小心删除了文件。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "accidental",
+          "type": "root",
+          "meaning": "by chance",
+          "rootId": "root:cad-cid-cas"
+        },
+        {
+          "form": "ly",
+          "type": "suffix",
+          "meaning": "in the manner of",
+          "rootId": "root:ly"
+        }
+      ],
+      "rootIds": [
+        "root:cad-cid-cas",
+        "root:ly"
+      ],
+      "relations": {
+        "derivatives": [
+          "accident",
+          "accidental"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "以非计划的方式发生。",
+        "memoryHook": "accidentally = in an accidental way.",
+        "watchOut": "口语里可表示不小心。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accident",
+      "slug": "accident",
+      "term": "accident",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "unexpected event",
+          "zh": "意外事件；事故",
+          "en": "an unexpected event, often causing damage or injury",
+          "example": {
+            "en": "The accident blocked the road.",
+            "zh": "事故堵住了道路。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cid",
+          "type": "root",
+          "meaning": "fall or happen",
+          "rootId": "root:cad-cid-cas"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:cad-cid-cas"
+      ],
+      "relations": {
+        "derivatives": [
+          "accidental",
+          "accidentally"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "incident"
+        ]
+      },
+      "learning": {
+        "coreIdea": "落到人身上的意外事件。",
+        "memoryHook": "accident = something that happens by chance.",
+        "watchOut": "accident 常含损害；incident 可更中性。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acclaim",
+      "slug": "acclaim",
+      "term": "acclaim",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun",
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "praise or praise loudly",
+          "zh": "赞誉；喝彩；称赞",
+          "en": "public praise, or to praise enthusiastically",
+          "example": {
+            "en": "The film won critical acclaim.",
+            "zh": "这部电影赢得评论界赞誉。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "claim",
+          "type": "root",
+          "meaning": "cry out",
+          "rootId": "root:claim-clam"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:claim-clam"
+      ],
+      "relations": {
+        "derivatives": [
+          "acclaimed"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "claim"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把赞美声朝某人喊出来。",
+        "memoryHook": "acclaim = shout approval toward someone.",
+        "watchOut": "acclaim 是赞誉；claim 是声称或要求。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acclaimed",
+      "slug": "acclaimed",
+      "term": "acclaimed",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "praised publicly",
+          "zh": "受人欢迎的；备受赞誉的",
+          "en": "publicly praised and admired",
+          "example": {
+            "en": "She is an acclaimed scientist.",
+            "zh": "她是一位备受赞誉的科学家。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "claim",
+          "type": "root",
+          "meaning": "cry out",
+          "rootId": "root:claim-clam"
+        },
+        {
+          "form": "ed",
+          "type": "suffix",
+          "meaning": "past state",
+          "rootId": "root:ed"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:claim-clam",
+        "root:ed"
+      ],
+      "relations": {
+        "derivatives": [
+          "acclaim"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "已经被公开称赞的。",
+        "memoryHook": "acclaimed = praised with acclaim.",
+        "watchOut": "acclaimed 通常表示广受认可。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accommodate",
+      "slug": "accommodate",
+      "term": "accommodate",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "provide or adapt",
+          "zh": "提供食宿；适应；容纳",
+          "en": "to provide space or lodging, or to adjust to fit a need",
+          "example": {
+            "en": "The hotel can accommodate 200 guests.",
+            "zh": "这家酒店可容纳 200 位客人。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "commod",
+          "type": "root",
+          "meaning": "suitable",
+          "rootId": "root:commod"
+        },
+        {
+          "form": "ate",
+          "type": "suffix",
+          "meaning": "make",
+          "rootId": "root:ate"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:ate",
+        "root:commod"
+      ],
+      "relations": {
+        "derivatives": [
+          "accommodating"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "adapt"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把条件调到合适，能容纳或适应。",
+        "memoryHook": "accommodate = make suitable.",
+        "watchOut": "accommodate 拼写有 double c, double m。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accommodating",
+      "slug": "accommodating",
+      "term": "accommodating",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "helpfully flexible",
+          "zh": "乐于助人的；通融的",
+          "en": "willing to help or adjust to others' needs",
+          "example": {
+            "en": "The staff were very accommodating.",
+            "zh": "工作人员非常乐于帮忙。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "commod",
+          "type": "root",
+          "meaning": "suitable",
+          "rootId": "root:commod"
+        },
+        {
+          "form": "ating",
+          "type": "suffix",
+          "meaning": "having the quality of",
+          "rootId": "root:ing"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:commod",
+        "root:ing"
+      ],
+      "relations": {
+        "derivatives": [
+          "accommodate"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "愿意把条件调到适合别人。",
+        "memoryHook": "accommodating = willing to accommodate.",
+        "watchOut": "常形容人或服务态度通融。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accompany",
+      "slug": "accompany",
+      "term": "accompany",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "go with or perform with",
+          "zh": "陪伴；伴随；伴奏",
+          "en": "to go with someone or occur together with something",
+          "example": {
+            "en": "A guide will accompany the group.",
+            "zh": "一名导游将陪同这个团队。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "company",
+          "type": "root",
+          "meaning": "companion",
+          "rootId": "root:compan-pan"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:compan-pan"
+      ],
+      "relations": {
+        "derivatives": [
+          "accompanying",
+          "accompaniment"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "company"
+        ]
+      },
+      "learning": {
+        "coreIdea": "作为同伴一起出现。",
+        "memoryHook": "accompany = go in company with.",
+        "watchOut": "accompany 可指人陪伴，也可指音乐伴奏。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accompanying",
+      "slug": "accompanying",
+      "term": "accompanying",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "going with",
+          "zh": "陪伴的；伴随的",
+          "en": "happening or provided together with something",
+          "example": {
+            "en": "Read the accompanying notes.",
+            "zh": "请阅读随附说明。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "company",
+          "type": "root",
+          "meaning": "companion",
+          "rootId": "root:compan-pan"
+        },
+        {
+          "form": "ing",
+          "type": "suffix",
+          "meaning": "related ongoing quality",
+          "rootId": "root:ing"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:compan-pan",
+        "root:ing"
+      ],
+      "relations": {
+        "derivatives": [
+          "accompany",
+          "accompaniment"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "随同出现的。",
+        "memoryHook": "accompanying = going together with.",
+        "watchOut": "常用于 accompanying documents/notes。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accompaniment",
+      "slug": "accompaniment",
+      "term": "accompaniment",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "music or thing that goes with",
+          "zh": "伴奏；伴随物",
+          "en": "music played to support a main part, or something that goes with another thing",
+          "example": {
+            "en": "The piano provided the accompaniment.",
+            "zh": "钢琴提供了伴奏。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "accompany",
+          "type": "root",
+          "meaning": "go with",
+          "rootId": "root:compan-pan"
+        },
+        {
+          "form": "ment",
+          "type": "suffix",
+          "meaning": "act or result",
+          "rootId": "root:ment"
+        }
+      ],
+      "rootIds": [
+        "root:compan-pan",
+        "root:ment"
+      ],
+      "relations": {
+        "derivatives": [
+          "accompany",
+          "accompanying"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "伴随主旋律或主事物的部分。",
+        "memoryHook": "accompaniment = something that accompanies.",
+        "watchOut": "音乐中最常见是“伴奏”。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accomplish",
+      "slug": "accomplish",
+      "term": "accomplish",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "complete successfully",
+          "zh": "完成；达到；实现",
+          "en": "to complete or achieve something successfully",
+          "example": {
+            "en": "We accomplished our goal.",
+            "zh": "我们实现了目标。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "com",
+          "type": "prefix",
+          "meaning": "completely",
+          "rootId": "root:con"
+        },
+        {
+          "form": "plish",
+          "type": "root",
+          "meaning": "complete",
+          "rootId": "root:ple-plen-plet"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:con",
+        "root:ple-plen-plet"
+      ],
+      "relations": {
+        "derivatives": [
+          "accomplished",
+          "accomplishment"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "complete"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把事情填满做到完成。",
+        "memoryHook": "accomplish = bring to completion.",
+        "watchOut": "accomplish 强调完成结果；complete 更普通。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accomplished",
+      "slug": "accomplished",
+      "term": "accomplished",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "skilled or completed",
+          "zh": "精通的；熟练的",
+          "en": "highly skilled, or completed",
+          "example": {
+            "en": "She is an accomplished pianist.",
+            "zh": "她是一位技艺娴熟的钢琴家。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "com",
+          "type": "prefix",
+          "meaning": "completely",
+          "rootId": "root:con"
+        },
+        {
+          "form": "plish",
+          "type": "root",
+          "meaning": "complete",
+          "rootId": "root:ple-plen-plet"
+        },
+        {
+          "form": "ed",
+          "type": "suffix",
+          "meaning": "completed state",
+          "rootId": "root:ed"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:con",
+        "root:ed",
+        "root:ple-plen-plet"
+      ],
+      "relations": {
+        "derivatives": [
+          "accomplish",
+          "accomplishment"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "已经完成训练而熟练。",
+        "memoryHook": "accomplished = completed to a high level.",
+        "watchOut": "作形容词常表示有造诣的。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accomplishment",
+      "slug": "accomplishment",
+      "term": "accomplishment",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "achievement",
+          "zh": "成就",
+          "en": "something successfully completed or achieved",
+          "example": {
+            "en": "Graduation was a major accomplishment.",
+            "zh": "毕业是一项重大成就。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "com",
+          "type": "prefix",
+          "meaning": "completely",
+          "rootId": "root:con"
+        },
+        {
+          "form": "plish",
+          "type": "root",
+          "meaning": "complete",
+          "rootId": "root:ple-plen-plet"
+        },
+        {
+          "form": "ment",
+          "type": "suffix",
+          "meaning": "result",
+          "rootId": "root:ment"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:con",
+        "root:ment",
+        "root:ple-plen-plet"
+      ],
+      "relations": {
+        "derivatives": [
+          "accomplish",
+          "accomplished"
+        ],
+        "sameFamily": [
+          "achievement"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "完成后留下的成就。",
+        "memoryHook": "accomplishment = result of accomplishing.",
+        "watchOut": "accomplishment 可指成就，也可指技能。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accordion",
+      "slug": "accordion",
+      "term": "accordion",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "musical instrument",
+          "zh": "手风琴",
+          "en": "a musical instrument with bellows and keys or buttons",
+          "example": {
+            "en": "He played the accordion at the festival.",
+            "zh": "他在节日上演奏手风琴。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "accord",
+          "type": "root",
+          "meaning": "agreement or harmony",
+          "rootId": "root:cord"
+        },
+        {
+          "form": "ion",
+          "type": "suffix",
+          "meaning": "thing or result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:cord",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "让声音像合在一起一样展开。",
+        "memoryHook": "accordion is built around accord/harmony.",
+        "watchOut": "这是乐器名，词根教学只做辅助记忆。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:account",
+      "slug": "account",
+      "term": "account",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun",
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "explanation",
+          "zh": "说明；解释",
+          "en": "a description or explanation of events",
+          "example": {
+            "en": "Her account of the trip was detailed.",
+            "zh": "她对旅行的叙述很详细。"
+          }
+        },
+        {
+          "sense": "record or access arrangement",
+          "zh": "账户；户头",
+          "en": "a record of money or an arrangement for using a service",
+          "example": {
+            "en": "I opened a new bank account.",
+            "zh": "我开了一个新的银行账户。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "count",
+          "type": "root",
+          "meaning": "count or reckon",
+          "rootId": "root:count"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:count"
+      ],
+      "relations": {
+        "derivatives": [
+          "accounting",
+          "accountant"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "count"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把事情或数字算清楚、说明清楚。",
+        "memoryHook": "account = count/reckon into an explanation or record.",
+        "watchOut": "account for 表示解释原因。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:on-account-of",
+      "slug": "on-account-of",
+      "term": "on account of",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "phrase"
+      ],
+      "definitions": [
+        {
+          "sense": "because of",
+          "zh": "由于；因为",
+          "en": "because of something",
+          "example": {
+            "en": "The match was delayed on account of rain.",
+            "zh": "比赛因下雨而推迟。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "account",
+          "type": "root",
+          "meaning": "reason or explanation",
+          "rootId": "root:count"
+        }
+      ],
+      "rootIds": [
+        "root:count"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [
+          "account"
+        ],
+        "confusables": [
+          "because-of"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把某事作为原因来说明。",
+        "memoryHook": "on account of = because of.",
+        "watchOut": "较正式，可用 because of 替换。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:take-account-of",
+      "slug": "take-account-of",
+      "term": "take account of",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "phrase"
+      ],
+      "definitions": [
+        {
+          "sense": "consider",
+          "zh": "考虑到；体谅",
+          "en": "to consider something when judging or deciding",
+          "example": {
+            "en": "The plan must take account of local needs.",
+            "zh": "这个计划必须考虑当地需求。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "account",
+          "type": "root",
+          "meaning": "consideration",
+          "rootId": "root:count"
+        }
+      ],
+      "rootIds": [
+        "root:count"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [
+          "account",
+          "take-into-account"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "把某因素纳入考虑。",
+        "memoryHook": "take account of = consider.",
+        "watchOut": "和 take into account 意思接近。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:take-into-account",
+      "slug": "take-into-account",
+      "term": "take into account",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "phrase"
+      ],
+      "definitions": [
+        {
+          "sense": "consider seriously",
+          "zh": "重视；考虑",
+          "en": "to consider something as part of a decision",
+          "example": {
+            "en": "We must take cost into account.",
+            "zh": "我们必须把成本考虑进去。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "account",
+          "type": "root",
+          "meaning": "consideration",
+          "rootId": "root:count"
+        }
+      ],
+      "rootIds": [
+        "root:count"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [
+          "account",
+          "take-account-of"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "把因素放进决策账户里。",
+        "memoryHook": "take into account = include in consideration.",
+        "watchOut": "后接被考虑的因素。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accounting",
+      "slug": "accounting",
+      "term": "accounting",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "financial record keeping",
+          "zh": "会计学",
+          "en": "the system or work of recording financial information",
+          "example": {
+            "en": "She studied accounting in college.",
+            "zh": "她在大学学习会计。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "account",
+          "type": "root",
+          "meaning": "reckon or record",
+          "rootId": "root:count"
+        },
+        {
+          "form": "ing",
+          "type": "suffix",
+          "meaning": "field or activity",
+          "rootId": "root:ing"
+        }
+      ],
+      "rootIds": [
+        "root:count",
+        "root:ing"
+      ],
+      "relations": {
+        "derivatives": [
+          "account",
+          "accountant"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "记录和核算账目的活动。",
+        "memoryHook": "accounting = the practice of keeping accounts.",
+        "watchOut": "accounting 是学科/工作；accountant 是人。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accountant",
+      "slug": "accountant",
+      "term": "accountant",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "financial professional",
+          "zh": "会计员；会计师",
+          "en": "a person whose job is to keep or inspect financial accounts",
+          "example": {
+            "en": "The accountant reviewed the records.",
+            "zh": "会计师审查了记录。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "account",
+          "type": "root",
+          "meaning": "reckon or record",
+          "rootId": "root:count"
+        },
+        {
+          "form": "ant",
+          "type": "suffix",
+          "meaning": "person who",
+          "rootId": "root:ent"
+        }
+      ],
+      "rootIds": [
+        "root:count",
+        "root:ent"
+      ],
+      "relations": {
+        "derivatives": [
+          "account",
+          "accounting"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "负责账目核算的人。",
+        "memoryHook": "accountant = person who handles accounts.",
+        "watchOut": "accountant 是职业名词。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accredit",
+      "slug": "accredit",
+      "term": "accredit",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "authorize or recognize",
+          "zh": "授权；认可",
+          "en": "to officially recognize, authorize, or certify",
+          "example": {
+            "en": "The agency accredits universities.",
+            "zh": "该机构认证大学。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "credit",
+          "type": "root",
+          "meaning": "trust",
+          "rootId": "root:cred"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:cred"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": [
+          "credit"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把信任正式给到某人或机构。",
+        "memoryHook": "accredit = give official credit/trust.",
+        "watchOut": "accredit 强调正式认可或授权。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accumulate",
+      "slug": "accumulate",
+      "term": "accumulate",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "gather gradually",
+          "zh": "堆积；积聚；积累",
+          "en": "to collect or build up gradually",
+          "example": {
+            "en": "Dust accumulated on the shelves.",
+            "zh": "灰尘在架子上积了起来。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cumul",
+          "type": "root",
+          "meaning": "heap",
+          "rootId": "root:cumul"
+        },
+        {
+          "form": "ate",
+          "type": "suffix",
+          "meaning": "make or become",
+          "rootId": "root:ate"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:ate",
+        "root:cumul"
+      ],
+      "relations": {
+        "derivatives": [
+          "accumulation"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "一点点堆成一堆。",
+        "memoryHook": "accumulate = gather into a heap.",
+        "watchOut": "可及物也可不及物。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accumulation",
+      "slug": "accumulation",
+      "term": "accumulation",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "gradual buildup",
+          "zh": "积聚；积累",
+          "en": "the process or result of gradually collecting",
+          "example": {
+            "en": "Snow accumulation slowed traffic.",
+            "zh": "积雪减缓了交通。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cumul",
+          "type": "root",
+          "meaning": "heap",
+          "rootId": "root:cumul"
+        },
+        {
+          "form": "ation",
+          "type": "suffix",
+          "meaning": "process or result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:cumul",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "accumulate"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "逐渐积起来的过程或结果。",
+        "memoryHook": "accumulation = result of accumulating.",
+        "watchOut": "常用于物质、财富、数据等积累。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accurate",
+      "slug": "accurate",
+      "term": "accurate",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "correct and precise",
+          "zh": "准确的；正确的",
+          "en": "correct, exact, and free from error",
+          "example": {
+            "en": "The map is accurate.",
+            "zh": "这张地图很准确。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cur",
+          "type": "root",
+          "meaning": "care",
+          "rootId": "root:cur-care"
+        },
+        {
+          "form": "ate",
+          "type": "suffix",
+          "meaning": "having the quality of",
+          "rootId": "root:ate"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:ate",
+        "root:cur-care"
+      ],
+      "relations": {
+        "derivatives": [
+          "accuracy"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "precise"
+        ]
+      },
+      "learning": {
+        "coreIdea": "仔细照料细节，所以准确。",
+        "memoryHook": "accurate = done with care.",
+        "watchOut": "accurate 是准确；precise 是精确，二者可重叠但不完全一样。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accuracy",
+      "slug": "accuracy",
+      "term": "accuracy",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "correctness",
+          "zh": "准确性；正确性",
+          "en": "the quality of being correct or exact",
+          "example": {
+            "en": "The instrument's accuracy is high.",
+            "zh": "这台仪器的准确性很高。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cur",
+          "type": "root",
+          "meaning": "care",
+          "rootId": "root:cur-care"
+        },
+        {
+          "form": "acy",
+          "type": "suffix",
+          "meaning": "quality",
+          "rootId": "root:cy"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:cur-care",
+        "root:cy"
+      ],
+      "relations": {
+        "derivatives": [
+          "accurate"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "precision"
+        ]
+      },
+      "learning": {
+        "coreIdea": "准确这个性质。",
+        "memoryHook": "accuracy = quality of being accurate.",
+        "watchOut": "accuracy 偏正确性；precision 偏精密一致。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accuse",
+      "slug": "accuse",
+      "term": "accuse",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "blame or charge",
+          "zh": "指责；归咎；控告",
+          "en": "to say someone is responsible for a wrong act",
+          "example": {
+            "en": "They accused him of lying.",
+            "zh": "他们指责他说谎。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cuse",
+          "type": "root",
+          "meaning": "cause or charge",
+          "rootId": "root:caus-cus"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:caus-cus"
+      ],
+      "relations": {
+        "derivatives": [
+          "accusation"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "excuse"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把错误原因指向某人。",
+        "memoryHook": "accuse = point a charge toward someone.",
+        "watchOut": "accuse 常接 of。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accusation",
+      "slug": "accusation",
+      "term": "accusation",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "claim of wrongdoing",
+          "zh": "谴责；控告",
+          "en": "a statement that someone has done something wrong",
+          "example": {
+            "en": "The accusation was serious.",
+            "zh": "这项指控很严重。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "cus",
+          "type": "root",
+          "meaning": "charge",
+          "rootId": "root:caus-cus"
+        },
+        {
+          "form": "ation",
+          "type": "suffix",
+          "meaning": "act or result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:caus-cus",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "accuse"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "excuse"
+        ]
+      },
+      "learning": {
+        "coreIdea": "指控这个行为或内容。",
+        "memoryHook": "accusation = the act/result of accusing.",
+        "watchOut": "accusation 是名词；accuse 是动词。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:accustomed",
+      "slug": "accustomed",
+      "term": "accustomed",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "used to",
+          "zh": "习惯了的",
+          "en": "familiar with something because it has happened often",
+          "example": {
+            "en": "She is accustomed to hard work.",
+            "zh": "她习惯了艰苦工作。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "custom",
+          "type": "root",
+          "meaning": "habit",
+          "rootId": "root:custom"
+        },
+        {
+          "form": "ed",
+          "type": "suffix",
+          "meaning": "state",
+          "rootId": "root:ed"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:custom",
+        "root:ed"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [],
+        "confusables": [
+          "customary"
+        ]
+      },
+      "learning": {
+        "coreIdea": "进入习惯状态。",
+        "memoryHook": "accustomed = made into a custom/habit.",
+        "watchOut": "be accustomed to 后接名词或动名词。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:achieve",
+      "slug": "achieve",
+      "term": "achieve",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "successfully complete",
+          "zh": "完成；实现",
+          "en": "to succeed in reaching a goal or result",
+          "example": {
+            "en": "She achieved her dream.",
+            "zh": "她实现了自己的梦想。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "a",
+          "type": "prefix",
+          "meaning": "to",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "chiev",
+          "type": "root",
+          "meaning": "bring to an end",
+          "rootId": "root:chief-achieve"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:chief-achieve"
+      ],
+      "relations": {
+        "derivatives": [
+          "achievement"
+        ],
+        "sameFamily": [
+          "accomplish"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "到达目标终点。",
+        "memoryHook": "achieve = bring to the desired end.",
+        "watchOut": "achieve 强调达成目标。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:achievement",
+      "slug": "achievement",
+      "term": "achievement",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "successful result",
+          "zh": "成就；功绩",
+          "en": "something important that someone has succeeded in doing",
+          "example": {
+            "en": "The award recognized his achievement.",
+            "zh": "这个奖项表彰了他的成就。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "achieve",
+          "type": "root",
+          "meaning": "reach a goal",
+          "rootId": "root:chief-achieve"
+        },
+        {
+          "form": "ment",
+          "type": "suffix",
+          "meaning": "result",
+          "rootId": "root:ment"
+        }
+      ],
+      "rootIds": [
+        "root:chief-achieve",
+        "root:ment"
+      ],
+      "relations": {
+        "derivatives": [
+          "achieve"
+        ],
+        "sameFamily": [
+          "accomplishment"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "达成目标后留下的成果。",
+        "memoryHook": "achievement = result of achieving.",
+        "watchOut": "achievement 更强调取得的成果。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acid",
+      "slug": "acid",
+      "term": "acid",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun",
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "sour chemical",
+          "zh": "酸；酸的",
+          "en": "a sour chemical substance, or having acid qualities",
+          "example": {
+            "en": "Vinegar contains acid.",
+            "zh": "醋含有酸。"
+          }
+        },
+        {
+          "sense": "sharp in manner",
+          "zh": "尖酸的；刻薄的",
+          "en": "sharp, bitter, or harsh in speech or tone",
+          "example": {
+            "en": "He made an acid remark.",
+            "zh": "他说了一句尖酸的话。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "acid",
+          "type": "root",
+          "meaning": "sour or sharp",
+          "rootId": "root:acid"
+        }
+      ],
+      "rootIds": [
+        "root:acid"
+      ],
+      "relations": {
+        "derivatives": [
+          "acidic",
+          "acidity"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "味道酸，也可引申为语言尖锐。",
+        "memoryHook": "acid = sour/sharp.",
+        "watchOut": "acid 作名词是酸；作形容词可指酸的或尖酸的。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acidic",
+      "slug": "acidic",
+      "term": "acidic",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "acid in nature",
+          "zh": "酸的；酸性的",
+          "en": "containing acid or having the qualities of an acid",
+          "example": {
+            "en": "Some soils are acidic.",
+            "zh": "有些土壤呈酸性。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "acid",
+          "type": "root",
+          "meaning": "sour",
+          "rootId": "root:acid"
+        },
+        {
+          "form": "ic",
+          "type": "suffix",
+          "meaning": "relating to",
+          "rootId": "root:al"
+        }
+      ],
+      "rootIds": [
+        "root:acid",
+        "root:al"
+      ],
+      "relations": {
+        "derivatives": [
+          "acid",
+          "acidity"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "具有酸的性质。",
+        "memoryHook": "acidic = having acid qualities.",
+        "watchOut": "acidic 多用于化学、食物、土壤等。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acidity",
+      "slug": "acidity",
+      "term": "acidity",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "level of acid",
+          "zh": "酸度；酸性",
+          "en": "the level or quality of being acidic",
+          "example": {
+            "en": "The test measures water acidity.",
+            "zh": "这项测试测量水的酸度。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "acid",
+          "type": "root",
+          "meaning": "sour",
+          "rootId": "root:acid"
+        },
+        {
+          "form": "ity",
+          "type": "suffix",
+          "meaning": "quality or state",
+          "rootId": "root:ity"
+        }
+      ],
+      "rootIds": [
+        "root:acid",
+        "root:ity"
+      ],
+      "relations": {
+        "derivatives": [
+          "acid",
+          "acidic"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "酸这一性质或程度。",
+        "memoryHook": "acidity = quality or level of acid.",
+        "watchOut": "可指化学酸度，也可指食物酸味。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acquaintance",
+      "slug": "acquaintance",
+      "term": "acquaintance",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "person known slightly",
+          "zh": "熟人",
+          "en": "a person one knows but not very well",
+          "example": {
+            "en": "He is an old acquaintance.",
+            "zh": "他是一位老熟人。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "acquaint",
+          "type": "root",
+          "meaning": "make known",
+          "rootId": "root:quaint-cogn"
+        },
+        {
+          "form": "ance",
+          "type": "suffix",
+          "meaning": "state or person",
+          "rootId": "root:ence-ance"
+        }
+      ],
+      "rootIds": [
+        "root:ence-ance",
+        "root:quaint-cogn"
+      ],
+      "relations": {
+        "derivatives": [
+          "acquaint"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "friend"
+        ]
+      },
+      "learning": {
+        "coreIdea": "认识但不深交的人。",
+        "memoryHook": "acquaintance = someone you are acquainted with.",
+        "watchOut": "acquaintance 不等于 close friend。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acquaint",
+      "slug": "acquaint",
+      "term": "acquaint",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "make familiar",
+          "zh": "使熟悉；告知",
+          "en": "to make someone familiar with or aware of something",
+          "example": {
+            "en": "The guide acquainted us with local customs.",
+            "zh": "导游让我们熟悉了当地习俗。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "quaint",
+          "type": "root",
+          "meaning": "make known",
+          "rootId": "root:quaint-cogn"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:quaint-cogn"
+      ],
+      "relations": {
+        "derivatives": [
+          "acquaintance"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "让某人知道并熟悉。",
+        "memoryHook": "acquaint = make known.",
+        "watchOut": "常用 acquaint someone with something。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acquisition",
+      "slug": "acquisition",
+      "term": "acquisition",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "act of obtaining",
+          "zh": "获得",
+          "en": "the act of gaining, buying, or learning something",
+          "example": {
+            "en": "Language acquisition takes time.",
+            "zh": "语言习得需要时间。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "quis",
+          "type": "root",
+          "meaning": "seek or obtain",
+          "rootId": "root:quir-quis"
+        },
+        {
+          "form": "ition",
+          "type": "suffix",
+          "meaning": "act or result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:ion",
+        "root:quir-quis"
+      ],
+      "relations": {
+        "derivatives": [
+          "acquire"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "寻求并得到的过程或结果。",
+        "memoryHook": "acquisition = act/result of acquiring.",
+        "watchOut": "可指收购、获得、习得。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acquire",
+      "slug": "acquire",
+      "term": "acquire",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "get or learn",
+          "zh": "获得；学到",
+          "en": "to get, obtain, buy, or learn something",
+          "example": {
+            "en": "Children acquire language naturally.",
+            "zh": "儿童自然习得语言。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "ac",
+          "type": "prefix",
+          "meaning": "toward",
+          "rootId": "root:ad"
+        },
+        {
+          "form": "quire",
+          "type": "root",
+          "meaning": "seek or obtain",
+          "rootId": "root:quir-quis"
+        }
+      ],
+      "rootIds": [
+        "root:ad",
+        "root:quir-quis"
+      ],
+      "relations": {
+        "derivatives": [
+          "acquisition"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "require"
+        ]
+      },
+      "learning": {
+        "coreIdea": "通过寻求而拿到。",
+        "memoryHook": "acquire = seek and obtain.",
+        "watchOut": "acquire 是获得；require 是要求。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acronym",
+      "slug": "acronym",
+      "term": "acronym",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "initial-letter word",
+          "zh": "首字母缩写词",
+          "en": "a word formed from the first letters of several words",
+          "example": {
+            "en": "NASA is a famous acronym.",
+            "zh": "NASA 是一个著名的首字母缩写词。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "acro",
+          "type": "combiningForm",
+          "meaning": "tip or beginning",
+          "rootId": "root:acro"
+        },
+        {
+          "form": "onym",
+          "type": "combiningForm",
+          "meaning": "name",
+          "rootId": "root:onym"
+        }
+      ],
+      "rootIds": [
+        "root:acro",
+        "root:onym"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [
+          "abbreviation"
+        ],
+        "confusables": [
+          "initialism"
+        ]
+      },
+      "learning": {
+        "coreIdea": "用开头字母做成名字。",
+        "memoryHook": "acronym = name from beginnings.",
+        "watchOut": "acronym 常可读成词；initialism 通常逐字母读。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:actual",
+      "slug": "actual",
+      "term": "actual",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "real",
+          "zh": "实际的；现行的",
+          "en": "real, existing in fact, or current",
+          "example": {
+            "en": "The actual cost was lower.",
+            "zh": "实际成本更低。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "act",
+          "type": "root",
+          "meaning": "done or real",
+          "rootId": "root:act"
+        },
+        {
+          "form": "ual",
+          "type": "suffix",
+          "meaning": "relating to",
+          "rootId": "root:al"
+        }
+      ],
+      "rootIds": [
+        "root:act",
+        "root:al"
+      ],
+      "relations": {
+        "derivatives": [
+          "actually"
+        ],
+        "sameFamily": [
+          "actuate",
+          "activate",
+          "actively"
+        ],
+        "confusables": [
+          "virtual"
+        ]
+      },
+      "learning": {
+        "coreIdea": "已经成为事实的东西。",
+        "memoryHook": "actual = existing in act/fact.",
+        "watchOut": "actual 是实际的；virtual 是虚拟的或实质上的。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:actually",
+      "slug": "actually",
+      "term": "actually",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adverb"
+      ],
+      "definitions": [
+        {
+          "sense": "in fact",
+          "zh": "实际上；事实上",
+          "en": "in fact or really",
+          "example": {
+            "en": "Actually, I agree with you.",
+            "zh": "事实上，我同意你的看法。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "actual",
+          "type": "root",
+          "meaning": "real",
+          "rootId": "root:act"
+        },
+        {
+          "form": "ly",
+          "type": "suffix",
+          "meaning": "in the manner of",
+          "rootId": "root:ly"
+        }
+      ],
+      "rootIds": [
+        "root:act",
+        "root:ly"
+      ],
+      "relations": {
+        "derivatives": [
+          "actual"
+        ],
+        "sameFamily": [
+          "actuate",
+          "activate",
+          "actively"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "以事实方式来说。",
+        "memoryHook": "actually = in actual fact.",
+        "watchOut": "口语中常用于纠正或补充。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:actuate",
+      "slug": "actuate",
+      "term": "actuate",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "set in motion",
+          "zh": "开动；促使",
+          "en": "to make a machine or process start, or to motivate action",
+          "example": {
+            "en": "A sensor actuates the valve.",
+            "zh": "传感器启动阀门。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "act",
+          "type": "root",
+          "meaning": "drive",
+          "rootId": "root:act"
+        },
+        {
+          "form": "uate",
+          "type": "suffix",
+          "meaning": "make",
+          "rootId": "root:ate"
+        }
+      ],
+      "rootIds": [
+        "root:act",
+        "root:ate"
+      ],
+      "relations": {
+        "derivatives": [],
+        "sameFamily": [
+          "activate",
+          "actual"
+        ],
+        "confusables": [
+          "activate"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把某物驱动起来。",
+        "memoryHook": "actuate = cause to act.",
+        "watchOut": "actuate 偏机械启动或动机促使；activate 更常见。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:activate",
+      "slug": "activate",
+      "term": "activate",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "make active",
+          "zh": "刺激；使活动；激活",
+          "en": "to make something active or start working",
+          "example": {
+            "en": "Press the button to activate the alarm.",
+            "zh": "按下按钮激活警报。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "act",
+          "type": "root",
+          "meaning": "do or move",
+          "rootId": "root:act"
+        },
+        {
+          "form": "iv",
+          "type": "suffix",
+          "meaning": "having the nature of",
+          "rootId": "root:ive"
+        },
+        {
+          "form": "ate",
+          "type": "suffix",
+          "meaning": "make",
+          "rootId": "root:ate"
+        }
+      ],
+      "rootIds": [
+        "root:act",
+        "root:ate",
+        "root:ive"
+      ],
+      "relations": {
+        "derivatives": [
+          "actively"
+        ],
+        "sameFamily": [
+          "actuate",
+          "actual"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "让东西进入活动状态。",
+        "memoryHook": "activate = make active.",
+        "watchOut": "activate 比 actuate 更常用于系统、账户、功能。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:actively",
+      "slug": "actively",
+      "term": "actively",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adverb"
+      ],
+      "definitions": [
+        {
+          "sense": "with action or energy",
+          "zh": "活跃地；积极地",
+          "en": "in a way that involves action, energy, or participation",
+          "example": {
+            "en": "Students actively discussed the problem.",
+            "zh": "学生们积极讨论了这个问题。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "act",
+          "type": "root",
+          "meaning": "do",
+          "rootId": "root:act"
+        },
+        {
+          "form": "ive",
+          "type": "suffix",
+          "meaning": "having the nature of",
+          "rootId": "root:ive"
+        },
+        {
+          "form": "ly",
+          "type": "suffix",
+          "meaning": "in the manner of",
+          "rootId": "root:ly"
+        }
+      ],
+      "rootIds": [
+        "root:act",
+        "root:ive",
+        "root:ly"
+      ],
+      "relations": {
+        "derivatives": [
+          "activate"
+        ],
+        "sameFamily": [
+          "actual",
+          "actuate"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "以行动参与的方式。",
+        "memoryHook": "actively = in an active way.",
+        "watchOut": "active 本身未在本批 Excel 行中，后续可按需要补充。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acute",
+      "slug": "acute",
+      "term": "acute",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "keen or sharp",
+          "zh": "灵敏的；敏锐的",
+          "en": "very sharp, keen, or perceptive",
+          "example": {
+            "en": "Dogs have an acute sense of smell.",
+            "zh": "狗有敏锐的嗅觉。"
+          }
+        },
+        {
+          "sense": "severe or intense",
+          "zh": "剧烈的；严重的",
+          "en": "severe, intense, or needing urgent attention",
+          "example": {
+            "en": "The patient felt acute pain.",
+            "zh": "病人感到剧烈疼痛。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "acut",
+          "type": "root",
+          "meaning": "sharp or keen",
+          "rootId": "root:acut"
+        }
+      ],
+      "rootIds": [
+        "root:acut"
+      ],
+      "relations": {
+        "derivatives": [
+          "acumen"
+        ],
+        "sameFamily": [],
+        "confusables": [
+          "chronic"
+        ]
+      },
+      "learning": {
+        "coreIdea": "像尖端一样锐利，也可指程度强烈。",
+        "memoryHook": "acute = sharp, keen, intense.",
+        "watchOut": "医学中 acute 常和 chronic 对比：急性的 vs 慢性的。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:acumen",
+      "slug": "acumen",
+      "term": "acumen",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "sharp judgment",
+          "zh": "敏锐；聪明",
+          "en": "quick, sharp judgment or insight",
+          "example": {
+            "en": "Her business acumen impressed investors.",
+            "zh": "她的商业敏锐度给投资者留下深刻印象。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "acu",
+          "type": "root",
+          "meaning": "sharp",
+          "rootId": "root:acut"
+        },
+        {
+          "form": "men",
+          "type": "suffix",
+          "meaning": "result or state",
+          "rootId": "root:ment"
+        }
+      ],
+      "rootIds": [
+        "root:acut",
+        "root:ment"
+      ],
+      "relations": {
+        "derivatives": [
+          "acute"
+        ],
+        "sameFamily": [],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "头脑像尖端一样敏锐。",
+        "memoryHook": "acumen = mental sharpness.",
+        "watchOut": "常见搭配 business acumen。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:confer",
+      "slug": "confer",
+      "term": "confer",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "consult together",
+          "zh": "商议；协商",
+          "en": "to discuss something with someone in order to exchange views or decide what to do",
+          "example": {
+            "en": "The doctors conferred before recommending treatment.",
+            "zh": "医生们商议后才建议治疗方案。"
+          }
+        },
+        {
+          "sense": "grant or bestow",
+          "zh": "授予；赋予",
+          "en": "to give or grant something such as a title, right, honor, or quality",
+          "example": {
+            "en": "The university conferred an honorary degree on her.",
+            "zh": "大学授予她荣誉学位。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "con",
+          "type": "prefix",
+          "meaning": "together",
+          "rootId": "root:con"
+        },
+        {
+          "form": "fer",
+          "type": "root",
+          "meaning": "bring or carry",
+          "rootId": "root:fer"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:fer"
+      ],
+      "relations": {
+        "derivatives": [
+          "conference"
+        ],
+        "sameFamily": [
+          "refer",
+          "infer",
+          "transfer",
+          "defer",
+          "prefer",
+          "offer"
+        ],
+        "confusables": [
+          "consult",
+          "confirm"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把意见带到一起商量；或把荣誉、权利带给某人。",
+        "memoryHook": "con- + fer = bring together：人们 confer 是把想法带到一起；机构 confer 是把头衔或权利带给某人。",
+        "watchOut": "confer with someone = 商议；confer something on/upon someone = 授予。不要和 confirm 混淆。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:conference",
+      "slug": "conference",
+      "term": "conference",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "meeting for discussion",
+          "zh": "会议；研讨会",
+          "en": "a meeting where people discuss a subject or exchange views",
+          "example": {
+            "en": "Researchers presented their findings at the conference.",
+            "zh": "研究人员在会议上展示了他们的发现。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "con",
+          "type": "prefix",
+          "meaning": "together",
+          "rootId": "root:con"
+        },
+        {
+          "form": "fer",
+          "type": "root",
+          "meaning": "bring or carry",
+          "rootId": "root:fer"
+        },
+        {
+          "form": "ence",
+          "type": "suffix",
+          "meaning": "act or state",
+          "rootId": "root:ence-ance"
+        }
+      ],
+      "rootIds": [
+        "root:con",
+        "root:fer",
+        "root:ence-ance"
+      ],
+      "relations": {
+        "derivatives": [
+          "confer"
+        ],
+        "sameFamily": [
+          "refer",
+          "infer",
+          "transfer",
+          "defer",
+          "prefer",
+          "offer"
+        ],
+        "confusables": [
+          "convention",
+          "congress"
+        ]
+      },
+      "learning": {
+        "coreIdea": "把人和意见带到一起讨论的正式场合。",
+        "memoryHook": "conference = con- together + fer carry/bring + -ence act/state：把观点带到一起的活动。",
+        "watchOut": "conference 通常指较正式的会议或大会；meeting 更普通，convention 更像大型集会或行业大会。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:inundate",
+      "slug": "inundate",
+      "term": "inundate",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb"
+      ],
+      "definitions": [
+        {
+          "sense": "cover with a flood",
+          "zh": "淹没；泛滥",
+          "en": "to cover a place with floodwater",
+          "example": {
+            "en": "Heavy rain inundated the low-lying fields.",
+            "zh": "暴雨淹没了低洼的田地。"
+          }
+        },
+        {
+          "sense": "overwhelm with too much",
+          "zh": "使应接不暇；使不胜负荷",
+          "en": "to overwhelm someone with too many things at once",
+          "example": {
+            "en": "The office was inundated with calls after the announcement.",
+            "zh": "公告发布后，办公室被电话淹没了。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "in",
+          "type": "prefix",
+          "meaning": "onto, over",
+          "rootId": "root:in"
+        },
+        {
+          "form": "unda",
+          "type": "root",
+          "meaning": "wave, flow in waves",
+          "rootId": "root:unda",
+          "note": "From Latin inundare = in- (onto/over) + undare, from unda meaning wave."
+        },
+        {
+          "form": "ate",
+          "type": "suffix",
+          "meaning": "make or cause to be",
+          "rootId": "root:ate"
+        }
+      ],
+      "rootIds": [
+        "root:in",
+        "root:unda",
+        "root:ate"
+      ],
+      "relations": {
+        "derivatives": [
+          "inundation"
+        ],
+        "sameFamily": [
+          "abound",
+          "abundant",
+          "abundantly",
+          "abundance",
+          "undulate",
+          "undulation"
+        ],
+        "confusables": [
+          "undulate"
+        ]
+      },
+      "learning": {
+        "coreIdea": "像水浪涌上来，把地方或人一下子盖住。",
+        "memoryHook": "in- onto + unda wave + -ate = make waves come over: 水涌上来，所以是淹没；信息/电话涌上来，就是使人应接不暇。",
+        "watchOut": "inundate 常用被动 be inundated with 表示被大量信息、请求、电话等压过来；这里的 in- 不是否定前缀。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:inundation",
+      "slug": "inundation",
+      "term": "inundation",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "flooding or overwhelming flow",
+          "zh": "洪水；泛滥；大量涌入",
+          "en": "a flood, or an overwhelming flow of something",
+          "example": {
+            "en": "The inundation damaged roads and homes near the river.",
+            "zh": "洪水损坏了河边的道路和房屋。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "in",
+          "type": "prefix",
+          "meaning": "onto, over",
+          "rootId": "root:in"
+        },
+        {
+          "form": "unda",
+          "type": "root",
+          "meaning": "wave, flow in waves",
+          "rootId": "root:unda",
+          "note": "Latin inundatio names the act or result of inundare, from in- plus undare."
+        },
+        {
+          "form": "ation",
+          "type": "suffix",
+          "meaning": "act or result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:in",
+        "root:unda",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "inundate"
+        ],
+        "sameFamily": [
+          "abound",
+          "abundant",
+          "abundantly",
+          "abundance",
+          "undulate",
+          "undulation"
+        ],
+        "confusables": [
+          "undulation"
+        ]
+      },
+      "learning": {
+        "coreIdea": "水或大量事物涌上来并造成覆盖的状态。",
+        "memoryHook": "inundation = inundate 的动作/结果名词：一场水浪涌上的覆盖。",
+        "watchOut": "inundation 可指真正的洪水，也可比喻大量信息、请求、邮件等涌入。不要和 undulation（波动、起伏）混淆。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:undulate",
+      "slug": "undulate",
+      "term": "undulate",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "verb",
+        "adjective"
+      ],
+      "definitions": [
+        {
+          "sense": "move in waves",
+          "zh": "波动；起伏；呈波浪形移动",
+          "en": "to move gently up and down like waves",
+          "example": {
+            "en": "The grass undulated in the wind.",
+            "zh": "草在风中波浪般起伏。"
+          }
+        },
+        {
+          "sense": "wavy in form",
+          "zh": "波状的；起伏的",
+          "en": "having a wavy surface, edge, or appearance",
+          "example": {
+            "en": "The leaf has an undulate margin.",
+            "zh": "这片叶子的边缘呈波状。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "und",
+          "type": "root",
+          "meaning": "wave",
+          "rootId": "root:unda",
+          "note": "Surface form undul- comes through Late Latin undula, a diminutive of unda meaning wave."
+        },
+        {
+          "form": "ul",
+          "type": "suffix",
+          "meaning": "small, wavelet-forming",
+          "rootId": "root:ul"
+        },
+        {
+          "form": "ate",
+          "type": "suffix",
+          "meaning": "make or become",
+          "rootId": "root:ate"
+        }
+      ],
+      "rootIds": [
+        "root:unda",
+        "root:ul",
+        "root:ate"
+      ],
+      "relations": {
+        "derivatives": [
+          "undulation"
+        ],
+        "sameFamily": [
+          "abound",
+          "abundant",
+          "abundantly",
+          "abundance",
+          "inundate",
+          "inundation"
+        ],
+        "confusables": [
+          "inundate"
+        ]
+      },
+      "learning": {
+        "coreIdea": "像小波浪一样上下起伏或呈波状。",
+        "memoryHook": "unda wave + -ul- little + -ate = move like little waves：不是淹没，而是波浪般起伏。",
+        "watchOut": "undulate 强调波状起伏；inundate 强调水或大量事物涌上来并覆盖、压过来。"
+      },
+      "tags": [
+        "toefl-5400"
+      ]
+    },
+    {
+      "id": "word:undulation",
+      "slug": "undulation",
+      "term": "undulation",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "definitions": [
+        {
+          "sense": "wavelike motion or form",
+          "zh": "波动；起伏；波状形态",
+          "en": "a smooth rising and falling movement or wavy form",
+          "example": {
+            "en": "The dunes formed gentle undulations across the desert.",
+            "zh": "沙丘在沙漠中形成柔和的起伏。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "und",
+          "type": "root",
+          "meaning": "wave",
+          "rootId": "root:unda",
+          "note": "From Late Latin undulatio, built on undula, a small wave from unda."
+        },
+        {
+          "form": "ul",
+          "type": "suffix",
+          "meaning": "small, wavelet-forming",
+          "rootId": "root:ul"
+        },
+        {
+          "form": "ation",
+          "type": "suffix",
+          "meaning": "act or result",
+          "rootId": "root:ion"
+        }
+      ],
+      "rootIds": [
+        "root:unda",
+        "root:ul",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "undulate"
+        ],
+        "sameFamily": [
+          "abound",
+          "abundant",
+          "abundantly",
+          "abundance",
+          "inundate",
+          "inundation"
+        ],
+        "confusables": [
+          "inundation"
+        ]
+      },
+      "learning": {
+        "coreIdea": "波浪般上下起伏这一动作、形态或结果。",
+        "memoryHook": "undulation = the motion or shape made by undulating：看见 undula 小波，就能记住起伏。",
+        "watchOut": "undulation 是波动/起伏；inundation 是洪水/大量涌入。两个词只差 in-，意义方向完全不同。"
       },
       "tags": [
         "toefl-5400"

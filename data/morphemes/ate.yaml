@@ -8,6 +8,8 @@ origin: Latin
 source_form: Latin -atus / -are
 source_meaning: make or do
 source_meaning_zh: 使……、做……
+related_morphemes:
+  []
 senses:
   - meaning: make, cause to be
     zh: 使成为、使做
@@ -16,6 +18,13 @@ senses:
       - accelerate
       - accelerated
       - accelerating
+      - accommodate
+      - accumulate
+      - accurate
+      - actuate
+      - activate
+      - inundate
+      - undulate
 similar_form:
   []
 similar_meaning:
@@ -25,10 +34,24 @@ patterns:
   - -ate -> accelerate
   - -ate -> accelerated
   - -ate -> accelerating
+  - -ate -> accommodate
+  - -ate -> accumulate
+  - -ate -> accurate
+  - -uate -> actuate
+  - -ate -> activate
+  - -ate -> inundate
+  - -ate -> undulate
 high_value_words:
   - abbreviate
   - accelerate
   - accelerated
   - accelerating
+  - accommodate
+  - accumulate
+  - accurate
+  - actuate
+  - activate
+  - inundate
+  - undulate
 confusable_words:
   []

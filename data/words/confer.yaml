@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confer
+word: confer
+pos: verb
+zh: 商议；协商
+en: to discuss something with someone in order to exchange views or decide what to do
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: fer
+    form: fer
+    meaning_in_word: bring or carry
+    zh: 携带、带来
+    role: root
+    is_core: true
+word_family:
+  - conference
+word_family_details:
+  - word: conference
+    en: a meeting where people discuss a subject or exchange views
+    zh: 会议；研讨会
+confusables:
+  - word: consult
+    reason: confer with someone = 商议；confer something on/upon someone = 授予。不要和 confirm 混淆。
+    zh_reason: confer with someone = 商议；confer something on/upon someone = 授予。不要和 confirm 混淆。
+  - word: confirm
+    reason: confer with someone = 商议；confer something on/upon someone = 授予。不要和 confirm 混淆。
+    zh_reason: confer with someone = 商议；confer something on/upon someone = 授予。不要和 confirm 混淆。
+examples:
+  - en: The doctors conferred before recommending treatment.
+    zh: 医生们商议后才建议治疗方案。
+  - en: The university conferred an honorary degree on her.
+    zh: 大学授予她荣誉学位。
+why_confusing: confer with someone = 商议；confer something on/upon someone = 授予。不要和 confirm 混淆。

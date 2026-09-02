@@ -8,6 +8,8 @@ origin: Latin
 source_form: Latin ab-/abs-
 source_meaning: away, from
 source_meaning_zh: 离开、从
+related_morphemes:
+  []
 senses:
   - meaning: away, from, off
     zh: 离开、偏离
@@ -15,6 +17,7 @@ senses:
       - ablaze
       - abnormal
       - abort
+      - abound
       - abrasion
       - abrasive
       - abrupt
@@ -25,6 +28,9 @@ senses:
       - absorption
       - abstract
       - absurd
+      - abundant
+      - abundantly
+      - abundance
       - abuse
 similar_form:
   []
@@ -34,6 +40,7 @@ patterns:
   - a- -> ablaze
   - ab- -> abnormal
   - ab- -> abort
+  - ab- -> abound
   - a- -> abrasion
   - a- -> abrasive
   - ab- -> abrupt
@@ -44,11 +51,15 @@ patterns:
   - ab- -> absorption
   - abs- -> abstract
   - ab- -> absurd
+  - ab- -> abundant
+  - ab- -> abundantly
+  - ab- -> abundance
   - ab- -> abuse
 high_value_words:
   - ablaze
   - abnormal
   - abort
+  - abound
   - abrasion
   - abrasive
   - abrupt
@@ -59,6 +70,9 @@ high_value_words:
   - absorption
   - abstract
   - absurd
+  - abundant
+  - abundantly
+  - abundance
   - abuse
 confusable_words:
   []

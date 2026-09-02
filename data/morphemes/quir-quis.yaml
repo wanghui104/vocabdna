@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: quir-quis
+display: quir
+type: root
+core_meaning: seek, obtain
+zh: 寻求、获得
+origin: Latin
+source_form: Latin quaerere / quaesitus
+source_meaning: seek, ask
+source_meaning_zh: 寻求、寻找
+related_morphemes:
+  []
+senses:
+  - meaning: seek, obtain
+    zh: 寻求、获得
+    examples:
+      - acquisition
+      - acquire
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - quis -> acquisition
+  - quire -> acquire
+high_value_words:
+  - acquisition
+  - acquire
+confusable_words:
+  []

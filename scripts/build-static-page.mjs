@@ -370,6 +370,58 @@ function buildHtml(data) {
       white-space: normal;
       overflow-wrap: anywhere;
     }
+    .dna-subrow td {
+      color: var(--muted);
+    }
+    .dna-subform {
+      position: relative;
+      display: block;
+      padding-left: 24px;
+    }
+    .dna-subform::before {
+      content: "";
+      position: absolute;
+      left: 8px;
+      top: 0.72em;
+      width: 6px;
+      height: 6px;
+      border-radius: 9999px;
+      background: color-mix(in srgb, currentColor 48%, transparent);
+    }
+    .dna-note {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+    .dna-source-note {
+      margin: 10px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.5;
+    }
+    .root-layer-panel { background: color-mix(in srgb, var(--soft) 30%, white); }
+    .root-layer-summary {
+      display: flex;
+      cursor: pointer;
+      list-style: none;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+      color: var(--primary);
+      font-size: 14px;
+      font-weight: 720;
+    }
+    .root-layer-summary::-webkit-details-marker { display: none; }
+    .root-layer-type {
+      border: 1px solid var(--line);
+      border-radius: 3px;
+      padding: 2px 6px;
+      color: var(--muted);
+      font-size: 10px;
+      text-transform: uppercase;
+    }
     .scroll { overflow-x: auto; }
     .sub-panel {
       border: 1px solid var(--line);
@@ -488,6 +540,55 @@ function buildHtml(data) {
       line-height: 1.35;
       overflow-wrap: anywhere;
     }    .dense-list { margin: 0; padding-left: 18px; color: var(--muted); line-height: 1.75; }
+    .pattern-list {
+      margin: 0;
+      padding-left: 18px;
+      color: var(--muted);
+    }
+    .pattern-row {
+      padding-left: 4px;
+      margin-bottom: 8px;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+    .pattern-form {
+      margin-right: 8px;
+      color: var(--foreground);
+      font-weight: 720;
+    }
+    .pattern-arrow {
+      margin-right: 8px;
+      color: var(--muted);
+    }
+    .pattern-families {
+      display: inline-flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      vertical-align: middle;
+    }
+    .pattern-family {
+      display: inline-flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0;
+      border: 1px solid var(--line);
+      border-radius: 3px;
+      background: transparent;
+      padding: 2px 8px;
+      vertical-align: middle;
+    }
+    .pattern-family .inline-link,
+    .pattern-family .inline-word-static {
+      display: inline;
+      width: auto;
+      text-align: left;
+      font-size: 14px;
+    }
+    .pattern-comma {
+      color: var(--muted);
+      margin-right: 6px;
+    }
     .inline-link {
       border: 0;
       background: transparent;
@@ -581,6 +682,10 @@ function buildHtml(data) {
       <div class="panel">
         <h2 class="panel-title">A-Z Words</h2>
         <div id="alphabet-browse"></div>
+      </div>
+      <div class="panel">
+        <h2 class="panel-title">A-Z Roots</h2>
+        <div id="alphabet-root-browse"></div>
       </div>
     </aside>
     <article id="detail" class="article"></article>
@@ -874,9 +979,54 @@ function buildHtml(data) {
       const meaning = morpheme?.source_meaning ?? parsedOrigin.meaning ?? morpheme?.core_meaning ?? fallbackMeaning;
       const meaningZh = morpheme?.source_meaning_zh ?? morpheme?.zh ?? fallbackZh;
       return {
-        form: morpheme?.source_form ?? parsedOrigin.form ?? morpheme?.display ?? '',
+        form: morpheme?.source_form ? formatEtymonSource(morpheme.source_form) : (parsedOrigin.form ?? morpheme?.display ?? ''),
         meaning: meaning + ' / ' + meaningZh
       };
+    }
+
+    function getRelatedMorphemes(ids) {
+      return [...new Set(ids ?? [])]
+        .map((id) => morphemeById.get(id))
+        .filter(Boolean);
+    }
+
+    function relatedMorphemeRows(ids, ownerKey) {
+      return getRelatedMorphemes(ids).map((morpheme) => {
+        const source = getMorphemeSource(morpheme);
+        return '<tr class="dna-subrow"><td><span class="dna-subform">' +
+          routeButton('morpheme', morpheme.id, morpheme.display) +
+          '</span></td><td>' + escapeHtml(morpheme.core_meaning) +
+          '</td><td>' + escapeHtml(morpheme.zh) +
+          '</td><td>' + escapeHtml(source.form) +
+          '</td><td>' + escapeHtml(source.meaning) + '</td></tr>';
+      }).join('');
+    }
+
+    function morphemeDnaRows(morpheme) {
+      const source = getMorphemeSource(morpheme);
+      const mainRow = '<tr><td><span class="inline-link">' + escapeHtml(morpheme.display) +
+        '</span></td><td>' + escapeHtml(morpheme.core_meaning) +
+        '</td><td>' + escapeHtml(morpheme.zh) +
+        '</td><td>' + escapeHtml(source.form) +
+        '</td><td>' + escapeHtml(source.meaning) + '</td></tr>';
+      return mainRow + relatedMorphemeRows(morpheme.related_morphemes, morpheme.id);
+    }
+
+    function sourceNote(morpheme) {
+      return morpheme.source_note
+        ? '<p class="dna-source-note">' + escapeHtml(morpheme.source_note) + '</p>'
+        : '';
+    }
+
+    function layeredConnectedWords(morpheme) {
+      const direct = '<div class="sub-panel"><strong>' + escapeHtml(morpheme.display) +
+        '</strong><div style="margin-top:8px">' + wordList(morpheme.high_value_words ?? []) + '</div></div>';
+      const related = getRelatedMorphemes(morpheme.related_morphemes).map((item) =>
+        '<details class="sub-panel root-layer-panel"><summary class="root-layer-summary"><span>' +
+        escapeHtml(item.display) + '</span><span class="root-layer-type">' + escapeHtml(item.type) +
+        '</span></summary>' + wordList(item.high_value_words ?? []) + '</details>'
+      ).join('');
+      return '<div class="stack">' + direct + related + '</div>';
     }
 
     function rootFamilyCard(component) {
@@ -900,6 +1050,56 @@ function buildHtml(data) {
         rootFamilyColumn('非核心词根', supportComponents, 'No supporting roots.') +
       '</div>';
     }
+    function commonPatternList(patterns) {
+      if (!patterns.length) return '<p class="note">No patterns yet.</p>';
+      const groups = groupPatternsByFormAndFamily(patterns);
+      return '<ul class="pattern-list">' + groups.map((group) =>
+        '<li class="pattern-row"><span class="pattern-form">' + escapeHtml(group.form) +
+        '</span><span class="pattern-arrow">-&gt;</span><span class="pattern-families">' +
+        group.families.map((family) => '<span class="pattern-family">' + family.labels.map((label, index) =>
+          (index > 0 ? '<span class="pattern-comma">, </span>' : '') + inlineWord(label)
+        ).join('') + '</span>').join('') +
+        '</span></li>'
+      ).join('') + '</ul>';
+    }
+
+    function groupPatternsByFormAndFamily(patterns) {
+      const groups = new Map();
+      for (const pattern of patterns) {
+        const parsed = parsePattern(pattern);
+        if (!parsed) {
+          const family = getOrCreatePatternFamily(groups, pattern, 'pattern:' + pattern);
+          family.labels.push(pattern);
+          continue;
+        }
+        const word = wordByLabel.get(String(parsed.label).toLowerCase());
+        const familyEntries = word ? getWordFamilyEntries(word) : [];
+        const familyKey = familyEntries[0]?.id ?? 'word:' + String(parsed.label).toLowerCase();
+        const family = getOrCreatePatternFamily(groups, parsed.form, familyKey);
+        if (!family.labels.some((label) => String(label).toLowerCase() === String(parsed.label).toLowerCase())) {
+          family.labels.push(parsed.label);
+        }
+      }
+      return [...groups.entries()].map(([form, families]) => ({ form, families }));
+    }
+
+    function parsePattern(pattern) {
+      const match = String(pattern).match(/^\\s*(.+?)\\s*->\\s*(.+?)\\s*$/);
+      return match ? { form: match[1], label: match[2] } : null;
+    }
+
+    function getOrCreatePatternFamily(groups, form, familyKey) {
+      const families = groups.get(form) ?? [];
+      let family = families.find((item) => item.key === familyKey);
+      if (!family) {
+        family = { key: familyKey, labels: [] };
+        families.push(family);
+        groups.set(form, families);
+      }
+      return family;
+    }
+
+
 
 
     function morphemeGrid(ids, showMeaning = false) {
@@ -936,6 +1136,17 @@ function buildHtml(data) {
       }));
     }
 
+    function getAlphabetMorphemeGroups() {
+      return 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map((letter) => ({
+        letter,
+        morphemes: morphemes.filter((morpheme) => getAlphabetLabel(morpheme.display).charAt(0) === letter)
+      }));
+    }
+
+    function getAlphabetLabel(label) {
+      return String(label ?? '').replace(/^[^A-Za-z]+/, '').toUpperCase();
+    }
+
     function alphabetBrowsePanel(route) {
       return '<div class="alphabet-dropdowns">' + getAlphabetWordGroups().map((group) => {
         const activeInGroup = route.type === 'word' && group.words.some((word) => word.id === route.id);
@@ -948,6 +1159,21 @@ function buildHtml(data) {
           : '<p class="alpha-empty">No words yet</p>';
 
         return '<details class="alpha-dropdown"' + open + '><summary class="alpha-summary"><span class="alpha-letter">' + group.letter + '</span><span class="alpha-count">' + group.words.length + '</span><span class="alpha-chevron">⌄</span></summary><div class="alpha-menu">' + body + '</div></details>';
+      }).join('') + '</div>';
+    }
+
+    function alphabetRootBrowsePanel(route) {
+      return '<div class="alphabet-dropdowns">' + getAlphabetMorphemeGroups().map((group) => {
+        const activeInGroup = route.type === 'morpheme' && group.morphemes.some((morpheme) => morpheme.id === route.id);
+        const open = activeInGroup ? ' open' : '';
+        const body = group.morphemes.length
+          ? group.morphemes.map((morpheme) => {
+              const active = route.type === 'morpheme' && route.id === morpheme.id ? ' active' : '';
+              return '<button class="alpha-word' + active + '" type="button" data-route="morpheme:' + morpheme.id + '"><span>' + escapeHtml(morpheme.display) + '</span><span>' + escapeHtml(morpheme.zh) + '</span></button>';
+            }).join('')
+          : '<p class="alpha-empty">No roots yet</p>';
+
+        return '<details class="alpha-dropdown"' + open + '><summary class="alpha-summary"><span class="alpha-letter">' + group.letter + '</span><span class="alpha-count">' + group.morphemes.length + '</span><span class="alpha-chevron">⌄</span></summary><div class="alpha-menu">' + body + '</div></details>';
       }).join('') + '</div>';
     }
 
@@ -1016,12 +1242,23 @@ function buildHtml(data) {
         browsePanel(route);
       document.getElementById('alphabet-browse').innerHTML =
         alphabetBrowsePanel(route);
+      document.getElementById('alphabet-root-browse').innerHTML =
+        alphabetRootBrowsePanel(route);
     }
 
     function renderWord(word) {
-      const rows = word.components.map((component) => {
+      const rows = word.components.map((component, componentIndex) => {
         const source = getComponentSource(component);
-        return '<tr><td>' + routeButton('morpheme', component.morpheme, component.form) + '</td><td>' + escapeHtml(component.meaning_in_word) + '</td><td>' + escapeHtml(component.zh) + '</td><td>' + escapeHtml(source.form) + '</td><td>' + escapeHtml(source.meaning) + '</td></tr>';
+        const ownerKey = word.id + '-' + component.morpheme + '-' + componentIndex;
+        const note = component.note
+          ? '<span class="dna-note">' + escapeHtml(component.note) + '</span>'
+          : '';
+        const mainRow = '<tr><td>' + routeButton('morpheme', component.morpheme, component.form) +
+          '</td><td>' + escapeHtml(component.meaning_in_word) + note +
+          '</td><td>' + escapeHtml(component.zh) +
+          '</td><td>' + escapeHtml(source.form) +
+          '</td><td>' + escapeHtml(source.meaning) + '</td></tr>';
+        return mainRow + relatedMorphemeRows(component.related_morphemes, ownerKey);
       }).join('');
 
       const confusions = word.confusables.map((item) =>
@@ -1054,10 +1291,10 @@ function buildHtml(data) {
 
       document.getElementById('detail').innerHTML =
         '<header><h1>' + escapeHtml(morpheme.display) + '<span class="meta">' + escapeHtml(morpheme.type) + '</span></h1><p class="definition">' + escapeHtml(morpheme.core_meaning) + ' <span class="zh">/ ' + escapeHtml(morpheme.zh) + '</span></p></header>' +
-        detailSection('Root DNA / 词根拆解', '<div class="scroll"><table><colgroup><col class="dna-col-form"><col class="dna-col-meaning"><col class="dna-col-zh"><col class="dna-col-etymon"><col class="dna-col-etymon-meaning"></colgroup><thead><tr><th>Form</th><th>Core Meaning</th><th>中文</th><th>Etymon / 源词根</th><th>Etymon Meaning / 源义</th></tr></thead><tbody><tr><td><span class="inline-link">' + escapeHtml(morpheme.display) + '</span></td><td>' + escapeHtml(morpheme.core_meaning) + '</td><td>' + escapeHtml(morpheme.zh) + '</td><td>' + escapeHtml(source.form) + '</td><td>' + escapeHtml(source.meaning) + '</td></tr></tbody></table></div>') +
+        detailSection('Root DNA / 词根拆解', '<div class="scroll"><table><colgroup><col class="dna-col-form"><col class="dna-col-meaning"><col class="dna-col-zh"><col class="dna-col-etymon"><col class="dna-col-etymon-meaning"></colgroup><thead><tr><th>Form</th><th>Core Meaning</th><th>中文</th><th>Etymon / 源词根</th><th>Etymon Meaning / 源义</th></tr></thead><tbody>' + morphemeDnaRows(morpheme) + '</tbody></table></div>' + sourceNote(morpheme)) +
         detailSection('Meanings', '<div>' + meanings + '</div>') +
-        detailSection('Common Patterns', '<ul class="dense-list">' + (morpheme.patterns ?? []).map((item) => '<li>' + escapeHtml(item) + '</li>').join('') + '</ul>') +
-        detailSection('Connected Words', wordList(morpheme.high_value_words)) +
+        detailSection('Common Patterns', commonPatternList(morpheme.patterns ?? [])) +
+        detailSection('Connected Words', layeredConnectedWords(morpheme)) +
         detailSection('Similar-Looking Roots', morphemeGrid(morpheme.similar_form, true)) +
         detailSection('Meaning-Neighbor Roots', morphemeGrid(morpheme.similar_meaning, true)) +
         detailSection('Confusable Words', '<ul class="dense-list">' + (morpheme.confusable_words ?? []).map((item) => '<li>' + escapeHtml(item) + '</li>').join('') + '</ul>');

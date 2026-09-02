@@ -11,12 +11,14 @@ components:
     zh: 切开、分裂；壳片、鳞片
     role: root
     is_core: true
+    note: fish-scale and weighing-scale branch
   - morpheme: scala
     form: scale
     meaning_in_word: ladder, steps; graded measure or climb
     zh: 梯子、阶梯；按级测量
     role: root
     is_core: true
+    note: measure/climb branch
 word_family:
   - scalable
   - scaling

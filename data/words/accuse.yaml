@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accuse
+word: accuse
+pos: verb
+zh: 指责；归咎；控告
+en: to say someone is responsible for a wrong act
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: caus-cus
+    form: cuse
+    meaning_in_word: cause or charge
+    zh: 原因、控诉
+    role: root
+    is_core: true
+word_family:
+  - accusation
+word_family_details:
+  - word: accusation
+    en: a statement that someone has done something wrong
+    zh: 谴责；控告
+confusables:
+  - word: excuse
+    reason: accuse 常接 of。
+    zh_reason: accuse 常接 of。
+examples:
+  - en: They accused him of lying.
+    zh: 他们指责他说谎。
+why_confusing: accuse 常接 of。

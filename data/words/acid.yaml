@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: acid
+word: acid
+pos: noun/adjective
+zh: 酸；酸的
+en: a sour chemical substance, or having acid qualities
+components:
+  - morpheme: acid
+    form: acid
+    meaning_in_word: sour or sharp
+    zh: 酸、尖锐
+    role: root
+    is_core: true
+word_family:
+  - acidic
+  - acidity
+word_family_details:
+  - word: acidic
+    en: containing acid or having the qualities of an acid
+    zh: 酸的；酸性的
+  - word: acidity
+    en: the level or quality of being acidic
+    zh: 酸度；酸性
+confusables:
+  []
+examples:
+  - en: Vinegar contains acid.
+    zh: 醋含有酸。
+  - en: He made an acid remark.
+    zh: 他说了一句尖酸的话。
+why_confusing: acid 作名词是酸；作形容词可指酸的或尖酸的。

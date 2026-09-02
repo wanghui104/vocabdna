@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: undulate
+word: undulate
+pos: verb/adjective
+zh: 波动；起伏；呈波浪形移动
+en: to move gently up and down like waves
+components:
+  - morpheme: unda
+    form: und
+    meaning_in_word: wave
+    zh: 波浪、水波
+    role: root
+    is_core: true
+    note: Surface form undul- comes through Late Latin undula, a diminutive of unda meaning wave.
+  - morpheme: ul
+    form: -ul
+    meaning_in_word: small, wavelet-forming
+    zh: 小的；小型的
+    role: suffix
+    is_core: false
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or become
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - undulation
+word_family_details:
+  - word: undulation
+    en: a smooth rising and falling movement or wavy form
+    zh: 波动；起伏；波状形态
+confusables:
+  - word: inundate
+    reason: undulate 强调波状起伏；inundate 强调水或大量事物涌上来并覆盖、压过来。
+    zh_reason: undulate 强调波状起伏；inundate 强调水或大量事物涌上来并覆盖、压过来。
+examples:
+  - en: The grass undulated in the wind.
+    zh: 草在风中波浪般起伏。
+  - en: The leaf has an undulate margin.
+    zh: 这片叶子的边缘呈波状。
+why_confusing: undulate 强调波状起伏；inundate 强调水或大量事物涌上来并覆盖、压过来。

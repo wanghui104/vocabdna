@@ -11,12 +11,14 @@ components:
     zh: 共同、一起、加强
     role: prefix
     is_core: false
+    note: In Latin concipere, con- is often explained as an intensive or together-with prefix.
   - morpheme: cap
     form: ceive
     meaning_in_word: take in, hold
     zh: 拿、抓、接收
     role: root
     is_core: true
+    note: From Latin concipere, built from con- plus a combining form of capere.
 word_family:
   - conception
   - conceivable

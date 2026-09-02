@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: acute
+word: acute
+pos: adjective
+zh: 灵敏的；敏锐的
+en: very sharp, keen, or perceptive
+components:
+  - morpheme: acut
+    form: acut
+    meaning_in_word: sharp or keen
+    zh: 尖锐、敏锐
+    role: root
+    is_core: true
+word_family:
+  - acumen
+word_family_details:
+  - word: acumen
+    en: quick, sharp judgment or insight
+    zh: 敏锐；聪明
+confusables:
+  - word: chronic
+    reason: 医学中 acute 常和 chronic 对比：急性的 vs 慢性的。
+    zh_reason: 医学中 acute 常和 chronic 对比：急性的 vs 慢性的。
+examples:
+  - en: Dogs have an acute sense of smell.
+    zh: 狗有敏锐的嗅觉。
+  - en: The patient felt acute pain.
+    zh: 病人感到剧烈疼痛。
+why_confusing: 医学中 acute 常和 chronic 对比：急性的 vs 慢性的。

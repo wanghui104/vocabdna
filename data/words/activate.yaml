@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: activate
+word: activate
+pos: verb
+zh: 刺激；使活动；激活
+en: to make something active or start working
+components:
+  - morpheme: act
+    form: act
+    meaning_in_word: do or move
+    zh: 做、驱动
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -iv
+    meaning_in_word: having the nature of
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - actively
+word_family_details:
+  - word: actively
+    en: in a way that involves action, energy, or participation
+    zh: 活跃地；积极地
+confusables:
+  []
+examples:
+  - en: Press the button to activate the alarm.
+    zh: 按下按钮激活警报。
+why_confusing: activate 比 actuate 更常用于系统、账户、功能。

@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: actual
+word: actual
+pos: adjective
+zh: 实际的；现行的
+en: real, existing in fact, or current
+components:
+  - morpheme: act
+    form: act
+    meaning_in_word: done or real
+    zh: 做、驱动
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ual
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - actually
+word_family_details:
+  - word: actually
+    en: in fact or really
+    zh: 实际上；事实上
+confusables:
+  - word: virtual
+    reason: actual 是实际的；virtual 是虚拟的或实质上的。
+    zh_reason: actual 是实际的；virtual 是虚拟的或实质上的。
+examples:
+  - en: The actual cost was lower.
+    zh: 实际成本更低。
+why_confusing: actual 是实际的；virtual 是虚拟的或实质上的。

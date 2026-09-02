@@ -8,12 +8,17 @@ origin: Latin
 source_form: Latin -ens / -ent-
 source_meaning: one who, having the quality of
 source_meaning_zh: ……的人；具有……性质的
+related_morphemes:
+  []
 senses:
   - meaning: one who, that which, having the quality of
     zh: ……的人；具有……性质的
     examples:
       - recipient
       - abundant
+      - abundantly
+      - accidental
+      - accountant
 similar_form:
   []
 similar_meaning:
@@ -21,8 +26,14 @@ similar_meaning:
 patterns:
   - -ient -> recipient
   - -ant -> abundant
+  - -ant -> abundantly
+  - -ent -> accidental
+  - -ant -> accountant
 high_value_words:
   - recipient
   - abundant
+  - abundantly
+  - accidental
+  - accountant
 confusable_words:
   []

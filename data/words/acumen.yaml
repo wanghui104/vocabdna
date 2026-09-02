@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: acumen
+word: acumen
+pos: noun
+zh: 敏锐；聪明
+en: quick, sharp judgment or insight
+components:
+  - morpheme: acut
+    form: acu
+    meaning_in_word: sharp
+    zh: 尖锐、敏锐
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -men
+    meaning_in_word: result or state
+    zh: 行为、结果、状态
+    role: suffix
+    is_core: false
+word_family:
+  - acute
+word_family_details:
+  - word: acute
+    en: very sharp, keen, or perceptive
+    zh: 灵敏的；敏锐的
+confusables:
+  []
+examples:
+  - en: Her business acumen impressed investors.
+    zh: 她的商业敏锐度给投资者留下深刻印象。
+why_confusing: 常见搭配 business acumen。

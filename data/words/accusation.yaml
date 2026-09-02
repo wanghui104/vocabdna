@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accusation
+word: accusation
+pos: noun
+zh: 谴责；控告
+en: a statement that someone has done something wrong
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: caus-cus
+    form: cus
+    meaning_in_word: charge
+    zh: 原因、控诉
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: act or result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - accuse
+word_family_details:
+  - word: accuse
+    en: to say someone is responsible for a wrong act
+    zh: 指责；归咎；控告
+confusables:
+  - word: excuse
+    reason: accusation 是名词；accuse 是动词。
+    zh_reason: accusation 是名词；accuse 是动词。
+examples:
+  - en: The accusation was serious.
+    zh: 这项指控很严重。
+why_confusing: accusation 是名词；accuse 是动词。

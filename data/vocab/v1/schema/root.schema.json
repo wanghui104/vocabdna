@@ -39,6 +39,32 @@
       "type": "string",
       "enum": ["Latin", "Greek", "Old English", "French", "Mixed", "Unknown"]
     },
+    "source": {
+      "type": "object",
+      "required": ["form", "meaning"],
+      "additionalProperties": false,
+      "properties": {
+        "form": {
+          "type": "string"
+        },
+        "meaning": {
+          "type": "object",
+          "required": ["zh", "en"],
+          "additionalProperties": false,
+          "properties": {
+            "zh": {
+              "type": "string"
+            },
+            "en": {
+              "type": "string"
+            }
+          }
+        },
+        "note": {
+          "type": "string"
+        }
+      }
+    },
     "meaning": {
       "type": "object",
       "required": ["zh", "en"],

@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: acidic
+word: acidic
+pos: adjective
+zh: 酸的；酸性的
+en: containing acid or having the qualities of an acid
+components:
+  - morpheme: acid
+    form: acid
+    meaning_in_word: sour
+    zh: 酸、尖锐
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ic
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - acid
+  - acidity
+word_family_details:
+  - word: acid
+    en: a sour chemical substance, or having acid qualities
+    zh: 酸；酸的
+  - word: acidity
+    en: the level or quality of being acidic
+    zh: 酸度；酸性
+confusables:
+  []
+examples:
+  - en: Some soils are acidic.
+    zh: 有些土壤呈酸性。
+why_confusing: acidic 多用于化学、食物、土壤等。

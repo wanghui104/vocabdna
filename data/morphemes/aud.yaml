@@ -5,6 +5,8 @@ type: root
 core_meaning: hear
 zh: 听
 origin: Latin
+related_morphemes:
+  []
 senses:
   - meaning: hear
     zh: 听

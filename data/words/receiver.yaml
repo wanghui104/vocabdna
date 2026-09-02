@@ -17,12 +17,14 @@ components:
     zh: 拿、抓、接收
     role: root
     is_core: true
+    note: English receive plus agent suffix.
   - morpheme: or
     form: -er
     meaning_in_word: person or thing that does
     zh: 做……的人或物
     role: suffix
     is_core: false
+    note: Using the existing agent suffix entry; receiver is the one/thing that receives.
 word_family:
   - receive
   - reception

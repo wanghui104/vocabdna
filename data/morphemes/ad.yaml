@@ -5,6 +5,8 @@ type: prefix
 core_meaning: to, toward
 zh: 去、向、靠近
 origin: Latin
+related_morphemes:
+  []
 senses:
   - meaning: to, toward
     zh: 去、向、靠近
@@ -19,6 +21,30 @@ senses:
       - accessible
       - accessibility
       - accessory
+      - accidental
+      - accident
+      - acclaim
+      - acclaimed
+      - accommodate
+      - accommodating
+      - accompany
+      - accompanying
+      - accomplish
+      - accomplished
+      - accomplishment
+      - account
+      - accredit
+      - accumulate
+      - accumulation
+      - accurate
+      - accuracy
+      - accuse
+      - accusation
+      - accustomed
+      - achieve
+      - acquaint
+      - acquisition
+      - acquire
 similar_form:
   []
 similar_meaning:
@@ -34,6 +60,30 @@ patterns:
   - ac- -> accessible
   - ac- -> accessibility
   - ac- -> accessory
+  - ac- -> accidental
+  - ac- -> accident
+  - ac- -> acclaim
+  - ac- -> acclaimed
+  - ac- -> accommodate
+  - ac- -> accommodating
+  - ac- -> accompany
+  - ac- -> accompanying
+  - ac- -> accomplish
+  - ac- -> accomplished
+  - ac- -> accomplishment
+  - ac- -> account
+  - ac- -> accredit
+  - ac- -> accumulate
+  - ac- -> accumulation
+  - ac- -> accurate
+  - ac- -> accuracy
+  - ac- -> accuse
+  - ac- -> accusation
+  - ac- -> accustomed
+  - a- -> achieve
+  - ac- -> acquaint
+  - ac- -> acquisition
+  - ac- -> acquire
 high_value_words:
   - avert
   - abut
@@ -45,5 +95,29 @@ high_value_words:
   - accessible
   - accessibility
   - accessory
+  - accidental
+  - accident
+  - acclaim
+  - acclaimed
+  - accommodate
+  - accommodating
+  - accompany
+  - accompanying
+  - accomplish
+  - accomplished
+  - accomplishment
+  - account
+  - accredit
+  - accumulate
+  - accumulation
+  - accurate
+  - accuracy
+  - accuse
+  - accusation
+  - accustomed
+  - achieve
+  - acquaint
+  - acquisition
+  - acquire
 confusable_words:
   []

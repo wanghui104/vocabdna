@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: account
+word: account
+pos: noun/verb
+zh: 说明；解释
+en: a description or explanation of events
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: count
+    form: count
+    meaning_in_word: count or reckon
+    zh: 计算、说明
+    role: root
+    is_core: true
+word_family:
+  - accounting
+  - accountant
+word_family_details:
+  - word: accounting
+    en: the system or work of recording financial information
+    zh: 会计学
+  - word: accountant
+    en: a person whose job is to keep or inspect financial accounts
+    zh: 会计员；会计师
+confusables:
+  - word: count
+    reason: account for 表示解释原因。
+    zh_reason: account for 表示解释原因。
+examples:
+  - en: Her account of the trip was detailed.
+    zh: 她对旅行的叙述很详细。
+  - en: I opened a new bank account.
+    zh: 我开了一个新的银行账户。
+why_confusing: account for 表示解释原因。

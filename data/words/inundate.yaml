@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inundate
+word: inundate
+pos: verb
+zh: 淹没；泛滥
+en: to cover a place with floodwater
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: onto, over
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+  - morpheme: unda
+    form: unda
+    meaning_in_word: wave, flow in waves
+    zh: 波浪、水波
+    role: root
+    is_core: true
+    note: From Latin inundare = in- (onto/over) + undare, from unda meaning wave.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or cause to be
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - inundation
+word_family_details:
+  - word: inundation
+    en: a flood, or an overwhelming flow of something
+    zh: 洪水；泛滥；大量涌入
+confusables:
+  - word: undulate
+    reason: inundate 常用被动 be inundated with 表示被大量信息、请求、电话等压过来；这里的 in- 不是否定前缀。
+    zh_reason: inundate 常用被动 be inundated with 表示被大量信息、请求、电话等压过来；这里的 in- 不是否定前缀。
+examples:
+  - en: Heavy rain inundated the low-lying fields.
+    zh: 暴雨淹没了低洼的田地。
+  - en: The office was inundated with calls after the announcement.
+    zh: 公告发布后，办公室被电话淹没了。
+why_confusing: inundate 常用被动 be inundated with 表示被大量信息、请求、电话等压过来；这里的 in- 不是否定前缀。

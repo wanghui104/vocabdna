@@ -7,6 +7,8 @@ export type WordComponent = {
   zh: string;
   role: string;
   is_core?: boolean;
+  note?: string;
+  related_morphemes?: string[];
 };
 
 export type WordEntry = {
@@ -34,11 +36,13 @@ export type MorphemeEntry = {
   source_form?: string;
   source_meaning?: string;
   source_meaning_zh?: string;
+  source_note?: string;
   senses: Array<{ meaning: string; zh: string; examples: string[] }>;
   similar_form: string[];
   similar_meaning: string[];
   patterns: string[];
   high_value_words?: string[];
+  related_morphemes: string[];
   confusable_words?: string[];
 };
 
@@ -183,6 +187,9 @@ function normalizeWord(record: RawRecord): WordEntry {
       role: asString(component.role),
       is_core:
         typeof component.is_core === 'boolean' ? component.is_core : undefined,
+      note:
+        typeof component.note === 'string' ? component.note : undefined,
+      related_morphemes: asArray<string>(component.related_morphemes).map(String),
     })),
     word_family: asArray<string>(record.word_family).map(String),
     word_family_details: asArray<RawRecord>(record.word_family_details).map(
@@ -225,6 +232,8 @@ function normalizeMorpheme(record: RawRecord): MorphemeEntry {
       typeof record.source_meaning_zh === 'string'
         ? record.source_meaning_zh
         : undefined,
+    source_note:
+      typeof record.source_note === 'string' ? record.source_note : undefined,
     senses: asArray<RawRecord>(record.senses).map((sense) => ({
       meaning: asString(sense.meaning),
       zh: asString(sense.zh),
@@ -234,6 +243,7 @@ function normalizeMorpheme(record: RawRecord): MorphemeEntry {
     similar_meaning: asArray<string>(record.similar_meaning).map(String),
     patterns: asArray<string>(record.patterns).map(String),
     high_value_words: asArray<string>(record.high_value_words).map(String),
+    related_morphemes: asArray<string>(record.related_morphemes).map(String),
     confusable_words: asArray<string>(record.confusable_words).map(String),
   };
 }

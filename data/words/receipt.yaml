@@ -17,6 +17,7 @@ components:
     zh: 拿、抓、接收
     role: root
     is_core: true
+    note: The restored written p points back to Latin recipere/recepta, though it is silent in modern pronunciation.
 word_family:
   - receive
   - reception

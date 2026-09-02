@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accurate
+word: accurate
+pos: adjective
+zh: 准确的；正确的
+en: correct, exact, and free from error
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: cur-care
+    form: cur
+    meaning_in_word: care
+    zh: 小心、照料
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: having the quality of
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - accuracy
+word_family_details:
+  - word: accuracy
+    en: the quality of being correct or exact
+    zh: 准确性；正确性
+confusables:
+  - word: precise
+    reason: accurate 是准确；precise 是精确，二者可重叠但不完全一样。
+    zh_reason: accurate 是准确；precise 是精确，二者可重叠但不完全一样。
+examples:
+  - en: The map is accurate.
+    zh: 这张地图很准确。
+why_confusing: accurate 是准确；precise 是精确，二者可重叠但不完全一样。

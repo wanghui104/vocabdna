@@ -1,0 +1,49 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accidental
+word: accidental
+pos: adjective
+zh: 意外的；偶然的
+en: happening by chance and not planned
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: cad-cid-cas
+    form: cid
+    meaning_in_word: fall or happen
+    zh: 落下、发生
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having the quality of
+    zh: ……的人；具有……性质的
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - accident
+  - accidentally
+word_family_details:
+  - word: accident
+    en: an unexpected event, often causing damage or injury
+    zh: 意外事件；事故
+  - word: accidentally
+    en: in a way that was not planned or intended
+    zh: 意外地；偶然地
+confusables:
+  - word: incidental
+    reason: accidental 是偶然的；incidental 是附带的。
+    zh_reason: accidental 是偶然的；incidental 是附带的。
+examples:
+  - en: The discovery was accidental.
+    zh: 这个发现是偶然的。
+why_confusing: accidental 是偶然的；incidental 是附带的。

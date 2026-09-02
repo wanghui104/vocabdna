@@ -17,6 +17,7 @@ components:
     zh: 看
     role: combining_form
     is_core: true
+    note: scope root can be split later if more scope words are added
 word_family:
   - microscopic
 word_family_details:

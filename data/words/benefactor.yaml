@@ -23,6 +23,7 @@ components:
     zh: 做、制造
     role: suffix
     is_core: false
+    note: agent suffix placeholder until suffix catalog is expanded
 word_family:
   - benefaction
 word_family_details:

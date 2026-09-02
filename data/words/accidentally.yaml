@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accidentally
+word: accidentally
+pos: adverb
+zh: 意外地；偶然地
+en: in a way that was not planned or intended
+components:
+  - morpheme: cad-cid-cas
+    form: accidental
+    meaning_in_word: by chance
+    zh: 落下、发生
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - accident
+  - accidental
+word_family_details:
+  - word: accident
+    en: an unexpected event, often causing damage or injury
+    zh: 意外事件；事故
+  - word: accidental
+    en: happening by chance and not planned
+    zh: 意外的；偶然的
+confusables:
+  []
+examples:
+  - en: I accidentally deleted the file.
+    zh: 我不小心删除了文件。
+why_confusing: 口语里可表示不小心。

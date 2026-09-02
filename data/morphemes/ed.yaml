@@ -8,12 +8,17 @@ origin: Old English
 source_form: Old English -ed
 source_meaning: past-participle suffix
 source_meaning_zh: 过去分词后缀
+related_morphemes:
+  []
 senses:
   - meaning: past or completed
     zh: 已经……的
     examples:
       - abandoned
       - accelerated
+      - acclaimed
+      - accomplished
+      - accustomed
 similar_form:
   []
 similar_meaning:
@@ -21,8 +26,14 @@ similar_meaning:
 patterns:
   - -ed -> abandoned
   - -ed -> accelerated
+  - -ed -> acclaimed
+  - -ed -> accomplished
+  - -ed -> accustomed
 high_value_words:
   - abandoned
   - accelerated
+  - acclaimed
+  - accomplished
+  - accustomed
 confusable_words:
   []

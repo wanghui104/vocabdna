@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: count
+display: count
+type: root
+core_meaning: count, reckon, explain
+zh: 计算、说明
+origin: Latin
+source_form: Latin computare
+source_meaning: calculate, reckon
+source_meaning_zh: 计算
+related_morphemes:
+  []
+senses:
+  - meaning: count, reckon, explain
+    zh: 计算、说明
+    examples:
+      - account
+      - on account of
+      - take account of
+      - take into account
+      - accounting
+      - accountant
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - count -> account
+  - account -> on account of
+  - account -> take account of
+  - account -> take into account
+  - account -> accounting
+  - account -> accountant
+high_value_words:
+  - account
+  - on account of
+  - take account of
+  - take into account
+  - accounting
+  - accountant
+confusable_words:
+  []

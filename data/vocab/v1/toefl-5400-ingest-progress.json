@@ -1,0 +1,21 @@
+{
+  "workbook": "_appendix/NewOriental_TOEFL_5400.xlsx",
+  "batchTargetRows": 50,
+  "completedThroughSheet": "1-1000",
+  "completedThroughRow": 105,
+  "completedThroughNo": 94,
+  "nextStartSheet": "1-1000",
+  "nextStartRow": 106,
+  "nextStartNo": 95,
+  "lastBatch": {
+    "sheet": "1-1000",
+    "startRow": 55,
+    "endRow": 105,
+    "excelRowsCovered": 51,
+    "logicalWordsProcessed": 45,
+    "firstWord": "accidental",
+    "lastWord": "acumen",
+    "commit": null
+  },
+  "updatedAt": "2026-09-01"
+}

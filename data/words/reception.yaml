@@ -17,6 +17,7 @@ components:
     zh: 拿、抓、接收
     role: root
     is_core: true
+    note: From Latin receptio/receptus, built on recipere/capere.
   - morpheme: ion
     form: -ion
     meaning_in_word: act, process, result

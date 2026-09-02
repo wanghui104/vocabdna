@@ -17,6 +17,7 @@ components:
     zh: 听
     role: suffix
     is_core: false
+    note: suffix placeholder until suffix catalog is expanded
 word_family:
   - audibility
 word_family_details:

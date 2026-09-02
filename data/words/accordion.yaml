@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accordion
+word: accordion
+pos: noun
+zh: 手风琴
+en: a musical instrument with bellows and keys or buttons
+components:
+  - morpheme: cord
+    form: accord
+    meaning_in_word: agreement or harmony
+    zh: 心、一致
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: thing or result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: He played the accordion at the festival.
+    zh: 他在节日上演奏手风琴。
+why_confusing: 这是乐器名，词根教学只做辅助记忆。

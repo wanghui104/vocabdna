@@ -8,6 +8,10 @@ origin: Latin
 source_form: Latin abundare
 source_meaning: overflow, abound
 source_meaning_zh: 溢出、丰富
+source_note: Latin abundare is formed from ab- plus undare, from unda meaning wave; the image is water rising and flowing away or over.
+related_morphemes:
+  - ab
+  - unda
 senses:
   - meaning: overflow, be plentiful
     zh: 涌出、丰富
@@ -23,7 +27,7 @@ similar_meaning:
 patterns:
   - abund -> abound
   - abund -> abundant
-  - abundant -> abundantly
+  - abund -> abundantly
   - abund -> abundance
 high_value_words:
   - abound

@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accomplishment
+word: accomplishment
+pos: noun
+zh: 成就
+en: something successfully completed or achieved
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: con
+    form: com-
+    meaning_in_word: completely
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: ple-plen-plet
+    form: plish
+    meaning_in_word: complete
+    zh: 填满、完成
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result
+    zh: 行为、结果、状态
+    role: suffix
+    is_core: false
+word_family:
+  - accomplish
+  - accomplished
+word_family_details:
+  - word: accomplish
+    en: to complete or achieve something successfully
+    zh: 完成；达到；实现
+  - word: accomplished
+    en: highly skilled, or completed
+    zh: 精通的；熟练的
+confusables:
+  []
+examples:
+  - en: Graduation was a major accomplishment.
+    zh: 毕业是一项重大成就。
+why_confusing: accomplishment 可指成就，也可指技能。

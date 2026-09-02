@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: acidity
+word: acidity
+pos: noun
+zh: 酸度；酸性
+en: the level or quality of being acidic
+components:
+  - morpheme: acid
+    form: acid
+    meaning_in_word: sour
+    zh: 酸、尖锐
+    role: root
+    is_core: true
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: quality or state
+    zh: 性质、状态
+    role: suffix
+    is_core: false
+word_family:
+  - acid
+  - acidic
+word_family_details:
+  - word: acid
+    en: a sour chemical substance, or having acid qualities
+    zh: 酸；酸的
+  - word: acidic
+    en: containing acid or having the qualities of an acid
+    zh: 酸的；酸性的
+confusables:
+  []
+examples:
+  - en: The test measures water acidity.
+    zh: 这项测试测量水的酸度。
+why_confusing: 可指化学酸度，也可指食物酸味。

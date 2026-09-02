@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: actively
+word: actively
+pos: adverb
+zh: 活跃地；积极地
+en: in a way that involves action, energy, or participation
+components:
+  - morpheme: act
+    form: act
+    meaning_in_word: do
+    zh: 做、驱动
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having the nature of
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - activate
+word_family_details:
+  - word: activate
+    en: to make something active or start working
+    zh: 刺激；使活动；激活
+confusables:
+  []
+examples:
+  - en: Students actively discussed the problem.
+    zh: 学生们积极讨论了这个问题。
+why_confusing: active 本身未在本批 Excel 行中，后续可按需要补充。

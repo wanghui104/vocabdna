@@ -8,12 +8,16 @@ origin: Latin
 source_form: Latin -entia / -antia
 source_meaning: state, quality
 source_meaning_zh: 状态、性质
+related_morphemes:
+  []
 senses:
   - meaning: state, quality
     zh: 状态、性质
     examples:
       - absence
       - abundance
+      - acquaintance
+      - conference
 similar_form:
   []
 similar_meaning:
@@ -21,8 +25,12 @@ similar_meaning:
 patterns:
   - -ence -> absence
   - -ance -> abundance
+  - -ance -> acquaintance
+  - -ence -> conference
 high_value_words:
   - absence
   - abundance
+  - acquaintance
+  - conference
 confusable_words:
   []

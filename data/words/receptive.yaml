@@ -17,6 +17,7 @@ components:
     zh: 拿、抓、接收
     role: root
     is_core: true
+    note: From Latin receptus/recipere, from capere.
   - morpheme: ive
     form: -ive
     meaning_in_word: having the nature of, tending to

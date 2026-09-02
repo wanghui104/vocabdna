@@ -8,6 +8,8 @@ origin: French
 source_form: French -e
 source_meaning: person affected by an action
 source_meaning_zh: 动作接受者
+related_morphemes:
+  []
 senses:
   - meaning: person affected by an action
     zh: 接受动作的人

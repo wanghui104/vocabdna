@@ -11,6 +11,7 @@ components:
     zh: 去、向、靠近
     role: prefix
     is_core: false
+    note: historical form from ab/ad group; to refine later
   - morpheme: vert
     form: vert
     meaning_in_word: turn

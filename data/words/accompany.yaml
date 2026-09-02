@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accompany
+word: accompany
+pos: verb
+zh: 陪伴；伴随；伴奏
+en: to go with someone or occur together with something
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: compan-pan
+    form: company
+    meaning_in_word: companion
+    zh: 陪伴、同伴
+    role: root
+    is_core: true
+word_family:
+  - accompanying
+  - accompaniment
+word_family_details:
+  - word: accompanying
+    en: happening or provided together with something
+    zh: 陪伴的；伴随的
+  - word: accompaniment
+    en: music played to support a main part, or something that goes with another thing
+    zh: 伴奏；伴随物
+confusables:
+  - word: company
+    reason: accompany 可指人陪伴，也可指音乐伴奏。
+    zh_reason: accompany 可指人陪伴，也可指音乐伴奏。
+examples:
+  - en: A guide will accompany the group.
+    zh: 一名导游将陪同这个团队。
+why_confusing: accompany 可指人陪伴，也可指音乐伴奏。

@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accompaniment
+word: accompaniment
+pos: noun
+zh: 伴奏；伴随物
+en: music played to support a main part, or something that goes with another thing
+components:
+  - morpheme: compan-pan
+    form: accompany
+    meaning_in_word: go with
+    zh: 陪伴、同伴
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: act or result
+    zh: 行为、结果、状态
+    role: suffix
+    is_core: false
+word_family:
+  - accompany
+  - accompanying
+word_family_details:
+  - word: accompany
+    en: to go with someone or occur together with something
+    zh: 陪伴；伴随；伴奏
+  - word: accompanying
+    en: happening or provided together with something
+    zh: 陪伴的；伴随的
+confusables:
+  []
+examples:
+  - en: The piano provided the accompaniment.
+    zh: 钢琴提供了伴奏。
+why_confusing: 音乐中最常见是“伴奏”。

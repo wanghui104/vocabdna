@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: on-account-of
+word: on account of
+pos: phrase
+zh: 由于；因为
+en: because of something
+components:
+  - morpheme: count
+    form: account
+    meaning_in_word: reason or explanation
+    zh: 计算、说明
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: because-of
+    reason: 较正式，可用 because of 替换。
+    zh_reason: 较正式，可用 because of 替换。
+examples:
+  - en: The match was delayed on account of rain.
+    zh: 比赛因下雨而推迟。
+why_confusing: 较正式，可用 because of 替换。

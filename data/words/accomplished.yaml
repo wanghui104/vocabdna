@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accomplished
+word: accomplished
+pos: adjective
+zh: 精通的；熟练的
+en: highly skilled, or completed
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: con
+    form: com-
+    meaning_in_word: completely
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: ple-plen-plet
+    form: plish
+    meaning_in_word: complete
+    zh: 填满、完成
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: completed state
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - accomplish
+  - accomplishment
+word_family_details:
+  - word: accomplish
+    en: to complete or achieve something successfully
+    zh: 完成；达到；实现
+  - word: accomplishment
+    en: something successfully completed or achieved
+    zh: 成就
+confusables:
+  []
+examples:
+  - en: She is an accomplished pianist.
+    zh: 她是一位技艺娴熟的钢琴家。
+why_confusing: 作形容词常表示有造诣的。

@@ -8,18 +8,32 @@ origin: Latin
 source_form: Latin -mentum
 source_meaning: means or result of an action
 source_meaning_zh: 行为或结果
+related_morphemes:
+  []
 senses:
   - meaning: act, result, state
     zh: 行为、结果、状态
     examples:
       - abandonment
+      - accompaniment
+      - accomplishment
+      - achievement
+      - acumen
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - -ment -> abandonment
+  - -ment -> accompaniment
+  - -ment -> accomplishment
+  - -ment -> achievement
+  - -men -> acumen
 high_value_words:
   - abandonment
+  - accompaniment
+  - accomplishment
+  - achievement
+  - acumen
 confusable_words:
   []

@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: acclaim
+word: acclaim
+pos: noun/verb
+zh: 赞誉；喝彩；称赞
+en: public praise, or to praise enthusiastically
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: claim-clam
+    form: claim
+    meaning_in_word: cry out
+    zh: 呼喊、宣称
+    role: root
+    is_core: true
+word_family:
+  - acclaimed
+word_family_details:
+  - word: acclaimed
+    en: publicly praised and admired
+    zh: 受人欢迎的；备受赞誉的
+confusables:
+  - word: claim
+    reason: acclaim 是赞誉；claim 是声称或要求。
+    zh_reason: acclaim 是赞誉；claim 是声称或要求。
+examples:
+  - en: The film won critical acclaim.
+    zh: 这部电影赢得评论界赞誉。
+why_confusing: acclaim 是赞誉；claim 是声称或要求。

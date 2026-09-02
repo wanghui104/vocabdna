@@ -8,6 +8,8 @@ origin: Latin
 source_form: Latin -itas
 source_meaning: quality, state
 source_meaning_zh: 性质、状态
+related_morphemes:
+  []
 senses:
   - meaning: quality, state
     zh: 性质、状态
@@ -18,6 +20,7 @@ senses:
       - viability
       - variability
       - accessibility
+      - acidity
 similar_form:
   []
 similar_meaning:
@@ -29,6 +32,7 @@ patterns:
   - -ity -> viability
   - -ity -> variability
   - -ity -> accessibility
+  - -ity -> acidity
 high_value_words:
   - ability
   - inability
@@ -36,5 +40,6 @@ high_value_words:
   - viability
   - variability
   - accessibility
+  - acidity
 confusable_words:
   []

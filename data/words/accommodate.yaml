@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accommodate
+word: accommodate
+pos: verb
+zh: 提供食宿；适应；容纳
+en: to provide space or lodging, or to adjust to fit a need
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: commod
+    form: commod
+    meaning_in_word: suitable
+    zh: 合适、便利
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - accommodating
+word_family_details:
+  - word: accommodating
+    en: willing to help or adjust to others' needs
+    zh: 乐于助人的；通融的
+confusables:
+  - word: adapt
+    reason: accommodate 拼写有 double c, double m。
+    zh_reason: accommodate 拼写有 double c, double m。
+examples:
+  - en: The hotel can accommodate 200 guests.
+    zh: 这家酒店可容纳 200 位客人。
+why_confusing: accommodate 拼写有 double c, double m。

@@ -352,6 +352,44 @@ body {
     @apply space-y-1 text-sm leading-6 text-muted-foreground;
   }
 
+  .pattern-list {
+    @apply m-0 list-disc space-y-2 pl-5 text-muted-foreground;
+  }
+
+  .pattern-row {
+    @apply pl-1 text-sm leading-7;
+  }
+
+  .pattern-row::marker {
+    @apply text-muted-foreground;
+  }
+
+  .pattern-form {
+    @apply mr-2 font-semibold text-foreground;
+  }
+
+  .pattern-arrow {
+    @apply mr-2 text-muted-foreground;
+  }
+
+  .pattern-families {
+    @apply inline-flex flex-wrap items-center gap-2 align-middle;
+  }
+
+  .pattern-family {
+    @apply inline-flex flex-wrap items-center gap-0 rounded-sm border border-border bg-transparent px-2 py-0.5 align-middle;
+  }
+
+  .pattern-comma {
+    @apply mr-1.5 text-muted-foreground;
+  }
+
+
+  .pattern-family .inline-word-static {
+    @apply inline w-auto text-left;
+  }
+
+
   .comparison-row {
     @apply grid gap-1 rounded-md border border-border bg-secondary/35 p-3 sm:grid-cols-[160px_minmax(0,1fr)];
   }
@@ -387,5 +425,48 @@ body {
   .dna-table td {
     @apply whitespace-normal break-words border-b border-border px-3 py-2 align-top leading-6 last:text-muted-foreground;
     overflow-wrap: anywhere;
+  }
+
+  .dna-subrow td {
+    @apply text-muted-foreground;
+  }
+
+  .dna-subform {
+    @apply relative block pl-6;
+  }
+
+  .dna-subform::before {
+    content: "";
+    position: absolute;
+    left: 0.5rem;
+    top: 0.72em;
+    width: 0.375rem;
+    height: 0.375rem;
+    border-radius: 9999px;
+    background: color-mix(in srgb, currentColor 48%, transparent);
+  }
+
+  .dna-note {
+    @apply mt-1 block text-xs leading-5 text-muted-foreground;
+  }
+
+  .dna-source-note {
+    @apply mt-3 text-xs leading-5 text-muted-foreground;
+  }
+
+  .root-layer-panel {
+    @apply bg-secondary/30;
+  }
+
+  .root-layer-summary {
+    @apply mb-2 flex cursor-pointer list-none items-center gap-2 text-sm font-semibold text-primary;
+  }
+
+  .root-layer-summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .root-layer-type {
+    @apply rounded-sm border border-border px-1.5 py-0.5 text-[10px] uppercase text-muted-foreground;
   }
 }

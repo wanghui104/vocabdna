@@ -17,6 +17,7 @@ components:
     zh: 拿、抓、接收
     role: root
     is_core: true
+    note: From Latin recipiens/recipient-, present participle of recipere.
   - morpheme: ent
     form: -ient
     meaning_in_word: one who, that which

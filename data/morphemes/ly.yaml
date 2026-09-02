@@ -8,12 +8,17 @@ origin: Old English
 source_form: Old English -lice
 source_meaning: in the manner of
 source_meaning_zh: 以……方式
+related_morphemes:
+  []
 senses:
   - meaning: in the manner of
     zh: 以……方式地
     examples:
       - absolutely
       - abundantly
+      - accidentally
+      - actually
+      - actively
 similar_form:
   []
 similar_meaning:
@@ -21,8 +26,14 @@ similar_meaning:
 patterns:
   - -ly -> absolutely
   - -ly -> abundantly
+  - -ly -> accidentally
+  - -ly -> actually
+  - -ly -> actively
 high_value_words:
   - absolutely
   - abundantly
+  - accidentally
+  - actually
+  - actively
 confusable_words:
   []

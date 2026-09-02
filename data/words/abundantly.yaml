@@ -6,11 +6,21 @@ zh: 丰富地
 en: in a plentiful or very clear way
 components:
   - morpheme: abund
-    form: abundant
-    meaning_in_word: plentiful
+    form: abund
+    meaning_in_word: overflow
     zh: 涌出、丰富
     role: root
     is_core: true
+    note: Surface stem from Latin abundare; deeper layer: ab- (away/from) + unda (wave).
+    related_morphemes:
+      - ab
+      - unda
+  - morpheme: ent
+    form: -ant
+    meaning_in_word: having the quality of
+    zh: ……的人；具有……性质的
+    role: suffix
+    is_core: false
   - morpheme: ly
     form: -ly
     meaning_in_word: in the manner of

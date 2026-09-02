@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accredit
+word: accredit
+pos: verb
+zh: 授权；认可
+en: to officially recognize, authorize, or certify
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: cred
+    form: credit
+    meaning_in_word: trust
+    zh: 相信、信用
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: credit
+    reason: accredit 强调正式认可或授权。
+    zh_reason: accredit 强调正式认可或授权。
+examples:
+  - en: The agency accredits universities.
+    zh: 该机构认证大学。
+why_confusing: accredit 强调正式认可或授权。

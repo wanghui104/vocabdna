@@ -187,12 +187,23 @@ why_confusing: ${plain(word.learning.watchOut)}
 function formatWordComponent(morpheme, rootsById) {
   const morphemeId = stripRootPrefix(morpheme.rootId);
   const root = rootsById.get(morpheme.rootId);
-  return `  - morpheme: ${plain(morphemeId)}
+  const relatedMorphemeIds = (root?.relatedRootIds ?? []).map(stripRootPrefix);
+  const lines = [`  - morpheme: ${plain(morphemeId)}
     form: ${plain(formatMorphemeForm(morpheme))}
     meaning_in_word: ${plain(morpheme.meaning)}
     zh: ${plain(root?.meaning?.zh ?? morpheme.meaning)}
     role: ${plain(formatRole(morpheme.type))}
-    is_core: ${morpheme.type === "root" || morpheme.type === "combiningForm"}`;
+    is_core: ${morpheme.type === "root" || morpheme.type === "combiningForm"}`];
+
+  if (morpheme.note) {
+    lines.push(`    note: ${plain(morpheme.note)}`);
+  }
+  if (relatedMorphemeIds.length) {
+    lines.push(`    related_morphemes:
+${formatStringArray(relatedMorphemeIds, 6)}`);
+  }
+
+  return lines.join("\n");
 }
 
 function formatMorphemeForm(morpheme) {
@@ -259,11 +270,31 @@ function formatExamples(examples) {
     .join("\n");
 }
 
+function formatSourceFields(source) {
+  if (!source?.form) {
+    return "";
+  }
+
+  const lines = [`source_form: ${plain(source.form)}`];
+  if (source.meaning?.en) {
+    lines.push(`source_meaning: ${plain(source.meaning.en)}`);
+  }
+  if (source.meaning?.zh) {
+    lines.push(`source_meaning_zh: ${plain(source.meaning.zh)}`);
+  }
+  if (source.note) {
+    lines.push(`source_note: ${plain(source.note)}`);
+  }
+
+  return `${lines.join("\n")}\n`;
+}
+
 function buildMorphemeYaml(root, linkedWords) {
   const id = stripRootPrefix(root.id);
   const display = formatRootDisplay(root);
   const linkedWordLabels = linkedWords.map((word) => word.term);
   const patterns = linkedWords.map((word) => formatPattern(root, word));
+  const relatedMorphemeIds = (root.relatedRootIds ?? []).map(stripRootPrefix);
 
   return `${generatedHeader}
 id: ${plain(id)}
@@ -272,6 +303,8 @@ type: ${plain(formatRootType(root.type))}
 core_meaning: ${plain(root.meaning.en)}
 zh: ${plain(root.meaning.zh)}
 origin: ${plain(root.origin)}
+${formatSourceFields(root.source)}related_morphemes:
+${formatStringArray(relatedMorphemeIds)}
 senses:
   - meaning: ${plain(root.meaning.en)}
     zh: ${plain(root.meaning.zh)}
@@ -313,7 +346,7 @@ function formatPattern(root, word) {
     .filter((morpheme) => morpheme.rootId === root.id)
     .map((morpheme) => formatMorphemeForm(morpheme))
     .join(" / ");
-  return `${forms || root.forms[0]} -> ${word.term}`;
+  return `${forms || formatRootDisplay(root)} -> ${word.term}`;
 }
 
 function stripRootPrefix(id) {

@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accuracy
+word: accuracy
+pos: noun
+zh: 准确性；正确性
+en: the quality of being correct or exact
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: cur-care
+    form: cur
+    meaning_in_word: care
+    zh: 小心、照料
+    role: root
+    is_core: true
+  - morpheme: cy
+    form: -acy
+    meaning_in_word: quality
+    zh: 性质、状态
+    role: suffix
+    is_core: false
+word_family:
+  - accurate
+word_family_details:
+  - word: accurate
+    en: correct, exact, and free from error
+    zh: 准确的；正确的
+confusables:
+  - word: precision
+    reason: accuracy 偏正确性；precision 偏精密一致。
+    zh_reason: accuracy 偏正确性；precision 偏精密一致。
+examples:
+  - en: The instrument's accuracy is high.
+    zh: 这台仪器的准确性很高。
+why_confusing: accuracy 偏正确性；precision 偏精密一致。

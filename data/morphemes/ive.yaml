@@ -8,6 +8,8 @@ origin: Latin
 source_form: Latin -ivus
 source_meaning: having the nature of
 source_meaning_zh: 具有……性质的
+related_morphemes:
+  []
 senses:
   - meaning: having the nature of, tending to
     zh: 具有……性质的；倾向于……的
@@ -16,6 +18,8 @@ senses:
       - competitive
       - receptive
       - abrasive
+      - activate
+      - actively
 similar_form:
   []
 similar_meaning:
@@ -25,10 +29,14 @@ patterns:
   - -ive -> competitive
   - -ive -> receptive
   - -ive -> abrasive
+  - -iv -> activate
+  - -ive -> actively
 high_value_words:
   - inductive
   - competitive
   - receptive
   - abrasive
+  - activate
+  - actively
 confusable_words:
   []

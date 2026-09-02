@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: accompanying
+word: accompanying
+pos: adjective
+zh: 陪伴的；伴随的
+en: happening or provided together with something
+components:
+  - morpheme: ad
+    form: ac-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: compan-pan
+    form: company
+    meaning_in_word: companion
+    zh: 陪伴、同伴
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: related ongoing quality
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - accompany
+  - accompaniment
+word_family_details:
+  - word: accompany
+    en: to go with someone or occur together with something
+    zh: 陪伴；伴随；伴奏
+  - word: accompaniment
+    en: music played to support a main part, or something that goes with another thing
+    zh: 伴奏；伴随物
+confusables:
+  []
+examples:
+  - en: Read the accompanying notes.
+    zh: 请阅读随附说明。
+why_confusing: 常用于 accompanying documents/notes。

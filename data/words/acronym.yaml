@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: acronym
+word: acronym
+pos: noun
+zh: 首字母缩写词
+en: a word formed from the first letters of several words
+components:
+  - morpheme: acro
+    form: acro-
+    meaning_in_word: tip or beginning
+    zh: 顶端、开头
+    role: combining_form
+    is_core: true
+  - morpheme: onym
+    form: onym-
+    meaning_in_word: name
+    zh: 名字
+    role: combining_form
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: initialism
+    reason: acronym 常可读成词；initialism 通常逐字母读。
+    zh_reason: acronym 常可读成词；initialism 通常逐字母读。
+examples:
+  - en: NASA is a famous acronym.
+    zh: NASA 是一个著名的首字母缩写词。
+why_confusing: acronym 常可读成词；initialism 通常逐字母读。

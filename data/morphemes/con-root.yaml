@@ -9,6 +9,8 @@ source_form: Latin com-/con-
 source_meaning: with, together
 source_meaning_zh: 共同、一起
 source_note: Assimilated Latin prefix forms include com-, con-, col-, cor-, and co-.
+related_morphemes:
+  []
 senses:
   - meaning: with, together
     zh: 共同、一起、加强
@@ -23,6 +25,11 @@ senses:
       - competition
       - competitive
       - competitor
+      - accomplish
+      - accomplished
+      - accomplishment
+      - confer
+      - conference
 similar_form:
   []
 similar_meaning:
@@ -38,6 +45,11 @@ patterns:
   - com- -> competition
   - com- -> competitive
   - com- -> competitor
+  - com- -> accomplish
+  - com- -> accomplished
+  - com- -> accomplishment
+  - con- -> confer
+  - con- -> conference
 high_value_words:
   - conceivable
   - conceive
@@ -49,5 +61,10 @@ high_value_words:
   - competition
   - competitive
   - competitor
+  - accomplish
+  - accomplished
+  - accomplishment
+  - confer
+  - conference
 confusable_words:
   []

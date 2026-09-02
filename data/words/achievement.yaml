@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: achievement
+word: achievement
+pos: noun
+zh: 成就；功绩
+en: something important that someone has succeeded in doing
+components:
+  - morpheme: chief-achieve
+    form: achieve
+    meaning_in_word: reach a goal
+    zh: 头、终点、完成
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result
+    zh: 行为、结果、状态
+    role: suffix
+    is_core: false
+word_family:
+  - achieve
+word_family_details:
+  - word: achieve
+    en: to succeed in reaching a goal or result
+    zh: 完成；实现
+confusables:
+  []
+examples:
+  - en: The award recognized his achievement.
+    zh: 这个奖项表彰了他的成就。
+why_confusing: achievement 更强调取得的成果。

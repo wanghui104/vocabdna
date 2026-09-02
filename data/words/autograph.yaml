@@ -11,6 +11,7 @@ components:
     zh: 写、记录
     role: combining_form
     is_core: true
+    note: auto root to be added if pilot expands self-family words
   - morpheme: graph
     form: graph-
     meaning_in_word: write

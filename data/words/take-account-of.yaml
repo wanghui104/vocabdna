@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: take-account-of
+word: take account of
+pos: phrase
+zh: 考虑到；体谅
+en: to consider something when judging or deciding
+components:
+  - morpheme: count
+    form: account
+    meaning_in_word: consideration
+    zh: 计算、说明
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The plan must take account of local needs.
+    zh: 这个计划必须考虑当地需求。
+why_confusing: 和 take into account 意思接近。

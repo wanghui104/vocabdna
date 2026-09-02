@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: quaint-cogn
+display: quaint
+type: root
+core_meaning: know, become familiar
+zh: 认识、熟悉
+origin: Latin
+source_form: Latin cognoscere
+source_meaning: come to know
+source_meaning_zh: 认识、知道
+related_morphemes:
+  []
+senses:
+  - meaning: know, become familiar
+    zh: 认识、熟悉
+    examples:
+      - acquaintance
+      - acquaint
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - acquaint -> acquaintance
+  - quaint -> acquaint
+high_value_words:
+  - acquaintance
+  - acquaint
+confusable_words:
+  []

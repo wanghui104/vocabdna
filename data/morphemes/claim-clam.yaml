@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: claim-clam
+display: claim
+type: root
+core_meaning: cry out, proclaim
+zh: 呼喊、宣称
+origin: Latin
+source_form: Latin clamare
+source_meaning: cry out
+source_meaning_zh: 呼喊
+related_morphemes:
+  []
+senses:
+  - meaning: cry out, proclaim
+    zh: 呼喊、宣称
+    examples:
+      - acclaim
+      - acclaimed
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - claim -> acclaim
+  - claim -> acclaimed
+high_value_words:
+  - acclaim
+  - acclaimed
+confusable_words:
+  []

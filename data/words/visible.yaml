@@ -17,6 +17,7 @@ components:
     zh: 看、可见
     role: suffix
     is_core: false
+    note: suffix placeholder until suffix catalog is expanded
 word_family:
   - visibility
 word_family_details:
