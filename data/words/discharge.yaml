@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discharge
+word: discharge
+pos: verb/noun
+zh: 释放；排出；流出；放电
+en: to release, send out, dismiss, or unload; a release or flow
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: away
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: charge
+    form: charge
+    meaning_in_word: load, release
+    zh: 负载；负担
+    role: root
+    is_core: true
+    note: 表层 charge 负载；Old French chargier ← Latin carricare 装载 ← carrus 车。discharge 为卸下负载，不能把 charge 的根义直接写成释放。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: discharge 的具体义取决于对象：patient、fluid、electricity、duty。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: summit
+display: summit
+type: root
+core_meaning: highest point
+zh: 顶点
+origin: Latin/French
+source_form: summit
+source_meaning: highest point
+source_meaning_zh: 顶点
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: highest point
+    zh: 顶点
+    examples:
+      - summit
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - summit -> summit
+high_value_words:
+  - summit
+confusable_words:
+  []

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exist
+display: exist
+type: root
+core_meaning: exist
+zh: 存在
+origin: Latin
+source_form: Latin exsistere
+source_meaning: stand out, come into being
+source_meaning_zh: 显现；存在
+related_morphemes:
+  []
+senses:
+  - meaning: exist
+    zh: 存在
+    examples:
+      - coexist
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - exist -> coexist
+high_value_words:
+  - coexist
+confusable_words:
+  []

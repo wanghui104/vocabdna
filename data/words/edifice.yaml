@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: edifice
+word: edifice
+pos: noun
+zh: 宏伟建筑；复杂体系
+en: a large or imposing building; an elaborate abstract structure
+components:
+  - morpheme: aed-house
+    form: edi
+    meaning_in_word: house, temple / 房屋；神殿
+    zh: 房屋；神殿
+    role: root
+    is_core: true
+    note: edifice 的 edi- 为 aedes 构词形，i 是连接元音；与 edible 的 edere 吃不同。
+  - morpheme: fac
+    form: fice
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

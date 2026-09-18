@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intentionally
+word: intentionally
+pos: verb/adverb
+zh: 有意地，特意地
+en: Means 有意地，特意地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: tent
+    form: tent
+    meaning_in_word: 伸展；意图
+    zh: 伸展；意图
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:tent.
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ion.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ly.
+word_family:
+  - intention
+word_family_details:
+  - word: intention
+    en: Means 意图，目的=intent; reviewed from the TOEFL source gloss for learner display.
+    zh: 意图，目的=intent
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

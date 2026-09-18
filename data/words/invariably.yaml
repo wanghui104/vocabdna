@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: invariably
+word: invariably
+pos: verb/adverb
+zh: 不变地，总是
+en: Means 不变地，总是; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: vari
+    form: vari
+    meaning_in_word: 变化、不同
+    zh: 变化、不同
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:vari.
+  - morpheme: able
+    form: -able
+    meaning_in_word: 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:able.
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ly.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

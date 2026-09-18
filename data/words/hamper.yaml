@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hamper
+word: hamper
+pos: verb
+zh: 妨碍，使困难
+en: Means 妨碍，使困难; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hamper
+    form: hamper
+    meaning_in_word: 篮；阻碍
+    zh: 妨碍，使困难
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:hamper.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

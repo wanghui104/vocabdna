@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bust
+display: bust
+type: root
+core_meaning: bust
+zh: 半身像
+origin: Mixed
+source_form: French buste, Italian busto
+source_meaning: upper body, bust
+source_meaning_zh: 上半身；半身像
+related_morphemes:
+  []
+senses:
+  - meaning: bust
+    zh: 半身像
+    examples:
+      - bust
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bust -> bust
+high_value_words:
+  - bust
+confusable_words:
+  []

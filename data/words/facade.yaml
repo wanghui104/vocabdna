@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: facade
+word: facade
+pos: noun
+zh: 建筑正面；假象
+en: the front of a building; a misleading outward appearance
+components:
+  - morpheme: face
+    form: fac
+    meaning_in_word: face, appearance / 脸；外表
+    zh: 脸；外表
+    role: root
+    is_core: true
+    note: facies 可能与 facere 做、形成有关，但直接词源为脸、形状；facade/facet 的 fac- 不直接释为做。
+  - morpheme: ade
+    form: -ade
+    meaning_in_word: result, thing associated with / 结果；相关事物
+    zh: 结果；相关事物
+    role: suffix
+    is_core: false
+    note: facade 的 -ade 来自 Italian facciata 的 -ata，经法语 -ade。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

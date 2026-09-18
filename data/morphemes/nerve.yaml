@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nerve
+display: nerve
+type: root
+core_meaning: sinew, nerve
+zh: 神经；筋
+origin: Latin
+source_form: Latin nervus
+source_meaning: sinew, nerve
+source_meaning_zh: 神经；筋
+related_morphemes:
+  []
+senses:
+  - meaning: sinew, nerve
+    zh: 神经；筋
+    examples:
+      - nerve cord
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - nerve -> nerve cord
+high_value_words:
+  - nerve cord
+confusable_words:
+  []

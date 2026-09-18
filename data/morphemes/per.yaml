@@ -5,20 +5,138 @@ type: prefix
 core_meaning: through, completely
 zh: 穿过、完全
 origin: Latin
+source_form: Latin per
+source_meaning: through, completely
+source_meaning_zh: 穿过、完全
+source_note: 拉丁介词及前缀；per 表穿过、彻底，trans 表横越、转移。
 related_morphemes:
   []
 senses:
   - meaning: through, completely
     zh: 穿过、完全
     examples:
+      - imperative
+      - impermeable
+      - perceive
+      - perception
+      - perceptive
+      - percolate
+      - percussion
+      - perennial
+      - perennially
+      - perfect
+      - perfection
+      - perform
+      - performance
+      - performer
+      - perfume
+      - period
+      - perishable
+      - permanent
+      - permeable
+      - permeate
+      - permission
+      - permissive
       - permit
+      - perpendicular
+      - perpetuate
+      - perplex
+      - perplexing
+      - perseverance
+      - persevere
+      - persist
+      - persistence
+      - persistent
+      - perspective
+      - perspiration
+      - perspire
+      - persuade
+      - persuasive
+      - pertinent
+      - proper
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - per- -> imperative
+  - per- -> impermeable
+  - per- -> perceive
+  - per- -> perception
+  - per- -> perceptive
+  - per- -> percolate
+  - per- -> percussion
+  - per- -> perennial
+  - per- -> perennially
+  - per- -> perfect
+  - per- -> perfection
+  - per- -> perform
+  - per- -> performance
+  - per- -> performer
+  - per- -> perfume
+  - per- -> period
+  - per- -> perishable
+  - per- -> permanent
+  - per- -> permeable
+  - per- -> permeate
+  - per- -> permission
+  - per- -> permissive
   - per- -> permit
+  - per- -> perpendicular
+  - per- -> perpetuate
+  - per- -> perplex
+  - per- -> perplexing
+  - per- -> perseverance
+  - per- -> persevere
+  - per- -> persist
+  - per- -> persistence
+  - per- -> persistent
+  - per- -> perspective
+  - per- -> perspiration
+  - per- -> perspire
+  - per- -> persuade
+  - per- -> persuasive
+  - per- -> pertinent
+  - per -> proper
 high_value_words:
+  - imperative
+  - impermeable
+  - perceive
+  - perception
+  - perceptive
+  - percolate
+  - percussion
+  - perennial
+  - perennially
+  - perfect
+  - perfection
+  - perform
+  - performance
+  - performer
+  - perfume
+  - period
+  - perishable
+  - permanent
+  - permeable
+  - permeate
+  - permission
+  - permissive
   - permit
+  - perpendicular
+  - perpetuate
+  - perplex
+  - perplexing
+  - perseverance
+  - persevere
+  - persist
+  - persistence
+  - persistent
+  - perspective
+  - perspiration
+  - perspire
+  - persuade
+  - persuasive
+  - pertinent
+  - proper
 confusable_words:
   []

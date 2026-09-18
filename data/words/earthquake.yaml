@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: earthquake
+word: earthquake
+pos: noun
+zh: 地震
+en: a shaking of the ground caused by a sudden release of energy in the earth
+components:
+  - morpheme: earth
+    form: earth
+    meaning_in_word: earth, ground / 地球；土地
+    zh: 地球；土地
+    role: root
+    is_core: true
+    note: 简单本族词，不连拉丁 terr 作为表层构词。
+  - morpheme: quake
+    form: quake
+    meaning_in_word: shake / 震动
+    zh: 震动
+    role: root
+    is_core: true
+    note: 简单本族词；earthquake 是复合词。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

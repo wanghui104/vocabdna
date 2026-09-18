@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: finesse
+word: finesse
+pos: noun/verb
+zh: 精巧技巧；巧妙处理
+en: skill and delicacy in handling a situation; to handle something skillfully
+components:
+  - morpheme: fin
+    form: fin
+    meaning_in_word: border, limit, end / 边界；限制；终点
+    zh: 边界；限制；终点
+    role: root
+    is_core: true
+    note: finesse = fin-（French fin 精细）+ -esse 性质；fin 深层与 finis 完成、界限相关，经精炼完成到精巧，不等于数学 finite 的现代含义。
+  - morpheme: esse
+    form: -esse
+    meaning_in_word: abstract quality / 性质
+    zh: 性质
+    role: suffix
+    is_core: false
+    note: finesse 的 -esse 是性质名词层，不是女性施事 -ess。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

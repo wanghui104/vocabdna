@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shipload
+word: shipload
+pos: noun
+zh: 船货, 一船上的载货
+en: Means 船货, 一船上的载货; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ship
+    form: -ship
+    meaning_in_word: 状态；资格
+    zh: 状态；资格
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ship.
+  - morpheme: load
+    form: load
+    meaning_in_word: 负载
+    zh: 负载
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:load.
+word_family:
+  - load
+  - unload
+  - overload
+  - trainload
+  - workload
+word_family_details:
+  - word: load
+    en: Means 重担；重任 / 装载，使负担; reviewed from the TOEFL source gloss for learner display.
+    zh: 重担；重任 / 装载，使负担
+  - word: unload
+    en: Means 摆脱…的负担，卸; reviewed from the TOEFL source gloss for learner display.
+    zh: 摆脱…的负担，卸
+  - word: overload
+    en: Means 使超载，使超过负荷; reviewed from the TOEFL source gloss for learner display.
+    zh: 使超载，使超过负荷
+  - word: trainload
+    en: Means 列车载重; reviewed from the TOEFL source gloss for learner display.
+    zh: 列车载重
+  - word: workload
+    en: Means 工作量; reviewed from the TOEFL source gloss for learner display.
+    zh: 工作量
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

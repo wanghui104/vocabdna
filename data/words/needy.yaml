@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: needy
+word: needy
+pos: adjective
+zh: 贫穷的，生活艰辛的
+en: Means 贫穷的，生活艰辛的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: need
+    form: need
+    meaning_in_word: 需要；贫困
+    zh: 需要；贫困
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:need.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:y.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

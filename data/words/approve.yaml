@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: approve
+word: approve
+pos: verb
+zh: 批准；赞成；同意
+en: to accept as satisfactory or express a favorable opinion
+components:
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: prob
+    form: prove
+    meaning_in_word: test, find good
+    zh: 检验；证明；认可
+    role: root
+    is_core: true
+word_family:
+  - approval
+word_family_details:
+  - word: approval
+    en: a favorable opinion or official permission
+    zh: 赞成；正式批准
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

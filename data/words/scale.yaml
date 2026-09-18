@@ -1,45 +1,30 @@
 # Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: scale
 word: scale
-pos: noun/verb
-zh: 刻度；等级；规模；比例
-en: a system of steps or marks used to measure size, amount, or level
+pos: verb
+zh: 攀登；等级，刻度；规模；鱼鳞，鳞片
+en: Means 攀登；等级，刻度；规模；鱼鳞，鳞片; reviewed from the TOEFL source gloss for learner display.
 components:
-  - morpheme: skel
-    form: scale
-    meaning_in_word: shell plate; weighing pan from a split-shell image
-    zh: 切开、分裂；壳片、鳞片
+  - morpheme: scal
+    form: scal
+    meaning_in_word: ladder; scale / 梯；刻度/规模
+    zh: 梯；刻度/规模
     role: root
     is_core: true
-    note: fish-scale and weighing-scale branch
-  - morpheme: scala
-    form: scale
-    meaning_in_word: ladder, steps; graded measure or climb
-    zh: 梯子、阶梯；按级测量
-    role: root
-    is_core: true
-    note: measure/climb branch
+  - morpheme: e
+    form: -e
+    meaning_in_word: final-e marker / 词尾 e
+    zh: 出；离开；加强
+    role: suffix
+    is_core: false
 word_family:
-  - scalable
-  - scaling
+  - scaled
 word_family_details:
-  - word: scalable
-    en: related form of scalable
-    zh: scalable 的相关词
-  - word: scaling
-    en: related form of scaling
-    zh: scaling 的相关词
+  - word: scaled
+    en: Means 有鳞状斑点的，有鳞的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有鳞状斑点的，有鳞的
 confusables:
   []
 examples:
-  - en: The map uses a scale of one inch to ten miles.
-    zh: 这张地图使用一英寸代表十英里的比例尺。
-  - en: The fish had bright silver scales.
-    zh: 这条鱼有亮银色的鳞片。
-  - en: She put the package on the scale.
-    zh: 她把包裹放在秤上。
-  - en: The hikers scaled the cliff before noon.
-    zh: 徒步者在中午前攀上了悬崖。
-  - en: The app can scale the image without distortion.
-    zh: 这个应用可以无失真地按比例缩放图片。
-why_confusing: scale 有同形多源风险；不要把鱼鳞、天平、刻度和攀登硬讲成单一现代词根。
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

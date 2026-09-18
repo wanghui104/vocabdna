@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: long-range
+word: long-range
+pos: noun
+zh: 远程的
+en: Means 远程的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: long
+    form: long
+    meaning_in_word: 长
+    zh: 长
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:long.
+  - morpheme: range
+    form: range
+    meaning_in_word: range
+    zh: range
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:range.
+word_family:
+  - longevity
+  - longitude
+word_family_details:
+  - word: longevity
+    en: Means 长寿; reviewed from the TOEFL source gloss for learner display.
+    zh: 长寿
+  - word: longitude
+    en: Means 经度，经线; reviewed from the TOEFL source gloss for learner display.
+    zh: 经度，经线
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: arouse
+word: arouse
+pos: verb
+zh: 唤醒；激起；刺激
+en: to wake someone up or cause a feeling, reaction, or interest
+components:
+  - morpheme: a
+    form: a-
+    meaning_in_word: to, into
+    zh: 在；属于；完成性
+    role: prefix
+    is_core: false
+  - morpheme: rouse
+    form: rouse
+    meaning_in_word: wake, stir
+    zh: 唤醒；激起
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

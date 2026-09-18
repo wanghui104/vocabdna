@@ -18,11 +18,9 @@ components:
     role: combining_form
     is_core: true
 word_family:
-  - demographic
+  []
 word_family_details:
-  - word: demographic
-    en: related form of demographic
-    zh: demographic 的相关词
+  []
 confusables:
   - word: democracy
     reason: demography 是人口研究；democracy 是民主制度。

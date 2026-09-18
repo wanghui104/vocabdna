@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rustic
+word: rustic
+pos: adjective
+zh: 乡村的，乡下风格的
+en: Means 乡村的，乡下风格的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rust
+    form: rust
+    meaning_in_word: rust / 锈
+    zh: 锈
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 相关的
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - rust
+word_family_details:
+  - word: rust
+    en: Means 锈，生锈；（植物）患锈病; reviewed from the TOEFL source gloss for learner display.
+    zh: 锈，生锈；（植物）患锈病
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

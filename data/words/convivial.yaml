@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: convivial
+word: convivial
+pos: adjective
+zh: 欢乐的；友好的；快乐的
+en: friendly, lively, and enjoyable, especially in company
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: viv-vit
+    form: viv
+    meaning_in_word: live
+    zh: 生命、活着
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ial
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: convivial atmosphere/company 常见。

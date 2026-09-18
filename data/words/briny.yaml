@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: briny
+word: briny
+pos: adjective
+zh: 盐水的；咸的
+en: salty like seawater
+components:
+  - morpheme: brine
+    form: brine
+    meaning_in_word: salt water
+    zh: 盐水；咸味
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: the briny deep 可文学化指大海。

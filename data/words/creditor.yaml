@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: creditor
+word: creditor
+pos: noun
+zh: 债权人
+en: a person or organization to whom money is owed
+components:
+  - morpheme: cred
+    form: credit
+    meaning_in_word: believe, trust / 相信、信用
+    zh: 相信、信用
+    role: root
+    is_core: true
+    note: 表层 cred-/credit- 信任；credit 来自 Latin creditum（credere 的分词名词），credit- 中 -it- 属历史分词词干，不是省略或英语后缀。credentials 的层级为 credent- 相信 + -ial 相关 + -s 复数；credent- 内为 cred- + -ent。
+  - morpheme: or
+    form: -or
+    meaning_in_word: person or thing that does / 做……的人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - credit
+word_family_details:
+  - word: credit
+    en: trust, public honor, money available in an account, or a unit earned for study
+    zh: 信用；荣誉；学分；贷方金额
+confusables:
+  []
+examples:
+  []
+why_confusing: creditor 债权人；debtor 债务人。

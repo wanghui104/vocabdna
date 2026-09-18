@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fum
+display: fum
+type: root
+core_meaning: smoke
+zh: 烟
+origin: Latin
+source_form: Latin fumus
+source_meaning: smoke
+source_meaning_zh: 烟
+source_note: fume = 烟；perfume 为 per- 贯穿 + fum- 烟；fumigate 的 fum- 烟 + ig-（agere 驱动的变体）+ -ate。
+related_morphemes:
+  []
+senses:
+  - meaning: smoke
+    zh: 烟
+    examples:
+      - fume
+      - fumigate
+      - fumigation
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fume -> fume
+  - fum -> fumigate
+  - fum -> fumigation
+high_value_words:
+  - fume
+  - fumigate
+  - fumigation
+confusable_words:
+  []

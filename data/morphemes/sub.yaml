@@ -5,23 +5,155 @@ type: prefix
 core_meaning: under, near
 zh: 在下、靠近、从属
 origin: Latin
+source_form: Latin sub
+source_meaning: under, subordinate
+source_meaning_zh: 在下；从属
 related_morphemes:
   []
 senses:
   - meaning: under, near
     zh: 在下、靠近、从属
     examples:
+      - subdiscipline
+      - subdivision
+      - subduct
+      - subject to
+      - subjected
+      - submarine
+      - submerge
+      - submerged
+      - submit
       - subscribe
+      - subsection
+      - subsequent
+      - subsequently
+      - subside
+      - subsidiary
+      - subsidize
+      - subsidy
+      - subsist
+      - subsistence
+      - subspecies
+      - substantial
+      - substantially
+      - substantiate
+      - substantive
+      - substitute
+      - subterranean
+      - subtract
+      - subtraction
+      - subtractive
+      - suburb
+      - suburbanite
+      - suburbanization
+      - subversive
       - succeed
+      - succumb
+      - supplant
+      - supple
+      - supplement
+      - supplementary
+      - supplementation
+      - suppose
+      - supposedly
+      - supposition
+      - suppress
+      - unsubstantiated
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - sub- -> subdiscipline
+  - sub- -> subdivision
+  - sub- -> subduct
+  - sub- -> subject to
+  - sub- -> subjected
+  - sub- -> submarine
+  - sub- -> submerge
+  - sub- -> submerged
+  - sub- -> submit
   - sub- -> subscribe
+  - sub- -> subsection
+  - sub- -> subsequent
+  - sub- -> subsequently
+  - sub- -> subside
+  - sub- -> subsidiary
+  - sub- -> subsidize
+  - sub- -> subsidy
+  - sub- -> subsist
+  - sub- -> subsistence
+  - sub- -> subspecies
+  - sub- -> substantial
+  - sub- -> substantially
+  - sub- -> substantiate
+  - sub- -> substantive
+  - sub- -> substitute
+  - sub- -> subterranean
+  - sub- -> subtract
+  - sub- -> subtraction
+  - sub- -> subtractive
+  - sub- -> suburb
+  - sub- -> suburbanite
+  - sub- -> suburbanization
+  - sub- -> subversive
   - suc- -> succeed
+  - sub- -> succumb
+  - sub- -> supplant
+  - sub- -> supple
+  - sub- -> supplement
+  - sub- -> supplementary
+  - sub- -> supplementation
+  - sub- -> suppose
+  - sub- -> supposedly
+  - sub- -> supposition
+  - sub- -> suppress
+  - sub- -> unsubstantiated
 high_value_words:
+  - subdiscipline
+  - subdivision
+  - subduct
+  - subject to
+  - subjected
+  - submarine
+  - submerge
+  - submerged
+  - submit
   - subscribe
+  - subsection
+  - subsequent
+  - subsequently
+  - subside
+  - subsidiary
+  - subsidize
+  - subsidy
+  - subsist
+  - subsistence
+  - subspecies
+  - substantial
+  - substantially
+  - substantiate
+  - substantive
+  - substitute
+  - subterranean
+  - subtract
+  - subtraction
+  - subtractive
+  - suburb
+  - suburbanite
+  - suburbanization
+  - subversive
   - succeed
+  - succumb
+  - supplant
+  - supple
+  - supplement
+  - supplementary
+  - supplementation
+  - suppose
+  - supposedly
+  - supposition
+  - suppress
+  - unsubstantiated
 confusable_words:
   []

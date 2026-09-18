@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fake
+word: fake
+pos: noun/adjective/verb
+zh: 赝品；冒牌者
+en: a counterfeit thing or person
+components:
+  - morpheme: fake
+    form: fake
+    meaning_in_word: counterfeit, pretend / 伪造；假装
+    zh: 伪造；假装
+    role: root
+    is_core: true
+    note: 词源未定，可能的 Germanic 或 Latin 提议不足以确证；保留简单词。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

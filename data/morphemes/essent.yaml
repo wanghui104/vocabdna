@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: essent
+display: essent
+type: root
+core_meaning: being, existence
+zh: 存在；本质
+origin: Latin
+source_form: Latin essentia, essent-, esse
+source_meaning: being, existence
+source_meaning_zh: 存在；本质
+source_note: essent- 为 esse 存在的拟造分词词干（ess- + -ent-）；essential 再加 -ial。不是前缀 es-。
+related_morphemes:
+  - ent
+senses:
+  - meaning: being, existence
+    zh: 存在；本质
+    examples:
+      - essence
+      - essential
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ess -> essence
+  - essent -> essential
+high_value_words:
+  - essence
+  - essential
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: excess
+word: excess
+pos: noun/adjective
+zh: 过量；超额
+en: an amount beyond what is needed or allowed
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: excess-ceed
+    form: cess
+    meaning_in_word: go, yield / 走；让步
+    zh: 走；让步
+    role: root
+    is_core: true
+    note: ceed/cess 为 cedere 的英语表层和分词变体，exceed/excess 深层 ex- 超出 + cedere。
+word_family:
+  - excessive
+word_family_details:
+  - word: excessive
+    en: greater than is reasonable, necessary, or allowed
+    zh: 过度的；过多的
+confusables:
+  - word: access
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

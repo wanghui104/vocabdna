@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: serrat
+display: serrat
+type: root
+core_meaning: saw-toothed
+zh: 锯齿状
+origin: teaching morphology
+source_form: serrat
+source_meaning: saw-toothed
+source_meaning_zh: 锯齿状
+related_morphemes:
+  []
+senses:
+  - meaning: saw-toothed
+    zh: 锯齿状
+    examples:
+      - serrated
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - serrat -> serrated
+high_value_words:
+  - serrated
+confusable_words:
+  []

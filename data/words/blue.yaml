@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blue
+word: blue
+pos: adjective/noun
+zh: 蓝色的；忧郁的
+en: the color blue, or a sad mood
+components:
+  - morpheme: blue
+    form: blue
+    meaning_in_word: blue, sad
+    zh: 蓝色；忧郁
+    role: root
+    is_core: true
+word_family:
+  - blues
+word_family_details:
+  - word: blues
+    en: a feeling of sadness, or a style of music rooted in African American tradition
+    zh: 抑郁；布鲁斯音乐
+confusables:
+  []
+examples:
+  []
+why_confusing: 用于补全 blues 词族。

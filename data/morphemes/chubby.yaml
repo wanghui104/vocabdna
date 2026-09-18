@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chubby
+display: chubby
+type: root
+core_meaning: chubby
+zh: 丰满；圆胖
+origin: Unknown
+source_form: English chub/chubby
+source_meaning: round, plump
+source_meaning_zh: 圆胖
+related_morphemes:
+  []
+senses:
+  - meaning: chubby
+    zh: 丰满；圆胖
+    examples:
+      - chubby
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - chubby -> chubby
+high_value_words:
+  - chubby
+confusable_words:
+  []

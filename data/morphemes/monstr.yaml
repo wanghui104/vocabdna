@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: monstr
+display: monstr
+type: root
+core_meaning: show, demonstrate
+zh: 展示；论证
+origin: Latin
+source_form: Latin monstrare / monere
+source_meaning: show, point out; remind
+source_meaning_zh: 显示；指出；提醒
+related_morphemes:
+  []
+senses:
+  - meaning: show, demonstrate
+    zh: 展示；论证
+    examples:
+      - demonstrate
+      - demonstration
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - monstr -> demonstrate
+  - monstr -> demonstration
+high_value_words:
+  - demonstrate
+  - demonstration
+confusable_words:
+  []

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: glandular
+word: glandular
+pos: adjective
+zh: 腺体的
+en: Means 腺体的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: gland
+    form: gland
+    meaning_in_word: gland
+    zh: 腺体
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:gland.
+  - morpheme: ular
+    form: -ular
+    meaning_in_word: 有关……的
+    zh: 有关……的
+    role: suffix
+    is_core: false
+    note: Suffix layer from Latin -ularis.
+word_family:
+  - gland
+word_family_details:
+  - word: gland
+    en: Means 腺体; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 腺体
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

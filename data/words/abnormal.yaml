@@ -2,24 +2,24 @@
 id: abnormal
 word: abnormal
 pos: adjective
-zh: 反常的；异常的；变态的
-en: different from what is usual, expected, or normal
+zh: 反常的，变态的
+en: Means 反常的，变态的; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: ab
     form: ab-
-    meaning_in_word: away from
+    meaning_in_word: away from; abnormal / 离开；反常
     zh: 离开、偏离
     role: prefix
     is_core: false
   - morpheme: norm
     form: norm
-    meaning_in_word: standard
+    meaning_in_word: rule; standard / 规则；标准
     zh: 标准、规则
     role: root
     is_core: true
   - morpheme: al
     form: -al
-    meaning_in_word: relating to
+    meaning_in_word: relating to / 相关的
     zh: 属于……的
     role: suffix
     is_core: false
@@ -27,11 +27,10 @@ word_family:
   - normal
 word_family_details:
   - word: normal
-    en: usual, regular, or according to a standard
-    zh: 正常的；正规的；标准的
+    en: Means 正常的，标准的; reviewed from the TOEFL source gloss for learner display.
+    zh: 正常的，标准的
 confusables:
   []
 examples:
-  - en: The scan showed abnormal results.
-    zh: 扫描显示结果异常。
-why_confusing: abnormal 可用于医学或统计语境，语气比 unusual 更正式。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

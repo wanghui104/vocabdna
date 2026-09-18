@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: expanse
+word: expanse
+pos: noun
+zh: 广阔的区域
+en: a broad open area
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: pand
+    form: panse
+    meaning_in_word: spread / 展开
+    zh: 展开
+    role: root
+    is_core: true
+    note: expand 用 pand-，expansion/expanse 用分词 pans-；s 不是英语复数。
+word_family:
+  - expand
+  - expanding
+  - expansion
+word_family_details:
+  - word: expand
+    en: to become larger or make larger; to discuss in greater detail
+    zh: 扩大；膨胀；展开说明
+  - word: expanding
+    en: increasing in size, extent, or scope
+    zh: 扩大的；膨胀的
+  - word: expansion
+    en: an increase in size, extent, or scope
+    zh: 扩张；膨胀
+confusables:
+  []
+examples:
+  []
+why_confusing: 

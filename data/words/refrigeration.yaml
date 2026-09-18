@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: refrigeration
+word: refrigeration
+pos: noun
+zh: 冷藏，冷却
+en: Means 冷藏，冷却; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: friger
+    form: friger
+    meaning_in_word: cold / 冷
+    zh: 冷
+    role: root
+    is_core: true
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: act or result / 动作或结果
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+word_family:
+  - refrigerate
+  - refrigerant
+word_family_details:
+  - word: refrigerate
+    en: Means 使冷却，冷藏; reviewed from the TOEFL source gloss for learner display.
+    zh: 使冷却，冷藏
+  - word: refrigerant
+    en: Means 制冷剂; reviewed from the TOEFL source gloss for learner display.
+    zh: 制冷剂
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

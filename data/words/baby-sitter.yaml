@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: baby-sitter
+word: baby-sitter
+pos: noun
+zh: 临时保姆
+en: a person paid or asked to look after a child for a short time
+components:
+  - morpheme: baby
+    form: baby
+    meaning_in_word: child
+    zh: 婴儿；孩子
+    role: root
+    is_core: true
+  - morpheme: sit
+    form: sitter
+    meaning_in_word: person who sits/stays
+    zh: 坐；照看
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 现代也常写 babysitter。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dwell
+display: dwell
+type: root
+core_meaning: linger, reside
+zh: 停留；居住
+origin: Old English
+source_form: Old English dwellan
+source_meaning: linger, reside
+source_meaning_zh: 停留；居住
+source_note: 历史含误导、耽搁，后发展为停留与居住；现代不拆 dw + ell。
+related_morphemes:
+  []
+senses:
+  - meaning: linger, reside
+    zh: 停留；居住
+    examples:
+      - dwell
+      - dweller
+      - dwelling
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - dwell -> dwell
+  - dwell -> dweller
+  - dwell -> dwelling
+high_value_words:
+  - dwell
+  - dweller
+  - dwelling
+confusable_words:
+  []

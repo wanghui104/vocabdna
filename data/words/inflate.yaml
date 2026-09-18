@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inflate
+word: inflate
+pos: verb
+zh: 使膨胀，使充气
+en: Means 使膨胀，使充气; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: flat
+    form: flat
+    meaning_in_word: 吹气
+    zh: 吹气
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:flat.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ate.
+word_family:
+  - inflation
+word_family_details:
+  - word: inflation
+    en: Means 通货膨胀; reviewed from the TOEFL source gloss for learner display.
+    zh: 通货膨胀
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diet
+word: diet
+pos: noun/verb
+zh: 饮食；食物；节食
+en: the food someone usually eats, or a controlled eating plan
+components:
+  - morpheme: diet
+    form: diet
+    meaning_in_word: way of life, food regimen
+    zh: 饮食；生活方式
+    role: root
+    is_core: true
+    note: diet- 来自 Greek diaita 生活方式、饮食；不可硬拆 dia- + it。dietetics 的 -etics 来自 diaitetikos 相关性质 + 学科名词 -s；dietitian 的 -itian 是专业人员结尾。
+word_family:
+  - dietary
+  - dieter
+  - dietitian
+  - dietetics
+word_family_details:
+  - word: dietary
+    en: related to the food someone eats
+    zh: 饮食的
+  - word: dieter
+    en: a person who is following a diet, often to lose weight
+    zh: 节食者；减肥者
+  - word: dietitian
+    en: a specialist who advises people about food and nutrition
+    zh: 营养学家
+  - word: dietetics
+    en: the study or practice of diet and nutrition
+    zh: 营养学；饮食学
+confusables:
+  []
+examples:
+  []
+why_confusing: diet 不一定是减肥，也可指日常饮食结构。

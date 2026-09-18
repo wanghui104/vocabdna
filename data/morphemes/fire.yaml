@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fire
+display: fire
+type: root
+core_meaning: fire
+zh: 火
+origin: teaching morphology
+source_form: fire
+source_meaning: fire
+source_meaning_zh: 火
+related_morphemes:
+  []
+senses:
+  - meaning: fire
+    zh: 火
+    examples:
+      - fireproof
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fire -> fireproof
+high_value_words:
+  - fireproof
+confusable_words:
+  []

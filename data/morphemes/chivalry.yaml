@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chivalry
+display: chival
+type: root
+core_meaning: chivalry
+zh: 骑士气概；侠义
+origin: French
+source_form: Old French chevalerie, cheval
+source_meaning: horse, knighthood
+source_meaning_zh: 马；骑士身份
+related_morphemes:
+  []
+senses:
+  - meaning: chivalry
+    zh: 骑士气概；侠义
+    examples:
+      - chivalry
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - chival -> chivalry
+high_value_words:
+  - chivalry
+confusable_words:
+  []

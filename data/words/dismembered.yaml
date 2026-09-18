@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dismembered
+word: dismembered
+pos: adjective
+zh: 肢解的；被分割的
+en: cut, torn, or divided into parts
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: member
+    form: member
+    meaning_in_word: limb, part
+    zh: 肢体；部分
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having been
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - dismember
+word_family_details:
+  - word: dismember
+    en: to cut, tear, or divide a body or organization into parts
+    zh: 肢解；分割
+confusables:
+  []
+examples:
+  []
+why_confusing: 可用于身体，也可用于抽象整体。

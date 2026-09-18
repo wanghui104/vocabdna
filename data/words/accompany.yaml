@@ -28,9 +28,7 @@ word_family_details:
     en: music played to support a main part, or something that goes with another thing
     zh: 伴奏；伴随物
 confusables:
-  - word: company
-    reason: accompany 可指人陪伴，也可指音乐伴奏。
-    zh_reason: accompany 可指人陪伴，也可指音乐伴奏。
+  []
 examples:
   - en: A guide will accompany the group.
     zh: 一名导游将陪同这个团队。

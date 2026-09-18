@@ -5,13 +5,12 @@ pos: verb
 zh: 避免；转移开
 en: to prevent something bad or turn away
 components:
-  - morpheme: ad
+  - morpheme: ab
     form: a-
     meaning_in_word: away
-    zh: 去、向、靠近
+    zh: 离开、偏离
     role: prefix
     is_core: false
-    note: historical form from ab/ad group; to refine later
   - morpheme: vert
     form: vert
     meaning_in_word: turn
@@ -19,16 +18,13 @@ components:
     role: root
     is_core: true
 word_family:
-  - aversion
+  []
 word_family_details:
-  - word: aversion
-    en: related form of aversion
-    zh: aversion 的相关词
+  []
 confusables:
   - word: avoid
-    reason: avert 常接危机/危险；avoid 更普通。
-    zh_reason: avert 常接危机/危险；avoid 更普通。
+    reason: avert 常接 crisis/disaster/eyes；avoid 更普通。
+    zh_reason: avert 常接 crisis/disaster/eyes；avoid 更普通。
 examples:
-  - en: Quick action averted a crisis.
-    zh: 迅速行动避免了一场危机。
-why_confusing: avert 常接危机/危险；avoid 更普通。
+  []
+why_confusing: avert 常接 crisis/disaster/eyes；avoid 更普通。

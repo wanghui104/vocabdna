@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: textured
+word: textured
+pos: adjective
+zh: 手摸时有感觉的, 有织纹的
+en: Means 手摸时有感觉的, 有织纹的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: text
+    form: text
+    meaning_in_word: weave; text / 编织；文本
+    zh: 编织；文本
+    role: root
+    is_core: true
+  - morpheme: ure
+    form: -ure
+    meaning_in_word: result; state / 结果；状态
+    zh: 行为；结果
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past participle / 过去分词
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - textile
+  - texture
+word_family_details:
+  - word: textile
+    en: Means 纺织品; reviewed from the TOEFL source gloss for learner display.
+    zh: 纺织品
+  - word: texture
+    en: Means 质地；（材料等）结构; reviewed from the TOEFL source gloss for learner display.
+    zh: 质地；（材料等）结构
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

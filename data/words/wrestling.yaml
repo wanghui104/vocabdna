@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: wrestling
+word: wrestling
+pos: noun
+zh: 摔跤，格斗
+en: Means 摔跤，格斗; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: wrestle
+    form: wrestle
+    meaning_in_word: wrestle / 摔跤
+    zh: 摔跤
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: forming noun/adjective / 形成名词或形容词
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

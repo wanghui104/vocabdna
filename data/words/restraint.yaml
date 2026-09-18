@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: restraint
+word: restraint
+pos: noun
+zh: 抑制，克制
+en: Means 抑制，克制; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: strain
+    form: strain
+    meaning_in_word: strain; draw tight / 拉紧；血统；过滤
+    zh: 约束；限制
+    role: root
+    is_core: true
+  - morpheme: t
+    form: -t
+    meaning_in_word: noun/adjective ending / 名词或形容词尾缀
+    zh: t
+    role: suffix
+    is_core: false
+word_family:
+  - strain
+word_family_details:
+  - word: strain
+    en: Means 过度的疲劳，紧张；血统；物种；过滤; reviewed from the TOEFL source gloss for learner display.
+    zh: 过度的疲劳，紧张；血统；物种；过滤
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

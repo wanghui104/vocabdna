@@ -5,20 +5,35 @@ type: root
 core_meaning: hand
 zh: 手
 origin: Latin
+source_form: Latin manus
+source_meaning: hand
+source_meaning_zh: 手
 related_morphemes:
   []
 senses:
   - meaning: hand
     zh: 手
     examples:
+      - emancipate
+      - emancipation
+      - manual
       - manufacture
+      - manure
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - man -> emancipate
+  - man -> emancipation
+  - manu -> manual
   - manu -> manufacture
+  - manu -> manure
 high_value_words:
+  - emancipate
+  - emancipation
+  - manual
   - manufacture
+  - manure
 confusable_words:
   []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ferv
+display: ferv
+type: root
+core_meaning: boil, be hot
+zh: 沸腾；热
+origin: Latin
+source_form: Latin fervere
+source_meaning: boil, be hot
+source_meaning_zh: 沸腾；热
+source_note: fervor = ferv- + -or 状态；从热到强烈感情。
+related_morphemes:
+  []
+senses:
+  - meaning: boil, be hot
+    zh: 沸腾；热
+    examples:
+      - fervent
+      - fervently
+      - fervor
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ferv -> fervent
+  - ferv -> fervently
+  - ferv -> fervor
+high_value_words:
+  - fervent
+  - fervently
+  - fervor
+confusable_words:
+  []

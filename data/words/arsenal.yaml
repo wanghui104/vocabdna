@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: arsenal
+word: arsenal
+pos: noun
+zh: 兵工厂；军械库；武器库；储备
+en: a store of weapons, or a supply of tools or resources
+components:
+  - morpheme: arsenal
+    form: arsenal
+    meaning_in_word: weapons store
+    zh: 军械库；武器储备
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

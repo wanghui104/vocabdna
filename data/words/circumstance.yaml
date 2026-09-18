@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: circumstance
+word: circumstance
+pos: noun
+zh: 环境；情况
+en: a fact or condition connected with an event
+components:
+  - morpheme: circ
+    form: circum-
+    meaning_in_word: around
+    zh: 圆；周围
+    role: prefix
+    is_core: false
+  - morpheme: stand
+    form: stance
+    meaning_in_word: standing
+    zh: 站立；状态
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: under no circumstances 是绝不。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: likewise
+word: likewise
+pos: verb/adverb
+zh: 同样地，也
+en: Means 同样地，也; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: like
+    form: like
+    meaning_in_word: 相似；同样
+    zh: 相似；同样
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:like.
+  - morpheme: wise
+    form: -wise
+    meaning_in_word: 方式；方向
+    zh: 方式；方向
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:wise.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

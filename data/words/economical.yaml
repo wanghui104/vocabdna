@@ -1,0 +1,58 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: economical
+word: economical
+pos: adjective
+zh: 节约的；经济实惠的
+en: using money, time, or resources carefully without waste
+components:
+  - morpheme: eco
+    form: eco
+    meaning_in_word: house, environment / 家；环境
+    zh: 家；环境
+    role: root
+    is_core: true
+    note: eco- 源于居所；economy 加 nomos 管理，ecology 加 logia 研究。
+  - morpheme: nom
+    form: nom
+    meaning_in_word: arrange, law, rule / 安排；规律；法则
+    zh: 安排；规律；法则
+    role: root
+    is_core: true
+    note: nomos 管理、法则来自 nemein 分配；economy = eco- 家 + nom- 管理，再加名词结尾。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - economy
+  - economic
+  - economics
+  - economize
+word_family_details:
+  - word: economy
+    en: a system of production and consumption; careful use of resources
+    zh: 经济体系；节约
+  - word: economic
+    en: relating to the economy
+    zh: 经济的
+  - word: economics
+    en: the study of how goods and services are produced, distributed, and consumed
+    zh: 经济学
+  - word: economize
+    en: to reduce spending or avoid wasting resources
+    zh: 节约；节省
+confusables:
+  - word: economic
+    reason: economical 节约、实惠；economic 经济的。
+    zh_reason: economical 节约、实惠；economic 经济的。
+examples:
+  []
+why_confusing: economical 节约、实惠；economic 经济的。

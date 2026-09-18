@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flock-to
+word: flock to
+pos: verb
+zh: 成群结队地前往
+en: to go somewhere in large numbers
+components:
+  - morpheme: flock
+    form: flock
+    meaning_in_word: group, crowd / 群
+    zh: 群
+    role: root
+    is_core: true
+    note: 群体义更深来源未定；另一个表示羊毛屑的 flock 有不同历史，不混入。
+  - morpheme: to
+    form: to
+    meaning_in_word: to, toward / 向；到
+    zh: 向；到
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

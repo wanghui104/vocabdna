@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fortuitous
+word: fortuitous
+pos: adjective
+zh: 偶然的；碰巧发生的
+en: happening by chance
+components:
+  - morpheme: fortuit
+    form: fortuit
+    meaning_in_word: happening by chance / 偶然
+    zh: 偶然
+    role: root
+    is_core: true
+    note: fortuitous = fortuit- + -ous；深层 Latin fortuitus 来自 forte 偶然地、fors/fortis 机会词族。更早 u 词干解释属于重构，不能把字面 -uitus 当成确证的独立后缀；也不是 fortis 强壮。
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: full of, having / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - fortuitously
+word_family_details:
+  - word: fortuitously
+    en: by chance
+    zh: 偶然地
+confusables:
+  - word: fortunate
+    reason: 
+    zh_reason: 
+  - word: fort
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

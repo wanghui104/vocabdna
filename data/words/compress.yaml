@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compress
+word: compress
+pos: verb
+zh: 压缩；浓缩
+en: to press something into a smaller space
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: press
+    form: press
+    meaning_in_word: press
+    zh: 压
+    role: root
+    is_core: true
+word_family:
+  - compression
+  - compressed
+word_family_details:
+  - word: compression
+    en: the process of pressing into a smaller space
+    zh: 压缩；浓缩
+  - word: compressed
+    en: pressed into a smaller space or made more compact
+    zh: 被压缩的；紧凑的
+confusables:
+  []
+examples:
+  []
+why_confusing: compress data/file/gas。

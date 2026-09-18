@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compel
+word: compel
+pos: verb
+zh: 强迫；使不得不
+en: to force someone to do something
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: completely
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: pel
+    form: pel
+    meaning_in_word: drive, push
+    zh: 驱动；推动
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: be compelled to do sth。

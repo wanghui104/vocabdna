@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conductor
+word: conductor
+pos: noun
+zh: 导体；指挥；售票员
+en: a material that carries energy, or a person who leads music or passengers
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: duc
+    form: duct
+    meaning_in_word: lead, carry
+    zh: 引导；传导
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person/thing
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - conduct
+  - conduction
+  - conductivity
+word_family_details:
+  - word: conduct
+    en: to lead, organize, or carry out
+    zh: 实施；引导；行为
+  - word: conduction
+    en: the process by which heat, electricity, or sound is carried through a material
+    zh: 传导；传导作用
+  - word: conductivity
+    en: the ability of a material to conduct heat, electricity, or sound
+    zh: 导电率；传导率
+confusables:
+  []
+examples:
+  []
+why_confusing: TOEFL 这里重点是导体义，但音乐指挥也常见。

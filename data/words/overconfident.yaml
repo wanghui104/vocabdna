@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: overconfident
+word: overconfident
+pos: adjective
+zh: 过于自信的；自负的
+en: too confident, especially in a way that ignores risks
+components:
+  - morpheme: over
+    form: over-
+    meaning_in_word: too much
+    zh: 超过；过度
+    role: prefix
+    is_core: false
+  - morpheme: fid
+    form: confident
+    meaning_in_word: trusting
+    zh: 信任；信心
+    role: root
+    is_core: true
+word_family:
+  - confide
+  - confident
+  - confidence
+word_family_details:
+  - word: confide
+    en: to tell someone a private matter because you trust them
+    zh: 吐露心事；倾诉；信赖
+  - word: confident
+    en: feeling sure about your ability or about what will happen
+    zh: 有信心的；自信的
+  - word: confidence
+    en: trust in someone or something, or belief in your own ability
+    zh: 信心；信任；把握
+confusables:
+  []
+examples:
+  []
+why_confusing: overconfident 往往带负面语气。

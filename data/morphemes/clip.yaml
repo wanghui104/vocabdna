@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clip
+display: clip
+type: root
+core_meaning: clip
+zh: 修剪
+origin: Unknown
+source_form: Middle English clippen
+source_meaning: cut, trim
+source_meaning_zh: 剪；修剪
+related_morphemes:
+  []
+senses:
+  - meaning: clip
+    zh: 修剪
+    examples:
+      - clip
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - clip -> clip
+high_value_words:
+  - clip
+confusable_words:
+  []

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: breathe
+word: breathe
+pos: verb
+zh: 呼吸；呼出
+en: to take air into and out of the lungs
+components:
+  - morpheme: breath
+    form: breathe
+    meaning_in_word: breathe
+    zh: 呼吸；气息
+    role: root
+    is_core: true
+word_family:
+  - breath
+  - breathing
+  - breathless
+  - breathtaking
+word_family_details:
+  - word: breath
+    en: air taken into or sent out of the lungs
+    zh: 呼吸；气息
+  - word: breathing
+    en: the act or process of taking air into and out of the lungs
+    zh: 呼吸
+  - word: breathless
+    en: unable to breathe easily, or very still and quiet
+    zh: 喘不过气的；无声息的
+  - word: breathtaking
+    en: so beautiful, exciting, or surprising that it takes your breath away
+    zh: 令人激动的；惊人的
+confusables:
+  []
+examples:
+  []
+why_confusing: 结尾 e 改变读音：breathe /briːð/。

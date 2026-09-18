@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elusive
+word: elusive
+pos: adjective
+zh: 难以捕获、找到、达到或理解的
+en: difficult to catch, find, achieve, or understand
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: lud
+    form: lus
+    meaning_in_word: play / 玩；游戏
+    zh: 玩；游戏
+    role: root
+    is_core: true
+    note: Latin eludere = e-/ex- 向外 + ludere 玩，发展为躲开、逃脱；lus- 是分词词干。
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having the nature of, tending to / 具有……性质的；倾向于……的
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - elude
+word_family_details:
+  - word: elude
+    en: to escape or avoid; to remain beyond understanding
+    zh: 躲避；使无法理解
+confusables:
+  []
+examples:
+  []
+why_confusing: 

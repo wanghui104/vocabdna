@@ -1,0 +1,468 @@
+{
+  "batch": "3401-3600",
+  "sheet": "3001-4000",
+  "startNo": 3401,
+  "endNo": 3600,
+  "startRow": 437,
+  "endRow": 662,
+  "logicalWords": 200,
+  "existingBeforeReview": 11,
+  "missingBeforeReview": 189,
+  "newCanonicalWords": 189,
+  "uniqueCanonicalSlugs": 200,
+  "verifiedWordSlugs": [
+    "palette",
+    "paleontologist",
+    "pamphlet",
+    "pane",
+    "panel",
+    "panic",
+    "hispanic",
+    "pants",
+    "rampant",
+    "parachute",
+    "parade",
+    "parallel",
+    "unparalleled",
+    "paralysis",
+    "paralyze",
+    "parameter",
+    "paramount",
+    "paraphrase",
+    "parasite",
+    "parasitic",
+    "parliamentary",
+    "partial",
+    "impartially",
+    "participant",
+    "particle",
+    "passion",
+    "passionate",
+    "passive",
+    "pastel",
+    "pasture",
+    "patch",
+    "dispatch",
+    "patent",
+    "path",
+    "pathway",
+    "footpath",
+    "pathogen",
+    "patriarch",
+    "patriarchal",
+    "patriot",
+    "patriotic",
+    "patrol",
+    "patroller",
+    "patron",
+    "patronage",
+    "patronizing",
+    "paucity",
+    "pauper",
+    "pave",
+    "pave-the-way-for",
+    "peak",
+    "pebble",
+    "peck",
+    "peculiar",
+    "peculiarity",
+    "pedagogy",
+    "pedagogic",
+    "pedagogical",
+    "peer",
+    "peerless",
+    "penal",
+    "penalty",
+    "penchant",
+    "pendant",
+    "penetrate",
+    "penetrating",
+    "peninsula",
+    "pensive",
+    "perceive",
+    "perception",
+    "perceptive",
+    "conception",
+    "misconception",
+    "perch",
+    "percolate",
+    "percussion",
+    "perennial",
+    "perennially",
+    "perfect",
+    "perfection",
+    "perform",
+    "performance",
+    "performer",
+    "perfume",
+    "perimeter",
+    "periodic",
+    "period",
+    "periodical",
+    "peripheral",
+    "periphery",
+    "perishable",
+    "permanent",
+    "permeate",
+    "permeable",
+    "permission",
+    "permissive",
+    "perpendicular",
+    "perpetuate",
+    "perplex",
+    "perplexing",
+    "persevere",
+    "perseverance",
+    "persist",
+    "persistence",
+    "persistent",
+    "personality",
+    "personnel",
+    "perspective",
+    "perspiration",
+    "perspire",
+    "persuade",
+    "persuasive",
+    "pertinent",
+    "pest",
+    "pesticide",
+    "pestilence",
+    "pestilential",
+    "pet",
+    "petal",
+    "petition",
+    "repetition",
+    "competition",
+    "petroleum",
+    "phase",
+    "phenomena",
+    "phenomenally",
+    "philology",
+    "philosophy",
+    "phonetics",
+    "physiological",
+    "physiology",
+    "picturesque",
+    "pierce",
+    "pigment",
+    "pillar",
+    "caterpillar",
+    "capillary",
+    "pillow",
+    "willow",
+    "pinch",
+    "pine",
+    "porcupine",
+    "pineapple",
+    "spine",
+    "spined",
+    "spinet",
+    "pinpoint",
+    "pioneer",
+    "pioneering",
+    "pique",
+    "pit",
+    "pitch",
+    "pitcher",
+    "pivot",
+    "pivotal",
+    "a-pivotal-figure",
+    "plagiarism",
+    "plague",
+    "plain",
+    "plainly",
+    "plainspoken",
+    "floodplain",
+    "planet",
+    "plank",
+    "chunk",
+    "plantation",
+    "plasma",
+    "plaster",
+    "plate",
+    "platelike",
+    "tinplate",
+    "plateau",
+    "platform",
+    "platitude",
+    "platitudinous",
+    "playwright",
+    "pleasing",
+    "pleasure",
+    "pledge",
+    "pliable",
+    "pliant",
+    "plight",
+    "plow",
+    "plumage",
+    "plumb",
+    "plumber",
+    "plumbing",
+    "plump",
+    "plunge",
+    "pocketbook",
+    "polarize",
+    "polish",
+    "ploished",
+    "politics",
+    "poll",
+    "pollinate",
+    "pollination",
+    "pollen",
+    "pollinator",
+    "pollute"
+  ],
+  "multiMorphemeOrCompoundAfterReview": 144,
+  "intentionalBottomRootsAfterReview": 56,
+  "intentionalBottomRootSlugs": [
+    "palette",
+    "pamphlet",
+    "pane",
+    "panel",
+    "panic",
+    "pants",
+    "parade",
+    "pastel",
+    "pasture",
+    "patch",
+    "path",
+    "patrol",
+    "patron",
+    "pauper",
+    "pave",
+    "peak",
+    "pebble",
+    "peck",
+    "peculiar",
+    "peer",
+    "penchant",
+    "perch",
+    "pest",
+    "pet",
+    "petal",
+    "phase",
+    "pierce",
+    "pillar",
+    "caterpillar",
+    "pillow",
+    "willow",
+    "pinch",
+    "pine",
+    "spine",
+    "spinet",
+    "pioneer",
+    "pique",
+    "pit",
+    "pitch",
+    "pivot",
+    "plague",
+    "plain",
+    "planet",
+    "plank",
+    "chunk",
+    "plasma",
+    "plaster",
+    "plate",
+    "plateau",
+    "pledge",
+    "plight",
+    "plow",
+    "plumb",
+    "plump",
+    "plunge",
+    "poll"
+  ],
+  "weakRootWordsAfterReview": 0,
+  "templateResidueCount": 0,
+  "templateResidueSlugs": [],
+  "representativeSplits": [
+    {
+      "slug": "paleontologist",
+      "split": [
+        "paleo",
+        "ont",
+        "log",
+        "ist"
+      ]
+    },
+    {
+      "slug": "hispanic",
+      "split": [
+        "hispan",
+        "ic"
+      ]
+    },
+    {
+      "slug": "rampant",
+      "split": [
+        "ramp",
+        "ant"
+      ]
+    },
+    {
+      "slug": "parachute",
+      "split": [
+        "para",
+        "chute"
+      ]
+    },
+    {
+      "slug": "parallel",
+      "split": [
+        "para",
+        "allel"
+      ]
+    },
+    {
+      "slug": "unparalleled",
+      "split": [
+        "un",
+        "para",
+        "allel",
+        "ed"
+      ]
+    },
+    {
+      "slug": "paralysis",
+      "split": [
+        "para",
+        "lysis"
+      ]
+    },
+    {
+      "slug": "paralyze",
+      "split": [
+        "para",
+        "lyze"
+      ]
+    },
+    {
+      "slug": "parameter",
+      "split": [
+        "para",
+        "meter"
+      ]
+    },
+    {
+      "slug": "paramount",
+      "split": [
+        "para",
+        "mount"
+      ]
+    },
+    {
+      "slug": "paraphrase",
+      "split": [
+        "para",
+        "phrase"
+      ]
+    },
+    {
+      "slug": "parasite",
+      "split": [
+        "para",
+        "site"
+      ]
+    },
+    {
+      "slug": "parasitic",
+      "split": [
+        "para",
+        "site",
+        "ic"
+      ]
+    },
+    {
+      "slug": "parliamentary",
+      "split": [
+        "parliament",
+        "ary"
+      ]
+    },
+    {
+      "slug": "partial",
+      "split": [
+        "part",
+        "ial"
+      ]
+    },
+    {
+      "slug": "impartially",
+      "split": [
+        "im",
+        "part",
+        "ial",
+        "ly"
+      ]
+    },
+    {
+      "slug": "participant",
+      "split": [
+        "part",
+        "icip",
+        "ant"
+      ]
+    },
+    {
+      "slug": "particle",
+      "split": [
+        "part",
+        "icle"
+      ]
+    },
+    {
+      "slug": "passion",
+      "split": [
+        "pass",
+        "ion"
+      ]
+    },
+    {
+      "slug": "passionate",
+      "split": [
+        "pass",
+        "ion",
+        "ate"
+      ]
+    },
+    {
+      "slug": "passive",
+      "split": [
+        "pass",
+        "ive"
+      ]
+    },
+    {
+      "slug": "dispatch",
+      "split": [
+        "dis",
+        "patch"
+      ]
+    },
+    {
+      "slug": "patent",
+      "split": [
+        "pat",
+        "ent"
+      ]
+    },
+    {
+      "slug": "pathway",
+      "split": [
+        "path",
+        "way"
+      ]
+    }
+  ],
+  "sourceNotes": [
+    "Source spelling `ploished` was preserved as its own slug and explained as polish + -ed because the workbook appears to contain a typo for polished."
+  ],
+  "validation": {
+    "validate:vocab": "passed",
+    "generate:vocab": "passed",
+    "build:static": "passed",
+    "tsc --noEmit": "passed",
+    "audit-current-toefl-batch": "passed"
+  },
+  "mainIssue": "Primary work was adding missing canonical entries and drilling learner-visible morphology. After second-pass review, no unresolved root-breakdown defects or template residues remain; remaining one-part entries are intentional bottom roots or opaque common/loan/material/plant/animal bases."
+}

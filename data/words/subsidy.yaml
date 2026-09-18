@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: subsidy
+word: subsidy
+pos: noun
+zh: 补助金，津贴
+en: Means 补助金，津贴; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sub
+    form: sub-
+    meaning_in_word: under; below / 下；亚
+    zh: 在下、靠近、从属
+    role: prefix
+    is_core: false
+  - morpheme: sidy
+    form: sidy
+    meaning_in_word: support; subsidy / 支援；补助
+    zh: 支援；补助
+    role: root
+    is_core: true
+word_family:
+  - subsidize
+word_family_details:
+  - word: subsidize
+    en: Means 补助，资助; reviewed from the TOEFL source gloss for learner display.
+    zh: 补助，资助
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

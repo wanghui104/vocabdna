@@ -19,14 +19,16 @@ components:
     is_core: true
 word_family:
   - conversion
+  - converter
 word_family_details:
   - word: conversion
-    en: related form of conversion
-    zh: conversion 的相关词
+    en: Means 变换，转化; reviewed from the TOEFL source gloss for learner display.
+    zh: 变换，转化
+  - word: converter
+    en: a device or vessel that changes one form or material into another
+    zh: 转换器；转炉
 confusables:
-  - word: convey
-    reason: convert 是转换；convey 是传达或运输。
-    zh_reason: convert 是转换；convey 是传达或运输。
+  []
 examples:
   - en: The tool converts speech into text.
     zh: 这个工具把语音转换成文字。

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: leth
+display: leth
+type: root
+core_meaning: forgetfulness
+zh: 遗忘
+origin: Greek
+source_form: Greek lethe
+source_meaning: forgetfulness
+source_meaning_zh: 遗忘
+related_morphemes:
+  []
+senses:
+  - meaning: forgetfulness
+    zh: 遗忘
+    examples:
+      - lethal
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - leth -> lethal
+high_value_words:
+  - lethal
+confusable_words:
+  []

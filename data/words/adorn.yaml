@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adorn
+word: adorn
+pos: verb
+zh: 装饰
+en: to decorate or add beauty to something
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: orn-order
+    form: orn
+    meaning_in_word: decorate, arrange
+    zh: 装饰；安排
+    role: root
+    is_core: true
+word_family:
+  - adornment
+  - unadorned
+word_family_details:
+  - word: adornment
+    en: decoration, or something used for decoration
+    zh: 装饰；装饰品
+  - word: unadorned
+    en: Means 未装饰的,朴实的; reviewed from the TOEFL source gloss for learner display.
+    zh: 未装饰的,朴实的
+confusables:
+  []
+examples:
+  - en: Paintings adorn the hallway.
+    zh: 画作装饰着走廊。
+why_confusing: 常用于较正式或书面语境。

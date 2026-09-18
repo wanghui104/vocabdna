@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crumble
+word: crumble
+pos: verb
+zh: 粉碎；碎裂；崩溃
+en: to break into small pieces or gradually collapse
+components:
+  - morpheme: crum
+    form: crumb
+    meaning_in_word: break into crumbs / 弄皱；粉碎
+    zh: 弄皱；粉碎
+    role: root
+    is_core: true
+    note: crumb- 碎屑 + 反复动作 -le；末尾不是 Latin -culus 小称词缀。
+  - morpheme: le-frequentative
+    form: -le
+    meaning_in_word: repeated or small-scale action / 反复或细小动作
+    zh: 反复或细小动作
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: crumple
+    reason: 可用于 buildings, cookies, plans, authority 等崩塌。
+    zh_reason: 可用于 buildings, cookies, plans, authority 等崩塌。
+examples:
+  []
+why_confusing: 可用于 buildings, cookies, plans, authority 等崩塌。

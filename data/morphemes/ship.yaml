@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ship
+display: -ship
+type: suffix
+core_meaning: state, office
+zh: 状态；资格
+origin: Old English
+source_form: Old English -scipe
+source_meaning: state, office, condition
+source_meaning_zh: 状态；职位
+related_morphemes:
+  []
+senses:
+  - meaning: state, office
+    zh: 状态；资格
+    examples:
+      - assistantship
+      - championship
+      - citizenship
+      - courtship
+      - leadership
+      - proprietorship
+      - scholarship
+      - shipload
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ship -> assistantship
+  - -ship -> championship
+  - -ship -> citizenship
+  - -ship -> courtship
+  - -ship -> leadership
+  - -ship -> proprietorship
+  - -ship -> scholarship
+  - -ship -> shipload
+high_value_words:
+  - assistantship
+  - championship
+  - citizenship
+  - courtship
+  - leadership
+  - proprietorship
+  - scholarship
+  - shipload
+confusable_words:
+  []

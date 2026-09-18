@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: err
+display: err
+type: root
+core_meaning: wander, go wrong
+zh: 游移；出错
+origin: Latin
+source_form: Latin errare
+source_meaning: wander, go wrong
+source_meaning_zh: 游移；出错
+source_note: erratic = err- + -atic（Latin -aticus）；error 的 -or 是状态名词结尾，不是施事者。
+related_morphemes:
+  []
+senses:
+  - meaning: wander, go wrong
+    zh: 游移；出错
+    examples:
+      - err
+      - erratic
+      - erratically
+      - error
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - err -> err
+  - err -> erratic
+  - err -> erratically
+  - err -> error
+high_value_words:
+  - err
+  - erratic
+  - erratically
+  - error
+confusable_words:
+  []

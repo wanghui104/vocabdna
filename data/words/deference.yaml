@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deference
+word: deference
+pos: noun
+zh: 尊重；顺从；敬意
+en: respectful yielding to another person's wishes, judgment, or authority
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, remove / 向下；去除
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: fer
+    form: fer
+    meaning_in_word: carry, bring, bear / 携带、带来
+    zh: 携带、带来
+    role: root
+    is_core: true
+  - morpheme: ence
+    form: -ence
+    meaning_in_word: state, quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - defer
+  - deferential
+word_family_details:
+  - word: defer
+    en: to delay or put off until later
+    zh: 延期；推迟
+  - word: deferential
+    en: showing respectful submission to another person's judgment or authority
+    zh: 恭敬的；恭顺的
+confusables:
+  []
+examples:
+  []
+why_confusing: in deference to someone/something 是出于尊重。

@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: category
+word: category
+pos: noun
+zh: 种类；类目；范畴
+en: a class or group of things of the same type
+components:
+  - morpheme: category
+    form: category
+    meaning_in_word: class
+    zh: 类别；范畴
+    role: root
+    is_core: true
+word_family:
+  - categorize
+word_family_details:
+  - word: categorize
+    en: to put people or things into categories
+    zh: 分类
+confusables:
+  []
+examples:
+  []
+why_confusing: category 和 catalogue 拼写近但不同。

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: icon
+word: icon
+pos: noun
+zh: 圣像，偶像 / 图标
+en: Means 圣像，偶像 / 图标; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: icon
+    form: icon
+    meaning_in_word: 图像；圣像
+    zh: 图像；圣像
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:icon.
+word_family:
+  - iconographic
+word_family_details:
+  - word: iconographic
+    en: Means 图解的; reviewed from the TOEFL source gloss for learner display.
+    zh: 图解的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

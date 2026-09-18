@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: psychoanalysis
+word: psychoanalysis
+pos: noun
+zh: 心理分析；精神分析
+en: a method of studying and treating mental processes by analysis
+components:
+  - morpheme: psycho
+    form: psycho-
+    meaning_in_word: mind
+    zh: 心理；精神
+    role: combining_form
+    is_core: true
+  - morpheme: ana
+    form: ana-
+    meaning_in_word: apart
+    zh: 向上；返回；贯穿
+    role: prefix
+    is_core: false
+  - morpheme: lys
+    form: lysis
+    meaning_in_word: breaking apart
+    zh: 释放；催化
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 这是心理/精神分析，不是普通 analysis 的直接同义词。

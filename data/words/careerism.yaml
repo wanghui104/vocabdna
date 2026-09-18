@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: careerism
+word: careerism
+pos: noun
+zh: 野心；追求名利
+en: the practice of putting career advancement above other values
+components:
+  - morpheme: career
+    form: career
+    meaning_in_word: career path
+    zh: 生涯；职业
+    role: root
+    is_core: true
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: practice
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+word_family:
+  - career
+word_family_details:
+  - word: career
+    en: a person's work life or course through a profession
+    zh: 生涯；职业
+confusables:
+  []
+examples:
+  []
+why_confusing: 通常带负面语气。

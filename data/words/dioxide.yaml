@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dioxide
+word: dioxide
+pos: noun
+zh: 二氧化物
+en: a compound containing two oxygen atoms
+components:
+  - morpheme: di-two
+    form: di-
+    meaning_in_word: two
+    zh: 二；双
+    role: prefix
+    is_core: false
+  - morpheme: oxid
+    form: oxide
+    meaning_in_word: oxygen compound
+    zh: 氧化物
+    role: root
+    is_core: true
+    note: 表层 oxide/oxid- 氧化物；French oxyde 由 oxygen 的 oxy- 与化学结尾 -ide 形成。oxygen 名称更深为 Greek oxys 酸、尖锐 + -gen 产生，反映早期命名观念；氧化物不等于酸。
+    related_morphemes:
+      - gen
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dioxide 是总类；carbon dioxide 是二氧化碳。

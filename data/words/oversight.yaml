@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: oversight
+word: oversight
+pos: noun
+zh: 勘漏, 失察, 疏忽
+en: Means 勘漏, 失察, 疏忽; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: over
+    form: over-
+    meaning_in_word: above; too much / 在上；过度
+    zh: 超过；过度
+    role: prefix
+    is_core: false
+  - morpheme: sight
+    form: sight
+    meaning_in_word: sight; seeing / 视线；看见
+    zh: 视觉；看见
+    role: root
+    is_core: true
+    related_morphemes:
+      - see
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

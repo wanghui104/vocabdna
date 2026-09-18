@@ -11,14 +11,29 @@ senses:
   - meaning: leap, burst forth, rebound
     zh: 跳起、涌出、弹回
     examples:
+      - mainspring
+      - offspring
       - spring
+      - spring up
+      - springtime
+      - springwater
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - spring -> mainspring
+  - spring -> offspring
   - spring -> spring
+  - spring -> spring up
+  - spring -> springtime
+  - spring -> springwater
 high_value_words:
+  - mainspring
+  - offspring
   - spring
+  - spring up
+  - springtime
+  - springwater
 confusable_words:
   []

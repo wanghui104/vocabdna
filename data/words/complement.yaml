@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: complement
+word: complement
+pos: verb/noun
+zh: 补充；使完善；补足物
+en: to complete or improve something by adding what is missing
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: completely
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: ple
+    form: ple
+    meaning_in_word: fill
+    zh: 补足；补充
+    role: root
+    is_core: true
+word_family:
+  - complementary
+word_family_details:
+  - word: complementary
+    en: combining well to complete or improve something
+    zh: 补充的；互补的
+confusables:
+  - word: compliment
+    reason: complement 补足；compliment 赞美，易混。
+    zh_reason: complement 补足；compliment 赞美，易混。
+  - word: complimentary
+    reason: complement 补足；compliment 赞美，易混。
+    zh_reason: complement 补足；compliment 赞美，易混。
+examples:
+  []
+why_confusing: complement 补足；compliment 赞美，易混。

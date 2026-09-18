@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: untangle
+word: untangle
+pos: verb
+zh: 解开缠结；理清
+en: to separate things that are twisted together or make a complicated situation clear
+components:
+  - morpheme: un-reverse
+    form: un-
+    meaning_in_word: undo or reverse / 解开、逆转
+    zh: 解开；逆转；除去
+    role: prefix
+    is_core: false
+    note: 这里表示撤销缠绕这一动作，区别只表示“不”的否定 un-。
+  - morpheme: tangle
+    form: tangle
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: 保留 tangle 为学习词干；不是 Latin tangere（触碰）的 tang-，更早词源仍有不确定性。
+word_family:
+  - untangled
+word_family_details:
+  - word: untangled
+    en: freed from twisted connections or made clear; also the past form of untangle
+    zh: 解开缠结的；理清了的；untangle 的过去形式
+confusables:
+  []
+examples:
+  - en: He carefully untangled the charging cables.
+    zh: 他小心地解开缠在一起的充电线。
+  - en: The report helps untangle the sequence of events.
+    zh: 这份报告有助于理清事件的先后顺序。
+why_confusing: untangle 与 disentangle 都可表示解开或理清；untangle 是反向动作，不只是“不缠绕”。

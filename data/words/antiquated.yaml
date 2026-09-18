@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: antiquated
+word: antiquated
+pos: adjective
+zh: 陈旧的；过时的
+en: too old-fashioned to be useful or suitable
+components:
+  - morpheme: antiqu
+    form: antiqu
+    meaning_in_word: ancient, old
+    zh: 古老；过时
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: completed state
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - antique
+  - antiquate
+  - antiquity
+word_family_details:
+  - word: antique
+    en: an old object valued because of its age, beauty, or rarity
+    zh: 古董
+  - word: antiquate
+    en: to make something old-fashioned or obsolete
+    zh: 使古旧；使过时；废弃
+  - word: antiquity
+    en: an object, building, or relic from ancient times
+    zh: 古迹；古物
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nowadays
+word: nowadays
+pos: adverb/verb
+zh: 现今，时下
+en: Means 现今，时下; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: now
+    form: now
+    meaning_in_word: now / 现在
+    zh: 现在
+    role: root
+    is_core: true
+  - morpheme: a
+    form: a
+    meaning_in_word: a / a
+    zh: 在；属于；完成性
+    role: root
+    is_core: true
+  - morpheme: day
+    form: day
+    meaning_in_word: day / 日；时期
+    zh: 白天；日子
+    role: root
+    is_core: true
+  - morpheme: s
+    form: s
+    meaning_in_word: s / s
+    zh: 复数；机构化形式
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

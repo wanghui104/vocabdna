@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lodging
+word: lodging
+pos: noun
+zh: 寄宿，住房（常指出租的房间）
+en: Means 寄宿，住房（常指出租的房间）; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lodge
+    form: lodge
+    meaning_in_word: 小屋；住宿
+    zh: 小屋；住宿
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lodge.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ing.
+word_family:
+  - lodge
+word_family_details:
+  - word: lodge
+    en: Means （山林）小屋 / 寄存；临时住宿; reviewed from the TOEFL source gloss for learner display.
+    zh: （山林）小屋 / 寄存；临时住宿
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

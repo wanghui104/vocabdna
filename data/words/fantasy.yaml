@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fantasy
+word: fantasy
+pos: noun
+zh: 幻想；幻想文学
+en: imagination or an imagined situation; fiction involving unreal worlds or magic
+components:
+  - morpheme: fantas
+    form: fantas
+    meaning_in_word: imagination, show / 想象；显示
+    zh: 想象；显示
+    role: root
+    is_core: true
+    note: 深层 phainein 显示 → phantos 可见 → phantazein 想象 → phantasia；fantast- 的 t 属希腊形容词派生层，不是 fanatic 的神庙根。
+  - morpheme: y-noun
+    form: -y
+    meaning_in_word: state, activity, result / 状态；活动；结果
+    zh: 状态；活动；结果
+    role: suffix
+    is_core: false
+    note: 名词 -y 与形容词 -y（古英语 -ig）分开。
+word_family:
+  - fantastic
+word_family_details:
+  - word: fantastic
+    en: extremely good; imaginative, strange, or unreal
+    zh: 极好的；奇异的；幻想的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

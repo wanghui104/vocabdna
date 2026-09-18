@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: breeze
+word: breeze
+pos: noun
+zh: 微风
+en: a light gentle wind
+components:
+  - morpheme: breeze
+    form: breeze
+    meaning_in_word: light wind
+    zh: 微风
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: a breeze 可口语表示轻而易举的事。

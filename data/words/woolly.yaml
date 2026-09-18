@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: woolly
+word: woolly
+pos: adjective
+zh: 多毛的
+en: Means 多毛的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: wool
+    form: wool
+    meaning_in_word: wool / 羊毛
+    zh: 羊毛
+    role: root
+    is_core: true
+    note: Conservative bottom root inside this learner-visible analysis; deeper source is uncertain or not productive for TOEFL study.
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner / 以…方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - wool
+  - woolen
+word_family_details:
+  - word: wool
+    en: Means 羊毛; reviewed from the TOEFL source gloss for learner display.
+    zh: 羊毛
+  - word: woolen
+    en: Means 羊毛制的；毛织品的; reviewed from the TOEFL source gloss for learner display.
+    zh: 羊毛制的；毛织品的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

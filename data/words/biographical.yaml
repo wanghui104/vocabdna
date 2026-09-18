@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: biographical
+word: biographical
+pos: adjective
+zh: 传记的
+en: related to the facts or written account of someone's life
+components:
+  - morpheme: bio
+    form: bio-
+    meaning_in_word: life
+    zh: 生命
+    role: combining_form
+    is_core: true
+  - morpheme: graph
+    form: graph-
+    meaning_in_word: writing
+    zh: 写、记录
+    role: combining_form
+    is_core: true
+  - morpheme: ic
+    form: -ical
+    meaning_in_word: relating to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - biography
+word_family_details:
+  - word: biography
+    en: the story of a person's life written by someone else
+    zh: 传记
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

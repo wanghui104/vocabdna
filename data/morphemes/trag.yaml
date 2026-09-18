@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: trag
+display: trag
+type: root
+core_meaning: goat song; tragedy
+zh: 悲剧
+origin: teaching morphology
+source_form: trag
+source_meaning: goat song; tragedy
+source_meaning_zh: 悲剧
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: goat song; tragedy
+    zh: 悲剧
+    examples:
+      - tragedy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - trag -> tragedy
+high_value_words:
+  - tragedy
+confusable_words:
+  []

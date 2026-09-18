@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: depart
+word: depart
+pos: verb
+zh: 离开；出发
+en: to leave a place or begin a journey
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: part
+    form: part
+    meaning_in_word: part, divide
+    zh: 分开；离开
+    role: root
+    is_core: true
+word_family:
+  - departure
+word_family_details:
+  - word: departure
+    en: the act of leaving, starting a journey, or moving away from a norm
+    zh: 离开；出发；背离
+confusables:
+  []
+examples:
+  []
+why_confusing: depart from 可表示离开，也可表示偏离规则。

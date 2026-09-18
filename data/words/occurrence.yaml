@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: occurrence
+word: occurrence
+pos: noun
+zh: 事件；发生
+en: Means 事件；发生; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: oc
+    form: -oc
+    meaning_in_word: oc / oc
+    zh: oc
+    role: suffix
+    is_core: false
+  - morpheme: curr
+    form: curr
+    meaning_in_word: run; happen / 跑；发生
+    zh: 跑；流动；路线
+    role: root
+    is_core: true
+  - morpheme: ence
+    form: ence
+    meaning_in_word: ence / ence
+    zh: 状态；性质
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

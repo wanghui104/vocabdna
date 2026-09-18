@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crawl
+word: crawl
+pos: verb
+zh: 爬；爬行；缓慢移动
+en: to move slowly on hands and knees or very slowly forward
+components:
+  - morpheme: crawl
+    form: crawl
+    meaning_in_word: move slowly
+    zh: 爬行；缓慢移动
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: creep
+    reason: traffic can crawl, meaning move very slowly.
+    zh_reason: traffic can crawl, meaning move very slowly.
+examples:
+  []
+why_confusing: traffic can crawl, meaning move very slowly.

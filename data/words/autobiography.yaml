@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: autobiography
+word: autobiography
+pos: noun
+zh: 自传
+en: the story of a person's life written by that person
+components:
+  - morpheme: auto
+    form: auto-
+    meaning_in_word: self
+    zh: 自己；自身
+    role: prefix
+    is_core: false
+  - morpheme: bio
+    form: bio-
+    meaning_in_word: life
+    zh: 生命
+    role: combining_form
+    is_core: true
+  - morpheme: graph
+    form: graph
+    meaning_in_word: write
+    zh: 写、记录
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: memoir 更偏回忆录，不一定覆盖完整一生。

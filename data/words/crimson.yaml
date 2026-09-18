@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crimson
+word: crimson
+pos: noun/adjective
+zh: 深红色；深红色的
+en: a deep rich red color, or having that color
+components:
+  - morpheme: crimson
+    form: crimson
+    meaning_in_word: deep red dye
+    zh: 深红色
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 比 red 更深、更文学化。

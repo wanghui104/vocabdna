@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: moder
+display: moder
+type: root
+core_meaning: control, regulate
+zh: 节制；调节
+origin: Latin
+source_form: Latin moderari
+source_meaning: control, regulate
+source_meaning_zh: 节制；调节
+related_morphemes:
+  []
+senses:
+  - meaning: control, regulate
+    zh: 节制；调节
+    examples:
+      - moderate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - moder -> moderate
+high_value_words:
+  - moderate
+confusable_words:
+  []

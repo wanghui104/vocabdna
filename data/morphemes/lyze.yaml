@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lyze
+display: lyze
+type: root
+core_meaning: loosen; paralyze
+zh: 松解；麻痹
+origin: teaching morphology
+source_form: lyze
+source_meaning: loosen; paralyze
+source_meaning_zh: 松解；麻痹
+related_morphemes:
+  []
+senses:
+  - meaning: loosen; paralyze
+    zh: 松解；麻痹
+    examples:
+      - paralyze
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - lyze -> paralyze
+high_value_words:
+  - paralyze
+confusable_words:
+  []

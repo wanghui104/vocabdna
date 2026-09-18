@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: irregular
+word: irregular
+pos: adjective
+zh: 不规则的，不整齐的
+en: Means 不规则的，不整齐的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ir
+    form: ir-
+    meaning_in_word: 不；入
+    zh: 不；入
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ir.
+  - morpheme: regul
+    form: regul
+    meaning_in_word: 规则
+    zh: 规则
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:regul.
+  - morpheme: ar
+    form: -ar
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ar.
+word_family:
+  - irregularly
+word_family_details:
+  - word: irregularly
+    en: Means 不规则地; reviewed from the TOEFL source gloss for learner display.
+    zh: 不规则地
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

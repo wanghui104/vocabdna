@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vent
+display: vent
+type: root
+core_meaning: come upon, find
+zh: 发现；清单
+origin: Latin
+source_form: Latin invenire / inventum
+source_meaning: come upon, find
+source_meaning_zh: 发现；清单
+related_morphemes:
+  []
+senses:
+  - meaning: come upon, find
+    zh: 发现；清单
+    examples:
+      - inventory
+      - vent
+      - ventilate
+      - ventilation
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - vent -> inventory
+  - vent -> vent
+  - vent -> ventilate
+  - vent -> ventilation
+high_value_words:
+  - inventory
+  - vent
+  - ventilate
+  - ventilation
+confusable_words:
+  []

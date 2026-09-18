@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adventurer
+word: adventurer
+pos: noun
+zh: 冒险家
+en: a person who seeks exciting or risky experiences
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: ven-vent
+    form: venture
+    meaning_in_word: risk, chance
+    zh: 来到；出现
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person who does
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - adventure
+  - adventurous
+word_family_details:
+  - word: adventure
+    en: Means 冒险，冒险的经历; reviewed from the TOEFL source gloss for learner display.
+    zh: 冒险，冒险的经历
+  - word: adventurous
+    en: willing to try new, difficult, or risky things
+    zh: 喜欢冒险的；敢做敢为的
+confusables:
+  []
+examples:
+  - en: The adventurer crossed the desert alone.
+    zh: 那位冒险家独自穿越沙漠。
+why_confusing: 有时可带负面含义，指投机冒险者。

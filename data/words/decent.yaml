@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: decent
+word: decent
+pos: adjective
+zh: 适当的；可接受的；得体的
+en: acceptable, proper, respectable, or fairly good
+components:
+  - morpheme: dec-decor
+    form: dec
+    meaning_in_word: fitting, proper
+    zh: 得体；合宜；装饰
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having quality
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: decent 可表示得体，也可表示还不错。

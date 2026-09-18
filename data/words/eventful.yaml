@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eventful
+word: eventful
+pos: adjective
+zh: 多重大事件的；多事的
+en: full of important or interesting events
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: ven-vent
+    form: vent
+    meaning_in_word: come, arrive / 来到；出现
+    zh: 来到；出现
+    role: root
+    is_core: true
+    note: event + -ful，Word DNA 再拆 e- + vent- + -ful；event 深层 e- + venire 来。
+  - morpheme: ful
+    form: -ful
+    meaning_in_word: full of / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - event
+  - eventual
+  - eventually
+word_family_details:
+  - word: event
+    en: something that happens, especially an important occurrence or organized activity
+    zh: 事件；活动
+  - word: eventual
+    en: happening at the end of a process or period
+    zh: 最终的
+  - word: eventually
+    en: in the end, after some time or difficulties
+    zh: 最终；终于
+confusables:
+  []
+examples:
+  []
+why_confusing: 

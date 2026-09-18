@@ -1,0 +1,55 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sequ
+display: sequ
+type: root
+core_meaning: follow, result
+zh: 跟随；结果
+origin: Latin
+source_form: Latin sequi / secutus
+source_meaning: follow
+source_meaning_zh: 跟随
+source_note: sequi 跟随的分词词干为 secut-；execute/execution 的 exsecut- 在 x 后省写 s，显示 ecute/ecut，仍同一来源。
+related_morphemes:
+  []
+senses:
+  - meaning: follow, result
+    zh: 跟随；结果
+    examples:
+      - consecutive
+      - consequence
+      - consequent
+      - consequently
+      - execute
+      - execution
+      - executive
+      - sequence
+      - subsequent
+      - subsequently
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - secut -> consecutive
+  - sequ -> consequence
+  - sequ -> consequent
+  - consequent -> consequently
+  - ecute -> execute
+  - ecut -> execution
+  - ecut -> executive
+  - sequ -> sequence
+  - sequ -> subsequent
+  - sequ -> subsequently
+high_value_words:
+  - consecutive
+  - consequence
+  - consequent
+  - consequently
+  - execute
+  - execution
+  - executive
+  - sequence
+  - subsequent
+  - subsequently
+confusable_words:
+  []

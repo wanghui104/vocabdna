@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pike
+display: pike
+type: root
+core_meaning: spike; road barrier
+zh: 尖桩；收费路障
+origin: teaching morphology
+source_form: pike
+source_meaning: spike; road barrier
+source_meaning_zh: 尖桩；收费路障
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: spike; road barrier
+    zh: 尖桩；收费路障
+    examples:
+      - turnpike
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pike -> turnpike
+high_value_words:
+  - turnpike
+confusable_words:
+  []

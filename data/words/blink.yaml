@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blink
+word: blink
+pos: verb
+zh: 眨眼
+en: to close and open the eyes quickly
+components:
+  - morpheme: blink
+    form: blink
+    meaning_in_word: quick eye flash
+    zh: 眨眼
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: blink at 可指因惊讶而眨眼。

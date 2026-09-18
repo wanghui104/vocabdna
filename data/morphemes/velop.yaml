@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: velop
+display: velop
+type: root
+core_meaning: wrap
+zh: 包裹
+origin: French
+source_form: Old French voloper, voluper
+source_meaning: wrap
+source_meaning_zh: 包裹
+source_note: 更深来源有 Celtic/Germanic 等提议但未定；en- + velop，不能错误归入 vol- 飞。
+related_morphemes:
+  []
+senses:
+  - meaning: wrap
+    zh: 包裹
+    examples:
+      - envelop
+      - envelope
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - velop -> envelop
+  - velope -> envelope
+high_value_words:
+  - envelop
+  - envelope
+confusable_words:
+  []

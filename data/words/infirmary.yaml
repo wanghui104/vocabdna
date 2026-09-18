@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: infirmary
+word: infirmary
+pos: noun
+zh: 医院, 医务室<美>养老院, 救济院
+en: Means 医院, 医务室<美>养老院, 救济院; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: in; not / 在内；不
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+  - morpheme: firm
+    form: firm
+    meaning_in_word: firm; infirmary / 坚固；病弱
+    zh: 坚定；坚固
+    role: root
+    is_core: true
+  - morpheme: ary
+    form: -ary
+    meaning_in_word: relating to / 相关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

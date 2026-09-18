@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: osis
+display: -osis
+type: suffix
+core_meaning: state; process
+zh: 状态；过程
+origin: Greek
+source_form: osis
+source_meaning: state; process
+source_meaning_zh: 状态；过程
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: state; process
+    zh: 状态；过程
+    examples:
+      - symbiosis
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -osis -> symbiosis
+high_value_words:
+  - symbiosis
+confusable_words:
+  []

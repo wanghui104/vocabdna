@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: engrave
+word: engrave
+pos: verb
+zh: 雕刻；铭刻
+en: to cut a design or words into a hard surface
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: grave-carve
+    form: grave
+    meaning_in_word: dig, carve / 挖；刻
+    zh: 挖；刻
+    role: root
+    is_core: true
+    note: engrave 的 grave 是刻，不是 Latin gravis 重。
+word_family:
+  - engraving
+word_family_details:
+  - word: engraving
+    en: the art of cutting designs into a surface; a print made from such a design
+    zh: 雕刻术；版画
+confusables:
+  []
+examples:
+  []
+why_confusing: 

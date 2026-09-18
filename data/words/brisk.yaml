@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brisk
+word: brisk
+pos: adjective
+zh: 活泼的；轻快的；敏捷的
+en: quick, energetic, and lively
+components:
+  - morpheme: brisk
+    form: brisk
+    meaning_in_word: lively, sharp
+    zh: 活泼；轻快
+    role: root
+    is_core: true
+word_family:
+  - briskness
+word_family_details:
+  - word: briskness
+    en: Means 敏捷，活泼; reviewed from the TOEFL source gloss for learner display.
+    zh: 敏捷，活泼
+confusables:
+  []
+examples:
+  []
+why_confusing: brisk walk/business/trade 都常见。

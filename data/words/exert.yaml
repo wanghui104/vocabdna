@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exert
+word: exert
+pos: verb
+zh: 施加；运用；尽力
+en: to apply effort, force, or influence
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: ser
+    form: ert
+    meaning_in_word: join, put in a row / 连接；排成一列
+    zh: 连接；排成一列
+    role: root
+    is_core: true
+    note: ex- + ert-；来自 exsertus，深层 ex- + serere 连接、伸出，分词 sert- 的 s 在 x 后省写，不能另造“ert 力量”词根。
+word_family:
+  - exertion
+word_family_details:
+  - word: exertion
+    en: the use of physical or mental effort
+    zh: 用力；努力
+confusables:
+  []
+examples:
+  []
+why_confusing: 

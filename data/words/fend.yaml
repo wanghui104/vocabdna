@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fend
+word: fend
+pos: verb
+zh: 自理；抵挡
+en: to manage or provide for oneself; to ward off
+components:
+  - morpheme: fend-word
+    form: fend
+    meaning_in_word: manage, defend / 自理；抵御
+    zh: 自理；抵御
+    role: root
+    is_core: true
+    note: fend 是 defend 的缩略，深层 de- + -fendere 击退；与已存 Latin fend 词根区分直接英语词干。
+    related_morphemes:
+      - de
+      - fend
+word_family:
+  - fender
+word_family_details:
+  - word: fender
+    en: a protective device, especially a vehicle panel over a wheel or a cushion along a boat
+    zh: 挡泥板；护舷；防护装置
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: malleability
+word: malleability
+pos: noun
+zh: 可锻性，可塑性，延展性
+en: Means 可锻性，可塑性，延展性; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: malle
+    form: malle
+    meaning_in_word: 锤；锻打
+    zh: 锤；锻打
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:malle.
+  - morpheme: ability
+    form: ability
+    meaning_in_word: ability
+    zh: ability
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ability.
+word_family:
+  - malleable
+word_family_details:
+  - word: malleable
+    en: Means 可锻的，可塑的，可延展的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可锻的，可塑的，可延展的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

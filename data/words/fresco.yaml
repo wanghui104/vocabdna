@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fresco
+word: fresco
+pos: noun/verb
+zh: 湿壁画；绘制湿壁画
+en: a painting made on fresh wet plaster; to paint in this manner
+components:
+  - morpheme: fresco
+    form: fresco
+    meaning_in_word: fresh / 新鲜
+    zh: 新鲜
+    role: root
+    is_core: true
+    note: 借自意大利 fresco 新鲜，指在新抹湿灰泥上绘画；-o 为借入词的意大利词尾，不当英语后缀。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

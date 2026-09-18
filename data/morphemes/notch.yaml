@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: notch
+display: notch
+type: root
+core_meaning: notch
+zh: notch
+origin: teaching morphology
+source_form: notch
+source_meaning: notch
+source_meaning_zh: notch
+related_morphemes:
+  []
+senses:
+  - meaning: notch
+    zh: notch
+    examples:
+      - notch
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - notch -> notch
+high_value_words:
+  - notch
+confusable_words:
+  []

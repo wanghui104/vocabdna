@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: autobiographical
+word: autobiographical
+pos: adjective
+zh: 自传的；自传体的
+en: related to or based on an autobiography
+components:
+  - morpheme: auto
+    form: auto-
+    meaning_in_word: self
+    zh: 自己；自身
+    role: combining_form
+    is_core: true
+  - morpheme: bio
+    form: bio-
+    meaning_in_word: life
+    zh: 生命
+    role: combining_form
+    is_core: true
+  - morpheme: graph
+    form: graph-
+    meaning_in_word: writing
+    zh: 写、记录
+    role: combining_form
+    is_core: true
+  - morpheme: ic
+    form: -ical
+    meaning_in_word: relating to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - autobiography
+word_family_details:
+  - word: autobiography
+    en: the story of a person's life written by that person
+    zh: 自传
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: arrange
+word: arrange
+pos: verb
+zh: 安排；计划；整理；摆放
+en: to plan something or put things in order
+components:
+  - morpheme: ad
+    form: ar-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: range-rank
+    form: range
+    meaning_in_word: row, order
+    zh: 行列；安排
+    role: root
+    is_core: true
+word_family:
+  - arrangement
+word_family_details:
+  - word: arrangement
+    en: a plan, agreement, or ordered placement
+    zh: 安排；排列；布置
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

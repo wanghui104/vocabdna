@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: differentiate
+word: differentiate
+pos: verb
+zh: 区分；区别
+en: to recognize or show the difference between things
+components:
+  - morpheme: dis
+    form: dif-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: fer
+    form: fer
+    meaning_in_word: carry, bring, bear / 携带、带来
+    zh: 携带、带来
+    role: root
+    is_core: true
+    note: 表层 different + -iate；内层 dif-（dis-）+ fer- 搬运 + -ent 性质 + -iate（连接 i + -ate 使成为）。原记录遗漏 -ent(i)-。
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: one who, that which, having the quality of / ……的人；具有……性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+  - morpheme: ate
+    form: -iate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - undifferentiated
+word_family_details:
+  - word: undifferentiated
+    en: not having clear differences or specialized features
+    zh: 无差别的；无显著特征的
+confusables:
+  []
+examples:
+  []
+why_confusing: differentiate from/between 是常见搭配。

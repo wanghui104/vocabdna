@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exclusion
+word: exclusion
+pos: noun
+zh: 排除；不包括
+en: the act or state of being kept or left out
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: clud
+    form: clus
+    meaning_in_word: close, conclude / 关闭；结束
+    zh: 关闭；结束
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
+word_family:
+  - exclude
+  - exclusive
+  - exclusively
+word_family_details:
+  - word: exclude
+    en: to keep out or leave out of consideration
+    zh: 排除；不包括
+  - word: exclusive
+    en: limited to particular people or things; not shared; excluding others
+    zh: 独有的；专用的；排他的
+  - word: exclusively
+    en: only; for a particular group or purpose alone
+    zh: 仅仅；专门地
+confusables:
+  []
+examples:
+  []
+why_confusing: 

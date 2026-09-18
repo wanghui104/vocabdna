@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: in-not
+display: in-
+type: prefix
+core_meaning: not
+zh: 不；否定
+origin: Latin
+source_form: Latin in- (negative prefix)
+source_meaning: not
+source_meaning_zh: 不；否定
+source_note: 否定 in- 及同化形 im-/il-/ir-；与 in- 在内的前缀异义，不能混用。
+related_morphemes:
+  []
+senses:
+  - meaning: not
+    zh: 不；否定
+    examples:
+      - infant
+      - informality
+      - informally
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - in- -> infant
+  - in- -> informality
+  - in- -> informally
+high_value_words:
+  - infant
+  - informality
+  - informally
+confusable_words:
+  []

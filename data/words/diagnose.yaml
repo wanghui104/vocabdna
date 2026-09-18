@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diagnose
+word: diagnose
+pos: verb
+zh: 诊断；判断原因
+en: to identify an illness or problem from evidence
+components:
+  - morpheme: dia
+    form: dia-
+    meaning_in_word: through, across / 穿过；横跨
+    zh: 穿过；横跨
+    role: prefix
+    is_core: false
+  - morpheme: gnos
+    form: gnose
+    meaning_in_word: know / 知道；辨认
+    zh: 知道；辨认
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: diagnose 常用于医学，也可用于问题原因分析。

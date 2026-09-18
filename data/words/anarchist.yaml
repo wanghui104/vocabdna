@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: anarchist
+word: anarchist
+pos: noun
+zh: 无政府主义者
+en: a person who believes there should be no government or imposed authority
+components:
+  - morpheme: an
+    form: an-
+    meaning_in_word: without
+    zh: 不；无
+    role: prefix
+    is_core: false
+  - morpheme: arch
+    form: arch
+    meaning_in_word: rule
+    zh: 统治；统治者
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

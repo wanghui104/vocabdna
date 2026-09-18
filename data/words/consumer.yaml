@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consumer
+word: consumer
+pos: noun
+zh: 消费者
+en: a person who buys or uses goods and services
+components:
+  - morpheme: sum
+    form: consume
+    meaning_in_word: use up/buy
+    zh: 拿起；承担
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - consume
+  - consumption
+word_family_details:
+  - word: consume
+    en: to use up, eat, drink, or buy goods and services
+    zh: 消费；消耗；吃喝
+  - word: consumption
+    en: the use of goods, energy, food, or resources
+    zh: 消耗；消费
+confusables:
+  []
+examples:
+  []
+why_confusing: consumer rights/behavior 常见。

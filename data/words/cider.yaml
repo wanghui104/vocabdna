@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cider
+word: cider
+pos: noun
+zh: 苹果酒；苹果汁
+en: a drink made from apples, alcoholic or nonalcoholic depending on variety
+components:
+  - morpheme: cider
+    form: cider
+    meaning_in_word: apple drink
+    zh: 苹果酒；苹果汁
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 美式 cider 可指苹果汁；英式常指苹果酒。

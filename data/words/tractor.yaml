@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tractor
+word: tractor
+pos: noun
+zh: 拖拉机
+en: Means 拖拉机; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: tract
+    form: tract
+    meaning_in_word: draw; pull; tract / 拉；牵引；大片
+    zh: 拉、抽出
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person/thing that / 做…者或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - tract
+  - traction
+word_family_details:
+  - word: tract
+    en: Means 广阔的地面，大片（土地）；管道; reviewed from the TOEFL source gloss for learner display.
+    zh: 广阔的地面，大片（土地）；管道
+  - word: traction
+    en: Means 牵引; reviewed from the TOEFL source gloss for learner display.
+    zh: 牵引
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

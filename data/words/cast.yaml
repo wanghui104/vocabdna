@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cast
+word: cast
+pos: verb/noun
+zh: 投；抛；浇铸；铸件阵容
+en: to throw, choose actors, or shape metal by pouring it
+components:
+  - morpheme: cast
+    form: cast
+    meaning_in_word: throw, pour
+    zh: 投；铸造；传播
+    role: root
+    is_core: true
+word_family:
+  - casting
+word_family_details:
+  - word: casting
+    en: the process or result of casting metal, or choosing actors
+    zh: 铸件；铸造；选角
+confusables:
+  []
+examples:
+  []
+why_confusing: cast 的义项很多：投、铸、选角、投射。

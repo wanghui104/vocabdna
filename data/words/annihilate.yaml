@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: annihilate
+word: annihilate
+pos: verb
+zh: 消灭；歼灭；彻底毁掉
+en: to destroy completely or reduce to nothing
+components:
+  - morpheme: ad
+    form: an-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: nihil
+    form: nihil
+    meaning_in_word: nothing
+    zh: 无；消灭为零
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

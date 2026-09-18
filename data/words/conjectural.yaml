@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conjectural
+word: conjectural
+pos: adjective
+zh: 推测的；猜测性的
+en: based on conjecture rather than proof
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: ject
+    form: ject
+    meaning_in_word: throw
+    zh: 投射；猜想
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ural
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - conjecture
+word_family_details:
+  - word: conjecture
+    en: a guess or to guess based on incomplete information
+    zh: 推测；猜想
+confusables:
+  []
+examples:
+  []
+why_confusing: conjectural explanation/evidence 常见。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: choppy
+word: choppy
+pos: adjective
+zh: 波浪起伏的；方向多变的
+en: rough with many small waves, or changing often
+components:
+  - morpheme: chop
+    form: chop
+    meaning_in_word: broken waves
+    zh: 砍；波浪起伏
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  - chop
+word_family_details:
+  - word: chop
+    en: to cut something with repeated sharp blows
+    zh: 砍；劈
+confusables:
+  []
+examples:
+  []
+why_confusing: choppy sea/wind/style 常见。

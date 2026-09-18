@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cumber
+display: cumber
+type: root
+core_meaning: burden, obstruct
+zh: 妨碍；笨重负担
+origin: French
+source_form: Old French encombrer / combre
+source_meaning: obstruct, barrier
+source_meaning_zh: 阻碍；障碍
+related_morphemes:
+  []
+senses:
+  - meaning: burden, obstruct
+    zh: 妨碍；笨重负担
+    examples:
+      - cumbersome
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cumber -> cumbersome
+high_value_words:
+  - cumbersome
+confusable_words:
+  []

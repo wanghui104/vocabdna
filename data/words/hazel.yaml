@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hazel
+word: hazel
+pos: adjective
+zh: 榛树的
+en: Means 榛树的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hazel
+    form: hazel
+    meaning_in_word: 榛树；浅褐色
+    zh: 榛树的
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:hazel.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

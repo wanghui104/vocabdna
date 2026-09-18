@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: meridian
+word: meridian
+pos: noun
+zh: 子午线
+en: Means 子午线; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: meri
+    form: meri
+    meaning_in_word: 正午；子午线
+    zh: 正午；子午线
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:meri.
+  - morpheme: dian
+    form: dian
+    meaning_in_word: dian
+    zh: dian
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:dian.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

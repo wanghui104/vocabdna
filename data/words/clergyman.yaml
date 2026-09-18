@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clergyman
+word: clergyman
+pos: noun
+zh: 牧师；教士
+en: a male member of the clergy
+components:
+  - morpheme: clergy
+    form: clergy
+    meaning_in_word: religious office
+    zh: 牧师；神职人员
+    role: root
+    is_core: true
+  - morpheme: man
+    form: -man
+    meaning_in_word: person
+    zh: 人
+    role: suffix
+    is_core: false
+word_family:
+  - clergy
+word_family_details:
+  - word: clergy
+    en: the official leaders of a religion
+    zh: 牧师；神职人员
+confusables:
+  []
+examples:
+  []
+why_confusing: 现代可用 clergy member 更中性。

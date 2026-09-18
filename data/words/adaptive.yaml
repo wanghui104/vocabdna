@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adaptive
+word: adaptive
+pos: adjective
+zh: 适应的；有适应性的
+en: helping something adjust to conditions or changing as conditions change
+components:
+  - morpheme: apt
+    form: adapt
+    meaning_in_word: fit to conditions
+    zh: 适合；达到
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: tending to
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - adapt
+  - adaptable
+  - adaptation
+word_family_details:
+  - word: adapt
+    en: to change something, or change yourself, so it fits a new situation or purpose
+    zh: （使）适应；调整；改编
+  - word: adaptable
+    en: able to change easily to fit new conditions
+    zh: 能适应的；适应能力强的
+  - word: adaptation
+    en: a change that helps something fit its environment or situation
+    zh: 适应；适应性变化
+confusables:
+  []
+examples:
+  - en: Adaptive technology changes with user needs.
+    zh: 自适应技术会随用户需求改变。
+why_confusing: adaptive 多修饰 behavior, system, strategy。

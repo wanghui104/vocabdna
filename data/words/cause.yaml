@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cause
+word: cause
+pos: verb/noun
+zh: 导致；引起；原因；事业
+en: to make something happen, or a reason or principle
+components:
+  - morpheme: cause
+    form: cause
+    meaning_in_word: reason
+    zh: 导致；原因；事业
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cause 作名词还可指事业/目标。

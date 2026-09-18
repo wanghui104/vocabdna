@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: harmon
+display: harmon
+type: root
+core_meaning: agreement, fitting together
+zh: 协调；和谐
+origin: Greek
+source_form: Greek harmonia
+source_meaning: agreement, fitting together
+source_meaning_zh: 协调；和谐
+related_morphemes:
+  []
+senses:
+  - meaning: agreement, fitting together
+    zh: 协调；和谐
+    examples:
+      - harmonic
+      - harmonica
+      - harmonious
+      - harmonize
+      - philharmonic
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - harmon -> harmonic
+  - harmon -> harmonica
+  - harmon -> harmonious
+  - harmon -> harmonize
+  - harmon -> philharmonic
+high_value_words:
+  - harmonic
+  - harmonica
+  - harmonious
+  - harmonize
+  - philharmonic
+confusable_words:
+  []

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: boost
+word: boost
+pos: verb
+zh: 增加；提高；促进
+en: to increase, improve, or help something rise
+components:
+  - morpheme: boost
+    form: boost
+    meaning_in_word: push up
+    zh: 提高；促进
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: boost confidence/sales/immunity 都常见。

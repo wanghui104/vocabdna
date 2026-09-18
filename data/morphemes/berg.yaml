@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: berg
+display: berg
+type: root
+core_meaning: mountain
+zh: 山
+origin: Germanic
+source_form: German Berg
+source_meaning: mountain
+source_meaning_zh: 山
+related_morphemes:
+  []
+senses:
+  - meaning: mountain
+    zh: 山
+    examples:
+      - iceberg
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - berg -> iceberg
+high_value_words:
+  - iceberg
+confusable_words:
+  []

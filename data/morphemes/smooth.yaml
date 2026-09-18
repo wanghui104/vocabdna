@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: smooth
+display: smooth
+type: root
+core_meaning: smooth
+zh: 平稳；光滑
+origin: Old English
+source_form: smooth
+source_meaning: smooth
+source_meaning_zh: 平稳；光滑
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: smooth
+    zh: 平稳；光滑
+    examples:
+      - smoothly
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - smooth -> smoothly
+high_value_words:
+  - smoothly
+confusable_words:
+  []

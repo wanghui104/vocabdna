@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: beak
+word: beak
+pos: noun
+zh: 鸟喙
+en: the hard pointed mouth of a bird
+components:
+  - morpheme: beak
+    form: beak
+    meaning_in_word: bird mouth
+    zh: 鸟喙
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 也可比喻尖鼻子。

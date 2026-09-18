@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intrigue
+word: intrigue
+pos: verb
+zh: 激起…的兴趣
+en: Means 激起…的兴趣; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: trigue
+    form: trigue
+    meaning_in_word: 纠缠；密谋
+    zh: 纠缠；密谋
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:trigue.
+word_family:
+  - intricate
+  - intricately
+  - intriguing
+word_family_details:
+  - word: intricate
+    en: Means 复杂的，错综的; reviewed from the TOEFL source gloss for learner display.
+    zh: 复杂的，错综的
+  - word: intricately
+    en: Means 杂乱地; reviewed from the TOEFL source gloss for learner display.
+    zh: 杂乱地
+  - word: intriguing
+    en: Means 吸引人的,引起兴趣(或好奇心)的; reviewed from the TOEFL source gloss for learner display.
+    zh: 吸引人的,引起兴趣(或好奇心)的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

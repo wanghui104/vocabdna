@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: heal
+word: heal
+pos: verb
+zh: 康复，治愈
+en: Means 康复，治愈; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: heal
+    form: heal
+    meaning_in_word: 康复，治愈
+    zh: 康复，治愈
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  - healing
+  - healthful
+word_family_details:
+  - word: healing
+    en: Means 有治疗作用的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 有治疗作用的
+  - word: healthful
+    en: Means 有益健康的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 有益健康的
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

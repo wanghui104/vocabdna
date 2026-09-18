@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fresh
+word: fresh
+pos: adjective
+zh: 新鲜的
+en: recently made or obtained
+components:
+  - morpheme: fresh
+    form: fresh
+    meaning_in_word: fresh / 新鲜
+    zh: 新鲜
+    role: root
+    is_core: true
+    note: 古英语及日耳曼词，含历史音位换位；freshly/freshness 用现代 fresh 加后缀。
+word_family:
+  - freshly
+  - freshness
+word_family_details:
+  - word: freshly
+    en: recently or newly
+    zh: 新近；刚刚
+  - word: freshness
+    en: the quality of being new, clean, unspoiled, or lively
+    zh: 新鲜；清新；活力
+confusables:
+  []
+examples:
+  []
+why_confusing: 

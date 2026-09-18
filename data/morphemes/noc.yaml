@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: noc
+display: noc
+type: root
+core_meaning: harm
+zh: 伤害
+origin: Latin
+source_form: Latin nocere
+source_meaning: harm
+source_meaning_zh: 伤害
+related_morphemes:
+  []
+senses:
+  - meaning: harm
+    zh: 伤害
+    examples:
+      - innocent
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - noc -> innocent
+high_value_words:
+  - innocent
+confusable_words:
+  []

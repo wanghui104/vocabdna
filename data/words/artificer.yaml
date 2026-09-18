@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: artificer
+word: artificer
+pos: noun
+zh: 巧匠；技工；设计者
+en: a skilled craft worker or someone who devises and creates things
+components:
+  - morpheme: art
+    form: arti
+    meaning_in_word: skill, craft / 技艺
+    zh: 技艺、技巧
+    role: root
+    is_core: true
+    note: arti- 是 art- 的复合词形式；i 是构词连接元音，无独立词义。
+  - morpheme: fac
+    form: fic
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+    note: fic-/fice 对应 facere 的复合词词干；不是 fiction 的 fict-。
+  - morpheme: er
+    form: -er
+    meaning_in_word: person who makes or devises / 制作、设计者
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: 与 artifice + -er 对照：拼写去掉词尾不发音 e 后加 -er。
+word_family:
+  - artifice
+word_family_details:
+  - word: artifice
+    en: clever technique or ingenuity, especially a device or strategy used to mislead
+    zh: 巧妙手法；技巧；诡计
+confusables:
+  []
+examples:
+  - en: A skilled artificer repaired the clock’s delicate mechanism.
+    zh: 一位巧匠修好了钟表的精密机械装置。
+why_confusing: 较正式或文学用语；一般手艺人更常用 artisan 或 craftsperson。它与 artifice 同源，但不必带有欺骗含义。

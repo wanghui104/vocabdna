@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: manifestation
+word: manifestation
+pos: noun
+zh: 表现，显示
+en: Means 表现，显示; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: manifest
+    form: manifest
+    meaning_in_word: manifest
+    zh: manifest
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:manifest.
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: 动作；过程
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ation.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

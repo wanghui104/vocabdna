@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contingent
+word: contingent
+pos: adjective/noun
+zh: 取决于条件的；视情况而定的
+en: depending on something else that may or may not happen
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: with, together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tang
+    form: ting
+    meaning_in_word: touch, happen, befall
+    zh: 触碰；达到
+    role: root
+    is_core: true
+    note: From Latin contingere, originally touch, later happen or fall to one's lot.
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having quality
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - contingency
+  - contingently
+  - contingent-on
+word_family_details:
+  - word: contingency
+    en: a possible event or condition that may need to be prepared for
+    zh: 可能发生的事；意外情况；应急情况
+  - word: contingently
+    en: in a way that depends on conditions or chance
+    zh: 有条件地；偶然地；视情况而定地
+  - word: contingent-on
+    en: dependent on a condition, event, or decision
+    zh: 取决于；以……为条件
+confusables:
+  - word: contiguous
+    reason: contingent on/upon 是高频搭配；contiguous 是“相邻接触的”，不是“取决于”。
+    zh_reason: contingent on/upon 是高频搭配；contiguous 是“相邻接触的”，不是“取决于”。
+examples:
+  - en: The offer is contingent on final approval.
+    zh: 这个提议取决于最终批准。
+  - en: A student contingent attended the conference.
+    zh: 一组学生代表参加了会议。
+why_confusing: contingent on/upon 是高频搭配；contiguous 是“相邻接触的”，不是“取决于”。

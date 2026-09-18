@@ -19,15 +19,11 @@ components:
     is_core: false
     note: suffix placeholder until suffix catalog is expanded
 word_family:
-  - visibility
+  []
 word_family_details:
-  - word: visibility
-    en: related form of visibility
-    zh: visibility 的相关词
+  []
 confusables:
-  - word: visual
-    reason: visible 是可见；visual 是视觉的。
-    zh_reason: visible 是可见；visual 是视觉的。
+  []
 examples:
   - en: The mountain is visible from the window.
     zh: 从窗户可以看见那座山。

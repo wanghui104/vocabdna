@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: regime
+display: regime
+type: root
+core_meaning: regime
+zh: regime
+origin: teaching morphology
+source_form: regime
+source_meaning: regime
+source_meaning_zh: regime
+related_morphemes:
+  []
+senses:
+  - meaning: regime
+    zh: regime
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

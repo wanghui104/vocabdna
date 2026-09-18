@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crimin
+display: crimin
+type: root
+core_meaning: judgment, charge, distinguish
+zh: 判断；区分
+origin: Latin
+source_form: Latin crimen / discriminare
+source_meaning: judgment, charge, distinguish
+source_meaning_zh: 判断；区分
+related_morphemes:
+  []
+senses:
+  - meaning: judgment, charge, distinguish
+    zh: 判断；区分
+    examples:
+      - indiscriminately
+      - indiscrimination
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - crimin -> indiscriminately
+  - crimin -> indiscrimination
+high_value_words:
+  - indiscriminately
+  - indiscrimination
+confusable_words:
+  []

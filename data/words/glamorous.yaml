@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: glamorous
+word: glamorous
+pos: adjective
+zh: 迷人的，富有魅力的
+en: Means 迷人的，富有魅力的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: glamor
+    form: glamor
+    meaning_in_word: 魅力；迷人
+    zh: 魅力；迷人
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:glamor.
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: 充满……的
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source shown on root:ous.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

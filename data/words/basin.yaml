@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: basin
+word: basin
+pos: noun
+zh: 盆；盆地
+en: a bowl for holding liquid, or a large low area of land
+components:
+  - morpheme: basin
+    form: basin
+    meaning_in_word: bowl
+    zh: 盆；盆地
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: river basin 指流域。

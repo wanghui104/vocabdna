@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consume
+word: consume
+pos: verb
+zh: 消费；消耗；吃喝
+en: to use up, eat, drink, or buy goods and services
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: completely
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: sum
+    form: sume
+    meaning_in_word: take up
+    zh: 拿起；承担
+    role: root
+    is_core: true
+word_family:
+  - consumer
+  - consumption
+word_family_details:
+  - word: consumer
+    en: a person who buys or uses goods and services
+    zh: 消费者
+  - word: consumption
+    en: the use of goods, energy, food, or resources
+    zh: 消耗；消费
+confusables:
+  []
+examples:
+  []
+why_confusing: consume energy/time/food/media.

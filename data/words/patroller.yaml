@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: patroller
+word: patroller
+pos: noun
+zh: 巡警
+en: Means 巡警; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: patrol
+    form: patrol
+    meaning_in_word: patrol / 巡逻
+    zh: 巡逻
+    role: root
+    is_core: true
+  - morpheme: er
+    form: -er
+    meaning_in_word: person or thing / 人或物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+word_family:
+  - patrol
+word_family_details:
+  - word: patrol
+    en: Means 巡逻，巡视; reviewed from the TOEFL source gloss for learner display.
+    zh: 巡逻，巡视
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

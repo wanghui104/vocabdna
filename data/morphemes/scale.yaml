@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scale
+display: scale
+type: root
+core_meaning: ladder, scale
+zh: 梯；尺度
+origin: Latin
+source_form: Latin scala
+source_meaning: ladder, scale
+source_meaning_zh: 梯；尺度
+related_morphemes:
+  []
+senses:
+  - meaning: ladder, scale
+    zh: 梯；尺度
+    examples:
+      - in scale
+      - of scale
+      - scaled
+      - upscale
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - scale -> in scale
+  - scale -> of scale
+  - scale -> scaled
+  - scale -> upscale
+high_value_words:
+  - in scale
+  - of scale
+  - scaled
+  - upscale
+confusable_words:
+  []

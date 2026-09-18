@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: concerted
+word: concerted
+pos: adjective
+zh: 商议好的；协同的
+en: planned or done together for a shared purpose
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: cert
+    form: cert
+    meaning_in_word: act together
+    zh: 一致；协同
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having been
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - concert
+word_family_details:
+  - word: concert
+    en: a musical performance, or agreement and coordinated action
+    zh: 音乐会；一致；共同
+confusables:
+  []
+examples:
+  []
+why_confusing: concerted effort/action 常见。

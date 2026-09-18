@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: taper
+display: taper
+type: root
+core_meaning: taper
+zh: 逐渐变细
+origin: Latin/English
+source_form: taper
+source_meaning: taper
+source_meaning_zh: 逐渐变细
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: taper
+    zh: 逐渐变细
+    examples:
+      - tapering
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - taper -> tapering
+high_value_words:
+  - tapering
+confusable_words:
+  []

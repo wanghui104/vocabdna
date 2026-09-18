@@ -1,0 +1,57 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: be-informed-about
+word: be informed about
+pos: noun
+zh: 熟悉
+en: Means 熟悉; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: be
+    form: be-
+    meaning_in_word: 使成为、加强
+    zh: 使成为、加强
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:be.
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: form
+    form: form
+    meaning_in_word: 形式；符合
+    zh: 形式；符合
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:form.
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ed.
+  - morpheme: about
+    form: about
+    meaning_in_word: about
+    zh: about
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:about.
+word_family:
+  - informal
+  - informed
+word_family_details:
+  - word: informal
+    en: Means 不拘礼节的，随便的；非正式的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不拘礼节的，随便的；非正式的
+  - word: informed
+    en: Means 受过教育的，见多识广的; reviewed from the TOEFL source gloss for learner display.
+    zh: 受过教育的，见多识广的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

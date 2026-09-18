@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: three-dimensional
+word: three-dimensional
+pos: adjective
+zh: 三维的, 立体的
+en: Means 三维的, 立体的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: three
+    form: three
+    meaning_in_word: three / 三
+    zh: 三
+    role: root
+    is_core: true
+  - morpheme: dimension
+    form: dimension
+    meaning_in_word: dimension / 维度
+    zh: 维度
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to; act/result / 与…有关；动作结果
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

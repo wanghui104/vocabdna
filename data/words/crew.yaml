@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crew
+word: crew
+pos: noun
+zh: 全体工作人员；队员
+en: a group of people who work together, especially on a ship, aircraft, or project
+components:
+  - morpheme: crew
+    form: crew
+    meaning_in_word: working group
+    zh: 工作人员；队员
+    role: root
+    is_core: true
+    note: 表层 crew；Old French creue 增援，是 croistre 生长的阴性分词名词，最终来自 Latin crescere；深层连接 cresc- 生长。
+    related_morphemes:
+      - cresc
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: crew 可指船员、机组、摄制组等。

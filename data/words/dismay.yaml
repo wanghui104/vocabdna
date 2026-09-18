@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dismay
+word: dismay
+pos: verb/noun
+zh: 使惊慌；使沮丧；惊慌；沮丧
+en: to shock or discourage; a feeling of alarm or discouragement
+components:
+  - morpheme: dismay
+    form: dismay
+    meaning_in_word: trouble, frighten
+    zh: 惊慌；沮丧
+    role: root
+    is_core: true
+    note: 表层 dismay；经 Old French esmaier，关联 *exmagare 使失去能力：ex- 除去 + Germanic magan 能够。外层 dis-/des- 的传入路径有不同说法，保持分层说明而不强建 may 根。
+    related_morphemes:
+      - e
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: to one's dismay 表示“令某人沮丧/惊慌的是”。

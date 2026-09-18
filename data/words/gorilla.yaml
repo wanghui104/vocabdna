@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gorilla
+word: gorilla
+pos: noun
+zh: 大猩猩
+en: the largest ape, found in African forests
+components:
+  - morpheme: gorilla
+    form: gorilla
+    meaning_in_word: ape
+    zh: 大猩猩
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 不要和 guerrilla 游击队混淆。

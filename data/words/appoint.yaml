@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: appoint
+word: appoint
+pos: verb
+zh: 任命；选派；约定
+en: to assign a job or role officially, or arrange a time
+components:
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: point
+    form: point
+    meaning_in_word: fixed point
+    zh: 点；指定点
+    role: root
+    is_core: true
+word_family:
+  - appointment
+word_family_details:
+  - word: appointment
+    en: an arranged meeting or time
+    zh: 约会；预约
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

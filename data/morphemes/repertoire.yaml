@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: repertoire
+display: repertoire
+type: root
+core_meaning: repertoire
+zh: repertoire
+origin: teaching morphology
+source_form: repertoire
+source_meaning: repertoire
+source_meaning_zh: repertoire
+related_morphemes:
+  []
+senses:
+  - meaning: repertoire
+    zh: repertoire
+    examples:
+      - repertoire
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - repertoire -> repertoire
+high_value_words:
+  - repertoire
+confusable_words:
+  []

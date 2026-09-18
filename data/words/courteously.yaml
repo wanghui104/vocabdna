@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: courteously
+word: courteously
+pos: adverb
+zh: 有礼貌地；亲切地
+en: in a polite and considerate way
+components:
+  - morpheme: court
+    form: court
+    meaning_in_word: polite court behavior
+    zh: 法庭；宫廷；球场
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -eous
+    meaning_in_word: having quality
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - court
+  - courthouse
+  - courtship
+  - courtly
+word_family_details:
+  - word: court
+    en: a legal or playing place, or to seek someone's favor/support
+    zh: 法庭；球场；宫廷；追求；设法获得
+  - word: courthouse
+    en: a building where courts of law are held
+    zh: 法院；县政府所在地
+  - word: courtship
+    en: the period or behavior of trying to win a romantic partner or support
+    zh: 求爱；求爱时期
+  - word: courtly
+    en: very polite, formal, and dignified
+    zh: 尊严而有礼貌的；宫廷式的
+confusables:
+  []
+examples:
+  []
+why_confusing: 偏正式，比 politely 更书面。

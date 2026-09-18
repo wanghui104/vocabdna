@@ -1,26 +1,775 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: al
 display: -al
 type: suffix
 core_meaning: relating to
-zh: 与……有关的
-origin: Latin adjective-forming suffix -alis
+zh: 属于……的
+origin: Latin
+source_form: Latin -alis
+source_meaning: relating to
+source_meaning_zh: 属于……的
+source_note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+related_morphemes:
+  []
 senses:
   - meaning: relating to
-    zh: 与……有关
+    zh: 属于……的
     examples:
+      - a pivotal figure
+      - abnormal
+      - academic
+      - accidental
+      - acidic
+      - actual
+      - additional
+      - ancestral
+      - anecdotal
+      - annual
+      - annually
+      - appraisal
+      - approval
+      - arboreal
+      - architectural
+      - artificial
+      - auroral
+      - avocational
+      - beneficial
+      - bicameral
+      - bilateral
       - biological
-      - geological
+      - boundary
+      - cardiac
+      - cathedral
+      - celestial
+      - ceremonial
+      - chronological
+      - circular
+      - clinical
+      - colloquial
+      - colonial
+      - cometary
+      - comical
+      - commentary
+      - commercial
+      - communal
+      - complementary
+      - complimentary
+      - conceptual
+      - congenital
+      - congressional
+      - conjectural
+      - constitutional
+      - continental
+      - contrary
+      - controversial
+      - conventional
+      - conversational
+      - convivial
+      - credentials
+      - critical
+      - critical point
+      - decimal
+      - deferential
+      - dental
+      - detrimental
+      - diagonal
+      - diagonally
+      - dimensional
+      - dorsal
+      - draft animal
+      - dramatically
+      - ecological
+      - economical
+      - educational
+      - elliptical
+      - embryological
+      - emotional
+      - enthusiastically
+      - ephemeral
+      - equal
+      - equality
+      - equilateral triangle
+      - erratically
+      - essential
+      - eternal
+      - ethical
+      - ethically
+      - eventual
+      - eventually
+      - exceptional
+      - exceptionally
+      - exponential
+      - external
+      - factual
+      - fanatical
+      - fatal
+      - festival
+      - feudal
+      - feudalism
+      - fictional
+      - financial
+      - financially
+      - floral
+      - formal
+      - formality
+      - formalization
+      - formalize
+      - formalized
+      - formally
+      - fractional
+      - frugal
+      - frugality
+      - frugally
+      - functional
+      - functionally
+      - fundamental
+      - fundamentally
+      - fungal
+      - glacial
+      - global
+      - gravitational
+      - gravitational field
+      - gravitational force
+      - gravitational pull
+      - horizontal
+      - impersonal
+      - impracticality
+      - incidentally
+      - individualism
+      - informal
+      - informality
+      - informally
+      - inpractical
+      - institutionalize
+      - instrumental
+      - instrumentalist
+      - integral
+      - intentionally
+      - internal
+      - interpersonal
+      - journal
+      - journalism
+      - journalist
+      - journalistic
+      - lateral
+      - lethal
+      - liberal
+      - liberally
+      - literally
+      - locality
+      - locally
       - logical
+      - magical
+      - malfunctional
+      - mammal
+      - manual
+      - medieval
+      - mortal
+      - mounmental
+      - multifunctional
+      - municipal
+      - mural
+      - natural gas
+      - naturalist
+      - naturalistic
+      - naval
+      - neutral
+      - neutralize
+      - nocturnal
+      - nonprofessional
+      - nontraditional
+      - nonverbal
+      - normal
+      - normally
+      - nutritional
+      - occasional
+      - occasionally
+      - optical
+      - optimal
+      - optional
+      - oral
+      - orbital
+      - organically
+      - oriental
+      - original
+      - originality
+      - ornamental
+      - patriarchal
+      - pedagogical
+      - penal
+      - penalty
+      - periodical
+      - peripheral
+      - personality
+      - phenomenally
+      - physiological
+      - pivotal
+      - polygonal
+      - portrayal
+      - postal
+      - postal service
+      - practical
+      - practicality
+      - practically
+      - primal
+      - professional
+      - professionalism
+      - proposal
+      - quadrilateral
+      - radical
+      - radically
+      - rational
+      - real estate
+      - recital
+      - recreational
+      - renewal
+      - rental
+      - revitalization
+      - revival
+      - rhythmical
+      - rural
+      - sculptural
+      - seasonal
+      - sectional
+      - sensational
+      - sentimental
+      - sentimentalism
+      - sentimentalize
+      - social distinction
+      - spinal
+      - spinal cord
+      - sporadically
+      - survival
+      - terminal
+      - theoretical
+      - thermal
+      - three-dimensional
+      - trial
+      - tribal
+      - trivial
+      - tropical
+      - two/three dimensional
+      - unconventional
+      - universal
+      - upheaval
+      - verbal
+      - viral
+      - vital
+      - vitalism
+      - vitalist
+      - vitality
+      - vocational
+      - waste disposal
+      - withdrawal
+      - artifactual
+      - artefactual
+      - artificially
+      - artificiality
 similar_form:
-  - ical
-  - ic
+  []
 similar_meaning:
-  - ous
+  []
 patterns:
-  - noun + -al = adjective relating to the noun
+  - -al -> a pivotal figure
+  - -al -> abnormal
+  - -ic -> academic
+  - -al -> accidental
+  - -ic -> acidic
+  - -ual -> actual
+  - -al -> additional
+  - -al -> ancestral
+  - -al -> anecdotal
+  - -al -> annual
+  - -al -> annually
+  - -al -> appraisal
+  - -al -> approval
+  - -eal -> arboreal
+  - -ural -> architectural
+  - -ial -> artificial
+  - -al -> auroral
+  - -al -> avocational
+  - -al -> beneficial
+  - -al -> bicameral
+  - -al -> bilateral
+  - -ical -> biological
+  - -ary -> boundary
+  - -ac -> cardiac
+  - -al -> cathedral
+  - -ial -> celestial
+  - -ial -> ceremonial
+  - -ical -> chronological
+  - -ar -> circular
+  - -ical -> clinical
+  - -ial -> colloquial
+  - -ial -> colonial
+  - -ary -> cometary
+  - -al -> comical
+  - -ary -> commentary
+  - -ial -> commercial
+  - -al -> communal
+  - -ary -> complementary
+  - -ary -> complimentary
+  - -ual -> conceptual
+  - -al -> congenital
+  - -ional -> congressional
+  - -ural -> conjectural
+  - -al -> constitutional
+  - -al -> continental
+  - -ary -> contrary
+  - -ial -> controversial
+  - -al -> conventional
+  - -al -> conversational
+  - -ial -> convivial
+  - -ial -> credentials
+  - -al -> critical
+  - -al -> critical point
+  - -al -> decimal
+  - -ial -> deferential
+  - -al -> dental
+  - -al -> detrimental
+  - -al -> diagonal
+  - -al -> diagonally
+  - -al -> dimensional
+  - -al -> dorsal
+  - -al -> draft animal
+  - -al -> dramatically
+  - -al -> ecological
+  - -al -> economical
+  - -al -> educational
+  - -al -> elliptical
+  - -al -> embryological
+  - -al -> emotional
+  - -al -> enthusiastically
+  - -al -> ephemeral
+  - -al -> equal
+  - -al -> equality
+  - -al -> equilateral triangle
+  - -al -> erratically
+  - -ial -> essential
+  - -al -> eternal
+  - -al -> ethical
+  - -al -> ethically
+  - -ual -> eventual
+  - -ual -> eventually
+  - -al -> exceptional
+  - -al -> exceptionally
+  - -ial -> exponential
+  - -al -> external
+  - -ual -> factual
+  - -al -> fanatical
+  - -al -> fatal
+  - -al -> festival
+  - -al -> feudal
+  - -al -> feudalism
+  - -al -> fictional
+  - -ial -> financial
+  - -ial -> financially
+  - -al -> floral
+  - -al -> formal
+  - -al -> formality
+  - -al -> formalization
+  - -al -> formalize
+  - -al -> formalized
+  - -al -> formally
+  - -al -> fractional
+  - -al -> frugal
+  - -al -> frugality
+  - -al -> frugally
+  - -al -> functional
+  - -al -> functionally
+  - -al -> fundamental
+  - -al -> fundamentally
+  - -al -> fungal
+  - -al -> glacial
+  - -al -> global
+  - -al -> gravitational
+  - -al -> gravitational field
+  - -al -> gravitational force
+  - -al -> gravitational pull
+  - -al -> horizontal
+  - -al -> impersonal
+  - -al -> impracticality
+  - -al -> incidentally
+  - -al -> individualism
+  - -al -> informal
+  - -al -> informality
+  - -al -> informally
+  - -al -> inpractical
+  - -al -> institutionalize
+  - -al -> instrumental
+  - -al -> instrumentalist
+  - -al -> integral
+  - -al -> intentionally
+  - -al -> internal
+  - -al -> interpersonal
+  - -al -> journal
+  - -al -> journalism
+  - -al -> journalist
+  - -al -> journalistic
+  - -al -> lateral
+  - -al -> lethal
+  - -al -> liberal
+  - -al -> liberally
+  - -al -> literally
+  - -al -> locality
+  - -al -> locally
+  - -al -> logical
+  - -al -> magical
+  - -al -> malfunctional
+  - -al -> mammal
+  - -al -> manual
+  - -al -> medieval
+  - -al -> mortal
+  - -al -> mounmental
+  - -al -> multifunctional
+  - -al -> municipal
+  - -al -> mural
+  - -al -> natural gas
+  - -al -> naturalist
+  - -al -> naturalistic
+  - -al -> naval
+  - -al -> neutral
+  - -al -> neutralize
+  - -al -> nocturnal
+  - -al -> nonprofessional
+  - -al -> nontraditional
+  - -al -> nonverbal
+  - -al -> normal
+  - -al -> normally
+  - -al -> nutritional
+  - -al -> occasional
+  - -al -> occasionally
+  - -al -> optical
+  - -al -> optimal
+  - -al -> optional
+  - -al -> oral
+  - -al -> orbital
+  - -al -> organically
+  - -al -> oriental
+  - -al -> original
+  - -al -> originality
+  - -al -> ornamental
+  - -al -> patriarchal
+  - -al -> pedagogical
+  - -al -> penal
+  - -al -> penalty
+  - -al -> periodical
+  - -al -> peripheral
+  - -al -> personality
+  - -al -> phenomenally
+  - -al -> physiological
+  - -al -> pivotal
+  - -al -> polygonal
+  - -al -> portrayal
+  - -al -> postal
+  - -al -> postal service
+  - -al -> practical
+  - -al -> practicality
+  - -al -> practically
+  - -al -> primal
+  - -al -> professional
+  - -al -> professionalism
+  - -al -> proposal
+  - -al -> quadrilateral
+  - -al -> radical
+  - -al -> radically
+  - -al -> rational
+  - -al -> real estate
+  - -al -> recital
+  - -al -> recreational
+  - -al -> renewal
+  - -al -> rental
+  - -al -> revitalization
+  - -al -> revival
+  - -al -> rhythmical
+  - -al -> rural
+  - -al -> sculptural
+  - -al -> seasonal
+  - -al -> sectional
+  - -al -> sensational
+  - -al -> sentimental
+  - -al -> sentimentalism
+  - -al -> sentimentalize
+  - -al -> social distinction
+  - -al -> spinal
+  - -al -> spinal cord
+  - -al -> sporadically
+  - -al -> survival
+  - -al -> terminal
+  - -al -> theoretical
+  - -al -> thermal
+  - -al -> three-dimensional
+  - -al -> trial
+  - -al -> tribal
+  - -al -> trivial
+  - -al -> tropical
+  - -al -> two/three dimensional
+  - -al -> unconventional
+  - -al -> universal
+  - -al -> upheaval
+  - -al -> verbal
+  - -al -> viral
+  - -al -> vital
+  - -al -> vitalism
+  - -al -> vitalist
+  - -al -> vitality
+  - -al -> vocational
+  - -al -> waste disposal
+  - -al -> withdrawal
+  - -ual -> artifactual
+  - -ual -> artefactual
+  - -ial -> artificially
+  - -ial -> artificiality
 high_value_words:
-  - logical
+  - a pivotal figure
+  - abnormal
+  - academic
+  - accidental
+  - acidic
+  - actual
+  - additional
+  - ancestral
+  - anecdotal
+  - annual
+  - annually
+  - appraisal
+  - approval
+  - arboreal
+  - architectural
+  - artificial
+  - auroral
+  - avocational
+  - beneficial
+  - bicameral
+  - bilateral
   - biological
-  - geological
+  - boundary
+  - cardiac
+  - cathedral
+  - celestial
+  - ceremonial
+  - chronological
+  - circular
+  - clinical
+  - colloquial
+  - colonial
+  - cometary
+  - comical
+  - commentary
+  - commercial
+  - communal
+  - complementary
+  - complimentary
+  - conceptual
+  - congenital
+  - congressional
+  - conjectural
+  - constitutional
+  - continental
+  - contrary
+  - controversial
+  - conventional
+  - conversational
+  - convivial
+  - credentials
+  - critical
+  - critical point
+  - decimal
+  - deferential
+  - dental
+  - detrimental
+  - diagonal
+  - diagonally
+  - dimensional
+  - dorsal
+  - draft animal
+  - dramatically
+  - ecological
+  - economical
+  - educational
+  - elliptical
+  - embryological
+  - emotional
+  - enthusiastically
+  - ephemeral
+  - equal
+  - equality
+  - equilateral triangle
+  - erratically
+  - essential
+  - eternal
+  - ethical
+  - ethically
+  - eventual
+  - eventually
+  - exceptional
+  - exceptionally
+  - exponential
+  - external
+  - factual
+  - fanatical
+  - fatal
+  - festival
+  - feudal
+  - feudalism
+  - fictional
+  - financial
+  - financially
+  - floral
+  - formal
+  - formality
+  - formalization
+  - formalize
+  - formalized
+  - formally
+  - fractional
+  - frugal
+  - frugality
+  - frugally
+  - functional
+  - functionally
+  - fundamental
+  - fundamentally
+  - fungal
+  - glacial
+  - global
+  - gravitational
+  - gravitational field
+  - gravitational force
+  - gravitational pull
+  - horizontal
+  - impersonal
+  - impracticality
+  - incidentally
+  - individualism
+  - informal
+  - informality
+  - informally
+  - inpractical
+  - institutionalize
+  - instrumental
+  - instrumentalist
+  - integral
+  - intentionally
+  - internal
+  - interpersonal
+  - journal
+  - journalism
+  - journalist
+  - journalistic
+  - lateral
+  - lethal
+  - liberal
+  - liberally
+  - literally
+  - locality
+  - locally
+  - logical
+  - magical
+  - malfunctional
+  - mammal
+  - manual
+  - medieval
+  - mortal
+  - mounmental
+  - multifunctional
+  - municipal
+  - mural
+  - natural gas
+  - naturalist
+  - naturalistic
+  - naval
+  - neutral
+  - neutralize
+  - nocturnal
+  - nonprofessional
+  - nontraditional
+  - nonverbal
+  - normal
+  - normally
+  - nutritional
+  - occasional
+  - occasionally
+  - optical
+  - optimal
+  - optional
+  - oral
+  - orbital
+  - organically
+  - oriental
+  - original
+  - originality
+  - ornamental
+  - patriarchal
+  - pedagogical
+  - penal
+  - penalty
+  - periodical
+  - peripheral
+  - personality
+  - phenomenally
+  - physiological
+  - pivotal
+  - polygonal
+  - portrayal
+  - postal
+  - postal service
+  - practical
+  - practicality
+  - practically
+  - primal
+  - professional
+  - professionalism
+  - proposal
+  - quadrilateral
+  - radical
+  - radically
+  - rational
+  - real estate
+  - recital
+  - recreational
+  - renewal
+  - rental
+  - revitalization
+  - revival
+  - rhythmical
+  - rural
+  - sculptural
+  - seasonal
+  - sectional
+  - sensational
+  - sentimental
+  - sentimentalism
+  - sentimentalize
+  - social distinction
+  - spinal
+  - spinal cord
+  - sporadically
+  - survival
+  - terminal
+  - theoretical
+  - thermal
+  - three-dimensional
+  - trial
+  - tribal
+  - trivial
+  - tropical
+  - two/three dimensional
+  - unconventional
+  - universal
+  - upheaval
+  - verbal
+  - viral
+  - vital
+  - vitalism
+  - vitalist
+  - vitality
+  - vocational
+  - waste disposal
+  - withdrawal
+  - artifactual
+  - artefactual
+  - artificially
+  - artificiality
 confusable_words:
-  - logical vs biological
+  []

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mulberry
+word: mulberry
+pos: noun
+zh: 桑树
+en: Means 桑树; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mulberry
+    form: mulberry
+    meaning_in_word: 桑葚；桑树
+    zh: 桑葚；桑树
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mulberry.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

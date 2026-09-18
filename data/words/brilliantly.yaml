@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brilliantly
+word: brilliantly
+pos: adverb
+zh: 辉煌地；灿烂地；出色地
+en: in a very bright, skillful, or excellent way
+components:
+  - morpheme: brilliant
+    form: brilliant
+    meaning_in_word: shining
+    zh: 辉煌；聪明
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - brilliance
+word_family_details:
+  - word: brilliance
+    en: great brightness, skill, or intelligence
+    zh: 聪明；辉煌；灿烂
+confusables:
+  []
+examples:
+  []
+why_confusing: brilliantly 可指光，也可指表现出色。

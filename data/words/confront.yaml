@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confront
+word: confront
+pos: verb
+zh: 面对；正视；对抗
+en: to face a problem, person, or difficult situation directly
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: front
+    form: front
+    meaning_in_word: front, face
+    zh: 前面；面对
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: confront a problem; be confronted with.

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: initial
+word: initial
+pos: noun/adjective
+zh: 最初的，初始的 / 开头大写字母
+en: Means 最初的，初始的 / 开头大写字母; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: init
+    form: init
+    meaning_in_word: 开始；进入
+    zh: 开始；进入
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:init.
+  - morpheme: ial
+    form: -ial
+    meaning_in_word: 有关……的
+    zh: 有关……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ial.
+word_family:
+  - initiate
+  - initially
+word_family_details:
+  - word: initiate
+    en: Means 开始，发起; reviewed from the TOEFL source gloss for learner display.
+    zh: 开始，发起
+  - word: initially
+    en: Means 最初，开头; reviewed from the TOEFL source gloss for learner display.
+    zh: 最初，开头
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

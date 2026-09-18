@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: platitudinous
+word: platitudinous
+pos: adjective
+zh: 陈词滥调的，陈腐的
+en: Means 陈词滥调的，陈腐的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: plat
+    form: plat
+    meaning_in_word: flat / 平
+    zh: 平淡；宽平
+    role: root
+    is_core: true
+  - morpheme: itude
+    form: itude
+    meaning_in_word: itude / itude
+    zh: itude
+    role: root
+    is_core: true
+  - morpheme: in
+    form: in
+    meaning_in_word: in / in
+    zh: 在内、进入、到……上
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: full of / 充满
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

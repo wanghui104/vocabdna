@@ -14,17 +14,17 @@ senses:
   - meaning: seek, obtain
     zh: 寻求、获得
     examples:
-      - acquisition
       - acquire
+      - acquisition
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - quis -> acquisition
   - quire -> acquire
+  - quis -> acquisition
 high_value_words:
-  - acquisition
   - acquire
+  - acquisition
 confusable_words:
   []

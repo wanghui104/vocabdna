@@ -1,0 +1,26 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: depot
+word: depot
+pos: noun
+zh: 货站；仓库；补给站
+en: a station, warehouse, or place where supplies are stored
+components:
+  - morpheme: depot
+    form: depot
+    meaning_in_word: storehouse
+    zh: 仓库；货站
+    role: root
+    is_core: true
+    note: 表层 depot；French dépôt ← Latin depositum 放下之物 ← deponere = de- 向下 + ponere 放置，分词词干 posit-。与 deposit 深层同源，现代保留法语借词形。
+    related_morphemes:
+      - de
+      - pon
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 美式还可指 bus/train depot。

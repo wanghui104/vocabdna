@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: audit
+word: audit
+pos: verb/noun
+zh: 审计；稽核；旁听
+en: to examine accounts, or to attend a course without credit
+components:
+  - morpheme: aud
+    form: audit
+    meaning_in_word: hear, official hearing
+    zh: 听
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

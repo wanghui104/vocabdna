@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fiercely
+word: fiercely
+pos: adverb
+zh: 凶猛地；激烈地
+en: with great force or intensity
+components:
+  - morpheme: fierce
+    form: fierce
+    meaning_in_word: wild, fierce / 野性；凶猛
+    zh: 野性；凶猛
+    role: root
+    is_core: true
+    note: 来自 ferus 野生，不是 ferre 搬运；词尾不是可独立的 -ce。
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - fierce
+  - fierceness
+word_family_details:
+  - word: fierce
+    en: aggressive or violent
+    zh: 凶猛的
+  - word: fierceness
+    en: the quality of being fierce
+    zh: 凶猛；激烈
+confusables:
+  []
+examples:
+  []
+why_confusing: 

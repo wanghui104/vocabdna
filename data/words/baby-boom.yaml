@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: baby-boom
+word: baby boom
+pos: phrase
+zh: 生育高峰
+en: a period when many babies are born
+components:
+  - morpheme: baby
+    form: baby
+    meaning_in_word: baby
+    zh: 婴儿；孩子
+    role: root
+    is_core: true
+  - morpheme: boom
+    form: boom
+    meaning_in_word: rapid growth
+    zh: 繁荣；急速发展
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: baby boomer 指婴儿潮一代。

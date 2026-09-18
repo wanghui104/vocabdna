@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: anatomy
+word: anatomy
+pos: noun
+zh: 解剖；解剖学
+en: the structure of a body or the study of body structure
+components:
+  - morpheme: ana
+    form: ana-
+    meaning_in_word: up, through
+    zh: 向上；返回；贯穿
+    role: prefix
+    is_core: false
+  - morpheme: tom
+    form: tomy
+    meaning_in_word: cutting
+    zh: 切；解剖
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

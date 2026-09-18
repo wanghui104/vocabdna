@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: comic
+display: comic
+type: root
+core_meaning: comic
+zh: 滑稽；喜剧
+origin: Greek
+source_form: Greek komikos
+source_meaning: of comedy
+source_meaning_zh: 喜剧的
+related_morphemes:
+  []
+senses:
+  - meaning: comic
+    zh: 滑稽；喜剧
+    examples:
+      - comic
+      - comical
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - comic -> comic
+  - comic -> comical
+high_value_words:
+  - comic
+  - comical
+confusable_words:
+  []

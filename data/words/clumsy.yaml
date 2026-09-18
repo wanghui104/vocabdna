@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clumsy
+word: clumsy
+pos: adjective
+zh: 笨拙的；愚笨的
+en: moving or done awkwardly, without skill
+components:
+  - morpheme: clumsy
+    form: clumsy
+    meaning_in_word: awkward
+    zh: 笨拙；愚笨
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: awkward
+    reason: 可形容人、动作、设计、措辞。
+    zh_reason: 可形容人、动作、设计、措辞。
+examples:
+  []
+why_confusing: 可形容人、动作、设计、措辞。

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gland
+word: gland
+pos: noun
+zh: 腺体
+en: Means 腺体; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: gland
+    form: gland
+    meaning_in_word: 腺体
+    zh: 腺体
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  - glandular
+word_family_details:
+  - word: glandular
+    en: Means 腺体的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 腺体的
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

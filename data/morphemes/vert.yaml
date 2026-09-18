@@ -5,26 +5,74 @@ type: root
 core_meaning: turn
 zh: 转、转向
 origin: Latin
+source_form: Latin vertere / versus
+source_meaning: turn, turn around
+source_meaning_zh: 转；转向
 related_morphemes:
   []
 senses:
   - meaning: turn
     zh: 转、转向
     examples:
-      - convert
-      - revert
+      - adversely
+      - adversity
+      - averse
+      - aversion
       - avert
+      - controversial
+      - controversy
+      - conversant
+      - conversation
+      - conversational
+      - convert
+      - converter
+      - diversion
+      - diversity
+      - divert
+      - divorce
+      - revert
+      - vertical
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - vert -> convert
-  - vert -> revert
+  - verse -> adversely
+  - vers -> adversity
+  - verse -> averse
+  - vers -> aversion
   - vert -> avert
+  - controvers -> controversial
+  - vers -> controversy
+  - vers -> conversant
+  - vers -> conversation
+  - conversation -> conversational
+  - vert -> convert
+  - convert -> converter
+  - vers -> diversion
+  - vers -> diversity
+  - vert -> divert
+  - vorce -> divorce
+  - vert -> revert
+  - vert -> vertical
 high_value_words:
-  - convert
-  - revert
+  - adversely
+  - adversity
+  - averse
+  - aversion
   - avert
+  - controversial
+  - controversy
+  - conversant
+  - conversation
+  - conversational
+  - convert
+  - converter
+  - diversion
+  - diversity
+  - divert
+  - divorce
+  - revert
+  - vertical
 confusable_words:
   []

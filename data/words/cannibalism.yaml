@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cannibalism
+word: cannibalism
+pos: noun
+zh: 同类相食；食人习俗
+en: the practice of eating members of one's own species
+components:
+  - morpheme: cannibal
+    form: cannibal
+    meaning_in_word: same-kind eater
+    zh: 同类相食
+    role: root
+    is_core: true
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: practice
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词源带有殖民时代民族称呼色彩，学习时注意语境。

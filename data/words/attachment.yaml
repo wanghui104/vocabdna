@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: attachment
+word: attachment
+pos: noun
+zh: 依恋；附件；附加装置
+en: a connection, feeling of affection, or item added to something
+components:
+  - morpheme: ad
+    form: at-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: tach
+    form: tach
+    meaning_in_word: fasten
+    zh: 固定；拴住
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - attach
+  - attached
+word_family_details:
+  - word: attach
+    en: to fasten or join one thing to another
+    zh: 系；缚；附上
+  - word: attached
+    en: fastened, connected, or emotionally fond of someone or something
+    zh: 附加的；附属的；依恋的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

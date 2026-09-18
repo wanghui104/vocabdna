@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: headquarters
+word: headquarters
+pos: noun
+zh: 司令部，总部
+en: Means 司令部，总部; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: head
+    form: head
+    meaning_in_word: head / 头；总部
+    zh: 头；首领
+    role: root
+    is_core: true
+  - morpheme: quart
+    form: quart
+    meaning_in_word: fourth / 四分之一
+    zh: 四分之一
+    role: root
+    is_core: true
+  - morpheme: er
+    form: -er
+    meaning_in_word: person or thing / 人或物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+  - morpheme: s
+    form: s
+    meaning_in_word: s / s
+    zh: 复数；机构化形式
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

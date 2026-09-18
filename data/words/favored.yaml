@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: favored
+word: favored
+pos: adjective
+zh: 受宠的；有优势的
+en: preferred or treated with special approval or advantage
+components:
+  - morpheme: favor
+    form: favor
+    meaning_in_word: goodwill, show kindness / 好意；支持
+    zh: 好意；支持
+    role: root
+    is_core: true
+    note: 深层 favere 示好 + -or 抽象名词结尾；favor 保留稳定表层，-or 不是施事者。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - favorable
+  - favor
+word_family_details:
+  - word: favorable
+    en: supportive, approving, or advantageous
+    zh: 赞同的；有利的
+  - word: favor
+    en: an act of kindness or approval; to prefer or support
+    zh: 恩惠；赞同；偏爱；支持
+confusables:
+  []
+examples:
+  []
+why_confusing: 

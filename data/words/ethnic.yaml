@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ethnic
+word: ethnic
+pos: adjective
+zh: 民族的；族群的
+en: relating to a group sharing cultural traditions, ancestry, or language
+components:
+  - morpheme: ethn
+    form: ethn
+    meaning_in_word: people, nation / 民族；族群
+    zh: 民族；族群
+    role: root
+    is_core: true
+    note: ethnic = ethn- + -ic；与 ethos 有历史关联，但 ethnos 族群和 ethos 品格的直接词源要区分。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: ethic
+    reason: ethnic 民族的，ethical 道德的。
+    zh_reason: ethnic 民族的，ethical 道德的。
+examples:
+  []
+why_confusing: ethnic 民族的，ethical 道德的。

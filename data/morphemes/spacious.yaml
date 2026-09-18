@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spacious
+display: spacious
+type: root
+core_meaning: spacious; roomy
+zh: 宽敞
+origin: Latin
+source_form: spacious
+source_meaning: spacious; roomy
+source_meaning_zh: 宽敞
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: spacious; roomy
+    zh: 宽敞
+    examples:
+      - spacious
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - spacious -> spacious
+high_value_words:
+  - spacious
+confusable_words:
+  []

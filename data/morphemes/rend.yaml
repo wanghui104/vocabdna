@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rend
+display: rend
+type: root
+core_meaning: give; render/rend
+zh: 给予；撕裂
+origin: teaching morphology
+source_form: rend
+source_meaning: give; render/rend
+source_meaning_zh: 给予；撕裂
+related_morphemes:
+  []
+senses:
+  - meaning: give; render/rend
+    zh: 给予；撕裂
+    examples:
+      - render
+      - rendering
+      - rendition
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - rend -> render
+  - rend -> rendering
+  - rend -> rendition
+high_value_words:
+  - render
+  - rendering
+  - rendition
+confusable_words:
+  []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: legacy
+word: legacy
+pos: noun
+zh: 遗产，遗物
+en: Means 遗产，遗物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: legac
+    form: legac
+    meaning_in_word: 遗赠；委派
+    zh: 遗赠；委派
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:legac.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:y.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

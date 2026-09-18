@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disadvantage
+word: disadvantage
+pos: noun
+zh: 缺点；坏处；不利
+en: a condition that makes success harder
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: lack of, opposite
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: advantage
+    form: advantage
+    meaning_in_word: favorable position
+    zh: 优势；有利位置
+    role: root
+    is_core: true
+    note: 表层 advantage；深层 Old French avantage = avant 在前 + -age 结果/状态。保留 dis- + advantage，前面的领先位置形成优势。
+    related_morphemes:
+      - age
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: disadvantage 是名词；动词常用 put someone at a disadvantage。

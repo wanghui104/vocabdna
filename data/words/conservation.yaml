@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conservation
+word: conservation
+pos: noun
+zh: 保存；保护；保持
+en: the protection and careful use of natural resources or things of value
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together/intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: serv
+    form: serv
+    meaning_in_word: preserve
+    zh: 保存；保护
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: process
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - conserve
+  - conservationist
+  - conservative
+  - conservatism
+word_family_details:
+  - word: conserve
+    en: to protect from loss or waste; also a preserved food
+    zh: 保存；保护；节约；蜜饯
+  - word: conservationist
+    en: a person who works to protect nature or resources
+    zh: 自然资源保护者；保护主义者
+  - word: conservative
+    en: cautious about change or favoring traditional values
+    zh: 保守的；谨慎的；守旧者
+  - word: conservatism
+    en: a political or social tendency to preserve tradition and limit change
+    zh: 保守主义；守旧性
+confusables:
+  []
+examples:
+  []
+why_confusing: wildlife/energy conservation 常见。

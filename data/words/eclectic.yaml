@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eclectic
+word: eclectic
+pos: adjective
+zh: 兼采众长的
+en: drawing ideas or methods from varied sources
+components:
+  - morpheme: ec-greek
+    form: ec-
+    meaning_in_word: out, away / 向外；离开
+    zh: 向外；离开
+    role: prefix
+    is_core: false
+    note: 希腊语 ek-，与拉丁 ex- 同源但保留具体语言来源。
+  - morpheme: lect-greek
+    form: lect
+    meaning_in_word: gather, choose / 收集；选择
+    zh: 收集；选择
+    role: root
+    is_core: true
+    note: eclectic 中是选取，不是拉丁 legare 委派；与希腊说话意义有历史联系。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - eclecticism
+word_family_details:
+  - word: eclecticism
+    en: the practice of drawing ideas or methods from varied sources
+    zh: 折衷主义；兼采众长的方法
+confusables:
+  []
+examples:
+  []
+why_confusing: 

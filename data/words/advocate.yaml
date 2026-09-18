@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: advocate
+word: advocate
+pos: noun/verb
+zh: 提倡者；拥护者
+en: a person who publicly supports or recommends a cause, policy, or person
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: toward, for
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: voc
+    form: voc
+    meaning_in_word: call, voice
+    zh: 呼叫；声音
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: person or act
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: She is an advocate for clean water.
+    zh: 她是清洁用水的倡导者。
+  - en: The report advocates stronger protections.
+    zh: 报告主张采取更强保护措施。
+why_confusing: 作名词读音重音常在首音节；作动词常表示公开支持。

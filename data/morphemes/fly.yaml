@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fly
+display: fly
+type: root
+core_meaning: fly, flying insect
+zh: 飞；飞虫
+origin: Old English
+source_form: Old English fleoge, fleogan
+source_meaning: fly, flying insect
+source_meaning_zh: 飞；飞虫
+source_note: dragonfly = dragon + fly，fly 为稳定本族词。
+related_morphemes:
+  []
+senses:
+  - meaning: fly, flying insect
+    zh: 飞；飞虫
+    examples:
+      - butterfly
+      - dragonfly
+      - flyspeck
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fly -> butterfly
+  - fly -> dragonfly
+  - fly -> flyspeck
+high_value_words:
+  - butterfly
+  - dragonfly
+  - flyspeck
+confusable_words:
+  []

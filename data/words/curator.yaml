@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: curator
+word: curator
+pos: noun
+zh: 馆长；管理人
+en: a person who manages and cares for a museum, library, or collection
+components:
+  - morpheme: cure
+    form: cur
+    meaning_in_word: care
+    zh: 照料；管理；关心
+    role: root
+    is_core: true
+    note: 表层 cur- 照料 + -ator 执行者；深层 Latin curare 照料 → curat- 分词词干 + -or 人，-ator 不表示一个不可拆词根。
+  - morpheme: or
+    form: -ator
+    meaning_in_word: person who does
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: curator 不只是馆长，也可指展览策展人。

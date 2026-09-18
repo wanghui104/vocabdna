@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: arena
+word: arena
+pos: noun
+zh: 竞技场；舞台；活动领域
+en: a place or field for competition, performance, or public activity
+components:
+  - morpheme: arena
+    form: arena
+    meaning_in_word: sanded place, arena
+    zh: 竞技场；铺沙场地
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

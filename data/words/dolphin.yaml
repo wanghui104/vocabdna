@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dolphin
+word: dolphin
+pos: noun
+zh: 海豚
+en: an aquatic mammal with a streamlined body and a beaklike snout in many species
+components:
+  - morpheme: dolphin
+    form: dolphin
+    meaning_in_word: 海豚
+    zh: 海豚
+    role: root
+    is_core: true
+    note: 表层借词 dolphin；与 Greek delphys 子宫的联系有解释空间，不把 dolphin 拼成英语 dol + phin。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 表层借词 dolphin；与 Greek delphys 子宫的联系有解释空间，不把 dolphin 拼成英语 dol + phin。

@@ -16,6 +16,7 @@ senses:
     examples:
       - absolute
       - absolutely
+      - dissolve
 similar_form:
   []
 similar_meaning:
@@ -23,8 +24,10 @@ similar_meaning:
 patterns:
   - solut -> absolute
   - absolute -> absolutely
+  - solve -> dissolve
 high_value_words:
   - absolute
   - absolutely
+  - dissolve
 confusable_words:
   []

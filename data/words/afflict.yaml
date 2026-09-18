@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: afflict
+word: afflict
+pos: verb
+zh: （外来到）折磨
+en: Means （外来到）折磨; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: af
+    form: af
+    meaning_in_word: af
+    zh: af
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:af.
+  - morpheme: flict
+    form: flict
+    meaning_in_word: 打击；折磨
+    zh: 打击；折磨
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:flict.
+word_family:
+  - affliction
+  - inflict
+word_family_details:
+  - word: affliction
+    en: pain, suffering, or a cause of continuing trouble
+    zh: 痛苦；苦恼；折磨
+  - word: inflict
+    en: Means 造成；(使)遭受(痛苦、损伤等); reviewed from the TOEFL source gloss for learner display.
+    zh: 造成；(使)遭受(痛苦、损伤等)
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

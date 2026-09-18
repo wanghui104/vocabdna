@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confusing
+word: confusing
+pos: adjective
+zh: 令人困惑的
+en: difficult to understand or distinguish
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: with, together / 共同、一起、加强
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+    note: Assimilated Latin prefix forms include com-, con-, col-, cor-, and co-.
+  - morpheme: fus
+    form: fus
+    meaning_in_word: pour, blend / 混合；混淆
+    zh: 混合；混淆
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - confuse
+  - confused
+  - confusion
+word_family_details:
+  - word: confuse
+    en: to make someone uncertain
+    zh: 使困惑
+  - word: confused
+    en: uncertain or unable to understand clearly
+    zh: 困惑的；混乱的
+  - word: confusion
+    en: a state of uncertainty or disorder
+    zh: 困惑；混乱
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cavern
+word: cavern
+pos: noun
+zh: 大山洞；大洞穴
+en: a large cave or hollow place
+components:
+  - morpheme: cav
+    form: cavern
+    meaning_in_word: hollow cave
+    zh: 洞；腔
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cavern 通常比 cave 更大或更书面。

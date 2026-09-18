@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: administrative
+word: administrative
+pos: adjective
+zh: 管理的；行政的
+en: relating to the work of managing an organization or office
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: minist
+    form: ministr
+    meaning_in_word: serve, manage
+    zh: 服务；管理
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ative
+    meaning_in_word: relating to
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - administer
+  - administration
+  - administrator
+word_family_details:
+  - word: administer
+    en: to manage, direct, or give something officially
+    zh: 管理；执行；施用
+  - word: administration
+    en: the act or system of managing an organization, program, or rule
+    zh: 经营；管理；行政
+  - word: administrator
+    en: a person who manages an organization, system, or program
+    zh: 管理者；行政官
+confusables:
+  []
+examples:
+  - en: Administrative tasks delayed the research.
+    zh: 行政事务耽误了研究。
+why_confusing: administrative work 通常指办公室/组织管理事务。

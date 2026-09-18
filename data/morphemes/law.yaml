@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: law
+display: law
+type: root
+core_meaning: law
+zh: 法律
+origin: Old English
+source_form: Old English lagu
+source_meaning: law
+source_meaning_zh: 法律
+related_morphemes:
+  []
+senses:
+  - meaning: law
+    zh: 法律
+    examples:
+      - code of laws
+      - lawsuit
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - laws -> code of laws
+  - law -> lawsuit
+high_value_words:
+  - code of laws
+  - lawsuit
+confusable_words:
+  []

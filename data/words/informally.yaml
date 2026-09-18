@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: informally
+word: informally
+pos: adverb
+zh: 非正式地；随意地
+en: in a relaxed or unofficial way
+components:
+  - morpheme: in-not
+    form: in-
+    meaning_in_word: not / 不；否定
+    zh: 不；否定
+    role: prefix
+    is_core: false
+    note: 否定 in- 及同化形 im-/il-/ir-；与 in- 在内的前缀异义，不能混用。
+  - morpheme: form
+    form: form
+    meaning_in_word: form, shape / 形式；符合
+    zh: 形式；符合
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - informal
+  - informality
+word_family_details:
+  - word: informal
+    en: Means 不拘礼节的，随便的；非正式的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不拘礼节的，随便的；非正式的
+  - word: informality
+    en: a relaxed or unofficial manner
+    zh: 非正式；随意
+confusables:
+  []
+examples:
+  []
+why_confusing: 

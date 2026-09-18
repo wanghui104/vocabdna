@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: not-as-yet
+display: not-as-yet
+type: root
+core_meaning: not-as-yet
+zh: not-as-yet
+origin: teaching morphology
+source_form: not-as-yet
+source_meaning: not-as-yet
+source_meaning_zh: not-as-yet
+related_morphemes:
+  []
+senses:
+  - meaning: not-as-yet
+    zh: not-as-yet
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

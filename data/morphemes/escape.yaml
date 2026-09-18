@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: escape
+display: escape
+type: root
+core_meaning: get out of a cape, escape
+zh: 脱出披风；逃脱
+origin: Latin
+source_form: Old French escaper; Vulgar Latin *excappare
+source_meaning: get out of a cape, escape
+source_meaning_zh: 脱出披风；逃脱
+source_note: 深层 ex- 出 + cappa 披风，指摆脱被抓住的披风；经法语音变形成 escape，保留稳定词干，cape 不是海角。
+related_morphemes:
+  []
+senses:
+  - meaning: get out of a cape, escape
+    zh: 脱出披风；逃脱
+    examples:
+      - escape
+      - escapism
+      - escapist
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - escape -> escape
+  - escap -> escapism
+  - escap -> escapist
+high_value_words:
+  - escape
+  - escapism
+  - escapist
+confusable_words:
+  []

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: terg
+display: terg
+type: root
+core_meaning: wipe, clean
+zh: 擦净；清洁
+origin: Latin
+source_form: Latin tergere
+source_meaning: rub, polish, wipe
+source_meaning_zh: 擦；抹；擦亮
+source_note: Etymonline marks the deeper origin as uncertain.
+related_morphemes:
+  []
+senses:
+  - meaning: wipe, clean
+    zh: 擦净；清洁
+    examples:
+      - detergent
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - terg -> detergent
+high_value_words:
+  - detergent
+confusable_words:
+  []

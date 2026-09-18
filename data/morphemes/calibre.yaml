@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: calibre
+display: calibr
+type: root
+core_meaning: calibration
+zh: 校准；标度
+origin: Mixed
+source_form: French calibre
+source_meaning: standard size, measure
+source_meaning_zh: 口径；标准尺寸
+related_morphemes:
+  []
+senses:
+  - meaning: calibration
+    zh: 校准；标度
+    examples:
+      - calibration
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - calibr -> calibration
+high_value_words:
+  - calibration
+confusable_words:
+  []

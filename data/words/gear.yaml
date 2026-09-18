@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gear
+word: gear
+pos: noun/verb
+zh: 齿轮；传动装置
+en: a toothed wheel or transmission mechanism
+components:
+  - morpheme: gear
+    form: gear
+    meaning_in_word: equipment, prepare / 装备；准备
+    zh: 装备；准备
+    role: root
+    is_core: true
+    note: 从装备发展至传动设备和齿轮；更深为准备、配备，不含英语 -ear 后缀。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

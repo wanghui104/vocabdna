@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: survivor
+word: survivor
+pos: noun
+zh: 生还者，残存物
+en: Means 生还者，残存物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sur
+    form: sur-
+    meaning_in_word: over; above / 超过；在上
+    zh: 在上；超过
+    role: prefix
+    is_core: false
+  - morpheme: viv
+    form: viv
+    meaning_in_word: live / 活
+    zh: 活
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person or thing that / 做…者或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - survivability
+  - survival
+  - survive
+word_family_details:
+  - word: survivability
+    en: Means 存活率，生命力; reviewed from the TOEFL source gloss for learner display.
+    zh: 存活率，生命力
+  - word: survival
+    en: Means 生存，幸存; reviewed from the TOEFL source gloss for learner display.
+    zh: 生存，幸存
+  - word: survive
+    en: Means (人)幸免于难,活下来；(物)耐久; reviewed from the TOEFL source gloss for learner display.
+    zh: (人)幸免于难,活下来；(物)耐久
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

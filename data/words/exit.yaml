@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exit
+word: exit
+pos: noun/verb
+zh: 出口；离开
+en: a way out or the act of leaving
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: it-go
+    form: it
+    meaning_in_word: go / 去；行进
+    zh: 去；行进
+    role: root
+    is_core: true
+    note: exit 与 exire 出去有关：ex- + ire；戏剧提示 exit 的 t 是第三人称结尾，名词又受 exitus 出口、离去影响；表层 it 不视为英语后缀。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

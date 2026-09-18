@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: malfunction
+word: malfunction
+pos: noun
+zh: 故障，失灵
+en: Means 故障，失灵; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mal
+    form: mal
+    meaning_in_word: 坏、恶
+    zh: 坏、恶
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mal.
+  - morpheme: function
+    form: function
+    meaning_in_word: 执行；功能
+    zh: 执行；功能
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:function.
+word_family:
+  - malfunctioning
+  - malfunctional
+  - malnutrition
+word_family_details:
+  - word: malfunctioning
+    en: not working correctly
+    zh: 功能失常的
+  - word: malfunctional
+    en: relating to faulty functioning; an uncommon form better expressed as malfunctioning
+    zh: 功能失常的（少见形式；通常用 malfunctioning）
+  - word: malnutrition
+    en: Means 营养不良; reviewed from the TOEFL source gloss for learner display.
+    zh: 营养不良
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

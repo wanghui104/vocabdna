@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elliptical
+word: elliptical
+pos: adjective
+zh: 椭圆的
+en: oval in shape
+components:
+  - morpheme: en-greek
+    form: el-
+    meaning_in_word: in, within / 在内
+    zh: 在内
+    role: prefix
+    is_core: false
+    note: 希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。
+  - morpheme: lip-leip
+    form: lipt
+    meaning_in_word: leave, fall short / 留下；缺少
+    zh: 留下；缺少
+    role: root
+    is_core: true
+    note: ellipse 椭圆与 ellipsis 省略同源：Greek en-（同化 el-）+ leipein 留下；lipt- 是形容词构词形。两义分别保留。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - ellipse
+word_family_details:
+  - word: ellipse
+    en: an oval curve whose points have a constant sum of distances from two fixed points
+    zh: 椭圆
+confusables:
+  []
+examples:
+  []
+why_confusing: 

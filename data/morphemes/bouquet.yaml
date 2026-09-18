@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bouquet
+display: bouquet
+type: root
+core_meaning: bouquet
+zh: 花束；香气
+origin: French
+source_form: French bouquet, from bois/bosc
+source_meaning: bunch of flowers, little wood
+source_meaning_zh: 花束；小树林
+related_morphemes:
+  []
+senses:
+  - meaning: bouquet
+    zh: 花束；香气
+    examples:
+      - bouquet
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bouquet -> bouquet
+high_value_words:
+  - bouquet
+confusable_words:
+  []

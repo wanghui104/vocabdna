@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aromatic
+word: aromatic
+pos: adjective
+zh: 芬芳的；芳香的
+en: having a pleasant or distinctive smell
+components:
+  - morpheme: arom
+    form: arom
+    meaning_in_word: fragrance
+    zh: 香气；芳香
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -atic
+    meaning_in_word: relating to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - aroma
+word_family_details:
+  - word: aroma
+    en: a pleasant or distinctive smell
+    zh: 香气；芬芳；芳香
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

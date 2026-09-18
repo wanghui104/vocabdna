@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: feverish
+word: feverish
+pos: adjective
+zh: 发烧的
+en: having a fever
+components:
+  - morpheme: fever
+    form: fever
+    meaning_in_word: fever / 发热
+    zh: 发热
+    role: root
+    is_core: true
+    note: 经古英语借入拉丁 febris；更深起源未定，不能把 -er 当施事者。
+  - morpheme: ish
+    form: -ish
+    meaning_in_word: make, somewhat like / 使成、带有……性质
+    zh: 使成、带有……性质
+    role: suffix
+    is_core: false
+    note: 本条归组两条来源：形容词 -ish 为 Old English -isc；动词 abolish/extinguish 等的 -ish 经法语 -iss-，历史关联 Latin -iscere 动词扩展。
+word_family:
+  - fever
+word_family_details:
+  - word: fever
+    en: an abnormally high body temperature
+    zh: 发热；发烧
+confusables:
+  []
+examples:
+  []
+why_confusing: 

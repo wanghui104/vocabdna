@@ -1,0 +1,58 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ish-romance
+display: -ish
+type: suffix
+core_meaning: verb-forming ending
+zh: 动词构词结尾
+origin: French
+source_form: French verbal stem endings -iss-/-issier
+source_meaning: verb-forming ending
+source_meaning_zh: 动词构词结尾
+source_note: diminish/distinguish 的历史法语动词结尾，不是 Germanic -ish “有点……”。
+related_morphemes:
+  []
+senses:
+  - meaning: verb-forming ending
+    zh: 动词构词结尾
+    examples:
+      - diminish
+      - distinguish
+      - distinguished
+      - embellish
+      - embellishment
+      - flourish
+      - flourishing
+      - furnish
+      - furnished
+      - furnishing
+      - furnishings
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ish -> diminish
+  - -ish -> distinguish
+  - -ish -> distinguished
+  - -ish -> embellish
+  - -ish -> embellishment
+  - -ish -> flourish
+  - -ish -> flourishing
+  - -ish -> furnish
+  - -ish -> furnished
+  - -ish -> furnishing
+  - -ish -> furnishings
+high_value_words:
+  - diminish
+  - distinguish
+  - distinguished
+  - embellish
+  - embellishment
+  - flourish
+  - flourishing
+  - furnish
+  - furnished
+  - furnishing
+  - furnishings
+confusable_words:
+  []

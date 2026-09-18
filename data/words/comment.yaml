@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: comment
+word: comment
+pos: noun/verb
+zh: 注释；评论；谈及
+en: a remark or note, or to make one
+components:
+  - morpheme: comment
+    form: comment
+    meaning_in_word: explain
+    zh: 评论；注释
+    role: root
+    is_core: true
+word_family:
+  - commentator
+  - commentary
+word_family_details:
+  - word: commentator
+    en: a person who explains or comments on events
+    zh: 评论员；讲解员
+  - word: commentary
+    en: spoken or written explanation and comments
+    zh: 注释；解说词；评论
+confusables:
+  []
+examples:
+  []
+why_confusing: comment on/upon。

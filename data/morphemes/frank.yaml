@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frank
+display: frank
+type: root
+core_meaning: free, open
+zh: 自由；坦率
+origin: French
+source_form: Old French franc; Frank (people)
+source_meaning: free, open
+source_meaning_zh: 自由；坦率
+source_note: 由法兰克族名到自由，再到坦率；族名更深起源有争议，不硬拆。
+related_morphemes:
+  []
+senses:
+  - meaning: free, open
+    zh: 自由；坦率
+    examples:
+      - frank
+      - frankly
+      - frankness
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - frank -> frank
+  - frank -> frankly
+  - frank -> frankness
+high_value_words:
+  - frank
+  - frankly
+  - frankness
+confusable_words:
+  []

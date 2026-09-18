@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: radically
+word: radically
+pos: adverb/verb
+zh: 根本上
+en: Means 根本上; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: radic
+    form: radic
+    meaning_in_word: root / 根
+    zh: 根
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 相关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in that manner / 以…方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - radical
+word_family_details:
+  - word: radical
+    en: Means 根本的；激进的; reviewed from the TOEFL source gloss for learner display.
+    zh: 根本的；激进的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

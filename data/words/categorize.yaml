@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: categorize
+word: categorize
+pos: verb
+zh: 分类
+en: to put people or things into categories
+components:
+  - morpheme: category
+    form: categor
+    meaning_in_word: class
+    zh: 类别；范畴
+    role: root
+    is_core: true
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make into
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - category
+word_family_details:
+  - word: category
+    en: a class or group of things of the same type
+    zh: 种类；类目；范畴
+confusables:
+  []
+examples:
+  []
+why_confusing: 也拼作 categorise（英式）。

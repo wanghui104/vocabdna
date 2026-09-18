@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: unfold
+word: unfold
+pos: verb
+zh: 展开
+en: to open something folded
+components:
+  - morpheme: un
+    form: un-
+    meaning_in_word: not, opposite / 不；相反
+    zh: 不；相反
+    role: prefix
+    is_core: false
+  - morpheme: fold
+    form: fold
+    meaning_in_word: bend, fold / 折叠
+    zh: 折叠
+    role: root
+    is_core: true
+    note: 本条为折叠，围栏 fold 来自另一词源。数量后缀 -fold 与倍叠概念相关但单列后缀。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

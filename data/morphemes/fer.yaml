@@ -15,17 +15,62 @@ senses:
   - meaning: carry, bring, bear
     zh: 携带、带来
     examples:
+      - circumference
       - confer
       - conference
+      - conifer
+      - defer
+      - deference
+      - deferential
+      - different
+      - differentiate
+      - indifference
+      - indifferent
+      - interfere
+      - interference
+      - preferable
+      - preference
+      - transfer
+      - undifferentiated
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - fer -> circumference
   - fer -> confer
   - fer -> conference
+  - fer -> conifer
+  - fer -> defer
+  - fer -> deference
+  - fer -> deferential
+  - fer -> different
+  - fer -> differentiate
+  - fer -> indifference
+  - fer -> indifferent
+  - fer -> interfere
+  - fer -> interference
+  - fer -> preferable
+  - fer -> preference
+  - fer -> transfer
+  - fer -> undifferentiated
 high_value_words:
+  - circumference
   - confer
   - conference
+  - conifer
+  - defer
+  - deference
+  - deferential
+  - different
+  - differentiate
+  - indifference
+  - indifferent
+  - interfere
+  - interference
+  - preferable
+  - preference
+  - transfer
+  - undifferentiated
 confusable_words:
   []

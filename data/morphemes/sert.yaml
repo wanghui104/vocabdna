@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sert
+display: sert
+type: root
+core_meaning: join, insert
+zh: 连接；插入
+origin: Latin
+source_form: Latin serere / sertus
+source_meaning: join, insert
+source_meaning_zh: 连接；插入
+related_morphemes:
+  []
+senses:
+  - meaning: join, insert
+    zh: 连接；插入
+    examples:
+      - insert
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sert -> insert
+high_value_words:
+  - insert
+confusable_words:
+  []

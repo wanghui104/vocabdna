@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confinement
+word: confinement
+pos: noun
+zh: 限制；禁闭；拘禁
+en: the state of being confined or kept in a place
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: fin
+    form: fine
+    meaning_in_word: limit
+    zh: 边界；限制；终点
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: state
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - confine
+  - confining
+word_family_details:
+  - word: confine
+    en: to keep someone or something within limits or in a place
+    zh: 限制；禁闭
+  - word: confining
+    en: making you feel restricted or trapped
+    zh: 狭窄的；限制性的
+confusables:
+  []
+examples:
+  []
+why_confusing: solitary confinement 指单独监禁。

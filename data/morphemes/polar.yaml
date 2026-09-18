@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: polar
+display: polar
+type: root
+core_meaning: pole
+zh: 极
+origin: teaching morphology
+source_form: polar
+source_meaning: pole
+source_meaning_zh: 极
+related_morphemes:
+  []
+senses:
+  - meaning: pole
+    zh: 极
+    examples:
+      - polarize
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - polar -> polarize
+high_value_words:
+  - polarize
+confusable_words:
+  []

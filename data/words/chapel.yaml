@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chapel
+word: chapel
+pos: noun
+zh: 小礼拜堂
+en: a small church or room used for worship
+components:
+  - morpheme: chapel
+    form: chapel
+    meaning_in_word: little shrine
+    zh: 小礼拜堂
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: chapel 不等于 cathedral；cathedral 是主教座堂。

@@ -1,0 +1,111 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ence
+display: -ence
+type: suffix
+core_meaning: state, quality
+zh: 状态；性质
+origin: Latin
+source_form: Latin -entia
+source_meaning: state, quality
+source_meaning_zh: 状态；性质
+related_morphemes:
+  []
+senses:
+  - meaning: state, quality
+    zh: 状态；性质
+    examples:
+      - ambience
+      - ambivalence
+      - coincidence
+      - consequence
+      - correspondence
+      - credence
+      - deference
+      - dependence
+      - divergence
+      - emergence
+      - incidence
+      - indifference
+      - insistence
+      - intelligence
+      - interdependence
+      - interference
+      - irreverence
+      - magnificence
+      - nonviolence
+      - occurrence
+      - persistence
+      - pestilence
+      - preference
+      - presence
+      - prominence
+      - residence
+      - sequence
+      - subsistence
+      - violence
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ence -> ambience
+  - -ence -> ambivalence
+  - -ence -> coincidence
+  - -ence -> consequence
+  - -ence -> correspondence
+  - -ence -> credence
+  - -ence -> deference
+  - -ence -> dependence
+  - -ence -> divergence
+  - -ence -> emergence
+  - -ence -> incidence
+  - -ence -> indifference
+  - -ence -> insistence
+  - -ence -> intelligence
+  - -ence -> interdependence
+  - -ence -> interference
+  - -ence -> irreverence
+  - -ence -> magnificence
+  - -ence -> nonviolence
+  - ence -> occurrence
+  - -ence -> persistence
+  - -ence -> pestilence
+  - -ence -> preference
+  - -ence -> presence
+  - -ence -> prominence
+  - -ence -> residence
+  - -ence -> sequence
+  - -ence -> subsistence
+  - -ence -> violence
+high_value_words:
+  - ambience
+  - ambivalence
+  - coincidence
+  - consequence
+  - correspondence
+  - credence
+  - deference
+  - dependence
+  - divergence
+  - emergence
+  - incidence
+  - indifference
+  - insistence
+  - intelligence
+  - interdependence
+  - interference
+  - irreverence
+  - magnificence
+  - nonviolence
+  - occurrence
+  - persistence
+  - pestilence
+  - preference
+  - presence
+  - prominence
+  - residence
+  - sequence
+  - subsistence
+  - violence
+confusable_words:
+  []

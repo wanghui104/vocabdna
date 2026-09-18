@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: breakup
+word: breakup
+pos: noun
+zh: 分裂；分离
+en: a separation or ending of a relationship, group, or whole
+components:
+  - morpheme: break
+    form: break
+    meaning_in_word: split
+    zh: 打破；破裂
+    role: root
+    is_core: true
+  - morpheme: up
+    form: up
+    meaning_in_word: apart, completely
+    zh: 向上；从事
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: breakup 是名词；break up 是动词短语。

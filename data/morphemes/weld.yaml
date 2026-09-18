@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: weld
+display: weld
+type: root
+core_meaning: weld
+zh: 焊接
+origin: teaching morphology
+source_form: weld
+source_meaning: weld
+source_meaning_zh: 焊接
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: weld
+    zh: 焊接
+    examples:
+      - weld
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - weld -> weld
+high_value_words:
+  - weld
+confusable_words:
+  []

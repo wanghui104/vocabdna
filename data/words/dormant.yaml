@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dormant
+word: dormant
+pos: adjective
+zh: 休眠的；暂不活动的
+en: temporarily inactive but capable of becoming active
+components:
+  - morpheme: dorm
+    form: dorm
+    meaning_in_word: sleep / 睡眠
+    zh: 睡眠
+    role: root
+    is_core: true
+    note: dormit- 为 dormire 的分词构词词干，-it- 属历史词干扩展；dormitory 再接表示场所的 -ory。
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having quality, doing / 具有…性质；正在…
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - dormancy
+word_family_details:
+  - word: dormancy
+    en: a temporary state of inactivity
+    zh: 休眠状态
+confusables:
+  []
+examples:
+  []
+why_confusing: 

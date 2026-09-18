@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bunch
+word: bunch
+pos: noun/verb
+zh: 串；束；群；捆成一束；聚集
+en: a group or cluster, or to gather into a cluster
+components:
+  - morpheme: bunch
+    form: bunch
+    meaning_in_word: cluster
+    zh: 串；束；群
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: a bunch of 可口语表示许多。

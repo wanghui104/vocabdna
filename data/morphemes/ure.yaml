@@ -1,26 +1,99 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: ure
 display: -ure
 type: suffix
-core_meaning: result / state / process
-zh: 结果；状态；过程
-origin: Latin noun-forming suffix -ura
+core_meaning: act or result
+zh: 行为；结果
+origin: Latin
+source_form: Latin -ura
+source_meaning: act, result, state
+source_meaning_zh: 行为；结果；状态
+related_morphemes:
+  []
 senses:
-  - meaning: result / state
-    zh: 结果；状态
+  - meaning: act or result
+    zh: 行为；结果
     examples:
+      - acupuncture
+      - agriculture
       - architecture
-      - structure
-      - closure
+      - culture
+      - departure
+      - enclosure
+      - expenditure
+      - exposure
+      - fixture
+      - fracture
+      - furniture
+      - horticulture
+      - indenture
+      - juncture
+      - moisture
+      - pleasure
+      - portraiture
+      - posture
+      - pressure
+      - puncture
+      - rupture
+      - sculptural
+      - sculpture
+      - texture
+      - textured
 similar_form:
-  - or
-  - er
+  []
 similar_meaning:
-  - tion
+  []
 patterns:
-  - verb or root + -ure = result or state
+  - -ure -> acupuncture
+  - -ure -> agriculture
+  - -ure -> architecture
+  - -ure -> culture
+  - -ure -> departure
+  - -ure -> enclosure
+  - -ure -> expenditure
+  - -ure -> exposure
+  - -ure -> fixture
+  - -ure -> fracture
+  - -ure -> furniture
+  - -ure -> horticulture
+  - -ure -> indenture
+  - -ure -> juncture
+  - -ure -> moisture
+  - -ure -> pleasure
+  - -ure -> portraiture
+  - -ure -> posture
+  - -ure -> pressure
+  - -ure -> puncture
+  - -ure -> rupture
+  - -ure -> sculptural
+  - -ure -> sculpture
+  - -ure -> texture
+  - -ure -> textured
 high_value_words:
+  - acupuncture
+  - agriculture
   - architecture
-  - structure
-  - closure
+  - culture
+  - departure
+  - enclosure
+  - expenditure
+  - exposure
+  - fixture
+  - fracture
+  - furniture
+  - horticulture
+  - indenture
+  - juncture
+  - moisture
+  - pleasure
+  - portraiture
+  - posture
+  - pressure
+  - puncture
+  - rupture
+  - sculptural
+  - sculpture
+  - texture
+  - textured
 confusable_words:
-  - architecture vs architect
+  []

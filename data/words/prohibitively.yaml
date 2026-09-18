@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prohibitively
+word: prohibitively
+pos: adverb/verb
+zh: 令人望而却步地；(价格)极高地
+en: Means 令人望而却步地；(价格)极高地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: forward; forth / 向前；公开
+    zh: 向前、公开、代替
+    role: prefix
+    is_core: false
+  - morpheme: hibit
+    form: hibit
+    meaning_in_word: hold / 持有；禁止
+    zh: 持有；抑制
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: tending to / 倾向于
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in that manner / 以…方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - prohibit
+  - prohibitive
+word_family_details:
+  - word: prohibit
+    en: Means 禁止; reviewed from the TOEFL source gloss for learner display.
+    zh: 禁止
+  - word: prohibitive
+    en: Means 禁止的，抑制的; reviewed from the TOEFL source gloss for learner display.
+    zh: 禁止的，抑制的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

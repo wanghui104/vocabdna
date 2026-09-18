@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forefather
+word: forefather
+pos: noun
+zh: 祖先；先辈
+en: an ancestor, especially of earlier generations
+components:
+  - morpheme: fore
+    form: fore-
+    meaning_in_word: before, ancestor / 在前；祖先
+    zh: 在前；祖先
+    role: prefix
+    is_core: false
+  - morpheme: father
+    form: father
+    meaning_in_word: father / 父亲
+    zh: 父亲
+    role: root
+    is_core: true
+    note: 本族基本亲属词；forefather 前加 fore-。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

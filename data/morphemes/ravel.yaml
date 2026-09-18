@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ravel
+display: ravel
+type: root
+core_meaning: untangle
+zh: 拆解；弄清
+origin: teaching morphology
+source_form: ravel
+source_meaning: untangle
+source_meaning_zh: 拆解；弄清
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: untangle
+    zh: 拆解；弄清
+    examples:
+      - unravel
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ravel -> unravel
+high_value_words:
+  - unravel
+confusable_words:
+  []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ular
+display: -ular
+type: suffix
+core_meaning: relating to
+zh: 有关……的
+origin: Latin
+source_form: Latin -ularis
+source_meaning: relating to
+source_meaning_zh: 有关……的
+related_morphemes:
+  []
+senses:
+  - meaning: relating to
+    zh: 有关……的
+    examples:
+      - glandular
+      - multicellular
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ular -> glandular
+  - -ular -> multicellular
+high_value_words:
+  - glandular
+  - multicellular
+confusable_words:
+  []

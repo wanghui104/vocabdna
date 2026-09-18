@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: outgrow
+word: outgrow
+pos: verb
+zh: 生长速度超过…，长得比…快
+en: Means 生长速度超过…，长得比…快; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: out
+    form: out-
+    meaning_in_word: outside; beyond / 外；超过
+    zh: 向外；爆发
+    role: prefix
+    is_core: false
+  - morpheme: grow
+    form: grow
+    meaning_in_word: grow / 生长
+    zh: 生长
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

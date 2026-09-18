@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: alteration
+word: alteration
+pos: noun
+zh: 变更；改造；修改
+en: a change made to something
+components:
+  - morpheme: al-other
+    form: alter
+    meaning_in_word: change, make other
+    zh: 其他；另一边
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: act or result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - alter
+word_family_details:
+  - word: alter
+    en: to change something in some way
+    zh: 改变；修改
+confusables:
+  - word: alternation
+    reason: alteration 是 alter 的名词，不要和 alternation “交替”混。
+    zh_reason: alteration 是 alter 的名词，不要和 alternation “交替”混。
+examples:
+  []
+why_confusing: alteration 是 alter 的名词，不要和 alternation “交替”混。

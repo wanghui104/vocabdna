@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flashlight
+word: flashlight
+pos: noun
+zh: 手电筒
+en: a small portable electric light
+components:
+  - morpheme: flash
+    form: flash
+    meaning_in_word: burst suddenly / 突然闪现
+    zh: 突然闪现
+    role: root
+    is_core: true
+    note: 通常视作拟声、表现性构词；没有可信的 fl- + -ash 拆解。
+  - morpheme: light
+    form: light
+    meaning_in_word: light, illumination / 光；照明
+    zh: 光；照明
+    role: root
+    is_core: true
+    note: enlighten 把光照入，引申启迪；不是 Latin levis 轻。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

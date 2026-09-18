@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: memor
+display: memor
+type: root
+core_meaning: commemorate
+zh: 纪念
+origin: Latin
+source_form: Latin memorare
+source_meaning: remember, mention
+source_meaning_zh: 记住；提及
+related_morphemes:
+  []
+senses:
+  - meaning: commemorate
+    zh: 纪念
+    examples:
+      - commemorate
+      - memorable
+      - memorandum
+      - memorial
+      - memorize
+      - memory
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - memor -> commemorate
+  - memor -> memorable
+  - memor -> memorandum
+  - memor -> memorial
+  - memor -> memorize
+  - memor -> memory
+high_value_words:
+  - commemorate
+  - memorable
+  - memorandum
+  - memorial
+  - memorize
+  - memory
+confusable_words:
+  []

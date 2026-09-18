@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: monochromatic
+word: monochromatic
+pos: adjective
+zh: 单色的，一色的
+en: Means 单色的，一色的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mono
+    form: mono-
+    meaning_in_word: 单一
+    zh: 单一
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:mono.
+  - morpheme: chrom
+    form: chrom
+    meaning_in_word: 颜色
+    zh: 颜色
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:chrom.
+  - morpheme: atic
+    form: -atic
+    meaning_in_word: 与……相关
+    zh: 与……相关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:atic.
+word_family:
+  - monopolize
+  - monopoly
+  - monotonous
+word_family_details:
+  - word: monopolize
+    en: Means 独占，垄断; reviewed from the TOEFL source gloss for learner display.
+    zh: 独占，垄断
+  - word: monopoly
+    en: Means 独占，垄断; reviewed from the TOEFL source gloss for learner display.
+    zh: 独占，垄断
+  - word: monotonous
+    en: Means 单调乏味的，无变化的; reviewed from the TOEFL source gloss for learner display.
+    zh: 单调乏味的，无变化的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

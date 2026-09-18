@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hands-on
+word: hands-on
+pos: noun
+zh: 亲手抓的
+en: Means 亲手抓的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hand
+    form: hand
+    meaning_in_word: hand
+    zh: 手；工人
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hand.
+  - morpheme: s
+    form: -s
+    meaning_in_word: 复数；机构化形式
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+    note: Suffix layer from Old English -s / -es.
+  - morpheme: on
+    form: on
+    meaning_in_word: on
+    zh: 在上；继续
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:on.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

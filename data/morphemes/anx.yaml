@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: anx
+display: anx
+type: root
+core_meaning: tight, troubled
+zh: 紧缩；焦虑
+origin: Latin
+source_form: Latin angere, anxius
+source_meaning: choke, squeeze; troubled
+source_meaning_zh: 挤压；焦虑
+related_morphemes:
+  []
+senses:
+  - meaning: tight, troubled
+    zh: 紧缩；焦虑
+    examples:
+      - anxious
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - anx -> anxious
+high_value_words:
+  - anxious
+confusable_words:
+  []

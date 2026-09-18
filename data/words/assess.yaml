@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assess
+word: assess
+pos: verb
+zh: 估计；分析；评估
+en: to judge or estimate the value, quality, or importance of something
+components:
+  - morpheme: ad
+    form: as-
+    meaning_in_word: beside, to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: sed
+    form: sess
+    meaning_in_word: sit, sit beside to judge
+    zh: 坐；安置
+    role: root
+    is_core: true
+word_family:
+  - assessment
+word_family_details:
+  - word: assessment
+    en: an evaluation or estimate
+    zh: 估价；评估
+confusables:
+  - word: assert
+    reason: assess 是评估；asset 是资产；assert 是声称。
+    zh_reason: assess 是评估；asset 是资产；assert 是声称。
+  - word: asset
+    reason: assess 是评估；asset 是资产；assert 是声称。
+    zh_reason: assess 是评估；asset 是资产；assert 是声称。
+examples:
+  []
+why_confusing: assess 是评估；asset 是资产；assert 是声称。

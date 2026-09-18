@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fest
+display: fest
+type: root
+core_meaning: festive, feast
+zh: 节庆
+origin: Latin
+source_form: Latin festus, festum
+source_meaning: festive, feast
+source_meaning_zh: 节庆
+source_note: festive = fest- + -ive；festival 经 festivalis，保留 fest- + -iv- + -al。
+related_morphemes:
+  []
+senses:
+  - meaning: festive, feast
+    zh: 节庆
+    examples:
+      - festival
+      - festive
+      - festivity
+      - infest
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fest -> festival
+  - fest -> festive
+  - fest -> festivity
+  - fest -> infest
+high_value_words:
+  - festival
+  - festive
+  - festivity
+  - infest
+confusable_words:
+  []

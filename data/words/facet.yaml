@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: facet
+word: facet
+pos: noun
+zh: 宝石切面；方面
+en: a side of a cut gem; one aspect of something
+components:
+  - morpheme: face
+    form: fac
+    meaning_in_word: face, appearance / 脸；外表
+    zh: 脸；外表
+    role: root
+    is_core: true
+    note: facies 可能与 facere 做、形成有关，但直接词源为脸、形状；facade/facet 的 fac- 不直接释为做。
+  - morpheme: et-small
+    form: -et
+    meaning_in_word: small thing / 小物；小称
+    zh: 小物；小称
+    role: suffix
+    is_core: false
+    note: facet 对应 French facette，face + -ette。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

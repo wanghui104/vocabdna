@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: idiomatic
+word: idiomatic
+pos: adjective
+zh: 惯用的，通顺的
+en: Means 惯用的，通顺的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: idiom
+    form: idiom
+    meaning_in_word: 特有表达；习语
+    zh: 特有表达；习语
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:idiom.
+  - morpheme: atic
+    form: -atic
+    meaning_in_word: 与……相关
+    zh: 与……相关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:atic.
+word_family:
+  - idiom
+word_family_details:
+  - word: idiom
+    en: Means 方言，土语；习惯用语; reviewed from the TOEFL source gloss for learner display.
+    zh: 方言，土语；习惯用语
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

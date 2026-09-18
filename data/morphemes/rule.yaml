@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rule
+display: rule
+type: root
+core_meaning: rule, regular guide
+zh: 规则；通常做法
+origin: Latin
+source_form: Latin regula
+source_meaning: straight stick, rule
+source_meaning_zh: 尺；规则
+related_morphemes:
+  []
+senses:
+  - meaning: rule, regular guide
+    zh: 规则；通常做法
+    examples:
+      - as a rule
+      - as a rule of thumb
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - rule -> as a rule
+  - rule -> as a rule of thumb
+high_value_words:
+  - as a rule
+  - as a rule of thumb
+confusable_words:
+  []

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bark
+word: bark
+pos: noun/verb
+zh: 树皮
+en: the hard outer covering of a tree
+components:
+  - morpheme: bark-tree
+    form: bark
+    meaning_in_word: tree skin
+    zh: 树皮
+    role: root
+    is_core: true
+  - morpheme: bark-sound
+    form: bark
+    meaning_in_word: dog-like cry
+    zh: 吠叫；咆哮
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 这两个 bark 词源不同，不要强行合并成一个 root。

@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: debtor
+word: debtor
+pos: noun
+zh: 债务人
+en: a person or organization that owes money
+components:
+  - morpheme: debt
+    form: debt
+    meaning_in_word: owe
+    zh: 债务；欠
+    role: root
+    is_core: true
+    note: 表层 debt；Latin debitum 所欠之物 ← debere 欠 = de- 离开 + habere 持有。深层意象是扣留别人应有之物；字母 b 是后期恢复的词源拼写，现代不发音。
+    related_morphemes:
+      - de
+  - morpheme: or
+    form: -or
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - debt
+word_family_details:
+  - word: debt
+    en: money or an obligation that is owed to someone
+    zh: 债务；欠款
+confusables:
+  []
+examples:
+  []
+why_confusing: debtor 债务人；creditor 债权人。

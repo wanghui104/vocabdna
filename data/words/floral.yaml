@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: floral
+word: floral
+pos: adjective
+zh: 花的；饰有花卉的
+en: relating to or decorated with flowers
+components:
+  - morpheme: flor
+    form: flor
+    meaning_in_word: flower / 花
+    zh: 花
+    role: root
+    is_core: true
+    note: flora 来自花神 Flora，深层 flor- 花 + 拉丁名词结尾 -a；floral 为 flor- + -al。
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - flora
+word_family_details:
+  - word: flora
+    en: the plant life of a region, habitat, or period
+    zh: 植物群
+confusables:
+  []
+examples:
+  []
+why_confusing: 

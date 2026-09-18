@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: facilitation
+word: facilitation
+pos: noun
+zh: 促进；便利化
+en: the act of making a process easier
+components:
+  - morpheme: facil
+    form: facil
+    meaning_in_word: easy to do, ability / 易做；能力
+    zh: 易做；能力
+    role: root
+    is_core: true
+    note: facilitate 去 -ate 加 -ation，显示 facil- + -it- + -ation；facil- 内部 facere 做 + -ilis 可做，it 是词干扩展层而非独立词根。
+    related_morphemes:
+      - fac
+      - ile
+  - morpheme: itate
+    form: -it
+    meaning_in_word: make or cause / 使……
+    zh: 使……
+    role: suffix
+    is_core: false
+    note: facilitate 的 -itate 反映 facility/facilitas 名词层与动词化；不把 it 当独立实义根。
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
+word_family:
+  - facilitate
+word_family_details:
+  - word: facilitate
+    en: to make an action or process easier
+    zh: 促进；使便利
+confusables:
+  []
+examples:
+  []
+why_confusing: 

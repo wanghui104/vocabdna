@@ -11,6 +11,9 @@ components:
     zh: 计算、说明
     role: root
     is_core: true
+    related_morphemes:
+      - com
+      - put-reckon
 word_family:
   []
 word_family_details:

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: civility
+word: civility
+pos: noun
+zh: 彬彬有礼；斯文
+en: polite and respectful behavior
+components:
+  - morpheme: civ
+    form: civil
+    meaning_in_word: polite citizen behavior
+    zh: 公民；市民；文明
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -ity
+    meaning_in_word: state
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  - civil
+word_family_details:
+  - word: civil
+    en: related to citizens or ordinary society, or polite
+    zh: 公民的；市民的；国内的；礼貌的
+confusables:
+  []
+examples:
+  []
+why_confusing: civility 强调公共礼貌和尊重。

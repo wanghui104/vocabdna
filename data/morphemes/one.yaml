@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: one
+display: one
+type: root
+core_meaning: one, single
+zh: 一个；单独
+origin: Old English
+source_form: Old English an
+source_meaning: one, single
+source_meaning_zh: 一；单一
+related_morphemes:
+  []
+senses:
+  - meaning: one, single
+    zh: 一个；单独
+    examples:
+      - alone
+      - at one session
+      - cyclone
+      - fend for oneself
+      - slip one's mind
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - one -> alone
+  - one -> at one session
+  - -one -> cyclone
+  - one -> fend for oneself
+  - one -> slip one's mind
+high_value_words:
+  - alone
+  - at one session
+  - cyclone
+  - fend for oneself
+  - slip one's mind
+confusable_words:
+  []

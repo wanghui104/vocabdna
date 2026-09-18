@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cramped
+word: cramped
+pos: adjective
+zh: 狭窄的；拘束的
+en: too small, tight, or limited for comfort
+components:
+  - morpheme: cramp
+    form: cramp
+    meaning_in_word: tight constraint
+    zh: 受限；狭窄
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: in a completed state
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 不是 cram 的直接派生；cramped 来自 cramp 的限制感。

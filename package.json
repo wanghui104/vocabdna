@@ -13,7 +13,12 @@
     "lint": "oxlint",
     "format": "oxfmt",
     "generate:vocab": "node scripts/generate-vocab-data.mjs",
-    "validate:vocab": "node data/vocab/v1/validate-vocab-data.mjs"
+    "validate:vocab": "node data/vocab/v1/validate-vocab-data.mjs",
+    "toefl:preview": "python scripts/preview-toefl-batch.py",
+    "toefl:check": "python scripts/check-toefl-batch.py",
+    "toefl:update-progress": "python scripts/update-toefl-progress.py",
+    "toefl:audit": "python scripts/audit-current-toefl-batch.py",
+    "toefl:summary": "python scripts/summarize-toefl-batch.py"
   },
   "dependencies": {
     "@base-ui/react": "1.7.0",

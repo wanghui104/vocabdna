@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discerning
+word: discerning
+pos: adjective
+zh: 有识别能力的；眼光敏锐的
+en: able to judge quality or differences well
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: cern
+    form: cern
+    meaning_in_word: separate, distinguish
+    zh: 分辨；区分
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: having quality
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - discern
+  - discernible
+word_family_details:
+  - word: discern
+    en: to see, notice, or distinguish something with effort
+    zh: 看出；察觉；辨别
+  - word: discernible
+    en: able to be seen, noticed, or recognized
+    zh: 可识别的；可看出的
+confusables:
+  []
+examples:
+  []
+why_confusing: discerning 常用于 taste/judgment/reader。

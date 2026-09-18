@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crack
+word: crack
+pos: noun/verb
+zh: 裂缝；裂纹；缺点；裂开；爆裂
+en: a narrow break or to split/break suddenly
+components:
+  - morpheme: crack
+    form: crack
+    meaning_in_word: split, sharp break
+    zh: 裂缝；裂开
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: crack down/on/up 等短语义不同。

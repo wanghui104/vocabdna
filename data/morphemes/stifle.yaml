@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stifle
+display: stifle
+type: root
+core_meaning: stifle
+zh: 窒息；扼杀
+origin: uncertain
+source_form: stifle
+source_meaning: stifle
+source_meaning_zh: 窒息；扼杀
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: stifle
+    zh: 窒息；扼杀
+    examples:
+      - stifle
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - stifle -> stifle
+high_value_words:
+  - stifle
+confusable_words:
+  []

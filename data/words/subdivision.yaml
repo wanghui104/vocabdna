@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: subdivision
+word: subdivision
+pos: noun
+zh: 细分，一部
+en: Means 细分，一部; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sub
+    form: sub-
+    meaning_in_word: under / 在下
+    zh: 在下、靠近、从属
+    role: prefix
+    is_core: false
+  - morpheme: di
+    form: di-
+    meaning_in_word: apart; two / 分开；二
+    zh: di
+    role: prefix
+    is_core: false
+  - morpheme: vis
+    form: vis
+    meaning_in_word: see / 看
+    zh: 看、可见
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act; result / 行为；结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - envision
+  - visibility
+  - vision
+word_family_details:
+  - word: envision
+    en: Means 想象，预想; reviewed from the TOEFL source gloss for learner display.
+    zh: 想象，预想
+  - word: visibility
+    en: Means 可见度; reviewed from the TOEFL source gloss for learner display.
+    zh: 可见度
+  - word: vision
+    en: Means 视觉; reviewed from the TOEFL source gloss for learner display.
+    zh: 视觉
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -12,13 +12,25 @@ senses:
     zh: 反对、相反
     examples:
       - contradict
+      - contradictory
+      - contrary
+      - contrast
+      - controversy
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - contra- -> contradict
+  - contra- -> contradictory
+  - contra- -> contrary
+  - contra- -> contrast
+  - contra- -> controversy
 high_value_words:
   - contradict
+  - contradictory
+  - contrary
+  - contrast
+  - controversy
 confusable_words:
   []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: curious
+word: curious
+pos: adjective
+zh: 好奇的；奇特的
+en: eager to know, or strange and interesting
+components:
+  - morpheme: cure
+    form: cur
+    meaning_in_word: care, seek to know
+    zh: 照料；管理；关心
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ious
+    meaning_in_word: full of
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - curiosity
+word_family_details:
+  - word: curiosity
+    en: a strong desire to know or learn something
+    zh: 好奇心
+confusables:
+  []
+examples:
+  []
+why_confusing: be curious about 是对……好奇；a curious object 是奇特物。

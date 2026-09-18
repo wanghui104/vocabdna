@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: liquid
+word: liquid
+pos: noun/adjective
+zh: 液体，流体 / 液体的
+en: Means 液体，流体 / 液体的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: liqu
+    form: liqu
+    meaning_in_word: 液体
+    zh: 液体
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:liqu.
+  - morpheme: id
+    form: -id
+    meaning_in_word: 处于某状态
+    zh: 处于某状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:id.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

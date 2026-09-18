@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: charitable
+word: charitable
+pos: adjective
+zh: 慈善的；仁慈的
+en: kind and generous, especially toward people in need
+components:
+  - morpheme: charity
+    form: charit
+    meaning_in_word: kindness
+    zh: 慈善；仁慈
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able/related
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - charity
+word_family_details:
+  - word: charity
+    en: kindness and giving to people in need
+    zh: 慈善；仁慈
+confusables:
+  []
+examples:
+  []
+why_confusing: charitable organization 指慈善组织。

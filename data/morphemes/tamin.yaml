@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tamin
+display: tamin
+type: root
+core_meaning: touch, pollute
+zh: 接触；污染
+origin: Latin
+source_form: Latin contaminare / contagio
+source_meaning: bring into contact, pollute
+source_meaning_zh: 接触；污染
+related_morphemes:
+  []
+senses:
+  - meaning: touch, pollute
+    zh: 接触；污染
+    examples:
+      - contagious
+      - contaminate
+      - contamination
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tag -> contagious
+  - tamin -> contaminate
+  - tamin -> contamination
+high_value_words:
+  - contagious
+  - contaminate
+  - contamination
+confusable_words:
+  []

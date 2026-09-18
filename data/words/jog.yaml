@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: jog
+word: jog
+pos: verb
+zh: 慢跑
+en: Means 慢跑; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: jog
+    form: jog
+    meaning_in_word: 慢跑；轻推
+    zh: 慢跑；轻推
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:jog.
+word_family:
+  - jogging
+word_family_details:
+  - word: jogging
+    en: Means 慢跑; reviewed from the TOEFL source gloss for learner display.
+    zh: 慢跑
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

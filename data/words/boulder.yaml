@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: boulder
+word: boulder
+pos: noun
+zh: 巨石
+en: a very large rock
+components:
+  - morpheme: boulder
+    form: boulder
+    meaning_in_word: large stone
+    zh: 巨石
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 和 shoulder 拼写不同。

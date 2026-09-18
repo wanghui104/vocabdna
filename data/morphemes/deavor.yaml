@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deavor
+display: deavor
+type: root
+core_meaning: duty
+zh: 义务
+origin: Latin
+source_form: Old French dever, deveir;  Latin debere
+source_meaning: duty
+source_meaning_zh: 义务
+source_note: endeavor 来自 put in dever 尽责；debere 更深 de- 离开 + habere 持有，与 due/debt 同历史源。
+related_morphemes:
+  - de
+senses:
+  - meaning: duty
+    zh: 义务
+    examples:
+      - endeavor
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - deavor -> endeavor
+high_value_words:
+  - endeavor
+confusable_words:
+  []

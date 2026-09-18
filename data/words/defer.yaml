@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: defer
+word: defer
+pos: verb
+zh: 延期；推迟
+en: to delay or put off until later
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away, down
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: fer
+    form: fer
+    meaning_in_word: carry, yield
+    zh: 携带、带来
+    role: root
+    is_core: true
+    note: 同形异源须区分：推迟 defer 来自 differre = dis- 分开 + ferre 搬运；服从 defer to 来自 deferre = de- 向下/交付 + ferre。当前 de- + fer- 仅表示服从分支；deference/deferential 也只属于此分支。
+word_family:
+  - deferential
+  - deference
+word_family_details:
+  - word: deferential
+    en: showing respectful submission to another person's judgment or authority
+    zh: 恭敬的；恭顺的
+  - word: deference
+    en: respectful yielding to another person's wishes, judgment, or authority
+    zh: 尊重；顺从；敬意
+confusables:
+  []
+examples:
+  []
+why_confusing: defer a decision 是推迟；defer to someone 是遵从。

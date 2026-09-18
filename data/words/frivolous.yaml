@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frivolous
+word: frivolous
+pos: adjective
+zh: 轻浮的；琐碎的
+en: not serious or sensible
+components:
+  - morpheme: frivol
+    form: frivol
+    meaning_in_word: trifling; crumble / 琐碎；弄碎
+    zh: 琐碎；弄碎
+    role: root
+    is_core: true
+    note: frivolity = frivol- + -ity；内部常追至碎屑词 *frivos 和小称层 -ol-，属于重构，不硬认每个字母为确证词素。
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: full of, having / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - frivolity
+word_family_details:
+  - word: frivolity
+    en: lack of seriousness; lighthearted or trivial behavior
+    zh: 轻浮；轻佻；无聊举动
+confusables:
+  []
+examples:
+  []
+why_confusing: 

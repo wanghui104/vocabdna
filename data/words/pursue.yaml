@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pursue
+word: pursue
+pos: verb
+zh: 追赶，追踪；从事
+en: Means 追赶，追踪；从事; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pur
+    form: pur-
+    meaning_in_word: forward; seek / 向前；追求
+    zh: 纯
+    role: prefix
+    is_core: false
+  - morpheme: sue
+    form: sue
+    meaning_in_word: follow; seek / 追随；请求；诉讼
+    zh: 追随；请求；诉讼
+    role: root
+    is_core: true
+word_family:
+  - sue
+word_family_details:
+  - word: sue
+    en: Means 向…请求，请愿；提出诉讼，控告; reviewed from the TOEFL source gloss for learner display.
+    zh: 向…请求，请愿；提出诉讼，控告
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

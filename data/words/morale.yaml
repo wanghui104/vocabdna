@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: morale
+word: morale
+pos: noun
+zh: 士气
+en: Means 士气; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mor
+    form: mor
+    meaning_in_word: 风俗；士气
+    zh: 风俗；士气
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mor.
+  - morpheme: ale
+    form: ale
+    meaning_in_word: ale
+    zh: ale
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ale.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

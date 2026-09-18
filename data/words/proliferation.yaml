@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: proliferation
+word: proliferation
+pos: noun
+zh: 繁殖，大量增殖
+en: Means 繁殖，大量增殖; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: forward; forth / 向前；公开
+    zh: 向前、公开、代替
+    role: prefix
+    is_core: false
+  - morpheme: lifer
+    form: lifer
+    meaning_in_word: offspring; bear / 子代；生育
+    zh: 子代；生育
+    role: root
+    is_core: true
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: act or result / 动作或结果
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+word_family:
+  - proliferate
+word_family_details:
+  - word: proliferate
+    en: Means 激增；繁殖; reviewed from the TOEFL source gloss for learner display.
+    zh: 激增；繁殖
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

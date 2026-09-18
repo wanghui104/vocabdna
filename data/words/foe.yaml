@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foe
+word: foe
+pos: noun
+zh: 敌人；对手
+en: an enemy or opponent
+components:
+  - morpheme: foe
+    form: foe
+    meaning_in_word: enemy, hostile / 敌人；敌对
+    zh: 敌人；敌对
+    role: root
+    is_core: true
+    note: 来自本族敌对词；历史 ge- 已消失，不把现代 foe 强拆为 f + oe。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

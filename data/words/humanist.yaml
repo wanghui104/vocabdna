@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: humanist
+word: humanist
+pos: noun
+zh: 人道主义者，人文主义者
+en: Means 人道主义者，人文主义者; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: human
+    form: human
+    meaning_in_word: 人；人类
+    zh: 人；人类
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:human.
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: 从事……的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ist.
+word_family:
+  - humanity
+  - humanitarian
+  - nonhuman
+  - humanistic
+word_family_details:
+  - word: humanity
+    en: Means 人性；博爱，仁慈; reviewed from the TOEFL source gloss for learner display.
+    zh: 人性；博爱，仁慈
+  - word: humanitarian
+    en: Means 人道主义者；人道主义的; reviewed from the TOEFL source gloss for learner display.
+    zh: 人道主义者；人道主义的
+  - word: nonhuman
+    en: Means 非人类的; reviewed from the TOEFL source gloss for learner display.
+    zh: 非人类的
+  - word: humanistic
+    en: Means 人性的；人文主义的; reviewed from the TOEFL source gloss for learner display.
+    zh: 人性的；人文主义的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

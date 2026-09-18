@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gigantic
+word: gigantic
+pos: adjective
+zh: 巨大的
+en: Means 巨大的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: gigant
+    form: gigant
+    meaning_in_word: 巨大的；巨人
+    zh: 巨大的；巨人
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:gigant.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 有关……的
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source shown on root:ic.
+word_family:
+  - giant
+word_family_details:
+  - word: giant
+    en: Means 巨人，巨大的怪物 / 庞大的，巨大的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 巨人，巨大的怪物 / 庞大的，巨大的
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

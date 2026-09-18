@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ante-avant
+display: ante-
+type: prefix
+core_meaning: before, forward
+zh: 在前；向前
+origin: Latin
+source_form: Latin ante, Late Latin abante
+source_meaning: before, in front
+source_meaning_zh: 在前、向前
+source_note: Advance has an inserted d and is not historically from ad-.
+related_morphemes:
+  []
+senses:
+  - meaning: before, forward
+    zh: 在前；向前
+    examples:
+      - advance
+      - advanced
+      - advancement
+      - ancestor
+      - anticipate
+      - anticipation
+      - avant-garde
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - advance -> advance
+  - advance -> advanced
+  - advance -> advancement
+  - ante- -> ancestor
+  - anti- -> anticipate
+  - anti- -> anticipation
+  - avant- -> avant-garde
+high_value_words:
+  - advance
+  - advanced
+  - advancement
+  - ancestor
+  - anticipate
+  - anticipation
+  - avant-garde
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: precursor
+word: precursor
+pos: noun
+zh: 先驱，先行者；先兆
+en: Means 先驱，先行者；先兆; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pre
+    form: pre-
+    meaning_in_word: before / 在前
+    zh: 预先、在前
+    role: prefix
+    is_core: false
+  - morpheme: curs
+    form: curs
+    meaning_in_word: run / 跑
+    zh: 跑；路线
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person or thing / 人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

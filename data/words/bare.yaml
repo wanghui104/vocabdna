@@ -1,0 +1,26 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bare
+word: bare
+pos: adjective
+zh: 赤裸的；无遮蔽的；仅有的
+en: uncovered, plain, or only just enough
+components:
+  - morpheme: bare
+    form: bare
+    meaning_in_word: uncovered
+    zh: 赤裸；仅仅
+    role: root
+    is_core: true
+word_family:
+  - barely
+word_family_details:
+  - word: barely
+    en: only just; almost not
+    zh: 仅仅；几乎不能
+confusables:
+  - word: bear
+    reason: bare 与 bear 发音相同但词源和意义不同。
+    zh_reason: bare 与 bear 发音相同但词源和意义不同。
+examples:
+  []
+why_confusing: bare 与 bear 发音相同但词源和意义不同。

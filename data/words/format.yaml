@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: format
+word: format
+pos: noun/verb
+zh: 格式；版式；设置格式
+en: the arrangement or structure of information; to arrange in a particular form
+components:
+  - morpheme: form
+    form: form
+    meaning_in_word: form, shape / 形式；符合
+    zh: 形式；符合
+    role: root
+    is_core: true
+    note: format = form- + -at，来自 Latin formatus 已形成的；-at 是 -atus 历史分词层，不是英语介词 at。
+  - morpheme: ate
+    form: -at
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - form
+  - formation
+  - formative
+word_family_details:
+  - word: form
+    en: a shape or structure
+    zh: 形状；形式
+  - word: formation
+    en: the process of forming
+    zh: 形成
+  - word: formative
+    en: having an important influence on development
+    zh: 形成的；对成长有重要影响的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

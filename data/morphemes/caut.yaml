@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: caut
+display: caut
+type: root
+core_meaning: guard; care
+zh: 警惕；谨慎
+origin: teaching morphology
+source_form: caut
+source_meaning: guard; care
+source_meaning_zh: 警惕；谨慎
+related_morphemes:
+  []
+senses:
+  - meaning: guard; care
+    zh: 警惕；谨慎
+    examples:
+      - precaution
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - caut -> precaution
+high_value_words:
+  - precaution
+confusable_words:
+  []

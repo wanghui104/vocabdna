@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stick
+word: stick
+pos: noun
+zh: 棍，棒；手杖；粘住，粘贴；stick to 坚持
+en: Means 棍，棒；手杖；粘住，粘贴；stick to 坚持; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: stick
+    form: stick
+    meaning_in_word: stick / 棍；粘住
+    zh: 棍；粘住
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - matchstick
+  - stickpin
+  - sticky
+  - yardstick
+word_family_details:
+  - word: matchstick
+    en: Means 火柴杆; reviewed from the TOEFL source gloss for learner display.
+    zh: 火柴杆
+  - word: stickpin
+    en: Means 领带夹; reviewed from the TOEFL source gloss for learner display.
+    zh: 领带夹
+  - word: sticky
+    en: Means 粘的，粘性的; reviewed from the TOEFL source gloss for learner display.
+    zh: 粘的，粘性的
+  - word: yardstick
+    en: Means <美> 码尺, 准绳; reviewed from the TOEFL source gloss for learner display.
+    zh: <美> 码尺, 准绳
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

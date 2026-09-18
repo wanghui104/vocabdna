@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ancy
+display: -ancy
+type: suffix
+core_meaning: state or condition
+zh: 状态
+origin: Latin
+source_form: Latin -antia; English -ancy
+source_meaning: state or condition
+source_meaning_zh: 状态
+source_note: 对应 -ant 的名词结尾。
+related_morphemes:
+  []
+senses:
+  - meaning: state or condition
+    zh: 状态
+    examples:
+      - dormancy
+      - vacancy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ancy -> dormancy
+  - -ancy -> vacancy
+high_value_words:
+  - dormancy
+  - vacancy
+confusable_words:
+  []

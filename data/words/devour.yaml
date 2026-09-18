@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: devour
+word: devour
+pos: verb
+zh: 贪婪地吃；吞食；吞没
+en: to eat hungrily or consume completely
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, completely
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: vor
+    form: vour
+    meaning_in_word: devour
+    zh: 吃；吞食
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: devour 也可比喻“吞没、如饥似渴地读”。

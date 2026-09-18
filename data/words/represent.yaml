@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: represent
+word: represent
+pos: verb
+zh: 代表；描绘，表现
+en: Means 代表；描绘，表现; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: present
+    form: present
+    meaning_in_word: show; present / 呈现；代表
+    zh: 呈现；代表
+    role: root
+    is_core: true
+word_family:
+  - representation
+  - representative
+word_family_details:
+  - word: representation
+    en: Means 表示，表现; reviewed from the TOEFL source gloss for learner display.
+    zh: 表示，表现
+  - word: representative
+    en: Means 代表；典型的，有代表的; reviewed from the TOEFL source gloss for learner display.
+    zh: 代表；典型的，有代表的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

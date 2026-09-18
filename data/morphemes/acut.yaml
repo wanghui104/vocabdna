@@ -14,17 +14,17 @@ senses:
   - meaning: sharp, keen
     zh: 尖锐、敏锐
     examples:
-      - acute
       - acumen
+      - acute
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - acut -> acute
   - acu -> acumen
+  - acut -> acute
 high_value_words:
-  - acute
   - acumen
+  - acute
 confusable_words:
   []

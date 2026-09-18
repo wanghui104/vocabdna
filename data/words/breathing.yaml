@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: breathing
+word: breathing
+pos: noun
+zh: 呼吸
+en: the act or process of taking air into and out of the lungs
+components:
+  - morpheme: breath
+    form: breath
+    meaning_in_word: breathe
+    zh: 呼吸；气息
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: action
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - breath
+  - breathe
+  - breathless
+  - breathtaking
+word_family_details:
+  - word: breath
+    en: air taken into or sent out of the lungs
+    zh: 呼吸；气息
+  - word: breathe
+    en: to take air into and out of the lungs
+    zh: 呼吸；呼出
+  - word: breathless
+    en: unable to breathe easily, or very still and quiet
+    zh: 喘不过气的；无声息的
+  - word: breathtaking
+    en: so beautiful, exciting, or surprising that it takes your breath away
+    zh: 令人激动的；惊人的
+confusables:
+  []
+examples:
+  []
+why_confusing: breathing room 可比喻喘息空间。

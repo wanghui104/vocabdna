@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: haste
+word: haste
+pos: noun
+zh: 匆忙，急忙；草率
+en: Means 匆忙，急忙；草率; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: haste
+    form: haste
+    meaning_in_word: 匆忙，急忙；草率
+    zh: 匆忙，急忙；草率
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

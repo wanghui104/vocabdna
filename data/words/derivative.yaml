@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: derivative
+word: derivative
+pos: noun/adjective
+zh: 派生物；派生词；衍生的
+en: something derived from another source, especially a word or form
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: from
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: riv
+    form: riv
+    meaning_in_word: stream/source
+    zh: 源出；取得
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ative
+    meaning_in_word: having quality
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - derive
+word_family_details:
+  - word: derive
+    en: to get something from a source, or come from a source
+    zh: 得到；获取；源于
+confusables:
+  []
+examples:
+  []
+why_confusing: 数学中 derivative 是导数；词汇中是派生词。

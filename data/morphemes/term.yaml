@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: term
+display: term
+type: root
+core_meaning: limit, boundary
+zh: 界限；决定
+origin: Latin
+source_form: Latin terminus
+source_meaning: boundary, limit, end
+source_meaning_zh: 边界；终点；限度
+related_morphemes:
+  []
+senses:
+  - meaning: limit, boundary
+    zh: 界限；决定
+    examples:
+      - determinant
+      - determine
+      - extermination
+      - in terms of
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - termin -> determinant
+  - termine -> determine
+  - termin -> extermination
+  - term -> in terms of
+high_value_words:
+  - determinant
+  - determine
+  - extermination
+  - in terms of
+confusable_words:
+  []

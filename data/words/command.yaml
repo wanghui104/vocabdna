@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: command
+word: command
+pos: noun/verb
+zh: 命令；指挥；控制
+en: an order, or to direct and control
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: with
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: mand
+    form: mand
+    meaning_in_word: order, entrust
+    zh: 命令；指挥
+    role: root
+    is_core: true
+word_family:
+  - commander
+word_family_details:
+  - word: commander
+    en: a person who commands troops or an operation
+    zh: 司令官；指挥员
+confusables:
+  []
+examples:
+  []
+why_confusing: 用于补全 commander。

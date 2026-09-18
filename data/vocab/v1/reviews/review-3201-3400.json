@@ -1,0 +1,449 @@
+{
+  "batch": "3201-3400",
+  "sheet": "3001-4000",
+  "startNo": 3201,
+  "endNo": 3400,
+  "startRow": 219,
+  "endRow": 436,
+  "logicalWords": 200,
+  "existingBeforeReview": 14,
+  "missingBeforeReview": 186,
+  "newCanonicalWords": 186,
+  "uniqueCanonicalSlugs": 200,
+  "verifiedWordSlugs": [
+    "neutron",
+    "niche",
+    "nickel",
+    "dime",
+    "nicotine",
+    "nocturnal",
+    "noisy",
+    "nomadic",
+    "nominate",
+    "nominee",
+    "nonconformist",
+    "nonetheless",
+    "nonprofessional",
+    "nonsense",
+    "nontraditional",
+    "norm",
+    "normal",
+    "normally",
+    "abnormal",
+    "nostalgia",
+    "not-so-much-as",
+    "not-as-yet",
+    "notable",
+    "notably",
+    "notate",
+    "notation",
+    "notch",
+    "note",
+    "notorious",
+    "notoriously",
+    "nourish",
+    "nourishing",
+    "nourishment",
+    "novel",
+    "novelty",
+    "novice",
+    "nowadays",
+    "now-and-then",
+    "noxious",
+    "nuclear",
+    "nuclei",
+    "nucleus",
+    "null",
+    "numerous",
+    "nutrient",
+    "nutritional",
+    "nutritious",
+    "oath",
+    "object-to",
+    "objection",
+    "objective",
+    "obligated",
+    "obligation",
+    "obligatory",
+    "oblige",
+    "obliterate",
+    "obscure",
+    "obsession",
+    "obsessed",
+    "obsolete",
+    "obstacle",
+    "obstruct",
+    "obstruction",
+    "unobstructed",
+    "obtain",
+    "obtainable",
+    "occasional",
+    "occasionally",
+    "occupation",
+    "occupy",
+    "occupant",
+    "occur",
+    "occurrence",
+    "octopus",
+    "odd",
+    "oddly",
+    "odds",
+    "odor",
+    "deodorizer",
+    "odorless",
+    "of-scale",
+    "offensive",
+    "inoffensive",
+    "offshore",
+    "offspring",
+    "olfactory",
+    "omit",
+    "ongoing",
+    "onset",
+    "onslaught",
+    "ooze",
+    "opaque",
+    "opera",
+    "opponent",
+    "opportunity",
+    "opposed",
+    "opposing",
+    "opposition",
+    "opposite",
+    "optical",
+    "optometrist",
+    "optimal",
+    "optimum",
+    "optimist",
+    "optimistic",
+    "optional",
+    "option",
+    "oral",
+    "oratorio",
+    "orbit",
+    "orbital",
+    "orchard",
+    "orchestra",
+    "orchid",
+    "ordeal",
+    "ordinance",
+    "ore",
+    "roe",
+    "organic",
+    "organically",
+    "organism",
+    "microorganism",
+    "orientation",
+    "orient",
+    "oriental",
+    "original",
+    "originality",
+    "originate",
+    "ornament",
+    "ornamentation",
+    "ornamental",
+    "ounce",
+    "renounce",
+    "pronounced",
+    "denounce",
+    "bounce",
+    "announce",
+    "oust",
+    "outbreak",
+    "outcome",
+    "outcry",
+    "outdated",
+    "outdoors",
+    "outermost",
+    "outfit",
+    "outgoing",
+    "outgrow",
+    "outgrowth",
+    "outlast",
+    "outlet",
+    "outlook",
+    "outlying",
+    "outmoded",
+    "output",
+    "outrage",
+    "outright",
+    "outset",
+    "outspoken",
+    "outweigh",
+    "oval",
+    "overall",
+    "overburden",
+    "overcast",
+    "overcharge",
+    "overdue",
+    "overhaul",
+    "haul",
+    "overlap",
+    "overlapping",
+    "overload",
+    "overlook",
+    "oversee",
+    "oversight",
+    "overt",
+    "overtime",
+    "overtire",
+    "overtax",
+    "overtaxed",
+    "overturn",
+    "overwhelm",
+    "overwhelmingly",
+    "owing-to",
+    "oxen",
+    "oxygen",
+    "oyster",
+    "pack",
+    "pack-down",
+    "pack-animal",
+    "packed",
+    "package",
+    "packaging",
+    "packer",
+    "backpack",
+    "unpack",
+    "paddler",
+    "painstaking",
+    "painting",
+    "palatable",
+    "unpalatable",
+    "pale"
+  ],
+  "multiMorphemeOrCompoundAfterReview": 162,
+  "intentionalBottomRootsAfterReview": 38,
+  "intentionalBottomRootSlugs": [
+    "niche",
+    "nickel",
+    "dime",
+    "nicotine",
+    "norm",
+    "nostalgia",
+    "notch",
+    "note",
+    "nourish",
+    "novice",
+    "null",
+    "oath",
+    "obsolete",
+    "octopus",
+    "odd",
+    "odds",
+    "odor",
+    "omit",
+    "ooze",
+    "opaque",
+    "opera",
+    "orbit",
+    "orchard",
+    "orchestra",
+    "orchid",
+    "ordeal",
+    "ordinance",
+    "ore",
+    "roe",
+    "orient",
+    "ornament",
+    "ounce",
+    "oust",
+    "oval",
+    "haul",
+    "oyster",
+    "pack",
+    "pale"
+  ],
+  "weakRootWordsAfterReview": 0,
+  "templateResidueCount": 0,
+  "templateResidueSlugs": [],
+  "representativeSplits": [
+    {
+      "slug": "neutron",
+      "split": [
+        "neutr",
+        "on"
+      ]
+    },
+    {
+      "slug": "nocturnal",
+      "split": [
+        "nocturn",
+        "al"
+      ]
+    },
+    {
+      "slug": "noisy",
+      "split": [
+        "noise",
+        "y"
+      ]
+    },
+    {
+      "slug": "nomadic",
+      "split": [
+        "nomad",
+        "ic"
+      ]
+    },
+    {
+      "slug": "nominate",
+      "split": [
+        "nomin",
+        "ate"
+      ]
+    },
+    {
+      "slug": "nominee",
+      "split": [
+        "nomin",
+        "ee"
+      ]
+    },
+    {
+      "slug": "nonconformist",
+      "split": [
+        "non",
+        "conform",
+        "ist"
+      ]
+    },
+    {
+      "slug": "nonetheless",
+      "split": [
+        "none",
+        "the",
+        "less"
+      ]
+    },
+    {
+      "slug": "nonprofessional",
+      "split": [
+        "non",
+        "profession",
+        "al"
+      ]
+    },
+    {
+      "slug": "nonsense",
+      "split": [
+        "non",
+        "sense"
+      ]
+    },
+    {
+      "slug": "nontraditional",
+      "split": [
+        "non",
+        "tradition",
+        "al"
+      ]
+    },
+    {
+      "slug": "normal",
+      "split": [
+        "norm",
+        "al"
+      ]
+    },
+    {
+      "slug": "normally",
+      "split": [
+        "norm",
+        "al",
+        "ly"
+      ]
+    },
+    {
+      "slug": "abnormal",
+      "split": [
+        "ab",
+        "norm",
+        "al"
+      ]
+    },
+    {
+      "slug": "not-so-much-as",
+      "split": [
+        "not",
+        "so",
+        "much",
+        "as"
+      ]
+    },
+    {
+      "slug": "not-as-yet",
+      "split": [
+        "not",
+        "as",
+        "yet"
+      ]
+    },
+    {
+      "slug": "notable",
+      "split": [
+        "not",
+        "able"
+      ]
+    },
+    {
+      "slug": "notably",
+      "split": [
+        "not",
+        "able",
+        "ly"
+      ]
+    },
+    {
+      "slug": "notate",
+      "split": [
+        "not",
+        "ate"
+      ]
+    },
+    {
+      "slug": "notation",
+      "split": [
+        "not",
+        "ation"
+      ]
+    },
+    {
+      "slug": "notorious",
+      "split": [
+        "notor",
+        "ious"
+      ]
+    },
+    {
+      "slug": "notoriously",
+      "split": [
+        "notor",
+        "ious",
+        "ly"
+      ]
+    },
+    {
+      "slug": "nourishing",
+      "split": [
+        "nourish",
+        "ing"
+      ]
+    },
+    {
+      "slug": "nourishment",
+      "split": [
+        "nourish",
+        "ment"
+      ]
+    }
+  ],
+  "validation": {
+    "validate:vocab": "passed",
+    "generate:vocab": "passed",
+    "build:static": "passed",
+    "tsc --noEmit": "passed",
+    "audit-current-toefl-batch": "passed"
+  },
+  "mainIssue": "Primary focus was adding missing canonical entries and drilling visible roots/prefixes/suffixes to learner-facing detail. No unresolved root-breakdown defects remain after second-pass review; remaining one-part items are intentional bottom roots or opaque loan/material/animal/common-word bases."
+}

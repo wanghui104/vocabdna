@@ -2,36 +2,27 @@
 id: proceed
 word: proceed
 pos: verb
-zh: 继续进行；前进
-en: to continue or move forward
+zh: 进行，继续下去
+en: Means 进行，继续下去; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: pro
     form: pro-
-    meaning_in_word: forward
+    meaning_in_word: forward; forth / 向前；公开
     zh: 向前、公开、代替
     role: prefix
     is_core: false
-  - morpheme: excess-ceed
+  - morpheme: ceed
     form: ceed
-    meaning_in_word: go
-    zh: 走、前进、让步
+    meaning_in_word: go; proceed / 走；进行
+    zh: 走；进行
     role: root
     is_core: true
 word_family:
-  - procedure
-  - proceeding
+  []
 word_family_details:
-  - word: procedure
-    en: related form of procedure
-    zh: procedure 的相关词
-  - word: proceeding
-    en: related form of proceeding
-    zh: proceeding 的相关词
+  []
 confusables:
-  - word: precede
-    reason: proceed 是继续；precede 是在前。
-    zh_reason: proceed 是继续；precede 是在前。
+  []
 examples:
-  - en: After the check, we can proceed.
-    zh: 检查之后，我们可以继续进行。
-why_confusing: proceed 是继续；precede 是在前。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

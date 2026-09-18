@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: juven
+display: juven
+type: root
+core_meaning: young
+zh: 年轻
+origin: Latin
+source_form: Latin juvenis
+source_meaning: young
+source_meaning_zh: 年轻
+related_morphemes:
+  []
+senses:
+  - meaning: young
+    zh: 年轻
+    examples:
+      - juvenile
+      - rejuvenate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - juven -> juvenile
+  - juven -> rejuvenate
+high_value_words:
+  - juvenile
+  - rejuvenate
+confusable_words:
+  []

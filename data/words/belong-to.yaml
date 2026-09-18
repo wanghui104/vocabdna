@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: belong-to
+word: belong to
+pos: phrase
+zh: 属于
+en: to be owned by, connected with, or part of someone or something
+components:
+  - morpheme: belong
+    form: belong
+    meaning_in_word: belong
+    zh: 属于
+    role: root
+    is_core: true
+  - morpheme: to
+    form: to
+    meaning_in_word: toward
+    zh: 向；到
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: belong to 不用被动形式。

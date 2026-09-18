@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: icicle
+word: icicle
+pos: noun
+zh: 冰柱，冰垂
+en: Means 冰柱，冰垂; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: icicle
+    form: icicle
+    meaning_in_word: 冰柱
+    zh: 冰柱
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:icicle.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

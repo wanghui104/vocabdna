@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: canyon
+word: canyon
+pos: noun
+zh: 峡谷
+en: a deep narrow valley with steep sides
+components:
+  - morpheme: canyon
+    form: canyon
+    meaning_in_word: deep gorge
+    zh: 峡谷
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Grand Canyon 是典型搭配。

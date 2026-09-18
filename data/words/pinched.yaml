@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pinched
+word: pinched
+pos: adjective/verb
+zh: 受夹压的；（面容）消瘦憔悴的；pinch 的过去式和过去分词
+en: compressed or painfully squeezed; looking thin and drawn; also the past tense and past participle of pinch
+components:
+  - morpheme: pinch
+    form: pinch
+    meaning_in_word: squeeze between two points / 捏、夹
+    zh: 捏；两点夹紧
+    role: root
+    is_core: true
+    note: 源于中古英语 pinchen 和古法语 pincier；更早来源有争议，不拆成 pin + ch。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past action or resulting state / 过去动作或结果状态
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - pinch
+  - pinching
+  - pincher
+word_family_details:
+  - word: pinch
+    en: to grip or hurt with a small squeeze; a tiny quantity; difficulty or financial pressure; informally, to steal
+    zh: 捏；夹痛；一撮；困境、经济压力；（英口语）偷拿
+  - word: pinching
+    en: the ongoing action of squeezing a small area, or pressure that hurts
+    zh: 正在捏、夹；夹捏动作；夹痛的
+  - word: pincher
+    en: a person or thing that pinches; in the plural, an alternative word for pincers
+    zh: 捏夹者；夹持物；（复数 pinchers）钳子
+confusables:
+  []
+examples:
+  - en: His face looked pinched after several sleepless nights.
+    zh: 连续几夜没睡好后，他显得面容憔悴。
+  - en: I pinched my finger in the drawer.
+    zh: 我的手指被抽屉夹了一下。
+why_confusing: pinched 可作形容词，也可作过去式或过去分词；-ed 在此读 /t/。

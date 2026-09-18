@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: immune
+word: immune
+pos: adjective
+zh: （对…）免疫的，不受影响的
+en: Means （对…）免疫的，不受影响的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
+  - morpheme: mun
+    form: mun
+    meaning_in_word: 义务；免除
+    zh: 义务；免除
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:mun.
+word_family:
+  - immune-system
+  - immunity
+word_family_details:
+  - word: immune-system
+    en: Means 免疫系统; reviewed from the TOEFL source gloss for learner display.
+    zh: 免疫系统
+  - word: immunity
+    en: Means 免疫性; reviewed from the TOEFL source gloss for learner display.
+    zh: 免疫性
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

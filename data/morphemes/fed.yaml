@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fed
+display: fed
+type: root
+core_meaning: league, treaty
+zh: 联盟；同盟
+origin: Latin
+source_form: Latin foedus / foederis
+source_meaning: treaty, league
+source_meaning_zh: 条约；联盟
+related_morphemes:
+  []
+senses:
+  - meaning: league, treaty
+    zh: 联盟；同盟
+    examples:
+      - confederacy
+      - confederate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - feder -> confederacy
+  - feder -> confederate
+high_value_words:
+  - confederacy
+  - confederate
+confusable_words:
+  []

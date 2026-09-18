@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: as-far-as
+word: as far as
+pos: phrase
+zh: 就...来说；远及；至于
+en: to the extent or distance that
+components:
+  - morpheme: as-word
+    form: as
+    meaning_in_word: as, to the extent
+    zh: 如；作为；就
+    role: root
+    is_core: true
+  - morpheme: far
+    form: far
+    meaning_in_word: distant extent
+    zh: 远
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assuredly
+word: assuredly
+pos: adverb
+zh: 确实地；确信地
+en: certainly or confidently
+components:
+  - morpheme: sure
+    form: assured
+    meaning_in_word: certain, confident
+    zh: 安全；确信
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in that manner
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - assure
+  - assured
+word_family_details:
+  - word: assure
+    en: to tell someone confidently or make something certain
+    zh: 确保；保证；使确信
+  - word: assured
+    en: confident, certain, or made secure
+    zh: 确信的；有把握的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

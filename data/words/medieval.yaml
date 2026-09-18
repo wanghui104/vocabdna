@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: medieval
+word: medieval
+pos: adjective
+zh: 中世纪的
+en: Means 中世纪的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mediev
+    form: mediev
+    meaning_in_word: 中世纪
+    zh: 中世纪
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mediev.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

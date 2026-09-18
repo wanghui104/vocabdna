@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: antiseptic
+word: antiseptic
+pos: noun/adjective
+zh: 防腐剂；杀菌剂；防腐的
+en: a substance that prevents infection or decay, or something that prevents germs
+components:
+  - morpheme: anti
+    form: anti-
+    meaning_in_word: against
+    zh: 反对；相对
+    role: prefix
+    is_core: false
+  - morpheme: sept
+    form: septic
+    meaning_in_word: rot, infection
+    zh: 腐败；腐烂
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: antiseptic 多用于外用杀菌/防腐；antibiotic 多指抗生素药物。

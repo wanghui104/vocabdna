@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: faint
+display: faint
+type: root
+core_meaning: weak; feign, form
+zh: 微弱；假装；塑造
+origin: Latin
+source_form: Old French faint, feint; feindre; Latin fingere
+source_meaning: weak; feign, form
+source_meaning_zh: 微弱；假装；塑造
+source_note: 经法语分词形来自 feindre，深层 Latin fingere 塑造、假装；词典对分词路径措辞不同，保留 faint，不硬拆 -int。
+related_morphemes:
+  []
+senses:
+  - meaning: weak; feign, form
+    zh: 微弱；假装；塑造
+    examples:
+      - faint
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - faint -> faint
+high_value_words:
+  - faint
+confusable_words:
+  []

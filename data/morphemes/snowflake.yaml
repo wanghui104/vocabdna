@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: snowflake
+display: snowflake
+type: root
+core_meaning: draft meaning for snowflake
+zh: 雪花
+origin: Unknown
+source_form: TOEFL draft opaque stem: snowflake
+source_meaning: draft learner stem for snowflake
+source_meaning_zh: 雪花
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for snowflake
+    zh: 雪花
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

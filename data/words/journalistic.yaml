@@ -1,0 +1,54 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: journalistic
+word: journalistic
+pos: adjective
+zh: 新闻事业的，新闻工作的
+en: Means 新闻事业的，新闻工作的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: journ
+    form: journ
+    meaning_in_word: 每日记录；期刊
+    zh: 每日记录；期刊
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:journ.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: 从事……的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ist.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ic.
+word_family:
+  - journal
+  - journalist
+  - journalism
+word_family_details:
+  - word: journal
+    en: Means 期刊，杂志 / （航海）日记；分类帐; reviewed from the TOEFL source gloss for learner display.
+    zh: 期刊，杂志 / （航海）日记；分类帐
+  - word: journalist
+    en: Means 新闻记者; reviewed from the TOEFL source gloss for learner display.
+    zh: 新闻记者
+  - word: journalism
+    en: Means 新闻业, 报章杂志; reviewed from the TOEFL source gloss for learner display.
+    zh: 新闻业, 报章杂志
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

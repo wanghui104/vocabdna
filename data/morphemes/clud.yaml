@@ -1,0 +1,51 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clud
+display: clud
+type: root
+core_meaning: close, conclude
+zh: 关闭；结束
+origin: Latin
+source_form: Latin claudere / clausus
+source_meaning: shut, close
+source_meaning_zh: 关闭
+related_morphemes:
+  []
+senses:
+  - meaning: close, conclude
+    zh: 关闭；结束
+    examples:
+      - conclude
+      - conclusive
+      - exclude
+      - exclusion
+      - exclusive
+      - exclusively
+      - inconclusive
+      - seclude
+      - seclusion
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - clude -> conclude
+  - clus -> conclusive
+  - clude -> exclude
+  - clus -> exclusion
+  - clus -> exclusive
+  - clus -> exclusively
+  - clus -> inconclusive
+  - clud -> seclude
+  - clud -> seclusion
+high_value_words:
+  - conclude
+  - conclusive
+  - exclude
+  - exclusion
+  - exclusive
+  - exclusively
+  - inconclusive
+  - seclude
+  - seclusion
+confusable_words:
+  []

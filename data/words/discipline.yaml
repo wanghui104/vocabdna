@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discipline
+word: discipline
+pos: noun/verb
+zh: 纪律；训练；学科；训练或惩罚
+en: ordered training, control, a field of study, or the act of training
+components:
+  - morpheme: discip
+    form: discipline
+    meaning_in_word: learner, instruction, ordered training / 学生；教学；训练纪律
+    zh: 学生；教学；训练纪律
+    role: root
+    is_core: true
+    note: 表层 disciple/disciplin-；Latin disciplina 教导关联 discipulus 学生。更深常说 discere 学习，也有 dis- + capere 的历史提议，但并无可靠定论；不造确定的 discip = dis + cip。
+word_family:
+  - disciplined
+word_family_details:
+  - word: disciplined
+    en: showing control, order, or training
+    zh: 遵守纪律的；训练有素的
+confusables:
+  []
+examples:
+  []
+why_confusing: discipline 可指纪律、训练、惩罚，也可指学科。

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: subsequent
+word: subsequent
+pos: adjective
+zh: 随后的，后来的
+en: Means 随后的，后来的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sub
+    form: sub-
+    meaning_in_word: under; below / 下；亚
+    zh: 在下、靠近、从属
+    role: prefix
+    is_core: false
+  - morpheme: sequ
+    form: sequ
+    meaning_in_word: follow / 跟随
+    zh: 跟随；结果
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having quality / 具有…性质
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - subsequently
+word_family_details:
+  - word: subsequently
+    en: Means 随后; reviewed from the TOEFL source gloss for learner display.
+    zh: 随后
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

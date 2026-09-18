@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: encompass
+word: encompass
+pos: verb
+zh: 包含；包围
+en: to include or surround completely
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: compass
+    form: compass
+    meaning_in_word: measure around, circuit / 周围度量；范围
+    zh: 周围度量；范围
+    role: root
+    is_core: true
+    note: 更深 com- 一起 + passer 步量，passer 关联 Latin passus 步；encompass 外层加 en-。
+    related_morphemes:
+      - com
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

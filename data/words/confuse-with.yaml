@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confuse-with
+word: confuse…with…
+pos: phrase
+zh: 把……和……混淆；误认为
+en: to mistake one person or thing for another
+components:
+  - morpheme: fus
+    form: confuse
+    meaning_in_word: mix up
+    zh: 混合；混淆
+    role: root
+    is_core: true
+  - morpheme: with
+    form: with
+    meaning_in_word: with
+    zh: 与；相对
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 不要说 confuse to。

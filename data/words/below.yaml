@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: below
+word: below
+pos: adverb/phrase
+zh: 在…下面
+en: in or to a lower place than something
+components:
+  - morpheme: be
+    form: be-
+    meaning_in_word: by, at
+    zh: 使成为、加强
+    role: prefix
+    is_core: false
+  - morpheme: low
+    form: low
+    meaning_in_word: low
+    zh: 低；在下
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: below 可作介词或副词。

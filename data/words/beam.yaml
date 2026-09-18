@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: beam
+word: beam
+pos: noun
+zh: 木结构大梁
+en: Means 木结构大梁; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: beam
+    form: beam
+    meaning_in_word: 木结构大梁
+    zh: 梁；光束
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

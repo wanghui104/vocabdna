@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shiny
+word: shiny
+pos: adjective
+zh: 有光泽的，发光的
+en: Means 有光泽的，发光的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: shine
+    form: shine
+    meaning_in_word: shine / 发光
+    zh: 发光
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -y
+    meaning_in_word: quality; condition / 性质；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  - shine
+  - shining
+word_family_details:
+  - word: shine
+    en: Means 照耀，发光; reviewed from the TOEFL source gloss for learner display.
+    zh: 照耀，发光
+  - word: shining
+    en: Means 发亮的，华丽的; reviewed from the TOEFL source gloss for learner display.
+    zh: 发亮的，华丽的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

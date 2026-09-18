@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: walnut
+display: walnut
+type: root
+core_meaning: walnut
+zh: 核桃
+origin: teaching morphology
+source_form: walnut
+source_meaning: walnut
+source_meaning_zh: 核桃
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: walnut
+    zh: 核桃
+    examples:
+      - walnut
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - walnut -> walnut
+high_value_words:
+  - walnut
+confusable_words:
+  []

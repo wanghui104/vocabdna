@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: orchid
+display: orchid
+type: root
+core_meaning: orchid
+zh: orchid
+origin: teaching morphology
+source_form: orchid
+source_meaning: orchid
+source_meaning_zh: orchid
+related_morphemes:
+  []
+senses:
+  - meaning: orchid
+    zh: orchid
+    examples:
+      - orchid
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - orchid -> orchid
+high_value_words:
+  - orchid
+confusable_words:
+  []

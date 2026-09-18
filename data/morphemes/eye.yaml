@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eye
+display: eye
+type: root
+core_meaning: eye
+zh: 眼睛；视觉
+origin: Old English
+source_form: Old English eage
+source_meaning: eye
+source_meaning_zh: 眼睛
+related_morphemes:
+  []
+senses:
+  - meaning: eye
+    zh: 眼睛；视觉
+    examples:
+      - compound eyes
+      - daisy
+      - eye-catching
+      - eyewitness
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - eyes -> compound eyes
+  - eye -> daisy
+  - eye -> eye-catching
+  - eye -> eyewitness
+high_value_words:
+  - compound eyes
+  - daisy
+  - eye-catching
+  - eyewitness
+confusable_words:
+  []

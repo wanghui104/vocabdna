@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: undisturbed
+word: undisturbed
+pos: adjective
+zh: 未受打扰的；未被扰动的
+en: not interrupted, disturbed, or changed
+components:
+  - morpheme: un
+    form: un-
+    meaning_in_word: not, opposite / 不；相反
+    zh: 不；相反
+    role: prefix
+    is_core: false
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: completely; intensive / 充分；加强
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: turb
+    form: turb
+    meaning_in_word: disorder, throw into confusion / 混乱；扰乱
+    zh: 混乱；扰乱
+    role: root
+    is_core: true
+    note: turba 人群、纷乱 → turbare 搅乱；disturb 中 dis- 为加强。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: turba 人群、纷乱 → turbare 搅乱；disturb 中 dis- 为加强。

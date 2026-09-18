@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: highlight
+word: highlight
+pos: verb
+zh: 使显著，突出；最显著（重要）部分
+en: Means 使显著，突出；最显著（重要）部分; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: high
+    form: high
+    meaning_in_word: high / high
+    zh: high
+    role: root
+    is_core: true
+  - morpheme: light
+    form: light
+    meaning_in_word: light / 光；重点
+    zh: 光；照明
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: annex
+word: annex
+pos: verb/noun
+zh: 附加；添加
+en: to add or attach something, especially to a larger thing
+components:
+  - morpheme: ad
+    form: an-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: nex
+    form: nex
+    meaning_in_word: bind, attach
+    zh: 连接；附加
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shut
+display: shut
+type: root
+core_meaning: close
+zh: 关闭
+origin: Old English
+source_form: shut
+source_meaning: close
+source_meaning_zh: 关闭
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: close
+    zh: 关闭
+    examples:
+      - shutter
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - shut -> shutter
+high_value_words:
+  - shutter
+confusable_words:
+  []

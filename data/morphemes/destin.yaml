@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: destin
+display: destin
+type: root
+core_meaning: appoint, fix
+zh: 注定；指定
+origin: Latin
+source_form: Latin destinare
+source_meaning: make firm, appoint
+source_meaning_zh: 确定；指定
+source_note: 表层 destin- 指定、确定；Latin destinare 深层 de- 加强 + -stinare 使稳固，关联 stare 站立。destination 再接 -ation；不把 destin 整体当最底层。
+related_morphemes:
+  - de
+  - stand
+senses:
+  - meaning: appoint, fix
+    zh: 注定；指定
+    examples:
+      - destination
+      - destine
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - destin -> destination
+  - destine -> destine
+high_value_words:
+  - destination
+  - destine
+confusable_words:
+  []

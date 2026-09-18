@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bunch
+display: bunch
+type: root
+core_meaning: bunch, cluster
+zh: 串；束；群
+origin: Unknown
+source_form: Middle English bunch
+source_meaning: lump, cluster
+source_meaning_zh: 团；束
+related_morphemes:
+  []
+senses:
+  - meaning: bunch, cluster
+    zh: 串；束；群
+    examples:
+      - bunch
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bunch -> bunch
+high_value_words:
+  - bunch
+confusable_words:
+  []

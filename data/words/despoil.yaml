@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: despoil
+word: despoil
+pos: verb
+zh: 夺取；掠夺；破坏
+en: to rob, plunder, or strip something of value
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: spoil
+    form: spoil
+    meaning_in_word: plunder
+    zh: 掠夺；剥夺
+    role: root
+    is_core: true
+word_family:
+  - despoiler
+word_family_details:
+  - word: despoiler
+    en: Means 掠夺者; reviewed from the TOEFL source gloss for learner display.
+    zh: 掠夺者
+confusables:
+  []
+examples:
+  []
+why_confusing: despoil 比 spoil 更正式，常指掠夺或破坏资源。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: communal
+word: communal
+pos: adjective
+zh: 公共的；公社的
+en: shared by a community or group
+components:
+  - morpheme: common
+    form: commun
+    meaning_in_word: shared
+    zh: 共同；公共；社区
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: related
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: communal kitchen/land/life 常见。

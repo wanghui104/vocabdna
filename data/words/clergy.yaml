@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clergy
+word: clergy
+pos: noun
+zh: 牧师；神职人员
+en: the official leaders of a religion
+components:
+  - morpheme: clergy
+    form: clergy
+    meaning_in_word: religious office
+    zh: 牧师；神职人员
+    role: root
+    is_core: true
+word_family:
+  - clergyman
+word_family_details:
+  - word: clergyman
+    en: a male member of the clergy
+    zh: 牧师；教士
+confusables:
+  []
+examples:
+  []
+why_confusing: clergy 通常作集合名词。

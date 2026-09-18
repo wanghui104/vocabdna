@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: culminate
+word: culminate
+pos: verb
+zh: 达到高潮；达到顶点
+en: to reach the highest or final point of development
+components:
+  - morpheme: culm
+    form: culmin
+    meaning_in_word: peak
+    zh: 顶点；高潮
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or become
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用 A culminates in B，表示以 B 达到顶点。

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: product
+display: product
+type: root
+core_meaning: product
+zh: 产品；产物
+origin: Latin
+source_form: Latin producere / productum
+source_meaning: bring forth
+source_meaning_zh: 生产；带出
+related_morphemes:
+  []
+senses:
+  - meaning: product
+    zh: 产品；产物
+    examples:
+      - by-product
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - product -> by-product
+high_value_words:
+  - by-product
+confusable_words:
+  []

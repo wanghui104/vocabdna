@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fluctuate
+word: fluctuate
+pos: verb
+zh: 波动；起伏
+en: to rise and fall or vary irregularly
+components:
+  - morpheme: fluctu
+    form: fluctu
+    meaning_in_word: wave, flow / 波浪；流动
+    zh: 波浪；流动
+    role: root
+    is_core: true
+    note: fluctuate = fluctu- + -ate；内部 fluctus 来自 fluere 流动及动作结果名词层，波浪到数值起伏。
+    related_morphemes:
+      - flu
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - fluctuation
+word_family_details:
+  - word: fluctuation
+    en: an irregular change in level, amount, or value
+    zh: 波动；起伏
+confusables:
+  []
+examples:
+  []
+why_confusing: 

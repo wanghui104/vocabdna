@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ration
+word: ration
+pos: noun
+zh: 定量，配给量；定量配给
+en: Means 定量，配给量；定量配给; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rat
+    form: rat
+    meaning_in_word: reckon; fixed share / 计算；配额
+    zh: 计算；批准
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act or result / 动作或结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - rationing
+  - rational
+word_family_details:
+  - word: rationing
+    en: Means （食物等的）配给; reviewed from the TOEFL source gloss for learner display.
+    zh: （食物等的）配给
+  - word: rational
+    en: Means 理性的，合理的; reviewed from the TOEFL source gloss for learner display.
+    zh: 理性的，合理的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: launch
+word: launch
+pos: noun/verb
+zh: 发动 / 发射，（使）升空
+en: Means 发动 / 发射，（使）升空; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: launch
+    form: launch
+    meaning_in_word: 发射；发动
+    zh: 发射；发动
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

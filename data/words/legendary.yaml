@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: legendary
+word: legendary
+pos: adjective
+zh: 传奇的
+en: Means 传奇的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: legend
+    form: legend
+    meaning_in_word: 传说；应读之事
+    zh: 传说；应读之事
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:legend.
+  - morpheme: ary
+    form: -ary
+    meaning_in_word: 与……有关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ary.
+word_family:
+  - legend
+word_family_details:
+  - word: legend
+    en: Means 传说；传奇文学; reviewed from the TOEFL source gloss for learner display.
+    zh: 传说；传奇文学
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exposition
+word: exposition
+pos: noun
+zh: 阐述；说明；博览会
+en: a detailed explanation or a public exhibition
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: pon
+    form: pos
+    meaning_in_word: put, place / 放置
+    zh: 放置
+    role: root
+    is_core: true
+    note: pon-/pos-/posit- 来自 Latin ponere/positus 放置；dispose 的 dis- 表分开安排，disposed 的 -ed 只计一次。
+  - morpheme: ion
+    form: -ition
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

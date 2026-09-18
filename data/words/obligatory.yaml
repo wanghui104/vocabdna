@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: obligatory
+word: obligatory
+pos: adjective
+zh: 强制性的，义务的
+en: Means 强制性的，义务的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: oblig
+    form: oblig
+    meaning_in_word: bind; oblige / 捆绑；义务
+    zh: 捆绑；义务
+    role: root
+    is_core: true
+  - morpheme: atory
+    form: atory
+    meaning_in_word: atory / atory
+    zh: atory
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

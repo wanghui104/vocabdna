@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: baggage
+word: baggage
+pos: noun
+zh: 行李；思想包袱
+en: bags and cases for travel, or emotional burdens from the past
+components:
+  - morpheme: bag
+    form: bagg
+    meaning_in_word: bag, bundle
+    zh: 包；行李
+    role: root
+    is_core: true
+  - morpheme: age
+    form: -age
+    meaning_in_word: collective thing
+    zh: 结果；集合
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 美式常用 baggage；英式 luggage 更常见。

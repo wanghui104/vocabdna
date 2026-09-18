@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fortify
+word: fortify
+pos: verb
+zh: 筑防加固
+en: to strengthen defenses
+components:
+  - morpheme: fort
+    form: fort
+    meaning_in_word: strong / 强壮
+    zh: 强壮
+    role: root
+    is_core: true
+    note: comfort 的深层 con- 加强 + fort- 强壮。
+  - morpheme: ify
+    form: -ify
+    meaning_in_word: make, cause to become / 使成为
+    zh: 使成为
+    role: suffix
+    is_core: false
+    note: -ify 更深来自 Latin facere 做的复合构词形；不是不可解释的整块。
+    related_morphemes:
+      - fac
+word_family:
+  - fortification
+word_family_details:
+  - word: fortification
+    en: the act of strengthening
+    zh: 加固
+confusables:
+  []
+examples:
+  []
+why_confusing: 

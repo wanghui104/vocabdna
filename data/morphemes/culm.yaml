@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: culm
+display: culm
+type: root
+core_meaning: peak, highest point
+zh: 顶点；高潮
+origin: Latin
+source_form: Latin culmen
+source_meaning: top, peak, summit
+source_meaning_zh: 顶点；山峰
+related_morphemes:
+  []
+senses:
+  - meaning: peak, highest point
+    zh: 顶点；高潮
+    examples:
+      - culminate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - culmin -> culminate
+high_value_words:
+  - culminate
+confusable_words:
+  []

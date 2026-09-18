@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: horizon
+word: horizon
+pos: noun
+zh: 地平线；眼界，视野
+en: Means 地平线；眼界，视野; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: horizon
+    form: horizon
+    meaning_in_word: 界限；地平线
+    zh: 地平线；眼界，视野
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:horizon.
+word_family:
+  - horizontal
+word_family_details:
+  - word: horizontal
+    en: Means 水平的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 水平的
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

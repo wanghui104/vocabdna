@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: amount
+word: amount
+pos: noun/verb
+zh: 量；总额；总和
+en: a quantity or total
+components:
+  - morpheme: ad
+    form: a-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: mont
+    form: mount
+    meaning_in_word: rise, mountain
+    zh: 山；上升
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: ample
+    reason: amount to 常表示“总计为”或“等同于”。
+    zh_reason: amount to 常表示“总计为”或“等同于”。
+examples:
+  []
+why_confusing: amount to 常表示“总计为”或“等同于”。

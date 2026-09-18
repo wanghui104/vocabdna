@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: decompose
+word: decompose
+pos: verb
+zh: 分解；腐烂
+en: to break down into parts or decay
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, apart
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: pon
+    form: pose
+    meaning_in_word: put
+    zh: 放置
+    role: root
+    is_core: true
+word_family:
+  - decomposition
+word_family_details:
+  - word: decomposition
+    en: the process of breaking down into parts or decaying
+    zh: 分解；腐烂
+confusables:
+  []
+examples:
+  []
+why_confusing: organic matter decomposes; chemicals can decompose。

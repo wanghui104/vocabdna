@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cluster
+word: cluster
+pos: noun/verb
+zh: 簇；串；群；丛生；聚集
+en: a close group, or to gather in a close group
+components:
+  - morpheme: cluster
+    form: cluster
+    meaning_in_word: bunch
+    zh: 簇；聚集
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: star/data/grape cluster 都可用。

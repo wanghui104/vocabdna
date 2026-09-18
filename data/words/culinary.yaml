@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: culinary
+word: culinary
+pos: adjective
+zh: 厨房的；烹调的
+en: related to cooking or kitchens
+components:
+  - morpheme: culin
+    form: culin
+    meaning_in_word: kitchen, cooking / 厨房；烹调
+    zh: 厨房；烹调
+    role: root
+    is_core: true
+  - morpheme: ary
+    form: -ary
+    meaning_in_word: relating to / 与……有关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: culinary arts 烹饪艺术。

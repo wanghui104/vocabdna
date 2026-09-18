@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: raucous
+display: raucous
+type: root
+core_meaning: raucous
+zh: raucous
+origin: teaching morphology
+source_form: raucous
+source_meaning: raucous
+source_meaning_zh: raucous
+related_morphemes:
+  []
+senses:
+  - meaning: raucous
+    zh: raucous
+    examples:
+      - raucous
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - raucous -> raucous
+high_value_words:
+  - raucous
+confusable_words:
+  []

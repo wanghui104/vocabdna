@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bison
+word: bison
+pos: noun
+zh: 美洲或欧洲野牛
+en: a large wild animal related to cattle
+components:
+  - morpheme: bison
+    form: bison
+    meaning_in_word: wild ox
+    zh: 野牛
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: American bison 不等同于 buffalo，但口语常混用。

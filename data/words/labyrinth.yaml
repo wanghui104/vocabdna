@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: labyrinth
+word: labyrinth
+pos: noun
+zh: 迷宫；错综复杂的事件
+en: Means 迷宫；错综复杂的事件; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: labyrinth
+    form: labyrinth
+    meaning_in_word: 迷宫
+    zh: 迷宫
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:labyrinth.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

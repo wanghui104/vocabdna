@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forebear
+word: forebear
+pos: noun
+zh: 祖先
+en: an ancestor
+components:
+  - morpheme: fore
+    form: fore-
+    meaning_in_word: before, ancestor / 在前；祖先
+    zh: 在前；祖先
+    role: prefix
+    is_core: false
+  - morpheme: bear-being
+    form: bear
+    meaning_in_word: one who exists / 存在者
+    zh: 存在者
+    role: root
+    is_core: true
+    note: forebear = fore- 先前 + bear 存在者；bear 深层 be + -er，意为先存在的人。不得链接到 bear 搬运/承受词根。
+    related_morphemes:
+      - be-verb
+      - er
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

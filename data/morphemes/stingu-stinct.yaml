@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stingu-stinct
+display: stingu
+type: root
+core_meaning: mark off, distinguish
+zh: 作标记；区别
+origin: Latin
+source_form: Latin distinguere, distinctus; -stinguere
+source_meaning: mark off, distinguish
+source_meaning_zh: 作标记；区别
+source_note: distinct/distinguish 共用词干。更深层“刺点”与“推开”解释有争议，只把 mark off 作为可靠学习层。
+related_morphemes:
+  []
+senses:
+  - meaning: mark off, distinguish
+    zh: 作标记；区别
+    examples:
+      - distinct
+      - distinction
+      - distinctive
+      - distinctively
+      - distinctly
+      - distinguish
+      - distinguished
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - stinct -> distinct
+  - stinct -> distinction
+  - stinct -> distinctive
+  - stinct -> distinctively
+  - stinct -> distinctly
+  - stingu -> distinguish
+  - stingu -> distinguished
+high_value_words:
+  - distinct
+  - distinction
+  - distinctive
+  - distinctively
+  - distinctly
+  - distinguish
+  - distinguished
+confusable_words:
+  []

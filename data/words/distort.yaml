@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distort
+word: distort
+pos: verb
+zh: 扭曲；歪曲事实
+en: to twist out of shape or give a misleading account of
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: tort
+    form: tort
+    meaning_in_word: twist / 扭转
+    zh: 扭转
+    role: root
+    is_core: true
+    note: tort- 是 torquere 的分词词干，不与“拉”的 tract- 混同。
+word_family:
+  - distorted
+  - distortion
+word_family_details:
+  - word: distorted
+    en: twisted out of shape or misrepresented
+    zh: 扭曲的；失真的
+  - word: distortion
+    en: a change that twists the shape or misrepresents the meaning of something
+    zh: 变形；失真；歪曲
+confusables:
+  []
+examples:
+  []
+why_confusing: tort- 是 torquere 的分词词干，不与“拉”的 tract- 混同。

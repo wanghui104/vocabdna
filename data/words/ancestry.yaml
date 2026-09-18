@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ancestry
+word: ancestry
+pos: noun
+zh: 家系；血统
+en: a person's family or ethnic descent
+components:
+  - morpheme: excess-ceed
+    form: ancestr
+    meaning_in_word: fore-going lineage
+    zh: 走；让步
+    role: root
+    is_core: true
+    note: Modern form from ancestor/antecessor.
+word_family:
+  - ancestor
+  - ancestral
+word_family_details:
+  - word: ancestor
+    en: a person from whom one is descended
+    zh: 祖先；祖宗
+  - word: ancestral
+    en: relating to or inherited from ancestors
+    zh: 祖先的；祖传的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

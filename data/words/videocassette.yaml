@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: videocassette
+word: videocassette
+pos: noun
+zh: 录像带
+en: a cassette containing videotape
+components:
+  - morpheme: vis
+    form: video
+    meaning_in_word: see, visual
+    zh: 看、可见
+    role: root
+    is_core: true
+  - morpheme: caps
+    form: cassette
+    meaning_in_word: small case
+    zh: 盒；箱；容器
+    role: root
+    is_core: true
+    related_morphemes:
+      - cap
+word_family:
+  - cassette
+word_family_details:
+  - word: cassette
+    en: a small flat case containing tape, especially for audio recording
+    zh: 盒式磁带
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

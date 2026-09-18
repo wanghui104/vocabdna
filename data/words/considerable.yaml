@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: considerable
+word: considerable
+pos: adjective
+zh: 相当大的；值得考虑的；可观的
+en: large or important enough to be noticed
+components:
+  - morpheme: sid
+    form: consider
+    meaning_in_word: think about
+    zh: 观察；考虑
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able/worthy
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - consider
+  - considerably
+  - considerate
+  - consideration
+word_family_details:
+  - word: consider
+    en: to think carefully about something or regard it in a particular way
+    zh: 考虑；认为
+  - word: considerably
+    en: by a large amount or degree
+    zh: 相当地；非常
+  - word: considerate
+    en: careful not to upset or inconvenience others
+    zh: 考虑周到的；体贴的
+  - word: consideration
+    en: careful thought, concern for others, or a factor to be considered
+    zh: 考虑；体谅；因素
+confusables:
+  []
+examples:
+  []
+why_confusing: considerable 表示相当大，不是 considerate 体贴。

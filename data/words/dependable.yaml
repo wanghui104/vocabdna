@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dependable
+word: dependable
+pos: adjective
+zh: 可靠的；可信赖的
+en: able to be trusted or relied on
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, from
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: pend
+    form: pend
+    meaning_in_word: hang, rely
+    zh: 悬挂；称量；支付
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - dependent
+  - dependence
+word_family_details:
+  - word: dependent
+    en: relying on someone or something for support, or a person who relies on another
+    zh: 依赖的；从属的；依赖他人者
+  - word: dependence
+    en: the state of relying on someone or something for support
+    zh: 依赖；信赖；从属
+confusables:
+  []
+examples:
+  []
+why_confusing: dependable 强调可靠稳定。

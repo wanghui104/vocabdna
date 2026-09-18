@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: execute
+word: execute
+pos: verb
+zh: 执行；实施；处决
+en: to carry out a plan or instruction; to put someone to death as a punishment
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: sequ
+    form: ecute
+    meaning_in_word: follow, result / 跟随；结果
+    zh: 跟随；结果
+    role: root
+    is_core: true
+    note: 表层 ex- + ecute。历史 exsequi = ex- 出、彻底 + sequi 跟随，分词 exsecutus；x 后 s 省写形成 execut-，因此 ecute 是 secut- 的表层变体，不是新词根。
+word_family:
+  - execution
+  - executive
+word_family_details:
+  - word: execution
+    en: the carrying out of a plan or order; putting someone to death as a punishment
+    zh: 执行；实施；处决
+  - word: executive
+    en: responsible for managing or carrying out decisions
+    zh: 管理的；执行的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

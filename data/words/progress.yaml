@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: progress
+word: progress
+pos: verb/noun
+zh: 前进，发展
+en: Means 前进，发展; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: forward; forth / 向前；公开
+    zh: 向前、公开、代替
+    role: prefix
+    is_core: false
+  - morpheme: gress
+    form: gress
+    meaning_in_word: step; go / 步；前进
+    zh: 步；前进
+    role: root
+    is_core: true
+word_family:
+  - progression
+  - progressive
+word_family_details:
+  - word: progression
+    en: Means 行进；次序; reviewed from the TOEFL source gloss for learner display.
+    zh: 行进；次序
+  - word: progressive
+    en: Means 前进的；累进的; reviewed from the TOEFL source gloss for learner display.
+    zh: 前进的；累进的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

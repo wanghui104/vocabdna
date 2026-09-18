@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: merit
+word: merit
+pos: noun
+zh: 优点，价值
+en: Means 优点，价值; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: merit
+    form: merit
+    meaning_in_word: 价值；功绩
+    zh: 价值；功绩
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:merit.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

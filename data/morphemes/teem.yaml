@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: teem
+display: teem
+type: root
+core_meaning: teem
+zh: 充满
+origin: Old English
+source_form: teem
+source_meaning: teem
+source_meaning_zh: 充满
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: teem
+    zh: 充满
+    examples:
+      - teem with
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - teem -> teem with
+high_value_words:
+  - teem with
+confusable_words:
+  []

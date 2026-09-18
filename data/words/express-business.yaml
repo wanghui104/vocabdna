@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: express-business
+word: express business
+pos: noun
+zh: 快递业务
+en: a business providing rapid delivery of parcels or goods
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: press
+    form: press
+    meaning_in_word: press / 压
+    zh: 压
+    role: root
+    is_core: true
+  - morpheme: business
+    form: business
+    meaning_in_word: business, being busy / 业务；忙碌
+    zh: 业务；忙碌
+    role: root
+    is_core: true
+    note: 深层 busy 忙 + -ness，y 在历史拼写中变 i；express business 指快递业务。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

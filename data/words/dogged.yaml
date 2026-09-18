@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dogged
+word: dogged
+pos: adjective
+zh: 顽强的；坚持不懈的
+en: continuing with firm determination despite difficulty
+components:
+  - morpheme: dog
+    form: dogg
+    meaning_in_word: dog / 狗
+    zh: 狗
+    role: root
+    is_core: true
+    note: dogg-（dog 双写 g）+ -ed 性质；顽强不放的形象来自狗。形容词读两音节 /ˈdɒɡɪd/，不要与动词 dog 的过去式混同。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dogg-（dog 双写 g）+ -ed 性质；顽强不放的形象来自狗。形容词读两音节 /ˈdɒɡɪd/，不要与动词 dog 的过去式混同。

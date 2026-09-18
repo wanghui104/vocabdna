@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: taste
+display: taste
+type: root
+core_meaning: touch, test, taste
+zh: 触摸；试尝
+origin: French
+source_form: Old French taster
+source_meaning: touch, test, taste
+source_meaning_zh: 触摸；试尝
+source_note: 现代 taste 为稳定词干；distasteful = dis- + taste + -ful。
+related_morphemes:
+  []
+senses:
+  - meaning: touch, test, taste
+    zh: 触摸；试尝
+    examples:
+      - distaste
+      - distasteful
+      - taste
+      - tasteless
+      - tasty
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - taste -> distaste
+  - taste -> distasteful
+  - taste -> taste
+  - taste -> tasteless
+  - taste -> tasty
+high_value_words:
+  - distaste
+  - distasteful
+  - taste
+  - tasteless
+  - tasty
+confusable_words:
+  []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: buzzer
+word: buzzer
+pos: noun
+zh: 蜂鸣器
+en: a device that makes a buzzing sound
+components:
+  - morpheme: buzz
+    form: buzz
+    meaning_in_word: buzzing sound
+    zh: 嗡嗡声
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: thing that does
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - buzz
+word_family_details:
+  - word: buzz
+    en: a low continuous humming sound, or to make that sound
+    zh: 嗡嗡声；发出嗡嗡声
+confusables:
+  []
+examples:
+  []
+why_confusing: door/game buzzer 都常见。

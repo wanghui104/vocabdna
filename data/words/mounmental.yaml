@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mounmental
+word: mounmental
+pos: adjective
+zh: 杰出的，不朽的
+en: Means 杰出的，不朽的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: monu
+    form: monu
+    meaning_in_word: 纪念；提醒
+    zh: 纪念；提醒
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:monu.
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ment.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+word_family:
+  - monument
+word_family_details:
+  - word: monument
+    en: Means 纪念碑；纪念物; reviewed from the TOEFL source gloss for learner display.
+    zh: 纪念碑；纪念物
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

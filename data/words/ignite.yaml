@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ignite
+word: ignite
+pos: verb
+zh: 点燃，使燃着
+en: Means 点燃，使燃着; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ign
+    form: ign
+    meaning_in_word: 火
+    zh: 火
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:ign.
+  - morpheme: ite
+    form: -ite
+    meaning_in_word: 矿物；相关物
+    zh: 矿物；相关物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ite.
+word_family:
+  - igneous
+word_family_details:
+  - word: igneous
+    en: Means （地理）火的，火成的; reviewed from the TOEFL source gloss for learner display.
+    zh: （地理）火的，火成的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

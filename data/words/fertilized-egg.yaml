@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fertilized-egg
+word: fertilized egg
+pos: noun
+zh: 受精卵
+en: an egg cell that has united with a sperm cell
+components:
+  - morpheme: fertil
+    form: fertil
+    meaning_in_word: fruitful, bear / 多产；承载
+    zh: 多产；承载
+    role: root
+    is_core: true
+    note: 深层 ferre 承载、孕育 + -tilis 形容词构词层；fertil- 为稳定词干。fertilizer 表层 fertil- + -iz(e) + -er。
+    related_morphemes:
+      - fer
+  - morpheme: ize
+    form: -iz
+    meaning_in_word: make or do / 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+  - morpheme: egg
+    form: egg
+    meaning_in_word: egg / 卵
+    zh: 卵
+    role: root
+    is_core: true
+    note: 现代拼写受古诺斯语影响；fertilized egg 指受精卵。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

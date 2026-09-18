@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: quantum-theory
+word: quantum theory
+pos: noun
+zh: （物理）量子论
+en: Means （物理）量子论; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: quant
+    form: quant
+    meaning_in_word: amount / 数量
+    zh: 数量
+    role: root
+    is_core: true
+  - morpheme: um
+    form: um
+    meaning_in_word: um / um
+    zh: 单数词尾
+    role: root
+    is_core: true
+  - morpheme: theory
+    form: theory
+    meaning_in_word: theory / 理论
+    zh: 理论
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

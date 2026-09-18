@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: by-far
+word: by far
+pos: phrase
+zh: 迄今为止；显然大大地
+en: by a large amount; clearly
+components:
+  - morpheme: by
+    form: by
+    meaning_in_word: by means of
+    zh: 由；被；靠
+    role: root
+    is_core: true
+  - morpheme: far
+    form: far
+    meaning_in_word: far
+    zh: 远
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: by far the best = 远远最好。

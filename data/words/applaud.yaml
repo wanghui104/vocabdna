@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: applaud
+word: applaud
+pos: verb
+zh: 鼓掌；喝彩；称赞
+en: to clap the hands or express approval
+components:
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: plaud
+    form: plaud
+    meaning_in_word: clap, praise
+    zh: 鼓掌；称赞
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

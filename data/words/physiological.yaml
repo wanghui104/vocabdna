@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: physiological
+word: physiological
+pos: adjective
+zh: 生理学的；生理上的
+en: Means 生理学的；生理上的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: physi
+    form: physi
+    meaning_in_word: nature; body function / 自然；生理
+    zh: 自然；生理
+    role: root
+    is_core: true
+  - morpheme: o
+    form: o
+    meaning_in_word: o / o
+    zh: o
+    role: root
+    is_core: true
+  - morpheme: log
+    form: log
+    meaning_in_word: study; word / 学科；话语
+    zh: 原木；记录
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 相关的
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 相关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - physiology
+word_family_details:
+  - word: physiology
+    en: Means 生理学; reviewed from the TOEFL source gloss for learner display.
+    zh: 生理学
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

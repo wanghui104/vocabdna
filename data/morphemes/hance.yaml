@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hance
+display: hance
+type: root
+core_meaning: raise, make higher
+zh: 提高
+origin: Latin
+source_form: Old French haucier;  Latin altus
+source_meaning: raise, make higher
+source_meaning_zh: 提高
+source_note: 历史 in- + altus 高，经法语及 h/n 拼写影响形成 enhance；hance 保留表层，深层 altus。
+related_morphemes:
+  - alt
+senses:
+  - meaning: raise, make higher
+    zh: 提高
+    examples:
+      - enhance
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - hance -> enhance
+high_value_words:
+  - enhance
+confusable_words:
+  []

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sunset
+word: sunset
+pos: noun
+zh: 日落
+en: Means 日落; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sun
+    form: sun
+    meaning_in_word: sun / 太阳
+    zh: 太阳；日晒
+    role: root
+    is_core: true
+  - morpheme: set
+    form: set
+    meaning_in_word: set / 落下；设置
+    zh: 放置；开始
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

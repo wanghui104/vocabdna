@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mundane
+word: mundane
+pos: adjective
+zh: 世俗的，平凡的 / 平常的，普通的
+en: Means 世俗的，平凡的 / 平常的，普通的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mund
+    form: mund
+    meaning_in_word: 世界
+    zh: 世界
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mund.
+  - morpheme: ane
+    form: ane
+    meaning_in_word: ane
+    zh: ane
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ane.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

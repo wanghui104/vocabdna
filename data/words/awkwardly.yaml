@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: awkwardly
+word: awkwardly
+pos: adverb
+zh: 笨拙地；尴尬地
+en: in a clumsy, uncomfortable, or difficult way
+components:
+  - morpheme: awk
+    form: awk
+    meaning_in_word: wrong way
+    zh: 别扭；笨拙
+    role: root
+    is_core: true
+  - morpheme: ward
+    form: -ward
+    meaning_in_word: direction
+    zh: 朝向；方向
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - awkward
+word_family_details:
+  - word: awkward
+    en: clumsy, uncomfortable, or difficult to handle
+    zh: 笨拙的；尴尬的；难处理的
+confusables:
+  []
+examples:
+  []
+why_confusing: 既可指动作笨拙，也可指社交场面尴尬。

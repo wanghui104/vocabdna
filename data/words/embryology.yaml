@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: embryology
+word: embryology
+pos: noun
+zh: 胚胎学
+en: the study of embryos and their development
+components:
+  - morpheme: embryo
+    form: embryo
+    meaning_in_word: young developing organism / 胚胎
+    zh: 胚胎
+    role: root
+    is_core: true
+    note: 深层 em-/en- 在内 + bryein 生长充盈；Latin 名词再分析产生 embryo/embryon- 交替，n 不是后加英语后缀。
+    related_morphemes:
+      - en-greek
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / 学科、研究
+    zh: 学科、研究
+    role: suffix
+    is_core: false
+    note: -logy 由 logos 论述相关构词发展为学科；不是不透明整词根。
+word_family:
+  - embryological
+word_family_details:
+  - word: embryological
+    en: relating to the study of embryos and their development
+    zh: 胚胎学的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

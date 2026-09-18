@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dehydrate
+word: dehydrate
+pos: verb
+zh: 使脱水；使干燥
+en: to remove water from something or make someone lose too much water
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: remove
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: hydr
+    form: hydr
+    meaning_in_word: water
+    zh: 水
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - dehydrated
+  - dehydration
+word_family_details:
+  - word: dehydrated
+    en: having lost water or been dried
+    zh: 脱水的；干燥的
+  - word: dehydration
+    en: the loss or removal of water
+    zh: 脱水；干燥
+confusables:
+  []
+examples:
+  []
+why_confusing: dehydrated food/person 都常见。

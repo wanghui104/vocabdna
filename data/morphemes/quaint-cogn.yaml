@@ -14,17 +14,23 @@ senses:
   - meaning: know, become familiar
     zh: 认识、熟悉
     examples:
-      - acquaintance
       - acquaint
+      - acquaintance
+      - acquainted
+      - quaint
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - acquaint -> acquaintance
-  - quaint -> acquaint
+  - quaint-cogn -> acquaint
+  - quaint-cogn -> acquaintance
+  - quaint-cogn -> acquainted
+  - quaint-cogn -> quaint
 high_value_words:
-  - acquaintance
   - acquaint
+  - acquaintance
+  - acquainted
+  - quaint
 confusable_words:
   []

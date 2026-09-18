@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eventual
+word: eventual
+pos: adjective
+zh: 最终的
+en: happening at the end of a process or period
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: ven-vent
+    form: vent
+    meaning_in_word: come, arrive / 来到；出现
+    zh: 来到；出现
+    role: root
+    is_core: true
+    note: event + -ual；event 深层 e- + venire 来，vent- 为词干；-ual 含历史连接 u 与形容词层。
+  - morpheme: al
+    form: -ual
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - eventually
+  - event
+  - eventful
+word_family_details:
+  - word: eventually
+    en: in the end, after some time or difficulties
+    zh: 最终；终于
+  - word: event
+    en: something that happens, especially an important occurrence or organized activity
+    zh: 事件；活动
+  - word: eventful
+    en: full of important or interesting events
+    zh: 多重大事件的；多事的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

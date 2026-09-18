@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adaptable
+word: adaptable
+pos: adjective
+zh: 能适应的；适应能力强的
+en: able to change easily to fit new conditions
+components:
+  - morpheme: apt
+    form: adapt
+    meaning_in_word: fit to conditions
+    zh: 适合；达到
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - adapt
+  - adaptation
+  - adaptive
+word_family_details:
+  - word: adapt
+    en: to change something, or change yourself, so it fits a new situation or purpose
+    zh: （使）适应；调整；改编
+  - word: adaptation
+    en: a change that helps something fit its environment or situation
+    zh: 适应；适应性变化
+  - word: adaptive
+    en: helping something adjust to conditions or changing as conditions change
+    zh: 适应的；有适应性的
+confusables:
+  []
+examples:
+  - en: An adaptable team can work under pressure.
+    zh: 适应力强的团队能在压力下工作。
+why_confusing: adaptable 描述人、系统或物种的适应能力。

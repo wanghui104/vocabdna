@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eviscerate
+word: eviscerate
+pos: verb
+zh: 取出内脏；使失去实质或力量
+en: to remove internal organs; to deprive of essential content or force
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: viscer
+    form: viscer
+    meaning_in_word: internal organs / 内脏
+    zh: 内脏
+    role: root
+    is_core: true
+    note: viscera 是 viscus 的复数，viscer- 为词干；不是 visc- 黏（viscum）。
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

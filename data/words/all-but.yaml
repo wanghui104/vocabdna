@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: all-but
+word: all but
+pos: phrase
+zh: 几乎；差不多
+en: almost completely
+components:
+  - morpheme: all
+    form: all
+    meaning_in_word: all, whole
+    zh: 全部；整个
+    role: root
+    is_core: true
+  - morpheme: but-except
+    form: but
+    meaning_in_word: except, outside
+    zh: 除……以外
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 后接形容词时常是“几乎”；后接名词时常是“除……以外”。

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flare
+word: flare
+pos: noun/verb
+zh: 闪耀；突然燃起
+en: a sudden bright flame or light; to burn brightly
+components:
+  - morpheme: flare
+    form: flare
+    meaning_in_word: blaze suddenly / 闪耀；突然燃起
+    zh: 闪耀；突然燃起
+    role: root
+    is_core: true
+    note: 更深词源不确定，保留简单词；不是 Latin flare 吹气的确证同源词。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: flair
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

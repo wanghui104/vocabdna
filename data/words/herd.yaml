@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: herd
+word: herd
+pos: noun/verb
+zh: 兽群；人群 / 把…赶在一起放牧；成群，群集
+en: Means 兽群；人群 / 把…赶在一起放牧；成群，群集; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: herd
+    form: herd
+    meaning_in_word: 兽群；人群 / 把…赶在一起放牧；成群，群集
+    zh: 兽群；人群；把…赶在一起放牧；成群，群集
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  - shepherd
+  - herder
+word_family_details:
+  - word: shepherd
+    en: Means 牧羊人；牧羊犬; reviewed from the TOEFL source gloss for learner display.
+    zh: 牧羊人；牧羊犬
+  - word: herder
+    en: Means 牧者，牧人; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 牧者，牧人
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

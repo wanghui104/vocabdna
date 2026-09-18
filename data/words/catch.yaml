@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: catch
+word: catch
+pos: verb/noun
+zh: 抓住；感染；理解
+en: to seize, attract, become infected with, or understand
+components:
+  - morpheme: catch
+    form: catch
+    meaning_in_word: seize
+    zh: 抓住；感染；理解
+    role: root
+    is_core: true
+word_family:
+  - catching
+word_family_details:
+  - word: catching
+    en: infectious or attractive
+    zh: 传染的；有魅力的
+confusables:
+  []
+examples:
+  []
+why_confusing: catch on 是理解或流行起来。

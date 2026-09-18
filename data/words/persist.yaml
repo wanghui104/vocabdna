@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: persist
+word: persist
+pos: verb
+zh: 坚持；持续
+en: Means 坚持；持续; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: per
+    form: per-
+    meaning_in_word: through; thoroughly / 穿过；彻底
+    zh: 穿过、完全
+    role: prefix
+    is_core: false
+  - morpheme: sist
+    form: sist
+    meaning_in_word: stand; stay / 站；坚持
+    zh: 站立；放置
+    role: root
+    is_core: true
+    related_morphemes:
+      - sta
+word_family:
+  - persistence
+word_family_details:
+  - word: persistence
+    en: Means 坚持不懈，持续; reviewed from the TOEFL source gloss for learner display.
+    zh: 坚持不懈，持续
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

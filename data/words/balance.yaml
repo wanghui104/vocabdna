@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: balance
+word: balance
+pos: noun/verb
+zh: 平衡；余额；使平衡
+en: an even state or remaining amount; to keep or make steady
+components:
+  - morpheme: balance
+    form: balance
+    meaning_in_word: two-pan scale
+    zh: 平衡；称量
+    role: root
+    is_core: true
+word_family:
+  - balanced
+word_family_details:
+  - word: balanced
+    en: steady, fair, or containing the right amounts
+    zh: 平衡的；均衡的
+confusables:
+  []
+examples:
+  []
+why_confusing: 可指身体平衡、财务余额、观点平衡。

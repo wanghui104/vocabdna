@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: relic
+word: relic
+pos: noun
+zh: 遗迹，纪念物
+en: Means 遗迹，纪念物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: relic
+    form: relic
+    meaning_in_word: left behind / 遗留物
+    zh: 遗留物
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: artifact
+    reason: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。
+    zh_reason: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: harbor
+word: harbor
+pos: noun
+zh: 海港 / 避难所
+en: Means 海港 / 避难所; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: harbor
+    form: harbor
+    meaning_in_word: 港湾；庇护
+    zh: 海港；避难所
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:harbor.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

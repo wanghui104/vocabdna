@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eclipse
+word: eclipse
+pos: noun/verb
+zh: 日食；月食；天体遮掩
+en: the obscuring of one celestial body by another
+components:
+  - morpheme: ec-greek
+    form: ec-
+    meaning_in_word: out, away / 向外；离开
+    zh: 向外；离开
+    role: prefix
+    is_core: false
+    note: 希腊语 ek-，与拉丁 ex- 同源但保留具体语言来源。
+  - morpheme: lip-leip
+    form: lip
+    meaning_in_word: leave, fall short / 留下；缺少
+    zh: 留下；缺少
+    role: root
+    is_core: true
+    note: Greek ek- 出 + leipein 留下 + -sis 动作名词；借入后 -sis 表现为 -se。不是 ec- + 英语 clip。
+  - morpheme: sis
+    form: -se
+    meaning_in_word: action, process / 动作；过程
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+    note: 历史 -sis 可通过借入变化显示为 -is/-se；具体依词说明。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

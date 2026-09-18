@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: jeweler
+word: jeweler
+pos: noun
+zh: 宝石商，宝石匠
+en: Means 宝石商，宝石匠; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: jewel
+    form: jewel
+    meaning_in_word: 宝石
+    zh: 宝石
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:jewel.
+  - morpheme: er
+    form: -er
+    meaning_in_word: ……者；……物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:er.
+word_family:
+  - jewel
+  - jewelry
+word_family_details:
+  - word: jewel
+    en: Means 宝石; reviewed from the TOEFL source gloss for learner display.
+    zh: 宝石
+  - word: jewelry
+    en: Means 珠宝; reviewed from the TOEFL source gloss for learner display.
+    zh: 珠宝
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

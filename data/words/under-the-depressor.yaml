@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: under-the-depressor
+word: under the depressor
+pos: phrase
+zh: 原表释义“被强制”待核实；字面为在压低装置或肌肉之下
+en: a literal phrase referring to being under a depressor; the workbook idiomatic gloss is unverified
+components:
+  - morpheme: under
+    form: under
+    meaning_in_word: under, below / 在下；受制于
+    zh: 在下；受制于
+    role: root
+    is_core: true
+    note: 原表疑似误录短语，暂保留 draft 待核原书，不能确认为“被强制”的固定表达。只能逐字分析 under + the + depressor；depressor 内层 de- 向下 + press- 压 + -or 物/肌肉。
+  - morpheme: the-article
+    form: the
+    meaning_in_word: the; definite article / 定冠词
+    zh: 定冠词
+    role: connector
+    is_core: false
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, remove / 向下；去除
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: press
+    form: press
+    meaning_in_word: compress / 压缩；浓缩
+    zh: 压
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person or thing that does / 做……的人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 原表短语待核实；不应当作通用固定搭配背诵。

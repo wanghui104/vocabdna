@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: candidate
+word: candidate
+pos: noun
+zh: 候选人
+en: a person who is trying to be elected or chosen for a position
+components:
+  - morpheme: candid
+    form: candid
+    meaning_in_word: white-robed
+    zh: 坦率；候选
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: person
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: candidate for office/position/admission。

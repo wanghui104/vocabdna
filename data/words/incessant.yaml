@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: incessant
+word: incessant
+pos: adjective
+zh: 不停的，连续的
+en: Means 不停的，连续的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: cess
+    form: cess
+    meaning_in_word: 行走；停止
+    zh: 行走；停止
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:cess.
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: 具有…性质；正在…
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ant.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

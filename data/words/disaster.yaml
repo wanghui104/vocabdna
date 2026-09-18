@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disaster
+word: disaster
+pos: noun
+zh: 灾难；不幸；彻底失败
+en: a sudden event causing great damage, loss, or failure
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: bad, unfavorable
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: aster
+    form: aster
+    meaning_in_word: star
+    zh: 星
+    role: root
+    is_core: true
+word_family:
+  - disastrous
+word_family_details:
+  - word: disastrous
+    en: causing great damage, loss, or failure
+    zh: 灾难性的；损失惨重的
+confusables:
+  []
+examples:
+  []
+why_confusing: disaster 可指真实灾难，也可指彻底失败。

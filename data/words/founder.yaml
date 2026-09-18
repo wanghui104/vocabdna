@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: founder
+word: founder
+pos: noun
+zh: 创办者；奠基人
+en: a person who establishes an organization or institution
+components:
+  - morpheme: fund
+    form: found
+    meaning_in_word: bottom, establish / 底；建立基础
+    zh: 底；建立基础
+    role: root
+    is_core: true
+    note: 本条 founder 为 found 建立 + -er 创建者；found 深层 Latin fundare ← fundus 底、基础。不要与 find 的过去式 found 或 founder 沉没混成同一条词源。
+  - morpheme: er
+    form: -er
+    meaning_in_word: one who does / ……者；……物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.
+word_family:
+  - found
+  - foundation
+word_family_details:
+  - word: found
+    en: to establish an organization or institution
+    zh: 创立；建立
+  - word: foundation
+    en: the base on which something rests
+    zh: 基础；地基
+confusables:
+  []
+examples:
+  []
+why_confusing: 

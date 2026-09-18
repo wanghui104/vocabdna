@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: butterfly
+word: butterfly
+pos: noun
+zh: [动]蝴蝶
+en: Means [动]蝴蝶; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: butter
+    form: butter
+    meaning_in_word: butter / 黄油
+    zh: 奶油；黄油
+    role: root
+    is_core: true
+    note: Conservative bottom root inside this learner-visible analysis; deeper source is uncertain or not productive for TOEFL study.
+  - morpheme: fly
+    form: fly
+    meaning_in_word: fly / 蝴蝶/飞
+    zh: 飞；飞虫
+    role: root
+    is_core: true
+word_family:
+  - butter
+word_family_details:
+  - word: butter
+    en: Means 黄油，牛油; reviewed from the TOEFL source gloss for learner display.
+    zh: 黄油，牛油
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

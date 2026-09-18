@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: commercialize
+word: commercialize
+pos: verb
+zh: 使商业化；使商品化
+en: to make something available or managed for profit
+components:
+  - morpheme: merc
+    form: commercial
+    meaning_in_word: business
+    zh: 商业；贸易
+    role: root
+    is_core: true
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - commerce
+  - commercial
+word_family_details:
+  - word: commerce
+    en: the activity of buying and selling goods and services
+    zh: 商业；贸易
+  - word: commercial
+    en: related to business or trade
+    zh: 商业的；贸易的
+confusables:
+  []
+examples:
+  []
+why_confusing: 常带批评语气：过度商业化。

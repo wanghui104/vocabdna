@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aspire
+word: aspire
+pos: verb
+zh: 渴望；有志于
+en: to have a strong desire to achieve something high or important
+components:
+  - morpheme: ad
+    form: a-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: spir
+    form: spire
+    meaning_in_word: breathe, strive upward
+    zh: 呼吸；渴望向上
+    role: root
+    is_core: true
+word_family:
+  - aspiring
+  - aspiration
+word_family_details:
+  - word: aspiring
+    en: wanting strongly to become or achieve something
+    zh: 有抱负的；有理想的；积极向上的
+  - word: aspiration
+    en: a strong hope or ambition to achieve something
+    zh: 雄心；抱负；志向
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: delay
+word: delay
+pos: verb/noun
+zh: 推迟；耽搁；延误
+en: to make something happen later, or a period of waiting
+components:
+  - morpheme: delay
+    form: delay
+    meaning_in_word: put off
+    zh: 推迟；耽搁
+    role: root
+    is_core: true
+    note: 表层 delay；深层 Old French delaier = de- 离开 + laier 留下。laier 更深来源有 Latin laxare 松开与日耳曼来源两种解释，保留不确定；不能当作英语 lay 的确定派生。
+    related_morphemes:
+      - de
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: delay doing something; flight delay。

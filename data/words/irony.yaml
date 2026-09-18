@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: irony
+word: irony
+pos: noun
+zh: 反讽，讽刺
+en: Means 反讽，讽刺; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: iron
+    form: iron
+    meaning_in_word: 铁
+    zh: 铁
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:iron.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:y.
+word_family:
+  - ironic
+word_family_details:
+  - word: ironic
+    en: Means 讽刺的; reviewed from the TOEFL source gloss for learner display.
+    zh: 讽刺的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

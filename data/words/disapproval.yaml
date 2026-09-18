@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disapproval
+word: disapproval
+pos: noun
+zh: 不赞成；反对
+en: an unfavorable opinion or lack of approval
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to, toward / 去、向、靠近
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: prob
+    form: prov
+    meaning_in_word: test, prove, approve / 检验；证明；认可
+    zh: 检验；证明；认可
+    role: root
+    is_core: true
+  - morpheme: al-action
+    form: -al
+    meaning_in_word: act or result of / 行为或结果
+    zh: 行为或结果
+    role: suffix
+    is_core: false
+word_family:
+  - disapprove
+word_family_details:
+  - word: disapprove
+    en: to have or express an unfavorable opinion
+    zh: 不赞成；不同意
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

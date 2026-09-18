@@ -22,9 +22,7 @@ word_family:
 word_family_details:
   []
 confusables:
-  - word: misuse
-    reason: abuse 可指滥用权力，也可指虐待。
-    zh_reason: abuse 可指滥用权力，也可指虐待。
+  []
 examples:
   - en: Officials must not abuse their power.
     zh: 官员不得滥用权力。

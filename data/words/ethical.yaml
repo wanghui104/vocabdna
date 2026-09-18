@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ethical
+word: ethical
+pos: adjective
+zh: 伦理的；合乎道德的
+en: relating to moral principles; morally acceptable
+components:
+  - morpheme: eth
+    form: eth
+    meaning_in_word: character, custom / 品格；习俗
+    zh: 品格；习俗
+    role: root
+    is_core: true
+    note: ethic = eth- + -ic，ethical 再加 -al；ethics 的 s 表伦理学或道德准则，不当作普通可数复数。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - ethic
+  - ethics
+  - ethically
+word_family_details:
+  - word: ethic
+    en: a principle or set of principles governing conduct
+    zh: 道德准则
+  - word: ethics
+    en: moral principles; the study of right and wrong conduct
+    zh: 道德准则；伦理学
+  - word: ethically
+    en: in a way consistent with moral principles; from a moral standpoint
+    zh: 合乎道德地；从伦理角度
+confusables:
+  []
+examples:
+  []
+why_confusing: 

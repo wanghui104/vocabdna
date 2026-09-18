@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: heritage
+word: heritage
+pos: noun
+zh: 遗产；继承物
+en: Means 遗产；继承物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: herit
+    form: herit
+    meaning_in_word: 遗产；继承
+    zh: 遗产；继承
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:herit.
+  - morpheme: age
+    form: -age
+    meaning_in_word: 结果；集合
+    zh: 结果；集合
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:age.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

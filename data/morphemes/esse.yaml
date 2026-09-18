@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: esse
+display: -esse
+type: suffix
+core_meaning: abstract quality
+zh: 性质
+origin: French
+source_form: French -esse; Latin -itia
+source_meaning: abstract quality
+source_meaning_zh: 性质
+source_note: finesse 的 -esse 是性质名词层，不是女性施事 -ess。
+related_morphemes:
+  []
+senses:
+  - meaning: abstract quality
+    zh: 性质
+    examples:
+      - finesse
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -esse -> finesse
+high_value_words:
+  - finesse
+confusable_words:
+  []

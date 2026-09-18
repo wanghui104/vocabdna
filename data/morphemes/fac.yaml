@@ -5,26 +5,156 @@ type: root
 core_meaning: make, do
 zh: 做、制造
 origin: Latin
+source_form: Latin facere, factus
+source_meaning: make, do
+source_meaning_zh: 做；制造
+source_note: fact- reflects factum/factus; fic-/fice in artifice and artificial reflect the compound family artifex (stem artific-), artificium, artificialis, from facere. Sources: https://www.merriam-webster.com/dictionary/artifice ; https://www.etymonline.com/word/artificial .
 related_morphemes:
   []
 senses:
   - meaning: make, do
     zh: 做、制造
     examples:
-      - benefactor
-      - manufacture
+      - affect
+      - affected
+      - affection
+      - affectionate
+      - affective
+      - amplification
+      - amplify
       - artifact
+      - artificial
+      - benefactor
+      - beneficial
+      - benefit
+      - clarify
+      - classify
+      - codify
+      - counterfeit
+      - defect
+      - defective
+      - deficiency
+      - deficient
+      - deficit
+      - edifice
+      - effect
+      - effective
+      - effectiveness
+      - efficiency
+      - efficient
+      - facsimile
+      - fact
+      - faction
+      - factor
+      - factual
+      - feasible
+      - feat
+      - manufacture
+      - multi-faceted
+      - petrifaction
+      - satisfaction
+      - artefact
+      - artifactual
+      - artefactual
+      - artificially
+      - artificiality
+      - artifice
+      - artificer
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - fact / -or -> benefactor
-  - fact -> manufacture
+  - fect -> affect
+  - fect -> affected
+  - fect -> affection
+  - fect -> affectionate
+  - fect -> affective
+  - fic -> amplification
+  - ify -> amplify
   - fact -> artifact
+  - fic -> artificial
+  - fact / -or -> benefactor
+  - fici -> beneficial
+  - fit -> benefit
+  - -ify -> clarify
+  - -ify -> classify
+  - -ify -> codify
+  - feit -> counterfeit
+  - fect -> defect
+  - fect -> defective
+  - fic -> deficiency
+  - fic -> deficient
+  - ficit -> deficit
+  - fice -> edifice
+  - fect -> effect
+  - fect -> effective
+  - fect -> effectiveness
+  - fic -> efficiency
+  - fic -> efficient
+  - fac -> facsimile
+  - fact -> fact
+  - fact -> faction
+  - fact -> factor
+  - fact -> factual
+  - feas -> feasible
+  - feat -> feat
+  - fact -> manufacture
+  - fac -> multi-faceted
+  - fact -> petrifaction
+  - fact -> satisfaction
+  - fact -> artefact
+  - fact -> artifactual
+  - fact -> artefactual
+  - fic -> artificially
+  - fic -> artificiality
+  - fice -> artifice
+  - fic -> artificer
 high_value_words:
-  - benefactor
-  - manufacture
+  - affect
+  - affected
+  - affection
+  - affectionate
+  - affective
+  - amplification
+  - amplify
   - artifact
+  - artificial
+  - benefactor
+  - beneficial
+  - benefit
+  - clarify
+  - classify
+  - codify
+  - counterfeit
+  - defect
+  - defective
+  - deficiency
+  - deficient
+  - deficit
+  - edifice
+  - effect
+  - effective
+  - effectiveness
+  - efficiency
+  - efficient
+  - facsimile
+  - fact
+  - faction
+  - factor
+  - factual
+  - feasible
+  - feat
+  - manufacture
+  - multi-faceted
+  - petrifaction
+  - satisfaction
+  - artefact
+  - artifactual
+  - artefactual
+  - artificially
+  - artificiality
+  - artifice
+  - artificer
 confusable_words:
   []

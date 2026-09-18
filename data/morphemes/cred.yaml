@@ -8,6 +8,7 @@ origin: Latin
 source_form: Latin credere
 source_meaning: believe, trust
 source_meaning_zh: 相信、信任
+source_note: 表层 cred-/credit- 信任；credit 来自 Latin creditum（credere 的分词名词），credit- 中 -it- 属历史分词词干，不是省略或英语后缀。credentials 的层级为 credent- 相信 + -ial 相关 + -s 复数；credent- 内为 cred- + -ent。
 related_morphemes:
   []
 senses:
@@ -15,13 +16,31 @@ senses:
     zh: 相信、信用
     examples:
       - accredit
+      - credence
+      - credentials
+      - credit
+      - creditor
+      - incredible
+      - incredulity
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - credit -> accredit
+  - cred -> credence
+  - cred -> credentials
+  - credit -> credit
+  - credit -> creditor
+  - cred -> incredible
+  - cred -> incredulity
 high_value_words:
   - accredit
+  - credence
+  - credentials
+  - credit
+  - creditor
+  - incredible
+  - incredulity
 confusable_words:
   []

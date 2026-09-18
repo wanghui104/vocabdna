@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: broadcast
+word: broadcast
+pos: noun/verb
+zh: 广播；传播
+en: to transmit a program or spread information widely
+components:
+  - morpheme: broad
+    form: broad
+    meaning_in_word: wide
+    zh: 宽；扩大
+    role: root
+    is_core: true
+  - morpheme: cast
+    form: cast
+    meaning_in_word: throw, scatter
+    zh: 投；铸造；传播
+    role: root
+    is_core: true
+word_family:
+  - rebroadcast
+word_family_details:
+  - word: rebroadcast
+    en: to broadcast again
+    zh: 重播
+confusables:
+  []
+examples:
+  []
+why_confusing: 原指广撒种子，后指广播传播。

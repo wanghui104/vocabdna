@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: delta
+word: delta
+pos: noun
+zh: 三角洲
+en: a triangular area of land formed where a river divides near its mouth
+components:
+  - morpheme: delta
+    form: delta
+    meaning_in_word: triangle-shaped delta
+    zh: 三角洲
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: delta 也可指希腊字母或变量变化量。

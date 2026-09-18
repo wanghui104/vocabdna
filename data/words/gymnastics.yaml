@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gymnastics
+word: gymnastics
+pos: noun
+zh: 体操，体育
+en: Means 体操，体育; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: gymnast
+    form: gymnast
+    meaning_in_word: gymnast
+    zh: gymnast
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:gymnast.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Suffix layer from Greek -ikos, Latin -icus.
+  - morpheme: s
+    form: -s
+    meaning_in_word: 复数；机构化形式
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+    note: Suffix layer from Old English -s / -es.
+word_family:
+  - gymnastic
+word_family_details:
+  - word: gymnastic
+    en: Means 体操的，体育的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 体操的，体育的
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

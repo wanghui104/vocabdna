@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: trench
+display: trench
+type: root
+core_meaning: cut, ditch
+zh: 切；沟壕
+origin: French
+source_form: Old French trenchier
+source_meaning: cut, ditch
+source_meaning_zh: 切；沟壕
+source_note: entrenched 从置于壕沟到牢固确立；trenchier 的更深来源未定。
+related_morphemes:
+  []
+senses:
+  - meaning: cut, ditch
+    zh: 切；沟壕
+    examples:
+      - entrench
+      - entrenched
+      - trench
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - trench -> entrench
+  - trench -> entrenched
+  - trench -> trench
+high_value_words:
+  - entrench
+  - entrenched
+  - trench
+confusable_words:
+  []

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inary
+display: inary
+type: root
+core_meaning: inary
+zh: inary
+origin: English
+source_form: English inary
+source_meaning: inary
+source_meaning_zh: inary
+related_morphemes:
+  []
+senses:
+  - meaning: inary
+    zh: inary
+    examples:
+      - imaginary
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - inary -> imaginary
+high_value_words:
+  - imaginary
+confusable_words:
+  []

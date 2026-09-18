@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chafe
+display: chafe
+type: root
+core_meaning: chafe
+zh: 擦热；激怒
+origin: French
+source_form: Old French chaufer
+source_meaning: heat, warm
+source_meaning_zh: 加热；擦热
+related_morphemes:
+  []
+senses:
+  - meaning: chafe
+    zh: 擦热；激怒
+    examples:
+      - chafe
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - chafe -> chafe
+high_value_words:
+  - chafe
+confusable_words:
+  []

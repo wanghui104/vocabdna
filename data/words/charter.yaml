@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: charter
+word: charter
+pos: verb/noun
+zh: 包租；特许；宪章；章程
+en: to hire a vehicle for private use, or a formal document granting rights
+components:
+  - morpheme: chart
+    form: chart
+    meaning_in_word: paper, document
+    zh: 图表；宪章；特许
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: charter flight/bus 是包机/包车。

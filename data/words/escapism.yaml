@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: escapism
+word: escapism
+pos: noun
+zh: 逃避现实
+en: seeking distraction from unpleasant realities
+components:
+  - morpheme: escape
+    form: escap
+    meaning_in_word: get out of a cape, escape / 脱出披风；逃脱
+    zh: 脱出披风；逃脱
+    role: root
+    is_core: true
+    note: 深层 ex- 出 + cappa 披风，指摆脱被抓住的披风；经法语音变形成 escape，保留稳定词干，cape 不是海角。
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: practice, condition / 行为；状态
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+word_family:
+  - escape
+  - escapist
+word_family_details:
+  - word: escape
+    en: to get free or avoid harm, notice, or control
+    zh: 逃脱；避开
+  - word: escapist
+    en: seeking distraction from unpleasant realities
+    zh: 逃避现实的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

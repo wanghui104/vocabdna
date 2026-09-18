@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: comprise
+word: comprise
+pos: verb
+zh: 包含；由……组成
+en: to consist of or include particular parts
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: prehend
+    form: prise
+    meaning_in_word: take, grasp
+    zh: 抓住；取得
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: compose
+    reason: 标准用法常见 the whole comprises the parts；be comprised of 也常见但有人较挑剔。
+    zh_reason: 标准用法常见 the whole comprises the parts；be comprised of 也常见但有人较挑剔。
+  - word: comprehend
+    reason: 标准用法常见 the whole comprises the parts；be comprised of 也常见但有人较挑剔。
+    zh_reason: 标准用法常见 the whole comprises the parts；be comprised of 也常见但有人较挑剔。
+examples:
+  []
+why_confusing: 标准用法常见 the whole comprises the parts；be comprised of 也常见但有人较挑剔。

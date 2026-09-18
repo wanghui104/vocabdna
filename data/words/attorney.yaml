@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: attorney
+word: attorney
+pos: noun
+zh: 代理人；律师
+en: a person legally appointed to act for another, especially a lawyer
+components:
+  - morpheme: ad
+    form: at-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: torn
+    form: torn
+    meaning_in_word: turn, appoint
+    zh: 转向；委任
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

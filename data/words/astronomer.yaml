@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: astronomer
+word: astronomer
+pos: noun
+zh: 天文学家
+en: a scientist who studies astronomy
+components:
+  - morpheme: astr
+    form: astro
+    meaning_in_word: star
+    zh: 星；天体
+    role: root
+    is_core: true
+  - morpheme: nom
+    form: nom
+    meaning_in_word: arranging, laws
+    zh: 安排；规律；法则
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person who does
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - astronomy
+  - astronomical
+word_family_details:
+  - word: astronomy
+    en: the scientific study of stars, planets, and other heavenly bodies
+    zh: 天文学
+  - word: astronomical
+    en: related to astronomy, or extremely large in amount
+    zh: 天文学的；极大的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

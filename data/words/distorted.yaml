@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distorted
+word: distorted
+pos: adjective
+zh: 扭曲的；失真的
+en: twisted out of shape or misrepresented
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: tort
+    form: tort
+    meaning_in_word: twist / 扭转
+    zh: 扭转
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - distort
+  - distortion
+word_family_details:
+  - word: distort
+    en: to twist out of shape or give a misleading account of
+    zh: 扭曲；歪曲事实
+  - word: distortion
+    en: a change that twists the shape or misrepresents the meaning of something
+    zh: 变形；失真；歪曲
+confusables:
+  []
+examples:
+  []
+why_confusing: 

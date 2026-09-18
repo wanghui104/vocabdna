@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dentist
+word: dentist
+pos: noun
+zh: 牙科医生
+en: a doctor who treats teeth and gums
+components:
+  - morpheme: dent
+    form: dent
+    meaning_in_word: tooth
+    zh: 牙齿；齿状切口
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: specialist
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - dentistry
+word_family_details:
+  - word: dentistry
+    en: the profession or science of caring for teeth
+    zh: 牙科
+confusables:
+  []
+examples:
+  []
+why_confusing: dentist 是人；dentistry 是领域。

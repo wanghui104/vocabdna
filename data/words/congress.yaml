@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: congress
+word: congress
+pos: noun
+zh: 国会；议会；大会
+en: a formal meeting or a national legislative body
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: grad-gress
+    form: gress
+    meaning_in_word: step, go
+    zh: 迈步；前进
+    role: root
+    is_core: true
+word_family:
+  - congressional
+  - congressman
+word_family_details:
+  - word: congressional
+    en: related to a congress or legislative body
+    zh: 国会的；大会的
+  - word: congressman
+    en: a male or general member of a congress, especially the U.S. House of Representatives
+    zh: 国会议员
+confusables:
+  []
+examples:
+  []
+why_confusing: Congress 大写常指美国国会。

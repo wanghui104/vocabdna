@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clap
+word: clap
+pos: noun/verb
+zh: 拍手声；霹雳声；鼓掌；轻拍
+en: a sharp sound made by striking hands together, or to make that sound
+components:
+  - morpheme: clap
+    form: clap
+    meaning_in_word: beat
+    zh: 拍手；轻拍
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: clap of thunder 指一声霹雳。

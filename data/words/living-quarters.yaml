@@ -1,0 +1,54 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: living-quarters
+word: living quarters
+pos: noun
+zh: 住房，住处
+en: Means 住房，住处; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: live
+    form: live
+    meaning_in_word: 生活
+    zh: 生活
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:live.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ing.
+  - morpheme: quarter
+    form: quarter
+    meaning_in_word: 四分之一；住处
+    zh: 四分之一；住处
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:quarter.
+  - morpheme: s
+    form: -s
+    meaning_in_word: 复数；机构化形式
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:s.
+word_family:
+  - livelihood
+  - lively
+  - livestock
+word_family_details:
+  - word: livelihood
+    en: Means 生计，谋生; reviewed from the TOEFL source gloss for learner display.
+    zh: 生计，谋生
+  - word: lively
+    en: Means 活泼的，活跃的；栩栩如生的; reviewed from the TOEFL source gloss for learner display.
+    zh: 活泼的，活跃的；栩栩如生的
+  - word: livestock
+    en: Means 家畜，牲畜; reviewed from the TOEFL source gloss for learner display.
+    zh: 家畜，牲畜
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

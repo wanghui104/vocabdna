@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: furthermore
+word: furthermore
+pos: adverb
+zh: 而且；此外
+en: in addition
+components:
+  - morpheme: further
+    form: further
+    meaning_in_word: farther, more forward / 更远；进一步
+    zh: 更远；进一步
+    role: root
+    is_core: true
+    note: 历史比较级，与 fore/forth 的方位词族相关，词典对早期构成表述不同；保留 further，不作 fur 毛皮 + ther。
+  - morpheme: more
+    form: more
+    meaning_in_word: more / 更多
+    zh: 更多
+    role: root
+    is_core: true
+    note: furthermore = further + more；more 为历史比较级。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

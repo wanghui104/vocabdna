@@ -1,0 +1,49 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distinctive
+word: distinctive
+pos: adjective
+zh: 有特色的；具有辨识度的
+en: having a feature that makes something recognizable and different
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: stingu-stinct
+    form: stinct
+    meaning_in_word: mark off, distinguish / 作标记；区别
+    zh: 作标记；区别
+    role: root
+    is_core: true
+    note: distinct/distinguish 共用词干。更深层“刺点”与“推开”解释有争议，只把 mark off 作为可靠学习层。
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having the nature of, tending to / 具有……性质的；倾向于……的
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - distinct
+  - distinctly
+  - distinctively
+  - distinction
+word_family_details:
+  - word: distinct
+    en: clearly different or separate; easy to recognize
+    zh: 不同的；分明的；清楚的
+  - word: distinctly
+    en: clearly or unmistakably
+    zh: 清楚地；明显地
+  - word: distinctively
+    en: in a way that is characteristic and recognizable
+    zh: 有特色地；鲜明地
+  - word: distinction
+    en: a difference that separates one thing from another
+    zh: 区别；差异
+confusables:
+  []
+examples:
+  []
+why_confusing: distinct/distinguish 共用词干。更深层“刺点”与“推开”解释有争议，只把 mark off 作为可靠学习层。

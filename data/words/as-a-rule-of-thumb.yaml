@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: as-a-rule-of-thumb
+word: as a rule of thumb
+pos: phrase
+zh: 大概来说；根据经验法则
+en: as a rough practical rule rather than an exact measurement
+components:
+  - morpheme: rule
+    form: rule
+    meaning_in_word: guide
+    zh: 规则；通常做法
+    role: root
+    is_core: true
+  - morpheme: thumb
+    form: thumb
+    meaning_in_word: rough measure
+    zh: 拇指
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

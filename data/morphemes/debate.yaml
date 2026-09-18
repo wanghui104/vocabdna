@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: debate
+display: debate
+type: root
+core_meaning: debate, argue
+zh: 辩论；争论
+origin: French
+source_form: Old French debatre
+source_meaning: fight, contend in words
+source_meaning_zh: 争斗；争辩
+source_note: 表层 debate/debat-；深层 Old French debatre = de- 加强 + batre 打击（Latin battuere）。辩论像言语交锋。debatable = debat- + -able，去掉词尾 e。
+related_morphemes:
+  - de
+senses:
+  - meaning: debate, argue
+    zh: 辩论；争论
+    examples:
+      - debatable
+      - debate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - debat -> debatable
+  - debate -> debate
+high_value_words:
+  - debatable
+  - debate
+confusable_words:
+  []

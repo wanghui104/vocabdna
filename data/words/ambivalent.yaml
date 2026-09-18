@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ambivalent
+word: ambivalent
+pos: adjective
+zh: 有矛盾情绪的；举棋不定的
+en: having mixed or opposite feelings about something
+components:
+  - morpheme: ambi
+    form: ambi
+    meaning_in_word: both sides
+    zh: 周围；两边
+    role: root
+    is_core: true
+  - morpheme: val
+    form: val
+    meaning_in_word: strength, value
+    zh: 强；有价值
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having the quality of
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - ambivalence
+word_family_details:
+  - word: ambivalence
+    en: the state of having mixed or opposite feelings
+    zh: 矛盾心理；矛盾情绪
+confusables:
+  []
+examples:
+  []
+why_confusing: ambivalent 不是 indifferent；它是有相反情绪，不是无所谓。

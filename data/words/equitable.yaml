@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: equitable
+word: equitable
+pos: adjective
+zh: 公平的；公正的
+en: fair and impartial
+components:
+  - morpheme: equit-equity
+    form: equit
+    meaning_in_word: fairness / 公平
+    zh: 公平
+    role: root
+    is_core: true
+    note: equity 去 y 后 + -able；equit- 内部 aequ- 相等 + -itas 性质，t 保留在派生词干。不是马的 equit-。
+    related_morphemes:
+      - equ
+      - ity
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be / 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.
+word_family:
+  - equity
+word_family_details:
+  - word: equity
+    en: fairness; ownership value after liabilities
+    zh: 公平；权益；净资产价值
+confusables:
+  []
+examples:
+  []
+why_confusing: 

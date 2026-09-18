@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: comprehension
+word: comprehension
+pos: noun
+zh: 理解；包含
+en: the ability or act of understanding
+components:
+  - morpheme: prehend
+    form: comprehens
+    meaning_in_word: grasp
+    zh: 抓住；取得
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - comprehend
+  - comprehensible
+  - comprehensive
+word_family_details:
+  - word: comprehend
+    en: to understand something fully
+    zh: 领悟；理解
+  - word: comprehensible
+    en: able to be understood
+    zh: 可理解的；易于了解的
+  - word: comprehensive
+    en: including nearly everything needed
+    zh: 全面的；综合的
+confusables:
+  []
+examples:
+  []
+why_confusing: reading/listening comprehension 常见。

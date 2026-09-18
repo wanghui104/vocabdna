@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prodigy
+display: prodigy
+type: root
+core_meaning: prodigy
+zh: prodigy
+origin: teaching morphology
+source_form: prodigy
+source_meaning: prodigy
+source_meaning_zh: prodigy
+related_morphemes:
+  []
+senses:
+  - meaning: prodigy
+    zh: prodigy
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

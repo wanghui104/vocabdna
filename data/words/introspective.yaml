@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: introspective
+word: introspective
+pos: adjective
+zh: 自省的，反省的
+en: Means 自省的，反省的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: intro
+    form: intro-
+    meaning_in_word: 向内
+    zh: 向内
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:intro.
+  - morpheme: spect
+    form: spect
+    meaning_in_word: 看
+    zh: 看
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:spect.
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: 具有……性质的；倾向于……的
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ive.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

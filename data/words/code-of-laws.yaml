@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: code-of-laws
+word: code of laws
+pos: phrase
+zh: 法典
+en: an organized collection of laws
+components:
+  - morpheme: code
+    form: code
+    meaning_in_word: law book
+    zh: 代码；法典
+    role: root
+    is_core: true
+  - morpheme: of
+    form: of
+    meaning_in_word: of
+    zh: 属于；关于
+    role: connector
+    is_core: false
+  - morpheme: law
+    form: laws
+    meaning_in_word: laws
+    zh: 法律
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: legal code/code of laws 都可见。

@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: residential
+word: residential
+pos: adjective
+zh: 住宅的，与居住有关的
+en: Means 住宅的，与居住有关的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: sid
+    form: sid
+    meaning_in_word: sit; reside / 坐；居住
+    zh: 观察；考虑
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: being; doing / 正在/具有
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+  - morpheme: ial
+    form: -ial
+    meaning_in_word: relating to / 相关的
+    zh: 有关……的
+    role: suffix
+    is_core: false
+word_family:
+  - resident
+  - residence
+word_family_details:
+  - word: resident
+    en: Means 居民; reviewed from the TOEFL source gloss for learner display.
+    zh: 居民
+  - word: residence
+    en: Means 居住，住处; reviewed from the TOEFL source gloss for learner display.
+    zh: 居住，住处
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

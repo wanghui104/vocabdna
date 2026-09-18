@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: life-span
+word: life span
+pos: noun
+zh: 寿命
+en: Means 寿命; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: life
+    form: life
+    meaning_in_word: 生命
+    zh: 生命
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:life.
+  - morpheme: span
+    form: span
+    meaning_in_word: 跨度
+    zh: 跨度
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:span.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

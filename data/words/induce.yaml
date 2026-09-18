@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: induce
+word: induce
+pos: verb
+zh: 诱使，促使；导致
+en: Means 诱使，促使；导致; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: duc
+    form: duc
+    meaning_in_word: 引导；传导
+    zh: 引导；传导
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:duc.
+word_family:
+  - inducible
+word_family_details:
+  - word: inducible
+    en: Means 可诱导的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可诱导的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

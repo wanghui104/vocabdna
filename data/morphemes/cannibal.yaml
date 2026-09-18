@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cannibal
+display: cannibal
+type: root
+core_meaning: cannibal
+zh: 同类相食
+origin: Mixed
+source_form: Spanish Canibal/Caribal
+source_meaning: Carib person; later man-eater
+source_meaning_zh: 加勒比人；食人者
+related_morphemes:
+  []
+senses:
+  - meaning: cannibal
+    zh: 同类相食
+    examples:
+      - cannibalism
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cannibal -> cannibalism
+high_value_words:
+  - cannibalism
+confusable_words:
+  []

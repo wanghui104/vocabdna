@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: reform
+word: reform
+pos: verb/noun
+zh: 改革，革新
+en: Means 改革，革新; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: form
+    form: form
+    meaning_in_word: form / 形式；改革
+    zh: 形式；符合
+    role: root
+    is_core: true
+word_family:
+  - reformer
+  - reformism
+word_family_details:
+  - word: reformer
+    en: Means 改革家，改革运动者; reviewed from the TOEFL source gloss for learner display.
+    zh: 改革家，改革运动者
+  - word: reformism
+    en: Means 改革主义; reviewed from the TOEFL source gloss for learner display.
+    zh: 改革主义
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

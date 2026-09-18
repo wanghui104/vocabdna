@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stocky
+word: stocky
+pos: adjective
+zh: (人或动物)矮而结实的，粗壮的
+en: Means (人或动物)矮而结实的，粗壮的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: stock
+    form: stock
+    meaning_in_word: stock; supply / 存货；根干
+    zh: 存货；牲畜
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of; having / 充满；具有
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  - stock-car-racing
+word_family_details:
+  - word: stock-car-racing
+    en: Means 专业汽车比赛; reviewed from the TOEFL source gloss for learner display.
+    zh: 专业汽车比赛
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compact
+word: compact
+pos: adjective/verb
+zh: 紧凑的；紧密的；简洁的；压缩
+en: closely packed, concise, or to press together
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: pact
+    form: pact
+    meaning_in_word: fasten, press
+    zh: 压紧；紧凑
+    role: root
+    is_core: true
+word_family:
+  - compaction
+word_family_details:
+  - word: compaction
+    en: the process of pressing material into a tighter mass
+    zh: 压紧；压实
+confusables:
+  []
+examples:
+  []
+why_confusing: compact 作名词还可指协议或小盒。

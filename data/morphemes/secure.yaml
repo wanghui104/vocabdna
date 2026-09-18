@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: secure
+display: secure
+type: root
+core_meaning: safe
+zh: 安全
+origin: teaching morphology
+source_form: secure
+source_meaning: safe
+source_meaning_zh: 安全
+related_morphemes:
+  []
+senses:
+  - meaning: safe
+    zh: 安全
+    examples:
+      - securely
+      - security
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - secure -> securely
+  - secure -> security
+high_value_words:
+  - securely
+  - security
+confusable_words:
+  []

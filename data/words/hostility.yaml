@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hostility
+word: hostility
+pos: noun
+zh: 敌意，敌对
+en: Means 敌意，敌对; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: host
+    form: host
+    meaning_in_word: 敌人；陌生人
+    zh: 敌人；陌生人
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:host.
+  - morpheme: ility
+    form: ility
+    meaning_in_word: ility
+    zh: ility
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:ility.
+word_family:
+  - hostile
+word_family_details:
+  - word: hostile
+    en: Means 敌对的，不友好的; reviewed from the TOEFL source gloss for learner display.
+    zh: 敌对的，不友好的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

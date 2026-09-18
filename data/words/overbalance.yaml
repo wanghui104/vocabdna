@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: overbalance
+word: overbalance
+pos: verb/noun
+zh: 失去平衡；使失衡
+en: to lose balance or make something lose balance
+components:
+  - morpheme: over
+    form: over-
+    meaning_in_word: too much
+    zh: 超过；过度
+    role: prefix
+    is_core: false
+  - morpheme: balance
+    form: balance
+    meaning_in_word: even scale
+    zh: 平衡；称量
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 比 imbalance 更强调动作或超过平衡点。

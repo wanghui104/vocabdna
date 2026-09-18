@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: obtain
+word: obtain
+pos: verb
+zh: 得到
+en: Means 得到; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ob
+    form: -ob
+    meaning_in_word: ob / ob
+    zh: 对着；覆盖
+    role: suffix
+    is_core: false
+  - morpheme: tain
+    form: tain
+    meaning_in_word: hold; get / 持有；获得
+    zh: 持有；包含
+    role: root
+    is_core: true
+word_family:
+  - obtainable
+word_family_details:
+  - word: obtainable
+    en: Means 可得到的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可得到的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

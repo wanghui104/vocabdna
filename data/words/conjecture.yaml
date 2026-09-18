@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conjecture
+word: conjecture
+pos: noun/verb
+zh: 推测；猜想
+en: a guess or to guess based on incomplete information
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: ject
+    form: ject
+    meaning_in_word: throw
+    zh: 投射；猜想
+    role: root
+    is_core: true
+word_family:
+  - conjectural
+word_family_details:
+  - word: conjectural
+    en: based on conjecture rather than proof
+    zh: 推测的；猜测性的
+confusables:
+  []
+examples:
+  []
+why_confusing: conjecture 比 guess 更正式。

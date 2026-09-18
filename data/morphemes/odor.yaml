@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: odor
+display: odor
+type: root
+core_meaning: smell
+zh: 气味
+origin: teaching morphology
+source_form: odor
+source_meaning: smell
+source_meaning_zh: 气味
+related_morphemes:
+  []
+senses:
+  - meaning: smell
+    zh: 气味
+    examples:
+      - deodorizer
+      - odor
+      - odorless
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - odor -> deodorizer
+  - odor -> odor
+  - odor -> odorless
+high_value_words:
+  - deodorizer
+  - odor
+  - odorless
+confusable_words:
+  []

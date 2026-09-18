@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exuberant
+word: exuberant
+pos: adjective
+zh: 热情洋溢的；繁茂的
+en: full of lively energy or growing abundantly
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out or thoroughly (intensive here) / 加强；彻底
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: uber
+    form: uber
+    meaning_in_word: fruitful; udder / 丰饶；乳房
+    zh: 丰饶；乳房
+    role: root
+    is_core: true
+    note: exuberant 深层 ex- 加强 + uberare 丰盛（uber 丰饶，与乳房义相关）+ -ant。
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having quality, doing / 具有…性质；正在…
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - exuberance
+word_family_details:
+  - word: exuberance
+    en: lively energy or abundant growth
+    zh: 充沛的活力；繁茂
+confusables:
+  []
+examples:
+  []
+why_confusing: 

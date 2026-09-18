@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tangled
+word: tangled
+pos: adjective/verb
+zh: 缠结的；错综复杂的；tangle 的过去式及过去分词
+en: twisted together so separation is difficult, or confusingly complicated; also the past form of tangle
+components:
+  - morpheme: tangle
+    form: tangl
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: tangle 去掉词尾不发音 e 的词干，用于加 -ed/-ing。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past action or resulting state / 过去动作、结果状态
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - tangle
+  - tangling
+word_family_details:
+  - word: tangle
+    en: to become or make things twisted together; a knotted mass or a complicated situation
+    zh: （使）缠结；乱团；混乱局面
+  - word: tangling
+    en: the ongoing action or process of twisting or catching things together
+    zh: 正在缠绕；缠结过程
+confusables:
+  []
+examples:
+  - en: She gently combed out her tangled hair.
+    zh: 她轻轻梳开打结的头发。
+  - en: The novel follows a tangled network of family secrets.
+    zh: 小说围绕错综复杂的家族秘密展开。
+why_confusing: 拼写 tangle 去 e 加 -ed，得到 tangled；末尾 -ed 读 /d/。常用 get tangled in / be tangled up in。不要把 tangled 与 tangible（可触知的）混淆。

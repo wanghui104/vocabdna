@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: balanced
+word: balanced
+pos: adjective
+zh: 平衡的；均衡的
+en: steady, fair, or containing the right amounts
+components:
+  - morpheme: balance
+    form: balance
+    meaning_in_word: even scale
+    zh: 平衡；称量
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having been made
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - balance
+word_family_details:
+  - word: balance
+    en: an even state or remaining amount; to keep or make steady
+    zh: 平衡；余额；使平衡
+confusables:
+  []
+examples:
+  []
+why_confusing: balanced diet/opinion/person 都常见。

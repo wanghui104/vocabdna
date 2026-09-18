@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contour
+word: contour
+pos: noun
+zh: 轮廓；等高线；周线
+en: the outline of a shape or a line joining points of equal height
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together/around
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: torn
+    form: tour
+    meaning_in_word: turn around
+    zh: 转向；委任
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: contour line 指等高线。

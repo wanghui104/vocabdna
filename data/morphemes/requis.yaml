@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: requis
+display: requis
+type: root
+core_meaning: seek; require
+zh: 寻求；要求
+origin: teaching morphology
+source_form: requis
+source_meaning: seek; require
+source_meaning_zh: 寻求；要求
+related_morphemes:
+  []
+senses:
+  - meaning: seek; require
+    zh: 寻求；要求
+    examples:
+      - prerequisite
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - requis -> prerequisite
+high_value_words:
+  - prerequisite
+confusable_words:
+  []

@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: curiosity
+word: curiosity
+pos: noun
+zh: 好奇心
+en: a strong desire to know or learn something
+components:
+  - morpheme: cure
+    form: cur
+    meaning_in_word: care, take charge / 照料；管理；关心
+    zh: 照料；管理；关心
+    role: root
+    is_core: true
+    note: 表层 curious + -ity；Word DNA cur- 照料 + -ios-（-ious 的拉丁词干形）+ -ity 性质。不是 cur + 不透明的 -iosity，也不是形容词 -y。
+  - morpheme: ous
+    form: -ios
+    meaning_in_word: full of, having / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: quality, state / 性质、状态
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - curious
+word_family_details:
+  - word: curious
+    en: eager to know, or strange and interesting
+    zh: 好奇的；奇特的
+confusables:
+  []
+examples:
+  []
+why_confusing: curiosity 也可指稀奇物品。

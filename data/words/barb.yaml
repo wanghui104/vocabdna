@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: barb
+word: barb
+pos: noun
+zh: 倒钩；倒刺
+en: a sharp backward-facing point on a hook, arrow, or wire
+components:
+  - morpheme: barb
+    form: barb
+    meaning_in_word: beard-like point
+    zh: 倒刺；胡须状物
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: barb 不是 bar 的派生。

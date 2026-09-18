@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: log-cabin
+word: log cabin
+pos: noun
+zh: 小木屋
+en: Means 小木屋; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: log
+    form: log
+    meaning_in_word: 原木；记录
+    zh: 原木；记录
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:log.
+  - morpheme: cabin
+    form: cabin
+    meaning_in_word: 小屋；橱柜；内阁
+    zh: 小屋；橱柜；内阁
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:cabin.
+word_family:
+  - log
+  - logical
+  - logic
+word_family_details:
+  - word: log
+    en: Means 圆木；航海日志；vt. 记录; reviewed from the TOEFL source gloss for learner display.
+    zh: 圆木；航海日志；vt. 记录
+  - word: logical
+    en: Means 合乎逻辑的，合理的; reviewed from the TOEFL source gloss for learner display.
+    zh: 合乎逻辑的，合理的
+  - word: logic
+    en: Means 逻辑，逻辑学; reviewed from the TOEFL source gloss for learner display.
+    zh: 逻辑，逻辑学
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

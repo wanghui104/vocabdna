@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: charity
+display: charity
+type: root
+core_meaning: charity, kindness
+zh: 慈善；仁慈
+origin: Latin
+source_form: Latin caritas
+source_meaning: dearness, love, charity
+source_meaning_zh: 爱；慈善
+related_morphemes:
+  []
+senses:
+  - meaning: charity, kindness
+    zh: 慈善；仁慈
+    examples:
+      - charitable
+      - charity
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - charit -> charitable
+  - charity -> charity
+high_value_words:
+  - charitable
+  - charity
+confusable_words:
+  []

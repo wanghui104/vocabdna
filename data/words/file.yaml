@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: file
+word: file
+pos: noun/verb
+zh: 文件；档案；归档
+en: a collection of records; to organize records for storage
+components:
+  - morpheme: fil-thread
+    form: file
+    meaning_in_word: thread / 线
+    zh: 线
+    role: root
+    is_core: true
+    note: 文件 file 源自把文件穿在线上；队列义也来自线。profile 的 pro- 向前 + fil- 线。锉刀 file 来自古英语另一词源，本词条不混入。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

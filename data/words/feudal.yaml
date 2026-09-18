@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: feudal
+word: feudal
+pos: adjective
+zh: 封建的；封地制度的
+en: relating to a system of landholding in return for service
+components:
+  - morpheme: feud-estate
+    form: feud
+    meaning_in_word: feudal estate / 封地
+    zh: 封地
+    role: root
+    is_core: true
+    note: feudal = feud- 封地 + -al；feudum 的日耳曼财产词源细节不确定，不与 feud 世仇混并。
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - feudalism
+  - feud
+word_family_details:
+  - word: feudalism
+    en: a social system based on holding land in return for service
+    zh: 封建制度
+  - word: feud
+    en: a long bitter quarrel between families or groups; to maintain such a quarrel
+    zh: 世仇；长期争斗
+confusables:
+  - word: feud
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

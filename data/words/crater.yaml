@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crater
+word: crater
+pos: noun
+zh: 火山口；弹坑
+en: a large bowl-shaped hole in the ground or on a planet's surface
+components:
+  - morpheme: crater
+    form: crater
+    meaning_in_word: bowl-shaped hollow
+    zh: 火山口；弹坑
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: volcanic crater 火山口；impact crater 撞击坑。

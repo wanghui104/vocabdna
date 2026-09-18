@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: arms
+word: arms
+pos: noun
+zh: 武器；兵种
+en: weapons, or a branch of military service
+components:
+  - morpheme: army
+    form: arms
+    meaning_in_word: weapons
+    zh: 军队；大群
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

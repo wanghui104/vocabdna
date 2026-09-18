@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: homogenize
+word: homogenize
+pos: verb
+zh: 使均匀
+en: Means 使均匀; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: homo
+    form: homo
+    meaning_in_word: homo
+    zh: 同；相同
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:homo.
+  - morpheme: gene
+    form: gene
+    meaning_in_word: gene
+    zh: 种类；出生
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:gene.
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+    note: Suffix layer from Greek -izein.
+word_family:
+  - heterogeneous
+  - homogeneous
+word_family_details:
+  - word: heterogeneous
+    en: Means 异类的，不同的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 异类的，不同的
+  - word: homogeneous
+    en: Means 同类的；均匀的，同质的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 同类的；均匀的，同质的
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

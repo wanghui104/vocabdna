@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discount
+word: discount
+pos: noun/verb
+zh: 折扣；不全信；怀疑
+en: a reduction in price; to reduce, disregard, or treat as less certain
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: away, less
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: count
+    form: count
+    meaning_in_word: reckon
+    zh: 计算、说明
+    role: root
+    is_core: true
+    note: 表层 count；Latin computare = com- 一起 + putare 计算，经过法语 conter 收缩。discount 再加外层 dis-。
+    related_morphemes:
+      - com
+      - put-reckon
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: discount 作名词是折扣；作动词可指打折或不完全相信。

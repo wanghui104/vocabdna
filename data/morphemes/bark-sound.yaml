@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bark-sound
+display: bark
+type: root
+core_meaning: bark, abrupt cry
+zh: 吠叫；咆哮
+origin: Old English
+source_form: Old English beorcan
+source_meaning: make a dog-like cry
+source_meaning_zh: 吠叫
+related_morphemes:
+  []
+senses:
+  - meaning: bark, abrupt cry
+    zh: 吠叫；咆哮
+    examples:
+      - bark
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bark -> bark
+high_value_words:
+  - bark
+confusable_words:
+  []

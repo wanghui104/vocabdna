@@ -2,32 +2,35 @@
 id: acquaintance
 word: acquaintance
 pos: noun
-zh: 熟人
-en: a person one knows but not very well
+zh: 相识，熟人
+en: Means 相识，熟人; reviewed from the TOEFL source gloss for learner display.
 components:
+  - morpheme: ac
+    form: ac-
+    meaning_in_word: to / 向
+    zh: 向；到
+    role: prefix
+    is_core: false
   - morpheme: quaint-cogn
-    form: acquaint
-    meaning_in_word: make known
+    form: quaint-cogn
+    meaning_in_word: know; acquaint / 知道；熟悉
     zh: 认识、熟悉
     role: root
     is_core: true
-  - morpheme: ence-ance
-    form: -ance
-    meaning_in_word: state or person
-    zh: 状态、性质
-    role: suffix
-    is_core: false
+  - morpheme: ance
+    form: ance
+    meaning_in_word: ance / ance
+    zh: 状态；性质
+    role: root
+    is_core: true
 word_family:
   - acquaint
 word_family_details:
   - word: acquaint
-    en: to make someone familiar with or aware of something
-    zh: 使熟悉；告知
+    en: Means 使熟知，通知; reviewed from the TOEFL source gloss for learner display.
+    zh: 使熟知，通知
 confusables:
-  - word: friend
-    reason: acquaintance 不等于 close friend。
-    zh_reason: acquaintance 不等于 close friend。
+  []
 examples:
-  - en: He is an old acquaintance.
-    zh: 他是一位老熟人。
-why_confusing: acquaintance 不等于 close friend。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

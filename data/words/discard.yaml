@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discard
+word: discard
+pos: verb
+zh: 丢弃
+en: to throw something away or stop using it
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: away
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: card
+    form: card
+    meaning_in_word: card
+    zh: 卡片；纸牌
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: discard 强调不再需要而丢弃。

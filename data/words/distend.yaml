@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distend
+word: distend
+pos: verb
+zh: 扩大；扩张；膨胀
+en: to swell, expand, or stretch outward
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: tend
+    form: tend
+    meaning_in_word: stretch
+    zh: 伸展；指向
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: distend 常用于腹部、组织、容器膨胀。

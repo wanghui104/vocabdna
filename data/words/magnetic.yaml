@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: magnetic
+word: magnetic
+pos: noun
+zh: 磁铁
+en: Means 磁铁; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: magnet
+    form: magnet
+    meaning_in_word: 磁石
+    zh: 磁石
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:magnet.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ic.
+word_family:
+  - magnetism
+  - magnetize
+  - demagnetize
+  - ferromagnetic
+  - geomagnetic
+  - electromagnetic
+word_family_details:
+  - word: magnetism
+    en: Means 磁，磁力; reviewed from the TOEFL source gloss for learner display.
+    zh: 磁，磁力
+  - word: magnetize
+    en: Means 使磁化；吸引; reviewed from the TOEFL source gloss for learner display.
+    zh: 使磁化；吸引
+  - word: demagnetize
+    en: Means 消磁，使退磁; reviewed from the TOEFL source gloss for learner display.
+    zh: 消磁，使退磁
+  - word: ferromagnetic
+    en: Means 铁磁的, 铁磁体; reviewed from the TOEFL source gloss for learner display.
+    zh: 铁磁的, 铁磁体
+  - word: geomagnetic
+    en: Means 地磁的; reviewed from the TOEFL source gloss for learner display.
+    zh: 地磁的
+  - word: electromagnetic
+    en: Means 电磁的; reviewed from the TOEFL source gloss for learner display.
+    zh: 电磁的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

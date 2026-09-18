@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: boardinghouse
+word: boardinghouse
+pos: noun
+zh: 寄宿公寓
+en: a house where people pay for rooms and meals
+components:
+  - morpheme: board
+    form: boarding
+    meaning_in_word: lodging/meals
+    zh: 木板；委员会；膳食；登上交通工具
+    role: root
+    is_core: true
+  - morpheme: house
+    form: house
+    meaning_in_word: house
+    zh: 房屋；公寓
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 也可写 boarding house。

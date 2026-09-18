@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vigil
+display: vigil
+type: root
+core_meaning: watchful
+zh: 警觉
+origin: teaching morphology
+source_form: vigil
+source_meaning: watchful
+source_meaning_zh: 警觉
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: watchful
+    zh: 警觉
+    examples:
+      - vigilance
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - vigil -> vigilance
+high_value_words:
+  - vigilance
+confusable_words:
+  []

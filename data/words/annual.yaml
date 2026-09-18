@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: annual
+word: annual
+pos: adjective/noun
+zh: 每年的；年度的；年刊
+en: happening once every year, or a publication issued yearly
+components:
+  - morpheme: ann
+    form: annu
+    meaning_in_word: year
+    zh: 年
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - annually
+word_family_details:
+  - word: annually
+    en: once every year
+    zh: 每年；一年一次地
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

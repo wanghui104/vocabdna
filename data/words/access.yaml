@@ -14,7 +14,7 @@ components:
   - morpheme: excess-ceed
     form: cess
     meaning_in_word: go
-    zh: 走、前进、让步
+    zh: 走；让步
     role: root
     is_core: true
 word_family:

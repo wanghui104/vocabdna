@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: galactic
+word: galactic
+pos: adjective
+zh: 星系的；银河的
+en: relating to a galaxy
+components:
+  - morpheme: galax
+    form: galact
+    meaning_in_word: milk, Milky Way / 奶；银河
+    zh: 奶；银河
+    role: root
+    is_core: true
+    note: galaxy = galax- + 名词 -y；内部 galaxias 来自 gala/galakt- 奶及希腊名词层 -ias，银河像乳白带；galactic 保存 galact- 词干。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - galaxy
+word_family_details:
+  - word: galaxy
+    en: a huge system of stars, gas, and dust held together by gravity
+    zh: 星系
+confusables:
+  []
+examples:
+  []
+why_confusing: 

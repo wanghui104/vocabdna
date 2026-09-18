@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mote
+display: mote
+type: root
+core_meaning: move
+zh: 移动；促进
+origin: teaching morphology
+source_form: mote
+source_meaning: move
+source_meaning_zh: 移动；促进
+related_morphemes:
+  []
+senses:
+  - meaning: move
+    zh: 移动；促进
+    examples:
+      - promote
+      - promoter
+      - romote
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - mote -> promote
+  - mote -> promoter
+  - mote -> romote
+high_value_words:
+  - promote
+  - promoter
+  - romote
+confusable_words:
+  []

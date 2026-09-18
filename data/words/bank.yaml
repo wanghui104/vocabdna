@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bank
+word: bank
+pos: noun/verb
+zh: 银行；河岸；存放
+en: a financial institution, a raised edge of land, or to deposit money
+components:
+  - morpheme: bank
+    form: bank
+    meaning_in_word: bench, bank
+    zh: 银行；柜台
+    role: root
+    is_core: true
+word_family:
+  - banker
+word_family_details:
+  - word: banker
+    en: a person who owns, manages, or works in a bank
+    zh: 银行家；银行职员
+confusables:
+  []
+examples:
+  []
+why_confusing: bank 还有河岸义，本批 banker/bankruptcy 走金融义。

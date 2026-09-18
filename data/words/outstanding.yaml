@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: outstanding
+word: outstanding
+pos: adjective
+zh: 杰出的，显著的
+en: Means 杰出的，显著的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: out
+    form: out-
+    meaning_in_word: out; beyond / 外；超过
+    zh: 向外；爆发
+    role: prefix
+    is_core: false
+  - morpheme: stand
+    form: stand
+    meaning_in_word: stand / 站立；承受
+    zh: 站立；状态
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: forming adjective or gerund / 形成形容词或动名词
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - stand
+  - standing
+word_family_details:
+  - word: stand
+    en: Means 站立；忍受，容忍; reviewed from the TOEFL source gloss for learner display.
+    zh: 站立；忍受，容忍
+  - word: standing
+    en: Means 固定的，常设的；身分，名望; reviewed from the TOEFL source gloss for learner display.
+    zh: 固定的，常设的；身分，名望
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

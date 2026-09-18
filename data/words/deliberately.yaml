@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deliberately
+word: deliberately
+pos: adverb
+zh: 故意地；审慎地
+en: on purpose, or in a careful and considered way
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: fully
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: liber
+    form: liber
+    meaning_in_word: weigh, consider
+    zh: 权衡；深思
+    role: root
+    is_core: true
+    note: liber-/libr- 在这里来自 Latin libra 天平；deliberare = de- 充分 + librare 权衡。deliberate 的 -ate 是动词或分词形容词结尾；不是 liber 自由、书。
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or do
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - deliberate
+word_family_details:
+  - word: deliberate
+    en: Means 深思熟虑的；故意的; reviewed from the TOEFL source gloss for learner display.
+    zh: 深思熟虑的；故意的
+confusables:
+  []
+examples:
+  []
+why_confusing: 常表示故意，不一定是负面。

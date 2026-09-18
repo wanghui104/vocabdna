@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coordination
+word: coordination
+pos: noun
+zh: 协调；调和；配合
+en: the organization of parts so they work together effectively
+components:
+  - morpheme: con
+    form: co-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: orn-order
+    form: ordin
+    meaning_in_word: order
+    zh: 装饰；安排
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: process
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - coordinate
+  - coordinated
+word_family_details:
+  - word: coordinate
+    en: to organize parts to work together; also equal in rank or a coordinate in geometry
+    zh: 使协调；相配合；同等的；坐标
+  - word: coordinated
+    en: organized so that parts work well together
+    zh: 协调的；配合的
+confusables:
+  []
+examples:
+  []
+why_confusing: hand-eye coordination; coordination among teams.

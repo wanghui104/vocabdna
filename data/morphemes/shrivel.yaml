@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shrivel
+display: shrivel
+type: root
+core_meaning: shrivel
+zh: 枯萎
+origin: uncertain
+source_form: shrivel
+source_meaning: shrivel
+source_meaning_zh: 枯萎
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: shrivel
+    zh: 枯萎
+    examples:
+      - shrivel
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - shrivel -> shrivel
+high_value_words:
+  - shrivel
+confusable_words:
+  []

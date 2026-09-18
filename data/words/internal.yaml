@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: internal
+word: internal
+pos: adjective
+zh: 内在的
+en: Means 内在的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: inter
+    form: inter-
+    meaning_in_word: 在……之间；相互
+    zh: 在……之间；相互
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:inter.
+  - morpheme: n
+    form: n
+    meaning_in_word: n
+    zh: n
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:n.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+word_family:
+  - external
+  - interior
+word_family_details:
+  - word: external
+    en: Means 外部的; reviewed from the TOEFL source gloss for learner display.
+    zh: 外部的
+  - word: interior
+    en: Means 内部（的）; reviewed from the TOEFL source gloss for learner display.
+    zh: 内部（的）
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

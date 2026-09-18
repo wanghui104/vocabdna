@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: meteorite
+word: meteorite
+pos: noun
+zh: 陨星，陨石
+en: Means 陨星，陨石; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: meteor
+    form: meteor
+    meaning_in_word: 空中现象
+    zh: 空中现象
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:meteor.
+  - morpheme: ite
+    form: -ite
+    meaning_in_word: 矿物；相关物
+    zh: 矿物；相关物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ite.
+word_family:
+  - meteor
+  - meteorology
+  - meteorologist
+word_family_details:
+  - word: meteor
+    en: Means 流星; reviewed from the TOEFL source gloss for learner display.
+    zh: 流星
+  - word: meteorology
+    en: Means 气象学; reviewed from the TOEFL source gloss for learner display.
+    zh: 气象学
+  - word: meteorologist
+    en: Means 气象学者; reviewed from the TOEFL source gloss for learner display.
+    zh: 气象学者
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

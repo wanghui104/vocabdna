@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: detest
+word: detest
+pos: verb
+zh: 深恶；憎恶
+en: to hate someone or something very much
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: test-witness
+    form: test
+    meaning_in_word: witness
+    zh: 作证；证明
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: detest 比 dislike 强得多。

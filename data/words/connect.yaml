@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: connect
+word: connect
+pos: verb
+zh: 连接；联系；联合
+en: to join, link, or associate things
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: nex
+    form: nect
+    meaning_in_word: bind, attach
+    zh: 连接；附加
+    role: root
+    is_core: true
+word_family:
+  - connection
+  - disconnect
+word_family_details:
+  - word: connection
+    en: a link or relationship between people or things
+    zh: 连接；联系；关系
+  - word: disconnect
+    en: to break a connection or separate from a supply or network
+    zh: 断开；分离
+confusables:
+  []
+examples:
+  []
+why_confusing: connect A to/with B.

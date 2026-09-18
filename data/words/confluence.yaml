@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confluence
+word: confluence
+pos: noun
+zh: 汇合；聚集；交汇处
+en: a place or situation where things flow or come together
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: flu
+    form: flu
+    meaning_in_word: flow
+    zh: 流动
+    role: root
+    is_core: true
+  - morpheme: ence-ance
+    form: -ence
+    meaning_in_word: state
+    zh: 状态、性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可指河流汇合，也可比喻因素汇聚。

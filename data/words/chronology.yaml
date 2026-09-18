@@ -2,32 +2,29 @@
 id: chronology
 word: chronology
 pos: noun
-zh: 年代顺序；年表
-en: the order of events in time
+zh: 年代学；年表
+en: the order in which events happened, or a timeline
 components:
   - morpheme: chron
-    form: chrono-
+    form: chron
     meaning_in_word: time
     zh: 时间
-    role: combining_form
+    role: root
     is_core: true
-  - morpheme: logy
-    form: -logy
-    meaning_in_word: study of
-    zh: 学科、研究
-    role: suffix
-    is_core: false
+  - morpheme: log
+    form: log
+    meaning_in_word: study/order
+    zh: 原木；记录
+    role: root
+    is_core: true
 word_family:
   - chronological
 word_family_details:
   - word: chronological
-    en: related form of chronological
-    zh: chronological 的相关词
+    en: arranged in the order in which events happened
+    zh: 按年代顺序排列的
 confusables:
-  - word: chronicle
-    reason: chronology 是时间顺序；chronicle 是编年记录。
-    zh_reason: chronology 是时间顺序；chronicle 是编年记录。
+  []
 examples:
-  - en: The report gives a clear chronology of events.
-    zh: 报告给出了清晰的事件时间顺序。
-why_confusing: chronology 是时间顺序；chronicle 是编年记录。
+  []
+why_confusing: chronology 是名词；chronological 是形容词。

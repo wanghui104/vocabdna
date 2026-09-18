@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: as-such
+word: as such
+pos: phrase
+zh: 就本身而论；照此身份
+en: in that exact role, form, or meaning
+components:
+  - morpheme: as-word
+    form: as
+    meaning_in_word: in the role of
+    zh: 如；作为；就
+    role: root
+    is_core: true
+  - morpheme: such
+    form: such
+    meaning_in_word: of this kind
+    zh: 这样的
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

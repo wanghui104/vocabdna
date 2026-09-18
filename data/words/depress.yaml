@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: depress
+word: depress
+pos: verb
+zh: 压下；压低；使沮丧
+en: to press down, lower, or make sad
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: press
+    form: press
+    meaning_in_word: press
+    zh: 压
+    role: root
+    is_core: true
+word_family:
+  - depressed
+  - depression
+word_family_details:
+  - word: depressed
+    en: sad and low in spirit, economically low, or physically lowered
+    zh: 沮丧的；低迷的；凹陷的
+  - word: depression
+    en: a period of low economic activity
+    zh: 不景气；萧条期
+confusables:
+  []
+examples:
+  []
+why_confusing: depress a button 是按下；depress someone 是使沮丧。

@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: expressly
+word: expressly
+pos: adverb
+zh: 明确地；专门地
+en: clearly and explicitly; for a particular purpose
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: press
+    form: press
+    meaning_in_word: press / 压
+    zh: 压
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - expressive
+  - express
+  - expression
+word_family_details:
+  - word: expressive
+    en: effectively showing thoughts or feelings
+    zh: 富于表现力的
+  - word: express
+    en: to put thoughts or feelings into words or signs; stated clearly; a rapid delivery or transport service
+    zh: 表达；明确的；快递或快运
+  - word: expression
+    en: the act of expressing; a phrase; a look showing emotion
+    zh: 表达；措辞；表情
+confusables:
+  []
+examples:
+  []
+why_confusing: 

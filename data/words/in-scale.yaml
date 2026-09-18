@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: in-scale
+word: in scale
+pos: noun
+zh: 相称，成比例
+en: Means 相称，成比例; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: scale
+    form: scale
+    meaning_in_word: 梯；尺度
+    zh: 梯；尺度
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:scale.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

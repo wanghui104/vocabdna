@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intricate
+word: intricate
+pos: adjective
+zh: 复杂的，错综的
+en: Means 复杂的，错综的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: tric
+    form: tric
+    meaning_in_word: 纠结；复杂
+    zh: 纠结；复杂
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:tric.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ate.
+word_family:
+  - intricately
+  - intrigue
+  - intriguing
+word_family_details:
+  - word: intricately
+    en: Means 杂乱地; reviewed from the TOEFL source gloss for learner display.
+    zh: 杂乱地
+  - word: intrigue
+    en: Means 激起…的兴趣; reviewed from the TOEFL source gloss for learner display.
+    zh: 激起…的兴趣
+  - word: intriguing
+    en: Means 吸引人的,引起兴趣(或好奇心)的; reviewed from the TOEFL source gloss for learner display.
+    zh: 吸引人的,引起兴趣(或好奇心)的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

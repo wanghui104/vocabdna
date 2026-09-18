@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ory-place
+display: -ory
+type: suffix
+core_meaning: place for
+zh: ……的场所
+origin: Latin
+source_form: Latin -orium
+source_meaning: place for
+source_meaning_zh: ……的场所
+source_note: dormitory 的 -ory 对应 -orium 场所名词，区别形容词 -ory。
+related_morphemes:
+  []
+senses:
+  - meaning: place for
+    zh: ……的场所
+    examples:
+      - dormitory
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ory -> dormitory
+high_value_words:
+  - dormitory
+confusable_words:
+  []

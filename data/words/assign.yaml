@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assign
+word: assign
+pos: verb
+zh: 分配；指定；布置
+en: to give a task, role, place, or value to someone or something
+components:
+  - morpheme: ad
+    form: as-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: sign
+    form: sign
+    meaning_in_word: mark, designate
+    zh: 标记；符号
+    role: root
+    is_core: true
+word_family:
+  - assignment
+word_family_details:
+  - word: assignment
+    en: a task given to someone or the act of giving something to a person or purpose
+    zh: 任务；作业；分配
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

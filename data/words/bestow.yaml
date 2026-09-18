@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bestow
+word: bestow
+pos: verb
+zh: 给予；赐赠
+en: to give something as an honor or gift
+components:
+  - morpheme: be
+    form: be-
+    meaning_in_word: about
+    zh: 使成为、加强
+    role: prefix
+    is_core: false
+  - morpheme: stow
+    form: stow
+    meaning_in_word: place
+    zh: 放置；赐予
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常搭配 bestow sth on/upon sb。

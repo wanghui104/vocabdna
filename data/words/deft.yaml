@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deft
+word: deft
+pos: adjective
+zh: 灵巧的；熟练的
+en: skillful, quick, and neat in movement or handling
+components:
+  - morpheme: deft
+    form: deft
+    meaning_in_word: skillful handling
+    zh: 灵巧；熟练
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: adept
+    reason: deft at/with 常见；与 adept 近义但来源不同。
+    zh_reason: deft at/with 常见；与 adept 近义但来源不同。
+examples:
+  []
+why_confusing: deft at/with 常见；与 adept 近义但来源不同。

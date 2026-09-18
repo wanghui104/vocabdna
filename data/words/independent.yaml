@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: independent
+word: independent
+pos: adjective/noun
+zh: 独立的；自主的；无党派者
+en: not controlled by or relying on another, or a person not tied to a party
+components:
+  - morpheme: im
+    form: in-
+    meaning_in_word: in, into; not / 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, remove / 向下；去除
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: pend
+    form: pend
+    meaning_in_word: hang, depend / 悬挂；依赖
+    zh: 悬挂；称量；支付
+    role: root
+    is_core: true
+    note: in- 在这里表示“不”，不是 in/into 进入；表层 in- + dependent；内部 de- + pend- 悬挂 + -ent。
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: one who, that which, having the quality of / ……的人；具有……性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: independent of/from 均可见；名词可指无党派人士。

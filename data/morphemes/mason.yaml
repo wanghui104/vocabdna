@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mason
+display: mason
+type: root
+core_meaning: stone worker
+zh: 石匠
+origin: Old French/Germanic
+source_form: Old French masson
+source_meaning: stone worker
+source_meaning_zh: 石匠
+related_morphemes:
+  []
+senses:
+  - meaning: stone worker
+    zh: 石匠
+    examples:
+      - mason
+      - masonry
+      - stonemason
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - mason -> mason
+  - mason -> masonry
+  - mason -> stonemason
+high_value_words:
+  - mason
+  - masonry
+  - stonemason
+confusable_words:
+  []

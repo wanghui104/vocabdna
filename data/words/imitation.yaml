@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: imitation
+word: imitation
+pos: noun
+zh: 模仿；仿制品
+en: Means 模仿；仿制品; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: imit
+    form: imit
+    meaning_in_word: 模仿
+    zh: 模仿
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:imit.
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: 动作；过程
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ation.
+word_family:
+  - imitate
+word_family_details:
+  - word: imitate
+    en: Means 仿效，模仿; reviewed from the TOEFL source gloss for learner display.
+    zh: 仿效，模仿
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

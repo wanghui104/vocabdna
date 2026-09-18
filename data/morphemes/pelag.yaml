@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pelag
+display: pelag
+type: root
+core_meaning: sea, open sea
+zh: 海；外海
+origin: Greek
+source_form: Greek pelagos
+source_meaning: sea, open sea
+source_meaning_zh: 海；外海
+related_morphemes:
+  []
+senses:
+  - meaning: sea, open sea
+    zh: 海；外海
+    examples:
+      - archipelago
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pelago -> archipelago
+high_value_words:
+  - archipelago
+confusable_words:
+  []

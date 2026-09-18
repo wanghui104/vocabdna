@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consider
+word: consider
+pos: verb
+zh: 考虑；认为
+en: to think carefully about something or regard it in a particular way
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: sid
+    form: sider
+    meaning_in_word: observe
+    zh: 观察；考虑
+    role: root
+    is_core: true
+word_family:
+  - considerable
+  - considerably
+  - considerate
+  - consideration
+word_family_details:
+  - word: considerable
+    en: large or important enough to be noticed
+    zh: 相当大的；值得考虑的；可观的
+  - word: considerably
+    en: by a large amount or degree
+    zh: 相当地；非常
+  - word: considerate
+    en: careful not to upset or inconvenience others
+    zh: 考虑周到的；体贴的
+  - word: consideration
+    en: careful thought, concern for others, or a factor to be considered
+    zh: 考虑；体谅；因素
+confusables:
+  []
+examples:
+  []
+why_confusing: consider doing; consider someone/something adj.

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discomfort
+word: discomfort
+pos: noun
+zh: 不适；不舒服
+en: physical or emotional unease or mild pain
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: lack of, opposite
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: comfort
+    form: comfort
+    meaning_in_word: comfort, ease
+    zh: 加强；安慰
+    role: root
+    is_core: true
+    note: 表层 comfort；Latin confortare = con- 加强 + fortis 强壮，使人恢复力量而得到安慰。discomfort 再加外层否定 dis-。
+    related_morphemes:
+      - con
+      - fort
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: discomfort 通常比 pain 轻。

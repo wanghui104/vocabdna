@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tropic
+display: tropic
+type: root
+core_meaning: turn; tropic
+zh: 热带
+origin: teaching morphology
+source_form: tropic
+source_meaning: turn; tropic
+source_meaning_zh: 热带
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: turn; tropic
+    zh: 热带
+    examples:
+      - tropical
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tropic -> tropical
+high_value_words:
+  - tropical
+confusable_words:
+  []

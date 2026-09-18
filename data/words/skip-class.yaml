@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: skip-class
+word: skip class
+pos: phrase
+zh: 旷课
+en: Means 旷课; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: skip
+    form: skip
+    meaning_in_word: skip; jump / 跳过
+    zh: 跳过
+    role: root
+    is_core: true
+  - morpheme: class
+    form: class
+    meaning_in_word: class / 课堂；类别
+    zh: 分类；等级
+    role: root
+    is_core: true
+word_family:
+  - skip
+word_family_details:
+  - word: skip
+    en: Means 跳；逃过；遗漏; reviewed from the TOEFL source gloss for learner display.
+    zh: 跳；逃过；遗漏
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bald
+word: bald
+pos: adjective
+zh: 秃的；无毛的
+en: having little or no hair, or plain and without extra detail
+components:
+  - morpheme: bald
+    form: bald
+    meaning_in_word: bare or white-marked
+    zh: 秃的；白头的
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: a bald statement 指直白无修饰的话。

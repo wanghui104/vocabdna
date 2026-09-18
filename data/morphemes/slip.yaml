@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: slip
+display: slip
+type: root
+core_meaning: slip
+zh: 滑；片
+origin: Middle English
+source_form: slip
+source_meaning: slip
+source_meaning_zh: 滑；片
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: slip
+    zh: 滑；片
+    examples:
+      - slip
+      - slip one's mind
+      - slipper
+      - slippery
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - slip -> slip
+  - slip -> slip one's mind
+  - slip -> slipper
+  - slip -> slippery
+high_value_words:
+  - slip
+  - slip one's mind
+  - slipper
+  - slippery
+confusable_words:
+  []

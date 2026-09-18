@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: penalty
+word: penalty
+pos: noun
+zh: 处罚，罚款
+en: Means 处罚，罚款; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pen
+    form: pen
+    meaning_in_word: penalty; punish / 惩罚
+    zh: 惩罚
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 相关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+  - morpheme: ty
+    form: ty
+    meaning_in_word: ty / ty
+    zh: ty
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

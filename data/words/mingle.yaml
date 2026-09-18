@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mingle
+word: mingle
+pos: verb
+zh: （使）混合
+en: Means （使）混合; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mingl
+    form: mingl
+    meaning_in_word: 混合
+    zh: 混合
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mingl.
+word_family:
+  - mingling
+word_family_details:
+  - word: mingling
+    en: Means 混合的; reviewed from the TOEFL source gloss for learner display.
+    zh: 混合的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

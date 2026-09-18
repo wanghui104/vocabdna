@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pillar
+display: pillar
+type: root
+core_meaning: pillar
+zh: 柱
+origin: teaching morphology
+source_form: pillar
+source_meaning: pillar
+source_meaning_zh: 柱
+related_morphemes:
+  []
+senses:
+  - meaning: pillar
+    zh: 柱
+    examples:
+      - pillar
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pillar -> pillar
+high_value_words:
+  - pillar
+confusable_words:
+  []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: boundless
+word: boundless
+pos: adjective
+zh: 无限的；无边无际的
+en: having no limits
+components:
+  - morpheme: bound-limit
+    form: bound
+    meaning_in_word: limit
+    zh: 界限；边界
+    role: root
+    is_core: true
+  - morpheme: less
+    form: -less
+    meaning_in_word: without
+    zh: 无；没有
+    role: suffix
+    is_core: false
+word_family:
+  - bound
+word_family_details:
+  - word: bound
+    en: tied or obliged, or a limit
+    zh: 被束缚的；有义务的；范围；限制
+confusables:
+  []
+examples:
+  []
+why_confusing: boundless energy/enthusiasm 常见。

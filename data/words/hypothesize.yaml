@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hypothesize
+word: hypothesize
+pos: verb
+zh: 假设，假定
+en: Means 假设，假定; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: hypo
+    form: hypo-
+    meaning_in_word: 在下；假设层
+    zh: 在下；假设层
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:hypo.
+  - morpheme: thes
+    form: thes
+    meaning_in_word: 放置；命题
+    zh: 放置；命题
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:thes.
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ize.
+word_family:
+  - hypothesis
+word_family_details:
+  - word: hypothesis
+    en: Means 假设; reviewed from the TOEFL source gloss for learner display.
+    zh: 假设
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

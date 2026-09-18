@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: caterpillar
+display: caterpillar
+type: root
+core_meaning: caterpillar
+zh: 毛虫
+origin: Mixed
+source_form: Old French chatepelose
+source_meaning: hairy cat
+source_meaning_zh: 毛猫；毛虫
+related_morphemes:
+  []
+senses:
+  - meaning: caterpillar
+    zh: 毛虫
+    examples:
+      - caterpillar
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - caterpillar -> caterpillar
+high_value_words:
+  - caterpillar
+confusable_words:
+  []

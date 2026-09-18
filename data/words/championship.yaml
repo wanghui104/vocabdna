@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: championship
+word: championship
+pos: noun
+zh: 锦标赛；冠军称号
+en: a competition for the champion title, or the title itself
+components:
+  - morpheme: camp
+    form: champion
+    meaning_in_word: champion
+    zh: 场地；竞选；冠军
+    role: root
+    is_core: true
+  - morpheme: ship
+    form: -ship
+    meaning_in_word: state, office
+    zh: 状态；资格
+    role: suffix
+    is_core: false
+word_family:
+  - champion
+word_family_details:
+  - word: champion
+    en: a winner in a competition, or to support a cause strongly
+    zh: 冠军；拥护；支持
+confusables:
+  []
+examples:
+  []
+why_confusing: championship 可指赛事，也可指冠军头衔。

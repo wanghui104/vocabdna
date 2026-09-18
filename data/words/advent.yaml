@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: advent
+word: advent
+pos: noun
+zh: 出现；到来
+en: the arrival or beginning of an important event, period, or invention
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: ven-vent
+    form: vent
+    meaning_in_word: come
+    zh: 来到；出现
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The advent of satellites changed communication.
+    zh: 卫星的出现改变了通信。
+why_confusing: 常见搭配 the advent of technology/printing/the internet。

@@ -1,0 +1,55 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: immigrant
+word: immigrant
+pos: noun
+zh: （从外国移入的）移民，侨民
+en: Means （从外国移入的）移民，侨民; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:im.
+  - morpheme: migr
+    form: migr
+    meaning_in_word: 迁移
+    zh: 迁移
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:migr.
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: 具有…性质；正在…
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ant.
+word_family:
+  - migrant
+  - emigrant
+  - migrate
+  - migration
+  - migratory
+word_family_details:
+  - word: migrant
+    en: Means 候鸟；移民; reviewed from the TOEFL source gloss for learner display.
+    zh: 候鸟；移民
+  - word: emigrant
+    en: Means 移居外国者，移民; reviewed from the TOEFL source gloss for learner display.
+    zh: 移居外国者，移民
+  - word: migrate
+    en: Means 移动，迁徙; reviewed from the TOEFL source gloss for learner display.
+    zh: 移动，迁徙
+  - word: migration
+    en: Means 定期迁移；迁居; reviewed from the TOEFL source gloss for learner display.
+    zh: 定期迁移；迁居
+  - word: migratory
+    en: Means 迁移的；流浪的; reviewed from the TOEFL source gloss for learner display.
+    zh: 迁移的；流浪的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

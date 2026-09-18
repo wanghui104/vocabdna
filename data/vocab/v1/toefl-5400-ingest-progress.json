@@ -1,21 +1,33 @@
 {
   "workbook": "_appendix/NewOriental_TOEFL_5400.xlsx",
   "batchTargetRows": 50,
-  "completedThroughSheet": "1-1000",
-  "completedThroughRow": 105,
-  "completedThroughNo": 94,
-  "nextStartSheet": "1-1000",
-  "nextStartRow": 106,
-  "nextStartNo": 95,
+  "completedThroughSheet": "5001-5400",
+  "completedThroughRow": 440,
+  "completedThroughNo": 5396,
+  "nextStartSheet": null,
+  "nextStartRow": null,
+  "nextStartNo": null,
   "lastBatch": {
-    "sheet": "1-1000",
-    "startRow": 55,
-    "endRow": 105,
-    "excelRowsCovered": 51,
-    "logicalWordsProcessed": 45,
-    "firstWord": "accidental",
-    "lastWord": "acumen",
+    "sheet": "5001-5400",
+    "startRow": 221,
+    "endRow": 440,
+    "startNo": 5201,
+    "endNo": 5396,
+    "excelRowsCovered": 220,
+    "logicalWordsProcessed": 196,
+    "uniqueCanonicalSlugs": 196,
+    "firstWord": "varied",
+    "lastWord": "ozone",
     "commit": null
   },
-  "updatedAt": "2026-09-01"
+  "updatedAt": "2026-09-14T18:33:09.863020+00:00",
+  "lastReview": {
+    "range": "5201-5400",
+    "report": "data/vocab/v1/reviews/review-5201-5400.md",
+    "json": "data/vocab/v1/reviews/review-5201-5400.json",
+    "reviewedAt": "2026-09-14T14:33:09",
+    "newCanonicalWords": 164,
+    "nextReviewNo": null
+  },
+  "allSourceCompleted": true
 }

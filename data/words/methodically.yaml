@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: methodically
+word: methodically
+pos: verb/adverb
+zh: 有条理地；井然地
+en: Means 有条理地；井然地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: method
+    form: method
+    meaning_in_word: 方法
+    zh: 方法
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:method.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ic.
+  - morpheme: ally
+    form: -ally
+    meaning_in_word: 以……方式
+    zh: 以……方式
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ally.
+word_family:
+  - methodology
+word_family_details:
+  - word: methodology
+    en: Means 方法论，方法学; reviewed from the TOEFL source gloss for learner display.
+    zh: 方法论，方法学
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

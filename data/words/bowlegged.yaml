@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bowlegged
+word: bowlegged
+pos: adjective
+zh: 弯脚的；弓形腿的
+en: having legs that curve outward like a bow
+components:
+  - morpheme: bow-arch
+    form: bow
+    meaning_in_word: curved
+    zh: 弓；弓形
+    role: root
+    is_core: true
+  - morpheme: leg
+    form: leg
+    meaning_in_word: leg
+    zh: 腿
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 也写 bow-legged。

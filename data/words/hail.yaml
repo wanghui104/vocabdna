@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hail
+word: hail
+pos: noun/verb
+zh: 冰雹 / 致敬，向…欢呼
+en: Means 冰雹 / 致敬，向…欢呼; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hail
+    form: hail
+    meaning_in_word: 冰雹；欢呼/招呼
+    zh: 冰雹；致敬，向…欢呼
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:hail.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

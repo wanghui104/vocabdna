@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: boost
+display: boost
+type: root
+core_meaning: boost
+zh: 提高；促进
+origin: Unknown
+source_form: American English boost
+source_meaning: lift, push up
+source_meaning_zh: 向上推；提高
+related_morphemes:
+  []
+senses:
+  - meaning: boost
+    zh: 提高；促进
+    examples:
+      - boost
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - boost -> boost
+high_value_words:
+  - boost
+confusable_words:
+  []

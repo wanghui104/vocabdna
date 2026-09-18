@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prod
+display: prod
+type: root
+core_meaning: prod; push
+zh: 戳；推动
+origin: teaching morphology
+source_form: prod
+source_meaning: prod; push
+source_meaning_zh: 戳；推动
+related_morphemes:
+  []
+senses:
+  - meaning: prod; push
+    zh: 戳；推动
+    examples:
+      - prod
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - prod -> prod
+high_value_words:
+  - prod
+confusable_words:
+  []

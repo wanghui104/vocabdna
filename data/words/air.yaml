@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: air
+word: air
+pos: noun/verb
+zh: 空气；空中
+en: the invisible gases around the earth, or the space above the ground
+components:
+  - morpheme: aer
+    form: air
+    meaning_in_word: air, atmosphere
+    zh: 空气；大气
+    role: root
+    is_core: true
+word_family:
+  - airborne
+word_family_details:
+  - word: airborne
+    en: carried through the air or transported by aircraft
+    zh: 空气传播的；空运的；空降的
+confusables:
+  []
+examples:
+  - en: Warm air rises.
+    zh: 暖空气会上升。
+  - en: Open the windows to air the room.
+    zh: 打开窗户给房间通风。
+why_confusing: air 作动词可指通风；on the air 指广播中。

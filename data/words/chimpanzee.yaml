@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chimpanzee
+word: chimpanzee
+pos: noun
+zh: 黑猩猩
+en: a large African ape closely related to humans
+components:
+  - morpheme: chimpanzee
+    form: chimpanzee
+    meaning_in_word: ape
+    zh: 黑猩猩
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常简称 chimp。

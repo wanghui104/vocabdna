@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coalition
+word: coalition
+pos: noun
+zh: 联合；同盟
+en: a temporary alliance of groups, parties, or countries
+components:
+  - morpheme: com
+    form: co-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: coalesce
+    form: alit
+    meaning_in_word: grow together
+    zh: 联合；合并
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: state
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: coalition government 是联合政府。

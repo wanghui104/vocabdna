@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adjust
+word: adjust
+pos: verb
+zh: 调整；使适于
+en: to change something slightly so it works better or fits a situation
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: juxta
+    form: just
+    meaning_in_word: near, fit
+    zh: 靠近；相邻
+    role: root
+    is_core: true
+    note: Historically from Late Latin adiuxtare 'bring near'; later influenced by just.
+word_family:
+  - adjustment
+word_family_details:
+  - word: adjustment
+    en: a small change made so something fits or works better
+    zh: 调整
+confusables:
+  - word: adapt
+    reason: adjust 可指微调；adapt 更偏适应新环境。
+    zh_reason: adjust 可指微调；adapt 更偏适应新环境。
+examples:
+  - en: Adjust the microscope before recording data.
+    zh: 记录数据前先调整显微镜。
+why_confusing: adjust 可指微调；adapt 更偏适应新环境。

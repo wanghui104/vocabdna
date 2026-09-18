@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hurdle
+word: hurdle
+pos: noun/verb
+zh: 栏架；障碍；跨越；克服
+en: a barrier in a race or a difficulty to overcome; to jump over a barrier or overcome a difficulty
+components:
+  - morpheme: hurdle
+    form: hurdle
+    meaning_in_word: barrier to cross / 待跨越的栏障
+    zh: 栏障；待跨越或克服的障碍
+    role: root
+    is_core: true
+    note: 现代英语以 hurdle 为整体基础词干；古英语 hyrdel 的历史小称结构在词源说明中展示。
+word_family:
+  - hurdler
+  - hurdling
+  - hurdles
+word_family_details:
+  - word: hurdler
+    en: an athlete who competes in races involving jumps over barriers
+    zh: 跨栏运动员
+  - word: hurdling
+    en: the sport or action of jumping over barriers; also the present participle of hurdle
+    zh: 跨栏运动；正在跨越
+  - word: hurdles
+    en: a race with barriers to jump over; plural barriers or difficulties; also the third-person singular form of the verb hurdle
+    zh: 跨栏赛；栏架或障碍的复数；hurdle 的第三人称单数
+confusables:
+  - word: obstacle
+    reason: hurdle 强调待跨越的障碍；obstacle 泛指阻碍；barrier 强调阻挡或隔开。hurtle 是急速、猛烈地移动，hurl 是用力投掷。hurdle 与 hurtle 拼写及词源不同。常见搭配：a major hurdle、clear a hurdle、overcome a hurdle。过去式／过去分词 hurdled，进行形式 hurdling。
+    zh_reason: hurdle 强调待跨越的障碍；obstacle 泛指阻碍；barrier 强调阻挡或隔开。hurtle 是急速、猛烈地移动，hurl 是用力投掷。hurdle 与 hurtle 拼写及词源不同。常见搭配：a major hurdle、clear a hurdle、overcome a hurdle。过去式／过去分词 hurdled，进行形式 hurdling。
+  - word: barrier
+    reason: hurdle 强调待跨越的障碍；obstacle 泛指阻碍；barrier 强调阻挡或隔开。hurtle 是急速、猛烈地移动，hurl 是用力投掷。hurdle 与 hurtle 拼写及词源不同。常见搭配：a major hurdle、clear a hurdle、overcome a hurdle。过去式／过去分词 hurdled，进行形式 hurdling。
+    zh_reason: hurdle 强调待跨越的障碍；obstacle 泛指阻碍；barrier 强调阻挡或隔开。hurtle 是急速、猛烈地移动，hurl 是用力投掷。hurdle 与 hurtle 拼写及词源不同。常见搭配：a major hurdle、clear a hurdle、overcome a hurdle。过去式／过去分词 hurdled，进行形式 hurdling。
+  - word: hurl
+    reason: hurdle 强调待跨越的障碍；obstacle 泛指阻碍；barrier 强调阻挡或隔开。hurtle 是急速、猛烈地移动，hurl 是用力投掷。hurdle 与 hurtle 拼写及词源不同。常见搭配：a major hurdle、clear a hurdle、overcome a hurdle。过去式／过去分词 hurdled，进行形式 hurdling。
+    zh_reason: hurdle 强调待跨越的障碍；obstacle 泛指阻碍；barrier 强调阻挡或隔开。hurtle 是急速、猛烈地移动，hurl 是用力投掷。hurdle 与 hurtle 拼写及词源不同。常见搭配：a major hurdle、clear a hurdle、overcome a hurdle。过去式／过去分词 hurdled，进行形式 hurdling。
+examples:
+  - en: The runner clipped the last hurdle but kept going.
+    zh: 这名跑者碰到了最后一道栏架，但继续向前跑。
+  - en: Finding enough volunteers was the first hurdle.
+    zh: 找到足够的志愿者是第一道难关。
+  - en: She hurdled the low fence and ran into the field.
+    zh: 她跨过矮围栏，跑进了田野。
+  - en: The team must hurdle several technical obstacles before launch.
+    zh: 团队必须克服几个技术障碍才能推出产品。
+  - en: The farmer moved a hurdle to widen the sheep pen.
+    zh: 农夫挪动了一片活动篱笆，把羊圈扩大了。
+why_confusing: hurdle 强调待跨越的障碍；obstacle 泛指阻碍；barrier 强调阻挡或隔开。hurtle 是急速、猛烈地移动，hurl 是用力投掷。hurdle 与 hurtle 拼写及词源不同。常见搭配：a major hurdle、clear a hurdle、overcome a hurdle。过去式／过去分词 hurdled，进行形式 hurdling。

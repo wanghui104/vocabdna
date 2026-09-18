@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fog
+word: fog
+pos: noun/verb
+zh: 雾；使模糊
+en: a thick cloud of tiny water droplets near the ground; to cover or obscure with fog
+components:
+  - morpheme: fog
+    form: fog
+    meaning_in_word: mist / 雾
+    zh: 雾
+    role: root
+    is_core: true
+    note: 借入或由 foggy 逆构的路径未定；foggy/fogged 的双 g 是拼写规则。
+word_family:
+  - fogged
+  - foggy
+word_family_details:
+  - word: fogged
+    en: made cloudy or obscured; of photographic material, affected by unwanted exposure
+    zh: 模糊的；蒙雾的；起灰雾的
+  - word: foggy
+    en: full of fog
+    zh: 多雾的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

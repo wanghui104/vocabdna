@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cosmopolitan
+word: cosmopolitan
+pos: adjective/noun
+zh: 世界性的；全球的；四海为家者
+en: made up of people or elements from many countries, or at home in the world
+components:
+  - morpheme: cosm
+    form: cosmo
+    meaning_in_word: world
+    zh: 世界；宇宙
+    role: root
+    is_core: true
+  - morpheme: polis
+    form: polit
+    meaning_in_word: citizen
+    zh: 城市；公民
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cosmopolitan city/person/magazine 含义随语境变化。

@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: divorce
+word: divorce
+pos: noun/verb
+zh: 离婚；使分离
+en: the legal ending of a marriage; to end a marriage or separate things
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: vorce
+    meaning_in_word: turn / 转、转向
+    zh: 转、转向
+    role: root
+    is_core: true
+    note: di- 分开 + vorce-，经 French divorce ← Latin divortium，关联 divertere 转开（vert-/vers-）。保留法语词形变化，不能把 vorce 解作 vor- 吞食。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: di- 分开 + vorce-，经 French divorce ← Latin divortium，关联 divertere 转开（vert-/vers-）。保留法语词形变化，不能把 vorce 解作 vor- 吞食。

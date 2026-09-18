@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mighty
+word: mighty
+pos: adjective
+zh: 强大的，巨大的
+en: Means 强大的，巨大的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mighty
+    form: mighty
+    meaning_in_word: 强大
+    zh: 强大
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mighty.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

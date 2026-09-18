@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chafe
+word: chafe
+pos: verb
+zh: 擦热；擦破；使恼火
+en: to rub skin sore, or make someone irritated
+components:
+  - morpheme: chafe
+    form: chafe
+    meaning_in_word: heat by rubbing
+    zh: 擦热；激怒
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: chafe at restrictions 表示对限制感到恼火。

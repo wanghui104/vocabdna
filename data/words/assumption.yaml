@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assumption
+word: assumption
+pos: noun
+zh: 假设；承担；就职
+en: something taken as true, or the act of taking up a role or position
+components:
+  - morpheme: ad
+    form: as-
+    meaning_in_word: to, up to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: sum
+    form: sumpt
+    meaning_in_word: take up
+    zh: 拿起；承担
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act or result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - assume
+word_family_details:
+  - word: assume
+    en: to suppose something is true or to take on a role, duty, or appearance
+    zh: 假定；承担；采用
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

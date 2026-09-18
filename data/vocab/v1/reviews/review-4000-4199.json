@@ -1,0 +1,481 @@
+{
+  "batch": "4000-4199",
+  "sourceRange": [
+    {
+      "sheet": "3001-4000",
+      "startRow": 1098,
+      "endRow": 1098
+    },
+    {
+      "sheet": "4001-5000",
+      "startRow": 2,
+      "endRow": 225
+    }
+  ],
+  "startNo": 4000,
+  "endNo": 4199,
+  "logicalWords": 200,
+  "uniqueCanonicalSlugs": 200,
+  "existingBeforeReview": 23,
+  "missingBeforeReview": 177,
+  "newCanonicalWords": 177,
+  "verifiedWordSlugs": [
+    "rehabilitation",
+    "rehearse",
+    "reign",
+    "reigning",
+    "sovereignty",
+    "reimburse",
+    "reinforce",
+    "reinterpretation",
+    "reiterate",
+    "reject",
+    "rejection",
+    "rejuvenate",
+    "rekindle",
+    "relax",
+    "relaxed",
+    "relaxation",
+    "relay",
+    "release",
+    "relevant",
+    "relevance",
+    "nonrelevant",
+    "irrelevant",
+    "reliable",
+    "reliant",
+    "reliance",
+    "reliability",
+    "relic",
+    "relieve",
+    "relieved",
+    "religion",
+    "religious",
+    "reluctant",
+    "remainder",
+    "remaining",
+    "remark",
+    "remarkable",
+    "remarkably",
+    "remedy",
+    "remind",
+    "reminder",
+    "remnant",
+    "romote",
+    "renaissance",
+    "render",
+    "rendering",
+    "surrender",
+    "rendition",
+    "renew",
+    "renewal",
+    "renewable",
+    "renounce",
+    "renunciation",
+    "renovate",
+    "renovation",
+    "rent",
+    "rentable",
+    "rental",
+    "reorient",
+    "repel",
+    "repertoire",
+    "repertory",
+    "repetition",
+    "replace",
+    "replenish",
+    "replica",
+    "replicate",
+    "represent",
+    "representation",
+    "representative",
+    "repress",
+    "reproductive",
+    "reproduce",
+    "reproduction",
+    "reptile",
+    "repulse",
+    "repute",
+    "reputed",
+    "disrepute",
+    "rescue",
+    "resemble",
+    "resemblance",
+    "resent",
+    "resentful",
+    "reserve",
+    "be-reserved-to",
+    "preserve",
+    "reservoir",
+    "reside",
+    "resident",
+    "residential",
+    "residence",
+    "residue",
+    "residual",
+    "resist",
+    "resistant",
+    "resistance",
+    "irresistible",
+    "resolute",
+    "resolve",
+    "resolution",
+    "resonance",
+    "resort",
+    "resource",
+    "respect",
+    "aspect",
+    "disrespect",
+    "respective",
+    "respectively",
+    "respiration",
+    "respiratory",
+    "respond",
+    "correspond",
+    "correspondence",
+    "corresponding",
+    "responsible",
+    "responsibility",
+    "irresponsible",
+    "responsive",
+    "restore",
+    "restoration",
+    "restraint",
+    "restrain",
+    "unrestrained",
+    "restrict",
+    "restriction",
+    "restrictive",
+    "unrestricted",
+    "retail",
+    "retailer",
+    "tailor",
+    "retain",
+    "retentive",
+    "retire",
+    "retirement",
+    "retool",
+    "retract",
+    "retreat",
+    "retrieve",
+    "retriever",
+    "retrospect",
+    "retrospective",
+    "reveal",
+    "revere",
+    "revered",
+    "reverently",
+    "irreverent",
+    "irreverence",
+    "reverse",
+    "reversible",
+    "irreversible",
+    "revise",
+    "revision",
+    "revitalization",
+    "revive",
+    "revival",
+    "revolt",
+    "revolutionize",
+    "revolution",
+    "revolutionary",
+    "rhetoric",
+    "rhythm",
+    "rhythmic",
+    "rhythmical",
+    "ridge",
+    "ridiculous",
+    "ridicule",
+    "rifle",
+    "rift",
+    "drift",
+    "driftwood",
+    "snowdrift",
+    "rigid",
+    "frigid",
+    "rigidity",
+    "rigorous",
+    "rigor",
+    "rinse",
+    "riot",
+    "rip",
+    "drip",
+    "dripstone",
+    "ripe",
+    "ripen",
+    "risky",
+    "frisky",
+    "briskness",
+    "rite",
+    "ritual",
+    "rival",
+    "rivalry",
+    "roam",
+    "roar",
+    "roast",
+    "robust",
+    "rod",
+    "role",
+    "roll",
+    "roost",
+    "rooster",
+    "rotate"
+  ],
+  "multiMorphemeOrCompoundAfterReview": 166,
+  "intentionalBottomRootsAfterReview": 34,
+  "intentionalBottomRootSlugs": [
+    "reign",
+    "relic",
+    "remedy",
+    "rent",
+    "repertoire",
+    "rescue",
+    "resemble",
+    "resent",
+    "reservoir",
+    "residue",
+    "retail",
+    "tailor",
+    "retreat",
+    "reveal",
+    "rhetoric",
+    "rhythm",
+    "ridge",
+    "rifle",
+    "rift",
+    "rigor",
+    "rinse",
+    "riot",
+    "rip",
+    "ripe",
+    "rite",
+    "rival",
+    "roam",
+    "roar",
+    "roast",
+    "robust",
+    "rod",
+    "role",
+    "roll",
+    "roost"
+  ],
+  "weakRootWordsAfterReview": 0,
+  "templateResidueCount": 0,
+  "templateResidueSlugs": [],
+  "representativeSplits": [
+    {
+      "slug": "rehabilitation",
+      "split": [
+        "re",
+        "habil",
+        "itation"
+      ]
+    },
+    {
+      "slug": "rehearse",
+      "split": [
+        "re",
+        "hears",
+        "e"
+      ]
+    },
+    {
+      "slug": "reigning",
+      "split": [
+        "reign",
+        "ing"
+      ]
+    },
+    {
+      "slug": "sovereignty",
+      "split": [
+        "sovereign",
+        "ty"
+      ]
+    },
+    {
+      "slug": "reimburse",
+      "split": [
+        "re",
+        "imburse"
+      ]
+    },
+    {
+      "slug": "reinforce",
+      "split": [
+        "re",
+        "in",
+        "force"
+      ]
+    },
+    {
+      "slug": "reinterpretation",
+      "split": [
+        "re",
+        "interpret",
+        "ation"
+      ]
+    },
+    {
+      "slug": "reiterate",
+      "split": [
+        "re",
+        "iter",
+        "ate"
+      ]
+    },
+    {
+      "slug": "reject",
+      "split": [
+        "re",
+        "ject"
+      ]
+    },
+    {
+      "slug": "rejection",
+      "split": [
+        "re",
+        "ject",
+        "ion"
+      ]
+    },
+    {
+      "slug": "rejuvenate",
+      "split": [
+        "re",
+        "juven",
+        "ate"
+      ]
+    },
+    {
+      "slug": "rekindle",
+      "split": [
+        "re",
+        "kindle"
+      ]
+    },
+    {
+      "slug": "relax",
+      "split": [
+        "re",
+        "lax"
+      ]
+    },
+    {
+      "slug": "relaxed",
+      "split": [
+        "re",
+        "lax",
+        "ed"
+      ]
+    },
+    {
+      "slug": "relaxation",
+      "split": [
+        "re",
+        "lax",
+        "ation"
+      ]
+    },
+    {
+      "slug": "relay",
+      "split": [
+        "re",
+        "lay"
+      ]
+    },
+    {
+      "slug": "release",
+      "split": [
+        "re",
+        "lease"
+      ]
+    },
+    {
+      "slug": "relevant",
+      "split": [
+        "re",
+        "lev",
+        "ant"
+      ]
+    },
+    {
+      "slug": "relevance",
+      "split": [
+        "re",
+        "lev",
+        "ance"
+      ]
+    },
+    {
+      "slug": "nonrelevant",
+      "split": [
+        "non",
+        "re",
+        "lev",
+        "ant"
+      ]
+    },
+    {
+      "slug": "irrelevant",
+      "split": [
+        "ir",
+        "re",
+        "lev",
+        "ant"
+      ]
+    },
+    {
+      "slug": "reliable",
+      "split": [
+        "re",
+        "liable"
+      ]
+    },
+    {
+      "slug": "reliant",
+      "split": [
+        "re",
+        "li",
+        "ant"
+      ]
+    },
+    {
+      "slug": "reliance",
+      "split": [
+        "re",
+        "li",
+        "ance"
+      ]
+    },
+    {
+      "slug": "reliability",
+      "split": [
+        "re",
+        "li",
+        "able",
+        "ity"
+      ]
+    },
+    {
+      "slug": "relieve",
+      "split": [
+        "re",
+        "liev",
+        "e"
+      ]
+    }
+  ],
+  "sourceNotes": [
+    "User requested start at 4000, so this review includes already-ingested 4000 `rehabilitation` plus 4001-4199 from the next sheet.",
+    "Source spelling `romote` from row 44 was preserved and marked as probable remote."
+  ],
+  "validation": {
+    "validate:vocab": "passed",
+    "generate:vocab": "passed",
+    "build:static": "passed",
+    "tsc --noEmit": "passed",
+    "audit-current-toefl-batch": "passed for 4001-4199 sheet range"
+  },
+  "mainIssue": "Primary work was adding missing canonical entries and drilling learner-visible morphology. After second-pass review, no unresolved root-breakdown defects or template residues remain; remaining one-part entries are intentional bottom roots or opaque common/loan/animal/material bases."
+}

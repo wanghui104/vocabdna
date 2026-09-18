@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: screwdriver
+word: screwdriver
+pos: noun
+zh: 螺丝刀
+en: Means 螺丝刀; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: screw
+    form: screw
+    meaning_in_word: screw / 螺旋
+    zh: 螺丝；拧紧
+    role: root
+    is_core: true
+  - morpheme: drive
+    form: drive
+    meaning_in_word: drive / 驱动
+    zh: 驱动；推进
+    role: root
+    is_core: true
+  - morpheme: er
+    form: -er
+    meaning_in_word: person or thing / 人或物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

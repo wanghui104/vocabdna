@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foment
+word: foment
+pos: verb
+zh: 煽动；助长
+en: to encourage the growth of unrest or conflict
+components:
+  - morpheme: foment
+    form: foment
+    meaning_in_word: warm, apply a warm dressing / 温暖；热敷
+    zh: 温暖；热敷
+    role: root
+    is_core: true
+    note: foment 的深层 fovere 温暖 + -mentum 结果物，经历收缩；由热敷助长到煽动。现代不用 fom + ent 假拆。
+    related_morphemes:
+      - ment
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

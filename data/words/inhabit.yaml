@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inhabit
+word: inhabit
+pos: verb
+zh: 居住于，栖息于
+en: Means 居住于，栖息于; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: habit
+    form: habit
+    meaning_in_word: 居住；拥有
+    zh: 居住；拥有
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:habit.
+word_family:
+  - habitat
+  - inhabitant
+word_family_details:
+  - word: habitat
+    en: Means 栖息地，居留地; reviewed from the TOEFL source gloss for learner display.
+    zh: 栖息地，居留地
+  - word: inhabitant
+    en: Means 居民，住户; reviewed from the TOEFL source gloss for learner display.
+    zh: 居民，住户
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

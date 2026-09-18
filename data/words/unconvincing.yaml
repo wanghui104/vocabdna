@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: unconvincing
+word: unconvincing
+pos: adjective
+zh: 不足以令人相信的
+en: not able to make someone believe something is true
+components:
+  - morpheme: un
+    form: un-
+    meaning_in_word: not
+    zh: 不；相反
+    role: prefix
+    is_core: false
+  - morpheme: vinc
+    form: convincing
+    meaning_in_word: persuasive
+    zh: 战胜；说服
+    role: root
+    is_core: true
+word_family:
+  - convict
+  - conviction
+  - convince
+  - convincing
+  - convinced
+word_family_details:
+  - word: convict
+    en: to find or prove someone guilty, or a person found guilty
+    zh: 证明有罪；宣告有罪；罪犯
+  - word: conviction
+    en: a firm belief, or the act/result of finding someone guilty
+    zh: 确信；深信；定罪；判罪
+  - word: convince
+    en: to make someone believe that something is true
+    zh: 使确信；说服
+  - word: convincing
+    en: able to make someone believe something is true
+    zh: 令人信服的
+  - word: convinced
+    en: firmly believing that something is true
+    zh: 确信的；深信的
+confusables:
+  []
+examples:
+  []
+why_confusing: unconvincing explanation/argument 常见。

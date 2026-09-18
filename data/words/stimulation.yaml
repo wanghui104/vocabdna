@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stimulation
+word: stimulation
+pos: noun
+zh: 激励，鼓舞，刺激
+en: Means 激励，鼓舞，刺激; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: stimul
+    form: stimul
+    meaning_in_word: goad; stimulus / 刺激；激励
+    zh: 刺激；激励
+    role: root
+    is_core: true
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: act; process; result / 行为；过程；结果
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+word_family:
+  - stimulant
+  - stimulate
+  - stimuli
+  - stimulus
+word_family_details:
+  - word: stimulant
+    en: Means 刺激物，兴奋剂; reviewed from the TOEFL source gloss for learner display.
+    zh: 刺激物，兴奋剂
+  - word: stimulate
+    en: Means 刺激，激励，激发; reviewed from the TOEFL source gloss for learner display.
+    zh: 刺激，激励，激发
+  - word: stimuli
+    en: Means stimulus复数; reviewed from the TOEFL source gloss for learner display.
+    zh: stimulus复数
+  - word: stimulus
+    en: Means 刺激；刺激物; reviewed from the TOEFL source gloss for learner display.
+    zh: 刺激；刺激物
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pan
+display: pan
+type: root
+core_meaning: bread, companion
+zh: 面包；同伴
+origin: Latin
+source_form: Latin panis
+source_meaning: bread
+source_meaning_zh: 面包
+related_morphemes:
+  []
+senses:
+  - meaning: bread, companion
+    zh: 面包；同伴
+    examples:
+      - companion
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pan -> companion
+high_value_words:
+  - companion
+confusable_words:
+  []

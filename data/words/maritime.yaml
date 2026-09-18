@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: maritime
+word: maritime
+pos: adjective
+zh: 海上的，海事的
+en: Means 海上的，海事的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mar
+    form: mar
+    meaning_in_word: 海
+    zh: 海
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mar.
+  - morpheme: itime
+    form: itime
+    meaning_in_word: itime
+    zh: itime
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:itime.
+word_family:
+  - marine
+  - aquamarine
+  - submarine
+word_family_details:
+  - word: marine
+    en: Means 海的，航海的，海产的; reviewed from the TOEFL source gloss for learner display.
+    zh: 海的，航海的，海产的
+  - word: aquamarine
+    en: Means 绿玉；碧绿色; reviewed from the TOEFL source gloss for learner display.
+    zh: 绿玉；碧绿色
+  - word: submarine
+    en: Means 潜水艇，潜艇；水下的，海底的; reviewed from the TOEFL source gloss for learner display.
+    zh: 潜水艇，潜艇；水下的，海底的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

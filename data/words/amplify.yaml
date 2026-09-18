@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: amplify
+word: amplify
+pos: verb
+zh: 放大；扩大；增强
+en: to make something larger, louder, stronger, or more detailed
+components:
+  - morpheme: ampl
+    form: ampl
+    meaning_in_word: large
+    zh: 宽大；充足
+    role: root
+    is_core: true
+  - morpheme: fac
+    form: ify
+    meaning_in_word: make
+    zh: 做、制造
+    role: root
+    is_core: true
+word_family:
+  - ample
+  - amplification
+word_family_details:
+  - word: ample
+    en: enough or more than enough; spacious
+    zh: 富足的；充足的
+  - word: amplification
+    en: the act or result of making something larger or stronger
+    zh: 扩大；放大；增强
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

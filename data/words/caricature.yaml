@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: caricature
+word: caricature
+pos: noun
+zh: 讽刺画；夸张描绘
+en: a drawing or description that exaggerates features for comic or critical effect
+components:
+  - morpheme: caricature
+    form: caricature
+    meaning_in_word: exaggerate
+    zh: 讽刺画；夸张描绘
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可指漫画，也可指被扭曲的描写。

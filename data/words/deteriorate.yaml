@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deteriorate
+word: deteriorate
+pos: verb
+zh: 使恶化；变坏；质量下降
+en: to become worse or make something worse
+components:
+  - morpheme: deterior
+    form: deterior
+    meaning_in_word: worse
+    zh: 变坏；恶化
+    role: root
+    is_core: true
+    note: deterior- 来自 Latin deterior 更坏的，为比较级形式；-ior 表示“更……”，较深基础关系不宜从现代 deter 阻止倒推。
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: become or make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: deteriorate 是恶化；deter 是威慑，来源不同。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: steer
+display: steer
+type: root
+core_meaning: steer
+zh: 掌舵；驾驶
+origin: Old English
+source_form: steer
+source_meaning: steer
+source_meaning_zh: 掌舵；驾驶
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: steer
+    zh: 掌舵；驾驶
+    examples:
+      - steer
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - steer -> steer
+high_value_words:
+  - steer
+confusable_words:
+  []

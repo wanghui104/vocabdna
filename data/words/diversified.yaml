@@ -1,0 +1,55 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diversified
+word: diversified
+pos: adjective
+zh: 多样化的；多种经营的
+en: including a range of different products, activities, or types
+components:
+  - morpheme: divers
+    form: divers
+    meaning_in_word: diverse, variety / 多样；不同
+    zh: 多样；不同
+    role: root
+    is_core: true
+    note: 表层 divers- 不同；Latin diversus 来自 divertere = dis- 分开 + vertere 转向，vers- 是分词词干。diversify 保留 divers- + -ify，再显示此层。
+    related_morphemes:
+      - dis
+      - vert
+  - morpheme: ify
+    form: -ifi
+    meaning_in_word: make, cause to become / 使成为
+    zh: 使成为
+    role: suffix
+    is_core: false
+    note: -ify = 连接元音 i + -fy；更深层来自 facere 做。-ific- 为 -ification 前的构词形。
+    related_morphemes:
+      - fac
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - diverse
+  - diversity
+  - diversify
+  - diversification
+word_family_details:
+  - word: diverse
+    en: Means 不同的，变化多的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不同的，变化多的
+  - word: diversity
+    en: the presence or range of different kinds, features, or people
+    zh: 多样性；差异
+  - word: diversify
+    en: to make or become more varied
+    zh: 使多样化；多样化
+  - word: diversification
+    en: the process of adding variety or expanding into different activities
+    zh: 多样化；多种经营
+confusables:
+  []
+examples:
+  []
+why_confusing: 表层 divers- 不同；Latin diversus 来自 divertere = dis- 分开 + vertere 转向，vers- 是分词词干。diversify 保留 divers- + -ify，再显示此层。 -ify = 连接元音 i + -fy；更深层来自 facere 做。-ific- 为 -ification 前的构词形。

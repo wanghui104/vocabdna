@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hunger
+word: hunger
+pos: noun
+zh: 饥饿
+en: Means 饥饿; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: hunger
+    form: hunger
+    meaning_in_word: 饥饿
+    zh: 饥饿
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hunger.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

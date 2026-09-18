@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: escape
+word: escape
+pos: verb/noun
+zh: 逃脱；避开
+en: to get free or avoid harm, notice, or control
+components:
+  - morpheme: escape
+    form: escape
+    meaning_in_word: get out of a cape, escape / 脱出披风；逃脱
+    zh: 脱出披风；逃脱
+    role: root
+    is_core: true
+    note: 深层 ex- 出 + cappa 披风，指摆脱被抓住的披风；经法语音变形成 escape，保留稳定词干，cape 不是海角。
+word_family:
+  - escapist
+  - escapism
+word_family_details:
+  - word: escapist
+    en: seeking distraction from unpleasant realities
+    zh: 逃避现实的
+  - word: escapism
+    en: seeking distraction from unpleasant realities
+    zh: 逃避现实
+confusables:
+  []
+examples:
+  []
+why_confusing: 

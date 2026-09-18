@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: despoiler
+word: despoiler
+pos: noun
+zh: 掠夺者
+en: Means 掠夺者; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: de / de
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: spoil
+    form: spoil
+    meaning_in_word: spoil; plunder / 损坏；掠夺
+    zh: 掠夺；剥夺
+    role: root
+    is_core: true
+  - morpheme: er
+    form: -er
+    meaning_in_word: person or thing that does / 做…者或物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+word_family:
+  - despoil
+  - spoil
+  - spoilage
+word_family_details:
+  - word: despoil
+    en: to rob, plunder, or strip something of value
+    zh: 夺取；掠夺；破坏
+  - word: spoil
+    en: Means 损坏；腐烂；宠爱，溺爱; reviewed from the TOEFL source gloss for learner display.
+    zh: 损坏；腐烂；宠爱，溺爱
+  - word: spoilage
+    en: Means （食物等）变质，损坏; reviewed from the TOEFL source gloss for learner display.
+    zh: （食物等）变质，损坏
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

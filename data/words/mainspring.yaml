@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mainspring
+word: mainspring
+pos: noun
+zh: (钟表的)主发条
+en: Means (钟表的)主发条; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: main
+    form: main
+    meaning_in_word: main; chief / 主要
+    zh: main
+    role: root
+    is_core: true
+  - morpheme: spring
+    form: spring
+    meaning_in_word: spring; leap; arise / 泉；弹簧；跳；生发
+    zh: 跳起、涌出、弹回
+    role: root
+    is_core: true
+word_family:
+  - spring
+word_family_details:
+  - word: spring
+    en: Means 泉；弹簧；跳跃; reviewed from the TOEFL source gloss for learner display.
+    zh: 泉；弹簧；跳跃
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

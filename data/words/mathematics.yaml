@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mathematics
+word: mathematics
+pos: noun
+zh: 数学
+en: Means 数学; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: math
+    form: math
+    meaning_in_word: 学习；数学
+    zh: 学习；数学
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:math.
+  - morpheme: ics
+    form: -ics
+    meaning_in_word: 学科；实践领域
+    zh: 学科；实践领域
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ics.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

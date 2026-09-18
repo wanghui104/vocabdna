@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: moisture
+word: moisture
+pos: noun
+zh: 潮湿，湿气；湿度
+en: Means 潮湿，湿气；湿度; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: moist
+    form: moist
+    meaning_in_word: 潮湿
+    zh: 潮湿
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:moist.
+  - morpheme: ure
+    form: -ure
+    meaning_in_word: 行为；结果
+    zh: 行为；结果
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ure.
+word_family:
+  - moist
+  - moisten
+word_family_details:
+  - word: moist
+    en: Means 潮湿的，多雨的; reviewed from the TOEFL source gloss for learner display.
+    zh: 潮湿的，多雨的
+  - word: moisten
+    en: Means 弄湿，使湿润; reviewed from the TOEFL source gloss for learner display.
+    zh: 弄湿，使湿润
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

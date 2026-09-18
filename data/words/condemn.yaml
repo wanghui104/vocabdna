@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: condemn
+word: condemn
+pos: verb
+zh: 谴责；判刑；宣告不适用
+en: to strongly criticize, sentence, or declare something unfit
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: damn
+    form: demn
+    meaning_in_word: condemn
+    zh: 谴责；定罪
+    role: root
+    is_core: true
+word_family:
+  - condemnation
+word_family_details:
+  - word: condemnation
+    en: strong criticism or a judgment of guilt
+    zh: 谴责；定罪
+confusables:
+  []
+examples:
+  []
+why_confusing: condemn a policy/person/building 含义随宾语变化。

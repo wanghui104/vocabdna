@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: harmless
+word: harmless
+pos: adjective
+zh: 无害的
+en: Means 无害的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: harm
+    form: harm
+    meaning_in_word: harm
+    zh: harm
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:harm.
+  - morpheme: less
+    form: -less
+    meaning_in_word: 无；没有
+    zh: 无；没有
+    role: suffix
+    is_core: false
+    note: Suffix layer from Old English -leas.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

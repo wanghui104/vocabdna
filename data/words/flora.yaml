@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flora
+word: flora
+pos: noun
+zh: 植物群
+en: the plant life of a region, habitat, or period
+components:
+  - morpheme: flor
+    form: flor
+    meaning_in_word: flower / 花
+    zh: 花
+    role: root
+    is_core: true
+    note: flora 来自花神 Flora，深层 flor- 花 + 拉丁名词结尾 -a；floral 为 flor- + -al。
+  - morpheme: a-noun
+    form: -a
+    meaning_in_word: noun ending / 名词结尾
+    zh: 名词结尾
+    role: suffix
+    is_core: false
+    note: flora 中为拉丁阴性名词结尾，不是英语复数。
+word_family:
+  - floral
+word_family_details:
+  - word: floral
+    en: relating to or decorated with flowers
+    zh: 花的；饰有花卉的
+confusables:
+  - word: fauna
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

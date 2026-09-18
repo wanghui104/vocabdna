@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: filter
+word: filter
+pos: noun/verb
+zh: 过滤器；过滤
+en: a device that removes unwanted material; to remove material by passing it through such a device
+components:
+  - morpheme: filter
+    form: filter
+    meaning_in_word: felt, filtering material / 毡；过滤材料
+    zh: 毡；过滤材料
+    role: root
+    is_core: true
+    note: filter 经法语来自毡过滤材料；-er 不是英语施事后缀，保留借词并说明底层 felt。
+word_family:
+  - filtration
+word_family_details:
+  - word: filtration
+    en: the process of passing material through a filter
+    zh: 过滤
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intention
+word: intention
+pos: noun
+zh: 意图，目的=intent
+en: Means 意图，目的=intent; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: tent
+    form: tent
+    meaning_in_word: 伸展；意图
+    zh: 伸展；意图
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:tent.
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ion.
+word_family:
+  - intentionally
+word_family_details:
+  - word: intentionally
+    en: Means 有意地，特意地; reviewed from the TOEFL source gloss for learner display.
+    zh: 有意地，特意地
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

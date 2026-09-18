@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distance
+word: distance
+pos: noun
+zh: 距离；远处
+en: the amount of space or time between things
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: stand
+    form: st
+    meaning_in_word: stand, state / 站立；状态
+    zh: 站立；状态
+    role: root
+    is_core: true
+  - morpheme: ence-ance
+    form: -ance
+    meaning_in_word: state, quality / 状态、性质
+    zh: 状态、性质
+    role: suffix
+    is_core: false
+word_family:
+  - distant
+word_family_details:
+  - word: distant
+    en: far away in space, time, or relationship
+    zh: 远离的；遥远的；疏远的
+confusables:
+  []
+examples:
+  []
+why_confusing: distance 可指空间距离，也可指关系疏远。

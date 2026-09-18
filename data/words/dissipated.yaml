@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dissipated
+word: dissipated
+pos: adjective
+zh: 沉迷享乐的；浪荡的
+en: wasteful or self-indulgent, especially in pleasure
+components:
+  - morpheme: dissip
+    form: dissip
+    meaning_in_word: scatter, throw apart / 驱散；挥霍
+    zh: 驱散；挥霍
+    role: root
+    is_core: true
+    note: 表层 dissip- 撒散；Latin dissipare 深层 dis- 分开 + supare 撒、抛，元音弱化为 sip-；sip 不是英语啜饮。保留 dissip- + -ate，再在此展示内部层。
+    related_morphemes:
+      - dis
+  - morpheme: ate
+    form: -at
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - dissipate
+word_family_details:
+  - word: dissipate
+    en: to scatter, vanish gradually, or waste something
+    zh: 消散；消失；挥霍
+confusables:
+  []
+examples:
+  []
+why_confusing: dissipated 作形容词常指生活放纵。

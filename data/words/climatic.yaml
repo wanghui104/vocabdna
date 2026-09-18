@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: climatic
+word: climatic
+pos: adjective
+zh: 气候上的
+en: related to climate
+components:
+  - morpheme: climate
+    form: climat
+    meaning_in_word: climate
+    zh: 气候；风气
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: related to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - climate
+word_family_details:
+  - word: climate
+    en: the usual weather of a place, or the general mood of a situation
+    zh: 气候；社会风气或趋势
+confusables:
+  []
+examples:
+  []
+why_confusing: climatic 气候的；climactic 高潮的，易混。

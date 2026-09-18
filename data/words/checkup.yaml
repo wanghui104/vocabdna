@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: checkup
+word: checkup
+pos: noun
+zh: 审查；身体检查
+en: a general examination, especially by a doctor
+components:
+  - morpheme: check
+    form: check
+    meaning_in_word: examine
+    zh: 检查；阻止；支票
+    role: root
+    is_core: true
+  - morpheme: up
+    form: up
+    meaning_in_word: complete
+    zh: 向上；从事
+    role: root
+    is_core: true
+word_family:
+  - check
+word_family_details:
+  - word: check
+    en: to examine, stop, or mark; also a bank payment order
+    zh: 检查；核对；阻止；支票
+confusables:
+  []
+examples:
+  []
+why_confusing: medical/dental checkup 常见。

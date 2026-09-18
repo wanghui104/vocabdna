@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: urbanize
+word: urbanize
+pos: verb
+zh: 使都市化，使文雅
+en: Means 使都市化，使文雅; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: urban
+    form: urban
+    meaning_in_word: city / 城市
+    zh: 城市
+    role: root
+    is_core: true
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make; become / 使成；变成
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - suburbanite
+  - urban
+  - urbanism
+  - urbanite
+  - urbanization
+word_family_details:
+  - word: suburbanite
+    en: Means 郊区居民; reviewed from the TOEFL source gloss for learner display.
+    zh: 郊区居民
+  - word: urban
+    en: Means 城市的; reviewed from the TOEFL source gloss for learner display.
+    zh: 城市的
+  - word: urbanism
+    en: Means 都市生活, 都市化; reviewed from the TOEFL source gloss for learner display.
+    zh: 都市生活, 都市化
+  - word: urbanite
+    en: Means 都市人; reviewed from the TOEFL source gloss for learner display.
+    zh: 都市人
+  - word: urbanization
+    en: Means 都市化，文雅化; reviewed from the TOEFL source gloss for learner display.
+    zh: 都市化，文雅化
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fleetingly
+word: fleetingly
+pos: adverb
+zh: 短暂地
+en: for a very short time
+components:
+  - morpheme: fleet
+    form: fleet
+    meaning_in_word: float, move swiftly / 漂浮；迅速经过
+    zh: 漂浮；迅速经过
+    role: root
+    is_core: true
+    note: fleeting = fleet 动词 + -ing；词干本族来源，与 Latin fluere 流不可当作直接派生。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - fleet
+  - fleeting
+word_family_details:
+  - word: fleet
+    en: swift
+    zh: 迅速的
+  - word: fleeting
+    en: lasting for only a very short time
+    zh: 短暂的；转瞬即逝的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

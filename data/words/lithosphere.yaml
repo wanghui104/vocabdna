@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lithosphere
+word: lithosphere
+pos: noun
+zh: [地]岩石圈
+en: Means [地]岩石圈; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: litho
+    form: litho
+    meaning_in_word: stone / 石
+    zh: 石头
+    role: root
+    is_core: true
+  - morpheme: sphere
+    form: sphere
+    meaning_in_word: sphere; globe / 球；圈层
+    zh: 球
+    role: root
+    is_core: true
+word_family:
+  - sphere
+  - spherical
+word_family_details:
+  - word: sphere
+    en: Means 球体; reviewed from the TOEFL source gloss for learner display.
+    zh: 球体
+  - word: spherical
+    en: Means 球的，球状的; reviewed from the TOEFL source gloss for learner display.
+    zh: 球的，球状的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

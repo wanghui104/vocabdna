@@ -2,54 +2,92 @@
 id: cap
 display: cap
 type: root
-core_meaning: take, seize, receive
-zh: 拿、抓、接收
+core_meaning: take, hold, contain
+zh: 拿；抓；容纳
 origin: Latin
-source_form: Latin capere
-source_meaning: take, seize, receive
-source_meaning_zh: 拿、抓、接收
-source_note: receive comes through Latin recipere = re- + -cipere; conceive comes through Latin concipere = con- + -cipere. In both, -cipere is a combining form of capere.
+source_form: Latin capere / captus
+source_meaning: take, hold
+source_meaning_zh: 拿；抓；容纳
 related_morphemes:
   []
 senses:
-  - meaning: take, seize, receive
-    zh: 拿、抓、接收
+  - meaning: take, hold, contain
+    zh: 拿；抓；容纳
     examples:
+      - anticipate
+      - anticipation
+      - capability
+      - capable
+      - capacity
       - conceivable
       - conceive
-      - conception
-      - receive
-      - reception
-      - receptive
-      - receiver
+      - concept
+      - conceptual
+      - deceive
+      - deception
+      - deceptive
+      - emancipate
+      - emancipation
+      - except
+      - exception
+      - exceptional
+      - exceptionally
+      - handicap
+      - incapacitate
       - receipt
-      - recipient
-      - capability
+      - receive
+      - receiver
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - cip -> anticipate
+  - cip -> anticipation
+  - cap -> capability
+  - cap -> capable
+  - capac -> capacity
   - ceiv -> conceivable
   - ceive -> conceive
-  - cept -> conception
-  - ceive -> receive
-  - cept -> reception
-  - cept -> receptive
-  - ceive -> receiver
+  - cept -> concept
+  - cept -> conceptual
+  - ceive -> deceive
+  - cept -> deception
+  - cept -> deceptive
+  - cip -> emancipate
+  - cip -> emancipation
+  - cept -> except
+  - cept -> exception
+  - cept -> exceptional
+  - cept -> exceptionally
+  - cap -> handicap
+  - cap -> incapacitate
   - ceipt -> receipt
-  - cip -> recipient
-  - cap -> capability
+  - ceive -> receive
+  - ceive -> receiver
 high_value_words:
+  - anticipate
+  - anticipation
+  - capability
+  - capable
+  - capacity
   - conceivable
   - conceive
-  - conception
-  - receive
-  - reception
-  - receptive
-  - receiver
+  - concept
+  - conceptual
+  - deceive
+  - deception
+  - deceptive
+  - emancipate
+  - emancipation
+  - except
+  - exception
+  - exceptional
+  - exceptionally
+  - handicap
+  - incapacitate
   - receipt
-  - recipient
-  - capability
+  - receive
+  - receiver
 confusable_words:
   []

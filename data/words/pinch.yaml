@@ -1,0 +1,49 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pinch
+word: pinch
+pos: verb/noun
+zh: 捏；夹痛；一撮；困境、经济压力；（英口语）偷拿
+en: to grip or hurt with a small squeeze; a tiny quantity; difficulty or financial pressure; informally, to steal
+components:
+  - morpheme: pinch
+    form: pinch
+    meaning_in_word: squeeze between two points / 捏、夹
+    zh: 捏；两点夹紧
+    role: root
+    is_core: true
+    note: 源于中古英语 pinchen 和古法语 pincier；更早来源有争议，不拆成 pin + ch。
+word_family:
+  - pinched
+  - pinching
+  - pincher
+word_family_details:
+  - word: pinched
+    en: compressed or painfully squeezed; looking thin and drawn; also the past tense and past participle of pinch
+    zh: 受夹压的；（面容）消瘦憔悴的；pinch 的过去式和过去分词
+  - word: pinching
+    en: the ongoing action of squeezing a small area, or pressure that hurts
+    zh: 正在捏、夹；夹捏动作；夹痛的
+  - word: pincher
+    en: a person or thing that pinches; in the plural, an alternative word for pincers
+    zh: 捏夹者；夹持物；（复数 pinchers）钳子
+confusables:
+  - word: squeeze
+    reason: pinch 强调局部夹捏；squeeze 泛指挤压；punch 是挥拳击打。pinched / pinching / pincher 为同页词形；pincer(s) 是法语同源工具词，列在同根关联中。pinch 的更早词源未定；take something with a pinch of salt 表示对某事将信将疑。
+    zh_reason: pinch 强调局部夹捏；squeeze 泛指挤压；punch 是挥拳击打。pinched / pinching / pincher 为同页词形；pincer(s) 是法语同源工具词，列在同根关联中。pinch 的更早词源未定；take something with a pinch of salt 表示对某事将信将疑。
+  - word: punch
+    reason: pinch 强调局部夹捏；squeeze 泛指挤压；punch 是挥拳击打。pinched / pinching / pincher 为同页词形；pincer(s) 是法语同源工具词，列在同根关联中。pinch 的更早词源未定；take something with a pinch of salt 表示对某事将信将疑。
+    zh_reason: pinch 强调局部夹捏；squeeze 泛指挤压；punch 是挥拳击打。pinched / pinching / pincher 为同页词形；pincer(s) 是法语同源工具词，列在同根关联中。pinch 的更早词源未定；take something with a pinch of salt 表示对某事将信将疑。
+examples:
+  - en: Pinch the dough firmly to seal each dumpling.
+    zh: 把面皮捏紧，封好每个饺子的口。
+  - en: Stir a pinch of cinnamon into the warm milk.
+    zh: 往温牛奶里搅入一撮肉桂粉。
+  - en: Small shops are feeling the pinch as rents rise.
+    zh: 随着租金上涨，小店开始感受到经济压力。
+  - en: In a pinch, a clean jar can serve as a vase.
+    zh: 必要时，干净的罐子可以充当花瓶。
+  - en: Someone has pinched my umbrella from the stand.
+    zh: 有人从伞架上偷走了我的伞。
+  - en: Pinch off the tips to encourage bushier growth.
+    zh: 掐去嫩梢，促使植株长得更茂密。
+why_confusing: pinch 强调局部夹捏；squeeze 泛指挤压；punch 是挥拳击打。pinched / pinching / pincher 为同页词形；pincer(s) 是法语同源工具词，列在同根关联中。pinch 的更早词源未定；take something with a pinch of salt 表示对某事将信将疑。

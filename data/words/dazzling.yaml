@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dazzling
+word: dazzling
+pos: adjective
+zh: 耀眼的；眼花缭乱的
+en: extremely bright, impressive, or confusing to the eyes
+components:
+  - morpheme: dazzle
+    form: dazzl
+    meaning_in_word: stun with brightness
+    zh: 耀眼；使眼花缭乱
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: causing quality
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可形容光，也可形容表现非常精彩。

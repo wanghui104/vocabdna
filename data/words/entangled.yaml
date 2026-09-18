@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: entangled
+word: entangled
+pos: adjective/verb
+zh: 被缠住的；卷入的；entangle 的过去形式
+en: caught among twisted things or involved in complicated affairs
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: put into; cause to be in / 使进入、使陷入
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: 使陷入缠绕；经法语对应 Latin in-。
+  - morpheme: tangle
+    form: tangl
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: tangle 去掉词尾不发音 e 的词干，用于加 -ed/-ing。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past action or resulting state / 过去动作、结果状态
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - entangle
+  - entanglement
+word_family_details:
+  - word: entangle
+    en: to catch something in a tangle or involve someone in a difficult situation
+    zh: 缠住；使卷入复杂处境
+  - word: entanglement
+    en: the state of being caught or involved, or a mass that traps something
+    zh: 纠缠；牵连；缠绕物
+confusables:
+  []
+examples:
+  - en: The bird became entangled in the discarded line.
+    zh: 鸟被丢弃的线缠住了。
+  - en: The company became entangled in a lengthy dispute.
+    zh: 公司卷入了一场旷日持久的争端。
+why_confusing: entangled 与 tangled 的意思有重叠；entangled 常强调困住或卷入某事。

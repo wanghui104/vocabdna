@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: careless
+word: careless
+pos: adjective
+zh: 粗心的；疏忽的
+en: not giving enough attention to avoid harm or mistakes
+components:
+  - morpheme: care
+    form: care
+    meaning_in_word: attention
+    zh: 关心；小心
+    role: root
+    is_core: true
+  - morpheme: less
+    form: -less
+    meaning_in_word: without
+    zh: 无；没有
+    role: suffix
+    is_core: false
+word_family:
+  - carelessly
+  - care
+word_family_details:
+  - word: carelessly
+    en: without enough attention or concern
+    zh: 粗心地；不注意地
+  - word: care
+    en: attention, concern, or careful treatment
+    zh: 关心；照料；小心
+confusables:
+  []
+examples:
+  []
+why_confusing: careless mistake 是粗心错误。

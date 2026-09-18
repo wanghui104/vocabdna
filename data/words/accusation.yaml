@@ -30,9 +30,7 @@ word_family_details:
     en: to say someone is responsible for a wrong act
     zh: 指责；归咎；控告
 confusables:
-  - word: excuse
-    reason: accusation 是名词；accuse 是动词。
-    zh_reason: accusation 是名词；accuse 是动词。
+  []
 examples:
   - en: The accusation was serious.
     zh: 这项指控很严重。

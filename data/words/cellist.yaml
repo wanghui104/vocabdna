@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cellist
+word: cellist
+pos: noun
+zh: 大提琴家
+en: a person who plays the cello
+components:
+  - morpheme: cello
+    form: cell
+    meaning_in_word: cello
+    zh: 大提琴
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - cello
+word_family_details:
+  - word: cello
+    en: a large string instrument played while seated
+    zh: 大提琴
+confusables:
+  []
+examples:
+  []
+why_confusing: 不是 cell 细胞 + ist。

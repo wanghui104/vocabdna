@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: curriculum
+word: curriculum
+pos: noun
+zh: 课程；全部课程
+en: the set of courses and content taught by a school or program
+components:
+  - morpheme: curr
+    form: curr
+    meaning_in_word: run, flow, course / 跑；流动；路线
+    zh: 跑；流动；路线
+    role: root
+    is_core: true
+    note: curr- 跑 + Latin -iculum 名词结尾 → 跑过的路线 → 课程路线。不是漏写结尾的 curr 单词；-iculum 的历史构词不意味着现代“小课程”。
+  - morpheme: cule
+    form: -iculum
+    meaning_in_word: small / 小
+    zh: 小
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 复数可用 curricula 或 curriculums。

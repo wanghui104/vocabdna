@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vacant
+word: vacant
+pos: adjective
+zh: 空的，未被占用的
+en: Means 空的，未被占用的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: vac
+    form: vac
+    meaning_in_word: empty / 空
+    zh: 空
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: person/quality / 人；性质
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - vacancy
+  - vacate
+  - vacation
+word_family_details:
+  - word: vacancy
+    en: Means 空白，空缺; reviewed from the TOEFL source gloss for learner display.
+    zh: 空白，空缺
+  - word: vacate
+    en: Means 腾出，空出; reviewed from the TOEFL source gloss for learner display.
+    zh: 腾出，空出
+  - word: vacation
+    en: Means 度假，休假; reviewed from the TOEFL source gloss for learner display.
+    zh: 度假，休假
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

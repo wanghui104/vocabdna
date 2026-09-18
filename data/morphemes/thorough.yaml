@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: thorough
+display: thorough
+type: root
+core_meaning: thorough
+zh: 彻底
+origin: Old English
+source_form: thorough
+source_meaning: thorough
+source_meaning_zh: 彻底
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: thorough
+    zh: 彻底
+    examples:
+      - thorough
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - thorough -> thorough
+high_value_words:
+  - thorough
+confusable_words:
+  []

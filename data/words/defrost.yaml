@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: defrost
+word: defrost
+pos: verb
+zh: 除霜
+en: to remove frost or ice
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, remove / 向下；去除
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: frost
+    form: frost
+    meaning_in_word: frost / 霜
+    zh: 霜
+    role: root
+    is_core: true
+    note: 与 freeze 的本族词族相关，经历史音变；现代 defrost = de- 移除 + frost。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -11,17 +11,26 @@ senses:
   - meaning: good, well
     zh: 好、善
     examples:
-      - benevolent
       - benefactor
+      - beneficial
+      - benefit
+      - benevolent
+      - benign
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - bene -> benevolent
   - bene -> benefactor
+  - bene- -> beneficial
+  - bene- -> benefit
+  - bene -> benevolent
+  - bene- -> benign
 high_value_words:
-  - benevolent
   - benefactor
+  - beneficial
+  - benefit
+  - benevolent
+  - benign
 confusable_words:
   []

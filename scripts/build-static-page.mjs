@@ -24,9 +24,11 @@ async function readYamlDirectory(directory) {
     file.endsWith('.yaml'),
   );
 
-  return Promise.all(
-    files.map(async (file) => parseYaml(await readFile(path.join(directory, file), 'utf8'))),
-  );
+  const entries = [];
+  for (const file of files) {
+    entries.push(parseYaml(await readFile(path.join(directory, file), 'utf8')));
+  }
+  return entries;
 }
 
 function buildHtml(data) {
@@ -696,7 +698,16 @@ function buildHtml(data) {
     const words = data.words;
     const morphemes = data.morphemes;
     const wordById = new Map(words.map((word) => [word.id, word]));
-    const wordByLabel = new Map(words.map((word) => [word.word.toLowerCase(), word]));
+    const wordByLabel = new Map(words.map((word) => [word.word, word]));
+    const wordByFoldedLabel = new Map();
+    for (const word of words) {
+      const key = word.word.toLowerCase();
+      wordByFoldedLabel.set(key, wordByFoldedLabel.has(key) ? undefined : word);
+    }
+    function getWord(label) {
+      if (!label) return undefined;
+      return wordById.get(label) ?? wordByLabel.get(label) ?? wordByFoldedLabel.get(String(label).toLowerCase());
+    }
     const morphemeById = new Map(morphemes.map((morpheme) => [morpheme.id, morpheme]));
     const searchInput = document.getElementById('search');
     const clearButton = document.getElementById('clear');
@@ -789,7 +800,7 @@ function buildHtml(data) {
     }
 
     function inlineWord(label) {
-      const word = wordByLabel.get(String(label).toLowerCase());
+      const word = getWord(label);
       return word ? routeButton('word', word.id, word.word) : '<span class="inline-word-static">' + escapeHtml(label) + '</span>';
     }
 
@@ -802,7 +813,7 @@ function buildHtml(data) {
       const unique = [...new Set((labels ?? []).filter(Boolean))];
       if (!unique.length) return '<p class="note">No entries yet.</p>';
       return '<ul class="word-gloss-list">' + unique.map((label) => {
-        const word = wordByLabel.get(String(label).toLowerCase());
+        const word = getWord(label);
         return '<li class="word-gloss-item">' + inlineWord(label) + '<span class="word-gloss-meaning">' + escapeHtml(word?.zh ?? '') + '</span></li>';
       }).join('') + '</ul>';
     }
@@ -813,7 +824,7 @@ function buildHtml(data) {
       );
       if (explicit) return explicit;
 
-      const linkedWord = wordByLabel.get(String(label).toLowerCase());
+      const linkedWord = getWord(label);
       if (linkedWord) return { en: linkedWord.en, zh: linkedWord.zh };
 
       return {
@@ -832,21 +843,20 @@ function buildHtml(data) {
     }
 
     function getWordFamilyEntries(word) {
-      const familyLabels = new Set([
-        String(word.word).toLowerCase(),
-        ...(word.word_family ?? []).map((label) => String(label).toLowerCase())
-      ]);
-
-      for (const entry of words) {
-        if ((entry.word_family ?? []).some((label) => String(label).toLowerCase() === String(word.word).toLowerCase())) {
-          familyLabels.add(String(entry.word).toLowerCase());
-        }
-      }
-
-      return words
-        .filter((entry) => familyLabels.has(String(entry.word).toLowerCase()))
-        .sort((a, b) => a.word.length - b.word.length || a.word.localeCompare(b.word));
+  const familyIds = new Set([word.id]);
+  for (const label of word.word_family ?? []) {
+    const linkedWord = getWord(label);
+    if (linkedWord) familyIds.add(linkedWord.id);
+  }
+  for (const entry of words) {
+    if ((entry.word_family ?? []).some((label) => getWord(label)?.id === word.id)) {
+      familyIds.add(entry.id);
     }
+  }
+  return words
+    .filter((entry) => familyIds.has(entry.id))
+    .sort((a, b) => a.word.length - b.word.length || a.word.localeCompare(b.word));
+}
 
     function getPosShortLabel(pos) {
       if (pos === 'adjective') return 'adj';
@@ -875,35 +885,14 @@ function buildHtml(data) {
     }
 
     function getWordVariantSuffix(word, familyStem) {
-      const lowerWord = String(word.word).toLowerCase();
-      const normalizedStem = familyStem?.replace(/-+$/g, '').toLowerCase();
-      if (normalizedStem && lowerWord.startsWith(normalizedStem)) {
-        const suffix = lowerWord.slice(normalizedStem.length);
-        if (suffix) return '-' + suffix;
-      }
-
-      const suffixPatterns = [
-        ['ologically', '-ly'],
-        ['ically', '-ly'],
-        ['logist', '-ist'],
-        ['ological', '-ical'],
-        ['ology', '-y'],
-        ['aneous', '-aneous'],
-        ['eous', '-eous'],
-        ['ical', '-ical'],
-        ['tion', '-tion'],
-        ['ist', '-ist'],
-        ['ism', '-ism'],
-        ['ure', '-ure'],
-        ['ous', '-ous'],
-        ['ic', '-ic'],
-        ['al', '-al'],
-        ['y', '-y']
-      ];
-      const matchedPattern = suffixPatterns.find(([ending]) => lowerWord.endsWith(ending));
-      if (matchedPattern) return matchedPattern[1];
-      return word.components?.at(-1)?.form ?? word.word;
-    }
+  const lowerWord = String(word.word).toLowerCase();
+  const normalizedStem = familyStem?.replace(/-+$/g, '').toLowerCase();
+  if (normalizedStem && lowerWord.startsWith(normalizedStem)) {
+    const suffix = lowerWord.slice(normalizedStem.length);
+    if (suffix) return '-' + suffix;
+  }
+  return word.word;
+}
 
     function getWordVariantLabel(word, familyStem) {
       return getWordVariantSuffix(word, familyStem) + ' · ' + getPosShortLabel(word.pos);
@@ -915,7 +904,7 @@ function buildHtml(data) {
       const familyStem = getWordFamilyStem(familyEntries);
 
       return '<nav class="family-tabs" aria-label="' + escapeHtml(familyEntries[0].word) + ' word family">' +
-        '<span class="family-tab family-stem-tab">' + escapeHtml(familyStem) + '</span>' +
+        '<span class="family-tab family-stem-tab" title="共同拼写；词素拆解见下方 Word DNA">' + escapeHtml(familyStem) + '</span>' +
         familyEntries.map((entry) => {
           const active = entry.id === activeWord.id ? ' active' : '';
           return routeButton('word', entry.id, getWordVariantLabel(entry, familyStem), 'family-tab' + active);
@@ -928,11 +917,11 @@ function buildHtml(data) {
     }
 
     function getConfusionDescription(item) {
-      const linkedWord = wordByLabel.get(String(item.word).toLowerCase());
-      if (linkedWord?.zh) return item.reason + ' / ' + linkedWord.zh;
+      const linkedWord = getWord(item.word);
+      if (linkedWord?.zh) return [item.reason, linkedWord.zh].filter(Boolean).join(' / ');
 
       const linkedMorpheme = morphemeById.get(normalizeMorphemeId(item.word));
-      if (linkedMorpheme?.zh) return item.reason + ' / ' + linkedMorpheme.zh;
+      if (linkedMorpheme?.zh) return [item.reason, linkedMorpheme.zh].filter(Boolean).join(' / ');
 
       return item.reason;
     }
@@ -940,7 +929,7 @@ function buildHtml(data) {
     function getConfusionReasonLine(word, item) {
       if (item.zh_reason) return '混淆原因：' + item.zh_reason;
 
-      const linkedWord = wordByLabel.get(String(item.word).toLowerCase());
+      const linkedWord = getWord(item.word);
       const linkedMorpheme = morphemeById.get(normalizeMorphemeId(item.word));
       const comparisonZh = linkedWord?.zh ?? linkedMorpheme?.zh;
 
@@ -1072,7 +1061,7 @@ function buildHtml(data) {
           family.labels.push(pattern);
           continue;
         }
-        const word = wordByLabel.get(String(parsed.label).toLowerCase());
+        const word = getWord(parsed.label);
         const familyEntries = word ? getWordFamilyEntries(word) : [];
         const familyKey = familyEntries[0]?.id ?? 'word:' + String(parsed.label).toLowerCase();
         const family = getOrCreatePatternFamily(groups, parsed.form, familyKey);

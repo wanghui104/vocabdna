@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diversity
+word: diversity
+pos: noun
+zh: 多样性；差异
+en: the presence or range of different kinds, features, or people
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: vers
+    meaning_in_word: turn / 转、转向
+    zh: 转、转向
+    role: root
+    is_core: true
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: quality, state / 性质、状态
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - diverse
+  - diversify
+  - diversified
+  - diversification
+word_family_details:
+  - word: diverse
+    en: Means 不同的，变化多的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不同的，变化多的
+  - word: diversify
+    en: to make or become more varied
+    zh: 使多样化；多样化
+  - word: diversified
+    en: including a range of different products, activities, or types
+    zh: 多样化的；多种经营的
+  - word: diversification
+    en: the process of adding variety or expanding into different activities
+    zh: 多样化；多种经营
+confusables:
+  []
+examples:
+  []
+why_confusing: 结合例句理解词义，不把词源意象当成全部现代释义。

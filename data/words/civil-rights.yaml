@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: civil-rights
+word: civil rights
+pos: phrase
+zh: 公民权
+en: rights that every citizen should have equally
+components:
+  - morpheme: civ
+    form: civil
+    meaning_in_word: citizen
+    zh: 公民；市民；文明
+    role: root
+    is_core: true
+  - morpheme: right
+    form: rights
+    meaning_in_word: entitlements
+    zh: 权利；正确
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 通常复数 rights。

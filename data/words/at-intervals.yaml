@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: at-intervals
+word: at intervals
+pos: phrase
+zh: 不时；相隔一段距离
+en: from time to time, or with spaces between things
+components:
+  - morpheme: at-word
+    form: at
+    meaning_in_word: at a point
+    zh: 在；靠近；朝向
+    role: root
+    is_core: true
+  - morpheme: interval
+    form: intervals
+    meaning_in_word: spaces between
+    zh: 间隔；中间距离
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

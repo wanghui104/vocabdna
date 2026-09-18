@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: war
+display: war
+type: root
+core_meaning: war
+zh: 战争
+origin: Old English
+source_form: Old English/Old North French werre
+source_meaning: war, conflict
+source_meaning_zh: 战争；冲突
+related_morphemes:
+  []
+senses:
+  - meaning: war
+    zh: 战争
+    examples:
+      - civil war
+      - postwar
+      - warrior
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - war -> civil war
+  - war -> postwar
+  - war -> warrior
+high_value_words:
+  - civil war
+  - postwar
+  - warrior
+confusable_words:
+  []

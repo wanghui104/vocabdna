@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: locate
+word: locate
+pos: verb
+zh: 找出，定位；设置
+en: Means 找出，定位；设置; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: loc
+    form: loc
+    meaning_in_word: 地点；安置
+    zh: 地点；安置
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:loc.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ate.
+word_family:
+  - location
+  - locality
+  - locally
+  - locomote
+  - locomotion
+  - locomotive
+word_family_details:
+  - word: location
+    en: Means 位置，场所; reviewed from the TOEFL source gloss for learner display.
+    zh: 位置，场所
+  - word: locality
+    en: Means 位置，地方; reviewed from the TOEFL source gloss for learner display.
+    zh: 位置，地方
+  - word: locally
+    en: Means 在地方上，在当地; reviewed from the TOEFL source gloss for learner display.
+    zh: 在地方上，在当地
+  - word: locomote
+    en: Means 移动，行动; reviewed from the TOEFL source gloss for learner display.
+    zh: 移动，行动
+  - word: locomotion
+    en: Means 运动，移动; reviewed from the TOEFL source gloss for learner display.
+    zh: 运动，移动
+  - word: locomotive
+    en: Means 火车头; reviewed from the TOEFL source gloss for learner display.
+    zh: 火车头
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

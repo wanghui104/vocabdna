@@ -2,29 +2,65 @@
 id: dict
 display: dict
 type: root
-core_meaning: say, speak
-zh: 说、宣告
+core_meaning: say, declare
+zh: 说；宣告
 origin: Latin
+source_form: Latin dicere / dictus
+source_meaning: say, speak
+source_meaning_zh: 说；宣布
 related_morphemes:
   []
 senses:
-  - meaning: say, speak
-    zh: 说、宣告
+  - meaning: say, declare
+    zh: 说；宣告
     examples:
-      - dictate
-      - predict
+      - air conditioner
+      - condition
+      - conditioning
       - contradict
+      - contradictory
+      - dictate
+      - diction
+      - jurisdiction
+      - predict
+      - predictability
+      - predictable
+      - prediction
+      - predictive
+      - unpredictable
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - dict -> dictate
-  - dict -> predict
+  - condition -> air conditioner
+  - dict -> condition
+  - condition -> conditioning
   - dict -> contradict
+  - dict -> contradictory
+  - dict -> dictate
+  - dict -> diction
+  - dict -> jurisdiction
+  - dict -> predict
+  - dict -> predictability
+  - dict -> predictable
+  - dict -> prediction
+  - dict -> predictive
+  - dict -> unpredictable
 high_value_words:
-  - dictate
-  - predict
+  - air conditioner
+  - condition
+  - conditioning
   - contradict
+  - contradictory
+  - dictate
+  - diction
+  - jurisdiction
+  - predict
+  - predictability
+  - predictable
+  - prediction
+  - predictive
+  - unpredictable
 confusable_words:
   []

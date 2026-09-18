@@ -11,10 +11,13 @@ components:
     zh: 计算、说明
     role: root
     is_core: true
+    related_morphemes:
+      - com
+      - put-reckon
   - morpheme: ent
     form: -ant
     meaning_in_word: person who
-    zh: ……的人；具有……性质的
+    zh: 具有…性质
     role: suffix
     is_core: false
 word_family:

@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fungi
+word: fungi
+pos: noun
+zh: 真菌（fungus 的复数）
+en: organisms such as mushrooms, molds, and yeasts; plural of fungus
+components:
+  - morpheme: fung
+    form: fung
+    meaning_in_word: mushroom / 蘑菇；真菌
+    zh: 蘑菇；真菌
+    role: root
+    is_core: true
+    note: fungi = fung- + 拉丁复数 -i，对应 fungus = fung- + -us；与 function 来源的 Latin fungi 履行只是拼写相同。真菌词更深来源仍有不确定性。
+  - morpheme: i-plural
+    form: -i
+    meaning_in_word: plural / 复数
+    zh: 复数
+    role: suffix
+    is_core: false
+    note: fungi 的复数词尾，与 -us 对应。
+word_family:
+  - fungus
+  - fungal
+word_family_details:
+  - word: fungus
+    en: an organism such as a mushroom, mold, or yeast
+    zh: 真菌
+  - word: fungal
+    en: relating to or caused by fungi
+    zh: 真菌的
+confusables:
+  - word: function
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

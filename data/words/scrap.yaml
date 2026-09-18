@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scrap
+word: scrap
+pos: noun
+zh: 废料，残余物；废弃，扔弃
+en: Means 废料，残余物；废弃，扔弃; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: scrap
+    form: scrap
+    meaning_in_word: scrap / 碎片
+    zh: 碎片
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

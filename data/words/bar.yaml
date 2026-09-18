@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bar
+word: bar
+pos: noun/verb
+zh: 酒吧；条、棒；栅；律师业
+en: a counter for drinks, a rod or barrier, or the legal profession
+components:
+  - morpheme: bar
+    form: bar
+    meaning_in_word: bar, barrier
+    zh: 条；栅栏；障碍
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: pressure unit bar 来自希腊 baros，本批不按该义归族。

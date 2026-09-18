@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: temper
+word: temper
+pos: noun
+zh: 脾气，性情；缓和，调节
+en: Means 脾气，性情；缓和，调节; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: temper
+    form: temper
+    meaning_in_word: mix; moderate / 调和；节制
+    zh: 调和；节制
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - temperance
+  - temperate
+  - temperature
+word_family_details:
+  - word: temperance
+    en: Means 节制，自制；戒酒；禁酒; reviewed from the TOEFL source gloss for learner display.
+    zh: 节制，自制；戒酒；禁酒
+  - word: temperate
+    en: Means （气候等）温和的；(欲望、饮食等)适度的,有节制的; reviewed from the TOEFL source gloss for learner display.
+    zh: （气候等）温和的；(欲望、饮食等)适度的,有节制的
+  - word: temperature
+    en: Means 温度; reviewed from the TOEFL source gloss for learner display.
+    zh: 温度
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

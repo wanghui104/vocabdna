@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: herd
+display: herd
+type: root
+core_meaning: draft meaning for herd
+zh: 兽群；人群；把…赶在一起放牧；成群，群集
+origin: Unknown
+source_form: TOEFL draft opaque stem: herd
+source_meaning: draft learner stem for herd
+source_meaning_zh: 兽群；人群；把…赶在一起放牧；成群，群集
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for herd
+    zh: 兽群；人群；把…赶在一起放牧；成群，群集
+    examples:
+      - herd
+      - herder
+      - shepherd
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - herd -> herd
+  - herd -> herder
+  - herd -> shepherd
+high_value_words:
+  - herd
+  - herder
+  - shepherd
+confusable_words:
+  []

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gospel
+word: gospel
+pos: noun
+zh: 福音
+en: Means 福音; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: gospel
+    form: gospel
+    meaning_in_word: 福音
+    zh: 福音
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: humidity
+word: humidity
+pos: noun
+zh: 湿气，湿度
+en: Means 湿气，湿度; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: humid
+    form: humid
+    meaning_in_word: 潮湿的
+    zh: 潮湿的
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:humid.
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ity.
+word_family:
+  - humid
+word_family_details:
+  - word: humid
+    en: Means 潮湿的; reviewed from the TOEFL source gloss for learner display.
+    zh: 潮湿的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: defecate
+word: defecate
+pos: verb
+zh: 排粪；通大便
+en: to pass solid waste from the body
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away, remove
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: feces
+    form: fec
+    meaning_in_word: dregs, waste
+    zh: 排泄物；渣滓
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: do
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 正式/医学用词，日常更常说 have a bowel movement。

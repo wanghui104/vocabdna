@@ -1,0 +1,237 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ous
+display: -ous
+type: suffix
+core_meaning: full of, having
+zh: 充满；具有
+origin: Latin
+source_form: Latin -osus, Old French -ous
+source_meaning: full of, having the quality of
+source_meaning_zh: 充满、有某种性质
+related_morphemes:
+  []
+senses:
+  - meaning: full of, having
+    zh: 充满；具有
+    examples:
+      - adventurous
+      - ambitious
+      - analogous
+      - anonymous
+      - anxious
+      - arduous
+      - autonomous
+      - carnivorous
+      - cautious
+      - cautiously
+      - conscientious
+      - conscious
+      - conspicuous
+      - contagious
+      - contiguous
+      - courteously
+      - curiosity
+      - curious
+      - dangerous
+      - deciduous
+      - delicious
+      - disastrous
+      - enormous
+      - fortuitous
+      - fortuitously
+      - frivolous
+      - furious
+      - furiously
+      - gaseous
+      - generous
+      - glamorous
+      - hazardous
+      - humorous
+      - incongruous
+      - ingenious
+      - ingeniously
+      - jealousy
+      - luminous
+      - lustrous
+      - marvelous
+      - meticulous
+      - miraculous
+      - monotonous
+      - nervous
+      - numerous
+      - platitudinous
+      - populous
+      - porous
+      - posthumous
+      - precious
+      - precipitous
+      - prosperous
+      - ridiculous
+      - rigorous
+      - scrupulously
+      - serious
+      - seriously
+      - sinuous
+      - strenuous
+      - strenuously
+      - synonymous
+      - tortuous
+      - treacherous
+      - tremendous
+      - unanimous
+      - unscrupulous
+      - unscrupulously
+      - venomous
+      - vigorous
+      - viscous
+      - zealous
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ous -> adventurous
+  - -ious -> ambitious
+  - -ous -> analogous
+  - -ous -> anonymous
+  - -ious -> anxious
+  - -ous -> arduous
+  - -ous -> autonomous
+  - -ous -> carnivorous
+  - -ous -> cautious
+  - -ous -> cautiously
+  - -ious -> conscientious
+  - -ous -> conscious
+  - -uous -> conspicuous
+  - -ious -> contagious
+  - -ous -> contiguous
+  - -eous -> courteously
+  - -ios -> curiosity
+  - -ious -> curious
+  - -ous -> dangerous
+  - -uous -> deciduous
+  - -ious -> delicious
+  - -ous -> disastrous
+  - -ous -> enormous
+  - -ous -> fortuitous
+  - -ous -> fortuitously
+  - -ous -> frivolous
+  - -ous -> furious
+  - -ous -> furiously
+  - -eous -> gaseous
+  - -ous -> generous
+  - -ous -> glamorous
+  - -ous -> hazardous
+  - -ous -> humorous
+  - -ous -> incongruous
+  - -ous -> ingenious
+  - -ous -> ingeniously
+  - -ous -> jealousy
+  - -ous -> luminous
+  - -ous -> lustrous
+  - -ous -> marvelous
+  - -ous -> meticulous
+  - -ous -> miraculous
+  - -ous -> monotonous
+  - -ous -> nervous
+  - -ous -> numerous
+  - -ous -> platitudinous
+  - -ous -> populous
+  - -ous -> porous
+  - -ous -> posthumous
+  - -ous -> precious
+  - -ous -> precipitous
+  - -ous -> prosperous
+  - -ous -> ridiculous
+  - -ous -> rigorous
+  - -ous -> scrupulously
+  - -ous -> serious
+  - -ous -> seriously
+  - -ous -> sinuous
+  - -ous -> strenuous
+  - -ous -> strenuously
+  - -ous -> synonymous
+  - -ous -> tortuous
+  - -ous -> treacherous
+  - -ous -> tremendous
+  - -ous -> unanimous
+  - -ous -> unscrupulous
+  - -ous -> unscrupulously
+  - -ous -> venomous
+  - -ous -> vigorous
+  - -ous -> viscous
+  - -ous -> zealous
+high_value_words:
+  - adventurous
+  - ambitious
+  - analogous
+  - anonymous
+  - anxious
+  - arduous
+  - autonomous
+  - carnivorous
+  - cautious
+  - cautiously
+  - conscientious
+  - conscious
+  - conspicuous
+  - contagious
+  - contiguous
+  - courteously
+  - curiosity
+  - curious
+  - dangerous
+  - deciduous
+  - delicious
+  - disastrous
+  - enormous
+  - fortuitous
+  - fortuitously
+  - frivolous
+  - furious
+  - furiously
+  - gaseous
+  - generous
+  - glamorous
+  - hazardous
+  - humorous
+  - incongruous
+  - ingenious
+  - ingeniously
+  - jealousy
+  - luminous
+  - lustrous
+  - marvelous
+  - meticulous
+  - miraculous
+  - monotonous
+  - nervous
+  - numerous
+  - platitudinous
+  - populous
+  - porous
+  - posthumous
+  - precious
+  - precipitous
+  - prosperous
+  - ridiculous
+  - rigorous
+  - scrupulously
+  - serious
+  - seriously
+  - sinuous
+  - strenuous
+  - strenuously
+  - synonymous
+  - tortuous
+  - treacherous
+  - tremendous
+  - unanimous
+  - unscrupulous
+  - unscrupulously
+  - venomous
+  - vigorous
+  - viscous
+  - zealous
+confusable_words:
+  []

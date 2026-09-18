@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: decay
+word: decay
+pos: verb/noun
+zh: 腐烂；衰落
+en: to rot, decompose, or gradually decline
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: cad-cid-cas
+    form: cay
+    meaning_in_word: fall, decline
+    zh: 落下、发生
+    role: root
+    is_core: true
+    note: from Latin cadere through French forms
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可用于 organic matter, teeth, society, influence。

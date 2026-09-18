@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aggressiveness
+word: aggressiveness
+pos: noun
+zh: 侵略性；争斗性；强势
+en: the quality of being forceful, determined, or ready to attack
+components:
+  - morpheme: ad
+    form: ag-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: grad-gress
+    form: gress
+    meaning_in_word: step, attack
+    zh: 迈步；前进
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: tending to
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: quality
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - aggressive
+word_family_details:
+  - word: aggressive
+    en: forceful, determined, and energetic
+    zh: 强有力的；坚持己见的
+confusables:
+  []
+examples:
+  - en: Excessive aggressiveness can damage cooperation.
+    zh: 过度强势会破坏合作。
+why_confusing: 可以指行为攻击性，也可以指商业策略的强势。

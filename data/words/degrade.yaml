@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: degrade
+word: degrade
+pos: verb
+zh: 使降级；贬低；退化
+en: to lower in rank, quality, dignity, or condition
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: grad
+    form: grad
+    meaning_in_word: step, grade
+    zh: 台阶；等级；行进
+    role: root
+    is_core: true
+word_family:
+  - degradation
+word_family_details:
+  - word: degradation
+    en: the process of becoming lower in quality, status, or condition
+    zh: 退化；降级；降格
+confusables:
+  []
+examples:
+  []
+why_confusing: degrade 可用于社会地位、环境、材料质量。

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: copper
+word: copper
+pos: noun
+zh: 铜
+en: a reddish-brown metal used for wire, pipes, and coins
+components:
+  - morpheme: copper
+    form: copper
+    meaning_in_word: copper
+    zh: 铜
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: copper 也可指铜币或铜色。

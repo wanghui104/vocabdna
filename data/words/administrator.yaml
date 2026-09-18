@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: administrator
+word: administrator
+pos: noun
+zh: 管理者；行政官
+en: a person who manages an organization, system, or program
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: minist
+    form: ministr
+    meaning_in_word: serve, manage
+    zh: 服务；管理
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -ator
+    meaning_in_word: person who does
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - administer
+  - administration
+  - administrative
+word_family_details:
+  - word: administer
+    en: to manage, direct, or give something officially
+    zh: 管理；执行；施用
+  - word: administration
+    en: the act or system of managing an organization, program, or rule
+    zh: 经营；管理；行政
+  - word: administrative
+    en: relating to the work of managing an organization or office
+    zh: 管理的；行政的
+confusables:
+  []
+examples:
+  - en: The administrator updated the database.
+    zh: 管理员更新了数据库。
+why_confusing: 在计算机语境中常指系统管理员或管理员权限。

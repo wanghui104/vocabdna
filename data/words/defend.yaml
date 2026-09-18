@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: defend
+word: defend
+pos: verb
+zh: 防护；辩护
+en: to protect from attack or speak in support of someone or something
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: fend
+    form: fend
+    meaning_in_word: ward off
+    zh: 抵御；防护
+    role: root
+    is_core: true
+word_family:
+  - defense
+  - defensive
+word_family_details:
+  - word: defense
+    en: the act or means of protecting, or arguments supporting a position
+    zh: 防卫；防卫物；辩护
+  - word: defensive
+    en: intended to protect, or quick to protect oneself from criticism
+    zh: 自卫的；防御性的
+confusables:
+  []
+examples:
+  []
+why_confusing: defend against attack; defend a claim/person。

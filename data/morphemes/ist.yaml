@@ -1,26 +1,147 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: ist
 display: -ist
 type: suffix
-core_meaning: person who practices or specializes in
-zh: 从事……的人；专家
-origin: Greek -istes through Latin and French
+core_meaning: person concerned with
+zh: 从事……的人
+origin: Greek
+source_form: Greek -istes
+source_meaning: one who does
+source_meaning_zh: 做某事的人
+related_morphemes:
+  []
 senses:
-  - meaning: specialist / practitioner
-    zh: 专家；从业者
+  - meaning: person concerned with
+    zh: 从事……的人
     examples:
+      - abolitionist
+      - anarchist
+      - atheist
+      - athlete
+      - balloonist
       - biologist
-      - geologist
-      - archaeologist
+      - catalyst
+      - cellist
+      - conservationist
+      - dentist
+      - dentistry
+      - ecologist
+      - escapist
+      - feminist
+      - humanist
+      - humanistic
+      - instrumentalist
+      - journalist
+      - journalistic
+      - linguistic
+      - linguistics
+      - lyricist
+      - meteorologist
+      - minimalist
+      - naturalist
+      - naturalistic
+      - nonconformist
+      - optimist
+      - optimistic
+      - optometrist
+      - paleontologist
+      - portraitist
+      - projectionist
+      - protagonist
+      - protectionist
+      - receptionist
+      - satirist
+      - soloist
+      - sophistication
+      - theist
+      - vitalist
 similar_form:
-  - ism
+  []
 similar_meaning:
-  - er
-  - or
+  []
 patterns:
-  - field + -ist = person who studies or practices that field
+  - -ist -> abolitionist
+  - -ist -> anarchist
+  - -ist -> atheist
+  - -ete -> athlete
+  - -ist -> balloonist
+  - -ist -> biologist
+  - -ist -> catalyst
+  - -ist -> cellist
+  - -ist -> conservationist
+  - -ist -> dentist
+  - -ist -> dentistry
+  - -ist -> ecologist
+  - -ist -> escapist
+  - -ist -> feminist
+  - -ist -> humanist
+  - -ist -> humanistic
+  - -ist -> instrumentalist
+  - -ist -> journalist
+  - -ist -> journalistic
+  - -ist -> linguistic
+  - -ist -> linguistics
+  - -ist -> lyricist
+  - -ist -> meteorologist
+  - -ist -> minimalist
+  - -ist -> naturalist
+  - -ist -> naturalistic
+  - -ist -> nonconformist
+  - -ist -> optimist
+  - -ist -> optimistic
+  - -ist -> optometrist
+  - -ist -> paleontologist
+  - -ist -> portraitist
+  - -ist -> projectionist
+  - -ist -> protagonist
+  - -ist -> protectionist
+  - -ist -> receptionist
+  - -ist -> satirist
+  - -ist -> soloist
+  - -ist -> sophistication
+  - -ist -> theist
+  - -ist -> vitalist
 high_value_words:
+  - abolitionist
+  - anarchist
+  - atheist
+  - athlete
+  - balloonist
   - biologist
-  - geologist
-  - archaeologist
+  - catalyst
+  - cellist
+  - conservationist
+  - dentist
+  - dentistry
+  - ecologist
+  - escapist
+  - feminist
+  - humanist
+  - humanistic
+  - instrumentalist
+  - journalist
+  - journalistic
+  - linguistic
+  - linguistics
+  - lyricist
+  - meteorologist
+  - minimalist
+  - naturalist
+  - naturalistic
+  - nonconformist
+  - optimist
+  - optimistic
+  - optometrist
+  - paleontologist
+  - portraitist
+  - projectionist
+  - protagonist
+  - protectionist
+  - receptionist
+  - satirist
+  - soloist
+  - sophistication
+  - theist
+  - vitalist
 confusable_words:
-  - -ist person vs -ism doctrine
+  []

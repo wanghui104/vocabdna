@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chagrin
+word: chagrin
+pos: noun
+zh: 懊恼；失望
+en: annoyance or embarrassment caused by failure or disappointment
+components:
+  - morpheme: chagrin
+    form: chagrin
+    meaning_in_word: vexation
+    zh: 懊恼；失望
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: to one's chagrin 是固定表达。

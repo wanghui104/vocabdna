@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: enzyme
+word: enzyme
+pos: noun
+zh: 酶；生物催化剂
+en: a biological catalyst that speeds up a chemical reaction
+components:
+  - morpheme: en-greek
+    form: en-
+    meaning_in_word: in, within / 在内
+    zh: 在内
+    role: prefix
+    is_core: false
+    note: 希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。
+  - morpheme: zym
+    form: zyme
+    meaning_in_word: leaven / 酵母；发酵剂
+    zh: 酵母；发酵剂
+    role: root
+    is_core: true
+    note: enzyme = en- 在内 + zyme 酵母，命名源于酵母中的作用物。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

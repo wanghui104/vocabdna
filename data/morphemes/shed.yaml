@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shed
+display: shed
+type: root
+core_meaning: shed
+zh: 脱落；棚
+origin: teaching morphology
+source_form: shed
+source_meaning: shed
+source_meaning_zh: 脱落；棚
+related_morphemes:
+  []
+senses:
+  - meaning: shed
+    zh: 脱落；棚
+    examples:
+      - shed
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - shed -> shed
+high_value_words:
+  - shed
+confusable_words:
+  []

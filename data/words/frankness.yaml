@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frankness
+word: frankness
+pos: noun
+zh: 坦率；直率
+en: honesty and openness
+components:
+  - morpheme: frank
+    form: frank
+    meaning_in_word: free, open / 自由；坦率
+    zh: 自由；坦率
+    role: root
+    is_core: true
+    note: 由法兰克族名到自由，再到坦率；族名更深起源有争议，不硬拆。
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: state, quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - frank
+  - frankly
+word_family_details:
+  - word: frank
+    en: open and honest in expressing thoughts
+    zh: 坦率的；直言不讳的
+  - word: frankly
+    en: openly and honestly
+    zh: 坦率地
+confusables:
+  []
+examples:
+  []
+why_confusing: 

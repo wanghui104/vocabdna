@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: um
+display: -um
+type: suffix
+core_meaning: singular noun ending
+zh: 单数词尾
+origin: Latin
+source_form: Latin neuter singular -um
+source_meaning: singular noun ending
+source_meaning_zh: 单数词尾
+source_note: flagellum 的中性单数结尾。
+related_morphemes:
+  []
+senses:
+  - meaning: singular noun ending
+    zh: 单数词尾
+    examples:
+      - flagellum
+      - helium
+      - medium
+      - optimum
+      - quantum theory
+      - stratum
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -um -> flagellum
+  - -um -> helium
+  - -um -> medium
+  - -um -> optimum
+  - um -> quantum theory
+  - -um -> stratum
+high_value_words:
+  - flagellum
+  - helium
+  - medium
+  - optimum
+  - quantum theory
+  - stratum
+confusable_words:
+  []

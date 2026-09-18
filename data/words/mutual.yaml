@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mutual
+word: mutual
+pos: adjective
+zh: 相互的；共有的
+en: Means 相互的；共有的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mut
+    form: mut
+    meaning_in_word: 通勤；交换
+    zh: 通勤；交换
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mut.
+  - morpheme: ual
+    form: ual
+    meaning_in_word: ual
+    zh: ual
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ual.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

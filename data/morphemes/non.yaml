@@ -1,0 +1,54 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: non
+display: non-
+type: prefix
+core_meaning: not, non-
+zh: 非；不
+origin: Latin
+source_form: Latin non
+source_meaning: not
+source_meaning_zh: 不；非
+related_morphemes:
+  []
+senses:
+  - meaning: not, non-
+    zh: 非；不
+    examples:
+      - nonconformist
+      - nonconformity
+      - nonfiction
+      - nonhuman
+      - nonprofessional
+      - nonrelevant
+      - nonsense
+      - nontraditional
+      - nonverbal
+      - nonviolence
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - non- -> nonconformist
+  - non- -> nonconformity
+  - non- -> nonfiction
+  - non- -> nonhuman
+  - non- -> nonprofessional
+  - non- -> nonrelevant
+  - non- -> nonsense
+  - non- -> nontraditional
+  - non- -> nonverbal
+  - non- -> nonviolence
+high_value_words:
+  - nonconformist
+  - nonconformity
+  - nonfiction
+  - nonhuman
+  - nonprofessional
+  - nonrelevant
+  - nonsense
+  - nontraditional
+  - nonverbal
+  - nonviolence
+confusable_words:
+  []

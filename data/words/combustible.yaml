@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: combustible
+word: combustible
+pos: adjective
+zh: 易燃的
+en: able to catch fire and burn
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: completely
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: combust
+    form: bust
+    meaning_in_word: burn
+    zh: 燃烧
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -ible
+    meaning_in_word: able to be
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - combustion
+word_family_details:
+  - word: combustion
+    en: the process of burning
+    zh: 燃烧
+confusables:
+  []
+examples:
+  []
+why_confusing: combustible material 指可燃材料。

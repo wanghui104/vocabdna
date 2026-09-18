@@ -15,13 +15,22 @@ senses:
     zh: 名字
     examples:
       - acronym
+      - anonymous
+      - synonym
+      - synonymous
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - onym- -> acronym
+  - onym -> anonymous
+  - onym -> synonym
+  - onym -> synonymous
 high_value_words:
   - acronym
+  - anonymous
+  - synonym
+  - synonymous
 confusable_words:
   []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: constrict
+word: constrict
+pos: verb
+zh: 约束；收缩；压缩
+en: to make something tighter or narrower
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together/intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: strict
+    form: strict
+    meaning_in_word: draw tight
+    zh: 收缩；约束
+    role: root
+    is_core: true
+word_family:
+  - constricted
+word_family_details:
+  - word: constricted
+    en: made narrow, tight, or restricted
+    zh: 收缩的；受约束的；抑制的
+confusables:
+  []
+examples:
+  []
+why_confusing: blood vessels/pupils constrict.

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compound
+word: compound
+pos: noun
+zh: 化合物；复合物
+en: a substance or word made of combined parts
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: pon
+    form: pound
+    meaning_in_word: put
+    zh: 放置
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: compound word/compound eyes/chemical compound。

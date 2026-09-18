@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ardent
+word: ardent
+pos: adjective
+zh: 热烈投入的；极热心的
+en: very enthusiastic, passionate, or devoted
+components:
+  - morpheme: ard
+    form: ard
+    meaning_in_word: burn
+    zh: 燃烧；热烈
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: arduous
+    reason: ardent 是热烈；arduous 是艰难费力。
+    zh_reason: ardent 是热烈；arduous 是艰难费力。
+examples:
+  []
+why_confusing: ardent 是热烈；arduous 是艰难费力。

@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: enthusiastic
+word: enthusiastic
+pos: adjective
+zh: 热情的
+en: showing strong interest and eagerness
+components:
+  - morpheme: enthusi
+    form: enthusiast
+    meaning_in_word: inspired, eager / 受激励；热情
+    zh: 受激励；热情
+    role: root
+    is_core: true
+    note: 深层 en- 在内 + theos 神 → entheos → enthousiazein 受神激励；enthusi- 为派生词干，enthusiast- 含希腊施事结尾，不硬拆成英语 ast。
+    related_morphemes:
+      - en-greek
+      - theo
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - enthusiasm
+  - enthusiast
+  - enthusiastically
+word_family_details:
+  - word: enthusiasm
+    en: strong interest, eagerness, or enjoyment
+    zh: 热情；热忱
+  - word: enthusiast
+    en: a person strongly interested in an activity
+    zh: 爱好者
+  - word: enthusiastically
+    en: with strong interest and eagerness
+    zh: 热情地
+confusables:
+  []
+examples:
+  []
+why_confusing: 

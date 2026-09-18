@@ -1,34 +1,50 @@
 # Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: telescope
 word: telescope
-pos: noun/verb
-zh: 望远镜；压缩
-en: an instrument for viewing distant objects
+pos: noun
+zh: 望远镜
+en: Means 望远镜; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: tele
-    form: tele-
-    meaning_in_word: far
-    zh: 远
-    role: combining_form
+    form: tele
+    meaning_in_word: far / 远
+    zh: 远程
+    role: root
     is_core: true
-  - morpheme: spect
-    form: scope-
-    meaning_in_word: look
-    zh: 看
-    role: combining_form
+  - morpheme: scope
+    form: scope
+    meaning_in_word: look; instrument for seeing / 看；观察仪器
+    zh: 看；观察器
+    role: root
     is_core: true
-    note: scope root can be split later if more scope words are added
 word_family:
-  - telescopic
+  - microbe
+  - microcosm
+  - microorganism
+  - microscope
+  - microscopic
+  - microwave
 word_family_details:
-  - word: telescopic
-    en: related form of telescopic
-    zh: telescopic 的相关词
+  - word: microbe
+    en: Means 微生物; reviewed from the TOEFL source gloss for learner display.
+    zh: 微生物
+  - word: microcosm
+    en: Means 微观世界; reviewed from the TOEFL source gloss for learner display.
+    zh: 微观世界
+  - word: microorganism
+    en: Means 微生物; reviewed from the TOEFL source gloss for learner display.
+    zh: 微生物
+  - word: microscope
+    en: Means 显微镜; reviewed from the TOEFL source gloss for learner display.
+    zh: 显微镜
+  - word: microscopic
+    en: Means 用显微镜可见的；极小的; reviewed from the TOEFL source gloss for learner display.
+    zh: 用显微镜可见的；极小的
+  - word: microwave
+    en: Means 微波（炉）; reviewed from the TOEFL source gloss for learner display.
+    zh: 微波（炉）
 confusables:
-  - word: telegraph
-    reason: telescope 是望远镜；telegraph 是远距离书写/电报。
-    zh_reason: telescope 是望远镜；telegraph 是远距离书写/电报。
+  []
 examples:
-  - en: The telescope revealed distant galaxies.
-    zh: 望远镜揭示了遥远的星系。
-why_confusing: telescope 是望远镜；telegraph 是远距离书写/电报。
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

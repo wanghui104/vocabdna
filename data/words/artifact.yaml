@@ -2,30 +2,60 @@
 id: artifact
 word: artifact
 pos: noun
-zh: 人工制品；文物
-en: an object made by humans, often of historical interest
+zh: 人工制品；文物；文化产物；（实验、图像等的）伪象
+en: a human-made object, often from the past; a cultural product; or an effect introduced by observation or processing
 components:
   - morpheme: art
-    form: art
-    meaning_in_word: skill
+    form: arti
+    meaning_in_word: skill, craft / 技艺
     zh: 技艺、技巧
     role: root
     is_core: true
+    note: arti- 是 art- 的复合词形式；i 是构词连接元音，无独立词义。
   - morpheme: fac
     form: fact
-    meaning_in_word: make
+    meaning_in_word: make, do / 做、制造
     zh: 做、制造
     role: root
     is_core: true
+    note: 对应 Latin factum / factus（做成的东西／被做成的），来自 facere。
 word_family:
-  []
+  - artefact
+  - artifactual
+  - artefactual
 word_family_details:
-  []
+  - word: artefact
+    en: a human-made object, often from the past; a cultural product; or an effect introduced by observation or processing
+    zh: 人工制品；文物；文化产物；（实验、图像等的）伪象
+  - word: artifactual
+    en: relating to human-made objects, or caused by the process of observation or measurement
+    zh: 人工制品的；文物的；伪象性的
+  - word: artefactual
+    en: relating to human-made objects, or caused by the process of observation or measurement
+    zh: 人工制品的；文物的；伪象性的
 confusables:
   - word: article
-    reason: artifact 是人工制品；article 是文章或物品。
-    zh_reason: artifact 是人工制品；article 是文章或物品。
+    reason: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
+    zh_reason: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
+  - word: fossil
+    reason: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
+    zh_reason: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
+  - word: relic
+    reason: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
+    zh_reason: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
+  - word: artificial
+    reason: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
+    zh_reason: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
+  - word: artifice
+    reason: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
+    zh_reason: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
 examples:
   - en: The museum displayed an ancient artifact.
     zh: 博物馆展出了一件古代文物。
-why_confusing: artifact 是人工制品；article 是文章或物品。
+  - en: The ceremony is an artifact of an older social order.
+    zh: 这个仪式是旧社会秩序的产物。
+  - en: The extra peak was an artifact of the recording method.
+    zh: 多出的峰是记录方法造成的伪象。
+  - en: Heavy compression left visible artifacts around the letters.
+    zh: 过度压缩使文字周围出现了明显的图像瑕疵。
+why_confusing: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。

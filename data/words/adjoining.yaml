@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adjoining
+word: adjoining
+pos: adjective
+zh: 毗邻的；相连的
+en: next to and connected with something
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: junct-join
+    form: join
+    meaning_in_word: connect
+    zh: 连接；结合
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: related to
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - adjoin
+  - adjunct
+word_family_details:
+  - word: adjoin
+    en: to be next to and usually touching another place or thing
+    zh: 毗连；邻接
+  - word: adjunct
+    en: something added to another thing but not an essential part of it
+    zh: 附件；附属物；附属的
+confusables:
+  - word: adjacent
+    reason: adjacent rooms may simply be nearby; adjoining rooms normally touch or connect.
+    zh_reason: adjacent rooms may simply be nearby; adjoining rooms normally touch or connect.
+examples:
+  - en: They booked adjoining rooms.
+    zh: 他们订了相邻连通的房间。
+why_confusing: adjacent rooms may simply be nearby; adjoining rooms normally touch or connect.

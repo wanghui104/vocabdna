@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: universal
+word: universal
+pos: adjective
+zh: 宇宙的；普遍的；共同的
+en: Means 宇宙的；普遍的；共同的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: uni
+    form: uni
+    meaning_in_word: one / 一
+    zh: 一
+    role: root
+    is_core: true
+  - morpheme: vers
+    form: vers
+    meaning_in_word: turn / 转；宇宙
+    zh: 转
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 与…有关
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - unify
+  - unity
+word_family_details:
+  - word: unify
+    en: Means 统一，使成一体; reviewed from the TOEFL source gloss for learner display.
+    zh: 统一，使成一体
+  - word: unity
+    en: Means 结合，一致; reviewed from the TOEFL source gloss for learner display.
+    zh: 结合，一致
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

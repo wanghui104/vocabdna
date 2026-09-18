@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: irrigation
+word: irrigation
+pos: noun
+zh: 灌溉
+en: Means 灌溉; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ir
+    form: ir-
+    meaning_in_word: 不；入
+    zh: 不；入
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ir.
+  - morpheme: rig
+    form: rig
+    meaning_in_word: 浇水；灌溉
+    zh: 浇水；灌溉
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:rig.
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: 动作；过程
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ation.
+word_family:
+  - irrigate
+word_family_details:
+  - word: irrigate
+    en: Means 灌溉; reviewed from the TOEFL source gloss for learner display.
+    zh: 灌溉
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

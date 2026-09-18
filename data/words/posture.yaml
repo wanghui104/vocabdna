@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: posture
+word: posture
+pos: noun
+zh: 姿势，体态
+en: Means 姿势，体态; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: post
+    form: post-
+    meaning_in_word: after; mail/post / 后；邮政/张贴
+    zh: 后；邮政/张贴
+    role: prefix
+    is_core: false
+  - morpheme: ure
+    form: -ure
+    meaning_in_word: state or thing / 状态；事物
+    zh: 行为；结果
+    role: suffix
+    is_core: false
+word_family:
+  - post
+  - poster
+  - postal
+word_family_details:
+  - word: post
+    en: Means 张贴，揭示；柱；邮件; reviewed from the TOEFL source gloss for learner display.
+    zh: 张贴，揭示；柱；邮件
+  - word: poster
+    en: Means 海报，招贴; reviewed from the TOEFL source gloss for learner display.
+    zh: 海报，招贴
+  - word: postal
+    en: Means 邮政的，邮局的; reviewed from the TOEFL source gloss for learner display.
+    zh: 邮政的，邮局的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

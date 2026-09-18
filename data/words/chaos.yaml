@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chaos
+word: chaos
+pos: noun
+zh: 混乱
+en: complete disorder and confusion
+components:
+  - morpheme: chaos
+    form: chaos
+    meaning_in_word: gap, disorder
+    zh: 混乱
+    role: root
+    is_core: true
+word_family:
+  - chaotic
+word_family_details:
+  - word: chaotic
+    en: completely confused or disordered
+    zh: 混乱的
+confusables:
+  []
+examples:
+  []
+why_confusing: chaos 是名词；chaotic 是形容词。

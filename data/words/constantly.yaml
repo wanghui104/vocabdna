@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: constantly
+word: constantly
+pos: adverb
+zh: 不断地；经常地
+en: all the time or repeatedly
+components:
+  - morpheme: stand
+    form: constant
+    meaning_in_word: unchanging/continual
+    zh: 站立；状态
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - constant
+word_family_details:
+  - word: constant
+    en: unchanging, continuing, or repeatedly occurring
+    zh: 不变的；持续的；一再重复的；常量
+confusables:
+  []
+examples:
+  []
+why_confusing: constantly checking/working/asking 常见。

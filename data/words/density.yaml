@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: density
+word: density
+pos: noun
+zh: 密度；密集程度
+en: the degree to which matter, people, or things are packed into a space
+components:
+  - morpheme: dense
+    form: dens
+    meaning_in_word: dense
+    zh: 浓缩；冷凝
+    role: root
+    is_core: true
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: quality or state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - dense
+word_family_details:
+  - word: dense
+    en: closely packed, thick, or difficult to see or understand through
+    zh: 密集的；浓厚的；稠密的
+confusables:
+  []
+examples:
+  []
+why_confusing: population density 人口密度；bone density 骨密度。

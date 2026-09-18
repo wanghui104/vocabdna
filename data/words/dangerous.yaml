@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dangerous
+word: dangerous
+pos: adjective
+zh: 危险的
+en: likely to cause harm, injury, or loss
+components:
+  - morpheme: danger
+    form: danger
+    meaning_in_word: risk
+    zh: 危险；风险
+    role: root
+    is_core: true
+    note: 表层 danger，dangerous = danger + -ous。深层 Old French dangier ← *dominarium 主人的权力 ← Latin dominus 主人 ← domus 房屋；从受人控制发展为危险。此来源不是英语后缀 -dom。
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: full of
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dangerous to someone / dangerous for someone 都可见。

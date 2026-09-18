@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compare
+word: compare
+pos: verb
+zh: 比较
+en: to examine how things are similar or different
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: par
+    form: par
+    meaning_in_word: equal, like
+    zh: 比较；相当
+    role: root
+    is_core: true
+word_family:
+  - comparable
+  - comparative
+  - comparatively
+word_family_details:
+  - word: comparable
+    en: similar enough to be compared
+    zh: 可比的；类似的
+  - word: comparative
+    en: based on comparison, or relative rather than absolute
+    zh: 比较的；相对的
+  - word: comparatively
+    en: relatively, when compared with others
+    zh: 相当地；比较地
+confusables:
+  []
+examples:
+  []
+why_confusing: compare with/to 搭配语义略不同。

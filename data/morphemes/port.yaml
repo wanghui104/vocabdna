@@ -2,29 +2,47 @@
 id: port
 display: port
 type: root
-core_meaning: carry
-zh: 携带、运输
+core_meaning: carry; port
+zh: 携带；港口
 origin: Latin
+source_form: Latin portare / portus
+source_meaning: carry; harbor, port
+source_meaning_zh: 携带；港口
 related_morphemes:
   []
 senses:
-  - meaning: carry
-    zh: 携带、运输
+  - meaning: carry; port
+    zh: 携带；港口
     examples:
-      - transport
-      - import
       - export
+      - import
+      - opportunity
+      - portable
+      - portend
+      - portion
+      - seaport
+      - transport
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - port -> transport
-  - port -> import
   - port -> export
+  - port -> import
+  - port -> opportunity
+  - port -> portable
+  - port -> portend
+  - port -> portion
+  - port -> seaport
+  - port -> transport
 high_value_words:
-  - transport
-  - import
   - export
+  - import
+  - opportunity
+  - portable
+  - portend
+  - portion
+  - seaport
+  - transport
 confusable_words:
   []

@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: furiously
+word: furiously
+pos: adverb
+zh: 狂怒地；猛烈地
+en: with extreme anger or intensity
+components:
+  - morpheme: furi
+    form: furi
+    meaning_in_word: rage / 狂怒
+    zh: 狂怒
+    role: root
+    is_core: true
+    note: furious = furi- + -ous；不是 fur 毛皮。furia 来自 furere 发狂的名词派生。
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: full of, having / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - fury
+  - furious
+word_family_details:
+  - word: fury
+    en: extreme anger or violent force
+    zh: 狂怒；猛烈
+  - word: furious
+    en: extremely angry
+    zh: 狂怒的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

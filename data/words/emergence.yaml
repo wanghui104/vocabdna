@@ -1,0 +1,51 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: emergence
+word: emergence
+pos: noun
+zh: 浮现，出现
+en: Means 浮现，出现; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: 出；离开；加强
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:e.
+  - morpheme: merg
+    form: merg
+    meaning_in_word: 浸入；下沉
+    zh: 浸入；下沉
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:merg.
+  - morpheme: ence
+    form: -ence
+    meaning_in_word: 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ence.
+word_family:
+  - emerge
+  - emerging
+  - merge
+  - merger
+word_family_details:
+  - word: emerge
+    en: Means 显现，浮现; reviewed from the TOEFL source gloss for learner display.
+    zh: 显现，浮现
+  - word: emerging
+    en: beginning to appear, develop, or become important
+    zh: 新兴的；正在形成的
+  - word: merge
+    en: Means （使）合并，（使）融合; reviewed from the TOEFL source gloss for learner display.
+    zh: （使）合并，（使）融合
+  - word: merger
+    en: Means 合并; reviewed from the TOEFL source gloss for learner display.
+    zh: 合并
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

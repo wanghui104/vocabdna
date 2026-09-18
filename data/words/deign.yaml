@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deign
+word: deign
+pos: verb
+zh: 屈尊；俯就
+en: to do something one considers beneath one's dignity
+components:
+  - morpheme: dign
+    form: deign
+    meaning_in_word: deem worthy
+    zh: 值得；屈尊
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常带讽刺：He did not deign to reply。

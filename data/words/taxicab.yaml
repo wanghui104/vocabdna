@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: taxicab
+word: taxicab
+pos: noun
+zh: 出租车
+en: a car with a driver that you pay to take you somewhere
+components:
+  - morpheme: taxi
+    form: taxi
+    meaning_in_word: fare meter
+    zh: 出租车
+    role: root
+    is_core: true
+  - morpheme: cab
+    form: cab
+    meaning_in_word: hired vehicle
+    zh: 出租车；出租马车
+    role: root
+    is_core: true
+word_family:
+  - cab
+word_family_details:
+  - word: cab
+    en: a taxi or formerly a hired carriage
+    zh: 出租马车；出租汽车
+confusables:
+  []
+examples:
+  []
+why_confusing: taxicab 比 taxi 更正式或完整。

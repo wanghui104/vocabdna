@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: erect
+word: erect
+pos: verb/adjective
+zh: 建立；竖起
+en: to build or set upright
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: rect
+    form: rect
+    meaning_in_word: straight, right / 直；正
+    zh: 直；正
+    role: root
+    is_core: true
+    note: rectus 是 regere 引导、使直的过去分词；erect 为 e- + rect-。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

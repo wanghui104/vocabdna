@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: complimentary
+word: complimentary
+pos: adjective
+zh: 赞美的；免费的
+en: expressing praise, or given free as a courtesy
+components:
+  - morpheme: ple
+    form: compliment
+    meaning_in_word: praise/courtesy
+    zh: 补足；补充
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ary
+    meaning_in_word: related
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - compliment
+word_family_details:
+  - word: compliment
+    en: a polite expression of praise, or to praise someone
+    zh: 恭维；称赞
+confusables:
+  - word: complementary
+    reason: complimentary ticket 是赠票，不是互补票。
+    zh_reason: complimentary ticket 是赠票，不是互补票。
+examples:
+  []
+why_confusing: complimentary ticket 是赠票，不是互补票。

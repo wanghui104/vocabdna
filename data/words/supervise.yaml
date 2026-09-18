@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: supervise
+word: supervise
+pos: verb
+zh: 监督，指导
+en: Means 监督，指导; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: super
+    form: super-
+    meaning_in_word: above; over / 在上；超过
+    zh: 超过；在上
+    role: prefix
+    is_core: false
+  - morpheme: vis
+    form: vis
+    meaning_in_word: see / 看
+    zh: 看、可见
+    role: root
+    is_core: true
+  - morpheme: e
+    form: -e
+    meaning_in_word: silent/linking e / 静音或连接 e
+    zh: 出；离开；加强
+    role: suffix
+    is_core: false
+word_family:
+  - superior
+  - superior-to
+  - supervision
+word_family_details:
+  - word: superior
+    en: Means 级别或地位更高的；质量或价值更好的; reviewed from the TOEFL source gloss for learner display.
+    zh: 级别或地位更高的；质量或价值更好的
+  - word: superior-to
+    en: Means 高于，优于; reviewed from the TOEFL source gloss for learner display.
+    zh: 高于，优于
+  - word: supervision
+    en: Means 监督，管理; reviewed from the TOEFL source gloss for learner display.
+    zh: 监督，管理
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

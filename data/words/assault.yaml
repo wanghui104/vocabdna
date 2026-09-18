@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assault
+word: assault
+pos: noun/verb
+zh: 袭击；攻击
+en: a physical or verbal attack
+components:
+  - morpheme: ad
+    form: as-
+    meaning_in_word: to, toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: sali
+    form: sault
+    meaning_in_word: leap, spring upon
+    zh: 跳出；跃起
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

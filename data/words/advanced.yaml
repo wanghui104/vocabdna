@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: advanced
+word: advanced
+pos: adjective
+zh: 高级的；先进的；年老的
+en: far ahead in development, difficulty, or age
+components:
+  - morpheme: ante-avant
+    form: advance
+    meaning_in_word: move forward
+    zh: 在前；向前
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having moved
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - advance
+  - advancement
+word_family_details:
+  - word: advance
+    en: to move forward, improve, or help something develop
+    zh: 前进；提高；发展；提升
+  - word: advancement
+    en: progress, improvement, or promotion to a higher position
+    zh: 进展；提升
+confusables:
+  []
+examples:
+  - en: The course covers advanced biology.
+    zh: 这门课讲授高级生物学。
+why_confusing: advanced age 指高龄；advanced technology 指先进技术。

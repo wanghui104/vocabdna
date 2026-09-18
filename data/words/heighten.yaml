@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: heighten
+word: heighten
+pos: verb
+zh: 提高，升高；加深
+en: Means 提高，升高；加深; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: height
+    form: height
+    meaning_in_word: height
+    zh: 高度
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:height.
+  - morpheme: en
+    form: -en
+    meaning_in_word: 使成为；变得
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+    note: Suffix layer from Old English -nian / -en.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

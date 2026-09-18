@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: speak
+display: speak
+type: root
+core_meaning: speak
+zh: 说
+origin: teaching morphology
+source_form: speak
+source_meaning: speak
+source_meaning_zh: 说
+related_morphemes:
+  []
+senses:
+  - meaning: speak
+    zh: 说
+    examples:
+      - outspoken
+      - plainspoken
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - speak -> outspoken
+  - speak -> plainspoken
+high_value_words:
+  - outspoken
+  - plainspoken
+confusable_words:
+  []

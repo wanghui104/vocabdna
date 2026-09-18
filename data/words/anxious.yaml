@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: anxious
+word: anxious
+pos: adjective
+zh: 焦虑的；担忧的；渴望的
+en: worried about uncertainty, or strongly wanting something
+components:
+  - morpheme: anx
+    form: anx
+    meaning_in_word: tight, troubled
+    zh: 紧缩；焦虑
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ious
+    meaning_in_word: having
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: anxious for/to 可表示渴望；anxious about 多表示担忧。

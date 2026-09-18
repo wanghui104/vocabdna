@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distingu
+display: distingu
+type: root
+core_meaning: distinguish
+zh: 区分
+origin: Latin
+source_form: Latin distinguere
+source_meaning: distinguish
+source_meaning_zh: 区分
+related_morphemes:
+  []
+senses:
+  - meaning: distinguish
+    zh: 区分
+    examples:
+      - most distinctive
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - distingu -> most distinctive
+high_value_words:
+  - most distinctive
+confusable_words:
+  []

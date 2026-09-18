@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: date
+display: date
+type: root
+core_meaning: date, given time
+zh: 日期；注明日期
+origin: Latin
+source_form: Latin data
+source_meaning: given
+source_meaning_zh: 给出的
+related_morphemes:
+  []
+senses:
+  - meaning: date, given time
+    zh: 日期；注明日期
+    examples:
+      - antedate
+      - date
+      - date back
+      - dated
+      - outdated
+      - postdate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - date -> antedate
+  - date -> date
+  - date -> date back
+  - date -> dated
+  - date -> outdated
+  - date -> postdate
+high_value_words:
+  - antedate
+  - date
+  - date back
+  - dated
+  - outdated
+  - postdate
+confusable_words:
+  []

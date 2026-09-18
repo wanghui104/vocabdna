@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: attract
+word: attract
+pos: verb
+zh: 吸引；引起注意
+en: to draw someone or something toward itself
+components:
+  - morpheme: ad
+    form: at-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: tract
+    form: tract
+    meaning_in_word: draw, pull
+    zh: 拉、抽出
+    role: root
+    is_core: true
+word_family:
+  - attraction
+  - attractive
+word_family_details:
+  - word: attraction
+    en: the power of drawing interest, or a thing that draws people
+    zh: 吸引；吸引人的事物
+  - word: attractive
+    en: pleasant or interesting enough to draw attention
+    zh: 吸引人的；有魅力的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

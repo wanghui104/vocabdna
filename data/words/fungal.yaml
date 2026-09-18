@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fungal
+word: fungal
+pos: adjective
+zh: 真菌的
+en: relating to or caused by fungi
+components:
+  - morpheme: fung
+    form: fung
+    meaning_in_word: mushroom / 蘑菇；真菌
+    zh: 蘑菇；真菌
+    role: root
+    is_core: true
+    note: fungus = fung- + -us 单数词尾，fungi = fung- + -i 复数词尾；更深与 Greek sphongos 的联系未定。
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - fungus
+  - fungi
+word_family_details:
+  - word: fungus
+    en: an organism such as a mushroom, mold, or yeast
+    zh: 真菌
+  - word: fungi
+    en: organisms such as mushrooms, molds, and yeasts; plural of fungus
+    zh: 真菌（fungus 的复数）
+confusables:
+  []
+examples:
+  []
+why_confusing: 

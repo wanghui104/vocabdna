@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: kinetic
+word: kinetic
+pos: adjective
+zh: 运动的；动力学的
+en: Means 运动的；动力学的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: kinet
+    form: kinet
+    meaning_in_word: 运动
+    zh: 运动
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:kinet.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ic.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

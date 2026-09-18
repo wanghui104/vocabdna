@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: break-apart
+word: break apart
+pos: phrase
+zh: 分开；分裂
+en: to separate into pieces or groups
+components:
+  - morpheme: break
+    form: break
+    meaning_in_word: split
+    zh: 打破；破裂
+    role: root
+    is_core: true
+  - morpheme: apart
+    form: apart
+    meaning_in_word: separately
+    zh: 分开
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可指物理分裂，也可指组织关系分裂。

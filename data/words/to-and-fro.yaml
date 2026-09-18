@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: to-and-fro
+word: to and fro
+pos: phrase
+zh: 来来回回i
+en: Means 来来回回i; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: to
+    form: to
+    meaning_in_word: to / 到；向
+    zh: 向；到
+    role: root
+    is_core: true
+  - morpheme: and
+    form: and
+    meaning_in_word: and / 和
+    zh: and
+    role: root
+    is_core: true
+  - morpheme: fro
+    form: fro
+    meaning_in_word: fro; away/back / 往回；离开
+    zh: 往回；离开
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assortment
+word: assortment
+pos: noun
+zh: 各类物品的聚集；混合物
+en: a collection of different kinds of things
+components:
+  - morpheme: ad
+    form: as-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: sort
+    form: sort
+    meaning_in_word: kind, class
+    zh: 种类；分类；抽签
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result or collection
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - assort
+  - assorted
+word_family_details:
+  - word: assort
+    en: to arrange things by kind or make a mixed set
+    zh: 分类；配成套
+  - word: assorted
+    en: made up of different kinds mixed together
+    zh: 各式各样的；混合的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

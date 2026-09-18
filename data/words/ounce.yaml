@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ounce
+word: ounce
+pos: noun
+zh: 盎司
+en: Means 盎司; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ounce
+    form: ounce
+    meaning_in_word: announce; report / 宣告；说出
+    zh: ounce
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exception
+word: exception
+pos: noun
+zh: 例外
+en: a person or thing outside a general rule; an instance where a rule does not apply
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: cap
+    form: cept
+    meaning_in_word: take, hold, contain / 拿；抓；容纳
+    zh: 拿；抓；容纳
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
+word_family:
+  - exceptional
+  - exceptionally
+  - except
+word_family_details:
+  - word: exceptional
+    en: unusual, often because of outstanding quality
+    zh: 特殊的；杰出的
+  - word: exceptionally
+    en: to an unusually high degree; in an unusual case
+    zh: 格外地；例外地
+  - word: except
+    en: to leave out; not including
+    zh: 除外；除……之外
+confusables:
+  []
+examples:
+  []
+why_confusing: 

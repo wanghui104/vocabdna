@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distaste
+word: distaste
+pos: noun
+zh: 厌恶；反感
+en: a feeling of dislike or disgust
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: taste
+    form: taste
+    meaning_in_word: touch, test, taste / 触摸；试尝
+    zh: 触摸；试尝
+    role: root
+    is_core: true
+word_family:
+  - distasteful
+word_family_details:
+  - word: distasteful
+    en: Means （令人）不愉快的，讨厌的; reviewed from the TOEFL source gloss for learner display.
+    zh: （令人）不愉快的，讨厌的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

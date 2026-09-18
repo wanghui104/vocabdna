@@ -1,27 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: archipelago
 word: archipelago
 pos: noun
-phonetic: /ˌɑːrkəˈpeləɡoʊ/
-zh: 群岛；多岛海
+zh: 群岛
 en: a group or chain of islands
 components:
-  - morpheme: archi
+  - morpheme: arch
     form: archi-
-    meaning_in_word: principal / chief
-    zh: 主要的
+    meaning_in_word: chief, principal
+    zh: 统治；统治者
     role: prefix
-  - morpheme: pelago
-    form: -pelago
+    is_core: false
+  - morpheme: pelag
+    form: pelago
     meaning_in_word: sea
-    zh: 海
+    zh: 海；外海
     role: root
+    is_core: true
 word_family:
-  - archipelagic
+  []
+word_family_details:
+  []
 confusables:
-  - word: archaeology
-    reason: the arch- opening is visually similar, but the semantic path is sea and islands.
-  - word: archetype
-    reason: both begin with arch-like letters, but their roots diverge.
+  []
 examples:
-  - en: The country is an archipelago of thousands of islands.
-    zh: 这个国家是由数千座岛屿组成的群岛。
+  []
+why_confusing: 这是意大利语进入英语的历史复合，按 learner-useful 层面拆 archi + pelago。

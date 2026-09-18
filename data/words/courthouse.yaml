@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: courthouse
+word: courthouse
+pos: noun
+zh: 法院；县政府所在地
+en: a building where courts of law are held
+components:
+  - morpheme: court
+    form: court
+    meaning_in_word: court
+    zh: 法庭；宫廷；球场
+    role: root
+    is_core: true
+  - morpheme: house
+    form: house
+    meaning_in_word: building
+    zh: 房屋；公寓
+    role: root
+    is_core: true
+word_family:
+  - court
+  - courtship
+  - courtly
+  - courteously
+word_family_details:
+  - word: court
+    en: a legal or playing place, or to seek someone's favor/support
+    zh: 法庭；球场；宫廷；追求；设法获得
+  - word: courtship
+    en: the period or behavior of trying to win a romantic partner or support
+    zh: 求爱；求爱时期
+  - word: courtly
+    en: very polite, formal, and dignified
+    zh: 尊严而有礼貌的；宫廷式的
+  - word: courteously
+    en: in a polite and considerate way
+    zh: 有礼貌地；亲切地
+confusables:
+  []
+examples:
+  []
+why_confusing: U.S. usage may include county offices.

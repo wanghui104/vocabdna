@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: glaci
+display: glaci
+type: root
+core_meaning: ice
+zh: 冰
+origin: Latin
+source_form: Latin glacies
+source_meaning: ice
+source_meaning_zh: 冰
+related_morphemes:
+  []
+senses:
+  - meaning: ice
+    zh: 冰
+    examples:
+      - glacial
+      - glacier
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - glaci -> glacial
+  - glaci -> glacier
+high_value_words:
+  - glacial
+  - glacier
+confusable_words:
+  []

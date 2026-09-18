@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: publicize
+word: publicize
+pos: verb
+zh: （公开）宣传，宣扬
+en: Means （公开）宣传，宣扬; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: public
+    form: public
+    meaning_in_word: public / 公开；公众
+    zh: 公开；公众
+    role: root
+    is_core: true
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: ize / ize
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

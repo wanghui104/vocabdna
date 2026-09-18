@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: determinant
+word: determinant
+pos: noun
+zh: 决定因素
+en: a factor that decides or strongly affects an outcome
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: completely
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: term
+    form: termin
+    meaning_in_word: limit, boundary
+    zh: 界限；决定
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: thing that does
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - determine
+word_family_details:
+  - word: determine
+    en: to establish, decide, or discover something
+    zh: 决定；确定；查明
+confusables:
+  []
+examples:
+  []
+why_confusing: determinant 是决定因素；deterministic/determined 属同族但语义不同。

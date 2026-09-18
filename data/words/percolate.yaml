@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: percolate
+word: percolate
+pos: verb
+zh: 过滤，渗透 n. 滤液
+en: Means 过滤，渗透 n. 滤液; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: per
+    form: per-
+    meaning_in_word: through; thoroughly / 穿过；彻底
+    zh: 穿过、完全
+    role: prefix
+    is_core: false
+  - morpheme: col
+    form: col
+    meaning_in_word: strain; filter / 过滤
+    zh: 共同；一起
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make; act / 使；做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

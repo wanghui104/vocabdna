@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diver
+display: diver
+type: root
+core_meaning: draft meaning for diver
+zh: 潜水者，跳水运动员
+origin: Unknown
+source_form: TOEFL draft opaque stem: diver
+source_meaning: draft learner stem for diver
+source_meaning_zh: 潜水者，跳水运动员
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for diver
+    zh: 潜水者，跳水运动员
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

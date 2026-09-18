@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fasten
+word: fasten
+pos: verb
+zh: 系牢；固定
+en: to attach securely or become securely attached
+components:
+  - morpheme: fast-firm
+    form: fast
+    meaning_in_word: firm, fixed / 牢固
+    zh: 牢固
+    role: root
+    is_core: true
+    note: fasten = fast 牢固 + -en 使变得；这里不是快速。
+  - morpheme: en
+    form: -en
+    meaning_in_word: make, become / 使成为；变得
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

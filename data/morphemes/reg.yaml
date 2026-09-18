@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: reg
+display: reg
+type: root
+core_meaning: rule; straight
+zh: 统治；规则
+origin: teaching morphology
+source_form: reg
+source_meaning: rule; straight
+source_meaning_zh: 统治；规则
+related_morphemes:
+  []
+senses:
+  - meaning: rule; straight
+    zh: 统治；规则
+    examples:
+      - regime
+      - regimentation
+      - register
+      - regulate
+      - regulation
+      - regulatory
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - reg -> regime
+  - reg -> regimentation
+  - reg -> register
+  - reg -> regulate
+  - reg -> regulation
+  - reg -> regulatory
+high_value_words:
+  - regime
+  - regimentation
+  - register
+  - regulate
+  - regulation
+  - regulatory
+confusable_words:
+  []

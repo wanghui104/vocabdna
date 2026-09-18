@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: source
+display: source
+type: root
+core_meaning: source
+zh: 来源；资源
+origin: teaching morphology
+source_form: source
+source_meaning: source
+source_meaning_zh: 来源；资源
+related_morphemes:
+  []
+senses:
+  - meaning: source
+    zh: 来源；资源
+    examples:
+      - resource
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - source -> resource
+high_value_words:
+  - resource
+confusable_words:
+  []

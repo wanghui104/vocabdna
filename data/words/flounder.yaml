@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flounder
+word: flounder
+pos: noun/verb
+zh: 比目鱼
+en: a flatfish that lives near the sea floor
+components:
+  - morpheme: flounder
+    form: flounder
+    meaning_in_word: struggle; flatfish / 挣扎；比目鱼
+    zh: 挣扎；比目鱼
+    role: root
+    is_core: true
+    note: 同形异源：挣扎动词来源未定，可能受 founder 影响；鱼名来自北欧语并经法语变化。保留 draft 双分支，不造共同 -er 根。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

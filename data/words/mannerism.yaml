@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mannerism
+word: mannerism
+pos: noun
+zh: 特殊习惯，怪癖
+en: Means 特殊习惯，怪癖; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: manner
+    form: manner
+    meaning_in_word: 方式；习惯
+    zh: 方式；习惯
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:manner.
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: 行为；状态
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ism.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

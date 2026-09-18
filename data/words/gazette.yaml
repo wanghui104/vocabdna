@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gazette
+word: gazette
+pos: noun/verb
+zh: 公报；报纸；在公报上刊登
+en: an official journal or newspaper; to publish an official notice
+components:
+  - morpheme: gazette
+    form: gazette
+    meaning_in_word: small coin; news sheet / 小钱币；新闻纸
+    zh: 小钱币；新闻纸
+    role: root
+    is_core: true
+    note: 新闻纸名来自价钱一枚 gazeta 的传统解释；硬币名与 gazza 喜鹊及小称有关的说法未完全确定，保留稳定借词，不强拆。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

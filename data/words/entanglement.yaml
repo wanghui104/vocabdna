@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: entanglement
+word: entanglement
+pos: noun
+zh: 纠缠；牵连；缠绕物
+en: the state of being caught or involved, or a mass that traps something
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: put into; cause to be in / 使进入、使陷入
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: 使陷入缠绕；经法语对应 Latin in-。
+  - morpheme: tangle
+    form: tangle
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: 保留 tangle 为学习词干；不是 Latin tangere（触碰）的 tang-，更早词源仍有不确定性。
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: process, result, or state / 过程、结果、状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - entangle
+  - entangled
+word_family_details:
+  - word: entangle
+    en: to catch something in a tangle or involve someone in a difficult situation
+    zh: 缠住；使卷入复杂处境
+  - word: entangled
+    en: caught among twisted things or involved in complicated affairs
+    zh: 被缠住的；卷入的；entangle 的过去形式
+confusables:
+  []
+examples:
+  - en: The guard reduces the risk of clothing entanglement.
+    zh: 防护罩降低了衣物被缠住的风险。
+  - en: She wanted to avoid further political entanglements.
+    zh: 她想避免进一步的政治纠葛。
+why_confusing: -ment 前保留 tangle 的 e。entanglement 可指状态，也可用复数表示多重纠葛；disentanglement 表示解除。

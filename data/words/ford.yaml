@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ford
+word: ford
+pos: noun/verb
+zh: 浅滩；涉水渡过
+en: a shallow place where a river can be crossed; to cross at such a place
+components:
+  - morpheme: ford
+    form: ford
+    meaning_in_word: shallow crossing / 可涉水浅滩
+    zh: 可涉水浅滩
+    role: root
+    is_core: true
+    note: 普通名词 ford 指浅滩；Ford 公司为创办人 Henry Ford 的姓氏命名，另立专名条目。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: ford-company
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: carnivorous
+word: carnivorous
+pos: adjective
+zh: 食肉的
+en: feeding on meat
+components:
+  - morpheme: carn
+    form: carni
+    meaning_in_word: meat
+    zh: 肉；食肉
+    role: root
+    is_core: true
+  - morpheme: vor
+    form: vor
+    meaning_in_word: eat
+    zh: 吃；吞食
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: full of
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: carnivorous plant 指食虫植物。

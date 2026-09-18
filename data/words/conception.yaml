@@ -2,25 +2,24 @@
 id: conception
 word: conception
 pos: noun
-zh: 构想；设想；观念形成
-en: the act or process of forming an idea in the mind
+zh: 观念，概念
+en: Means 观念，概念; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: con
     form: con-
-    meaning_in_word: together, fully, intensively
+    meaning_in_word: together / 共同
     zh: 共同、一起、加强
     role: prefix
     is_core: false
-  - morpheme: cap
+  - morpheme: cept
     form: cept
-    meaning_in_word: take in, conceive
-    zh: 拿、抓、接收
+    meaning_in_word: taken; grasped / 取；理解
+    zh: 取；理解
     role: root
     is_core: true
-    note: From Latin conceptionem/conceptio, built on the past-participle stem of concipere.
   - morpheme: ion
     form: -ion
-    meaning_in_word: act, process, result
+    meaning_in_word: act or result / 动作或结果
     zh: 行为、过程、结果
     role: suffix
     is_core: false
@@ -36,19 +35,11 @@ word_family_details:
     zh: 可想象的；可能的
 confusables:
   - word: concept
-    reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
-    zh_reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
-  - word: contraception
-    reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
-    zh_reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
+    reason: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+    zh_reason: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
   - word: misconception
-    reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
-    zh_reason: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
+    reason: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+    zh_reason: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
 examples:
-  - en: The project changed between conception and launch.
-    zh: 这个项目从构想到发布之间发生了变化。
-  - en: Her conception of leadership emphasizes service.
-    zh: 她对领导力的理解强调服务。
-  - en: The doctor explained the early stages after conception.
-    zh: 医生解释了受孕后的早期阶段。
-why_confusing: conception 是形成过程或观念；concept 是较固定的概念；contraception 是防止受孕。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

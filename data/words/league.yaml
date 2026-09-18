@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: league
+word: league
+pos: noun
+zh: 同盟，联盟；联合会
+en: Means 同盟，联盟；联合会; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: league
+    form: league
+    meaning_in_word: 联盟；结合
+    zh: 联盟；结合
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  - colleague
+word_family_details:
+  - word: colleague
+    en: Means 同事，同僚; reviewed from the TOEFL source gloss for learner display.
+    zh: 同事，同僚
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

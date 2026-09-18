@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: homemade
+word: homemade
+pos: adjective
+zh: 自制的，家里做的
+en: Means 自制的，家里做的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: home
+    form: home
+    meaning_in_word: home
+    zh: 家
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:home.
+  - morpheme: made
+    form: made
+    meaning_in_word: made
+    zh: 制造
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:made.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

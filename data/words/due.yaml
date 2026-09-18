@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: due
+word: due
+pos: adjective
+zh: 预定的；到期应付的；应得的
+en: expected at a stated time; owed or payable; proper or deserved
+components:
+  - morpheme: due
+    form: due
+    meaning_in_word: owed / 应给的；欠着的
+    zh: 应给的；欠着的
+    role: root
+    is_core: true
+    note: debere 更深 de- 离开 + habere 持有；due 为法语分词收缩形，与 subdue/residue 不同根。
+    related_morphemes:
+      - de
+word_family:
+  - dues
+word_family_details:
+  - word: dues
+    en: regular payments owed for membership or services
+    zh: 会费；应缴费用
+confusables:
+  - word: subdue
+    reason: 
+    zh_reason: 
+  - word: residue
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

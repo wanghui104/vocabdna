@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: alternate
+word: alternate
+pos: adjective/verb
+zh: 交替的；轮流的
+en: happening by turns, one after another
+components:
+  - morpheme: al-other
+    form: altern
+    meaning_in_word: the other by turns
+    zh: 其他；另一边
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or do
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - alternately
+  - alternation
+word_family_details:
+  - word: alternately
+    en: one after the other in turn
+    zh: 交替地；轮流地；隔一个地
+  - word: alternation
+    en: the act or pattern of happening by turns
+    zh: 交替；轮流
+confusables:
+  []
+examples:
+  []
+why_confusing: alternate 和 alternative 相近，但 alternate 常强调轮流/备用。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: jury
+display: jury
+type: root
+core_meaning: sworn body
+zh: 宣誓团；陪审团
+origin: Latin/French
+source_form: Old French juree
+source_meaning: sworn body
+source_meaning_zh: 宣誓团；陪审团
+related_morphemes:
+  []
+senses:
+  - meaning: sworn body
+    zh: 宣誓团；陪审团
+    examples:
+      - injury
+      - jury
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - jury -> injury
+  - jury -> jury
+high_value_words:
+  - injury
+  - jury
+confusable_words:
+  []

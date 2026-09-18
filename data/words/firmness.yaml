@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: firmness
+word: firmness
+pos: noun
+zh: 坚固；坚定
+en: solidity or determination
+components:
+  - morpheme: firm
+    form: firm
+    meaning_in_word: firm, strong / 坚定；坚固
+    zh: 坚定；坚固
+    role: root
+    is_core: true
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: state, quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - firm
+  - firmly
+word_family_details:
+  - word: firm
+    en: solid or securely fixed
+    zh: 坚固的
+  - word: firmly
+    en: in a strong, steady, or determined way
+    zh: 牢固地；坚定地
+confusables:
+  []
+examples:
+  []
+why_confusing: 

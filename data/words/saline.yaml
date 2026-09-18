@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: saline
+word: saline
+pos: adjective
+zh: 含盐的，咸的
+en: Means 含盐的，咸的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sal
+    form: sal
+    meaning_in_word: salt / 盐
+    zh: 盐
+    role: root
+    is_core: true
+  - morpheme: ine
+    form: ine
+    meaning_in_word: ine / ine
+    zh: 属于；像；由……组成
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

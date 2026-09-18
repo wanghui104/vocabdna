@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aquatic
+word: aquatic
+pos: adjective
+zh: 水生的；水栖的；水中的
+en: living in, growing in, or relating to water
+components:
+  - morpheme: aqua
+    form: aqu
+    meaning_in_word: water
+    zh: 水
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -atic
+    meaning_in_word: relating to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

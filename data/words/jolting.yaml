@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: jolting
+word: jolting
+pos: adjective
+zh: 令人震惊的
+en: Means 令人震惊的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: jolt
+    form: jolt
+    meaning_in_word: 震动
+    zh: 震动
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:jolt.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ing.
+word_family:
+  - jolt
+word_family_details:
+  - word: jolt
+    en: Means 震动，颠簸 / 使颠簸，猛击; reviewed from the TOEFL source gloss for learner display.
+    zh: 震动，颠簸 / 使颠簸，猛击
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

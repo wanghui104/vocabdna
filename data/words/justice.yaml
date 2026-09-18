@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: justice
+word: justice
+pos: noun
+zh: 正义，公平，公正
+en: Means 正义，公平，公正; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: just
+    form: just
+    meaning_in_word: 正义；法律
+    zh: 正义；法律
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:just.
+  - morpheme: ice
+    form: ice
+    meaning_in_word: 冰
+    zh: 冰
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ice.
+word_family:
+  - injustice
+  - justify
+  - justly
+word_family_details:
+  - word: injustice
+    en: Means 不公平，不讲道义; reviewed from the TOEFL source gloss for learner display.
+    zh: 不公平，不讲道义
+  - word: justify
+    en: Means 证明…是正当的或有理的；为…辩护; reviewed from the TOEFL source gloss for learner display.
+    zh: 证明…是正当的或有理的；为…辩护
+  - word: justly
+    en: Means 公正地，正当地; reviewed from the TOEFL source gloss for learner display.
+    zh: 公正地，正当地
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

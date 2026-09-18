@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elegance
+word: elegance
+pos: noun
+zh: 优雅；精妙
+en: refined beauty or pleasing simplicity
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: leg-choose
+    form: leg
+    meaning_in_word: choose, gather, value / 选择；重视
+    zh: 选择；重视
+    role: root
+    is_core: true
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: state, act, quality / 状态；行为；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - elegant
+word_family_details:
+  - word: elegant
+    en: graceful and refined; pleasingly simple and effective
+    zh: 优雅的；精妙简洁的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: treach
+display: treach
+type: root
+core_meaning: betray
+zh: 背叛
+origin: teaching morphology
+source_form: treach
+source_meaning: betray
+source_meaning_zh: 背叛
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: betray
+    zh: 背叛
+    examples:
+      - treacherous
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - treach -> treacherous
+high_value_words:
+  - treacherous
+confusable_words:
+  []

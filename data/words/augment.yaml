@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: augment
+word: augment
+pos: verb
+zh: 增加；增大
+en: to make something larger, stronger, or greater
+components:
+  - morpheme: aug
+    form: aug
+    meaning_in_word: increase
+    zh: 增加；增强
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result/action
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: auger
+    reason: augment 增加；auger 是钻孔工具。
+    zh_reason: augment 增加；auger 是钻孔工具。
+examples:
+  []
+why_confusing: augment 增加；auger 是钻孔工具。

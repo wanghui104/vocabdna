@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ward-off
+word: ward off
+pos: phrase
+zh: 防止，挡住
+en: Means 防止，挡住; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ward
+    form: ward
+    meaning_in_word: guard / 守卫
+    zh: 朝向；方向
+    role: root
+    is_core: true
+  - morpheme: off
+    form: off
+    meaning_in_word: away / 离开
+    zh: 离开；摆脱
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

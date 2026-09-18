@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: boiling-point
+word: boiling point
+pos: phrase
+zh: 沸点
+en: the temperature at which a liquid boils; also a point of anger or tension
+components:
+  - morpheme: boil
+    form: boil
+    meaning_in_word: bubble with heat
+    zh: 沸腾
+    role: root
+    is_core: true
+  - morpheme: point
+    form: point
+    meaning_in_word: specific point
+    zh: 点；指定点
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 也可比喻情绪达到爆发点。

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: agger
+display: agger
+type: root
+core_meaning: heap, bring toward
+zh: 堆；搬来
+origin: Latin
+source_form: Latin agger, aggerere
+source_meaning: heap, bring toward
+source_meaning_zh: 堆；搬来
+source_note: 深层 ad- 向（同化 ag-）+ gerere 搬运 → agger 堆；exaggerate 保留 agger- 表层，再显示内部层。
+related_morphemes:
+  - ad
+  - gest
+senses:
+  - meaning: heap, bring toward
+    zh: 堆；搬来
+    examples:
+      - exaggerate
+      - exaggeration
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - agger -> exaggerate
+  - agger -> exaggeration
+high_value_words:
+  - exaggerate
+  - exaggeration
+confusable_words:
+  []

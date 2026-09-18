@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: digest
+word: digest
+pos: verb
+zh: 消化；吸收理解
+en: to break food down, or mentally absorb information
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: gest
+    form: gest
+    meaning_in_word: carry, arrange
+    zh: 承载；拥塞
+    role: root
+    is_core: true
+word_family:
+  - digestion
+  - digestive
+word_family_details:
+  - word: digestion
+    en: the process of breaking food down so the body can use it
+    zh: 消化
+  - word: digestive
+    en: related to or helping digestion
+    zh: 消化的；助消化的
+confusables:
+  []
+examples:
+  []
+why_confusing: digest 信息时是“理解吸收”。

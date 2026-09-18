@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bow
+word: bow
+pos: noun
+zh: 弓；弓形
+en: a weapon for shooting arrows, or a curved shape
+components:
+  - morpheme: bow-arch
+    form: bow
+    meaning_in_word: arch, bend
+    zh: 弓；弓形
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: bow 鞠躬是另一读音和义线，本批是弓/弓形。

@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: strict
+display: strict
+type: root
+core_meaning: tighten, constrict
+zh: 收缩；约束
+origin: Latin
+source_form: Latin stringere / strictus
+source_meaning: draw tight
+source_meaning_zh: 拉紧；束紧
+related_morphemes:
+  []
+senses:
+  - meaning: tighten, constrict
+    zh: 收缩；约束
+    examples:
+      - constrict
+      - constricted
+      - distress
+      - district
+      - restrict
+      - restriction
+      - restrictive
+      - unrestricted
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - strict -> constrict
+  - strict -> constricted
+  - stress -> distress
+  - strict -> district
+  - strict -> restrict
+  - strict -> restriction
+  - strict -> restrictive
+  - strict -> unrestricted
+high_value_words:
+  - constrict
+  - constricted
+  - distress
+  - district
+  - restrict
+  - restriction
+  - restrictive
+  - unrestricted
+confusable_words:
+  []

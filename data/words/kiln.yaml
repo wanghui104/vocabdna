@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: kiln
+word: kiln
+pos: noun
+zh: （砖、石灰等）窑，炉
+en: Means （砖、石灰等）窑，炉; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: kiln
+    form: kiln
+    meaning_in_word: 窑；炉
+    zh: 窑；炉
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:kiln.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

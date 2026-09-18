@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tasty
+word: tasty
+pos: adjective
+zh: 美味的，可口的
+en: Means 美味的，可口的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: taste
+    form: taste
+    meaning_in_word: taste / 味道；品味
+    zh: 触摸；试尝
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of; having / 充满；具有
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  - distasteful
+  - taste
+  - tasteless
+word_family_details:
+  - word: distasteful
+    en: Means （令人）不愉快的，讨厌的; reviewed from the TOEFL source gloss for learner display.
+    zh: （令人）不愉快的，讨厌的
+  - word: taste
+    en: Means 品尝，辨味；味道，味觉；品味，兴趣; reviewed from the TOEFL source gloss for learner display.
+    zh: 品尝，辨味；味道，味觉；品味，兴趣
+  - word: tasteless
+    en: Means 没味道的; reviewed from the TOEFL source gloss for learner display.
+    zh: 没味道的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

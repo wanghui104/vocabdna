@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ceremony
+word: ceremony
+pos: noun
+zh: 典礼；仪式；礼节
+en: a formal public or religious event
+components:
+  - morpheme: ceremony
+    form: ceremony
+    meaning_in_word: rite
+    zh: 仪式；礼节
+    role: root
+    is_core: true
+word_family:
+  - ceremonial
+word_family_details:
+  - word: ceremonial
+    en: related to formal ceremonies, or a formal ritual
+    zh: 仪式；正式的；仪式的
+confusables:
+  []
+examples:
+  []
+why_confusing: opening/wedding ceremony 常见。

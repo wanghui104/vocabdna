@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gasoline
+word: gasoline
+pos: noun
+zh: 汽油
+en: Means 汽油; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: gas
+    form: gas
+    meaning_in_word: 气体
+    zh: 气体
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:gas.
+  - morpheme: ol
+    form: ol
+    meaning_in_word: ol
+    zh: ol
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ol.
+  - morpheme: ine
+    form: -ine
+    meaning_in_word: 属于；像；由……组成
+    zh: 属于；像；由……组成
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ine.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

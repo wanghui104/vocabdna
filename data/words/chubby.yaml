@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chubby
+word: chubby
+pos: adjective
+zh: 丰满的；圆胖的
+en: slightly fat in a pleasant rounded way
+components:
+  - morpheme: chubby
+    form: chubby
+    meaning_in_word: plump
+    zh: 丰满；圆胖
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 语气常比 fat 温和。

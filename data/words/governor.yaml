@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: governor
+word: governor
+pos: noun
+zh: 州长；总督
+en: Means 州长；总督; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: govern
+    form: govern
+    meaning_in_word: govern
+    zh: 统治，管理；控制
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:govern.
+  - morpheme: or
+    form: -or
+    meaning_in_word: 做……的人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+    note: Suffix layer from Latin -or.
+word_family:
+  - govern
+word_family_details:
+  - word: govern
+    en: Means 统治，管理；控制; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 统治，管理；控制
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

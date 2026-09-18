@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: baboon
+word: baboon
+pos: noun
+zh: 狒狒
+en: a large monkey with a long face
+components:
+  - morpheme: baboon
+    form: baboon
+    meaning_in_word: baboon
+    zh: 狒狒
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 不要按 baby + boon 拆。

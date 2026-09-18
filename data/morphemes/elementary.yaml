@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elementary
+display: elementary
+type: root
+core_meaning: draft meaning for elementary
+zh: 基本的，初级的
+origin: Unknown
+source_form: TOEFL draft opaque stem: elementary
+source_meaning: draft learner stem for elementary
+source_meaning_zh: 基本的，初级的
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for elementary
+    zh: 基本的，初级的
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

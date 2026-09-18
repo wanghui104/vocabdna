@@ -24,9 +24,7 @@ word_family_details:
     en: a statement that someone has done something wrong
     zh: 谴责；控告
 confusables:
-  - word: excuse
-    reason: accuse 常接 of。
-    zh_reason: accuse 常接 of。
+  []
 examples:
   - en: They accused him of lying.
     zh: 他们指责他说谎。

@@ -1,0 +1,55 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nom
+display: nom
+type: root
+core_meaning: arrange, law, rule
+zh: 安排；规律；法则
+origin: Greek
+source_form: Greek nomos
+source_meaning: arranging, rule, law
+source_meaning_zh: 安排；规则；法则
+source_note: nomos 管理、法则来自 nemein 分配；economy = eco- 家 + nom- 管理，再加名词结尾。
+related_morphemes:
+  []
+senses:
+  - meaning: arrange, law, rule
+    zh: 安排；规律；法则
+    examples:
+      - astronomer
+      - astronomical
+      - astronomy
+      - autonomous
+      - autonomy
+      - economic
+      - economical
+      - economics
+      - economize
+      - economy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - nom -> astronomer
+  - nom -> astronomical
+  - nomy -> astronomy
+  - nom -> autonomous
+  - nomy -> autonomy
+  - nom -> economic
+  - nom -> economical
+  - nom -> economics
+  - nom -> economize
+  - nom -> economy
+high_value_words:
+  - astronomer
+  - astronomical
+  - astronomy
+  - autonomous
+  - autonomy
+  - economic
+  - economical
+  - economics
+  - economize
+  - economy
+confusable_words:
+  []

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: not-so-much-as
+display: not-so-much-as
+type: root
+core_meaning: not-so-much-as
+zh: not-so-much-as
+origin: teaching morphology
+source_form: not-so-much-as
+source_meaning: not-so-much-as
+source_meaning_zh: not-so-much-as
+related_morphemes:
+  []
+senses:
+  - meaning: not-so-much-as
+    zh: not-so-much-as
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

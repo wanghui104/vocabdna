@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: err
+word: err
+pos: verb
+zh: 犯错
+en: to make a mistake
+components:
+  - morpheme: err
+    form: err
+    meaning_in_word: wander, go wrong / 游移；出错
+    zh: 游移；出错
+    role: root
+    is_core: true
+    note: erratic = err- + -atic（Latin -aticus）；error 的 -or 是状态名词结尾，不是施事者。
+word_family:
+  - erratic
+  - erratically
+  - error
+word_family_details:
+  - word: erratic
+    en: irregular and difficult to predict
+    zh: 不规则的；反复无常的
+  - word: erratically
+    en: in an irregular or unpredictable manner
+    zh: 不规则地；反复无常地
+  - word: error
+    en: a mistake or a difference from a correct or expected value
+    zh: 错误；误差
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: get
+display: get
+type: root
+core_meaning: 摆脱；除去
+zh: 摆脱；除去
+origin: English
+source_form: English get rid of
+source_meaning: 摆脱；除去
+source_meaning_zh: 摆脱；除去
+related_morphemes:
+  []
+senses:
+  - meaning: 摆脱；除去
+    zh: 摆脱；除去
+    examples:
+      - get in the way of
+      - get rid of
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - get in the way of -> get in the way of
+  - get rid of -> get rid of
+high_value_words:
+  - get in the way of
+  - get rid of
+confusable_words:
+  []

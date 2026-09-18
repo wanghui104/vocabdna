@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: balloon
+word: balloon
+pos: noun/verb
+zh: 气球；膨胀；激增
+en: a bag filled with air or gas; to swell or increase quickly
+components:
+  - morpheme: balloon
+    form: balloon
+    meaning_in_word: large ball
+    zh: 气球；膨胀物
+    role: root
+    is_core: true
+word_family:
+  - balloonist
+word_family_details:
+  - word: balloonist
+    en: a person who flies or pilots a balloon
+    zh: 气球驾驶员
+confusables:
+  []
+examples:
+  []
+why_confusing: 作动词可指 costs/debt balloon 激增。

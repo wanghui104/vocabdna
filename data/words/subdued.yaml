@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: subdued
+word: subdued
+pos: adjective
+zh: 克制的；柔和的
+en: quiet, restrained, or reduced in intensity
+components:
+  - morpheme: subdue
+    form: subdu
+    meaning_in_word: bring under control / 制服；抑制
+    zh: 制服；抑制
+    role: root
+    is_core: true
+    note: 表层保留 subdue；深层 sub- + ducere 引导，另受 subdere（sub- + 放置）影响；不是 sub- + due 到期。
+    related_morphemes:
+      - sub
+      - duc
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - subdue
+word_family_details:
+  - word: subdue
+    en: to bring under control or reduce in intensity
+    zh: 制服；抑制；减弱
+confusables:
+  []
+examples:
+  []
+why_confusing: 

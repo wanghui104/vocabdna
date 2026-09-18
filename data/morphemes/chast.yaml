@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chast
+display: chast
+type: root
+core_meaning: pure, disciplined
+zh: 纯洁；节制
+origin: Latin
+source_form: Latin castus
+source_meaning: pure, disciplined
+source_meaning_zh: 纯洁；节制
+related_morphemes:
+  []
+senses:
+  - meaning: pure, disciplined
+    zh: 纯洁；节制
+    examples:
+      - chaste
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - chast -> chaste
+high_value_words:
+  - chaste
+confusable_words:
+  []

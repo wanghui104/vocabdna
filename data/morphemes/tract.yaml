@@ -15,13 +15,61 @@ senses:
     zh: 拉、抽出
     examples:
       - abstract
+      - attract
+      - attraction
+      - attractive
+      - contract
+      - contraction
+      - contractor
+      - distract
+      - extract
+      - extraction
+      - retract
+      - subtract
+      - subtraction
+      - subtractive
+      - tract
+      - traction
+      - tractor
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - tract -> abstract
+  - tract -> attract
+  - tract -> attraction
+  - tract -> attractive
+  - tract -> contract
+  - tract -> contraction
+  - contract -> contractor
+  - tract -> distract
+  - tract -> extract
+  - tract -> extraction
+  - tract -> retract
+  - tract -> subtract
+  - tract -> subtraction
+  - tract -> subtractive
+  - tract -> tract
+  - tract -> traction
+  - tract -> tractor
 high_value_words:
   - abstract
+  - attract
+  - attraction
+  - attractive
+  - contract
+  - contraction
+  - contractor
+  - distract
+  - extract
+  - extraction
+  - retract
+  - subtract
+  - subtraction
+  - subtractive
+  - tract
+  - traction
+  - tractor
 confusable_words:
   []

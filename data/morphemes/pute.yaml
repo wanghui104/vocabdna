@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pute
+display: pute
+type: root
+core_meaning: think; reputation
+zh: 思考；名声
+origin: teaching morphology
+source_form: pute
+source_meaning: think; reputation
+source_meaning_zh: 思考；名声
+related_morphemes:
+  []
+senses:
+  - meaning: think; reputation
+    zh: 思考；名声
+    examples:
+      - disrepute
+      - repute
+      - reputed
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pute -> disrepute
+  - pute -> repute
+  - pute -> reputed
+high_value_words:
+  - disrepute
+  - repute
+  - reputed
+confusable_words:
+  []

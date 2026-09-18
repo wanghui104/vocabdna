@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: go-broke
+word: go broke
+pos: phrase
+zh: 破产
+en: Means 破产; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: go
+    form: go
+    meaning_in_word: go
+    zh: go
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:go.
+  - morpheme: broke
+    form: broke
+    meaning_in_word: broke
+    zh: 破；破产
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:broke.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

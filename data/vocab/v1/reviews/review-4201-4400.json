@@ -1,0 +1,483 @@
+{
+  "batch": "4201-4400",
+  "sheet": "4001-5000",
+  "startNo": 4201,
+  "endNo": 4400,
+  "startRow": 227,
+  "endRow": 464,
+  "logicalWords": 200,
+  "uniqueCanonicalSlugs": 199,
+  "duplicateSourceSlugs": [
+    "scotch"
+  ],
+  "existingBeforeReview": 22,
+  "missingBeforeReview": 178,
+  "newCanonicalWords": 177,
+  "verifiedWordSlugs": [
+    "rote",
+    "rough",
+    "roughly",
+    "routine",
+    "routinely",
+    "rubbery",
+    "rubble",
+    "pebble",
+    "rudimentary",
+    "rugged",
+    "ruin",
+    "ruins",
+    "rumble",
+    "rupture",
+    "rural",
+    "urban",
+    "rust",
+    "rustic",
+    "rustproof",
+    "sac",
+    "sack",
+    "knapsack",
+    "sacred",
+    "saddle",
+    "saga",
+    "sake",
+    "salient",
+    "saline",
+    "saliva",
+    "salinity",
+    "saltiness",
+    "desalination",
+    "sample",
+    "sanctimonious",
+    "sanction",
+    "sanctuary",
+    "infirmary",
+    "sandy",
+    "sanitation",
+    "sanitary",
+    "sap",
+    "sapphire",
+    "sarcastic",
+    "satire",
+    "satiric",
+    "satirist",
+    "satisfactory",
+    "unsatisfactory",
+    "saturate",
+    "saturated",
+    "saucer",
+    "save",
+    "savings",
+    "lifesaver",
+    "scale",
+    "scaled",
+    "upscale",
+    "scan",
+    "scapegoat",
+    "scarce",
+    "scarcely",
+    "scare",
+    "scarlet",
+    "scatter",
+    "scavenger",
+    "scene",
+    "scenery",
+    "scenic",
+    "scent",
+    "ascent",
+    "descent",
+    "quiescent",
+    "incandescent",
+    "fluorescent",
+    "adolescent",
+    "schedule",
+    "reschedule",
+    "scheme",
+    "scholar",
+    "scholarship",
+    "scholarly",
+    "scissors",
+    "scope",
+    "microscope",
+    "telescope",
+    "score",
+    "scotch",
+    "scour",
+    "scout",
+    "scramble",
+    "amble",
+    "scrap",
+    "scrape",
+    "scraping",
+    "scratch",
+    "screen",
+    "screw",
+    "screwdriver",
+    "scruple",
+    "scrupulously",
+    "unscrupulously",
+    "scuba",
+    "sculpture",
+    "sculpt",
+    "sculptor",
+    "sculptural",
+    "sea-cucumber",
+    "cucumber",
+    "seam",
+    "seamen",
+    "seabed",
+    "seamount",
+    "seaport",
+    "seashore",
+    "seaweed",
+    "seasoning",
+    "seasonal",
+    "unseasonably",
+    "seclusion",
+    "seclude",
+    "secondary",
+    "secrete",
+    "secretin",
+    "oversecretion",
+    "secret",
+    "sect",
+    "sector",
+    "section",
+    "sectional",
+    "subsection",
+    "intersected",
+    "intersection",
+    "secular",
+    "secure",
+    "securely",
+    "security",
+    "sedentary",
+    "sediment",
+    "sedimentary",
+    "seduce",
+    "seedling",
+    "seemingly",
+    "segment",
+    "segregate",
+    "seismic",
+    "seismology",
+    "seismograph",
+    "selection",
+    "self-sufficient",
+    "semimolten",
+    "semester",
+    "senator",
+    "sensational",
+    "sensation",
+    "sensible",
+    "sensibility",
+    "sensitive",
+    "sensitivity",
+    "hypersensitive",
+    "photosensitive",
+    "sensory",
+    "sentimental",
+    "sentimentalize",
+    "sentimentalism",
+    "sequence",
+    "consequence",
+    "serene",
+    "serious",
+    "seriously",
+    "serrated",
+    "setting",
+    "set-aside-for",
+    "sewerage",
+    "sewer",
+    "shade",
+    "lampshade",
+    "shaft",
+    "shallow",
+    "sharpen",
+    "sharply",
+    "shatter",
+    "shear",
+    "sheath",
+    "shed",
+    "sheer",
+    "shell",
+    "eggshell",
+    "shellfish",
+    "shelter",
+    "sheltered",
+    "shepherd",
+    "shield",
+    "shift",
+    "shifting",
+    "shine",
+    "shining",
+    "shiny",
+    "sunshine",
+    "shingle"
+  ],
+  "multiMorphemeOrCompoundAfterReview": 137,
+  "intentionalBottomRootsAfterReview": 62,
+  "intentionalBottomRootSlugs": [
+    "rote",
+    "rough",
+    "routine",
+    "rubble",
+    "pebble",
+    "ruin",
+    "rumble",
+    "rust",
+    "sac",
+    "sack",
+    "saddle",
+    "saga",
+    "sake",
+    "saliva",
+    "sap",
+    "sapphire",
+    "saucer",
+    "save",
+    "scan",
+    "scarce",
+    "scare",
+    "scarlet",
+    "scatter",
+    "scene",
+    "scent",
+    "schedule",
+    "scheme",
+    "scope",
+    "score",
+    "scour",
+    "scout",
+    "scramble",
+    "amble",
+    "scrap",
+    "scrape",
+    "scratch",
+    "screen",
+    "screw",
+    "scruple",
+    "scuba",
+    "cucumber",
+    "seam",
+    "secret",
+    "sect",
+    "secular",
+    "semester",
+    "serene",
+    "sewer",
+    "shade",
+    "shaft",
+    "shallow",
+    "shatter",
+    "shear",
+    "sheath",
+    "shed",
+    "sheer",
+    "shell",
+    "shelter",
+    "shield",
+    "shift",
+    "shine",
+    "shingle"
+  ],
+  "weakRootWordsAfterReview": 0,
+  "templateResidueCount": 0,
+  "templateResidueSlugs": [],
+  "representativeSplits": [
+    {
+      "slug": "roughly",
+      "split": [
+        "rough",
+        "ly"
+      ]
+    },
+    {
+      "slug": "routinely",
+      "split": [
+        "routine",
+        "ly"
+      ]
+    },
+    {
+      "slug": "rubbery",
+      "split": [
+        "rubber",
+        "y"
+      ]
+    },
+    {
+      "slug": "rudimentary",
+      "split": [
+        "rudiment",
+        "ary"
+      ]
+    },
+    {
+      "slug": "rugged",
+      "split": [
+        "rug",
+        "ed"
+      ]
+    },
+    {
+      "slug": "ruins",
+      "split": [
+        "ruin",
+        "s"
+      ]
+    },
+    {
+      "slug": "rupture",
+      "split": [
+        "rupt",
+        "ure"
+      ]
+    },
+    {
+      "slug": "rural",
+      "split": [
+        "rur",
+        "al"
+      ]
+    },
+    {
+      "slug": "urban",
+      "split": [
+        "urb",
+        "an"
+      ]
+    },
+    {
+      "slug": "rustic",
+      "split": [
+        "rust",
+        "ic"
+      ]
+    },
+    {
+      "slug": "rustproof",
+      "split": [
+        "rust",
+        "proof"
+      ]
+    },
+    {
+      "slug": "knapsack",
+      "split": [
+        "knap",
+        "sack"
+      ]
+    },
+    {
+      "slug": "sacred",
+      "split": [
+        "sac",
+        "red"
+      ]
+    },
+    {
+      "slug": "salient",
+      "split": [
+        "sal",
+        "ient"
+      ]
+    },
+    {
+      "slug": "saline",
+      "split": [
+        "sal",
+        "ine"
+      ]
+    },
+    {
+      "slug": "salinity",
+      "split": [
+        "sal",
+        "in",
+        "ity"
+      ]
+    },
+    {
+      "slug": "saltiness",
+      "split": [
+        "salt",
+        "i",
+        "ness"
+      ]
+    },
+    {
+      "slug": "desalination",
+      "split": [
+        "de",
+        "sal",
+        "in",
+        "ation"
+      ]
+    },
+    {
+      "slug": "sample",
+      "split": [
+        "sampl",
+        "e"
+      ]
+    },
+    {
+      "slug": "sanctimonious",
+      "split": [
+        "sanct",
+        "imonious"
+      ]
+    },
+    {
+      "slug": "sanction",
+      "split": [
+        "sanct",
+        "ion"
+      ]
+    },
+    {
+      "slug": "sanctuary",
+      "split": [
+        "sanct",
+        "uary"
+      ]
+    },
+    {
+      "slug": "infirmary",
+      "split": [
+        "in",
+        "firm",
+        "ary"
+      ]
+    },
+    {
+      "slug": "sandy",
+      "split": [
+        "sand",
+        "y"
+      ]
+    },
+    {
+      "slug": "sanitation",
+      "split": [
+        "sanit",
+        "ation"
+      ]
+    },
+    {
+      "slug": "sanitary",
+      "split": [
+        "sanit",
+        "ary"
+      ]
+    }
+  ],
+  "validation": {
+    "validate:vocab": "passed",
+    "generate:vocab": "passed",
+    "build:static": "passed",
+    "tsc --noEmit": "passed",
+    "audit-current-toefl-batch": "passed"
+  },
+  "mainIssue": "Primary work was adding missing canonical entries and drilling learner-visible morphology. After second-pass review, no unresolved root-breakdown defects or template residues remain; remaining one-part entries are intentional bottom roots or opaque common/loan/animal/material bases. Source contains scotch/Scotch case variants, mapped to one canonical slug."
+}

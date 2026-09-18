@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: character
+display: character
+type: root
+core_meaning: character, feature
+zh: 角色；性格；特征
+origin: Greek
+source_form: Greek kharakter
+source_meaning: engraved mark
+source_meaning_zh: 刻印；标记
+related_morphemes:
+  []
+senses:
+  - meaning: character, feature
+    zh: 角色；性格；特征
+    examples:
+      - be characterized by
+      - character
+      - characteristic
+      - characterize
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - characterized -> be characterized by
+  - character -> character
+  - character -> characteristic
+  - character -> characterize
+high_value_words:
+  - be characterized by
+  - character
+  - characteristic
+  - characterize
+confusable_words:
+  []

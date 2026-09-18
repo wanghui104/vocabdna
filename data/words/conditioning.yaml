@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conditioning
+word: conditioning
+pos: noun
+zh: 条件作用；训练；调节
+en: training, psychological learning by association, or adjustment of conditions
+components:
+  - morpheme: dict
+    form: condition
+    meaning_in_word: train, adjust
+    zh: 说；宣告
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: process
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - condition
+word_family_details:
+  - word: condition
+    en: a state, requirement, or circumstance affecting something
+    zh: 条件；状况；健康状况
+confusables:
+  []
+examples:
+  []
+why_confusing: classical conditioning 是心理学术语。

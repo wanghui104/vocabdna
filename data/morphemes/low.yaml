@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: low
+display: low
+type: root
+core_meaning: low, below
+zh: 低；在下
+origin: Old English
+source_form: Old Norse lagr / Old English low
+source_meaning: low, not high
+source_meaning_zh: 低的
+related_morphemes:
+  []
+senses:
+  - meaning: low, below
+    zh: 低；在下
+    examples:
+      - below
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - low -> below
+high_value_words:
+  - below
+confusable_words:
+  []

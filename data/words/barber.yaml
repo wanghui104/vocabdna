@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: barber
+word: barber
+pos: noun
+zh: 理发师
+en: a person whose job is cutting men's hair or shaving beards
+components:
+  - morpheme: barb
+    form: barb
+    meaning_in_word: beard
+    zh: 倒刺；胡须状物
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 和 bar 无词族关系。

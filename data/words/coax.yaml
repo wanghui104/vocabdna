@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coax
+word: coax
+pos: verb
+zh: 哄诱；巧言诱哄
+en: to persuade someone gently and patiently
+components:
+  - morpheme: coax
+    form: coax
+    meaning_in_word: persuade gently
+    zh: 哄诱
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: coax sb into doing sth。

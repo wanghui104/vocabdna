@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: graze
+display: graze
+type: root
+core_meaning: draft meaning for graze
+zh: （牲畜）吃草；放牧
+origin: Unknown
+source_form: TOEFL draft opaque stem: graze
+source_meaning: draft learner stem for graze
+source_meaning_zh: （牲畜）吃草；放牧
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for graze
+    zh: （牲畜）吃草；放牧
+    examples:
+      - graze
+      - grazing land
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - graze -> graze
+  - graze -> grazing land
+high_value_words:
+  - graze
+  - grazing land
+confusable_words:
+  []

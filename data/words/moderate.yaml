@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: moderate
+word: moderate
+pos: verb/adjective
+zh: 温和的；适度的，有节制的 / 使缓和，使稳定
+en: Means 温和的；适度的，有节制的 / 使缓和，使稳定; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: moder
+    form: moder
+    meaning_in_word: 节制；调节
+    zh: 节制；调节
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:moder.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ate.
+word_family:
+  - modest
+  - modify
+word_family_details:
+  - word: modest
+    en: Means 谦虚的；适度的; reviewed from the TOEFL source gloss for learner display.
+    zh: 谦虚的；适度的
+  - word: modify
+    en: Means 修改，变更; reviewed from the TOEFL source gloss for learner display.
+    zh: 修改，变更
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

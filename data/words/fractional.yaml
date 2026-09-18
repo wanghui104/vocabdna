@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fractional
+word: fractional
+pos: adjective
+zh: 分数的；微小的
+en: relating to a fraction; very small
+components:
+  - morpheme: frag-fract
+    form: fract
+    meaning_in_word: break, fragile / 破裂；易碎
+    zh: 破裂；易碎
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - fraction
+word_family_details:
+  - word: fraction
+    en: a numerical part of a whole
+    zh: 分数
+confusables:
+  []
+examples:
+  []
+why_confusing: 

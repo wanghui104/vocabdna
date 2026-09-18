@@ -14,23 +14,15 @@ components:
   - morpheme: excess-ceed
     form: ceed
     meaning_in_word: go
-    zh: 走、前进、让步
+    zh: 走；让步
     role: root
     is_core: true
 word_family:
-  - success
-  - successor
+  []
 word_family_details:
-  - word: success
-    en: related form of success
-    zh: success 的相关词
-  - word: successor
-    en: related form of successor
-    zh: successor 的相关词
+  []
 confusables:
-  - word: successful
-    reason: succeed in doing something；不要直接说 succeed to do。
-    zh_reason: succeed in doing something；不要直接说 succeed to do。
+  []
 examples:
   - en: She succeeded through steady practice.
     zh: 她通过稳定练习取得了成功。

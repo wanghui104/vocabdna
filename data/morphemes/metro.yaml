@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: metro
+display: metro
+type: root
+core_meaning: mother city
+zh: 大都市
+origin: Greek
+source_form: Greek metropolites / metropolis
+source_meaning: mother city
+source_meaning_zh: 大都市
+related_morphemes:
+  []
+senses:
+  - meaning: mother city
+    zh: 大都市
+    examples:
+      - metropolitan
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - metro -> metropolitan
+high_value_words:
+  - metropolitan
+confusable_words:
+  []

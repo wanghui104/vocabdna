@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fringe
+word: fringe
+pos: noun/adjective
+zh: 穗边；流苏
+en: a decorative border of hanging threads
+components:
+  - morpheme: fringe
+    form: fringe
+    meaning_in_word: threads, fringe / 线；穗边
+    zh: 线；穗边
+    role: root
+    is_core: true
+    note: 经俗拉丁 *frimbia 音位换位；fimbriae 更深来源不确定，保留 fringe 稳定词干。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

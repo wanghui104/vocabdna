@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: metaphor
+word: metaphor
+pos: noun
+zh: 隐喻，暗喻
+en: Means 隐喻，暗喻; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: meta
+    form: meta-
+    meaning_in_word: 超越；变化
+    zh: 超越；变化
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:meta.
+  - morpheme: phor
+    form: phor
+    meaning_in_word: 携带
+    zh: 携带
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:phor.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

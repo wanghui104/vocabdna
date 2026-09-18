@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: human
+display: human
+type: root
+core_meaning: human being
+zh: 人；人类
+origin: Latin
+source_form: Latin humanus / homo
+source_meaning: human being
+source_meaning_zh: 人；人类
+related_morphemes:
+  []
+senses:
+  - meaning: human being
+    zh: 人；人类
+    examples:
+      - humanist
+      - humanistic
+      - humanitarian
+      - humanity
+      - nonhuman
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - human -> humanist
+  - human -> humanistic
+  - human -> humanitarian
+  - human -> humanity
+  - human -> nonhuman
+high_value_words:
+  - humanist
+  - humanistic
+  - humanitarian
+  - humanity
+  - nonhuman
+confusable_words:
+  []

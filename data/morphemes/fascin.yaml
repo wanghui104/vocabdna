@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fascin
+display: fascin
+type: root
+core_meaning: bewitch, charm
+zh: 施魔法；迷住
+origin: Latin
+source_form: Latin fascinare, fascinum
+source_meaning: bewitch, charm
+source_meaning_zh: 施魔法；迷住
+source_note: fascin- 来自 fascinare、fascinum 魔咒；更深起源有争议，不能按 fas + cin 臆拆。
+related_morphemes:
+  []
+senses:
+  - meaning: bewitch, charm
+    zh: 施魔法；迷住
+    examples:
+      - fascinate
+      - fascinating
+      - fascination
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fascin -> fascinate
+  - fascin -> fascinating
+  - fascin -> fascination
+high_value_words:
+  - fascinate
+  - fascinating
+  - fascination
+confusable_words:
+  []

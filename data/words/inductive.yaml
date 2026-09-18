@@ -14,7 +14,7 @@ components:
   - morpheme: duc
     form: duct
     meaning_in_word: lead
-    zh: 引导、带领
+    zh: 引导；传导
     role: root
     is_core: true
   - morpheme: ive
@@ -34,9 +34,7 @@ word_family_details:
     en: the act of bringing someone into a role, or reasoning from examples to a rule
     zh: 就职仪式；归纳；诱导
 confusables:
-  - word: deductive
-    reason: inductive 是归纳的；deductive 是演绎的。
-    zh_reason: inductive 是归纳的；deductive 是演绎的。
+  []
 examples:
   - en: Inductive reasoning moves from examples to a broader pattern.
     zh: 归纳推理从例子走向更广泛的规律。

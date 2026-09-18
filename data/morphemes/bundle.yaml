@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bundle
+display: bundle
+type: root
+core_meaning: bundle
+zh: 捆；束；包
+origin: Old English
+source_form: Middle English bundel, from bind-family
+source_meaning: something bound together
+source_meaning_zh: 被捆在一起的东西
+related_morphemes:
+  []
+senses:
+  - meaning: bundle
+    zh: 捆；束；包
+    examples:
+      - bundle
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bundle -> bundle
+high_value_words:
+  - bundle
+confusable_words:
+  []

@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: image
+word: image
+pos: noun
+zh: 图像，肖像；形象
+en: Means 图像，肖像；形象; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: imag
+    form: imag
+    meaning_in_word: 形象；想象
+    zh: 形象；想象
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:imag.
+word_family:
+  - imaginative
+  - imaginary
+  - imagery
+word_family_details:
+  - word: imaginative
+    en: Means 富于想象力的; reviewed from the TOEFL source gloss for learner display.
+    zh: 富于想象力的
+  - word: imaginary
+    en: Means 想象中的，虚构的; reviewed from the TOEFL source gloss for learner display.
+    zh: 想象中的，虚构的
+  - word: imagery
+    en: Means （艺术、文学）肖像，形象；形象化的比喻; reviewed from the TOEFL source gloss for learner display.
+    zh: （艺术、文学）肖像，形象；形象化的比喻
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

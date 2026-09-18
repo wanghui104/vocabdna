@@ -1,0 +1,55 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: negligent
+word: negligent
+pos: adjective
+zh: 疏忽的，粗心大意的
+en: Means 疏忽的，粗心大意的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: neg
+    form: neg
+    meaning_in_word: 否认；拒绝
+    zh: 否认；拒绝
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:neg.
+  - morpheme: lig
+    form: lig
+    meaning_in_word: 连接；结盟
+    zh: 连接；结盟
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lig.
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: ……的人；具有……性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ent.
+word_family:
+  - negative
+  - negate
+  - neglect
+  - negligible
+  - negotiation
+word_family_details:
+  - word: negative
+    en: Means 否定的；消极的；负的; reviewed from the TOEFL source gloss for learner display.
+    zh: 否定的；消极的；负的
+  - word: negate
+    en: Means 否定，打消; reviewed from the TOEFL source gloss for learner display.
+    zh: 否定，打消
+  - word: neglect
+    en: Means 疏忽；忘记; reviewed from the TOEFL source gloss for learner display.
+    zh: 疏忽；忘记
+  - word: negligible
+    en: Means 可忽略的，无关紧要的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可忽略的，无关紧要的
+  - word: negotiation
+    en: Means 商议，谈判; reviewed from the TOEFL source gloss for learner display.
+    zh: 商议，谈判
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

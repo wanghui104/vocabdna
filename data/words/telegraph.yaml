@@ -1,0 +1,62 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: telegraph
+word: telegraph
+pos: noun
+zh: 电报机；电报
+en: Means 电报机；电报; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: tele
+    form: tele
+    meaning_in_word: far / 远
+    zh: 远程
+    role: root
+    is_core: true
+  - morpheme: graph
+    form: graph
+    meaning_in_word: write / 写
+    zh: 写、记录
+    role: root
+    is_core: true
+word_family:
+  - graph
+  - graphic
+  - graphics
+  - graphite
+  - kymograph
+  - lithograph
+  - photograph
+  - seismograph
+  - stereophotograph
+word_family_details:
+  - word: graph
+    en: Means 图表; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 图表
+  - word: graphic
+    en: Means 绘画似的；图解的，生动的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 绘画似的；图解的，生动的
+  - word: graphics
+    en: Means （作单数用）制图法，制图学; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: （作单数用）制图法，制图学
+  - word: graphite
+    en: Means 石墨; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 石墨
+  - word: kymograph
+    en: Means 波动曲线记录仪; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 波动曲线记录仪
+  - word: lithograph
+    en: Means 平板印刷，平板画; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 平板印刷，平板画
+  - word: photograph
+    en: Means 照片; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 照片
+  - word: seismograph
+    en: Means 地震仪; reviewed from the TOEFL source gloss for learner display.
+    zh: 地震仪
+  - word: stereophotograph
+    en: Means 立体摄影，立体相片; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 立体摄影，立体相片
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

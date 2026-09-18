@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: constant
+word: constant
+pos: adjective/noun
+zh: 不变的；持续的；一再重复的；常量
+en: unchanging, continuing, or repeatedly occurring
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: stand
+    form: stant
+    meaning_in_word: stand
+    zh: 站立；状态
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having quality
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - constantly
+word_family_details:
+  - word: constantly
+    en: all the time or repeatedly
+    zh: 不断地；经常地
+confusables:
+  []
+examples:
+  []
+why_confusing: constant noise/change 也可指持续不断。

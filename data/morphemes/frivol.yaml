@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frivol
+display: frivol
+type: root
+core_meaning: trifling; crumble
+zh: 琐碎；弄碎
+origin: Latin
+source_form: Latin frivolus, *frivos, friare
+source_meaning: trifling; crumble
+source_meaning_zh: 琐碎；弄碎
+source_note: frivolity = frivol- + -ity；内部常追至碎屑词 *frivos 和小称层 -ol-，属于重构，不硬认每个字母为确证词素。
+related_morphemes:
+  []
+senses:
+  - meaning: trifling; crumble
+    zh: 琐碎；弄碎
+    examples:
+      - frivolity
+      - frivolous
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - frivol -> frivolity
+  - frivol -> frivolous
+high_value_words:
+  - frivolity
+  - frivolous
+confusable_words:
+  []

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: falcon
+word: falcon
+pos: noun
+zh: 隼
+en: a bird of prey typically with pointed wings and a hooked beak
+components:
+  - morpheme: falcon
+    form: falcon
+    meaning_in_word: falcon / 隼
+    zh: 隼
+    role: root
+    is_core: true
+    note: 可能进一步来自 falx/falcis 镰刀，可能指爪、喙或翼的曲形；具体命名解释未定，保留 falcon。
+word_family:
+  - falconer
+word_family_details:
+  - word: falconer
+    en: a person who trains or hunts with falcons
+    zh: 驯隼者；放鹰狩猎者
+confusables:
+  []
+examples:
+  []
+why_confusing: 

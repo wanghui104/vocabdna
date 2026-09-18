@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: loqu
+display: loqu
+type: root
+core_meaning: speak
+zh: 说话
+origin: Latin
+source_form: Latin loqui / colloqui
+source_meaning: speak, talk together
+source_meaning_zh: 说话；交谈
+related_morphemes:
+  []
+senses:
+  - meaning: speak
+    zh: 说话
+    examples:
+      - colloquial
+      - colloquialism
+      - eloquence
+      - eloquent
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - loqu -> colloquial
+  - loqu -> colloquialism
+  - loqu -> eloquence
+  - loqu -> eloquent
+high_value_words:
+  - colloquial
+  - colloquialism
+  - eloquence
+  - eloquent
+confusable_words:
+  []

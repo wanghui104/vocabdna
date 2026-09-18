@@ -2,38 +2,383 @@
 id: de
 display: de-
 type: prefix
-core_meaning: down, away, undo
-zh: 向下、离开、取消
+core_meaning: down, remove
+zh: 向下；去除
 origin: Latin
+source_form: Latin de-
+source_meaning: down, away, reverse
+source_meaning_zh: 向下；离开；反向
 related_morphemes:
   []
 senses:
-  - meaning: down, away, undo
-    zh: 向下、离开、取消
+  - meaning: down, remove
+    zh: 向下；去除
     examples:
-      - destruct
-      - dismiss
-      - describe
+      - decadent
+      - decay
+      - deceive
+      - deception
+      - deceptive
+      - deciduous
+      - declaration
+      - declare
+      - decline
+      - decompose
+      - decomposition
+      - decrease
       - deduct
-      - deduction
       - deductible
+      - deduction
+      - defecate
+      - defect
+      - defective
+      - defend
+      - defense
+      - defensive
+      - defer
+      - deference
+      - deferential
+      - deficiency
+      - deficient
+      - deficit
+      - definite
+      - definitely
+      - definition
+      - definitive
+      - deform
+      - deformation
+      - defrost
+      - degradation
+      - degrade
+      - dehydrate
+      - dehydrated
+      - dehydration
+      - delegate
+      - deliberate
+      - deliberately
+      - delirium
+      - demagnetize
+      - demobilize
+      - demolish
+      - demolition
+      - demonstrate
+      - demonstration
+      - denomination
+      - denote
+      - denounce
+      - deny
+      - deodorizer
+      - depart
+      - departure
+      - depend on
+      - dependable
+      - dependence
+      - dependent
+      - depict
+      - deplete
+      - deposit
+      - depositor
+      - depreciation
+      - depredation
+      - depress
+      - depressed
+      - depression
+      - deprivation
+      - deprive
+      - derivative
+      - derive
+      - derive from
+      - desalination
+      - descend
+      - descendant
+      - descent
+      - describe
+      - desert
+      - deserted
+      - deserve
+      - designate
+      - desolate
+      - desperate
+      - desperately
+      - despoil
+      - despoiler
+      - destroy
+      - destruct
+      - destruction
+      - destructive
+      - detect
+      - detectable
+      - detective
+      - deter
+      - detergent
+      - determinant
+      - determine
+      - deterrent
+      - detest
+      - detriment
+      - detrimental
+      - devastate
+      - devastating
+      - devastation
+      - devoid
+      - devote
+      - devotion
+      - devour
+      - diminish
+      - indefinite
+      - indefinitely
+      - independent
+      - interdependence
+      - interdependent
+      - predecessor
+      - smoke detector
+      - under the depressor
+      - undeserved
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - de- -> destruct
-  - dis- -> dismiss
-  - de- -> describe
+  - de- -> decadent
+  - de- -> decay
+  - de- -> deceive
+  - de- -> deception
+  - de- -> deceptive
+  - de- -> deciduous
+  - de- -> declaration
+  - de- -> declare
+  - de- -> decline
+  - de- -> decompose
+  - de- -> decomposition
+  - de- -> decrease
   - de- -> deduct
-  - de- -> deduction
   - de- -> deductible
+  - de- -> deduction
+  - de- -> defecate
+  - de- -> defect
+  - de- -> defective
+  - de- -> defend
+  - de- -> defense
+  - de- -> defensive
+  - de- -> defer
+  - de- -> deference
+  - de- -> deferential
+  - de- -> deficiency
+  - de- -> deficient
+  - de- -> deficit
+  - de- -> definite
+  - de- -> definitely
+  - de- -> definition
+  - de- -> definitive
+  - de- -> deform
+  - de- -> deformation
+  - de- -> defrost
+  - de- -> degradation
+  - de- -> degrade
+  - de- -> dehydrate
+  - de- -> dehydrated
+  - de- -> dehydration
+  - de- -> delegate
+  - de- -> deliberate
+  - de- -> deliberately
+  - de- -> delirium
+  - de- -> demagnetize
+  - de- -> demobilize
+  - de- -> demolish
+  - de- -> demolition
+  - de- -> demonstrate
+  - de- -> demonstration
+  - de- -> denomination
+  - de- -> denote
+  - de- -> denounce
+  - de- -> deny
+  - de- -> deodorizer
+  - de- -> depart
+  - de- -> departure
+  - de- -> depend on
+  - de- -> dependable
+  - de- -> dependence
+  - de- -> dependent
+  - de- -> depict
+  - de- -> deplete
+  - de- -> deposit
+  - de- -> depositor
+  - de- -> depreciation
+  - de- -> depredation
+  - de- -> depress
+  - de- -> depressed
+  - de- -> depression
+  - de- -> deprivation
+  - de- -> deprive
+  - de- -> derivative
+  - de- -> derive
+  - de- -> derive from
+  - de- -> desalination
+  - de- -> descend
+  - de- -> descendant
+  - de- -> descent
+  - de- -> describe
+  - de- -> desert
+  - de- -> deserted
+  - de- -> deserve
+  - de- -> designate
+  - de- -> desolate
+  - de- -> desperate
+  - de- -> desperately
+  - de- -> despoil
+  - de- -> despoiler
+  - de- -> destroy
+  - de- -> destruct
+  - de- -> destruction
+  - de- -> destructive
+  - de- -> detect
+  - de- -> detectable
+  - de- -> detective
+  - de- -> deter
+  - de- -> detergent
+  - de- -> determinant
+  - de- -> determine
+  - de- -> deterrent
+  - de- -> detest
+  - de- -> detriment
+  - de- -> detrimental
+  - de- -> devastate
+  - de- -> devastating
+  - de- -> devastation
+  - de- -> devoid
+  - de- -> devote
+  - de- -> devotion
+  - de- -> devour
+  - di- -> diminish
+  - de- -> indefinite
+  - de- -> indefinitely
+  - de- -> independent
+  - de- -> interdependence
+  - de- -> interdependent
+  - de- -> predecessor
+  - de- -> smoke detector
+  - de- -> under the depressor
+  - de- -> undeserved
 high_value_words:
-  - destruct
-  - dismiss
-  - describe
+  - decadent
+  - decay
+  - deceive
+  - deception
+  - deceptive
+  - deciduous
+  - declaration
+  - declare
+  - decline
+  - decompose
+  - decomposition
+  - decrease
   - deduct
-  - deduction
   - deductible
+  - deduction
+  - defecate
+  - defect
+  - defective
+  - defend
+  - defense
+  - defensive
+  - defer
+  - deference
+  - deferential
+  - deficiency
+  - deficient
+  - deficit
+  - definite
+  - definitely
+  - definition
+  - definitive
+  - deform
+  - deformation
+  - defrost
+  - degradation
+  - degrade
+  - dehydrate
+  - dehydrated
+  - dehydration
+  - delegate
+  - deliberate
+  - deliberately
+  - delirium
+  - demagnetize
+  - demobilize
+  - demolish
+  - demolition
+  - demonstrate
+  - demonstration
+  - denomination
+  - denote
+  - denounce
+  - deny
+  - deodorizer
+  - depart
+  - departure
+  - depend on
+  - dependable
+  - dependence
+  - dependent
+  - depict
+  - deplete
+  - deposit
+  - depositor
+  - depreciation
+  - depredation
+  - depress
+  - depressed
+  - depression
+  - deprivation
+  - deprive
+  - derivative
+  - derive
+  - derive from
+  - desalination
+  - descend
+  - descendant
+  - descent
+  - describe
+  - desert
+  - deserted
+  - deserve
+  - designate
+  - desolate
+  - desperate
+  - desperately
+  - despoil
+  - despoiler
+  - destroy
+  - destruct
+  - destruction
+  - destructive
+  - detect
+  - detectable
+  - detective
+  - deter
+  - detergent
+  - determinant
+  - determine
+  - deterrent
+  - detest
+  - detriment
+  - detrimental
+  - devastate
+  - devastating
+  - devastation
+  - devoid
+  - devote
+  - devotion
+  - devour
+  - diminish
+  - indefinite
+  - indefinitely
+  - independent
+  - interdependence
+  - interdependent
+  - predecessor
+  - smoke detector
+  - under the depressor
+  - undeserved
 confusable_words:
   []

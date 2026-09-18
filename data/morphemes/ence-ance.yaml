@@ -16,8 +16,14 @@ senses:
     examples:
       - absence
       - abundance
-      - acquaintance
       - conference
+      - confidence
+      - confluence
+      - conscience
+      - consistency
+      - convenience
+      - distance
+      - disturbance
 similar_form:
   []
 similar_meaning:
@@ -25,12 +31,24 @@ similar_meaning:
 patterns:
   - -ence -> absence
   - -ance -> abundance
-  - -ance -> acquaintance
   - -ence -> conference
+  - -ence -> confidence
+  - -ence -> confluence
+  - -ence -> conscience
+  - -ency -> consistency
+  - -ence -> convenience
+  - -ance -> distance
+  - -ance -> disturbance
 high_value_words:
   - absence
   - abundance
-  - acquaintance
   - conference
+  - confidence
+  - confluence
+  - conscience
+  - consistency
+  - convenience
+  - distance
+  - disturbance
 confusable_words:
   []

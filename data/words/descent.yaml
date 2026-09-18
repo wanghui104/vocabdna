@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: descent
+word: descent
+pos: noun
+zh: 降下，降落；世系，血统
+en: Means 降下，降落；世系，血统; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: remove; down / 去除；向下
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: scent
+    form: scent
+    meaning_in_word: scent / 气味
+    zh: 气味
+    role: root
+    is_core: true
+word_family:
+  - descend
+  - descendant
+word_family_details:
+  - word: descend
+    en: to move downward, or pass from an ancestor to later generations
+    zh: 下降；传下；遗传
+  - word: descendant
+    en: a person, animal, or thing that comes from a particular ancestor or source
+    zh: 子孙；后裔
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

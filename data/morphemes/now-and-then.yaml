@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: now-and-then
+display: now-and-then
+type: root
+core_meaning: now-and-then
+zh: now-and-then
+origin: teaching morphology
+source_form: now-and-then
+source_meaning: now-and-then
+source_meaning_zh: now-and-then
+related_morphemes:
+  []
+senses:
+  - meaning: now-and-then
+    zh: now-and-then
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

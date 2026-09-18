@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ton
+display: ton
+type: root
+core_meaning: thunder, stun
+zh: 雷鸣；震惊
+origin: Latin
+source_form: Latin tonare
+source_meaning: to thunder
+source_meaning_zh: 打雷
+related_morphemes:
+  []
+senses:
+  - meaning: thunder, stun
+    zh: 雷鸣；震惊
+    examples:
+      - astonish
+      - astonished
+      - astonishing
+      - astound
+      - astounding
+      - monotonous
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ston -> astonish
+  - astonish -> astonished
+  - astonish -> astonishing
+  - stound -> astound
+  - astound -> astounding
+  - ton -> monotonous
+high_value_words:
+  - astonish
+  - astonished
+  - astonishing
+  - astound
+  - astounding
+  - monotonous
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lifesaver
+word: lifesaver
+pos: noun
+zh: 救生者, 水难救生员
+en: Means 救生者, 水难救生员; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: life
+    form: life
+    meaning_in_word: life / 生命
+    zh: 生命
+    role: root
+    is_core: true
+  - morpheme: save
+    form: save
+    meaning_in_word: save / 拯救；储蓄
+    zh: 拯救；储蓄
+    role: root
+    is_core: true
+  - morpheme: er
+    form: -er
+    meaning_in_word: person or thing / 人或物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

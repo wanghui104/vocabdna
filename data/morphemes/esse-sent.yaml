@@ -5,7 +5,7 @@ type: root
 core_meaning: be, be present
 zh: 存在、在场
 origin: Latin
-source_form: Latin esse / -sens
+source_form: Latin esse; -sens/-sent-; ens, entis
 source_meaning: to be; being
 source_meaning_zh: 存在、在
 related_morphemes:
@@ -14,23 +14,26 @@ senses:
   - meaning: be, be present
     zh: 存在、在场
     examples:
-      - absenteeism
-      - absentee
-      - absent
       - absence
+      - absent
+      - absentee
+      - absenteeism
+      - entity
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - absent -> absenteeism
-  - absent -> absentee
-  - sent -> absent
   - sence -> absence
+  - sent -> absent
+  - absent -> absentee
+  - absent -> absenteeism
+  - ent -> entity
 high_value_words:
-  - absenteeism
-  - absentee
-  - absent
   - absence
+  - absent
+  - absentee
+  - absenteeism
+  - entity
 confusable_words:
   []

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: claim
+word: claim
+pos: noun/verb
+zh: 要求；权利要求；声称；主张
+en: to demand as a right, or state that something is true
+components:
+  - morpheme: claim
+    form: claim
+    meaning_in_word: call out
+    zh: 要求；声称；叫嚣
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: claim 可指索赔、权利主张或声称。

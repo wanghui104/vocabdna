@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: alone
+word: alone
+pos: adjective/adverb
+zh: 单独的；独自地
+en: without other people or things
+components:
+  - morpheme: all
+    form: all
+    meaning_in_word: all, entirely
+    zh: 全部；整个
+    role: root
+    is_core: true
+  - morpheme: one
+    form: one
+    meaning_in_word: one, single
+    zh: 一个；单独
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: aloof
+    reason: alone 可作形容词也可作副词；不是动词。
+    zh_reason: alone 可作形容词也可作副词；不是动词。
+examples:
+  []
+why_confusing: alone 可作形容词也可作副词；不是动词。

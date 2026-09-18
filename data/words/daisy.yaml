@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: daisy
+word: daisy
+pos: noun
+zh: 雏菊
+en: a small flower with white petals around a yellow center
+components:
+  - morpheme: day
+    form: day
+    meaning_in_word: day
+    zh: 白天；日子
+    role: root
+    is_core: true
+    note: 历史复合词 Old English dæges eage = day’s eye：day + 所有格 -s + eye，经语音收缩成为 daisy。现有 day/eye 为历史解释，不是现代逐字相加。
+  - morpheme: eye
+    form: eye
+    meaning_in_word: eye
+    zh: 眼睛；视觉
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Daisy 也可作人名。

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: charcoal
+word: charcoal
+pos: noun
+zh: 炭；木炭
+en: a black substance made by partly burning wood
+components:
+  - morpheme: charcoal
+    form: char
+    meaning_in_word: burn to coal
+    zh: 炭；木炭
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: charcoal 可指燃料，也可指炭笔画材。

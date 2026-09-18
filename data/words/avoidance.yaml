@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: avoidance
+word: avoidance
+pos: noun
+zh: 避免；回避
+en: the act of avoiding something
+components:
+  - morpheme: ab
+    form: a-
+    meaning_in_word: away
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: void
+    form: void
+    meaning_in_word: empty, clear away
+    zh: 空；避开
+    role: root
+    is_core: true
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: act or state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - avoid
+word_family_details:
+  - word: avoid
+    en: to keep away from or prevent something from happening
+    zh: 避免；避开
+confusables:
+  []
+examples:
+  []
+why_confusing: avoidance 可指心理上的回避。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: leap
+word: leap
+pos: noun/verb
+zh: 跳跃
+en: Means 跳跃; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: leap
+    form: leap
+    meaning_in_word: 跳跃
+    zh: 跳跃
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

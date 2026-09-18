@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sanitation
+word: sanitation
+pos: noun
+zh: （公共、环境）卫生，卫生设施
+en: Means （公共、环境）卫生，卫生设施; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sanit
+    form: sanit
+    meaning_in_word: health; clean / 卫生；清洁
+    zh: 卫生；清洁
+    role: root
+    is_core: true
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: act or result / 动作或结果
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+word_family:
+  - sanitary
+word_family_details:
+  - word: sanitary
+    en: Means （有关）卫生的; reviewed from the TOEFL source gloss for learner display.
+    zh: （有关）卫生的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

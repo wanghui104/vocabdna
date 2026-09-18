@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: supercontinent
+word: supercontinent
+pos: noun
+zh: 超大陆
+en: a very large landmass made of multiple continents joined together
+components:
+  - morpheme: super
+    form: super-
+    meaning_in_word: above, beyond
+    zh: 超过；在上
+    role: prefix
+    is_core: false
+  - morpheme: tain
+    form: continent
+    meaning_in_word: large landmass
+    zh: 持有；包含
+    role: root
+    is_core: true
+word_family:
+  - continent
+  - continental
+  - transcontinental
+word_family_details:
+  - word: continent
+    en: one of the earth's very large landmasses
+    zh: 大陆；洲
+  - word: continental
+    en: related to a continent or its climate/culture
+    zh: 大陆的；大陆性的
+  - word: transcontinental
+    en: crossing or extending across a continent
+    zh: 横贯大陆的；大陆那边的
+confusables:
+  []
+examples:
+  []
+why_confusing: Pangaea 是典型 supercontinent。

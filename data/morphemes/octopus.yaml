@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: octopus
+display: octopus
+type: root
+core_meaning: octopus
+zh: octopus
+origin: teaching morphology
+source_form: octopus
+source_meaning: octopus
+source_meaning_zh: octopus
+related_morphemes:
+  []
+senses:
+  - meaning: octopus
+    zh: octopus
+    examples:
+      - octopus
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - octopus -> octopus
+high_value_words:
+  - octopus
+confusable_words:
+  []

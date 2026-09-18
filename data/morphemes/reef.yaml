@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: reef
+display: reef
+type: root
+core_meaning: reef
+zh: 礁；暗礁
+origin: Norse/Dutch
+source_form: Old Norse rif / Dutch rif
+source_meaning: ridge, reef
+source_meaning_zh: 海脊；礁
+related_morphemes:
+  []
+senses:
+  - meaning: reef
+    zh: 礁；暗礁
+    examples:
+      - coral reef
+      - reef
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - reef -> coral reef
+  - reef -> reef
+high_value_words:
+  - coral reef
+  - reef
+confusable_words:
+  []

@@ -1,0 +1,207 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: com
+display: com-
+type: prefix
+core_meaning: with, together, completely
+zh: 共同；一起；完全
+origin: Latin
+source_form: Latin com-/con-
+source_meaning: with, together, completely
+source_meaning_zh: 共同；一起；完全
+related_morphemes:
+  []
+senses:
+  - meaning: with, together, completely
+    zh: 共同；一起；完全
+    examples:
+      - coalesce
+      - coalescence
+      - coalition
+      - coexist
+      - cohere
+      - coherence
+      - coherent
+      - cohesion
+      - cohesive
+      - coincide
+      - collaborate
+      - collaboration
+      - collide
+      - collision
+      - colloquial
+      - colloquialism
+      - combustible
+      - combustion
+      - command
+      - commemorate
+      - commerce
+      - commercial
+      - commission
+      - commit
+      - community
+      - commute
+      - compact
+      - compaction
+      - companion
+      - compare
+      - compatible
+      - compel
+      - compensate
+      - compete
+      - competition
+      - compile
+      - complacence
+      - complain
+      - complaint
+      - complement
+      - complex
+      - complicated
+      - complication
+      - component
+      - compose
+      - composition
+      - compound
+      - comprehend
+      - compress
+      - compressed
+      - compression
+      - comprise
+      - compromise
+      - compulsory
+      - computation
+      - compute
+      - decompose
+      - decomposition
+      - in common
+      - incompatible
+      - incomprehensible
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - co- -> coalesce
+  - co- -> coalescence
+  - co- -> coalition
+  - co- -> coexist
+  - co- -> cohere
+  - co- -> coherence
+  - co- -> coherent
+  - co- -> cohesion
+  - co- -> cohesive
+  - co- -> coincide
+  - col- -> collaborate
+  - col- -> collaboration
+  - col- -> collide
+  - col- -> collision
+  - col- -> colloquial
+  - col- -> colloquialism
+  - com- -> combustible
+  - com- -> combustion
+  - com- -> command
+  - com- -> commemorate
+  - com- -> commerce
+  - com- -> commercial
+  - com- -> commission
+  - com- -> commit
+  - com- -> community
+  - com- -> commute
+  - com- -> compact
+  - com- -> compaction
+  - com- -> companion
+  - com- -> compare
+  - com- -> compatible
+  - com- -> compel
+  - com- -> compensate
+  - com- -> compete
+  - com- -> competition
+  - com- -> compile
+  - com- -> complacence
+  - com- -> complain
+  - com- -> complaint
+  - com- -> complement
+  - com- -> complex
+  - com- -> complicated
+  - com- -> complication
+  - com- -> component
+  - com- -> compose
+  - com- -> composition
+  - com- -> compound
+  - com- -> comprehend
+  - com- -> compress
+  - com- -> compressed
+  - com- -> compression
+  - com- -> comprise
+  - com- -> compromise
+  - com- -> compulsory
+  - com- -> computation
+  - com- -> compute
+  - com- -> decompose
+  - com- -> decomposition
+  - com- -> in common
+  - com- -> incompatible
+  - com- -> incomprehensible
+high_value_words:
+  - coalesce
+  - coalescence
+  - coalition
+  - coexist
+  - cohere
+  - coherence
+  - coherent
+  - cohesion
+  - cohesive
+  - coincide
+  - collaborate
+  - collaboration
+  - collide
+  - collision
+  - colloquial
+  - colloquialism
+  - combustible
+  - combustion
+  - command
+  - commemorate
+  - commerce
+  - commercial
+  - commission
+  - commit
+  - community
+  - commute
+  - compact
+  - compaction
+  - companion
+  - compare
+  - compatible
+  - compel
+  - compensate
+  - compete
+  - competition
+  - compile
+  - complacence
+  - complain
+  - complaint
+  - complement
+  - complex
+  - complicated
+  - complication
+  - component
+  - compose
+  - composition
+  - compound
+  - comprehend
+  - compress
+  - compressed
+  - compression
+  - comprise
+  - compromise
+  - compulsory
+  - computation
+  - compute
+  - decompose
+  - decomposition
+  - in common
+  - incompatible
+  - incomprehensible
+confusable_words:
+  []

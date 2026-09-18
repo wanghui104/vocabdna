@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consequent
+word: consequent
+pos: adjective
+zh: 作为结果的；随之发生的
+en: following as a result
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: sequ
+    form: sequ
+    meaning_in_word: follow
+    zh: 跟随；结果
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ent
+    meaning_in_word: having quality
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - consecutive
+  - consequence
+  - consequently
+word_family_details:
+  - word: consecutive
+    en: following one after another without interruption
+    zh: 连续的
+  - word: consequence
+    en: Means 结果; reviewed from the TOEFL source gloss for learner display.
+    zh: 结果
+  - word: consequently
+    en: as a result; therefore
+    zh: 因此；从而
+confusables:
+  []
+examples:
+  []
+why_confusing: 常见于正式写作。

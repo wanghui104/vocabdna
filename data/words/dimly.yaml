@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dimly
+word: dimly
+pos: adverb
+zh: 朦胧地；模糊地；暗淡地
+en: in a way that is not bright or not clear
+components:
+  - morpheme: dim
+    form: dim
+    meaning_in_word: dark, obscure
+    zh: 暗淡；模糊
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in this way
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - dim
+word_family_details:
+  - word: dim
+    en: not bright, clear, or easy to see
+    zh: 暗淡的；模糊的
+confusables:
+  []
+examples:
+  []
+why_confusing: dimly lit 是常见搭配。

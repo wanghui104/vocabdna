@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elast
+display: elast
+type: root
+core_meaning: ductile, drive or beat out
+zh: 可延展；驱动敲打
+origin: Greek
+source_form: Greek ἐλαστός (elastos), ἐλαύνειν (elaunein)
+source_meaning: ductile, drive or beat out
+source_meaning_zh: 可延展；驱动敲打
+source_note: elast- 为稳定希腊词干，深层 elaunein 来源不明，不拆 e- 出 + last 持续。
+related_morphemes:
+  []
+senses:
+  - meaning: ductile, drive or beat out
+    zh: 可延展；驱动敲打
+    examples:
+      - elastic
+      - elasticity
+      - inelastic
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - elast -> elastic
+  - elast -> elasticity
+  - elast -> inelastic
+high_value_words:
+  - elastic
+  - elasticity
+  - inelastic
+confusable_words:
+  []

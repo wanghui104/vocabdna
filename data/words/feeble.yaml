@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: feeble
+word: feeble
+pos: adjective
+zh: 虚弱的；无力的
+en: lacking strength or effectiveness
+components:
+  - morpheme: feeble
+    form: feeble
+    meaning_in_word: weak; deserving tears / 虚弱；令人悲泣
+    zh: 虚弱；令人悲泣
+    role: root
+    is_core: true
+    note: 深层 flere 哭泣 + -bilis 可被……；法语失去第一个 l，形成 feble/feeble；不要把现代 feeble 硬拆为 fee 钱 + ble。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: armored
+word: armored
+pos: adjective
+zh: 披甲的；装甲的
+en: covered or protected with armor
+components:
+  - morpheme: army
+    form: armor
+    meaning_in_word: protective equipment
+    zh: 军队；大群
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: covered with
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - armor
+word_family_details:
+  - word: armor
+    en: protective metal covering, defensive equipment, or to cover with armor
+    zh: 装甲；盔甲；装甲车
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

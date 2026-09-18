@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: loom
+word: loom
+pos: noun/verb
+zh: 织布机 / 隐约闪现，逼近
+en: Means 织布机 / 隐约闪现，逼近; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: loom
+    form: loom
+    meaning_in_word: 织机；隐现
+    zh: 织机；隐现
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  - bloom
+word_family_details:
+  - word: bloom
+    en: Means （使）开花，（使）繁盛 n. 花; reviewed from the TOEFL source gloss for learner display.
+    zh: （使）开花，（使）繁盛 n. 花
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

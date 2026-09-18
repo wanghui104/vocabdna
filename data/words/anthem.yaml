@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: anthem
+word: anthem
+pos: noun
+zh: 圣歌；赞美诗；颂歌
+en: a song of praise, loyalty, or celebration
+components:
+  - morpheme: anti
+    form: ant-
+    meaning_in_word: in response
+    zh: 反对；相对
+    role: prefix
+    is_core: false
+  - morpheme: phon
+    form: hem
+    meaning_in_word: voice, song
+    zh: 声音
+    role: root
+    is_core: true
+    note: Modern anthem developed from antiphon.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 现代 anthem 常指国歌、队歌或代表性颂歌。

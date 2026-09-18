@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sculpt
+word: sculpt
+pos: verb
+zh: 雕刻，造型
+en: Means 雕刻，造型; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sculp
+    form: sculp
+    meaning_in_word: carve / 雕刻
+    zh: 雕刻
+    role: root
+    is_core: true
+  - morpheme: t
+    form: -t
+    meaning_in_word: past/root marker / 词根标记
+    zh: t
+    role: suffix
+    is_core: false
+word_family:
+  - sculpture
+  - sculptor
+  - sculptural
+word_family_details:
+  - word: sculpture
+    en: Means 雕塑；雕刻品; reviewed from the TOEFL source gloss for learner display.
+    zh: 雕塑；雕刻品
+  - word: sculptor
+    en: Means 雕刻家; reviewed from the TOEFL source gloss for learner display.
+    zh: 雕刻家
+  - word: sculptural
+    en: Means 雕刻的，雕刻般的; reviewed from the TOEFL source gloss for learner display.
+    zh: 雕刻的，雕刻般的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

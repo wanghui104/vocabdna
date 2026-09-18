@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: explorer
+word: explorer
+pos: noun
+zh: 探险者；探索者
+en: a person who investigates or travels to learn about unfamiliar places
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: plor
+    form: plor
+    meaning_in_word: cry out; investigate / 呼喊；探查
+    zh: 呼喊；探查
+    role: root
+    is_core: true
+    note: explore = ex- + plorare 呼喊；猎场呼喊探查的语义解释有争议，不作为确证故事。
+  - morpheme: er
+    form: -er
+    meaning_in_word: one who does / ……者；……物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.
+word_family:
+  - exploration
+  - explore
+word_family_details:
+  - word: exploration
+    en: investigation or travel undertaken to discover or learn
+    zh: 探索；勘探
+  - word: explore
+    en: to investigate or travel through in order to learn
+    zh: 探索；探究
+confusables:
+  []
+examples:
+  []
+why_confusing: 

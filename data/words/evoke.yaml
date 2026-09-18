@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: evoke
+word: evoke
+pos: verb
+zh: 唤起；引起
+en: to bring a feeling, memory, or image to mind
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: voc
+    form: voke
+    meaning_in_word: call, voice / 呼叫；声音
+    zh: 呼叫；声音
+    role: root
+    is_core: true
+word_family:
+  - evocation
+word_family_details:
+  - word: evocation
+    en: the act of bringing a memory, image, or feeling to mind
+    zh: 唤起；再现
+confusables:
+  []
+examples:
+  []
+why_confusing: 

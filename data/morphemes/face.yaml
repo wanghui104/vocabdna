@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: face
+display: face
+type: root
+core_meaning: face, appearance
+zh: 脸；外表
+origin: Latin
+source_form: Latin facies; Old French face
+source_meaning: face, appearance
+source_meaning_zh: 脸；外表
+source_note: facies 可能与 facere 做、形成有关，但直接词源为脸、形状；facade/facet 的 fac- 不直接释为做。
+related_morphemes:
+  []
+senses:
+  - meaning: face, appearance
+    zh: 脸；外表
+    examples:
+      - facade
+      - face
+      - facelift
+      - facet
+      - multifaceted
+      - surface
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fac -> facade
+  - face -> face
+  - face -> facelift
+  - fac -> facet
+  - fac -> multifaceted
+  - face -> surface
+high_value_words:
+  - facade
+  - face
+  - facelift
+  - facet
+  - multifaceted
+  - surface
+confusable_words:
+  []

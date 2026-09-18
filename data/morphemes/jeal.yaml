@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: jeal
+display: jeal
+type: root
+core_meaning: zealous, jealous
+zh: 嫉妒
+origin: Old French
+source_form: Old French jalous
+source_meaning: zealous, jealous
+source_meaning_zh: 嫉妒
+related_morphemes:
+  []
+senses:
+  - meaning: zealous, jealous
+    zh: 嫉妒
+    examples:
+      - jealousy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - jeal -> jealousy
+high_value_words:
+  - jealousy
+confusable_words:
+  []

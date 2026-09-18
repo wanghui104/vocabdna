@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dignity
+word: dignity
+pos: noun
+zh: 尊严；高贵
+en: the quality of being worthy of respect and honor
+components:
+  - morpheme: dign
+    form: dign
+    meaning_in_word: worthy
+    zh: 值得；屈尊
+    role: root
+    is_core: true
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dignity 指尊严，不等于 pride 的骄傲。

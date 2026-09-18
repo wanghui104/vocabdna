@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dismal
+word: dismal
+pos: adjective
+zh: 暗淡的；凄凉的；忧郁的
+en: gloomy, depressing, or very poor
+components:
+  - morpheme: dies
+    form: dis
+    meaning_in_word: day / 日子
+    zh: 日子
+    role: root
+    is_core: true
+    note: dismal 中 dis 来自 dies 日子，不是分开/否定前缀。
+  - morpheme: mal
+    form: mal
+    meaning_in_word: bad, evil / 坏、恶
+    zh: 坏、恶
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dismal 可指天气/气氛，也可指表现糟糕。

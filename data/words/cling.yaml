@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cling
+word: cling
+pos: verb
+zh: 粘紧；附着；坚持
+en: to hold tightly or stick to something
+components:
+  - morpheme: cling
+    form: cling
+    meaning_in_word: stick
+    zh: 粘紧；坚持
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cling to an idea/person/habit。

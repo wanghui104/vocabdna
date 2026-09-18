@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rawhide
+word: rawhide
+pos: noun
+zh: 生牛皮
+en: Means 生牛皮; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: raw
+    form: raw
+    meaning_in_word: raw
+    zh: raw
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:raw.
+  - morpheme: hide
+    form: hide
+    meaning_in_word: hide
+    zh: 兽皮；隐藏，掩藏
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hide.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

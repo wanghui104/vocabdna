@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dreary
+word: dreary
+pos: adjective
+zh: 沉闷的；阴郁的
+en: dull, gloomy, and depressing
+components:
+  - morpheme: dreary
+    form: dreary
+    meaning_in_word: sad, gloomy / 悲伤；阴郁
+    zh: 悲伤；阴郁
+    role: root
+    is_core: true
+    note: 深层 dreor 血 + -ig 性质后缀（对应 -y）；dreor 又关联 dreosan 下落，现代不强造 drear 自由词。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

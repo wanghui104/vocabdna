@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elect
+display: elect
+type: root
+core_meaning: choose
+zh: 选择
+origin: teaching morphology
+source_form: elect
+source_meaning: choose
+source_meaning_zh: 选择
+related_morphemes:
+  []
+senses:
+  - meaning: choose
+    zh: 选择
+    examples:
+      - presidential election
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - elect -> presidential election
+high_value_words:
+  - presidential election
+confusable_words:
+  []

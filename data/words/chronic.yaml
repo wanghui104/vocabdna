@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chronic
+word: chronic
+pos: adjective
+zh: 长期的；慢性的
+en: lasting for a long time or recurring often
+components:
+  - morpheme: chron
+    form: chron
+    meaning_in_word: time
+    zh: 时间
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: related to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: chronic disease/problem 常见。

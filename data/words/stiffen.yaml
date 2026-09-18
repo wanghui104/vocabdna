@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stiffen
+word: stiffen
+pos: verb
+zh: 使硬，使僵硬
+en: Means 使硬，使僵硬; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: stiff
+    form: stiff
+    meaning_in_word: stiff / 僵硬
+    zh: 僵硬
+    role: root
+    is_core: true
+  - morpheme: en
+    form: -en
+    meaning_in_word: make; become / 使；变成
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+word_family:
+  - stiff
+word_family_details:
+  - word: stiff
+    en: Means 硬的，僵直的；（态度、举止）拘谨的; reviewed from the TOEFL source gloss for learner display.
+    zh: 硬的，僵直的；（态度、举止）拘谨的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

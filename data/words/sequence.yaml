@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sequence
+word: sequence
+pos: noun
+zh: 序列；顺序
+en: Means 序列；顺序; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sequ
+    form: sequ
+    meaning_in_word: follow / 跟随；顺序
+    zh: 跟随；结果
+    role: root
+    is_core: true
+  - morpheme: ence
+    form: -ence
+    meaning_in_word: state or act / 状态或动作
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

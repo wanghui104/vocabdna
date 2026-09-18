@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adhere
+word: adhere
+pos: verb
+zh: 黏附；粘牢
+en: to stick firmly to a surface
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: haer-hes
+    form: here
+    meaning_in_word: stick
+    zh: 黏附；坚持
+    role: root
+    is_core: true
+word_family:
+  - adhesive
+word_family_details:
+  - word: adhesive
+    en: a substance that makes things stick together
+    zh: 粘着物；胶黏剂
+confusables:
+  []
+examples:
+  - en: The label did not adhere to the bottle.
+    zh: 标签没有粘牢在瓶子上。
+  - en: Researchers must adhere to ethical standards.
+    zh: 研究人员必须遵守伦理标准。
+why_confusing: adhere to 可表示物理粘附，也可表示遵守规则。

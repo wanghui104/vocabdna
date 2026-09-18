@@ -5,20 +5,27 @@ type: root
 core_meaning: draw, pull, draw off
 zh: 拉、抽、汲取
 origin: Old English
+source_form: Middle English draught; Old English dragan
+source_meaning: draw, pull
+source_meaning_zh: 拉；抽取
+source_note: draft/draught 是 draw 的历史结果名词；gh/f 反映拼写音变，不拆 dra + ft。
 related_morphemes:
-  []
+  - draw
 senses:
   - meaning: draw, pull, draw off
     zh: 拉、抽、汲取
     examples:
       - draft
+      - draft animal
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - draft -> draft
+  - draft -> draft animal
 high_value_words:
   - draft
+  - draft animal
 confusable_words:
   []

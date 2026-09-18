@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coalesce
+display: coalesce
+type: root
+core_meaning: coalesce, coalition
+zh: 联合；合并
+origin: Latin
+source_form: Latin coalescere
+source_meaning: grow together
+source_meaning_zh: 共同生长；合并
+related_morphemes:
+  []
+senses:
+  - meaning: coalesce, coalition
+    zh: 联合；合并
+    examples:
+      - coalesce
+      - coalescence
+      - coalition
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - alesce -> coalesce
+  - alesc -> coalescence
+  - alit -> coalition
+high_value_words:
+  - coalesce
+  - coalescence
+  - coalition
+confusable_words:
+  []

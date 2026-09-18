@@ -5,32 +5,86 @@ type: root
 core_meaning: look, see
 zh: 看
 origin: Latin
+source_form: Latin specere / spectus
+source_meaning: look
+source_meaning_zh: 看；检查
 related_morphemes:
   []
 senses:
   - meaning: look, see
     zh: 看
     examples:
-      - spectacle
+      - aspect
+      - conspicuous
       - inspect
+      - inspection
+      - inspector
+      - introspective
+      - perspective
+      - prospect
+      - prospecting
+      - prospector
       - respect
-      - microscope
-      - telescope
+      - respective
+      - respectively
+      - retrospect
+      - retrospective
+      - spectacle
+      - spectacular
+      - spectacularly
+      - spectator
+      - spectra
+      - spectrum
+      - suspect
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - spect -> spectacle
+  - spect -> aspect
+  - spic -> conspicuous
   - spect -> inspect
+  - spect -> inspection
+  - spect -> inspector
+  - spect -> introspective
+  - spect -> perspective
+  - spect -> prospect
+  - spect -> prospecting
+  - spect -> prospector
   - spect -> respect
-  - scope- -> microscope
-  - scope- -> telescope
+  - spect -> respective
+  - spect -> respectively
+  - spect -> retrospect
+  - spect -> retrospective
+  - spect -> spectacle
+  - spect -> spectacular
+  - spect -> spectacularly
+  - spect -> spectator
+  - spect -> spectra
+  - spect -> spectrum
+  - spect -> suspect
 high_value_words:
-  - spectacle
+  - aspect
+  - conspicuous
   - inspect
+  - inspection
+  - inspector
+  - introspective
+  - perspective
+  - prospect
+  - prospecting
+  - prospector
   - respect
-  - microscope
-  - telescope
+  - respective
+  - respectively
+  - retrospect
+  - retrospective
+  - spectacle
+  - spectacular
+  - spectacularly
+  - spectator
+  - spectra
+  - spectrum
+  - suspect
 confusable_words:
   []

@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: opt
+display: opt
+type: root
+core_meaning: choose, wish
+zh: 选择；希望
+origin: Latin
+source_form: Latin optare
+source_meaning: choose, wish
+source_meaning_zh: 选择、希望
+related_morphemes:
+  []
+senses:
+  - meaning: choose, wish
+    zh: 选择；希望
+    examples:
+      - adopt
+      - adoption
+      - optical
+      - option
+      - optional
+      - optometrist
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - opt -> adopt
+  - opt -> adoption
+  - opt -> optical
+  - opt -> option
+  - opt -> optional
+  - opt -> optometrist
+high_value_words:
+  - adopt
+  - adoption
+  - optical
+  - option
+  - optional
+  - optometrist
+confusable_words:
+  []

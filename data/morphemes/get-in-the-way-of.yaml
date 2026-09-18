@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: get-in-the-way-of
+display: get in the way of
+type: root
+core_meaning: draft meaning for get in the way of
+zh: 阻挡
+origin: Unknown
+source_form: TOEFL draft opaque stem: get in the way of
+source_meaning: draft learner stem for get in the way of
+source_meaning_zh: 阻挡
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for get in the way of
+    zh: 阻挡
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bitterness
+word: bitterness
+pos: noun
+zh: 苦味；辛酸；怨恨
+en: a bitter taste, pain, or resentful feeling
+components:
+  - morpheme: bitter
+    form: bitter
+    meaning_in_word: sharp, painful
+    zh: 苦的；尖酸的
+    role: root
+    is_core: true
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - bitter
+word_family_details:
+  - word: bitter
+    en: having a sharp unpleasant taste, or full of pain or resentment
+    zh: 苦的；痛苦的；尖酸刻薄的
+confusables:
+  []
+examples:
+  []
+why_confusing: bitterness 可指味觉，也可指心里的怨气。

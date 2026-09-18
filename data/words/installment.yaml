@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: installment
+word: installment
+pos: noun
+zh: 分期付款
+en: Means 分期付款; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: stall
+    form: stall
+    meaning_in_word: 站立位置；摊位
+    zh: 站立位置；摊位
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:stall.
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ment.
+word_family:
+  - install
+word_family_details:
+  - word: install
+    en: Means 安装，设置; reviewed from the TOEFL source gloss for learner display.
+    zh: 安装，设置
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

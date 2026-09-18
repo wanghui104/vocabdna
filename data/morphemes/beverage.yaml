@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: beverage
+display: beverage
+type: root
+core_meaning: beverage
+zh: 饮料
+origin: French
+source_form: Old French bevrage, beivre
+source_meaning: drink
+source_meaning_zh: 喝；饮料
+related_morphemes:
+  []
+senses:
+  - meaning: beverage
+    zh: 饮料
+    examples:
+      - beverage
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - beverage -> beverage
+high_value_words:
+  - beverage
+confusable_words:
+  []

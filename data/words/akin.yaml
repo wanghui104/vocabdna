@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: akin
+word: akin
+pos: adjective
+zh: 同族的；类似的
+en: related by nature, origin, or character; similar
+components:
+  - morpheme: a
+    form: a-
+    meaning_in_word: of, in
+    zh: 在；属于；完成性
+    role: prefix
+    is_core: false
+  - morpheme: kin
+    form: kin
+    meaning_in_word: family, kind
+    zh: 亲族；类似
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The method is akin to natural selection.
+    zh: 这种方法类似于自然选择。
+why_confusing: 常用 akin to，表示“类似于”。

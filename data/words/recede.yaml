@@ -14,22 +14,15 @@ components:
   - morpheme: excess-ceed
     form: cede
     meaning_in_word: go
-    zh: 走、前进、让步
+    zh: 走；让步
     role: root
     is_core: true
 word_family:
-  - recession
+  []
 word_family_details:
-  - word: recession
-    en: related form of recession
-    zh: recession 的相关词
+  []
 confusables:
-  - word: recede
-    reason: recede 是退去；reseed 是重新播种。
-    zh_reason: recede 是退去；reseed 是重新播种。
-  - word: reseed
-    reason: recede 是退去；reseed 是重新播种。
-    zh_reason: recede 是退去；reseed 是重新播种。
+  []
 examples:
   - en: The floodwater began to recede.
     zh: 洪水开始退去。

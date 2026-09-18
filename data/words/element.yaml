@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: element
+word: element
+pos: noun
+zh: 要素；化学元素
+en: a basic part of something; a substance consisting of atoms with the same number of protons
+components:
+  - morpheme: element
+    form: element
+    meaning_in_word: basic constituent / 基本组成
+    zh: 基本组成
+    role: root
+    is_core: true
+    note: elementum 更深来源不明，-ment 不能视为英语名词后缀硬拆。
+word_family:
+  - elementary
+word_family_details:
+  - word: elementary
+    en: basic, introductory, or relating to primary education
+    zh: 基本的；初级的；小学的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

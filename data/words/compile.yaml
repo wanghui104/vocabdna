@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compile
+word: compile
+pos: verb
+zh: 汇集；编辑
+en: to collect information and arrange it in a book, list, or program
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: pil
+    form: pile
+    meaning_in_word: gather
+    zh: 汇集；编辑
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: compile code 是编译代码。

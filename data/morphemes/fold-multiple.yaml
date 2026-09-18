@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fold-multiple
+display: -fold
+type: suffix
+core_meaning: multiplied by
+zh: 倍
+origin: Old English
+source_form: Old English -feald
+source_meaning: multiplied by
+source_meaning_zh: 倍
+source_note: thousandfold 的 -fold 为倍数后缀，不是围栏。
+related_morphemes:
+  []
+senses:
+  - meaning: multiplied by
+    zh: 倍
+    examples:
+      - thousandfold
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -fold -> thousandfold
+high_value_words:
+  - thousandfold
+confusable_words:
+  []

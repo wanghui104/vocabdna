@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: centennial
+word: centennial
+pos: noun/adjective
+zh: 百年纪念；一百周年的
+en: a hundredth anniversary, or related to one hundred years
+components:
+  - morpheme: cent
+    form: cent-
+    meaning_in_word: hundred
+    zh: 百
+    role: prefix
+    is_core: false
+  - morpheme: ann
+    form: -ennial
+    meaning_in_word: yearly
+    zh: 年
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: bicentennial 是二百周年。

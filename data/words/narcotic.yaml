@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: narcotic
+word: narcotic
+pos: adjective
+zh: 麻醉的，催眠的；n. 麻醉剂
+en: Means 麻醉的，催眠的；n. 麻醉剂; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: narc
+    form: narc
+    meaning_in_word: 麻木；麻醉
+    zh: 麻木；麻醉
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:narc.
+  - morpheme: otic
+    form: otic
+    meaning_in_word: otic
+    zh: otic
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:otic.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fragrant
+word: fragrant
+pos: adjective
+zh: 芳香的
+en: having a pleasant smell
+components:
+  - morpheme: fragr
+    form: fragr
+    meaning_in_word: emit a smell / 散发香气
+    zh: 散发香气
+    role: root
+    is_core: true
+    note: fragrant = fragr- + -ant；fragrance = fragr- + -ance，勿与 frag-/fract- 破裂混淆。
+  - morpheme: ent
+    form: -ant
+    meaning_in_word: one who, that which, having the quality of / ……的人；具有……性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+    note: -ant 对应 Latin -ans/-ant-（或经法语 -ant）的分词、性质形容词层，和 -ent 为相关形态。
+word_family:
+  - fragrance
+word_family_details:
+  - word: fragrance
+    en: a pleasant smell
+    zh: 香气
+confusables:
+  - word: fragment
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: attribute
+word: attribute
+pos: noun/verb
+zh: 属性；品质；把...归因于
+en: a quality assigned to someone or something, or to say something is caused by a source
+components:
+  - morpheme: ad
+    form: at-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: trib
+    form: tribute
+    meaning_in_word: assign, give
+    zh: 分配；给予；归因
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: majesty
+word: majesty
+pos: noun
+zh: 威严，最高权威
+en: Means 威严，最高权威; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: majest
+    form: majest
+    meaning_in_word: 威严；伟大
+    zh: 威严；伟大
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:majest.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:y.
+word_family:
+  - majestic
+  - majority
+word_family_details:
+  - word: majestic
+    en: Means 壮观的，庄严的; reviewed from the TOEFL source gloss for learner display.
+    zh: 壮观的，庄严的
+  - word: majority
+    en: Means 多数; reviewed from the TOEFL source gloss for learner display.
+    zh: 多数
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

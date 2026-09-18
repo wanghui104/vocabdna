@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disentanglement
+word: disentanglement
+pos: noun
+zh: 解开纠缠；摆脱牵连；理清
+en: the process or result of freeing things from tangles or separating complex connections
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: reverse; free from / 解除、脱离
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: 表层 dis- + entangle；继续展开为 dis- + en- + tangle。
+  - morpheme: in
+    form: en-
+    meaning_in_word: put into; cause to be in / 使进入、使陷入
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: 使陷入缠绕；经法语对应 Latin in-。
+  - morpheme: tangle
+    form: tangle
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: 保留 tangle 为学习词干；不是 Latin tangere（触碰）的 tang-，更早词源仍有不确定性。
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: process, result, or state / 过程、结果、状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - disentangle
+  - disentangled
+word_family_details:
+  - word: disentangle
+    en: to free something from a tangle or separate things that are confusingly mixed
+    zh: 解开；使摆脱纠缠；理清、分辨
+  - word: disentangled
+    en: freed from a tangle or separated from confusing connections
+    zh: 已解开纠缠的；已分清的；disentangle 的过去形式
+confusables:
+  []
+examples:
+  - en: The disentanglement of the two accounts took several weeks.
+    zh: 把两个账户的账目理清花了好几个星期。
+why_confusing: 表层 disentangle + -ment；内层 dis- + en- + tangle。较正式，日常常直接使用 disentangle。

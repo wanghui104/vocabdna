@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frighten
+word: frighten
+pos: verb
+zh: 使害怕
+en: to make someone afraid
+components:
+  - morpheme: fright
+    form: fright
+    meaning_in_word: fear, fright / 惊恐
+    zh: 惊恐
+    role: root
+    is_core: true
+    note: 历史换位形成 fright；frighten = fright + 本族 -en，frightening 再加 -ing。
+  - morpheme: en
+    form: -en
+    meaning_in_word: make, become / 使成为；变得
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+word_family:
+  - frightened
+  - frightening
+word_family_details:
+  - word: frightened
+    en: feeling afraid
+    zh: 受惊的；害怕的
+  - word: frightening
+    en: causing fear
+    zh: 令人害怕的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

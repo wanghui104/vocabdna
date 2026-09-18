@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consort
+word: consort
+pos: verb/noun
+zh: 陪伴；结交；配偶/伙伴
+en: to associate with someone, or a companion/spouse
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: sort
+    form: sort
+    meaning_in_word: kind, lot
+    zh: 种类；分类；抽签
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: consort with 可带贬义，指与不好的人来往。

@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: harmonic
+word: harmonic
+pos: adjective
+zh: 和声的
+en: Means 和声的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: harmon
+    form: harmon
+    meaning_in_word: harmon
+    zh: 协调；和谐
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:harmon.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Suffix layer from Greek -ikos, Latin -icus.
+word_family:
+  - harmony
+  - harmonize
+  - harmonious
+  - harmonica
+  - philharmonic
+word_family_details:
+  - word: harmony
+    en: Means 协调，融洽; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 协调，融洽
+  - word: harmonize
+    en: Means （使）协调，（使）和谐; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: （使）协调，（使）和谐
+  - word: harmonious
+    en: Means 和谐的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 和谐的
+  - word: harmonica
+    en: Means 口琴; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 口琴
+  - word: philharmonic
+    en: Means 交响乐团; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 交响乐团
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

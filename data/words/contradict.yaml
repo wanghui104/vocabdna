@@ -14,19 +14,15 @@ components:
   - morpheme: dict
     form: dict
     meaning_in_word: say
-    zh: 说、宣告
+    zh: 说；宣告
     role: root
     is_core: true
 word_family:
-  - contradiction
   - contradictory
 word_family_details:
-  - word: contradiction
-    en: related form of contradiction
-    zh: contradiction 的相关词
   - word: contradictory
-    en: related form of contradictory
-    zh: contradictory 的相关词
+    en: saying or implying the opposite, so both cannot be true
+    zh: 反对的；矛盾的
 confusables:
   - word: contrast
     reason: contradict 是矛盾/反驳；contrast 是对比。

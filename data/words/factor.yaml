@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: factor
+word: factor
+pos: noun/verb
+zh: 因素；因子
+en: an element contributing to a result; a number multiplied with another
+components:
+  - morpheme: fac
+    form: fact
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person or thing that does / 做……的人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+    note: -or 为 Latin 施事/工具名词后缀；-ator 包含 -at- 动词分词构词层 + -or。不是 error/favor 的抽象 -or。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

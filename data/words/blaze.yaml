@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blaze
+word: blaze
+pos: verb/noun
+zh: 燃烧；照耀；火焰
+en: to burn or shine brightly, or a bright flame
+components:
+  - morpheme: blaze
+    form: blaze
+    meaning_in_word: flame
+    zh: 燃烧；闪耀
+    role: root
+    is_core: true
+word_family:
+  - blazing
+word_family_details:
+  - word: blazing
+    en: burning or shining very brightly
+    zh: 炽烧的；闪耀的
+confusables:
+  []
+examples:
+  []
+why_confusing: blaze a trail 表示开辟道路。

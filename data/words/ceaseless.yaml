@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ceaseless
+word: ceaseless
+pos: adjective
+zh: 不停的；不断的
+en: continuing without stopping
+components:
+  - morpheme: cease
+    form: cease
+    meaning_in_word: stop
+    zh: 停止；终止
+    role: root
+    is_core: true
+  - morpheme: less
+    form: -less
+    meaning_in_word: without
+    zh: 无；没有
+    role: suffix
+    is_core: false
+word_family:
+  - cease
+word_family_details:
+  - word: cease
+    en: to stop happening or stop doing something
+    zh: 停止；终止
+confusables:
+  []
+examples:
+  []
+why_confusing: ceaseless noise/rain/work 常见。

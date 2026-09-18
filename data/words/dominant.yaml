@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dominant
+word: dominant
+pos: adjective
+zh: 占主导地位的；优势的
+en: having the greatest influence, power, or importance
+components:
+  - morpheme: domin
+    form: domin
+    meaning_in_word: master, rule / 主人；统治
+    zh: 主人；统治
+    role: root
+    is_core: true
+    note: 表层 domin- 主人、控制；深层 dominus 是与 domus 房屋相关的家主称谓。
+    related_morphemes:
+      - domus
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having quality, doing / 具有…性质；正在…
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - dominate
+word_family_details:
+  - word: dominate
+    en: to control or have the strongest influence; to be most prominent
+    zh: 统治；支配；占优势
+confusables:
+  []
+examples:
+  []
+why_confusing: 表层 domin- 主人、控制；深层 dominus 是与 domus 房屋相关的家主称谓。

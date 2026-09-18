@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crum
+display: crum
+type: root
+core_meaning: break into crumbs
+zh: 弄皱；粉碎
+origin: Old English
+source_form: Old English cruma
+source_meaning: crumb, fragment
+source_meaning_zh: 碎屑；碎片
+source_note: Old English cruma 碎屑 → gecrymman 弄碎 → frequentative crumble。字母 b 后加；与 crump 弯曲 → crumple 的近形关系不是同一直接词干。
+related_morphemes:
+  []
+senses:
+  - meaning: break into crumbs
+    zh: 弄皱；粉碎
+    examples:
+      - crumble
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - crumb -> crumble
+high_value_words:
+  - crumble
+confusable_words:
+  []

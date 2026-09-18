@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: apart-from
+word: apart from
+pos: phrase
+zh: 除...之外；除了
+en: except for, or in addition to
+components:
+  - morpheme: ad
+    form: a-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: part-pars
+    form: part
+    meaning_in_word: part, side
+    zh: 部分；份额
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: apart from 可表示 except for，也可表示 besides，需看语境。

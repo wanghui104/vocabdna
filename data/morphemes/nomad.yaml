@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nomad
+display: nomad
+type: root
+core_meaning: wander; pasture
+zh: 游牧；流浪
+origin: teaching morphology
+source_form: nomad
+source_meaning: wander; pasture
+source_meaning_zh: 游牧；流浪
+related_morphemes:
+  []
+senses:
+  - meaning: wander; pasture
+    zh: 游牧；流浪
+    examples:
+      - nomadic
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - nomad -> nomadic
+high_value_words:
+  - nomadic
+confusable_words:
+  []

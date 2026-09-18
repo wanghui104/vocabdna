@@ -5,20 +5,38 @@ type: combining form
 core_meaning: small
 zh: 小、微小
 origin: Greek
+source_form: Greek mikros
+source_meaning: small
+source_meaning_zh: 微小
 related_morphemes:
   []
 senses:
   - meaning: small
     zh: 小、微小
     examples:
+      - microbe
+      - microcosm
+      - microorganism
       - microscope
+      - microscopic
+      - microwave
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - micro- -> microscope
+  - micro- -> microbe
+  - micro- -> microcosm
+  - micro- -> microorganism
+  - micro -> microscope
+  - micro- -> microscopic
+  - micro- -> microwave
 high_value_words:
+  - microbe
+  - microcosm
+  - microorganism
   - microscope
+  - microscopic
+  - microwave
 confusable_words:
   []

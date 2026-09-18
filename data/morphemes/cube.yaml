@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cube
+display: cube
+type: root
+core_meaning: cube, six-sided solid
+zh: 立方体；立方
+origin: Greek
+source_form: Greek κύβος (kybos)
+source_meaning: six-sided die, cube
+source_meaning_zh: 六面骰；立方体
+related_morphemes:
+  []
+senses:
+  - meaning: cube, six-sided solid
+    zh: 立方体；立方
+    examples:
+      - cube
+      - cubic
+      - cubism
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cube -> cube
+  - cub -> cubic
+  - cub -> cubism
+high_value_words:
+  - cube
+  - cubic
+  - cubism
+confusable_words:
+  []

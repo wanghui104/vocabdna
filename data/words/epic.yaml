@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: epic
+word: epic
+pos: noun/adjective
+zh: 史诗
+en: a long narrative poem about heroic deeds
+components:
+  - morpheme: epos
+    form: ep
+    meaning_in_word: word, story / 话语；故事
+    zh: 话语；故事
+    role: root
+    is_core: true
+    note: epic = ep- + -ic；与 epi- 在上不同。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

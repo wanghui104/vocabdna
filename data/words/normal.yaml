@@ -2,30 +2,37 @@
 id: normal
 word: normal
 pos: adjective
-zh: 正常的；正规的；标准的
-en: usual, regular, or according to a standard
+zh: 正常的，标准的
+en: Means 正常的，标准的; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: norm
     form: norm
-    meaning_in_word: standard
+    meaning_in_word: rule; standard / 规则；标准
     zh: 标准、规则
     role: root
     is_core: true
   - morpheme: al
     form: -al
-    meaning_in_word: relating to
+    meaning_in_word: relating to / 相关的
     zh: 属于……的
     role: suffix
     is_core: false
 word_family:
   - abnormal
+  - norm
+  - normally
 word_family_details:
   - word: abnormal
-    en: different from what is usual, expected, or normal
-    zh: 反常的；异常的；变态的
+    en: Means 反常的，变态的; reviewed from the TOEFL source gloss for learner display.
+    zh: 反常的，变态的
+  - word: norm
+    en: Means 标准，规范; reviewed from the TOEFL source gloss for learner display.
+    zh: 标准，规范
+  - word: normally
+    en: Means 通常地; reviewed from the TOEFL source gloss for learner display.
+    zh: 通常地
 confusables:
   []
 examples:
-  - en: Her temperature returned to normal.
-    zh: 她的体温恢复正常。
-why_confusing: normal 是中性词；ordinary 更偏普通。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

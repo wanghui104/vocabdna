@@ -1,0 +1,63 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sur
+display: sur-
+type: prefix
+core_meaning: over, above
+zh: 在上；超过
+origin: Latin/French
+source_form: Old French sur-
+source_meaning: over, above
+source_meaning_zh: 在上；超过
+related_morphemes:
+  []
+senses:
+  - meaning: over, above
+    zh: 在上；超过
+    examples:
+      - insurmountable
+      - surcharge
+      - surface
+      - surmount
+      - surpass
+      - surpassingly
+      - surplus
+      - surrender
+      - survey
+      - survivability
+      - survival
+      - survive
+      - survivor
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sur- -> insurmountable
+  - sur- -> surcharge
+  - sur- -> surface
+  - sur- -> surmount
+  - sur- -> surpass
+  - sur- -> surpassingly
+  - sur- -> surplus
+  - sur- -> surrender
+  - sur- -> survey
+  - sur- -> survivability
+  - sur- -> survival
+  - sur- -> survive
+  - sur- -> survivor
+high_value_words:
+  - insurmountable
+  - surcharge
+  - surface
+  - surmount
+  - surpass
+  - surpassingly
+  - surplus
+  - surrender
+  - survey
+  - survivability
+  - survival
+  - survive
+  - survivor
+confusable_words:
+  []

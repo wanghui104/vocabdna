@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dense
+display: dense
+type: root
+core_meaning: make dense, condense
+zh: 浓缩；冷凝
+origin: Latin
+source_form: Latin densus
+source_meaning: thick, close
+source_meaning_zh: 稠密；密集
+related_morphemes:
+  []
+senses:
+  - meaning: make dense, condense
+    zh: 浓缩；冷凝
+    examples:
+      - condensation
+      - condense
+      - condenser
+      - dense
+      - density
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - dens -> condensation
+  - dense -> condense
+  - dens -> condenser
+  - dense -> dense
+  - dens -> density
+high_value_words:
+  - condensation
+  - condense
+  - condenser
+  - dense
+  - density
+confusable_words:
+  []

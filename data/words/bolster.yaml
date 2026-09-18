@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bolster
+word: bolster
+pos: noun/verb
+zh: 垫子；枕垫；支持
+en: a long pillow, or to support and strengthen something
+components:
+  - morpheme: bolster
+    form: bolster
+    meaning_in_word: pillow, support
+    zh: 垫子；支持
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常搭配 bolster confidence/support/economy。

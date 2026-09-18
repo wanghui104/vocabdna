@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inviting
+word: inviting
+pos: adjective
+zh: 诱人的，引人心动的
+en: Means 诱人的，引人心动的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: vit
+    form: vit
+    meaning_in_word: 邀请
+    zh: 邀请
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:vit.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ing.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

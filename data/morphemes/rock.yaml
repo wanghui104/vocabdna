@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rock
+display: rock
+type: root
+core_meaning: rock
+zh: 岩石
+origin: Mixed
+source_form: Old French rocque, Medieval Latin rocca
+source_meaning: rock, stone mass
+source_meaning_zh: 岩石
+related_morphemes:
+  []
+senses:
+  - meaning: rock
+    zh: 岩石
+    examples:
+      - bedrock
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - rock -> bedrock
+high_value_words:
+  - bedrock
+confusable_words:
+  []

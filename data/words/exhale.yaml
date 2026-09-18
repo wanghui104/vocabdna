@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exhale
+word: exhale
+pos: verb
+zh: 呼出；散发
+en: to breathe out or give off vapor
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: hal-breathe
+    form: hale
+    meaning_in_word: breathe / 呼吸
+    zh: 呼吸
+    role: root
+    is_core: true
+    note: exhale = ex- + hale；hale 是 halare 的词干形，不是英语 hale 健康。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

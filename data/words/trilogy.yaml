@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: trilogy
+word: trilogy
+pos: noun
+zh: 三部剧，三部曲
+en: Means 三部剧，三部曲; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: tri
+    form: tri-
+    meaning_in_word: three / 三
+    zh: 三
+    role: prefix
+    is_core: false
+  - morpheme: logy
+    form: logy
+    meaning_in_word: study; collection / 学问；三部曲
+    zh: 学科、研究
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

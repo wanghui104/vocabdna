@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dragonfly
+word: dragonfly
+pos: noun
+zh: 蜻蜓
+en: a predatory insect with a long body and two pairs of large wings
+components:
+  - morpheme: dragon
+    form: dragon
+    meaning_in_word: serpent, dragon / 蛇；龙
+    zh: 蛇；龙
+    role: root
+    is_core: true
+    note: 更深通常联系 derkesthai 看清，但语义解释不是定论；现代 dragon 保留借词词干。
+  - morpheme: fly
+    form: fly
+    meaning_in_word: fly, flying insect / 飞；飞虫
+    zh: 飞；飞虫
+    role: root
+    is_core: true
+    note: dragonfly = dragon + fly，fly 为稳定本族词。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,39 +1,41 @@
 # Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: spring
 word: spring
-pos: noun/verb
-zh: 跳起；涌出；突然出现
-en: to jump, rise, or appear suddenly
+pos: noun
+zh: 泉；弹簧；跳跃
+en: Means 泉；弹簧；跳跃; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: spring
     form: spring
-    meaning_in_word: leap, rise, burst forth, rebound
+    meaning_in_word: spring; leap; arise / 泉；弹簧；跳；生发
     zh: 跳起、涌出、弹回
     role: root
     is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
 word_family:
-  - springy
+  - mainspring
+  - offspring
+  - spring-up
   - springtime
-  - springboard
+  - springwater
 word_family_details:
-  - word: springy
-    en: related form of springy
-    zh: springy 的相关词
+  - word: mainspring
+    en: Means (钟表的)主发条; reviewed from the TOEFL source gloss for learner display.
+    zh: (钟表的)主发条
+  - word: offspring
+    en: Means (单复数同形)子孙, 后代; reviewed from the TOEFL source gloss for learner display.
+    zh: (单复数同形)子孙, 后代
+  - word: spring-up
+    en: Means 出现，产生; reviewed from the TOEFL source gloss for learner display.
+    zh: 出现，产生
   - word: springtime
-    en: related form of springtime
-    zh: springtime 的相关词
-  - word: springboard
-    en: related form of springboard
-    zh: springboard 的相关词
+    en: Means 春天，春季; reviewed from the TOEFL source gloss for learner display.
+    zh: 春天，春季
+  - word: springwater
+    en: Means 天然泉水; reviewed from the TOEFL source gloss for learner display.
+    zh: 天然泉水
 confusables:
   []
 examples:
-  - en: New shoots spring from the soil after rain.
-    zh: 雨后，新芽从土里冒出来。
-  - en: The garden is full of color in spring.
-    zh: 春天，花园里满是色彩。
-  - en: The village grew around a clear mountain spring.
-    zh: 村庄围绕一处清澈的山泉发展起来。
-  - en: The spring pushed the lid back open.
-    zh: 弹簧把盖子又弹开了。
-why_confusing: spring 的几个常见名词义是同一词的多义 sense，不要拆成多个 derivative tab。
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

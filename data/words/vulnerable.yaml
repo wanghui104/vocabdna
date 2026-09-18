@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vulnerable
+word: vulnerable
+pos: adjective
+zh: 易受攻击的；易受伤害的
+en: Means 易受攻击的；易受伤害的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: vulner
+    form: vulner
+    meaning_in_word: wound / 伤口
+    zh: 伤口
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be / 能被；能够
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

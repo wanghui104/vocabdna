@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: opponent
+word: opponent
+pos: noun
+zh: 对手，敌手，反对者
+en: Means 对手，敌手，反对者; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: op
+    form: op
+    meaning_in_word: op / op
+    zh: op
+    role: root
+    is_core: true
+  - morpheme: pon
+    form: pon
+    meaning_in_word: put; place / 放置
+    zh: 放置
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: being; doing / 正在/具有
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

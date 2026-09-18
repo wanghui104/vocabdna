@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: semi
+display: semi-
+type: prefix
+core_meaning: half, partly
+zh: 半；部分
+origin: Latin
+source_form: Latin semi-
+source_meaning: half
+source_meaning_zh: 半
+related_morphemes:
+  []
+senses:
+  - meaning: half, partly
+    zh: 半；部分
+    examples:
+      - semiarid
+      - semiliterate
+      - semimolten
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - semi- -> semiarid
+  - semi- -> semiliterate
+  - semi- -> semimolten
+high_value_words:
+  - semiarid
+  - semiliterate
+  - semimolten
+confusable_words:
+  []

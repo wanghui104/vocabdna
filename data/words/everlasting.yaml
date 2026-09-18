@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: everlasting
+word: everlasting
+pos: adjective
+zh: 永恒的，持久的，无止境的
+en: Means 永恒的，持久的，无止境的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ever
+    form: ever
+    meaning_in_word: 总是
+    zh: 总是
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ever.
+  - morpheme: last
+    form: last
+    meaning_in_word: 持续
+    zh: 持续
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:last.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ing.
+word_family:
+  - lasting
+  - long-lasting
+word_family_details:
+  - word: lasting
+    en: Means 持久的；永恒的，耐力的; reviewed from the TOEFL source gloss for learner display.
+    zh: 持久的；永恒的，耐力的
+  - word: long-lasting
+    en: Means 持久的，永久的; reviewed from the TOEFL source gloss for learner display.
+    zh: 持久的，永久的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

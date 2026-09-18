@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: soy
+display: soy
+type: root
+core_meaning: soy
+zh: 大豆
+origin: Japanese/Dutch
+source_form: soy
+source_meaning: soy
+source_meaning_zh: 大豆
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: soy
+    zh: 大豆
+    examples:
+      - soy
+      - soybean
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - soy -> soy
+  - soy -> soybean
+high_value_words:
+  - soy
+  - soybean
+confusable_words:
+  []

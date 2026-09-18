@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fault
+display: fault
+type: root
+core_meaning: failure, deceive
+zh: 失误；欺骗
+origin: Latin
+source_form: Old French faute; Latin fallere, *fallita
+source_meaning: failure, deceive
+source_meaning_zh: 失误；欺骗
+source_note: fault 来自法语名词及 Latin fallere 相关分词，l 为后来的复古拼写；不是英语 fall 掉落。
+related_morphemes:
+  []
+senses:
+  - meaning: failure, deceive
+    zh: 失误；欺骗
+    examples:
+      - fault
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fault -> fault
+high_value_words:
+  - fault
+confusable_words:
+  []

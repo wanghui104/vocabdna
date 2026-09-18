@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lave
+word: lave
+pos: verb
+zh: 为沐浴, 洗
+en: Means 为沐浴, 洗; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lav
+    form: lav
+    meaning_in_word: 洗
+    zh: 洗
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lav.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

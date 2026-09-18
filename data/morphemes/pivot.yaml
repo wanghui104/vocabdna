@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pivot
+display: pivot
+type: root
+core_meaning: pivot
+zh: 枢轴
+origin: teaching morphology
+source_form: pivot
+source_meaning: pivot
+source_meaning_zh: 枢轴
+related_morphemes:
+  []
+senses:
+  - meaning: pivot
+    zh: 枢轴
+    examples:
+      - a pivotal figure
+      - pivot
+      - pivotal
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pivot -> a pivotal figure
+  - pivot -> pivot
+  - pivot -> pivotal
+high_value_words:
+  - a pivotal figure
+  - pivot
+  - pivotal
+confusable_words:
+  []

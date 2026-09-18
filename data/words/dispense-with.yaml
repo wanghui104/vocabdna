@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dispense-with
+word: dispense with
+pos: phrase
+zh: 免除；省却；不用
+en: to manage without something or decide it is unnecessary
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: pens
+    form: pense
+    meaning_in_word: compensate / 补偿；赔偿
+    zh: 补偿；赔偿
+    role: root
+    is_core: true
+  - morpheme: with
+    form: with
+    meaning_in_word: with, against / 与；相对
+    zh: 与；相对
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 这是短语，不等于 dispense medicine 的“配药”。

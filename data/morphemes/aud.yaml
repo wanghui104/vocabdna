@@ -5,23 +5,38 @@ type: root
 core_meaning: hear
 zh: 听
 origin: Latin
+source_form: Latin audire
+source_meaning: to hear
+source_meaning_zh: 听见
 related_morphemes:
   []
 senses:
   - meaning: hear
     zh: 听
     examples:
+      - audibility
       - audible
       - audience
+      - audit
+      - audition
+      - auditorium
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - aud / -ible -> audible
+  - aud -> audibility
+  - aud -> audible
   - aud -> audience
+  - audit -> audit
+  - aud -> audition
+  - audit -> auditorium
 high_value_words:
+  - audibility
   - audible
   - audience
+  - audit
+  - audition
+  - auditorium
 confusable_words:
   []

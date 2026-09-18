@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exotic
+word: exotic
+pos: adjective
+zh: 外来的；奇异的
+en: originating elsewhere or strikingly unfamiliar
+components:
+  - morpheme: exo
+    form: exo-
+    meaning_in_word: outside / 外部
+    zh: 外部
+    role: prefix
+    is_core: false
+    note: exo 由 ek 出的副词派生；exotic 的 -tic 对应希腊 -tikos。
+  - morpheme: ic
+    form: -tic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

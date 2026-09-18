@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bush
+word: bush
+pos: noun
+zh: 矮树丛
+en: a low woody plant with many branches
+components:
+  - morpheme: bush
+    form: bush
+    meaning_in_word: shrub
+    zh: 矮树丛
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: beat around the bush 指拐弯抹角。

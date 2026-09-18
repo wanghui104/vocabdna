@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: unique
+display: unique
+type: root
+core_meaning: unique
+zh: unique
+origin: teaching morphology
+source_form: unique
+source_meaning: unique
+source_meaning_zh: unique
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: unique
+    zh: unique
+    examples:
+      - uniqueness
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - unique -> uniqueness
+high_value_words:
+  - uniqueness
+confusable_words:
+  []

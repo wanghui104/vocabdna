@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crab
+word: crab
+pos: noun
+zh: 蟹
+en: a sea animal with a hard shell and claws
+components:
+  - morpheme: crab
+    form: crab
+    meaning_in_word: crab
+    zh: 蟹
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: crab 也可作动词或形容脾气差的人，但本批用名词义。

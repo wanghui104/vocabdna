@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clinic
+word: clinic
+pos: noun
+zh: 门诊所；诊所
+en: a place where people receive medical treatment or advice
+components:
+  - morpheme: clin
+    form: clin
+    meaning_in_word: sickbed
+    zh: 门诊；临床
+    role: root
+    is_core: true
+word_family:
+  - clinical
+word_family_details:
+  - word: clinical
+    en: related to medical treatment of patients, or coldly objective
+    zh: 临床的；冷静客观的
+confusables:
+  []
+examples:
+  []
+why_confusing: clinic 和 clinical 同族；cline slope 是另词。

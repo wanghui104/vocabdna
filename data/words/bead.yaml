@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bead
+word: bead
+pos: noun
+zh: 珠子；小滴
+en: a small round object with a hole, or a small drop of liquid
+components:
+  - morpheme: bead
+    form: bead
+    meaning_in_word: prayer bead
+    zh: 珠子；小滴
+    role: root
+    is_core: true
+word_family:
+  - beaded
+word_family_details:
+  - word: beaded
+    en: decorated with beads or shaped like beads
+    zh: 以珠装饰的；珠状的
+confusables:
+  []
+examples:
+  []
+why_confusing: beads of sweat 指汗珠。

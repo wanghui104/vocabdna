@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: proper
+display: proper
+type: root
+core_meaning: own; proper
+zh: 自己的；恰当
+origin: teaching morphology
+source_form: proper
+source_meaning: own; proper
+source_meaning_zh: 自己的；恰当
+related_morphemes:
+  []
+senses:
+  - meaning: own; proper
+    zh: 自己的；恰当
+    examples:
+      - property
+      - propery
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - proper -> property
+  - proper -> propery
+high_value_words:
+  - property
+  - propery
+confusable_words:
+  []

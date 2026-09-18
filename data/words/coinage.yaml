@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coinage
+word: coinage
+pos: noun
+zh: 造币；货币制度；新造词
+en: the making of coins, a system of coins, or a newly invented word
+components:
+  - morpheme: coin
+    form: coin
+    meaning_in_word: coin
+    zh: 铸币；创造词语
+    role: root
+    is_core: true
+  - morpheme: age
+    form: -age
+    meaning_in_word: process/result
+    zh: 结果；集合
+    role: suffix
+    is_core: false
+word_family:
+  - coin
+word_family_details:
+  - word: coin
+    en: a piece of metal money, or to invent a new word or phrase
+    zh: 铸币；硬币；创造新词
+confusables:
+  []
+examples:
+  []
+why_confusing: coinage 可指货币，也可指新词。

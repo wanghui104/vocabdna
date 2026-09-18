@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crow
+word: crow
+pos: noun
+zh: 乌鸦
+en: a large black bird with a harsh call
+components:
+  - morpheme: crow
+    form: crow
+    meaning_in_word: crow
+    zh: 乌鸦
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: crow 也可作动词表示得意地叫嚷，需按语境判断。

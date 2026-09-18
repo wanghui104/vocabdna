@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: masonry
+word: masonry
+pos: noun
+zh: 石工术；石匠职业
+en: Means 石工术；石匠职业; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mason
+    form: mason
+    meaning_in_word: 石匠
+    zh: 石匠
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mason.
+  - morpheme: ry
+    form: -ry
+    meaning_in_word: 行业；技艺；集合状态
+    zh: 行业；技艺；集合状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ry.
+word_family:
+  - mason
+  - stonemason
+word_family_details:
+  - word: mason
+    en: Means 泥瓦匠; reviewed from the TOEFL source gloss for learner display.
+    zh: 泥瓦匠
+  - word: stonemason
+    en: Means 石工，石匠; reviewed from the TOEFL source gloss for learner display.
+    zh: 石工，石匠
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

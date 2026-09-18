@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: popcorn
+word: popcorn
+pos: noun
+zh: 爆米花
+en: Means 爆米花; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pop
+    form: pop
+    meaning_in_word: 爆裂声
+    zh: 爆裂声
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:pop.
+  - morpheme: corn
+    form: corn
+    meaning_in_word: 谷物
+    zh: 谷物
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:corn.
+word_family:
+  - corn
+  - cornet
+word_family_details:
+  - word: corn
+    en: Means 玉米，谷类; reviewed from the TOEFL source gloss for learner display.
+    zh: 玉米，谷类
+  - word: cornet
+    en: Means 短号; reviewed from the TOEFL source gloss for learner display.
+    zh: 短号
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

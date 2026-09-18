@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: companion
+word: companion
+pos: noun
+zh: 同伴；同事
+en: someone who spends time with you or travels with you
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: with
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: pan
+    form: pan
+    meaning_in_word: bread
+    zh: 面包；同伴
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: companion 比 friend 更强调陪伴关系。

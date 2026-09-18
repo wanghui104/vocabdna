@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: avid
+word: avid
+pos: adjective
+zh: 热切的；渴望的
+en: very eager or enthusiastic
+components:
+  - morpheme: avid
+    form: avid
+    meaning_in_word: eager
+    zh: 渴望的；贪求的
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: avid reader/fan 指热衷者，不一定负面。

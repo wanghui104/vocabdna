@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exhaustion
+word: exhaustion
+pos: noun
+zh: 筋疲力尽；耗尽
+en: extreme tiredness or complete use of a supply
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: haust
+    form: haust
+    meaning_in_word: draw out liquid / 汲取；抽取
+    zh: 汲取；抽取
+    role: root
+    is_core: true
+    note: haust- 为 haurire 分词词干；exhaust 从抽尽到耗尽，非英语 house。
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
+word_family:
+  - exhaust
+  - exhausted
+  - exhausting
+word_family_details:
+  - word: exhaust
+    en: to use up or make extremely tired
+    zh: 耗尽；使筋疲力尽
+  - word: exhausted
+    en: extremely tired or completely used up
+    zh: 筋疲力尽的；耗尽的
+  - word: exhausting
+    en: causing extreme tiredness
+    zh: 使人精疲力尽的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

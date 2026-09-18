@@ -32,9 +32,7 @@ word_family_details:
     en: frequent absence from school or work
     zh: 旷课；旷工
 confusables:
-  - word: present
-    reason: absent-minded 是心不在焉，不只是缺席。
-    zh_reason: absent-minded 是心不在焉，不只是缺席。
+  []
 examples:
   - en: Several students were absent today.
     zh: 今天有几名学生缺席。

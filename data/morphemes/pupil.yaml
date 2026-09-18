@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pupil
+display: pupil
+type: root
+core_meaning: pupil
+zh: 瞳孔；学生
+origin: teaching morphology
+source_form: pupil
+source_meaning: pupil
+source_meaning_zh: 瞳孔；学生
+related_morphemes:
+  []
+senses:
+  - meaning: pupil
+    zh: 瞳孔；学生
+    examples:
+      - pupil
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pupil -> pupil
+high_value_words:
+  - pupil
+confusable_words:
+  []

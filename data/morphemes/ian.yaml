@@ -15,13 +15,25 @@ senses:
     zh: 属于……的人
     examples:
       - academician
+      - custodian
+      - dietitian
+      - equestrian
+      - magician
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - -ician -> academician
+  - -ian -> custodian
+  - -itian -> dietitian
+  - ian -> equestrian
+  - -ian -> magician
 high_value_words:
   - academician
+  - custodian
+  - dietitian
+  - equestrian
+  - magician
 confusable_words:
   []

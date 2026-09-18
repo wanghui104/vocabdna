@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: service
+display: service
+type: root
+core_meaning: service
+zh: service
+origin: teaching morphology
+source_form: service
+source_meaning: service
+source_meaning_zh: service
+related_morphemes:
+  []
+senses:
+  - meaning: service
+    zh: service
+    examples:
+      - postal service
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - service -> postal service
+high_value_words:
+  - postal service
+confusable_words:
+  []

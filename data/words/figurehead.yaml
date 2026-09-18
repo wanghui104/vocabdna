@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: figurehead
+word: figurehead
+pos: noun
+zh: 船首雕像
+en: a carved figure on the front of a ship
+components:
+  - morpheme: figur
+    form: figure
+    meaning_in_word: shape, form / 形状；构型
+    zh: 形状；构型
+    role: root
+    is_core: true
+    note: figurehead = figure 形象/雕像 + head 船首；figure 内部 figura ← fig-（fingere 塑造）+ -ura 名词层。从船首雕像引申为只有名号而无实权的领袖。
+    related_morphemes:
+      - fict
+  - morpheme: head
+    form: head
+    meaning_in_word: head / 头；首领
+    zh: 头；首领
+    role: root
+    is_core: true
+    note: 本族简单词；figurehead 由 figure 船首雕像 + head 首部构成，并引申为名义领袖。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

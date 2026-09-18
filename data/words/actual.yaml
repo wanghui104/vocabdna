@@ -24,9 +24,7 @@ word_family_details:
     en: in fact or really
     zh: 实际上；事实上
 confusables:
-  - word: virtual
-    reason: actual 是实际的；virtual 是虚拟的或实质上的。
-    zh_reason: actual 是实际的；virtual 是虚拟的或实质上的。
+  []
 examples:
   - en: The actual cost was lower.
     zh: 实际成本更低。

@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: feminism
+word: feminism
+pos: noun
+zh: 女权主义；女性主义
+en: advocacy of equal rights and opportunities for women
+components:
+  - morpheme: femin
+    form: femin
+    meaning_in_word: woman / 女性
+    zh: 女性
+    role: root
+    is_core: true
+    note: feminism = femin- + -ism，feminist = femin- + -ist；femina 传统追至“哺乳”相关历史根，不等于现代 gender 定义。
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: practice, condition / 行为；状态
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+word_family:
+  - feminist
+word_family_details:
+  - word: feminist
+    en: a supporter of equal rights and opportunities for women
+    zh: 女权主义者
+confusables:
+  []
+examples:
+  []
+why_confusing: 

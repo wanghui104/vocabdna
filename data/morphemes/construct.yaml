@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: construct
+display: construct
+type: root
+core_meaning: construct
+zh: construct
+origin: teaching morphology
+source_form: construct
+source_meaning: construct
+source_meaning_zh: construct
+related_morphemes:
+  []
+senses:
+  - meaning: construct
+    zh: construct
+    examples:
+      - reconstruct
+      - reconstruction
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - construct -> reconstruct
+  - construct -> reconstruction
+high_value_words:
+  - reconstruct
+  - reconstruction
+confusable_words:
+  []

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lobster
+display: lobster
+type: root
+core_meaning: lobster
+zh: 龙虾
+origin: Old English/Latin
+source_form: Old English loppestre
+source_meaning: lobster
+source_meaning_zh: 龙虾
+related_morphemes:
+  []
+senses:
+  - meaning: lobster
+    zh: 龙虾
+    examples:
+      - lobster
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - lobster -> lobster
+high_value_words:
+  - lobster
+confusable_words:
+  []

@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adjacent
+word: adjacent
+pos: adjective
+zh: 毗连的；邻近的
+en: near or next to something, often sharing a border
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: near
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: jac-jacent
+    form: jacent
+    meaning_in_word: lying
+    zh: 躺；处在
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: adjoining
+    reason: adjacent 不一定接触；adjoining 更强调相接。
+    zh_reason: adjacent 不一定接触；adjoining 更强调相接。
+examples:
+  - en: The library is adjacent to the science building.
+    zh: 图书馆紧邻科学楼。
+why_confusing: adjacent 不一定接触；adjoining 更强调相接。

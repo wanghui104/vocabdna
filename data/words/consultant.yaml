@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consultant
+word: consultant
+pos: noun
+zh: 顾问；咨询者
+en: a person who gives expert advice
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: sult
+    form: sult
+    meaning_in_word: take counsel
+    zh: 咨询；商议
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: person
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - consult
+word_family_details:
+  - word: consult
+    en: to ask for advice or information, or look something up
+    zh: 咨询；请教；查阅
+confusables:
+  []
+examples:
+  []
+why_confusing: management/medical consultant 常见。

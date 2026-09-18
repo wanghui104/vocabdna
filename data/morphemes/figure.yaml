@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: figure
+display: figure
+type: root
+core_meaning: figure
+zh: figure
+origin: teaching morphology
+source_form: figure
+source_meaning: figure
+source_meaning_zh: figure
+related_morphemes:
+  []
+senses:
+  - meaning: figure
+    zh: figure
+    examples:
+      - a pivotal figure
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - figure -> a pivotal figure
+high_value_words:
+  - a pivotal figure
+confusable_words:
+  []

@@ -1,26 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: dia
 display: dia-
 type: prefix
-core_meaning: through / across / between
-zh: 穿过；跨越；相互之间
-origin: Greek dia = through, across
+core_meaning: through, across
+zh: 穿过；横跨
+origin: Greek
+source_form: Greek dia
+source_meaning: through, across, between
+source_meaning_zh: 穿过；横跨；在两者之间
+related_morphemes:
+  []
 senses:
-  - meaning: across / between
-    zh: 相互之间
+  - meaning: through, across
+    zh: 穿过；横跨
     examples:
+      - diagnose
+      - diagonal
+      - diagonally
+      - diagram
+      - dialect
       - dialogue
       - diameter
-      - diagnosis
 similar_form:
-  - dis
+  []
 similar_meaning:
-  - trans
-  - inter
+  []
 patterns:
-  - dia- + -logue = speech between sides
+  - dia- -> diagnose
+  - dia- -> diagonal
+  - dia- -> diagonally
+  - dia- -> diagram
+  - dia- -> dialect
+  - dia- -> dialogue
+  - dia- -> diameter
 high_value_words:
+  - diagnose
+  - diagonal
+  - diagonally
+  - diagram
+  - dialect
   - dialogue
-  - diagnosis
   - diameter
 confusable_words:
-  - dialogue vs monologue
+  []

@@ -5,9 +5,10 @@ type: suffix
 core_meaning: make, somewhat like
 zh: 使成、带有……性质
 origin: Mixed
-source_form: English -ish
+source_form: Old English -isc; Old French -iss-; Latin -iscere
 source_meaning: verbal or adjectival ending
 source_meaning_zh: 动词或形容词结尾
+source_note: 本条归组两条来源：形容词 -ish 为 Old English -isc；动词 abolish/extinguish 等的 -ish 经法语 -iss-，历史关联 Latin -iscere 动词扩展。
 related_morphemes:
   []
 senses:
@@ -15,13 +16,49 @@ senses:
     zh: 使成、带有……性质
     examples:
       - abolish
+      - brownish
+      - extinguish
+      - feverish
+      - foolish
+      - foolishly
+      - foolishness
+      - perishable
+      - polish
+      - replenish
+      - Scotch
+      - slavish
+      - unselfish
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - -ish -> abolish
+  - -ish -> brownish
+  - -ish -> extinguish
+  - -ish -> feverish
+  - -ish -> foolish
+  - -ish -> foolishly
+  - -ish -> foolishness
+  - ish -> perishable
+  - -ish -> polish
+  - ish -> replenish
+  - -ish -> Scotch
+  - -ish -> slavish
+  - -ish -> unselfish
 high_value_words:
   - abolish
+  - brownish
+  - extinguish
+  - feverish
+  - foolish
+  - foolishly
+  - foolishness
+  - perishable
+  - polish
+  - replenish
+  - Scotch
+  - slavish
+  - unselfish
 confusable_words:
   []

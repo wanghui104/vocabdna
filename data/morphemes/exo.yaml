@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exo
+display: exo-
+type: prefix
+core_meaning: outside
+zh: 外部
+origin: Greek
+source_form: Greek ἔξω (exo), ἐκ (ek)
+source_meaning: outside
+source_meaning_zh: 外部
+source_note: exo 由 ek 出的副词派生；exotic 的 -tic 对应希腊 -tikos。
+related_morphemes:
+  []
+senses:
+  - meaning: outside
+    zh: 外部
+    examples:
+      - exotic
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - exo- -> exotic
+high_value_words:
+  - exotic
+confusable_words:
+  []

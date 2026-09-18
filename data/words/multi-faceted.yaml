@@ -1,0 +1,62 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: multi-faceted
+word: multi-faceted
+pos: adjective
+zh: 多方面的；多才多艺的
+en: Means 多方面的；多才多艺的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: multi
+    form: multi-
+    meaning_in_word: 多
+    zh: 多
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:multi.
+  - morpheme: fac
+    form: fac
+    meaning_in_word: 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:fac.
+  - morpheme: et
+    form: -et
+    meaning_in_word: 小物
+    zh: 小物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:et.
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ed.
+word_family:
+  - multicellular
+  - multiple
+  - multiply
+  - multistory
+  - multitude
+word_family_details:
+  - word: multicellular
+    en: Means 多细胞的; reviewed from the TOEFL source gloss for learner display.
+    zh: 多细胞的
+  - word: multiple
+    en: Means 多样的，多重的 / 倍数; reviewed from the TOEFL source gloss for learner display.
+    zh: 多样的，多重的 / 倍数
+  - word: multiply
+    en: Means 繁殖，增加 / 乘（by）; reviewed from the TOEFL source gloss for learner display.
+    zh: 繁殖，增加 / 乘（by）
+  - word: multistory
+    en: Means 多层建筑; reviewed from the TOEFL source gloss for learner display.
+    zh: 多层建筑
+  - word: multitude
+    en: Means 大量，多数; reviewed from the TOEFL source gloss for learner display.
+    zh: 大量，多数
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

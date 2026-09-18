@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contribute-to
+word: contribute to
+pos: phrase
+zh: 有助于；促成；对……起作用
+en: to help cause or add to a result
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: trib
+    form: tribut
+    meaning_in_word: give, assign
+    zh: 分配；给予；归因
+    role: root
+    is_core: true
+  - morpheme: to
+    form: to
+    meaning_in_word: toward
+    zh: 向；到
+    role: functionWord
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: contribute to 后接名词/动名词。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clockwise
+word: clockwise
+pos: adjective/adverb
+zh: 顺时针方向的；顺时针地
+en: moving in the direction that clock hands move
+components:
+  - morpheme: clock
+    form: clock
+    meaning_in_word: clock
+    zh: 时钟
+    role: root
+    is_core: true
+  - morpheme: wise
+    form: -wise
+    meaning_in_word: manner
+    zh: 方式；方向
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可作形容词或副词。

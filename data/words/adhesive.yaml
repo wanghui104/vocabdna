@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adhesive
+word: adhesive
+pos: noun/adjective
+zh: 粘着物；胶黏剂
+en: a substance that makes things stick together
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: haer-hes
+    form: hes
+    meaning_in_word: stick
+    zh: 黏附；坚持
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having the nature of
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - adhere
+word_family_details:
+  - word: adhere
+    en: to stick firmly to a surface
+    zh: 黏附；粘牢
+confusables:
+  []
+examples:
+  - en: The carpenter used a strong adhesive.
+    zh: 木匠使用了强力胶黏剂。
+  - en: Adhesive tape sealed the box.
+    zh: 胶带封住了盒子。
+why_confusing: 作名词是胶黏剂；作形容词是有粘性的。

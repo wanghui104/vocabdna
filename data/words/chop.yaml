@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chop
+word: chop
+pos: verb
+zh: 砍；劈
+en: to cut something with repeated sharp blows
+components:
+  - morpheme: chop
+    form: chop
+    meaning_in_word: cut with a blow
+    zh: 砍；波浪起伏
+    role: root
+    is_core: true
+word_family:
+  - choppy
+word_family_details:
+  - word: choppy
+    en: rough with many small waves, or changing often
+    zh: 波浪起伏的；方向多变的
+confusables:
+  []
+examples:
+  []
+why_confusing: chop up 是切碎。

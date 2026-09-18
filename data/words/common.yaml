@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: common
+word: common
+pos: adjective/noun
+zh: 共同的；普通的；公共地
+en: shared by many people or ordinary
+components:
+  - morpheme: common
+    form: common
+    meaning_in_word: shared
+    zh: 共同；公共；社区
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 用于补全 common 系列。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rigid
+word: rigid
+pos: adjective
+zh: 坚硬的，不易弯曲的；严格的
+en: Means 坚硬的，不易弯曲的；严格的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rig
+    form: rig
+    meaning_in_word: stiff; rule / 硬；严格
+    zh: 浇水；灌溉
+    role: root
+    is_core: true
+  - morpheme: id
+    form: -id
+    meaning_in_word: having quality / 具有…性质
+    zh: 处于某状态
+    role: suffix
+    is_core: false
+word_family:
+  - rigidity
+word_family_details:
+  - word: rigidity
+    en: Means 僵化，死板；刚性，硬度; reviewed from the TOEFL source gloss for learner display.
+    zh: 僵化，死板；刚性，硬度
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

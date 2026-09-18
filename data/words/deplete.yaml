@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deplete
+word: deplete
+pos: verb
+zh: 耗尽；使衰竭
+en: to use up or greatly reduce a supply or resource
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: ple
+    form: plete
+    meaning_in_word: fill
+    zh: 补足；补充
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: deplete resources/supplies/energy。

@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: labor-union
+word: labor union
+pos: noun
+zh: 工会
+en: Means 工会; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: labor
+    form: labor
+    meaning_in_word: 劳动
+    zh: 劳动
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:labor.
+  - morpheme: union
+    form: union
+    meaning_in_word: 一；联合
+    zh: 一；联合
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:union.
+word_family:
+  - laborious
+  - laboriously
+  - laborer
+  - labor-movement
+word_family_details:
+  - word: laborious
+    en: Means 费力的，艰难的; reviewed from the TOEFL source gloss for learner display.
+    zh: 费力的，艰难的
+  - word: laboriously
+    en: Means 费力地，艰难地; reviewed from the TOEFL source gloss for learner display.
+    zh: 费力地，艰难地
+  - word: laborer
+    en: Means 劳动者; reviewed from the TOEFL source gloss for learner display.
+    zh: 劳动者
+  - word: labor-movement
+    en: Means 劳工运动; reviewed from the TOEFL source gloss for learner display.
+    zh: 劳工运动
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

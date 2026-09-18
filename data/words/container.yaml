@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: container
+word: container
+pos: noun
+zh: 容器；集装箱
+en: an object or large box used for holding or transporting things
+components:
+  - morpheme: tain
+    form: contain
+    meaning_in_word: hold inside
+    zh: 持有；包含
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: thing that does
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - contain
+word_family_details:
+  - word: contain
+    en: to hold something inside or keep it under control
+    zh: 包含；容纳；控制
+confusables:
+  []
+examples:
+  []
+why_confusing: shipping container 指集装箱。

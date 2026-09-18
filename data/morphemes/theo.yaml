@@ -1,25 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: theo
-display: theo-
-type: combining form
-core_meaning: god / deity
-zh: 神；神灵
-origin: Greek theos = god
+display: the
+type: root
+core_meaning: god, deity
+zh: 神；神明
+origin: Greek
+source_form: Greek theos
+source_meaning: god
+source_meaning_zh: 神
+related_morphemes:
+  []
 senses:
-  - meaning: god / deity
-    zh: 神
+  - meaning: god, deity
+    zh: 神；神明
     examples:
-      - theology
-      - theosophy
       - atheist
+      - theist
 similar_form:
-  - theo
+  []
 similar_meaning:
-  - div
+  []
 patterns:
-  - theo- + -logy = study of religious belief or God
+  - the -> atheist
+  - the -> theist
 high_value_words:
-  - theology
   - atheist
-  - theosophy
+  - theist
 confusable_words:
-  - theology vs theosophy
+  []

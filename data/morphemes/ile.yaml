@@ -1,0 +1,79 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ile
+display: -ile
+type: suffix
+core_meaning: capable of being
+zh: 能够……的
+origin: Latin
+source_form: Latin -ilis
+source_meaning: capable of being
+source_meaning_zh: 能够……的
+source_note: ductile 对应 Latin ductilis，可被拉伸；后缀不是 tile 砖。
+related_morphemes:
+  []
+senses:
+  - meaning: capable of being
+    zh: 能够……的
+    examples:
+      - ductile
+      - fossil
+      - fossilization
+      - fossilize
+      - fossilized
+      - fragile
+      - fragility
+      - hostile
+      - immobile
+      - infertile
+      - juvenile
+      - mercantile
+      - mobile
+      - reptile
+      - tactile
+      - tensile
+      - textile
+      - volatile
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ile -> ductile
+  - -il -> fossil
+  - -il -> fossilization
+  - -il -> fossilize
+  - -il -> fossilized
+  - -ile -> fragile
+  - -il -> fragility
+  - -ile -> hostile
+  - -ile -> immobile
+  - -ile -> infertile
+  - -ile -> juvenile
+  - -ile -> mercantile
+  - -ile -> mobile
+  - ile -> reptile
+  - -ile -> tactile
+  - -ile -> tensile
+  - -ile -> textile
+  - -ile -> volatile
+high_value_words:
+  - ductile
+  - fossil
+  - fossilization
+  - fossilize
+  - fossilized
+  - fragile
+  - fragility
+  - hostile
+  - immobile
+  - infertile
+  - juvenile
+  - mercantile
+  - mobile
+  - reptile
+  - tactile
+  - tensile
+  - textile
+  - volatile
+confusable_words:
+  []

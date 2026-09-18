@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: drudge
+word: drudge
+pos: noun/verb
+zh: 苦工；做苦工
+en: a person doing hard dull work; to do such work
+components:
+  - morpheme: drudge
+    form: drudge
+    meaning_in_word: work laboriously / 做苦工
+    zh: 做苦工
+    role: root
+    is_core: true
+    note: 可能关联 Old English dreogan 劳作、忍受；深层未定。drudgery 为 drudg- + -ery。
+word_family:
+  - drudgery
+word_family_details:
+  - word: drudgery
+    en: hard, repetitive, and dull work
+    zh: 单调辛苦的劳动
+confusables:
+  []
+examples:
+  []
+why_confusing: 

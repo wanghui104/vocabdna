@@ -3,32 +3,48 @@ id: microscope
 word: microscope
 pos: noun
 zh: 显微镜
-en: an instrument for viewing very small objects
+en: Means 显微镜; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: micro
-    form: micro-
-    meaning_in_word: small
+    form: micro
+    meaning_in_word: small / 微小
     zh: 小、微小
-    role: combining_form
+    role: combining
+    is_core: false
+  - morpheme: scope
+    form: scope
+    meaning_in_word: look; scope / 看；范围
+    zh: 看；观察器
+    role: root
     is_core: true
-  - morpheme: spect
-    form: scope-
-    meaning_in_word: look
-    zh: 看
-    role: combining_form
-    is_core: true
-    note: scope root can be split later if more scope words are added
 word_family:
+  - microbe
+  - microcosm
+  - microorganism
   - microscopic
+  - telescope
+  - microwave
 word_family_details:
+  - word: microbe
+    en: Means 微生物; reviewed from the TOEFL source gloss for learner display.
+    zh: 微生物
+  - word: microcosm
+    en: Means 微观世界; reviewed from the TOEFL source gloss for learner display.
+    zh: 微观世界
+  - word: microorganism
+    en: Means 微生物; reviewed from the TOEFL source gloss for learner display.
+    zh: 微生物
   - word: microscopic
-    en: related form of microscopic
-    zh: microscopic 的相关词
+    en: Means 用显微镜可见的；极小的; reviewed from the TOEFL source gloss for learner display.
+    zh: 用显微镜可见的；极小的
+  - word: telescope
+    en: Means 望远镜; reviewed from the TOEFL source gloss for learner display.
+    zh: 望远镜
+  - word: microwave
+    en: Means 微波（炉）; reviewed from the TOEFL source gloss for learner display.
+    zh: 微波（炉）
 confusables:
-  - word: microphone
-    reason: microscope 看小物；microphone 收声音。
-    zh_reason: microscope 看小物；microphone 收声音。
+  []
 examples:
-  - en: Students observed cells through a microscope.
-    zh: 学生通过显微镜观察细胞。
-why_confusing: microscope 看小物；microphone 收声音。
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

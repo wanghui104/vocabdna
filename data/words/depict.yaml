@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: depict
+word: depict
+pos: verb
+zh: 描绘；描写；描述
+en: to represent or describe someone or something in words or images
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: fully, down
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: pict
+    form: pict
+    meaning_in_word: paint, picture
+    zh: 绘画；描写
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: depict in/as 常见。

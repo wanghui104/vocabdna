@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: particulate
+word: particulate
+pos: adjective/noun
+zh: 微小颗粒的；颗粒物
+en: consisting of or relating to tiny particles
+components:
+  - morpheme: part-pars
+    form: part
+    meaning_in_word: part
+    zh: 部分；份额
+    role: root
+    is_core: true
+  - morpheme: cule
+    form: -icul
+    meaning_in_word: small
+    zh: 小
+    role: suffix
+    is_core: false
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: having/made
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - particle
+word_family_details:
+  - word: particle
+    en: Means 颗粒，微粒; reviewed from the TOEFL source gloss for learner display.
+    zh: 颗粒，微粒
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

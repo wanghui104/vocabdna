@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dread
+display: dread
+type: root
+core_meaning: fear greatly
+zh: 非常害怕
+origin: Old English
+source_form: Old English ondrædan, adrædan
+source_meaning: fear greatly
+source_meaning_zh: 非常害怕
+source_note: 表层 dread 是收缩词干；深层 ond- 反对 + rædan 劝告，经过 adrædan 收缩，不把 d 当现代前缀。
+related_morphemes:
+  []
+senses:
+  - meaning: fear greatly
+    zh: 非常害怕
+    examples:
+      - dread
+      - dreadful
+      - dreadfully
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - dread -> dread
+  - dread -> dreadful
+  - dread -> dreadfully
+high_value_words:
+  - dread
+  - dreadful
+  - dreadfully
+confusable_words:
+  []

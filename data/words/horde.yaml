@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: horde
+word: horde
+pos: noun
+zh: 一大群
+en: Means 一大群; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: horde
+    form: horde
+    meaning_in_word: 群；游牧营
+    zh: 一大群
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:horde.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fable
+display: fable
+type: root
+core_meaning: story, speak
+zh: 故事；说
+origin: Latin
+source_form: Latin fabula, fari
+source_meaning: story, speak
+source_meaning_zh: 故事；说
+source_note: fabula 为 fari 说的名词派生，含历史 -bula 构词层；不是 f- + able 能够。
+related_morphemes:
+  []
+senses:
+  - meaning: story, speak
+    zh: 故事；说
+    examples:
+      - fable
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fable -> fable
+high_value_words:
+  - fable
+confusable_words:
+  []

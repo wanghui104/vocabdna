@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: doubt
+word: doubt
+pos: noun/verb
+zh: 怀疑；不确定
+en: uncertainty about whether something is true or likely
+components:
+  - morpheme: doubt
+    form: doubt
+    meaning_in_word: doubt, hesitate / 怀疑；犹豫
+    zh: 怀疑；犹豫
+    role: root
+    is_core: true
+    note: 表层 doubt；深层 dubitare/dubius 关联 duo 二，原指两可；经法语 douter 收缩，b 为历史拼写恢复。
+word_family:
+  - doubtful
+word_family_details:
+  - word: doubtful
+    en: uncertain, unlikely, or not convinced
+    zh: 不确定的；不大可能的；怀疑的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

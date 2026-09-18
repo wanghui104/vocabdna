@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: weave
+word: weave
+pos: verb
+zh: 迂回行进；编织，组合
+en: Means 迂回行进；编织，组合; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: weave
+    form: weave
+    meaning_in_word: weave / 编织
+    zh: 编织
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - weaver
+  - weaverbird
+word_family_details:
+  - word: weaver
+    en: Means 织布者，织工; reviewed from the TOEFL source gloss for learner display.
+    zh: 织布者，织工
+  - word: weaverbird
+    en: Means [鸟]织巢鸟之一种; reviewed from the TOEFL source gloss for learner display.
+    zh: [鸟]织巢鸟之一种
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

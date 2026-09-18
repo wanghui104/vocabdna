@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foreshadow
+word: foreshadow
+pos: verb
+zh: 预示
+en: to suggest or indicate a future event
+components:
+  - morpheme: fore
+    form: fore-
+    meaning_in_word: before, ancestor / 在前；祖先
+    zh: 在前；祖先
+    role: prefix
+    is_core: false
+  - morpheme: shadow
+    form: shadow
+    meaning_in_word: shadow / 影子
+    zh: 影子
+    role: root
+    is_core: true
+    note: shadow 来自 sceadu 阴影的斜格形式 sceadwe/sceaduwe；现代保留 shadow 稳定词干。foreshadow = fore- 提前 + shadow 影子。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

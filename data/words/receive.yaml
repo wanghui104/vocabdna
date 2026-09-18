@@ -15,7 +15,7 @@ components:
   - morpheme: cap
     form: ceive
     meaning_in_word: take, take in
-    zh: 拿、抓、接收
+    zh: 拿；抓；容纳
     role: root
     is_core: true
     note: From Latin recipere, with -cipere as a combining form of capere.
@@ -27,11 +27,11 @@ word_family:
   - recipient
 word_family_details:
   - word: reception
-    en: the act or manner of receiving someone or something
-    zh: 接收；接待；欢迎
+    en: Means 接待；招待会；接收; reviewed from the TOEFL source gloss for learner display.
+    zh: 接待；招待会；接收
   - word: receptive
-    en: willing or able to receive ideas, suggestions, signals, or impressions
-    zh: 乐于接受的；能接收的
+    en: Means 善于接受的，能接纳的; reviewed from the TOEFL source gloss for learner display.
+    zh: 善于接受的，能接纳的
   - word: receiver
     en: a person or thing that receives something
     zh: 接收者；收件人
@@ -39,12 +39,10 @@ word_family_details:
     en: a written or electronic record showing that money or goods were received
     zh: 收据；收条
   - word: recipient
-    en: a person or group that receives something
-    zh: 接受者；收件人；受方
+    en: Means 接受者，接收方; reviewed from the TOEFL source gloss for learner display.
+    zh: 接受者，接收方
 confusables:
-  - word: recipe
-    reason: receive 是接收；recipe 是配方；receipt 是收据，三者同源但现代用法分开。
-    zh_reason: receive 是接收；recipe 是配方；receipt 是收据，三者同源但现代用法分开。
+  []
 examples:
   - en: I received your message this morning.
     zh: 我今天早上收到了你的信息。

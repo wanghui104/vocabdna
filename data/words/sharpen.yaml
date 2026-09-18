@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sharpen
+word: sharpen
+pos: verb
+zh: 消尖；使敏锐，使敏捷
+en: Means 消尖；使敏锐，使敏捷; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sharp
+    form: sharp
+    meaning_in_word: sharp / 锐利
+    zh: 锐利
+    role: root
+    is_core: true
+  - morpheme: en
+    form: -en
+    meaning_in_word: make; become / 使；变得
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+word_family:
+  - sharply
+word_family_details:
+  - word: sharply
+    en: Means 突然地，猛烈地; reviewed from the TOEFL source gloss for learner display.
+    zh: 突然地，猛烈地
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

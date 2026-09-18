@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: former
+word: former
+pos: adjective
+zh: 以前的
+en: existing or occurring earlier
+components:
+  - morpheme: form-first
+    form: form
+    meaning_in_word: first / 最先
+    zh: 最先
+    role: root
+    is_core: true
+    note: former 的 form- 是古英语 forma 最先，-er 比较；不是 Latin forma 形状。foremost 的 formest 也有这一古老最高级历史。
+  - morpheme: er-comparative
+    form: -er
+    meaning_in_word: more, earlier / 更
+    zh: 更
+    role: suffix
+    is_core: false
+    note: former 中历史比较级，非施事者 -er。
+word_family:
+  - formerly
+word_family_details:
+  - word: formerly
+    en: in the past
+    zh: 从前；以前
+confusables:
+  - word: form
+    reason: 
+    zh_reason: 
+  - word: formal
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: weary
+word: weary
+pos: adjective
+zh: 疲倦的；厌倦的
+en: Means 疲倦的；厌倦的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: weary
+    form: weary
+    meaning_in_word: weary / 疲倦
+    zh: 疲倦
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - weariness
+word_family_details:
+  - word: weariness
+    en: Means 疲倦; reviewed from the TOEFL source gloss for learner display.
+    zh: 疲倦
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

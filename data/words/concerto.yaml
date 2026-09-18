@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: concerto
+word: concerto
+pos: noun
+zh: 协奏曲
+en: a musical work for solo instrument and orchestra
+components:
+  - morpheme: cert
+    form: concert
+    meaning_in_word: musical agreement
+    zh: 一致；协同
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: concerto 是音乐体裁，不是 concert 音乐会本身。

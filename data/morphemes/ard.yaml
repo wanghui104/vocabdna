@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ard
+display: ard
+type: root
+core_meaning: burn, passionate
+zh: 燃烧；热烈
+origin: Latin
+source_form: Latin ardere, ardens
+source_meaning: burn, burning
+source_meaning_zh: 燃烧；炽热
+related_morphemes:
+  []
+senses:
+  - meaning: burn, passionate
+    zh: 燃烧；热烈
+    examples:
+      - ardent
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ard -> ardent
+high_value_words:
+  - ardent
+confusable_words:
+  []

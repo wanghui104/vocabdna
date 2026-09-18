@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: interval
+word: interval
+pos: noun
+zh: 间隔时间
+en: Means 间隔时间; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: inter
+    form: inter-
+    meaning_in_word: 在……之间；相互
+    zh: 在……之间；相互
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:inter.
+  - morpheme: val
+    form: val
+    meaning_in_word: 强；有价值
+    zh: 强；有价值
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:val.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

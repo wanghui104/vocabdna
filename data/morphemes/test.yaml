@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: test
+display: test
+type: root
+core_meaning: witness; protest
+zh: 见证；抗议
+origin: teaching morphology
+source_form: test
+source_meaning: witness; protest
+source_meaning_zh: 见证；抗议
+related_morphemes:
+  []
+senses:
+  - meaning: witness; protest
+    zh: 见证；抗议
+    examples:
+      - protest
+      - testify to
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - test -> protest
+  - test -> testify to
+high_value_words:
+  - protest
+  - testify to
+confusable_words:
+  []

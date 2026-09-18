@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: buddy
+word: buddy
+pos: noun
+zh: 密友；伙伴
+en: a close friend or companion
+components:
+  - morpheme: buddy
+    form: buddy
+    meaning_in_word: companion
+    zh: 密友；伙伴
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 较口语，正式写作慎用。

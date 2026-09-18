@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: unbearable
+word: unbearable
+pos: adjective
+zh: 无法忍受的；承受不住的
+en: too painful, unpleasant, or difficult to endure
+components:
+  - morpheme: un
+    form: un-
+    meaning_in_word: not
+    zh: 不；相反
+    role: prefix
+    is_core: false
+  - morpheme: bear-carry
+    form: bear
+    meaning_in_word: endure
+    zh: 负担；支撑；忍受
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - bear
+word_family_details:
+  - word: bear
+    en: to carry, support, endure, possess, or give birth to
+    zh: 负担；支撑；具有；生产；生育
+confusables:
+  []
+examples:
+  []
+why_confusing: 常修饰 pain/heat/noise/pressure。

@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foremost
+word: foremost
+pos: adjective/adverb
+zh: 最重要的；最前面的
+en: first in importance or position
+components:
+  - morpheme: fore
+    form: fore-
+    meaning_in_word: before, ancestor / 在前；祖先
+    zh: 在前；祖先
+    role: prefix
+    is_core: false
+  - morpheme: most
+    form: most
+    meaning_in_word: most / 最多；最
+    zh: 最多；最
+    role: root
+    is_core: true
+    note: 现代可读作 fore + most；历史来自 Old English formest/fyrmest，form- 最先 + -est 最高级，经类推形成现形；不是 Latin forma 形状。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

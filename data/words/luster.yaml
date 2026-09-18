@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: luster
+word: luster
+pos: noun
+zh: 光彩，光泽；声望
+en: Means 光彩，光泽；声望; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lustr
+    form: lustr
+    meaning_in_word: 照亮；阐明
+    zh: 照亮；阐明
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lustr.
+  - morpheme: er
+    form: -er
+    meaning_in_word: ……者；……物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:er.
+word_family:
+  - lustrous
+word_family_details:
+  - word: lustrous
+    en: Means 有光泽的；光辉的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有光泽的；光辉的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

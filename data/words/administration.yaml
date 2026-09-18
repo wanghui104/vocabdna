@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: administration
+word: administration
+pos: noun
+zh: 经营；管理；行政
+en: the act or system of managing an organization, program, or rule
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: minist
+    form: ministr
+    meaning_in_word: serve, manage
+    zh: 服务；管理
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: act or system
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - administer
+  - administrative
+  - administrator
+word_family_details:
+  - word: administer
+    en: to manage, direct, or give something officially
+    zh: 管理；执行；施用
+  - word: administrative
+    en: relating to the work of managing an organization or office
+    zh: 管理的；行政的
+  - word: administrator
+    en: a person who manages an organization, system, or program
+    zh: 管理者；行政官
+confusables:
+  []
+examples:
+  - en: The administration of the grant required careful records.
+    zh: 这笔资助的管理需要仔细记录。
+  - en: The administration announced a new policy.
+    zh: 政府宣布了一项新政策。
+why_confusing: 可指管理行为，也可指政府/校方等管理机构。

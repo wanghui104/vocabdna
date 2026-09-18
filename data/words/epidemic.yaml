@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: epidemic
+word: epidemic
+pos: noun/adjective
+zh: 流行病；广泛蔓延
+en: an unusually widespread occurrence of a disease or other phenomenon
+components:
+  - morpheme: epi
+    form: epi-
+    meaning_in_word: on, upon, in addition / 在上；另外
+    zh: 在上；另外
+    role: prefix
+    is_core: false
+    note: ep- 为元音前变体；ephemeral 中 ph 跨边界反映历史送气变化。
+  - morpheme: demo
+    form: dem-
+    meaning_in_word: people / 人民、人群
+    zh: 人民、人群
+    role: combining_form
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

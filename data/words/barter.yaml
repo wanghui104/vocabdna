@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: barter
+word: barter
+pos: noun/verb
+zh: 物品交换；易货贸易
+en: to exchange goods or services without using money
+components:
+  - morpheme: barter
+    form: barter
+    meaning_in_word: exchange
+    zh: 易货；交换
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 不要按拼写误连到 bar。

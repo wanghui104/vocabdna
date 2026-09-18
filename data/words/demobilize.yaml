@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: demobilize
+word: demobilize
+pos: verb
+zh: 复员
+en: Means 复员; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: 向下；去除
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:de.
+  - morpheme: mob
+    form: mob
+    meaning_in_word: 移动；机动
+    zh: 移动；机动
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:mob.
+    related_morphemes:
+      - able
+  - morpheme: il
+    form: il-
+    meaning_in_word: 不；入
+    zh: 不；入
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:il.
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ize.
+word_family:
+  - immobile
+  - immobilize
+word_family_details:
+  - word: immobile
+    en: Means 稳定的，不动的，静止的; reviewed from the TOEFL source gloss for learner display.
+    zh: 稳定的，不动的，静止的
+  - word: immobilize
+    en: Means 使不动，使固定; reviewed from the TOEFL source gloss for learner display.
+    zh: 使不动，使固定
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

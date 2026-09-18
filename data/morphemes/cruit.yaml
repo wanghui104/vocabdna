@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cruit
+display: cruit
+type: root
+core_meaning: grow; recruit
+zh: 成长；征募
+origin: teaching morphology
+source_form: cruit
+source_meaning: grow; recruit
+source_meaning_zh: 成长；征募
+related_morphemes:
+  []
+senses:
+  - meaning: grow; recruit
+    zh: 成长；征募
+    examples:
+      - recruit
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cruit -> recruit
+high_value_words:
+  - recruit
+confusable_words:
+  []

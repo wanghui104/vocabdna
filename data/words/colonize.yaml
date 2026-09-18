@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: colonize
+word: colonize
+pos: verb
+zh: 建立殖民地；拓殖；定居
+en: to settle in and take control of a place
+components:
+  - morpheme: colony
+    form: colon
+    meaning_in_word: settler, colony
+    zh: 殖民地；群体
+    role: root
+    is_core: true
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - colony
+  - colonial
+word_family_details:
+  - word: colony
+    en: a settlement controlled by another country, or a group living together
+    zh: 殖民地；群体
+  - word: colonial
+    en: related to a colony or colonial period
+    zh: 殖民的；殖民地的
+confusables:
+  []
+examples:
+  []
+why_confusing: 带有殖民历史语境，使用需注意。

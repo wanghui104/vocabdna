@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inspector
+word: inspector
+pos: noun
+zh: 检查员，巡视员
+en: Means 检查员，巡视员; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: spect
+    form: spect
+    meaning_in_word: 看
+    zh: 看
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:spect.
+  - morpheme: or
+    form: -or
+    meaning_in_word: 做……的人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:or.
+word_family:
+  - inspect
+  - inspection
+word_family_details:
+  - word: inspect
+    en: Means 检查；审查; reviewed from the TOEFL source gloss for learner display.
+    zh: 检查；审查
+  - word: inspection
+    en: Means 检查，细看; reviewed from the TOEFL source gloss for learner display.
+    zh: 检查，细看
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

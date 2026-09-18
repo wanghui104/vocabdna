@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cide
+display: cide
+type: root
+core_meaning: kill
+zh: 杀
+origin: teaching morphology
+source_form: cide
+source_meaning: kill
+source_meaning_zh: 杀
+related_morphemes:
+  []
+senses:
+  - meaning: kill
+    zh: 杀
+    examples:
+      - pesticide
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cide -> pesticide
+high_value_words:
+  - pesticide
+confusable_words:
+  []

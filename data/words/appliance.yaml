@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: appliance
+word: appliance
+pos: noun
+zh: 用具；器具；家用电器
+en: a device or piece of equipment used for a particular purpose
+components:
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: plic
+    form: pli
+    meaning_in_word: apply, put to use
+    zh: 折叠；贴合；应用
+    role: root
+    is_core: true
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: thing or state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - apply
+  - applicant
+  - application
+word_family_details:
+  - word: apply
+    en: to use something for a purpose, or be relevant
+    zh: 应用；运用；适用
+  - word: applicant
+    en: a person who applies for something
+    zh: 申请人
+  - word: application
+    en: a formal request
+    zh: 申请
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

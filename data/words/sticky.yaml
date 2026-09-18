@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sticky
+word: sticky
+pos: adjective
+zh: 粘的，粘性的
+en: Means 粘的，粘性的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: stick
+    form: stick
+    meaning_in_word: stick / 棍；粘住
+    zh: 棍；粘住
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of; having / 充满；具有
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  - matchstick
+  - stick
+  - stickpin
+  - yardstick
+word_family_details:
+  - word: matchstick
+    en: Means 火柴杆; reviewed from the TOEFL source gloss for learner display.
+    zh: 火柴杆
+  - word: stick
+    en: Means 棍，棒；手杖；粘住，粘贴；stick to 坚持; reviewed from the TOEFL source gloss for learner display.
+    zh: 棍，棒；手杖；粘住，粘贴；stick to 坚持
+  - word: stickpin
+    en: Means 领带夹; reviewed from the TOEFL source gloss for learner display.
+    zh: 领带夹
+  - word: yardstick
+    en: Means <美> 码尺, 准绳; reviewed from the TOEFL source gloss for learner display.
+    zh: <美> 码尺, 准绳
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

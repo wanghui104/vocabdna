@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: section
+word: section
+pos: noun
+zh: 部分，节
+en: Means 部分，节; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sect
+    form: sect
+    meaning_in_word: cut; group / 切；宗派
+    zh: 切；相交
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act or result / 动作或结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - sect
+  - sector
+  - sectional
+word_family_details:
+  - word: sect
+    en: Means 宗派，教派; reviewed from the TOEFL source gloss for learner display.
+    zh: 宗派，教派
+  - word: sector
+    en: Means 扇形面；地区; reviewed from the TOEFL source gloss for learner display.
+    zh: 扇形面；地区
+  - word: sectional
+    en: Means 部分的，部门的; reviewed from the TOEFL source gloss for learner display.
+    zh: 部分的，部门的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

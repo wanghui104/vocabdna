@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cowhand
+word: cowhand
+pos: noun
+zh: 牧牛工；牛仔
+en: a person hired to work with cattle
+components:
+  - morpheme: cow
+    form: cow
+    meaning_in_word: cattle
+    zh: 牛
+    role: root
+    is_core: true
+  - morpheme: hand
+    form: hand
+    meaning_in_word: worker
+    zh: 手；工人
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cowhand 比 cowboy 更强调牧场工人。

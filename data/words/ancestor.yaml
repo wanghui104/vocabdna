@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ancestor
+word: ancestor
+pos: noun
+zh: 祖先；祖宗
+en: a person from whom one is descended
+components:
+  - morpheme: ante-avant
+    form: ante-
+    meaning_in_word: before
+    zh: 在前；向前
+    role: prefix
+    is_core: false
+  - morpheme: excess-ceed
+    form: cess
+    meaning_in_word: go
+    zh: 走；让步
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - ancestry
+  - ancestral
+word_family_details:
+  - word: ancestry
+    en: a person's family or ethnic descent
+    zh: 家系；血统
+  - word: ancestral
+    en: relating to or inherited from ancestors
+    zh: 祖先的；祖传的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

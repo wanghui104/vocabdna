@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: career
+word: career
+pos: noun
+zh: 生涯；职业
+en: a person's work life or course through a profession
+components:
+  - morpheme: career
+    form: career
+    meaning_in_word: course, road
+    zh: 生涯；职业
+    role: root
+    is_core: true
+word_family:
+  - careerism
+word_family_details:
+  - word: careerism
+    en: the practice of putting career advancement above other values
+    zh: 野心；追求名利
+confusables:
+  []
+examples:
+  []
+why_confusing: career 不等于 care 词族。

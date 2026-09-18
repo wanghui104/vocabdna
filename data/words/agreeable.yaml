@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: agreeable
+word: agreeable
+pos: adjective
+zh: 使人愉快的；合意的
+en: pleasant, satisfactory, or acceptable
+components:
+  - morpheme: ad
+    form: a-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: grat
+    form: gree
+    meaning_in_word: favor, pleasing
+    zh: 合意；赞同
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - disagreeable
+word_family_details:
+  - word: disagreeable
+    en: unpleasant, offensive, or difficult to accept
+    zh: 不令人喜欢的；令人厌恶的
+confusables:
+  []
+examples:
+  - en: The climate is agreeable in spring.
+    zh: 春天的气候令人愉快。
+  - en: He is agreeable in group work.
+    zh: 他在小组工作中很好相处。
+why_confusing: agreeable person 是好相处的人；agreeable idea 是令人接受的想法。

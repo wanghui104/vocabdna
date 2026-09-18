@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: indigestion
+word: indigestion
+pos: noun
+zh: 消化不良
+en: Means 消化不良; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: di
+    form: di
+    meaning_in_word: di
+    zh: di
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:di.
+  - morpheme: gest
+    form: gest
+    meaning_in_word: 承载；拥塞
+    zh: 承载；拥塞
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:gest.
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ion.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

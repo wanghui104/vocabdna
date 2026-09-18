@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: expert
+word: expert
+pos: noun/adjective
+zh: 专家；熟练的
+en: a person with specialized skill or knowledge; highly skilled
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out or thoroughly (intensive here) / 加强；彻底
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: pert-tested
+    form: pert
+    meaning_in_word: tested, experienced / 经试验的；有经验的
+    zh: 经试验的；有经验的
+    role: root
+    is_core: true
+    note: expert 深层 ex- 加强 + 试验词干 per-，expertus 收缩自 *experitus；不是 per- 穿过。
+word_family:
+  - expertise
+word_family_details:
+  - word: expertise
+    en: specialized knowledge or skill
+    zh: 专门知识；专业技能
+confusables:
+  []
+examples:
+  []
+why_confusing: 

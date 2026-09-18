@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sterile
+display: sterile
+type: root
+core_meaning: sterile
+zh: 不育；无菌
+origin: Latin
+source_form: sterile
+source_meaning: sterile
+source_meaning_zh: 不育；无菌
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: sterile
+    zh: 不育；无菌
+    examples:
+      - sterile
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sterile -> sterile
+high_value_words:
+  - sterile
+confusable_words:
+  []

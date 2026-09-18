@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disinterested
+word: disinterested
+pos: adjective
+zh: 公正的；无私利的
+en: impartial and not influenced by personal advantage
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: without
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: interest
+    form: interest
+    meaning_in_word: personal concern
+    zh: 处在其间；关涉
+    role: root
+    is_core: true
+    note: 表层 interest 利益/关切；Latin interest 原是 interesse 的第三人称形式：inter- 在其间 + esse 是/存在，-t 是拉丁人称结尾。disinterested 的 dis- 排除私利，不能把全部 interest 当简单根。 常用义为公正、不受私利影响；不能只释为没有兴趣。
+    related_morphemes:
+      - inter
+      - esse-sent
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having quality
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: disinterested 标准义是公正无私，不是 uninterested 的“不感兴趣”。

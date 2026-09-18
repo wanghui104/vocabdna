@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: present
+display: present
+type: root
+core_meaning: show; present
+zh: 呈现；代表
+origin: teaching morphology
+source_form: present
+source_meaning: show; present
+source_meaning_zh: 呈现；代表
+related_morphemes:
+  []
+senses:
+  - meaning: show; present
+    zh: 呈现；代表
+    examples:
+      - represent
+      - representation
+      - representative
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - present -> represent
+  - present -> representation
+  - present -> representative
+high_value_words:
+  - represent
+  - representation
+  - representative
+confusable_words:
+  []

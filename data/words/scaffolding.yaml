@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scaffolding
+word: scaffolding
+pos: noun
+zh: 脚手架
+en: a temporary framework supporting workers during building work
+components:
+  - morpheme: scaffold
+    form: scaffold
+    meaning_in_word: platform, scaffold / 平台；脚手架
+    zh: 平台；脚手架
+    role: root
+    is_core: true
+    note: scaffolding = scaffold + -ing；历史常追至 cata- 旁 + fala 木台，中间音变及 fala 更深来源有不确定性；不是 scaf + fold 折叠。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - scaffold
+word_family_details:
+  - word: scaffold
+    en: a temporary raised platform; to provide scaffolding
+    zh: 脚手架；搭脚手架
+confusables:
+  []
+examples:
+  []
+why_confusing: 

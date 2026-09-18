@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: locoweed
+word: locoweed
+pos: noun
+zh: [植] 疯草(牲畜食后引起疯草病)
+en: Means [植] 疯草(牲畜食后引起疯草病); reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: loco
+    form: loco
+    meaning_in_word: crazy; place / 疯狂；地方
+    zh: 疯狂；地方
+    role: root
+    is_core: true
+  - morpheme: weed
+    form: weed
+    meaning_in_word: weed / 杂草
+    zh: 草
+    role: root
+    is_core: true
+    note: Conservative bottom root inside this learner-visible analysis; deeper source is uncertain or not productive for TOEFL study.
+word_family:
+  - weed
+word_family_details:
+  - word: weed
+    en: Means 杂草; reviewed from the TOEFL source gloss for learner display.
+    zh: 杂草
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

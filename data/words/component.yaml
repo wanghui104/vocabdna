@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: component
+word: component
+pos: noun
+zh: 成分；组成部分
+en: one part of a larger whole
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: pon
+    form: pon
+    meaning_in_word: put
+    zh: 放置
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ent
+    meaning_in_word: thing
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: component of a system/device。

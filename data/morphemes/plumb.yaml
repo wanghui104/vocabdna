@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: plumb
+display: plumb
+type: root
+core_meaning: lead; plumber pipe metal
+zh: 铅；水管
+origin: Latin
+source_form: Latin plumbum
+source_meaning: lead; plumber pipe metal
+source_meaning_zh: 铅；水管
+related_morphemes:
+  []
+senses:
+  - meaning: lead; plumber pipe metal
+    zh: 铅；水管
+    examples:
+      - plumb
+      - plumber
+      - plumbing
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - plumb -> plumb
+  - plumb -> plumber
+  - plumb -> plumbing
+high_value_words:
+  - plumb
+  - plumber
+  - plumbing
+confusable_words:
+  []

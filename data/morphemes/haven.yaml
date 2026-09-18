@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: haven
+display: haven
+type: root
+core_meaning: draft meaning for haven
+zh: 避难所，安全地
+origin: Unknown
+source_form: TOEFL draft opaque stem: haven
+source_meaning: draft learner stem for haven
+source_meaning_zh: 避难所，安全地
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for haven
+    zh: 避难所，安全地
+    examples:
+      - haven
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - haven -> haven
+high_value_words:
+  - haven
+confusable_words:
+  []

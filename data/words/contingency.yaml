@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contingency
+word: contingency
+pos: noun
+zh: 可能发生的事；意外情况；应急情况
+en: a possible event or condition that may need to be prepared for
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: with, together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tang
+    form: ting
+    meaning_in_word: touch, happen, befall
+    zh: 触碰；达到
+    role: root
+    is_core: true
+  - morpheme: cy
+    form: -ency
+    meaning_in_word: state or condition
+    zh: 状态
+    role: suffix
+    is_core: false
+word_family:
+  - contingent
+  - contingently
+  - contingent-on
+word_family_details:
+  - word: contingent
+    en: depending on something else that may or may not happen
+    zh: 取决于条件的；视情况而定的
+  - word: contingently
+    en: in a way that depends on conditions or chance
+    zh: 有条件地；偶然地；视情况而定地
+  - word: contingent-on
+    en: dependent on a condition, event, or decision
+    zh: 取决于；以……为条件
+confusables:
+  []
+examples:
+  - en: The team prepared a plan for every contingency.
+    zh: 团队为各种可能情况准备了方案。
+why_confusing: contingency plan 是“应急预案”；不是 ordinary plan。

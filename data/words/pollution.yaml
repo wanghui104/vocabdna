@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pollution
+word: pollution
+pos: noun
+zh: 污染；玷污
+en: Means 污染；玷污; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pollut
+    form: pollut
+    meaning_in_word: soil; pollute / 弄脏；污染
+    zh: 弄脏；污染
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act or result / 动作或结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - pollutant
+word_family_details:
+  - word: pollutant
+    en: Means 污染物质; reviewed from the TOEFL source gloss for learner display.
+    zh: 污染物质
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

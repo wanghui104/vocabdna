@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consideration
+word: consideration
+pos: noun
+zh: 考虑；体谅；因素
+en: careful thought, concern for others, or a factor to be considered
+components:
+  - morpheme: sid
+    form: consider
+    meaning_in_word: think carefully
+    zh: 观察；考虑
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: process/state
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - consider
+  - considerable
+  - considerably
+  - considerate
+word_family_details:
+  - word: consider
+    en: to think carefully about something or regard it in a particular way
+    zh: 考虑；认为
+  - word: considerable
+    en: large or important enough to be noticed
+    zh: 相当大的；值得考虑的；可观的
+  - word: considerably
+    en: by a large amount or degree
+    zh: 相当地；非常
+  - word: considerate
+    en: careful not to upset or inconvenience others
+    zh: 考虑周到的；体贴的
+confusables:
+  []
+examples:
+  []
+why_confusing: take into consideration; out of consideration for.

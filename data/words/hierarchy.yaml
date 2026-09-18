@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hierarchy
+word: hierarchy
+pos: noun
+zh: 阶层，等级制度
+en: Means 阶层，等级制度; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hier
+    form: hier
+    meaning_in_word: hier
+    zh: 神圣
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hier.
+  - morpheme: arch
+    form: arch
+    meaning_in_word: arch
+    zh: 统治；统治者
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:arch.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Suffix layer from Old English -ig; French/Latin -cy.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

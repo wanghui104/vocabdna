@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: grand
+word: grand
+pos: adjective
+zh: 壮观的；显赫的
+en: Means 壮观的；显赫的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: grand
+    form: grand
+    meaning_in_word: 壮观的；显赫的
+    zh: 壮观的；显赫的
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  - grandeur
+word_family_details:
+  - word: grandeur
+    en: Means 庄严，伟大; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 庄严，伟大
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

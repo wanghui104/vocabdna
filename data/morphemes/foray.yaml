@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foray
+display: foray
+type: root
+core_meaning: raid for provisions
+zh: 突袭取粮
+origin: French
+source_form: Middle English forrayen; Old French forrer, forrier
+source_meaning: raid for provisions
+source_meaning_zh: 突袭取粮
+source_note: 与 forage 搜食词族相关；保留音变后 foray，-ay 不是现代生产性后缀。
+related_morphemes:
+  - for-fodder
+senses:
+  - meaning: raid for provisions
+    zh: 突袭取粮
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

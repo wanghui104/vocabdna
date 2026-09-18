@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: supervisor
+word: supervisor
+pos: noun
+zh: 主管，管理人
+en: Means 主管，管理人; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: super
+    form: super-
+    meaning_in_word: above; over / 在上；超过
+    zh: 超过；在上
+    role: prefix
+    is_core: false
+  - morpheme: vis
+    form: vis
+    meaning_in_word: see / 看
+    zh: 看、可见
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person who / 做…者
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - superior
+  - superior-to
+word_family_details:
+  - word: superior
+    en: Means 级别或地位更高的；质量或价值更好的; reviewed from the TOEFL source gloss for learner display.
+    zh: 级别或地位更高的；质量或价值更好的
+  - word: superior-to
+    en: Means 高于，优于; reviewed from the TOEFL source gloss for learner display.
+    zh: 高于，优于
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

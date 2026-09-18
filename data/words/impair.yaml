@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: impair
+word: impair
+pos: verb
+zh: 损害，使弱
+en: Means 损害，使弱; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
+  - morpheme: pair
+    form: pair
+    meaning_in_word: 损害
+    zh: 损害
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:pair.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

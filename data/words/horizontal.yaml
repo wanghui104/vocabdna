@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: horizontal
+word: horizontal
+pos: adjective
+zh: 水平的
+en: Means 水平的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: horizont
+    form: horizont
+    meaning_in_word: horizont
+    zh: 地平线；界限
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:horizont.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Suffix layer from Latin -alis.
+word_family:
+  - horizon
+word_family_details:
+  - word: horizon
+    en: Means 地平线；眼界，视野; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 地平线；眼界，视野
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

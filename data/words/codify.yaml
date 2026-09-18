@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: codify
+word: codify
+pos: verb
+zh: 编成法典；编辑成书
+en: to arrange laws, rules, or information into a systematic code
+components:
+  - morpheme: code
+    form: cod
+    meaning_in_word: code
+    zh: 代码；法典
+    role: root
+    is_core: true
+  - morpheme: fac
+    form: -ify
+    meaning_in_word: make
+    zh: 做、制造
+    role: suffix
+    is_core: false
+word_family:
+  - code
+word_family_details:
+  - word: code
+    en: a system of rules, laws, or symbols; to put into code
+    zh: 代码；法典；编码
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于 law/rules/principles。

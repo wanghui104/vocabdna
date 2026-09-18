@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: alder
+word: alder
+pos: noun
+zh: 赤杨树
+en: a tree related to the birch that often grows in wet ground
+components:
+  - morpheme: alder
+    form: alder
+    meaning_in_word: alder tree
+    zh: 赤杨树
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: Alders grew along the stream.
+    zh: 溪边长着赤杨树。
+why_confusing: alder 是树；elder 可指年长者或接骨木。

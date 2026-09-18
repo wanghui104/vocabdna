@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: backdrop
+word: backdrop
+pos: noun
+zh: 背景；背景幕布
+en: the background to a scene, event, or situation
+components:
+  - morpheme: back
+    form: back
+    meaning_in_word: behind
+    zh: 背；后部
+    role: root
+    is_core: true
+  - morpheme: drop
+    form: drop
+    meaning_in_word: hanging cloth
+    zh: 落下；小滴
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可指实际背景，也可指事件背景。

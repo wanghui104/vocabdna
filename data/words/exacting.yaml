@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exacting
+word: exacting
+pos: adjective
+zh: 要求严格的；费力的
+en: requiring much effort, skill, care, or attention
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out or thoroughly (intensive here) / 加强；彻底
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: act
+    form: act
+    meaning_in_word: do, drive, act / 做、驱动
+    zh: 做、驱动
+    role: root
+    is_core: true
+    note: 来自动词 exact 索取、强求 + -ing，表示要求严格；不能只解释为“正在准确”。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - exact
+word_family_details:
+  - word: exact
+    en: completely accurate or precise
+    zh: 准确的；确切的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

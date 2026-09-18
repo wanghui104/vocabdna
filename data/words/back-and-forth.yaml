@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: back-and-forth
+word: back and forth
+pos: phrase
+zh: 来回地；反复地
+en: moving or discussing repeatedly from one side to another
+components:
+  - morpheme: back
+    form: back
+    meaning_in_word: rearward
+    zh: 背；后部
+    role: root
+    is_core: true
+  - morpheme: forth
+    form: forth
+    meaning_in_word: forward
+    zh: 拿出；提供；负担得起
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 既可指移动，也可指讨论反复。

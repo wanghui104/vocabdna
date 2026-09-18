@@ -8,25 +8,21 @@ components:
   - morpheme: e
     form: ex-
     meaning_in_word: out
-    zh: 出、向外
+    zh: 出；离开；加强
     role: prefix
     is_core: false
   - morpheme: port
     form: port
     meaning_in_word: carry
-    zh: 携带、运输
+    zh: 携带；港口
     role: root
     is_core: true
 word_family:
-  - exporter
+  []
 word_family_details:
-  - word: exporter
-    en: related form of exporter
-    zh: exporter 的相关词
+  []
 confusables:
-  - word: exploit
-    reason: export 是输出；exploit 是利用或剥削。
-    zh_reason: export 是输出；exploit 是利用或剥削。
+  []
 examples:
   - en: The app can export your notes as a PDF.
     zh: 这个应用可以把笔记导出为 PDF。

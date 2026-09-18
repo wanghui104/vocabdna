@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brownish
+word: brownish
+pos: adjective
+zh: 成褐色的；带棕色的
+en: somewhat brown in color
+components:
+  - morpheme: brown
+    form: brown
+    meaning_in_word: brown
+    zh: 棕色；晒黑
+    role: root
+    is_core: true
+  - morpheme: ish
+    form: -ish
+    meaning_in_word: somewhat
+    zh: 使成、带有……性质
+    role: suffix
+    is_core: false
+word_family:
+  - brown
+word_family_details:
+  - word: brown
+    en: the color brown, brown-colored, or to become brown
+    zh: 褐色；棕色；成褐色；晒黑
+confusables:
+  []
+examples:
+  []
+why_confusing: -ish 表示有点、近似。

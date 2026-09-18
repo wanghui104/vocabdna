@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pendant
+word: pendant
+pos: noun
+zh: 垂饰；下垂物
+en: Means 垂饰；下垂物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pend
+    form: pend
+    meaning_in_word: hang / 悬挂
+    zh: 悬挂；称量；支付
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: person/thing doing / 做…者/物
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

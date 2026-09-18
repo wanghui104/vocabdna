@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: amnesia
+word: amnesia
+pos: noun
+zh: 健忘症；记忆缺失
+en: partial or total loss of memory
+components:
+  - morpheme: an
+    form: a-
+    meaning_in_word: without
+    zh: 不；无
+    role: prefix
+    is_core: false
+  - morpheme: mnes
+    form: mnes
+    meaning_in_word: memory
+    zh: 记忆
+    role: root
+    is_core: true
+  - morpheme: ia
+    form: -ia
+    meaning_in_word: condition
+    zh: 状态；状况
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 不要把 amnesia 和 anesthesia 混淆：一个是失忆，一个是麻醉。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: petrify
+word: petrify
+pos: verb
+zh: 石化；使吓呆
+en: to turn into stone or make rigid with fear
+components:
+  - morpheme: petr
+    form: petr
+    meaning_in_word: rock / 岩石
+    zh: 岩石
+    role: root
+    is_core: true
+    note: petrifaction 中为 petra 岩石，i 为连接元音，更深来源不明。
+  - morpheme: ify
+    form: -ify
+    meaning_in_word: make, cause to become / 使成为
+    zh: 使成为
+    role: suffix
+    is_core: false
+    note: -ify 更深来自 Latin facere 做的复合构词形；不是不可解释的整块。
+    related_morphemes:
+      - fac
+word_family:
+  - petrifaction
+word_family_details:
+  - word: petrifaction
+    en: conversion into stone or a stony substance; a petrified object
+    zh: 石化；石化物
+confusables:
+  []
+examples:
+  []
+why_confusing: 

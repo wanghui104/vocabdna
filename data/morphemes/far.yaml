@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: far
+display: far
+type: root
+core_meaning: far
+zh: 远
+origin: Old English
+source_form: Old English feorr
+source_meaning: far
+source_meaning_zh: 远
+source_note: far-reaching 为 far + reach + -ing，表示影响范围远。
+related_morphemes:
+  []
+senses:
+  - meaning: far
+    zh: 远
+    examples:
+      - as far as
+      - by far
+      - far-reaching
+      - from afar
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - far -> as far as
+  - far -> by far
+  - far -> far-reaching
+  - far -> from afar
+high_value_words:
+  - as far as
+  - by far
+  - far-reaching
+  - from afar
+confusable_words:
+  []

@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chem
+display: chem
+type: root
+core_meaning: alchemy, chemistry
+zh: 炼金术；化学
+origin: Mixed
+source_form: Arabic al-kimiya, Greek khemeia
+source_meaning: alchemy; early chemistry
+source_meaning_zh: 炼金术；早期化学
+source_note: Ultimate origin is uncertain; kept as a mixed historical science root.
+related_morphemes:
+  []
+senses:
+  - meaning: alchemy, chemistry
+    zh: 炼金术；化学
+    examples:
+      - alchemy
+      - inorganic chemical
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - chemy -> alchemy
+  - chem -> inorganic chemical
+high_value_words:
+  - alchemy
+  - inorganic chemical
+confusable_words:
+  []

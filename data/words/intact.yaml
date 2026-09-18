@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intact
+word: intact
+pos: adjective
+zh: 尚未被人碰到的，完整的
+en: Means 尚未被人碰到的，完整的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: tact
+    form: tact
+    meaning_in_word: 触碰
+    zh: 触碰
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:tact.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

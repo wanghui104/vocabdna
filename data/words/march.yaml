@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: march
+word: march
+pos: noun/verb
+zh: 前进，行进
+en: Means 前进，行进; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: march
+    form: march
+    meaning_in_word: 行进
+    zh: 行进
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

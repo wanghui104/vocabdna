@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bizarre
+word: bizarre
+pos: adjective
+zh: 奇异的；古怪的
+en: very strange or unusual
+components:
+  - morpheme: bizarre
+    form: bizarre
+    meaning_in_word: strange
+    zh: 古怪的
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 拼写有双 z 和结尾 -arre 音感。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: refract
+word: refract
+pos: verb
+zh: 使折射
+en: to bend the direction of a wave as it enters another medium
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back, again / 回、再、反向
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: frag-fract
+    form: fract
+    meaning_in_word: break, fragile / 破裂；易碎
+    zh: 破裂；易碎
+    role: root
+    is_core: true
+word_family:
+  - refraction
+  - refractive
+word_family_details:
+  - word: refraction
+    en: Means 折光，折射; reviewed from the TOEFL source gloss for learner display.
+    zh: 折光，折射
+  - word: refractive
+    en: relating to refraction
+    zh: 折射的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

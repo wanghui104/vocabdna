@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: extinction
+word: extinction
+pos: noun
+zh: 灭绝；消亡
+en: the disappearance of a species or the ending of something
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: stingu
+    form: tinct
+    meaning_in_word: quench, put out / 熄灭
+    zh: 熄灭
+    role: root
+    is_core: true
+    note: extinct 深层 ex- + stinct-（stinguere 分词词干），x 后 s 在拼写中省去；不是 tinct 染色。更深刺、推的语义来源不确定。
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
+word_family:
+  - extinct
+  - extinguish
+word_family_details:
+  - word: extinct
+    en: no longer existing; no longer active
+    zh: 灭绝的；熄灭的；不再活动的
+  - word: extinguish
+    en: to put out a fire or bring something to an end
+    zh: 熄灭；使终止
+confusables:
+  []
+examples:
+  []
+why_confusing: 

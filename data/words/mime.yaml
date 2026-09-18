@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mime
+word: mime
+pos: verb
+zh: 模拟，模仿
+en: Means 模拟，模仿; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mim
+    form: mim
+    meaning_in_word: 模仿
+    zh: 模仿
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mim.
+word_family:
+  - mimetic
+  - mimicry
+  - mimic
+word_family_details:
+  - word: mimetic
+    en: Means 模仿的，（生物）拟态的; reviewed from the TOEFL source gloss for learner display.
+    zh: 模仿的，（生物）拟态的
+  - word: mimicry
+    en: Means （生物）拟态；模仿; reviewed from the TOEFL source gloss for learner display.
+    zh: （生物）拟态；模仿
+  - word: mimic
+    en: Means 模仿，摹拟; reviewed from the TOEFL source gloss for learner display.
+    zh: 模仿，摹拟
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

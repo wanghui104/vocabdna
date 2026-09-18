@@ -20,7 +20,7 @@ components:
   - morpheme: cy
     form: -acy
     meaning_in_word: quality
-    zh: 性质、状态
+    zh: 状态
     role: suffix
     is_core: false
 word_family:
@@ -30,9 +30,7 @@ word_family_details:
     en: correct, exact, and free from error
     zh: 准确的；正确的
 confusables:
-  - word: precision
-    reason: accuracy 偏正确性；precision 偏精密一致。
-    zh_reason: accuracy 偏正确性；precision 偏精密一致。
+  []
 examples:
   - en: The instrument's accuracy is high.
     zh: 这台仪器的准确性很高。

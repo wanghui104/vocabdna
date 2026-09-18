@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brittle
+word: brittle
+pos: adjective
+zh: 易碎的
+en: hard but easily broken
+components:
+  - morpheme: brittle
+    form: brittle
+    meaning_in_word: easily broken
+    zh: 易碎的
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 也可比喻声音或情绪紧绷易碎。

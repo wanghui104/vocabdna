@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: follow-suit
+word: follow suit
+pos: verb
+zh: 仿效；跟着做；跟出同花色牌
+en: to do the same thing as someone else; in cards, to play the same suit
+components:
+  - morpheme: follow
+    form: follow
+    meaning_in_word: follow / 跟随
+    zh: 跟随
+    role: root
+    is_core: true
+    note: 本族简单词，历史更深组合解释未定；不硬拆 fol + low。
+  - morpheme: suit
+    form: suit
+    meaning_in_word: following, sequence / 跟随；一套
+    zh: 跟随；一套
+    role: root
+    is_core: true
+    note: suit 源于跟随词族 sequi，follow suit 原指打牌跟出同花色，再引申照着做。
+    related_morphemes:
+      - sequ
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: allocate
+word: allocate
+pos: verb
+zh: 分配；拨给
+en: to set apart or assign for a particular purpose
+components:
+  - morpheme: ad
+    form: al-
+    meaning_in_word: to, toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: loc
+    form: loc
+    meaning_in_word: place
+    zh: 地点；安置
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or do
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: alloy
+    reason: allocate 强调正式分配资源；不要和 locate “定位”混。
+    zh_reason: allocate 强调正式分配资源；不要和 locate “定位”混。
+examples:
+  []
+why_confusing: allocate 强调正式分配资源；不要和 locate “定位”混。

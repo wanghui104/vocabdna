@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aware
+word: aware
+pos: adjective
+zh: 意识到的；察觉的
+en: knowing that something exists or is happening
+components:
+  - morpheme: aware
+    form: aware
+    meaning_in_word: watchful
+    zh: 意识到；警觉
+    role: root
+    is_core: true
+word_family:
+  - awareness
+word_family_details:
+  - word: awareness
+    en: knowledge or understanding that something exists or is important
+    zh: 意识；认识；察觉
+confusables:
+  []
+examples:
+  []
+why_confusing: 常见 be aware of/that。

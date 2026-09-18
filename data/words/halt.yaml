@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: halt
+word: halt
+pos: noun/verb
+zh: （使）停止
+en: Means （使）停止; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: halt
+    form: halt
+    meaning_in_word: 停止
+    zh: （使）停止
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:halt.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

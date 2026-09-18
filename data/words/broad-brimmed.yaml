@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: broad-brimmed
+word: broad-brimmed
+pos: adjective
+zh: 宽边的
+en: having a wide brim, especially of a hat
+components:
+  - morpheme: broad
+    form: broad
+    meaning_in_word: wide
+    zh: 宽；扩大
+    role: root
+    is_core: true
+  - morpheme: brim
+    form: brim
+    meaning_in_word: edge
+    zh: 边；边缘
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 通常修饰 hat。

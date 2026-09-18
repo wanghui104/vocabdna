@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hydrogen
+word: hydrogen
+pos: noun
+zh: 氢
+en: Means 氢; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: hydr
+    form: hydr-
+    meaning_in_word: 水
+    zh: 水
+    role: combining_form
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hydr.
+  - morpheme: gen
+    form: gen
+    meaning_in_word: 出生；种类
+    zh: 出生；种类
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:gen.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

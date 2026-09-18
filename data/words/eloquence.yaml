@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eloquence
+word: eloquence
+pos: noun
+zh: 雄辩；口才
+en: fluent and persuasive expression
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: loqu
+    form: loqu
+    meaning_in_word: speak / 说话
+    zh: 说话
+    role: root
+    is_core: true
+    note: Latin eloqui = e-/ex- 向外 + loqui 说；loqu- 是说话，不把 colloquial 口语的作为词根义。
+  - morpheme: ance
+    form: -ence
+    meaning_in_word: state, act, quality / 状态；行为；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - eloquent
+word_family_details:
+  - word: eloquent
+    en: expressing ideas fluently and persuasively
+    zh: 雄辩的；有表现力的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

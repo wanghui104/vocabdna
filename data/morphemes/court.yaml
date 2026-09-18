@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: court
+display: court
+type: root
+core_meaning: court, formal place
+zh: 法庭；宫廷；球场
+origin: Latin/French
+source_form: Latin cohors, Old French cort
+source_meaning: enclosed yard, court
+source_meaning_zh: 院子；宫廷；法庭
+related_morphemes:
+  []
+senses:
+  - meaning: court, formal place
+    zh: 法庭；宫廷；球场
+    examples:
+      - court
+      - courteously
+      - courthouse
+      - courtly
+      - courtship
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - court -> court
+  - court -> courteously
+  - court -> courthouse
+  - court -> courtly
+  - court -> courtship
+high_value_words:
+  - court
+  - courteously
+  - courthouse
+  - courtly
+  - courtship
+confusable_words:
+  []

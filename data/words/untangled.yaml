@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: untangled
+word: untangled
+pos: adjective/verb
+zh: 解开缠结的；理清了的；untangle 的过去形式
+en: freed from twisted connections or made clear; also the past form of untangle
+components:
+  - morpheme: un-reverse
+    form: un-
+    meaning_in_word: undo or reverse / 解开、逆转
+    zh: 解开；逆转；除去
+    role: prefix
+    is_core: false
+    note: 这里表示撤销缠绕这一动作，区别只表示“不”的否定 un-。
+  - morpheme: tangle
+    form: tangl
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: tangle 去掉词尾不发音 e 的词干，用于加 -ed/-ing。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past action or resulting state / 过去动作、结果状态
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - untangle
+word_family_details:
+  - word: untangle
+    en: to separate things that are twisted together or make a complicated situation clear
+    zh: 解开缠结；理清
+confusables:
+  []
+examples:
+  - en: With the cables untangled, the technician could trace each connection.
+    zh: 线缆解开后，技术人员就能追踪每处连接了。
+why_confusing: 这里按 untangle 的结果状态分析；形容词也可理解为 not tangled（未缠结的），需结合语境。

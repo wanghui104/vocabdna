@@ -14,17 +14,20 @@ senses:
   - meaning: cause, accusation
     zh: 原因、控诉
     examples:
-      - accuse
       - accusation
+      - accuse
+      - excuse
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - cuse -> accuse
   - cus -> accusation
+  - cuse -> accuse
+  - cuse -> excuse
 high_value_words:
-  - accuse
   - accusation
+  - accuse
+  - excuse
 confusable_words:
   []

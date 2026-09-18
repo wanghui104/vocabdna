@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tedious
+word: tedious
+pos: adjective
+zh: 单调乏味的，沉闷的
+en: Means 单调乏味的，沉闷的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ted
+    form: ted
+    meaning_in_word: weary / 厌烦
+    zh: 厌烦
+    role: root
+    is_core: true
+  - morpheme: ious
+    form: -ious
+    meaning_in_word: full of; having / 充满；具有
+    zh: ious
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: choreographic
+word: choreographic
+pos: adjective
+zh: 舞蹈术的；舞台舞蹈的
+en: related to choreography or dance arrangement
+components:
+  - morpheme: choreo
+    form: choreo-
+    meaning_in_word: dance
+    zh: 舞蹈；合唱
+    role: combining_form
+    is_core: true
+  - morpheme: graph
+    form: graph
+    meaning_in_word: write/design
+    zh: 写、记录
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: related to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - choreograph
+  - choreography
+  - choreographer
+word_family_details:
+  - word: choreograph
+    en: to design the sequence of movements in a dance or performance
+    zh: 设计舞蹈动作
+  - word: choreography
+    en: the design or arrangement of dance movements
+    zh: 舞蹈编排
+  - word: choreographer
+    en: a person who designs dance movements
+    zh: 舞蹈指导；编舞者
+confusables:
+  []
+examples:
+  []
+why_confusing: 偏专业形容词。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ration
+display: ration
+type: root
+core_meaning: reason; portion
+zh: 理性；配给
+origin: teaching morphology
+source_form: ration
+source_meaning: reason; portion
+source_meaning_zh: 理性；配给
+related_morphemes:
+  []
+senses:
+  - meaning: reason; portion
+    zh: 理性；配给
+    examples:
+      - rational
+      - rationing
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ration -> rational
+  - ration -> rationing
+high_value_words:
+  - rational
+  - rationing
+confusable_words:
+  []

@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: embellishment
+word: embellishment
+pos: noun
+zh: 装饰；润饰；虚构细节
+en: a decorative addition or an invented detail
+components:
+  - morpheme: in
+    form: em-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: bell-beauty
+    form: bell
+    meaning_in_word: beautiful / 美丽
+    zh: 美丽
+    role: root
+    is_core: true
+    note: embellish = em- + bell- + -ish（法语动词结尾）；不是 bell 钟。
+  - morpheme: ish-romance
+    form: -ish
+    meaning_in_word: verb-forming ending / 动词构词结尾
+    zh: 动词构词结尾
+    role: suffix
+    is_core: false
+    note: diminish/distinguish 的历史法语动词结尾，不是 Germanic -ish “有点……”。
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result, state / 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - embellish
+word_family_details:
+  - word: embellish
+    en: to make more decorative; to add invented details to a story
+    zh: 装饰；添油加醋
+confusables:
+  []
+examples:
+  []
+why_confusing: 

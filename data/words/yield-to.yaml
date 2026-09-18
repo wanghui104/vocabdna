@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: yield-to
+word: yield to
+pos: phrase
+zh: 屈服于…
+en: Means 屈服于…; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: yield
+    form: yield
+    meaning_in_word: yield / 生产；屈服
+    zh: 生产；屈服
+    role: root
+    is_core: true
+    note: Conservative bottom root inside this learner-visible analysis; deeper source is uncertain or not productive for TOEFL study.
+  - morpheme: to
+    form: to
+    meaning_in_word: to / 到；向
+    zh: 向；到
+    role: root
+    is_core: true
+word_family:
+  - yield
+word_family_details:
+  - word: yield
+    en: Means 生产；产生；屈服；放弃；投降；产量；收益; reviewed from the TOEFL source gloss for learner display.
+    zh: 生产；产生；屈服；放弃；投降；产量；收益
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

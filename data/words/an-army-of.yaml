@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: an-army-of
+word: an army of
+pos: phrase
+zh: 大群的；大量的
+en: a very large number or group of people or things
+components:
+  - morpheme: army
+    form: army
+    meaning_in_word: large organized group
+    zh: 军队；大群
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 这是短语，不是军事含义时也可指大量。

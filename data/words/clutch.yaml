@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clutch
+word: clutch
+pos: verb/noun
+zh: 抓住；攫取；一窝蛋
+en: to hold tightly, or a group of eggs laid at one time
+components:
+  - morpheme: clutch
+    form: clutch
+    meaning_in_word: grasp
+    zh: 抓住；一窝蛋
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: clutch at straws 是抓救命稻草。

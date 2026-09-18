@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consistency
+word: consistency
+pos: noun
+zh: 一致性；连贯性；浓度；稠度
+en: the quality of being steady or the thickness of a substance
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: sist
+    form: sist
+    meaning_in_word: stand
+    zh: 站立；放置
+    role: root
+    is_core: true
+    related_morphemes:
+      - sta
+  - morpheme: ence-ance
+    form: -ency
+    meaning_in_word: state
+    zh: 状态、性质
+    role: suffix
+    is_core: false
+word_family:
+  - consist
+  - consistent
+  - consistently
+word_family_details:
+  - word: consist
+    en: to be made up of something or be in agreement
+    zh: 由……组成；在于；一致
+  - word: consistent
+    en: not changing, and agreeing with something else
+    zh: 一致的；稳定的；一贯的
+  - word: consistently
+    en: in a steady, regular, or unchanging way
+    zh: 一贯地；始终如一地
+confusables:
+  []
+examples:
+  []
+why_confusing: TOEFL 这里给出浓度/密度义；更常见还有一致性。

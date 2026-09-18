@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: transmitter
+word: transmitter
+pos: noun
+zh: 传送者，发送器
+en: Means 传送者，发送器; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: trans
+    form: trans-
+    meaning_in_word: across; through / 穿过；转移
+    zh: 横越、穿过、转移
+    role: prefix
+    is_core: false
+  - morpheme: mit
+    form: mit
+    meaning_in_word: send / 送；传
+    zh: 送；提交
+    role: root
+    is_core: true
+  - morpheme: er
+    form: -er
+    meaning_in_word: person/thing / 人或物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+word_family:
+  - transmit
+word_family_details:
+  - word: transmit
+    en: Means 传送，传播; reviewed from the TOEFL source gloss for learner display.
+    zh: 传送，传播
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

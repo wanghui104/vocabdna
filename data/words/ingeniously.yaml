@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ingeniously
+word: ingeniously
+pos: verb/adverb
+zh: 天才地，独创地
+en: Means 天才地，独创地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: geni
+    form: geni
+    meaning_in_word: geni
+    zh: geni
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:geni.
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ous.
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ly.
+word_family:
+  - ingenious
+word_family_details:
+  - word: ingenious
+    en: Means 机灵的，有独创性的; reviewed from the TOEFL source gloss for learner display.
+    zh: 机灵的，有独创性的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

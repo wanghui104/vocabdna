@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diplomacy
+word: diplomacy
+pos: noun
+zh: 外交；交际手腕
+en: the management of relations by tactful negotiation
+components:
+  - morpheme: diplom
+    form: diplom
+    meaning_in_word: official document
+    zh: 折叠文书；官方文件
+    role: root
+    is_core: true
+    note: 表层 diplom-/diplomat- 官方文书；Greek diploma 是 diploun 折成两层的结果名词：diplo- 双层 + -ma 结果。diplomat- 为 diploma 的斜格词干；diplomatic = diplomat- + -ic。diplomacy 经法语 diplomatie，名词构词涉及 t/c 变化。 当前 diplom- + -acy 为学习层，不把 -acy 说成字母完全不变的直接历史拼接。
+    related_morphemes:
+      - di-two
+  - morpheme: cy
+    form: -acy
+    meaning_in_word: state or practice
+    zh: 状态
+    role: suffix
+    is_core: false
+word_family:
+  - diplomatic
+word_family_details:
+  - word: diplomatic
+    en: related to diplomacy, or tactful in dealing with people
+    zh: 外交的；老练圆滑的
+confusables:
+  []
+examples:
+  []
+why_confusing: diplomacy 也可泛指圆滑得体的处理方式。

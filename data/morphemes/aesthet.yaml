@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aesthet
+display: aesthet
+type: root
+core_meaning: perceive, feel, beauty
+zh: 感知；审美
+origin: Greek
+source_form: Greek aisthanesthai, aisthetikos
+source_meaning: perceive, feel; perceptive
+source_meaning_zh: 感知；感觉；可感知的
+related_morphemes:
+  []
+senses:
+  - meaning: perceive, feel, beauty
+    zh: 感知；审美
+    examples:
+      - aesthetic
+      - anesthesia
+      - anesthetic
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - aesthet -> aesthetic
+  - esthesia -> anesthesia
+  - esthet -> anesthetic
+high_value_words:
+  - aesthetic
+  - anesthesia
+  - anesthetic
+confusable_words:
+  []

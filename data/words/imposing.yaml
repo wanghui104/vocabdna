@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: imposing
+word: imposing
+pos: adjective
+zh: 使人难忘的, 壮丽的
+en: Means 使人难忘的, 壮丽的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
+  - morpheme: pos
+    form: pos
+    meaning_in_word: 放置
+    zh: 放置
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:pos.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ing.
+word_family:
+  - impose
+word_family_details:
+  - word: impose
+    en: Means 把…强加于；施加影响; reviewed from the TOEFL source gloss for learner display.
+    zh: 把…强加于；施加影响
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

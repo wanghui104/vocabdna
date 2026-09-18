@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cognitive
+word: cognitive
+pos: adjective
+zh: 认知的；感知的
+en: related to knowing, thinking, learning, or understanding
+components:
+  - morpheme: cogn
+    form: cognit
+    meaning_in_word: know
+    zh: 认知的
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having quality
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cognitive ability/process/load 常见。

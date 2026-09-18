@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aggregate
+word: aggregate
+pos: noun
+zh: 总数；合计
+en: a total formed by adding separate amounts together
+components:
+  - morpheme: ad
+    form: ag-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: greg
+    form: greg
+    meaning_in_word: flock, gather
+    zh: 群；聚集
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or result
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - aggregation
+word_family_details:
+  - word: aggregation
+    en: the act or result of gathering separate things into a group or total
+    zh: 集合；聚集；群体
+confusables:
+  []
+examples:
+  - en: The aggregate score decided the winner.
+    zh: 总分决定了获胜者。
+  - en: Sandstone is an aggregate of mineral grains.
+    zh: 砂岩是矿物颗粒的集合体。
+why_confusing: 作名词是总数/集合体；作动词也可表示汇总。

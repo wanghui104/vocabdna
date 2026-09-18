@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: longev
+display: longev
+type: root
+core_meaning: long-lived
+zh: 长寿
+origin: Latin
+source_form: Latin longaevus
+source_meaning: long-lived
+source_meaning_zh: 长寿
+related_morphemes:
+  []
+senses:
+  - meaning: long-lived
+    zh: 长寿
+    examples:
+      - longevity
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - longev -> longevity
+high_value_words:
+  - longevity
+confusable_words:
+  []

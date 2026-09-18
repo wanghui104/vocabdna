@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mitigate
+word: mitigate
+pos: verb
+zh: 使减轻，使缓和
+en: Means 使减轻，使缓和; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mitig
+    form: mitig
+    meaning_in_word: 缓和；温和
+    zh: 缓和；温和
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mitig.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ate.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: complementary
+word: complementary
+pos: adjective
+zh: 补充的；互补的
+en: combining well to complete or improve something
+components:
+  - morpheme: ple
+    form: complement
+    meaning_in_word: complete by adding
+    zh: 补足；补充
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ary
+    meaning_in_word: related
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - complement
+word_family_details:
+  - word: complement
+    en: to complete or improve something by adding what is missing
+    zh: 补充；使完善；补足物
+confusables:
+  - word: complimentary
+    reason: complementary colors/skills。
+    zh_reason: complementary colors/skills。
+examples:
+  []
+why_confusing: complementary colors/skills。

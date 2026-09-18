@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: industr
+display: industr
+type: root
+core_meaning: diligence, activity
+zh: 勤勉；工业活动
+origin: Latin
+source_form: Latin industria
+source_meaning: diligence, activity
+source_meaning_zh: 勤勉；工业活动
+related_morphemes:
+  []
+senses:
+  - meaning: diligence, activity
+    zh: 勤勉；工业活动
+    examples:
+      - industrial
+      - industrialization
+      - industrialized
+      - industrious
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - industr -> industrial
+  - industr -> industrialization
+  - industr -> industrialized
+  - industr -> industrious
+high_value_words:
+  - industrial
+  - industrialization
+  - industrialized
+  - industrious
+confusable_words:
+  []

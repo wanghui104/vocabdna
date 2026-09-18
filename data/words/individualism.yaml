@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: individualism
+word: individualism
+pos: noun
+zh: 个人主义
+en: Means 个人主义; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: individu
+    form: individu
+    meaning_in_word: 不可分割
+    zh: 不可分割
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:individu.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:al.
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: 行为；状态
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ism.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

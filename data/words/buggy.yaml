@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: buggy
+word: buggy
+pos: noun
+zh: 小马车；童车
+en: a small light carriage or baby carriage
+components:
+  - morpheme: buggy
+    form: buggy
+    meaning_in_word: small carriage
+    zh: 小马车；童车
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 作形容词 buggy 还可指程序有 bug，本批是名词。

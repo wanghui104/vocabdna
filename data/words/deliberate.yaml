@@ -1,0 +1,55 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deliberate
+word: deliberate
+pos: adjective
+zh: 深思熟虑的；故意的
+en: Means 深思熟虑的；故意的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: 向下；去除
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:de.
+  - morpheme: liber
+    form: liber
+    meaning_in_word: 权衡；深思
+    zh: 权衡；深思
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:liber.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ate.
+word_family:
+  - deliberately
+  - liberal
+  - liberate
+  - liberty
+  - liberally
+word_family_details:
+  - word: deliberately
+    en: on purpose, or in a careful and considered way
+    zh: 故意地；审慎地
+  - word: liberal
+    en: Means 开放的,主张变革的,自由主义的 / 慷慨的，不拘泥的; reviewed from the TOEFL source gloss for learner display.
+    zh: 开放的,主张变革的,自由主义的 / 慷慨的，不拘泥的
+  - word: liberate
+    en: Means 释放，使自由; reviewed from the TOEFL source gloss for learner display.
+    zh: 释放，使自由
+  - word: liberty
+    en: Means 自由; reviewed from the TOEFL source gloss for learner display.
+    zh: 自由
+  - word: liberally
+    en: Means 随意地，不受限制地; reviewed from the TOEFL source gloss for learner display.
+    zh: 随意地，不受限制地
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

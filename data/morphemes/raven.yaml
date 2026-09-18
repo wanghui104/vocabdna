@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: raven
+display: raven
+type: root
+core_meaning: raven; seize
+zh: 乌鸦；掠夺
+origin: teaching morphology
+source_form: raven
+source_meaning: raven; seize
+source_meaning_zh: 乌鸦；掠夺
+related_morphemes:
+  []
+senses:
+  - meaning: raven; seize
+    zh: 乌鸦；掠夺
+    examples:
+      - raven
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - raven -> raven
+high_value_words:
+  - raven
+confusable_words:
+  []

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: burrow
+word: burrow
+pos: noun/verb
+zh: 洞穴；挖地洞
+en: a hole where an animal lives, or to dig into something
+components:
+  - morpheme: burrow
+    form: burrow
+    meaning_in_word: shelter hole
+    zh: 洞穴；挖洞
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: burrow into 可比喻钻进某处或深入研究。

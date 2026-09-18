@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blast-furnace
+word: blast furnace
+pos: phrase
+zh: 鼓风炉
+en: a furnace in which a blast of air intensifies heat for smelting metal
+components:
+  - morpheme: blast
+    form: blast
+    meaning_in_word: strong air current
+    zh: 爆破；气流；巨响
+    role: root
+    is_core: true
+  - morpheme: furnace
+    form: furnace
+    meaning_in_word: furnace
+    zh: 炉
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于冶金语境。

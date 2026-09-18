@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: glorify
+word: glorify
+pos: verb
+zh: 美化，赞扬
+en: Means 美化，赞扬; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: glor
+    form: glor
+    meaning_in_word: glor
+    zh: 荣耀
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:glor.
+  - morpheme: ify
+    form: -ify
+    meaning_in_word: 使成为
+    zh: 使成为
+    role: suffix
+    is_core: false
+    note: Suffix layer from French -ifier; Latin -ificare, facere.
+    related_morphemes:
+      - fac
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

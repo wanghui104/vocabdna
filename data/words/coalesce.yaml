@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coalesce
+word: coalesce
+pos: verb
+zh: 联合；合并
+en: to come together and form one thing
+components:
+  - morpheme: com
+    form: co-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: coalesce
+    form: alesce
+    meaning_in_word: grow
+    zh: 联合；合并
+    role: root
+    is_core: true
+word_family:
+  - coalescence
+word_family_details:
+  - word: coalescence
+    en: the process of coming together into one
+    zh: 合并；联合
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于 ideas/groups/materials coalesce。

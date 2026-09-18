@@ -11,24 +11,20 @@ components:
     zh: 听
     role: root
     is_core: true
-  - morpheme: aud
+  - morpheme: able
     form: -ible
     meaning_in_word: able to be
-    zh: 听
+    zh: 能够；适合
     role: suffix
     is_core: false
-    note: suffix placeholder until suffix catalog is expanded
 word_family:
   - audibility
 word_family_details:
   - word: audibility
-    en: related form of audibility
-    zh: audibility 的相关词
+    en: the quality or degree of being audible
+    zh: 可听见性
 confusables:
-  - word: edible
-    reason: audible 是听得见；edible 是可食用。
-    zh_reason: audible 是听得见；edible 是可食用。
+  []
 examples:
-  - en: Her voice was barely audible.
-    zh: 她的声音几乎听不见。
-why_confusing: audible 是听得见；edible 是可食用。
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

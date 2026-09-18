@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blame
+word: blame
+pos: verb/noun
+zh: 责备；归咎；过失
+en: to say someone is responsible for a fault, or responsibility for it
+components:
+  - morpheme: blame
+    form: blame
+    meaning_in_word: reproach
+    zh: 责备；过失
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: blame sb for sth；be to blame 表示应负责。

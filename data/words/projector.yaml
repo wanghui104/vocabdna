@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: projector
+word: projector
+pos: noun
+zh: 放映机
+en: Means 放映机; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: forward; forth / 向前；公开
+    zh: 向前、公开、代替
+    role: prefix
+    is_core: false
+  - morpheme: ject
+    form: ject
+    meaning_in_word: throw / 投；抛
+    zh: 投射；猜想
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person or thing / 人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - project
+  - projecting
+  - projection
+  - projectionist
+word_family_details:
+  - word: project
+    en: Means 设计，规划；项目; reviewed from the TOEFL source gloss for learner display.
+    zh: 设计，规划；项目
+  - word: projecting
+    en: Means 突出的，伸出的; reviewed from the TOEFL source gloss for learner display.
+    zh: 突出的，伸出的
+  - word: projection
+    en: Means 发射; reviewed from the TOEFL source gloss for learner display.
+    zh: 发射
+  - word: projectionist
+    en: Means 电影放映员，幻灯放映员; reviewed from the TOEFL source gloss for learner display.
+    zh: 电影放映员，幻灯放映员
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

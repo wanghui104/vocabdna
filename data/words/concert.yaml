@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: concert
+word: concert
+pos: noun
+zh: 音乐会；一致；共同
+en: a musical performance, or agreement and coordinated action
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: cert
+    form: cert
+    meaning_in_word: act together, agree
+    zh: 一致；协同
+    role: root
+    is_core: true
+word_family:
+  - concerted
+word_family_details:
+  - word: concerted
+    en: planned or done together for a shared purpose
+    zh: 商议好的；协同的
+confusables:
+  []
+examples:
+  []
+why_confusing: in concert with 表示与……协同。

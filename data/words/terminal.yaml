@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: terminal
+word: terminal
+pos: noun
+zh: 总站，终点站；（电脑）终端，接线端
+en: Means 总站，终点站；（电脑）终端，接线端; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: termin
+    form: termin
+    meaning_in_word: end; boundary / 终点；边界
+    zh: 终点；边界
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to; act/result / 与…有关；动作结果
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - exterminate
+  - terminate
+  - termination
+  - terminology
+  - terminus
+word_family_details:
+  - word: exterminate
+    en: Means 根除，灭绝; reviewed from the TOEFL source gloss for learner display.
+    zh: 根除，灭绝
+  - word: terminate
+    en: Means 停止，结束; reviewed from the TOEFL source gloss for learner display.
+    zh: 停止，结束
+  - word: termination
+    en: Means 终止，结束; reviewed from the TOEFL source gloss for learner display.
+    zh: 终止，结束
+  - word: terminology
+    en: Means 用辞，术语; reviewed from the TOEFL source gloss for learner display.
+    zh: 用辞，术语
+  - word: terminus
+    en: Means （火车、汽车）终点站; reviewed from the TOEFL source gloss for learner display.
+    zh: （火车、汽车）终点站
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: couple
+word: couple
+pos: noun/verb
+zh: 一对；一双；夫妇；连接；结合
+en: two people or things, or to join two things together
+components:
+  - morpheme: couple
+    form: couple
+    meaning_in_word: pair, bond
+    zh: 一对；连接
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: a couple of 通常表示几个/两个左右。

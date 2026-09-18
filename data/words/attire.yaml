@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: attire
+word: attire
+pos: noun/verb
+zh: 穿着；服饰；给...穿衣
+en: formal clothing, or to dress someone
+components:
+  - morpheme: ad
+    form: at-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: tir
+    form: tire
+    meaning_in_word: dress, equipment, order
+    zh: 次序；排列；装束
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

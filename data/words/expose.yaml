@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: expose
+word: expose
+pos: verb
+zh: 使暴露；揭露；使接触
+en: to leave unprotected, uncover, or make known; to bring into contact with
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: pon
+    form: pose
+    meaning_in_word: put, place / 放置
+    zh: 放置
+    role: root
+    is_core: true
+    note: ex- + pose；语义来自 Latin exponere（ex- + ponere 放置），法语词形受 poser（Latin pausare 停放）影响，不把所有 pose 拼写视为直接拉丁分词。
+word_family:
+  - exposure
+word_family_details:
+  - word: exposure
+    en: being unprotected or subject to something; public revelation; contact with new experience; light reaching a photographic sensor
+    zh: 暴露；揭露；接触；摄影曝光
+confusables:
+  []
+examples:
+  []
+why_confusing: 

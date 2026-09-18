@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: retro
+display: retro-
+type: prefix
+core_meaning: backward
+zh: 向后
+origin: teaching morphology
+source_form: retro
+source_meaning: backward
+source_meaning_zh: 向后
+related_morphemes:
+  []
+senses:
+  - meaning: backward
+    zh: 向后
+    examples:
+      - retrospect
+      - retrospective
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - retro- -> retrospect
+  - retro- -> retrospective
+high_value_words:
+  - retrospect
+  - retrospective
+confusable_words:
+  []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scarcely
+word: scarcely
+pos: adverb/verb
+zh: 几乎不，简直没有
+en: Means 几乎不，简直没有; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: scarce
+    form: scarce
+    meaning_in_word: scarce / 缺乏
+    zh: 缺乏
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in that manner / 以…方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - scarce
+word_family_details:
+  - word: scarce
+    en: Means 缺乏的，稀有的，罕见的; reviewed from the TOEFL source gloss for learner display.
+    zh: 缺乏的，稀有的，罕见的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

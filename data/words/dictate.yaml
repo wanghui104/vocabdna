@@ -7,24 +7,22 @@ en: to say words for someone to write down or to command
 components:
   - morpheme: dict
     form: dict
-    meaning_in_word: say
-    zh: 说、宣告
+    meaning_in_word: say, declare / 说；宣告
+    zh: 说；宣告
     role: root
     is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
 word_family:
-  - dictation
-  - dictator
+  []
 word_family_details:
-  - word: dictation
-    en: related form of dictation
-    zh: dictation 的相关词
-  - word: dictator
-    en: related form of dictator
-    zh: dictator 的相关词
+  []
 confusables:
-  - word: dedicate
-    reason: dictate 是命令/口述；dedicate 是奉献。
-    zh_reason: dictate 是命令/口述；dedicate 是奉献。
+  []
 examples:
   - en: The policy will dictate how data is stored.
     zh: 这项政策将决定数据如何存储。

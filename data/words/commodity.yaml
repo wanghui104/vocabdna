@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: commodity
+word: commodity
+pos: noun
+zh: 商品；日用品
+en: a product or raw material that can be bought and sold
+components:
+  - morpheme: commodity
+    form: commodity
+    meaning_in_word: useful traded good
+    zh: 商品；日用品
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

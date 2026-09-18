@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cripple
+word: cripple
+pos: verb
+zh: 削弱；使残疾
+en: to disable, damage, or severely weaken someone or something
+components:
+  - morpheme: crip
+    form: cripple
+    meaning_in_word: weaken, disable / 削弱；使残疾
+    zh: 削弱；使残疾
+    role: root
+    is_core: true
+    note: 表层 cripple，派生 crippl- + -ing；Old English crypel 与 creopan 爬行相关。不要把 crip- 后全部字母省掉或强接拉丁小称 -le。
+    related_morphemes:
+      - creep
+word_family:
+  - crippling
+word_family_details:
+  - word: crippling
+    en: causing severe damage, weakness, or inability to function
+    zh: 严重削弱的；造成瘫痪的
+confusables:
+  []
+examples:
+  []
+why_confusing: 用于人时可能冒犯；考试语境多见 crippling damage/costs。

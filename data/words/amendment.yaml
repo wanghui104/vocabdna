@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: amendment
+word: amendment
+pos: noun
+zh: 改善，改正
+en: Means 改善，改正; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: am
+    form: am
+    meaning_in_word: 爱；喜爱
+    zh: 爱；喜爱
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:am.
+  - morpheme: mend
+    form: mend
+    meaning_in_word: 修补；改正
+    zh: 修补；改正
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mend.
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ment.
+word_family:
+  - amend
+  - mend
+  - recommend
+word_family_details:
+  - word: amend
+    en: to change wording or details in order to correct or improve something
+    zh: 改正；修正；修改
+  - word: mend
+    en: Means 修补；改进; reviewed from the TOEFL source gloss for learner display.
+    zh: 修补；改进
+  - word: recommend
+    en: Means 推荐；劝告; reviewed from the TOEFL source gloss for learner display.
+    zh: 推荐；劝告
+confusables:
+  - word: amenable
+    reason: Potential source spelling issues are documented in the batch report.
+    zh_reason: Potential source spelling issues are documented in the batch report.
+  - word: amenity
+    reason: Potential source spelling issues are documented in the batch report.
+    zh_reason: Potential source spelling issues are documented in the batch report.
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

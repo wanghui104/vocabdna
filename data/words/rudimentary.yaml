@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rudimentary
+word: rudimentary
+pos: adjective
+zh: 基本的；初步的，发展未完全的
+en: Means 基本的；初步的，发展未完全的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rudiment
+    form: rudiment
+    meaning_in_word: rudiment; beginning / 雏形；基础
+    zh: 雏形；基础
+    role: root
+    is_core: true
+  - morpheme: ary
+    form: -ary
+    meaning_in_word: relating to / 相关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

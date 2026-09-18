@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fluor
+display: fluor
+type: root
+core_meaning: flow; fluorspar
+zh: 流动；萤石
+origin: Latin
+source_form: Latin fluor, fluere; fluor-spar
+source_meaning: flow; fluorspar
+source_meaning_zh: 流动；萤石
+source_note: fluorescent = fluor- 萤石 + -escent；fluor 原指流动，由矿物助熔用途得名。内部 flu- 流 + -or 名词层；不是 fluor 本义为光。
+related_morphemes:
+  - flu
+  - or-state
+senses:
+  - meaning: flow; fluorspar
+    zh: 流动；萤石
+    examples:
+      - fluorescence
+      - fluorescent
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fluor -> fluorescence
+  - fluor -> fluorescent
+high_value_words:
+  - fluorescence
+  - fluorescent
+confusable_words:
+  []

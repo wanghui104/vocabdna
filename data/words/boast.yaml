@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: boast
+word: boast
+pos: noun/verb
+zh: 自夸；以有…而自豪
+en: to speak too proudly, or to have something impressive
+components:
+  - morpheme: boast
+    form: boast
+    meaning_in_word: brag
+    zh: 自夸；以有...为豪
+    role: root
+    is_core: true
+word_family:
+  - boastful
+word_family_details:
+  - word: boastful
+    en: too proud and talking too much about achievements
+    zh: 吹嘘的；自负的
+confusables:
+  []
+examples:
+  []
+why_confusing: boast of/about 可表示吹嘘，也可中性表示拥有。

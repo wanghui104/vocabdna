@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deficient
+word: deficient
+pos: adjective
+zh: 缺乏的；不足的
+en: not having enough of something necessary
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: fac
+    form: fic
+    meaning_in_word: make, do
+    zh: 做、制造
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: being in a state
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - deficiency
+  - deficit
+word_family_details:
+  - word: deficiency
+    en: a lack, shortage, or inadequate amount of something necessary
+    zh: 缺乏；不足
+  - word: deficit
+    en: the amount by which something is less than what is needed or spent exceeds income
+    zh: 赤字；不足额
+confusables:
+  []
+examples:
+  []
+why_confusing: be deficient in calcium/skills。

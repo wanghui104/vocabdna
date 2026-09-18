@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: down-the-drain
+display: down the drain
+type: root
+core_meaning: draft meaning for down the drain
+zh: 浪费；无结果
+origin: Unknown
+source_form: TOEFL draft opaque stem: down the drain
+source_meaning: draft learner stem for down the drain
+source_meaning_zh: 浪费；无结果
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for down the drain
+    zh: 浪费；无结果
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

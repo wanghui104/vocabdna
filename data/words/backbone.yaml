@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: backbone
+word: backbone
+pos: noun
+zh: 脊柱；骨干；支柱
+en: the spine, or the main support or courage behind something
+components:
+  - morpheme: back
+    form: back
+    meaning_in_word: rear side
+    zh: 背；后部
+    role: root
+    is_core: true
+  - morpheme: bone
+    form: bone
+    meaning_in_word: hard support
+    zh: 骨头
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可比喻网络/组织的 backbone。

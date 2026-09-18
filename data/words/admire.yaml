@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: admire
+word: admire
+pos: verb
+zh: 钦佩；崇拜；欣赏
+en: to respect, like, or look at someone or something with pleasure
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: mir
+    form: mire
+    meaning_in_word: wonder
+    zh: 惊叹；钦佩
+    role: root
+    is_core: true
+word_family:
+  - admiration
+word_family_details:
+  - word: admiration
+    en: a feeling of respect, approval, or pleasure
+    zh: 钦佩；赞美
+confusables:
+  []
+examples:
+  - en: Many students admire her courage.
+    zh: 许多学生钦佩她的勇气。
+why_confusing: admire 可表示钦佩，也可表示欣赏景色或作品。

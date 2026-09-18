@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dilute
+word: dilute
+pos: verb
+zh: 稀释；淡化
+en: to make a liquid or effect thinner, weaker, or less concentrated
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: lu
+    form: lute
+    meaning_in_word: wash, dissolve / 洗；溶解
+    zh: 洗；溶解
+    role: root
+    is_core: true
+word_family:
+  - dilution
+word_family_details:
+  - word: dilution
+    en: the process or result of making something weaker or less concentrated
+    zh: 稀释；淡化
+confusables:
+  []
+examples:
+  []
+why_confusing: dilute 可指液体，也可指影响力被削弱。

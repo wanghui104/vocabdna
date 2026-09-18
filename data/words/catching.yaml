@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: catching
+word: catching
+pos: adjective
+zh: 传染的；有魅力的
+en: infectious or attractive
+components:
+  - morpheme: catch
+    form: catch
+    meaning_in_word: seize, infect
+    zh: 抓住；感染；理解
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: causing quality
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - catch
+word_family_details:
+  - word: catch
+    en: to seize, attract, become infected with, or understand
+    zh: 抓住；感染；理解
+confusables:
+  []
+examples:
+  []
+why_confusing: catching disease/smile/tune 都可见。

@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: constituent
+word: constituent
+pos: noun/adjective
+zh: 成分；要素；选民
+en: a component part or a person represented by an elected official
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: stat
+    form: stitu
+    meaning_in_word: set up
+    zh: 站立；竖立
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ent
+    meaning_in_word: thing/person
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - constitute
+  - constitution
+  - constitutional
+word_family_details:
+  - word: constitute
+    en: to make up, form, or establish something
+    zh: 组成；构成；建立
+  - word: constitution
+    en: the structure of something or the fundamental laws of a state
+    zh: 组织；构成；宪法
+  - word: constitutional
+    en: related to a constitution or basic structure
+    zh: 宪法的；章程的；体质的
+confusables:
+  []
+examples:
+  []
+why_confusing: constituent parts 和 political constituents 都常见。

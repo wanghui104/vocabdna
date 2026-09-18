@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: boon
+word: boon
+pos: noun
+zh: 恩惠；恩赐；好处
+en: something helpful or beneficial
+components:
+  - morpheme: boon
+    form: boon
+    meaning_in_word: favor, good
+    zh: 恩惠；好处
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: a boon to/for someone 表示对某人有益。

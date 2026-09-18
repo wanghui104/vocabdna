@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mock
+display: mock
+type: root
+core_meaning: mock
+zh: 嘲笑
+origin: Old French
+source_form: Old French mocquer
+source_meaning: mock
+source_meaning_zh: 嘲笑
+related_morphemes:
+  []
+senses:
+  - meaning: mock
+    zh: 嘲笑
+    examples:
+      - mock
+      - mockingbird
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - mock -> mock
+  - mock -> mockingbird
+high_value_words:
+  - mock
+  - mockingbird
+confusable_words:
+  []

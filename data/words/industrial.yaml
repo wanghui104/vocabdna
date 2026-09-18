@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: industrial
+word: industrial
+pos: adjective
+zh: 工业的
+en: Means 工业的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: industr
+    form: industr
+    meaning_in_word: 勤勉；工业活动
+    zh: 勤勉；工业活动
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:industr.
+  - morpheme: ial
+    form: -ial
+    meaning_in_word: 有关……的
+    zh: 有关……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ial.
+word_family:
+  - industrialization
+  - industrialized
+  - industrious
+word_family_details:
+  - word: industrialization
+    en: Means 工业化; reviewed from the TOEFL source gloss for learner display.
+    zh: 工业化
+  - word: industrialized
+    en: Means 工业化的; reviewed from the TOEFL source gloss for learner display.
+    zh: 工业化的
+  - word: industrious
+    en: Means 勤勉的; reviewed from the TOEFL source gloss for learner display.
+    zh: 勤勉的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

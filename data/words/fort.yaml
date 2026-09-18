@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fort
+word: fort
+pos: noun
+zh: 堡垒；要塞
+en: a strong defensive building or military position
+components:
+  - morpheme: fort
+    form: fort
+    meaning_in_word: strong / 强壮
+    zh: 强壮
+    role: root
+    is_core: true
+    note: comfort 的深层 con- 加强 + fort- 强壮。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: fortuitous
+    reason: 
+    zh_reason: 
+  - word: fortunate
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

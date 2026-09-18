@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gauge
+word: gauge
+pos: noun/verb
+zh: 量表；规格
+en: a measuring instrument or standard
+components:
+  - morpheme: gauge
+    form: gauge
+    meaning_in_word: measure, measuring rod / 量；量尺
+    zh: 量；量尺
+    role: root
+    is_core: true
+    note: 更深或与日耳曼杆有关但未定；不是 gage 抵押、承诺。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

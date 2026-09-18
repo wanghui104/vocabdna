@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lethargy
+word: lethargy
+pos: noun
+zh: 昏睡，倦怠
+en: Means 昏睡，倦怠; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: letharg
+    form: letharg
+    meaning_in_word: 昏睡；倦怠
+    zh: 昏睡；倦怠
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:letharg.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:y.
+word_family:
+  - lethargic
+word_family_details:
+  - word: lethargic
+    en: Means 昏睡的；懒洋洋的，萎靡不振的; reviewed from the TOEFL source gloss for learner display.
+    zh: 昏睡的；懒洋洋的，萎靡不振的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

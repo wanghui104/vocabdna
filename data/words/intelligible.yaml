@@ -1,0 +1,51 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intelligible
+word: intelligible
+pos: adjective
+zh: 明了的，可理解的
+en: Means 明了的，可理解的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: inter
+    form: inter-
+    meaning_in_word: 在……之间；相互
+    zh: 在……之间；相互
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:inter.
+  - morpheme: tellig
+    form: tellig
+    meaning_in_word: 理解
+    zh: 理解
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:tellig.
+  - morpheme: ible
+    form: -ible
+    meaning_in_word: 可……的
+    zh: 可……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ible.
+word_family:
+  - intellect
+  - intellectual
+  - intelligent
+  - intelligence
+word_family_details:
+  - word: intellect
+    en: Means 智力; reviewed from the TOEFL source gloss for learner display.
+    zh: 智力
+  - word: intellectual
+    en: Means 知识分子 adj. 智力的; reviewed from the TOEFL source gloss for learner display.
+    zh: 知识分子 adj. 智力的
+  - word: intelligent
+    en: Means 聪明的，有才智的; reviewed from the TOEFL source gloss for learner display.
+    zh: 聪明的，有才智的
+  - word: intelligence
+    en: Means 智力；聪明; reviewed from the TOEFL source gloss for learner display.
+    zh: 智力；聪明
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

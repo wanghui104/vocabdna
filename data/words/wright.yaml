@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: wright
+word: wright
+pos: noun
+zh: 建造者，制造者
+en: Means 建造者，制造者; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: wright
+    form: wright
+    meaning_in_word: maker; builder / 制作者；建造者
+    zh: 制作者
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - playwright
+  - shipwright
+word_family_details:
+  - word: playwright
+    en: Means 剧作家; reviewed from the TOEFL source gloss for learner display.
+    zh: 剧作家
+  - word: shipwright
+    en: Means 造船工人; reviewed from the TOEFL source gloss for learner display.
+    zh: 造船工人
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

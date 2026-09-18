@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: extremity
+display: extremity
+type: root
+core_meaning: draft meaning for extremity
+zh: 末端；极端，极度
+origin: Unknown
+source_form: TOEFL draft opaque stem: extremity
+source_meaning: draft learner stem for extremity
+source_meaning_zh: 末端；极端，极度
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for extremity
+    zh: 末端；极端，极度
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

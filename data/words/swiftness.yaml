@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: swiftness
+word: swiftness
+pos: noun
+zh: 迅速，敏捷
+en: Means 迅速，敏捷; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: swift
+    form: swift
+    meaning_in_word: swift / 迅速
+    zh: 迅速
+    role: root
+    is_core: true
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: state; quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - swift
+word_family_details:
+  - word: swift
+    en: Means 迅速的，敏捷的; reviewed from the TOEFL source gloss for learner display.
+    zh: 迅速的，敏捷的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

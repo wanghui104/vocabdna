@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cherish
+word: cherish
+pos: verb
+zh: 珍爱；怀抱希望
+en: to love, protect, or value someone or something deeply
+components:
+  - morpheme: cherish
+    form: cherish
+    meaning_in_word: hold dear
+    zh: 珍爱；怀抱
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cherish a memory/hope/person 常见。

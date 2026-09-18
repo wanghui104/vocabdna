@@ -2,43 +2,45 @@
 id: compete
 word: compete
 pos: verb
-zh: 竞争；比赛
-en: to strive against others for a goal, prize, market, or advantage
+zh: 竞争；比得上
+en: to try to win or be more successful than others
 components:
-  - morpheme: con
+  - morpheme: com
     form: com-
-    meaning_in_word: together, with
-    zh: 共同、一起、加强
+    meaning_in_word: together
+    zh: 共同；一起；完全
     role: prefix
     is_core: false
   - morpheme: pet
     form: pete
-    meaning_in_word: seek, strive for
-    zh: 追求、寻求、冲向
+    meaning_in_word: seek
+    zh: 竞争；胜任
     role: root
     is_core: true
 word_family:
+  - competing
   - competition
   - competitive
+  - competitiveness
   - competitor
 word_family_details:
+  - word: competing
+    en: trying to win against each other, or rival
+    zh: 有竞争性的；不相上下的
   - word: competition
-    en: rivalry or a contest in which people try to win the same goal
-    zh: 竞争；比赛；竞赛
+    en: Means 竞争，竞赛; reviewed from the TOEFL source gloss for learner display.
+    zh: 竞争，竞赛
   - word: competitive
     en: involving competition or rivalry
     zh: 竞争的；比赛的
+  - word: competitiveness
+    en: the ability to compete successfully
+    zh: 竞争能力
   - word: competitor
     en: a person, team, or company that competes
     zh: 竞争者；对手
 confusables:
-  - word: complete
-    reason: compete 是竞争；complete 是完成；competent 是有能力的，不等于 competitive。
-    zh_reason: compete 是竞争；complete 是完成；competent 是有能力的，不等于 competitive。
-  - word: competent
-    reason: compete 是竞争；complete 是完成；competent 是有能力的，不等于 competitive。
-    zh_reason: compete 是竞争；complete 是完成；competent 是有能力的，不等于 competitive。
+  []
 examples:
-  - en: Several teams compete for the championship.
-    zh: 几支队伍争夺冠军。
-why_confusing: compete 是竞争；complete 是完成；competent 是有能力的，不等于 competitive。
+  []
+why_confusing: compete with/against/for。

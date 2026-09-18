@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diagonal
+word: diagonal
+pos: noun/adjective
+zh: 对角线；对角线的；斜的
+en: a line or direction running across from one corner to another
+components:
+  - morpheme: dia
+    form: dia-
+    meaning_in_word: across
+    zh: 穿过；横跨
+    role: prefix
+    is_core: false
+  - morpheme: gon
+    form: gon
+    meaning_in_word: angle
+    zh: 角
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - diagonally
+word_family_details:
+  - word: diagonally
+    en: in a slanting direction from one corner toward another
+    zh: 成对角线地；斜对地
+confusables:
+  []
+examples:
+  []
+why_confusing: diagonal 既可作名词也可作形容词。

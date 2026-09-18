@@ -14,7 +14,7 @@ components:
   - morpheme: cap
     form: ceive
     meaning_in_word: take, take in
-    zh: 拿、抓、接收
+    zh: 拿；抓；容纳
     role: root
     is_core: true
     note: English receive plus agent suffix.
@@ -36,17 +36,17 @@ word_family_details:
     en: to get or take something that is given, sent, or offered
     zh: 收到；接收；得到
   - word: reception
-    en: the act or manner of receiving someone or something
-    zh: 接收；接待；欢迎
+    en: Means 接待；招待会；接收; reviewed from the TOEFL source gloss for learner display.
+    zh: 接待；招待会；接收
   - word: receptive
-    en: willing or able to receive ideas, suggestions, signals, or impressions
-    zh: 乐于接受的；能接收的
+    en: Means 善于接受的，能接纳的; reviewed from the TOEFL source gloss for learner display.
+    zh: 善于接受的，能接纳的
   - word: receipt
     en: a written or electronic record showing that money or goods were received
     zh: 收据；收条
   - word: recipient
-    en: a person or group that receives something
-    zh: 接受者；收件人；受方
+    en: Means 接受者，接收方; reviewed from the TOEFL source gloss for learner display.
+    zh: 接受者，接收方
 confusables:
   - word: recipient
     reason: receiver 常指设备或收件人；recipient 更偏正式地指收到某物的人。

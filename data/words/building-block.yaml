@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: building-block
+word: building block
+pos: phrase
+zh: 积木；基础组成部分
+en: a block used by children for building, or a basic unit of something larger
+components:
+  - morpheme: build
+    form: building
+    meaning_in_word: building
+    zh: 建造；组成
+    role: root
+    is_core: true
+  - morpheme: block
+    form: block
+    meaning_in_word: block
+    zh: 块；阻碍
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常比喻知识、系统、生命的基本组成部分。

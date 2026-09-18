@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: the-cabinet
+word: the Cabinet
+pos: noun
+zh: 内阁
+en: the group of senior ministers or advisers in a government
+components:
+  - morpheme: cabin
+    form: cabinet
+    meaning_in_word: council room/group
+    zh: 小屋；橱柜；内阁
+    role: root
+    is_core: true
+word_family:
+  - cabinet
+word_family_details:
+  - word: cabinet
+    en: a cupboard with shelves or drawers, or a group of senior government advisers
+    zh: 橱柜；内阁
+confusables:
+  []
+examples:
+  []
+why_confusing: 作政府机构时常大写 Cabinet。

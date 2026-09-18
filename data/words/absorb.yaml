@@ -24,9 +24,7 @@ word_family_details:
     en: the process of taking in liquid, energy, or information
     zh: 吸收
 confusables:
-  - word: adsorb
-    reason: absorb 是吸收进入内部；adsorb 是吸附在表面。
-    zh_reason: absorb 是吸收进入内部；adsorb 是吸附在表面。
+  []
 examples:
   - en: Plants absorb water through their roots.
     zh: 植物通过根吸收水分。

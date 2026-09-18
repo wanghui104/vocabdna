@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: corresponding
+word: corresponding
+pos: adjective
+zh: 相应的
+en: Means 相应的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: cor
+    form: cor-
+    meaning_in_word: together / 共同
+    zh: 共同
+    role: prefix
+    is_core: false
+  - morpheme: respond
+    form: respond
+    meaning_in_word: respond / respond
+    zh: respond
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: action; ongoing / 动作；进行中
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - correspond
+  - correspondence
+word_family_details:
+  - word: correspond
+    en: Means 符合，协调；通信; reviewed from the TOEFL source gloss for learner display.
+    zh: 符合，协调；通信
+  - word: correspondence
+    en: Means 通信，信件；相应，对应; reviewed from the TOEFL source gloss for learner display.
+    zh: 通信，信件；相应，对应
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

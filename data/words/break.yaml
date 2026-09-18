@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: break
+word: break
+pos: verb/noun
+zh: 打破；中断；休息
+en: to split or stop working, or an interruption/rest
+components:
+  - morpheme: break
+    form: break
+    meaning_in_word: split, rupture
+    zh: 打破；破裂
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: break 的短语义很多，要按介词识别。

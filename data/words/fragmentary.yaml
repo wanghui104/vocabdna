@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fragmentary
+word: fragmentary
+pos: adjective
+zh: 零碎的；片段的
+en: consisting of incomplete or disconnected parts
+components:
+  - morpheme: frag-fract
+    form: frag
+    meaning_in_word: break, fragile / 破裂；易碎
+    zh: 破裂；易碎
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result, state / 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+  - morpheme: ary
+    form: -ary
+    meaning_in_word: relating to / 与……有关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - fragment
+  - fragmentation
+word_family_details:
+  - word: fragment
+    en: a small broken part; to break into smaller parts
+    zh: 碎片；使碎裂
+  - word: fragmentation
+    en: the process of breaking into separate pieces
+    zh: 碎裂；碎片化
+confusables:
+  []
+examples:
+  []
+why_confusing: 

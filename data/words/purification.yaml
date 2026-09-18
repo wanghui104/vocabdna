@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: purification
+word: purification
+pos: noun
+zh: 纯化，净化
+en: Means 纯化，净化; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pur
+    form: pur
+    meaning_in_word: pure / 纯
+    zh: 纯
+    role: root
+    is_core: true
+  - morpheme: ific
+    form: ific
+    meaning_in_word: ific / ific
+    zh: ific
+    role: root
+    is_core: true
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: act or result / 动作或结果
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

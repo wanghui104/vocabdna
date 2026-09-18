@@ -24,9 +24,7 @@ word_family_details:
     en: completely or without qualification
     zh: 完全地；绝对地
 confusables:
-  - word: obsolete
-    reason: absolute 可表示完全，也可表示绝对不依赖外物。
-    zh_reason: absolute 可表示完全，也可表示绝对不依赖外物。
+  []
 examples:
   - en: The ruler claimed absolute power.
     zh: 统治者声称拥有绝对权力。

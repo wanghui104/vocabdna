@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: audibility
+word: audibility
+pos: noun
+zh: 可听见性
+en: the quality or degree of being audible
+components:
+  - morpheme: aud
+    form: aud
+    meaning_in_word: hear
+    zh: 听
+    role: root
+    is_core: true
+  - morpheme: ity
+    form: -ibility
+    meaning_in_word: quality of being able
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - audible
+word_family_details:
+  - word: audible
+    en: able to be heard
+    zh: 听得见的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

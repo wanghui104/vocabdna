@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: leading
+word: leading
+pos: adjective
+zh: 最主要的 / 主演的
+en: Means 最主要的 / 主演的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lead
+    form: lead
+    meaning_in_word: 领导；引导
+    zh: 领导；引导
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lead.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ing.
+word_family:
+  - mislead
+  - leadership
+word_family_details:
+  - word: mislead
+    en: Means 使误入歧途，误导; reviewed from the TOEFL source gloss for learner display.
+    zh: 使误入歧途，误导
+  - word: leadership
+    en: Means 领导能力，领导阶层; reviewed from the TOEFL source gloss for learner display.
+    zh: 领导能力，领导阶层
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

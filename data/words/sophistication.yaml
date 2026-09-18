@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sophistication
+word: sophistication
+pos: noun
+zh: 老练；精致复杂
+en: Means 老练；精致复杂; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: soph
+    form: soph
+    meaning_in_word: wise; wisdom / 智慧
+    zh: soph
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person connected with / 从事…者
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+  - morpheme: ication
+    form: -ication
+    meaning_in_word: act; process; result / 行为；过程；结果
+    zh: ication
+    role: suffix
+    is_core: false
+word_family:
+  - sophisticated
+  - unsophisticated
+word_family_details:
+  - word: sophisticated
+    en: Means (事物)复杂的；(人)久经事故的; reviewed from the TOEFL source gloss for learner display.
+    zh: (事物)复杂的；(人)久经事故的
+  - word: unsophisticated
+    en: Means 不懂事故的，单纯的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不懂事故的，单纯的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

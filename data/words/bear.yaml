@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bear
+word: bear
+pos: verb/noun
+zh: 负担；支撑；具有；生产；生育
+en: to carry, support, endure, possess, or give birth to
+components:
+  - morpheme: bear-carry
+    form: bear
+    meaning_in_word: carry, endure
+    zh: 负担；支撑；忍受
+    role: root
+    is_core: true
+  - morpheme: bear-animal
+    form: bear
+    meaning_in_word: animal
+    zh: 熊
+    role: root
+    is_core: true
+word_family:
+  - unbearable
+word_family_details:
+  - word: unbearable
+    en: too painful, unpleasant, or difficult to endure
+    zh: 无法忍受的；承受不住的
+confusables:
+  - word: bare
+    reason: bare 是赤裸/仅仅，和 bear 同音但不同源。
+    zh_reason: bare 是赤裸/仅仅，和 bear 同音但不同源。
+examples:
+  []
+why_confusing: bare 是赤裸/仅仅，和 bear 同音但不同源。

@@ -3,7 +3,7 @@ id: biography
 word: biography
 pos: noun
 zh: 传记
-en: a written account of someone's life
+en: the story of a person's life written by someone else
 components:
   - morpheme: bio
     form: bio-
@@ -12,22 +12,19 @@ components:
     role: combining_form
     is_core: true
   - morpheme: graph
-    form: graphy-
-    meaning_in_word: writing
+    form: graph
+    meaning_in_word: write
     zh: 写、记录
-    role: combining_form
+    role: root
     is_core: true
 word_family:
-  - biographical
+  - biographer
 word_family_details:
-  - word: biographical
-    en: related form of biographical
-    zh: biographical 的相关词
+  - word: biographer
+    en: a person who writes biographies
+    zh: 传记作家
 confusables:
-  - word: autobiography
-    reason: biography 是别人写的人生；autobiography 是自传。
-    zh_reason: biography 是别人写的人生；autobiography 是自传。
+  []
 examples:
-  - en: The biography covers her early career.
-    zh: 这本传记讲述了她早期的职业生涯。
-why_confusing: biography 是别人写的人生；autobiography 是自传。
+  []
+why_confusing: biography 是别人写的传记；autobiography 是自传。

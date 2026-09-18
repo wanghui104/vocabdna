@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fuse
+word: fuse
+pos: verb
+zh: 熔合；融合
+en: to melt or join into one whole
+components:
+  - morpheme: fus
+    form: fuse
+    meaning_in_word: pour, blend / 混合；混淆
+    zh: 混合；混淆
+    role: root
+    is_core: true
+    note: 本条聚焦熔合动词，来自 Latin fundere 倒 → fusus；电路保险丝/导火线的名词 fuse 有另一条 spindle 纺锤词源，未混入本词根。
+word_family:
+  - fused
+  - fusion
+word_family_details:
+  - word: fused
+    en: joined or melted together
+    zh: 熔合的；融合的
+  - word: fusion
+    en: the joining of things into one
+    zh: 融合
+confusables:
+  []
+examples:
+  []
+why_confusing: 

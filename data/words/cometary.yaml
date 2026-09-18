@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cometary
+word: cometary
+pos: adjective
+zh: 彗星的；彗星似的
+en: related to or resembling a comet
+components:
+  - morpheme: comet
+    form: comet
+    meaning_in_word: comet
+    zh: 彗星
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ary
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - comet
+word_family_details:
+  - word: comet
+    en: a bright object in space with a tail of gas and dust
+    zh: 彗星
+confusables:
+  []
+examples:
+  []
+why_confusing: 偏科学语境。

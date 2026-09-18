@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fidel
+display: fidel
+type: root
+core_meaning: faithful, trust
+zh: 忠实；信任
+origin: Latin
+source_form: Latin fidelis, fides
+source_meaning: faithful, trust
+source_meaning_zh: 忠实；信任
+source_note: fidelity = fidel- + -ity；内部 Latin fidēlis = fidē-（fidēs 信任的词干）+ -lis 形容词层。ē 属名词词干，不把整个 -elis 当独立后缀。
+related_morphemes:
+  - fid
+senses:
+  - meaning: faithful, trust
+    zh: 忠实；信任
+    examples:
+      - fidelity
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fidel -> fidelity
+high_value_words:
+  - fidelity
+confusable_words:
+  []

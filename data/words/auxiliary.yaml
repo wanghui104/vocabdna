@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: auxiliary
+word: auxiliary
+pos: adjective/noun
+zh: 辅助的；补充的；辅助人员/设备
+en: giving support or serving as an additional helper
+components:
+  - morpheme: aux
+    form: auxil
+    meaning_in_word: help, support
+    zh: 帮助；支持
+    role: root
+    is_core: true
+    related_morphemes:
+      - aug
+  - morpheme: arium
+    form: -iary
+    meaning_in_word: relating to
+    zh: 场所；容器
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

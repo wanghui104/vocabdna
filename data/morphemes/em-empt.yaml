@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: em-empt
+display: em
+type: root
+core_meaning: take, buy
+zh: 取；买
+origin: Latin
+source_form: Latin emere, emptus
+source_meaning: take, buy
+source_meaning_zh: 取；买
+source_note: exempt 的 empt- 是 emere 的分词词干；不等于 empty 空。
+related_morphemes:
+  []
+senses:
+  - meaning: take, buy
+    zh: 取；买
+    examples:
+      - exempt
+      - exemption
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - empt -> exempt
+  - empt -> exemption
+high_value_words:
+  - exempt
+  - exemption
+confusable_words:
+  []

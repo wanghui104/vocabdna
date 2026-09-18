@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: anticipation
+word: anticipation
+pos: noun
+zh: 期望；预料；预期
+en: the act or feeling of expecting something before it happens
+components:
+  - morpheme: ante-avant
+    form: anti-
+    meaning_in_word: before
+    zh: 在前；向前
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: cip
+    meaning_in_word: take
+    zh: 拿；抓；容纳
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: act or state
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - anticipate
+word_family_details:
+  - word: anticipate
+    en: to expect something and often prepare for it beforehand
+    zh: 预期；预料；先做准备
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

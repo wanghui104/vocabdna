@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bitter
+word: bitter
+pos: adjective
+zh: 苦的；痛苦的；尖酸刻薄的
+en: having a sharp unpleasant taste, or full of pain or resentment
+components:
+  - morpheme: bitter
+    form: bitter
+    meaning_in_word: biting, sharp
+    zh: 苦的；尖酸的
+    role: root
+    is_core: true
+word_family:
+  - bitterness
+word_family_details:
+  - word: bitterness
+    en: a bitter taste, pain, or resentful feeling
+    zh: 苦味；辛酸；怨恨
+confusables:
+  []
+examples:
+  []
+why_confusing: 可形容 taste、cold、argument、memory。

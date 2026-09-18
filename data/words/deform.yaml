@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deform
+word: deform
+pos: verb
+zh: 使变形
+en: to spoil or change the natural shape of something
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away, out of
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: form
+    form: form
+    meaning_in_word: shape
+    zh: 形式；符合
+    role: root
+    is_core: true
+word_family:
+  - deformation
+word_family_details:
+  - word: deformation
+    en: a change that distorts the shape of something
+    zh: 变形；形变
+confusables:
+  []
+examples:
+  []
+why_confusing: deform 比 change shape 更负面。

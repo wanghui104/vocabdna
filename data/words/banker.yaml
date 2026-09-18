@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: banker
+word: banker
+pos: noun
+zh: 银行家；银行职员
+en: a person who owns, manages, or works in a bank
+components:
+  - morpheme: bank
+    form: bank
+    meaning_in_word: financial bench
+    zh: 银行；柜台
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - bank
+word_family_details:
+  - word: bank
+    en: a financial institution, a raised edge of land, or to deposit money
+    zh: 银行；河岸；存放
+confusables:
+  []
+examples:
+  []
+why_confusing: banker 可指高级银行家，也可泛指银行从业者。

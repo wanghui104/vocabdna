@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inventory
+word: inventory
+pos: noun
+zh: 存货清单；库存品
+en: Means 存货清单；库存品; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: vent
+    form: vent
+    meaning_in_word: 发现；清单
+    zh: 发现；清单
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:vent.
+  - morpheme: ory
+    form: -ory
+    meaning_in_word: 与……有关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ory.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

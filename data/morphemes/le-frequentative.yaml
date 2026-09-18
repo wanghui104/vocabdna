@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: le-frequentative
+display: -le
+type: suffix
+core_meaning: repeated or small-scale action
+zh: 反复或细小动作
+origin: English
+source_form: Middle English frequentative -le (as in crumplen)
+source_meaning: repeated or small-scale action
+source_meaning_zh: 反复或细小动作
+source_note: 与 Latin -culus 小称后缀分开；用于 crumple/crumble。
+related_morphemes:
+  []
+senses:
+  - meaning: repeated or small-scale action
+    zh: 反复或细小动作
+    examples:
+      - crumble
+      - crumple
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -le -> crumble
+  - -le -> crumple
+high_value_words:
+  - crumble
+  - crumple
+confusable_words:
+  []

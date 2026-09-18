@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fade
+word: fade
+pos: verb
+zh: 褪色；衰退；逐渐消失
+en: to lose brightness, strength, or clarity gradually
+components:
+  - morpheme: fade
+    form: fade
+    meaning_in_word: wither, lose strength / 枯萎；衰退
+    zh: 枯萎；衰退
+    role: root
+    is_core: true
+    note: 可能经 *fatidus 来自 fatuus，并受 vapidus 影响；更深链有争议，不强拆。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

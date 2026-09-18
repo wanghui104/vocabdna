@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: barbecue
+word: barbecue
+pos: noun
+zh: 烤肉野餐；烧烤
+en: an outdoor meal or event where food is cooked on a grill
+components:
+  - morpheme: barbecue
+    form: barbecue
+    meaning_in_word: grill cooking
+    zh: 烧烤
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可指烧烤方式、烤架或烧烤聚会。

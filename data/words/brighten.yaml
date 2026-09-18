@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brighten
+word: brighten
+pos: verb
+zh: 点亮；使愉快；使乐观
+en: to make or become brighter or more cheerful
+components:
+  - morpheme: bright
+    form: bright
+    meaning_in_word: bright
+    zh: 明亮；愉快
+    role: root
+    is_core: true
+  - morpheme: en
+    form: -en
+    meaning_in_word: make, become
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: brighten up 可指房间变亮或心情变好。

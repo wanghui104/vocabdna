@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eager
+word: eager
+pos: adjective
+zh: 热切的；渴望的
+en: keenly interested and wanting to do or have something
+components:
+  - morpheme: eager
+    form: eager
+    meaning_in_word: keen, sharp / 锐利；热切
+    zh: 锐利；热切
+    role: root
+    is_core: true
+    note: 经法语音变形成 eager，来源为 acer 锐利；尾部 er 不是施事后缀。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

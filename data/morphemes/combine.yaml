@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: combine
+display: combine
+type: root
+core_meaning: combine, combination
+zh: 联合；组合
+origin: Latin
+source_form: Latin combinare
+source_meaning: join two by two
+source_meaning_zh: 两两结合
+related_morphemes:
+  []
+senses:
+  - meaning: combine, combination
+    zh: 联合；组合
+    examples:
+      - combination
+      - combine
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - combin -> combination
+  - combine -> combine
+high_value_words:
+  - combination
+  - combine
+confusable_words:
+  []

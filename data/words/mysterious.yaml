@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mysterious
+word: mysterious
+pos: adjective
+zh: 神秘的
+en: Means 神秘的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: myster
+    form: myster
+    meaning_in_word: 神秘
+    zh: 神秘
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:myster.
+  - morpheme: ious
+    form: -ious
+    meaning_in_word: ious
+    zh: ious
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ious.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

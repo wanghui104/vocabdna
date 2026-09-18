@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: creek
+word: creek
+pos: noun
+zh: 小溪；小河
+en: a small stream or narrow waterway
+components:
+  - morpheme: creek
+    form: creek
+    meaning_in_word: small water channel
+    zh: 小溪；小河
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 美式英语里常指小溪。

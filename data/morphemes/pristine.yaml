@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pristine
+display: pristine
+type: root
+core_meaning: pristine
+zh: pristine
+origin: teaching morphology
+source_form: pristine
+source_meaning: pristine
+source_meaning_zh: pristine
+related_morphemes:
+  []
+senses:
+  - meaning: pristine
+    zh: pristine
+    examples:
+      - pristine
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pristine -> pristine
+high_value_words:
+  - pristine
+confusable_words:
+  []

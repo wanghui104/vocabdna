@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: devastating
+word: devastating
+pos: adjective
+zh: 破坏性的；毁灭性的；令人震惊的
+en: causing great damage or emotional shock
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, remove / 向下；去除
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: vast
+    form: vast
+    meaning_in_word: lay waste, empty / 毁坏；荒废
+    zh: 毁坏；荒废
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -at
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - devastate
+  - devastation
+word_family_details:
+  - word: devastate
+    en: to destroy badly or make someone feel extreme shock and sadness
+    zh: 毁坏；使极为震惊
+  - word: devastation
+    en: severe destruction or emotional shock
+    zh: 毁坏；破坏；极度震惊
+confusables:
+  []
+examples:
+  []
+why_confusing: devastating news 往往是情感上的巨大打击。

@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intensify
+word: intensify
+pos: verb
+zh: 加强；扩大
+en: Means 加强；扩大; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: tens
+    form: tens
+    meaning_in_word: 拉伸；紧张
+    zh: 拉伸；紧张
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:tens.
+  - morpheme: ify
+    form: -ify
+    meaning_in_word: 使成为
+    zh: 使成为
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ify.
+    related_morphemes:
+      - fac
+word_family:
+  - intense
+  - intensive
+word_family_details:
+  - word: intense
+    en: Means 强烈的，剧烈的; reviewed from the TOEFL source gloss for learner display.
+    zh: 强烈的，剧烈的
+  - word: intensive
+    en: Means 加强的；集中的，密集的; reviewed from the TOEFL source gloss for learner display.
+    zh: 加强的；集中的，密集的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

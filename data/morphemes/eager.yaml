@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eager
+display: eager
+type: root
+core_meaning: keen, sharp
+zh: 锐利；热切
+origin: Latin
+source_form: Old French aigre;  Latin acer
+source_meaning: keen, sharp
+source_meaning_zh: 锐利；热切
+source_note: 经法语音变形成 eager，来源为 acer 锐利；尾部 er 不是施事后缀。
+related_morphemes:
+  []
+senses:
+  - meaning: keen, sharp
+    zh: 锐利；热切
+    examples:
+      - eager
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - eager -> eager
+high_value_words:
+  - eager
+confusable_words:
+  []

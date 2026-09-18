@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: maize
+display: maize
+type: root
+core_meaning: maize
+zh: 玉米
+origin: Spanish/Taino
+source_form: Spanish maiz / Taino mahiz
+source_meaning: maize
+source_meaning_zh: 玉米
+related_morphemes:
+  []
+senses:
+  - meaning: maize
+    zh: 玉米
+    examples:
+      - maize
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - maize -> maize
+high_value_words:
+  - maize
+confusable_words:
+  []

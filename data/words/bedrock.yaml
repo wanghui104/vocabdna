@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bedrock
+word: bedrock
+pos: noun
+zh: 基础；基石
+en: solid rock under soil, or the basic principles on which something rests
+components:
+  - morpheme: bed
+    form: bed
+    meaning_in_word: base layer
+    zh: 床；底层
+    role: root
+    is_core: true
+  - morpheme: rock
+    form: rock
+    meaning_in_word: stone
+    zh: 岩石
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常比喻 values/principles are the bedrock of something。

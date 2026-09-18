@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: barely
+word: barely
+pos: adverb
+zh: 仅仅；几乎不能
+en: only just; almost not
+components:
+  - morpheme: bare
+    form: bare
+    meaning_in_word: only, uncovered
+    zh: 赤裸；仅仅
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - bare
+word_family_details:
+  - word: bare
+    en: uncovered, plain, or only just enough
+    zh: 赤裸的；无遮蔽的；仅有的
+confusables:
+  []
+examples:
+  []
+why_confusing: barely usually has a negative/limited sense。

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: explode
+word: explode
+pos: verb
+zh: 爆炸；突然爆发；激增
+en: to burst violently or increase suddenly
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: plod
+    form: plode
+    meaning_in_word: clap, drive out with applause / 拍手；鼓噪逐出
+    zh: 拍手；鼓噪逐出
+    role: root
+    is_core: true
+    note: explode 深层 ex- 出 + plaudere 拍手（复合弱化 plod-）；从轰下台到爆发，explosive 用 plos-。
+word_family:
+  - explosion
+  - explosive
+word_family_details:
+  - word: explosion
+    en: a violent bursting or sudden large increase
+    zh: 爆炸；激增
+  - word: explosive
+    en: able or likely to explode; suddenly forceful
+    zh: 爆炸性的；易爆的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

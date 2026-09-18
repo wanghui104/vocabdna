@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aroma
+word: aroma
+pos: noun
+zh: 香气；芬芳；芳香
+en: a pleasant or distinctive smell
+components:
+  - morpheme: arom
+    form: aroma
+    meaning_in_word: sweet odor
+    zh: 香气；芳香
+    role: root
+    is_core: true
+word_family:
+  - aromatic
+word_family_details:
+  - word: aromatic
+    en: having a pleasant or distinctive smell
+    zh: 芬芳的；芳香的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crooked
+word: crooked
+pos: adjective
+zh: 弯曲的；不诚实的；欺诈的
+en: bent, not straight, or dishonest
+components:
+  - morpheme: crook
+    form: crook
+    meaning_in_word: bend or hook
+    zh: 钩；弯曲
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having the state
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: crooked politician 指不诚实的政客。

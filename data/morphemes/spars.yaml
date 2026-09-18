@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spars
+display: spars
+type: root
+core_meaning: scatter
+zh: 散布；分散
+origin: Latin
+source_form: Latin spargere / sparsus
+source_meaning: scatter
+source_meaning_zh: 撒；散布
+related_morphemes:
+  []
+senses:
+  - meaning: scatter
+    zh: 散布；分散
+    examples:
+      - dispersal
+      - disperse
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - spers -> dispersal
+  - sperse -> disperse
+high_value_words:
+  - dispersal
+  - disperse
+confusable_words:
+  []

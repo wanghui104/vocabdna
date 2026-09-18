@@ -14,47 +14,581 @@ senses:
   - meaning: back, again
     zh: 回、再、反向
     examples:
-      - respect
-      - revise
-      - revert
+      - be reserved to
+      - disregard
+      - disrepute
+      - field research
+      - irrelevant
+      - irresistible
+      - irreverence
+      - irreverent
+      - irreversible
+      - irrevocable
+      - nonrelevant
+      - readjust
+      - reassure
+      - rebel
+      - rebellion
+      - rebellious
+      - rebroadcast
+      - recall
       - recede
+      - receipt
+      - receive
+      - receiver
+      - receptacle
+      - reception
+      - receptionist
+      - receptive
+      - receptor
+      - recession
+      - recipient
+      - recital
+      - reclaim
+      - reclamation
+      - recognition
+      - recognize
+      - recoil
+      - recollection
+      - recommend
+      - recommendation
+      - recompose
+      - reconstruct
+      - reconstruction
+      - recount
+      - recreation
+      - recreational
+      - recruit
+      - recur
+      - recurring
+      - recycle
+      - redirect
       - reduce
       - reduction
-      - receive
-      - reception
-      - receptive
-      - receiver
-      - receipt
-      - recipient
+      - refine
+      - refined
+      - refinement
+      - reflection
+      - reform
+      - reformer
+      - reformism
+      - refract
+      - refraction
+      - refractive
+      - refreshing
+      - refreshment
+      - refrigerant
+      - refrigerate
+      - refrigeration
+      - refrigerator
+      - refurbish
+      - refute
+      - regardless
+      - regardless of
+      - regenerate
+      - regeneration
+      - rehabilitate
+      - rehabilitation
+      - rehearse
+      - reimburse
+      - reinforce
+      - reinterpretation
+      - reiterate
+      - reject
+      - rejection
+      - rejuvenate
+      - rekindle
+      - relax
+      - relaxation
+      - relaxed
+      - relay
+      - release
+      - relevance
+      - relevant
+      - reliability
+      - reliable
+      - reliance
+      - reliant
+      - relieve
+      - relieved
+      - religion
+      - religious
+      - reluctant
+      - remainder
+      - remaining
+      - remark
+      - remarkable
+      - remarkably
+      - remind
+      - reminder
+      - remnant
+      - renaissance
+      - renew
+      - renewable
+      - renewal
+      - renounce
+      - renovate
+      - renovation
+      - renunciation
+      - reorient
+      - repel
+      - repetition
+      - replace
+      - replenish
+      - replica
+      - replicate
+      - represent
+      - representation
+      - representative
+      - repress
+      - reproduce
+      - reproduction
+      - reproductive
+      - repulse
+      - repute
+      - reputed
+      - request
+      - reschedule
+      - resemblance
+      - resentful
+      - reserve
+      - reside
+      - residence
+      - resident
+      - residential
+      - resist
+      - resistance
+      - resistant
+      - resolute
+      - resolution
+      - resolve
+      - resonance
+      - resort
+      - resource
+      - respect
+      - respective
+      - respectively
+      - respiration
+      - respiratory
+      - respond
+      - restoration
+      - restore
+      - restrain
+      - restraint
+      - restrict
+      - restriction
+      - restrictive
+      - retain
+      - retentive
+      - retire
+      - retirement
+      - retool
+      - retract
+      - retrieve
+      - retriever
+      - revere
+      - revered
+      - reverently
+      - reverse
+      - reversible
+      - revert
+      - revise
+      - revision
+      - revitalization
+      - revival
+      - revive
+      - revolt
+      - revolution
+      - revolutionary
+      - revolutionize
+      - romote
+      - unrestrained
+      - unrestricted
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - re- -> respect
-  - re- -> revise
-  - re- -> revert
+  - re- -> be reserved to
+  - re- -> disregard
+  - re- -> disrepute
+  - re- -> field research
+  - re- -> irrelevant
+  - re- -> irresistible
+  - re- -> irreverence
+  - re- -> irreverent
+  - re- -> irreversible
+  - re- -> irrevocable
+  - re- -> nonrelevant
+  - re- -> readjust
+  - re- -> reassure
+  - re- -> rebel
+  - re- -> rebellion
+  - re- -> rebellious
+  - re- -> rebroadcast
+  - re- -> recall
   - re- -> recede
+  - re- -> receipt
+  - re- -> receive
+  - re- -> receiver
+  - re- -> receptacle
+  - re- -> reception
+  - re- -> receptionist
+  - re- -> receptive
+  - re- -> receptor
+  - re- -> recession
+  - re- -> recipient
+  - re- -> recital
+  - re- -> reclaim
+  - re- -> reclamation
+  - re- -> recognition
+  - re- -> recognize
+  - re- -> recoil
+  - re- -> recollection
+  - re- -> recommend
+  - re- -> recommendation
+  - re- -> recompose
+  - re- -> reconstruct
+  - re- -> reconstruction
+  - re- -> recount
+  - re- -> recreation
+  - re- -> recreational
+  - re- -> recruit
+  - re- -> recur
+  - re- -> recurring
+  - re- -> recycle
+  - re- -> redirect
   - re- -> reduce
   - re- -> reduction
-  - re- -> receive
-  - re- -> reception
-  - re- -> receptive
-  - re- -> receiver
-  - re- -> receipt
-  - re- -> recipient
+  - re- -> refine
+  - re- -> refined
+  - re- -> refinement
+  - re- -> reflection
+  - re- -> reform
+  - re- -> reformer
+  - re- -> reformism
+  - re- -> refract
+  - re- -> refraction
+  - re- -> refractive
+  - re- -> refreshing
+  - re- -> refreshment
+  - re- -> refrigerant
+  - re- -> refrigerate
+  - re- -> refrigeration
+  - re- -> refrigerator
+  - re- -> refurbish
+  - re- -> refute
+  - re- -> regardless
+  - re- -> regardless of
+  - re- -> regenerate
+  - re- -> regeneration
+  - re- -> rehabilitate
+  - re- -> rehabilitation
+  - re- -> rehearse
+  - re- -> reimburse
+  - re- -> reinforce
+  - re- -> reinterpretation
+  - re- -> reiterate
+  - re- -> reject
+  - re- -> rejection
+  - re- -> rejuvenate
+  - re- -> rekindle
+  - re- -> relax
+  - re- -> relaxation
+  - re- -> relaxed
+  - re- -> relay
+  - re- -> release
+  - re- -> relevance
+  - re- -> relevant
+  - re- -> reliability
+  - re- -> reliable
+  - re- -> reliance
+  - re- -> reliant
+  - re- -> relieve
+  - re- -> relieved
+  - re- -> religion
+  - re- -> religious
+  - re- -> reluctant
+  - re- -> remainder
+  - re- -> remaining
+  - re- -> remark
+  - re- -> remarkable
+  - re- -> remarkably
+  - re- -> remind
+  - re- -> reminder
+  - re- -> remnant
+  - re- -> renaissance
+  - re- -> renew
+  - re- -> renewable
+  - re- -> renewal
+  - re- -> renounce
+  - re- -> renovate
+  - re- -> renovation
+  - re- -> renunciation
+  - re- -> reorient
+  - re- -> repel
+  - re- -> repetition
+  - re- -> replace
+  - re- -> replenish
+  - re- -> replica
+  - re- -> replicate
+  - re- -> represent
+  - re- -> representation
+  - re- -> representative
+  - re- -> repress
+  - re- -> reproduce
+  - re- -> reproduction
+  - re- -> reproductive
+  - re- -> repulse
+  - re- -> repute
+  - re- -> reputed
+  - re- -> request
+  - re- -> reschedule
+  - re- -> resemblance
+  - re- -> resentful
+  - re- -> reserve
+  - re- -> reside
+  - re- -> residence
+  - re- -> resident
+  - re- -> residential
+  - re- -> resist
+  - re- -> resistance
+  - re- -> resistant
+  - re- -> resolute
+  - re- -> resolution
+  - re- -> resolve
+  - re- -> resonance
+  - re- -> resort
+  - re- -> resource
+  - re- -> respect
+  - re- -> respective
+  - re- -> respectively
+  - re- -> respiration
+  - re- -> respiratory
+  - re- -> respond
+  - re- -> restoration
+  - re- -> restore
+  - re- -> restrain
+  - re- -> restraint
+  - re- -> restrict
+  - re- -> restriction
+  - re- -> restrictive
+  - re- -> retain
+  - re- -> retentive
+  - re- -> retire
+  - re- -> retirement
+  - re- -> retool
+  - re- -> retract
+  - re- -> retrieve
+  - re- -> retriever
+  - re- -> revere
+  - re- -> revered
+  - re- -> reverently
+  - re- -> reverse
+  - re- -> reversible
+  - re- -> revert
+  - re- -> revise
+  - re- -> revision
+  - re- -> revitalization
+  - re- -> revival
+  - re- -> revive
+  - re- -> revolt
+  - re- -> revolution
+  - re- -> revolutionary
+  - re- -> revolutionize
+  - re- -> romote
+  - re -> unrestrained
+  - re -> unrestricted
 high_value_words:
-  - respect
-  - revise
-  - revert
+  - be reserved to
+  - disregard
+  - disrepute
+  - field research
+  - irrelevant
+  - irresistible
+  - irreverence
+  - irreverent
+  - irreversible
+  - irrevocable
+  - nonrelevant
+  - readjust
+  - reassure
+  - rebel
+  - rebellion
+  - rebellious
+  - rebroadcast
+  - recall
   - recede
+  - receipt
+  - receive
+  - receiver
+  - receptacle
+  - reception
+  - receptionist
+  - receptive
+  - receptor
+  - recession
+  - recipient
+  - recital
+  - reclaim
+  - reclamation
+  - recognition
+  - recognize
+  - recoil
+  - recollection
+  - recommend
+  - recommendation
+  - recompose
+  - reconstruct
+  - reconstruction
+  - recount
+  - recreation
+  - recreational
+  - recruit
+  - recur
+  - recurring
+  - recycle
+  - redirect
   - reduce
   - reduction
-  - receive
-  - reception
-  - receptive
-  - receiver
-  - receipt
-  - recipient
+  - refine
+  - refined
+  - refinement
+  - reflection
+  - reform
+  - reformer
+  - reformism
+  - refract
+  - refraction
+  - refractive
+  - refreshing
+  - refreshment
+  - refrigerant
+  - refrigerate
+  - refrigeration
+  - refrigerator
+  - refurbish
+  - refute
+  - regardless
+  - regardless of
+  - regenerate
+  - regeneration
+  - rehabilitate
+  - rehabilitation
+  - rehearse
+  - reimburse
+  - reinforce
+  - reinterpretation
+  - reiterate
+  - reject
+  - rejection
+  - rejuvenate
+  - rekindle
+  - relax
+  - relaxation
+  - relaxed
+  - relay
+  - release
+  - relevance
+  - relevant
+  - reliability
+  - reliable
+  - reliance
+  - reliant
+  - relieve
+  - relieved
+  - religion
+  - religious
+  - reluctant
+  - remainder
+  - remaining
+  - remark
+  - remarkable
+  - remarkably
+  - remind
+  - reminder
+  - remnant
+  - renaissance
+  - renew
+  - renewable
+  - renewal
+  - renounce
+  - renovate
+  - renovation
+  - renunciation
+  - reorient
+  - repel
+  - repetition
+  - replace
+  - replenish
+  - replica
+  - replicate
+  - represent
+  - representation
+  - representative
+  - repress
+  - reproduce
+  - reproduction
+  - reproductive
+  - repulse
+  - repute
+  - reputed
+  - request
+  - reschedule
+  - resemblance
+  - resentful
+  - reserve
+  - reside
+  - residence
+  - resident
+  - residential
+  - resist
+  - resistance
+  - resistant
+  - resolute
+  - resolution
+  - resolve
+  - resonance
+  - resort
+  - resource
+  - respect
+  - respective
+  - respectively
+  - respiration
+  - respiratory
+  - respond
+  - restoration
+  - restore
+  - restrain
+  - restraint
+  - restrict
+  - restriction
+  - restrictive
+  - retain
+  - retentive
+  - retire
+  - retirement
+  - retool
+  - retract
+  - retrieve
+  - retriever
+  - revere
+  - revered
+  - reverently
+  - reverse
+  - reversible
+  - revert
+  - revise
+  - revision
+  - revitalization
+  - revival
+  - revive
+  - revolt
+  - revolution
+  - revolutionary
+  - revolutionize
+  - romote
+  - unrestrained
+  - unrestricted
 confusable_words:
   []

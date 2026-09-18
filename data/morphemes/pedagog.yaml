@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pedagog
+display: pedagog
+type: root
+core_meaning: teacher; education
+zh: 教师；教育
+origin: teaching morphology
+source_form: pedagog
+source_meaning: teacher; education
+source_meaning_zh: 教师；教育
+related_morphemes:
+  []
+senses:
+  - meaning: teacher; education
+    zh: 教师；教育
+    examples:
+      - pedagogic
+      - pedagogical
+      - pedagogy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pedagog -> pedagogic
+  - pedagog -> pedagogical
+  - pedagog -> pedagogy
+high_value_words:
+  - pedagogic
+  - pedagogical
+  - pedagogy
+confusable_words:
+  []

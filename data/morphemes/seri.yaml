@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: seri
+display: seri
+type: root
+core_meaning: serious
+zh: 严肃
+origin: teaching morphology
+source_form: seri
+source_meaning: serious
+source_meaning_zh: 严肃
+related_morphemes:
+  []
+senses:
+  - meaning: serious
+    zh: 严肃
+    examples:
+      - serious
+      - seriously
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - seri -> serious
+  - seri -> seriously
+high_value_words:
+  - serious
+  - seriously
+confusable_words:
+  []

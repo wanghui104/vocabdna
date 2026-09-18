@@ -1,0 +1,69 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tend
+display: tend
+type: root
+core_meaning: stretch, direct
+zh: 伸展；指向
+origin: Latin
+source_form: Latin tendere
+source_meaning: to stretch, direct
+source_meaning_zh: 伸展；指向
+related_morphemes:
+  []
+senses:
+  - meaning: stretch, direct
+    zh: 伸展；指向
+    examples:
+      - attend
+      - attendance
+      - attendant
+      - attention
+      - contend
+      - contender
+      - contention
+      - distend
+      - distent
+      - extend
+      - extended
+      - extension
+      - extensive
+      - portend
+      - tendency
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tend -> attend
+  - tend -> attendance
+  - tend -> attendant
+  - tent -> attention
+  - tend -> contend
+  - tend -> contender
+  - tent -> contention
+  - tend -> distend
+  - tent -> distent
+  - tend -> extend
+  - tend -> extended
+  - tens -> extension
+  - tens -> extensive
+  - tend -> portend
+  - tend -> tendency
+high_value_words:
+  - attend
+  - attendance
+  - attendant
+  - attention
+  - contend
+  - contender
+  - contention
+  - distend
+  - distent
+  - extend
+  - extended
+  - extension
+  - extensive
+  - portend
+  - tendency
+confusable_words:
+  []

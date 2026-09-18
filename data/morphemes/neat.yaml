@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: neat
+display: neat
+type: root
+core_meaning: clean, bright
+zh: 整洁；明亮
+origin: Latin/French
+source_form: Latin nitidus / Old French net
+source_meaning: clean, bright
+source_meaning_zh: 整洁；明亮
+related_morphemes:
+  []
+senses:
+  - meaning: clean, bright
+    zh: 整洁；明亮
+    examples:
+      - neat
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - neat -> neat
+high_value_words:
+  - neat
+confusable_words:
+  []

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: equestr
+display: equestr
+type: root
+core_meaning: horse rider
+zh: 骑马者
+origin: teaching morphology
+source_form: equestr
+source_meaning: horse rider
+source_meaning_zh: 骑马者
+related_morphemes:
+  []
+senses:
+  - meaning: horse rider
+    zh: 骑马者
+    examples:
+      - equestrian
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - equestr -> equestrian
+high_value_words:
+  - equestrian
+confusable_words:
+  []

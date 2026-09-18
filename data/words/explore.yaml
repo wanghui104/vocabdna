@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: explore
+word: explore
+pos: verb
+zh: 探索；探究
+en: to investigate or travel through in order to learn
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: plor
+    form: plore
+    meaning_in_word: cry out; investigate / 呼喊；探查
+    zh: 呼喊；探查
+    role: root
+    is_core: true
+    note: explore = ex- + plorare 呼喊；猎场呼喊探查的语义解释有争议，不作为确证故事。
+word_family:
+  - explorer
+  - exploration
+word_family_details:
+  - word: explorer
+    en: a person who investigates or travels to learn about unfamiliar places
+    zh: 探险者；探索者
+  - word: exploration
+    en: investigation or travel undertaken to discover or learn
+    zh: 探索；勘探
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -19,6 +19,162 @@ senses:
       - acclaimed
       - accomplished
       - accustomed
+      - acquainted
+      - admittedly
+      - advanced
+      - affected
+      - animated
+      - antiquated
+      - armored
+      - assorted
+      - assured
+      - astonished
+      - attached
+      - automated
+      - balanced
+      - be informed about
+      - be reserved to
+      - beaded
+      - bored
+      - bowlegged
+      - broad-brimmed
+      - celebrated
+      - committed
+      - compressed
+      - concerted
+      - confused
+      - congested
+      - constricted
+      - contented
+      - convinced
+      - coordinated
+      - correlated
+      - cramped
+      - crooked
+      - crystallized
+      - dated
+      - dehydrated
+      - depressed
+      - deserted
+      - disciplined
+      - discontented
+      - disgusted
+      - disinterested
+      - dismembered
+      - disposed
+      - dissipated
+      - distinguished
+      - distorted
+      - disturbed
+      - diversified
+      - dogged
+      - domesticated
+      - educated
+      - endangered
+      - entitled
+      - entrenched
+      - exalted
+      - excited
+      - exhausted
+      - extended
+      - favored
+      - fertilized egg
+      - fixed
+      - fogged
+      - formalized
+      - fossilized
+      - frightened
+      - frustrated
+      - furnished
+      - fused
+      - glazed
+      - haunted
+      - horned
+      - inclined
+      - indented
+      - informed
+      - integrated
+      - interconnected
+      - intersected
+      - isolated
+      - mechanized
+      - multi-faceted
+      - multifaceted
+      - obligated
+      - obsessed
+      - opposed
+      - outdated
+      - outmoded
+      - overtaxed
+      - packed
+      - pinched
+      - ploished
+      - potted
+      - prefabricated
+      - prescribed
+      - pronounced
+      - purified
+      - qualified
+      - ragged
+      - refined
+      - relaxed
+      - relieved
+      - reputed
+      - revered
+      - rugged
+      - scaled
+      - serrated
+      - sheltered
+      - shocked
+      - specialized
+      - specified
+      - spined
+      - stained
+      - standardized
+      - stylized
+      - subdued
+      - subjected
+      - submerged
+      - suited
+      - sun-bronzed
+      - supposedly
+      - sustained
+      - talented
+      - textured
+      - toed
+      - touched
+      - unadorned
+      - unbiased
+      - unbridled
+      - uncharted
+      - underdeveloped
+      - undeserved
+      - undifferentiated
+      - undistorted
+      - undisturbed
+      - undoubtedly
+      - unemployed
+      - unexplored
+      - unfertilized
+      - uninhabited
+      - unmatched
+      - unobstructed
+      - unparalleled
+      - unprecedented
+      - unrestrained
+      - unrestricted
+      - unspoiled
+      - unsubstantiated
+      - untamed
+      - untapped
+      - untouched
+      - varied
+      - vaulted
+      - well organized
+      - tangled
+      - entangled
+      - untangled
+      - disentangled
 similar_form:
   []
 similar_meaning:
@@ -29,11 +185,323 @@ patterns:
   - -ed -> acclaimed
   - -ed -> accomplished
   - -ed -> accustomed
+  - -ed -> acquainted
+  - -ed -> admittedly
+  - -ed -> advanced
+  - -ed -> affected
+  - -ed -> animated
+  - -ed -> antiquated
+  - -ed -> armored
+  - -ed -> assorted
+  - -ed -> assured
+  - -ed -> astonished
+  - -ed -> attached
+  - -ed -> automated
+  - -ed -> balanced
+  - -ed -> be informed about
+  - -ed -> be reserved to
+  - -ed -> beaded
+  - -ed -> bored
+  - -ed -> bowlegged
+  - -ed -> broad-brimmed
+  - -ed -> celebrated
+  - -ed -> committed
+  - -ed -> compressed
+  - -ed -> concerted
+  - -ed -> confused
+  - -ed -> congested
+  - -ed -> constricted
+  - -ed -> contented
+  - -ed -> convinced
+  - -ated -> coordinated
+  - -ed -> correlated
+  - -ed -> cramped
+  - -ed -> crooked
+  - -ed -> crystallized
+  - -ed -> dated
+  - -ed -> dehydrated
+  - -ed -> depressed
+  - -ed -> deserted
+  - -ed -> disciplined
+  - -ed -> discontented
+  - -ed -> disgusted
+  - -ed -> disinterested
+  - -ed -> dismembered
+  - -ed -> disposed
+  - -ed -> dissipated
+  - -ed -> distinguished
+  - -ed -> distorted
+  - -ed -> disturbed
+  - -ed -> diversified
+  - -ed -> dogged
+  - -ed -> domesticated
+  - -ed -> educated
+  - -ed -> endangered
+  - -ed -> entitled
+  - -ed -> entrenched
+  - -ed -> exalted
+  - -ed -> excited
+  - -ed -> exhausted
+  - -ed -> extended
+  - -ed -> favored
+  - -ed -> fertilized egg
+  - -ed -> fixed
+  - -ed -> fogged
+  - -ed -> formalized
+  - -ed -> fossilized
+  - -ed -> frightened
+  - -ed -> frustrated
+  - -ed -> furnished
+  - -ed -> fused
+  - -ed -> glazed
+  - -ed -> haunted
+  - -ed -> horned
+  - -ed -> inclined
+  - -ed -> indented
+  - -ed -> informed
+  - -ed -> integrated
+  - -ed -> interconnected
+  - -ed -> intersected
+  - -ed -> isolated
+  - -ed -> mechanized
+  - -ed -> multi-faceted
+  - -ed -> multifaceted
+  - -ed -> obligated
+  - -ed -> obsessed
+  - -ed -> opposed
+  - -ed -> outdated
+  - -ed -> outmoded
+  - -ed -> overtaxed
+  - -ed -> packed
+  - -ed -> pinched
+  - -ed -> ploished
+  - -ed -> potted
+  - -ed -> prefabricated
+  - -ed -> prescribed
+  - -ed -> pronounced
+  - -ed -> purified
+  - -ed -> qualified
+  - -ed -> ragged
+  - -ed -> refined
+  - -ed -> relaxed
+  - -ed -> relieved
+  - -ed -> reputed
+  - -ed -> revered
+  - -ed -> rugged
+  - -ed -> scaled
+  - -ed -> serrated
+  - -ed -> sheltered
+  - -ed -> shocked
+  - -ed -> specialized
+  - -ed -> specified
+  - -ed -> spined
+  - -ed -> stained
+  - -ed -> standardized
+  - -ed -> stylized
+  - -ed -> subdued
+  - -ed -> subjected
+  - -ed -> submerged
+  - -ed -> suited
+  - -ed -> sun-bronzed
+  - -ed -> supposedly
+  - -ed -> sustained
+  - -ed -> talented
+  - -ed -> textured
+  - -ed -> toed
+  - -ed -> touched
+  - -ed -> unadorned
+  - -ed -> unbiased
+  - -ed -> unbridled
+  - -ed -> uncharted
+  - -ed -> underdeveloped
+  - -ed -> undeserved
+  - -ed -> undifferentiated
+  - -ed -> undistorted
+  - -ed -> undisturbed
+  - -ed -> undoubtedly
+  - -ed -> unemployed
+  - -ed -> unexplored
+  - -ed -> unfertilized
+  - -ed -> uninhabited
+  - -ed -> unmatched
+  - -ed -> unobstructed
+  - -ed -> unparalleled
+  - -ed -> unprecedented
+  - -ed -> unrestrained
+  - -ed -> unrestricted
+  - -ed -> unspoiled
+  - -ed -> unsubstantiated
+  - -ed -> untamed
+  - -ed -> untapped
+  - -ed -> untouched
+  - -ed -> varied
+  - -ed -> vaulted
+  - -ed -> well organized
+  - -ed -> tangled
+  - -ed -> entangled
+  - -ed -> untangled
+  - -ed -> disentangled
 high_value_words:
   - abandoned
   - accelerated
   - acclaimed
   - accomplished
   - accustomed
+  - acquainted
+  - admittedly
+  - advanced
+  - affected
+  - animated
+  - antiquated
+  - armored
+  - assorted
+  - assured
+  - astonished
+  - attached
+  - automated
+  - balanced
+  - be informed about
+  - be reserved to
+  - beaded
+  - bored
+  - bowlegged
+  - broad-brimmed
+  - celebrated
+  - committed
+  - compressed
+  - concerted
+  - confused
+  - congested
+  - constricted
+  - contented
+  - convinced
+  - coordinated
+  - correlated
+  - cramped
+  - crooked
+  - crystallized
+  - dated
+  - dehydrated
+  - depressed
+  - deserted
+  - disciplined
+  - discontented
+  - disgusted
+  - disinterested
+  - dismembered
+  - disposed
+  - dissipated
+  - distinguished
+  - distorted
+  - disturbed
+  - diversified
+  - dogged
+  - domesticated
+  - educated
+  - endangered
+  - entitled
+  - entrenched
+  - exalted
+  - excited
+  - exhausted
+  - extended
+  - favored
+  - fertilized egg
+  - fixed
+  - fogged
+  - formalized
+  - fossilized
+  - frightened
+  - frustrated
+  - furnished
+  - fused
+  - glazed
+  - haunted
+  - horned
+  - inclined
+  - indented
+  - informed
+  - integrated
+  - interconnected
+  - intersected
+  - isolated
+  - mechanized
+  - multi-faceted
+  - multifaceted
+  - obligated
+  - obsessed
+  - opposed
+  - outdated
+  - outmoded
+  - overtaxed
+  - packed
+  - pinched
+  - ploished
+  - potted
+  - prefabricated
+  - prescribed
+  - pronounced
+  - purified
+  - qualified
+  - ragged
+  - refined
+  - relaxed
+  - relieved
+  - reputed
+  - revered
+  - rugged
+  - scaled
+  - serrated
+  - sheltered
+  - shocked
+  - specialized
+  - specified
+  - spined
+  - stained
+  - standardized
+  - stylized
+  - subdued
+  - subjected
+  - submerged
+  - suited
+  - sun-bronzed
+  - supposedly
+  - sustained
+  - talented
+  - textured
+  - toed
+  - touched
+  - unadorned
+  - unbiased
+  - unbridled
+  - uncharted
+  - underdeveloped
+  - undeserved
+  - undifferentiated
+  - undistorted
+  - undisturbed
+  - undoubtedly
+  - unemployed
+  - unexplored
+  - unfertilized
+  - uninhabited
+  - unmatched
+  - unobstructed
+  - unparalleled
+  - unprecedented
+  - unrestrained
+  - unrestricted
+  - unspoiled
+  - unsubstantiated
+  - untamed
+  - untapped
+  - untouched
+  - varied
+  - vaulted
+  - well organized
+  - tangled
+  - entangled
+  - untangled
+  - disentangled
 confusable_words:
   []

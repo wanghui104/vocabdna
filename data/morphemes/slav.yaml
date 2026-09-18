@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: slav
+display: slav
+type: root
+core_meaning: slave, Slav
+zh: 奴隶；斯拉夫人
+origin: Medieval Latin
+source_form: Medieval Latin Sclavus
+source_meaning: slave, Slav
+source_meaning_zh: 奴隶；斯拉夫人
+related_morphemes:
+  []
+senses:
+  - meaning: slave, Slav
+    zh: 奴隶；斯拉夫人
+    examples:
+      - slavish
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - slav -> slavish
+high_value_words:
+  - slavish
+confusable_words:
+  []

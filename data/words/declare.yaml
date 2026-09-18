@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: declare
+word: declare
+pos: verb
+zh: 宣布；声明
+en: to state, announce, or make known clearly
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: fully, clearly
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: clar
+    form: clar
+    meaning_in_word: clear
+    zh: 清楚；澄清
+    role: root
+    is_core: true
+word_family:
+  - declaration
+word_family_details:
+  - word: declaration
+    en: an official or formal statement that declares something
+    zh: 宣布；宣言；声明
+confusables:
+  []
+examples:
+  []
+why_confusing: declare war/customs/income 按语境译。

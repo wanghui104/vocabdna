@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: affordable
+word: affordable
+pos: adjective
+zh: 负担得起的；便宜的
+en: cheap enough for people to be able to pay for
+components:
+  - morpheme: a
+    form: a-
+    meaning_in_word: completive
+    zh: 在；属于；完成性
+    role: prefix
+    is_core: false
+  - morpheme: forth
+    form: ford
+    meaning_in_word: provide, bear cost
+    zh: 拿出；提供；负担得起
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - afford
+word_family_details:
+  - word: afford
+    en: to have enough money, time, or resources for something
+    zh: 付得起；负担得起
+confusables:
+  []
+examples:
+  - en: The city needs affordable housing.
+    zh: 这座城市需要可负担住房。
+why_confusing: affordable 不一定等于 cheap；重点是“能负担”。

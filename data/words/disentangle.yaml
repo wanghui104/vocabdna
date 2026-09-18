@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disentangle
+word: disentangle
+pos: verb
+zh: 解开；使摆脱纠缠；理清、分辨
+en: to free something from a tangle or separate things that are confusingly mixed
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: reverse; free from / 解除、脱离
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: 表层 dis- + entangle；继续展开为 dis- + en- + tangle。
+  - morpheme: in
+    form: en-
+    meaning_in_word: put into; cause to be in / 使进入、使陷入
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: 使陷入缠绕；经法语对应 Latin in-。
+  - morpheme: tangle
+    form: tangle
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: 保留 tangle 为学习词干；不是 Latin tangere（触碰）的 tang-，更早词源仍有不确定性。
+word_family:
+  - disentangled
+  - disentanglement
+word_family_details:
+  - word: disentangled
+    en: freed from a tangle or separated from confusing connections
+    zh: 已解开纠缠的；已分清的；disentangle 的过去形式
+  - word: disentanglement
+    en: the process or result of freeing things from tangles or separating complex connections
+    zh: 解开纠缠；摆脱牵连；理清
+confusables:
+  []
+examples:
+  - en: She disentangled the chain from the fabric.
+    zh: 她把链子从布料中解了出来。
+  - en: The researcher tried to disentangle the two causes.
+    zh: 研究者试图分清这两个原因。
+why_confusing: disentangle 与 untangle 近义；不要漏掉中间的 en。其反向含义来自 dis-。

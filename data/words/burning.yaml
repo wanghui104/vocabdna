@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: burning
+word: burning
+pos: noun/adjective
+zh: 燃烧；燃烧的；强烈的
+en: the act of burning, on fire, or very intense
+components:
+  - morpheme: burn
+    form: burn
+    meaning_in_word: fire, intense feeling
+    zh: 燃烧；强烈
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing action
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - burn
+word_family_details:
+  - word: burn
+    en: to be on fire or damage with heat
+    zh: 燃烧；烧伤
+confusables:
+  []
+examples:
+  []
+why_confusing: a burning question 指迫切问题。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: itiner
+display: itiner
+type: root
+core_meaning: journey
+zh: 旅程
+origin: Latin
+source_form: Latin iter / itiner-
+source_meaning: journey
+source_meaning_zh: 旅程
+related_morphemes:
+  []
+senses:
+  - meaning: journey
+    zh: 旅程
+    examples:
+      - itinerant
+      - itinerary
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - itiner -> itinerant
+  - itiner -> itinerary
+high_value_words:
+  - itinerant
+  - itinerary
+confusable_words:
+  []

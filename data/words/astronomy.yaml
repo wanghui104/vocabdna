@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: astronomy
+word: astronomy
+pos: noun
+zh: 天文学
+en: the scientific study of stars, planets, and other heavenly bodies
+components:
+  - morpheme: astr
+    form: astro
+    meaning_in_word: star
+    zh: 星；天体
+    role: root
+    is_core: true
+  - morpheme: nom
+    form: nomy
+    meaning_in_word: arranging, laws
+    zh: 安排；规律；法则
+    role: root
+    is_core: true
+word_family:
+  - astronomical
+  - astronomer
+word_family_details:
+  - word: astronomical
+    en: related to astronomy, or extremely large in amount
+    zh: 天文学的；极大的
+  - word: astronomer
+    en: a scientist who studies astronomy
+    zh: 天文学家
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

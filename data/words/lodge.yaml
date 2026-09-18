@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lodge
+word: lodge
+pos: noun/verb
+zh: （山林）小屋 / 寄存；临时住宿
+en: Means （山林）小屋 / 寄存；临时住宿; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lodge
+    form: lodge
+    meaning_in_word: 小屋；住宿
+    zh: 小屋；住宿
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  - lodging
+word_family_details:
+  - word: lodging
+    en: Means 寄宿，住房（常指出租的房间）; reviewed from the TOEFL source gloss for learner display.
+    zh: 寄宿，住房（常指出租的房间）
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

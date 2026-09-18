@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: amend
+word: amend
+pos: verb
+zh: 改正；修正；修改
+en: to change wording or details in order to correct or improve something
+components:
+  - morpheme: mend-menda
+    form: amend
+    meaning_in_word: correct a fault
+    zh: 错误；修正错误
+    role: root
+    is_core: true
+word_family:
+  - amendment
+word_family_details:
+  - word: amendment
+    en: Means 改善，改正; reviewed from the TOEFL source gloss for learner display.
+    zh: 改善，改正
+confusables:
+  - word: amenable
+    reason: amend 常用于法律、文件、规则；mend 更常用于修补实物或关系。
+    zh_reason: amend 常用于法律、文件、规则；mend 更常用于修补实物或关系。
+  - word: amenity
+    reason: amend 常用于法律、文件、规则；mend 更常用于修补实物或关系。
+    zh_reason: amend 常用于法律、文件、规则；mend 更常用于修补实物或关系。
+examples:
+  []
+why_confusing: amend 常用于法律、文件、规则；mend 更常用于修补实物或关系。

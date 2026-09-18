@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: train
+display: train
+type: root
+core_meaning: draw, pull
+zh: 牵引
+origin: Latin
+source_form: Old French train, trainer; Latin trahere
+source_meaning: draw, pull
+source_meaning_zh: 牵引
+source_note: 经法语发展为被牵引的行列，再到列车；不拆 tra + in。
+related_morphemes:
+  []
+senses:
+  - meaning: draw, pull
+    zh: 牵引
+    examples:
+      - express train
+      - trainload
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - train -> express train
+  - train -> trainload
+high_value_words:
+  - express train
+  - trainload
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: not-as-yet
+word: not as yet
+pos: phrase
+zh: 迄今为止，还没有
+en: Means 迄今为止，还没有; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: not
+    form: not
+    meaning_in_word: mark; negation in phrase / 记号；否定
+    zh: 标记；表示
+    role: root
+    is_core: true
+  - morpheme: as
+    form: as
+    meaning_in_word: as / 如；作为
+    zh: 如；作为
+    role: connector
+    is_core: false
+  - morpheme: yet
+    form: yet
+    meaning_in_word: yet; up to now / 尚；迄今
+    zh: 尚；迄今
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

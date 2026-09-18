@@ -1,0 +1,26 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chill
+word: chill
+pos: verb/noun
+zh: 使冷；变冷；寒意；寒战
+en: to make or become cold, or a cold feeling
+components:
+  - morpheme: chill
+    form: chill
+    meaning_in_word: cold
+    zh: 冷；寒意
+    role: root
+    is_core: true
+word_family:
+  - chilly
+word_family_details:
+  - word: chilly
+    en: Means 寒冷的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 寒冷的
+confusables:
+  - word: chilli
+    reason: chill out 是放松；chilli 是辣椒，不同源。
+    zh_reason: chill out 是放松；chilli 是辣椒，不同源。
+examples:
+  []
+why_confusing: chill out 是放松；chilli 是辣椒，不同源。

@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: furnished
+word: furnished
+pos: adjective
+zh: 配有家具的
+en: equipped with furniture
+components:
+  - morpheme: furn
+    form: furn
+    meaning_in_word: equip, advance / 装备；推进
+    zh: 装备；推进
+    role: root
+    is_core: true
+    note: furnish 的 -ish 对应法语扩展词干 -iss-，不是像某物的形容词 -ish；furniture 的 fournit- 保存法语派生层后加 -ure。更深日耳曼 *frumjan 推进，不是 fur 皮毛或 fornax 炉。
+    related_morphemes:
+      - from
+  - morpheme: ish-romance
+    form: -ish
+    meaning_in_word: verb-forming ending / 动词构词结尾
+    zh: 动词构词结尾
+    role: suffix
+    is_core: false
+    note: flourish/furnish 的 -ish 源于罗曼语动词扩展层，不同于 childish 的像……。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - furnish
+  - furnishing
+  - furnishings
+  - furniture
+word_family_details:
+  - word: furnish
+    en: to provide furniture for
+    zh: 为……配备家具
+  - word: furnishing
+    en: an item used to equip or decorate a room, usually in the plural furnishings
+    zh: 家具或室内陈设（通常用复数 furnishings）
+  - word: furnishings
+    en: furniture and other items used to equip a room
+    zh: 家具及室内陈设
+  - word: furniture
+    en: movable objects such as tables, chairs, and beds used in a building
+    zh: 家具
+confusables:
+  []
+examples:
+  []
+why_confusing: 

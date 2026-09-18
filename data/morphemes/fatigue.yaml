@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fatigue
+display: fatigue
+type: root
+core_meaning: weary, tire out
+zh: 疲惫
+origin: Latin
+source_form: French fatigue; Latin fatigare
+source_meaning: weary, tire out
+source_meaning_zh: 疲惫
+source_note: 深层通常解释为 *fati- 崩解 + agere 驱动，但 *fatis 来源未定；保留 fatigue，不能接 fatal 的命运根。
+related_morphemes:
+  []
+senses:
+  - meaning: weary, tire out
+    zh: 疲惫
+    examples:
+      - fatigue
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fatigue -> fatigue
+high_value_words:
+  - fatigue
+confusable_words:
+  []

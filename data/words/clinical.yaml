@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clinical
+word: clinical
+pos: adjective
+zh: 临床的；冷静客观的
+en: related to medical treatment of patients, or coldly objective
+components:
+  - morpheme: clin
+    form: clin
+    meaning_in_word: sickbed
+    zh: 门诊；临床
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ical
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - clinic
+word_family_details:
+  - word: clinic
+    en: a place where people receive medical treatment or advice
+    zh: 门诊所；诊所
+confusables:
+  []
+examples:
+  []
+why_confusing: clinical trial 是临床试验。

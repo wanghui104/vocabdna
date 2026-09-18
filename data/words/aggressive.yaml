@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aggressive
+word: aggressive
+pos: adjective
+zh: 强有力的；坚持己见的
+en: forceful, determined, and energetic
+components:
+  - morpheme: ad
+    form: ag-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: grad-gress
+    form: gress
+    meaning_in_word: step, go
+    zh: 迈步；前进
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: tending to
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - aggressiveness
+word_family_details:
+  - word: aggressiveness
+    en: the quality of being forceful, determined, or ready to attack
+    zh: 侵略性；争斗性；强势
+confusables:
+  []
+examples:
+  - en: The company followed an aggressive growth strategy.
+    zh: 公司采取了积极强势的增长策略。
+  - en: The animal became aggressive when threatened.
+    zh: 动物受到威胁时变得有攻击性。
+why_confusing: 可正面表示进取，也可负面表示好斗。

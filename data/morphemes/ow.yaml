@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ow
+display: -ow
+type: suffix
+core_meaning: ow
+zh: ow
+origin: teaching morphology
+source_form: ow
+source_meaning: ow
+source_meaning_zh: ow
+related_morphemes:
+  []
+senses:
+  - meaning: ow
+    zh: ow
+    examples:
+      - owing to
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ow -> owing to
+high_value_words:
+  - owing to
+confusable_words:
+  []

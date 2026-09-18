@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tribe
+display: tribe
+type: root
+core_meaning: tribe
+zh: 部落
+origin: teaching morphology
+source_form: tribe
+source_meaning: tribe
+source_meaning_zh: 部落
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: tribe
+    zh: 部落
+    examples:
+      - tribal
+      - tribe
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tribe -> tribal
+  - tribe -> tribe
+high_value_words:
+  - tribal
+  - tribe
+confusable_words:
+  []

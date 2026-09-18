@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: constrain
+word: constrain
+pos: verb
+zh: 抑制，拘束
+en: Means 抑制，拘束; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together; with / 共同；一起
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: strain
+    form: strain
+    meaning_in_word: strain; draw tight / 拉紧；血统；过滤
+    zh: 约束；限制
+    role: root
+    is_core: true
+word_family:
+  - constraint
+  - strain
+word_family_details:
+  - word: constraint
+    en: Means 约束，强制; reviewed from the TOEFL source gloss for learner display.
+    zh: 约束，强制
+  - word: strain
+    en: Means 过度的疲劳，紧张；血统；物种；过滤; reviewed from the TOEFL source gloss for learner display.
+    zh: 过度的疲劳，紧张；血统；物种；过滤
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

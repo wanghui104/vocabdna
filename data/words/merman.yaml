@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: merman
+word: merman
+pos: noun
+zh: 男性人鱼；上半身为男子、下半身为鱼尾的传说海中生物
+en: A legendary sea creature imagined with a man's upper body and a fish tail.
+components:
+  - morpheme: mere
+    form: mer
+    meaning_in_word: sea, lake, water
+    zh: 海；湖；水域
+    role: root
+    is_core: true
+  - morpheme: man
+    form: man
+    meaning_in_word: man, human
+    zh: 人
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The painting shows a merman rising from the waves.
+    zh: 画中有一位男性人鱼从海浪中升起。
+why_confusing: Merman is a counterpart to mermaid, not a derivative form of the word mermaid.

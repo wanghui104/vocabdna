@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: unprecedented
+word: unprecedented
+pos: adjective
+zh: 前所未有的，空前的
+en: Means 前所未有的，空前的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: un
+    form: un-
+    meaning_in_word: not; reverse / 不；反向
+    zh: 不；相反
+    role: prefix
+    is_core: false
+  - morpheme: pre
+    form: pre
+    meaning_in_word: before / 预先、在前
+    zh: 预先、在前
+    role: root
+    is_core: true
+  - morpheme: ced
+    form: ced
+    meaning_in_word: go / 走
+    zh: 走
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having quality / 具有…性质
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past participle / 过去分词
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

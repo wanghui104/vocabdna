@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: remarkable
+word: remarkable
+pos: adjective
+zh: 显著的，值得注意的
+en: Means 显著的，值得注意的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: mark
+    form: mark
+    meaning_in_word: mark; remark / 标记；评论
+    zh: mark
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be / 可…的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - remark
+  - remarkably
+word_family_details:
+  - word: remark
+    en: Means 评论，注释；评论；谈及; reviewed from the TOEFL source gloss for learner display.
+    zh: 评论，注释；评论；谈及
+  - word: remarkably
+    en: Means 显著地，引人注目地; reviewed from the TOEFL source gloss for learner display.
+    zh: 显著地，引人注目地
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

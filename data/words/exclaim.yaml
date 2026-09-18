@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exclaim
+word: exclaim
+pos: verb
+zh: 惊叫；大声说
+en: to speak or cry out suddenly with strong feeling
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out or thoroughly (intensive here) / 加强；彻底
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: claim-clam
+    form: claim
+    meaning_in_word: cry out, proclaim / 呼喊、宣称
+    zh: 呼喊、宣称
+    role: root
+    is_core: true
+word_family:
+  - exclamation
+word_family_details:
+  - word: exclamation
+    en: a sudden spoken expression of strong feeling
+    zh: 惊叹；感叹
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: great
+display: great
+type: root
+core_meaning: large, important
+zh: 大的；重要的
+origin: Old English
+source_form: Old English great
+source_meaning: large, coarse, big
+source_meaning_zh: 大的；粗大的
+related_morphemes:
+  []
+senses:
+  - meaning: large, important
+    zh: 大的；重要的
+    examples:
+      - a great deal
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - great -> a great deal
+high_value_words:
+  - a great deal
+confusable_words:
+  []

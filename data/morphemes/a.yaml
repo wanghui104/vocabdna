@@ -1,0 +1,97 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: a
+display: a-
+type: prefix
+core_meaning: on, in, of; completive
+zh: 在；属于；完成性
+origin: Old English
+source_form: Old English a-, reduced Middle English a-
+source_meaning: on, in, of; completive prefix
+source_meaning_zh: 在、处于、属于；完成性前缀
+source_note: Used for native or reduced a- in words such as akin and afford; kept separate from Latin ad-.
+related_morphemes:
+  []
+senses:
+  - meaning: on, in, of; completive
+    zh: 在；属于；完成性
+    examples:
+      - a pivotal figure
+      - a range of
+      - afford
+      - affordable
+      - ajar
+      - akin
+      - alike
+      - aloft
+      - aloof
+      - amaze
+      - amid
+      - arouse
+      - ascent
+      - aspect
+      - asymmetrical
+      - avenue
+      - avocation
+      - from afar
+      - mania
+      - nowadays
+      - phenomena
+      - quota
+      - replica
+      - strata
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - a -> a pivotal figure
+  - a -> a range of
+  - a- -> afford
+  - a- -> affordable
+  - a- -> ajar
+  - a- -> akin
+  - a- -> alike
+  - a- -> aloft
+  - a- -> aloof
+  - a- -> amaze
+  - a- -> amid
+  - a- -> arouse
+  - a -> ascent
+  - a -> aspect
+  - a- -> asymmetrical
+  - a- -> avenue
+  - a- -> avocation
+  - a- -> from afar
+  - a- -> mania
+  - a -> nowadays
+  - a -> phenomena
+  - -a -> quota
+  - a -> replica
+  - -a -> strata
+high_value_words:
+  - a pivotal figure
+  - a range of
+  - afford
+  - affordable
+  - ajar
+  - akin
+  - alike
+  - aloft
+  - aloof
+  - amaze
+  - amid
+  - arouse
+  - ascent
+  - aspect
+  - asymmetrical
+  - avenue
+  - avocation
+  - from afar
+  - mania
+  - nowadays
+  - phenomena
+  - quota
+  - replica
+  - strata
+confusable_words:
+  []

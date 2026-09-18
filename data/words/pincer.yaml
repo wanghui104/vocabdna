@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pincer
+word: pincer
+pos: noun
+zh: 螯；（复数 pincers）钳子
+en: a claw used for gripping; in the plural, a hinged gripping tool
+components:
+  - morpheme: pinch
+    form: pinc
+    meaning_in_word: pinch or grip / 夹捏
+    zh: 捏；两点夹紧
+    role: root
+    is_core: true
+    note: pinc- 是法语同源词干，对应 pinch；现代 pincer 是借入词，不是英语 pinch 规则去掉 h。
+  - morpheme: er
+    form: -er
+    meaning_in_word: agent or instrument / 施动者或工具
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: 教学层面对应施动/工具结尾；历史形式是古法语 pinceor、pinceour。
+word_family:
+  - pincers
+word_family_details:
+  - word: pincers
+    en: a tool with two opposing jaws for gripping or pulling
+    zh: 钳子；夹钳
+confusables:
+  []
+examples:
+  - en: The lobster raised one pincer.
+    zh: 龙虾举起了一只螯。
+why_confusing: 一只螯可用 a pincer；工具通常用复数 pincers，计件说 a pair of pincers。pincer movement 指钳形夹击。

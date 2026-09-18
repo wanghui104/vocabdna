@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: iod
+display: iod
+type: root
+core_meaning: way; period path
+zh: 路径；周期
+origin: teaching morphology
+source_form: iod
+source_meaning: way; period path
+source_meaning_zh: 路径；周期
+related_morphemes:
+  []
+senses:
+  - meaning: way; period path
+    zh: 路径；周期
+    examples:
+      - period
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - iod -> period
+high_value_words:
+  - period
+confusable_words:
+  []

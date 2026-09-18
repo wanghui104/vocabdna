@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: alternative
+word: alternative
+pos: adjective/noun
+zh: 另一可选的；另外的
+en: available as another possibility or choice
+components:
+  - morpheme: al-other
+    form: altern
+    meaning_in_word: other, by turns
+    zh: 其他；另一边
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ative
+    meaning_in_word: having the nature of
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: alternately
+    reason: alternative 作名词时常接 to；不要自动当成 alternate 的同义词。
+    zh_reason: alternative 作名词时常接 to；不要自动当成 alternate 的同义词。
+examples:
+  []
+why_confusing: alternative 作名词时常接 to；不要自动当成 alternate 的同义词。

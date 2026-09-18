@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sed
+display: sed
+type: root
+core_meaning: sit, settle
+zh: 坐；安置
+origin: Latin
+source_form: Latin sedere
+source_meaning: to sit
+source_meaning_zh: 坐
+related_morphemes:
+  []
+senses:
+  - meaning: sit, settle
+    zh: 坐；安置
+    examples:
+      - assess
+      - assessment
+      - at one session
+      - sedentary
+      - sediment
+      - sedimentary
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sess -> assess
+  - sess -> assessment
+  - session -> at one session
+  - sed -> sedentary
+  - sed -> sediment
+  - sed -> sedimentary
+high_value_words:
+  - assess
+  - assessment
+  - at one session
+  - sedentary
+  - sediment
+  - sedimentary
+confusable_words:
+  []

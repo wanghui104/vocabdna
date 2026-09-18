@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: break-all-ties-with
+word: break all ties with
+pos: phrase
+zh: 与…断绝一切关系
+en: to end all connections with someone or something
+components:
+  - morpheme: break
+    form: break
+    meaning_in_word: sever
+    zh: 打破；破裂
+    role: root
+    is_core: true
+  - morpheme: tie
+    form: ties
+    meaning_in_word: connections
+    zh: 系；关系
+    role: root
+    is_core: true
+  - morpheme: with
+    form: with
+    meaning_in_word: with
+    zh: 与；相对
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于关系、组织或国家之间。

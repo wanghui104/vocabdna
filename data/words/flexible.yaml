@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flexible
+word: flexible
+pos: adjective
+zh: 柔韧的；易弯的
+en: able to bend easily
+components:
+  - morpheme: flex
+    form: flex
+    meaning_in_word: bend / 弯曲
+    zh: 弯曲
+    role: root
+    is_core: true
+    note: flex- 是分词词干；flexible = flex + -ible，flexibility = flex + -ibil- + -ity。
+  - morpheme: able
+    form: -ible
+    meaning_in_word: able to be / 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.
+word_family:
+  - flexibility
+  - flexibly
+word_family_details:
+  - word: flexibility
+    en: the ability to bend or adapt easily
+    zh: 柔韧性；灵活性
+  - word: flexibly
+    en: in an adaptable or pliable way
+    zh: 灵活地；柔韧地
+confusables:
+  []
+examples:
+  []
+why_confusing: 

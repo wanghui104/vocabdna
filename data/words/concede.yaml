@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: concede
+word: concede
+pos: verb
+zh: 承认；让步
+en: to admit something is true or yield after resistance
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together/intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: excess-ceed
+    form: cede
+    meaning_in_word: go, yield
+    zh: 走；让步
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: concede that...；concede defeat。

@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conventional
+word: conventional
+pos: adjective
+zh: 传统的；习俗的；常规的
+en: following accepted customs or usual ways
+components:
+  - morpheme: ven-vent
+    form: convention
+    meaning_in_word: custom
+    zh: 来到；出现
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - convention
+  - conventionally
+  - unconventional
+word_family_details:
+  - word: convention
+    en: a large formal meeting, or an accepted custom/rule
+    zh: 会议；大会；传统；惯例
+  - word: conventionally
+    en: in a traditional or usual way
+    zh: 按照惯例地；照常套地
+  - word: unconventional
+    en: Means 非传统的，与先前不同的; reviewed from the TOEFL source gloss for learner display.
+    zh: 非传统的，与先前不同的
+confusables:
+  []
+examples:
+  []
+why_confusing: conventional wisdom/method/weapons 常见。

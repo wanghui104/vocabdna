@@ -19,14 +19,10 @@ components:
     is_core: true
 word_family:
   - construction
-  - constructive
 word_family_details:
   - word: construction
-    en: related form of construction
-    zh: construction 的相关词
-  - word: constructive
-    en: related form of constructive
-    zh: constructive 的相关词
+    en: the act of building, the thing built, or the way something is interpreted
+    zh: 建筑；建造；构造；解释
 confusables:
   - word: constitute
     reason: construct 强调建造；constitute 强调构成。

@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: drop-in
+word: drop in
+pos: phrase
+zh: 顺便拜访
+en: to visit informally without a prior arrangement
+components:
+  - morpheme: drop
+    form: drop
+    meaning_in_word: fall, small drop / 落下；小滴
+    zh: 落下；小滴
+    role: root
+    is_core: true
+  - morpheme: in-word
+    form: in
+    meaning_in_word: in / 在内；参与其中
+    zh: 在内；向内
+    role: connector
+    is_core: false
+    note: 独立英语介词或小品词 in，来自 Old English in，不是构词前缀。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dense
+word: dense
+pos: adjective
+zh: 密集的；浓厚的；稠密的
+en: closely packed, thick, or difficult to see or understand through
+components:
+  - morpheme: dense
+    form: dense
+    meaning_in_word: thick, close
+    zh: 浓缩；冷凝
+    role: root
+    is_core: true
+word_family:
+  - density
+word_family_details:
+  - word: density
+    en: the degree to which matter, people, or things are packed into a space
+    zh: 密度；密集程度
+confusables:
+  []
+examples:
+  []
+why_confusing: dense forest/fog/text 都可用。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: heredity
+word: heredity
+pos: noun
+zh: 遗传
+en: Means 遗传; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hered
+    form: hered
+    meaning_in_word: hered
+    zh: 继承人
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hered.
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: Suffix layer from Latin -itas, -itatis.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

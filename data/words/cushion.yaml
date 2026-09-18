@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cushion
+word: cushion
+pos: noun/verb
+zh: 垫子；软垫
+en: a soft pad used for comfort or support
+components:
+  - morpheme: cushion
+    form: cushion
+    meaning_in_word: soft pad
+    zh: 软垫；缓冲
+    role: root
+    is_core: true
+    note: 表层 cushion；Old French coissin 座垫。更深层可能来自 Latin coxa 臀部，也有 culcita 床垫解释，尚不唯一；不强拆 cush- + -ion。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 作动词时常指缓冲坏影响。

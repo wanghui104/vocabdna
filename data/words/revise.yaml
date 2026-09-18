@@ -2,32 +2,33 @@
 id: revise
 word: revise
 pos: verb
-zh: 修订；复习
-en: to review and change or study again
+zh: 修改，修订
+en: Means 修改，修订; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: re
     form: re-
-    meaning_in_word: again
+    meaning_in_word: back; again / 回；再
     zh: 回、再、反向
     role: prefix
     is_core: false
   - morpheme: vis
     form: vis
-    meaning_in_word: see
+    meaning_in_word: see; revise / 看；修订
     zh: 看、可见
     role: root
     is_core: true
+  - morpheme: e
+    form: e
+    meaning_in_word: e / e
+    zh: 出；离开；加强
+    role: root
+    is_core: true
 word_family:
-  - revision
+  []
 word_family_details:
-  - word: revision
-    en: related form of revision
-    zh: revision 的相关词
+  []
 confusables:
-  - word: review
-    reason: revise 常含修改；review 可只是回顾。
-    zh_reason: revise 常含修改；review 可只是回顾。
+  []
 examples:
-  - en: She revised the essay after feedback.
-    zh: 她根据反馈修订了文章。
-why_confusing: revise 常含修改；review 可只是回顾。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

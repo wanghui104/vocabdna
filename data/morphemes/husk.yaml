@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: husk
+display: husk
+type: root
+core_meaning: draft meaning for husk
+zh: （果类或谷物）外壳；皮；剥…的壳；削皮
+origin: Unknown
+source_form: TOEFL draft opaque stem: husk
+source_meaning: draft learner stem for husk
+source_meaning_zh: （果类或谷物）外壳；皮；剥…的壳；削皮
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for husk
+    zh: （果类或谷物）外壳；皮；剥…的壳；削皮
+    examples:
+      - husk
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - husk -> husk
+high_value_words:
+  - husk
+confusable_words:
+  []

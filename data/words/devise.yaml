@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: devise
+word: devise
+pos: verb
+zh: 设计；发明；想出
+en: to invent, plan, or think out a method
+components:
+  - morpheme: dis
+    form: de-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: vid
+    form: vise
+    meaning_in_word: divide, arrange / 分开；安排
+    zh: 分开；安排
+    role: root
+    is_core: true
+    note: vid-/vis-/vic- 表分开：Latin dividere = dis- + -videre 分离；*divisare → Old French deviser 安排 → device/devise。不是 Latin videre 看见的同形词根。
+    related_morphemes:
+      - dis
+word_family:
+  - device
+word_family_details:
+  - word: device
+    en: a tool, machine, or plan made for a particular purpose
+    zh: 器械；装置；手段
+confusables:
+  []
+examples:
+  []
+why_confusing: devise 是想出方法；divide 是分开，来源相连但现代词义不同。

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: condenser
+word: condenser
+pos: noun
+zh: 冷凝器；电容器
+en: a device that condenses vapor, concentrates light, or stores electric charge
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: with, together / 共同、一起、加强
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: dense
+    form: dens
+    meaning_in_word: make dense, condense / 浓缩；冷凝
+    zh: 浓缩；冷凝
+    role: root
+    is_core: true
+  - morpheme: er
+    form: -er
+    meaning_in_word: one who does / ……者；……物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+word_family:
+  - condense
+word_family_details:
+  - word: condense
+    en: to make denser, change vapor to liquid, or make writing shorter
+    zh: 使浓缩；使冷凝；精简
+confusables:
+  []
+examples:
+  []
+why_confusing: technical noun, often in machines, optics, or electronics.

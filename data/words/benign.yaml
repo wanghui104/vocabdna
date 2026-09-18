@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: benign
+word: benign
+pos: adjective
+zh: 良性的；亲切和蔼的
+en: kind and gentle, or not harmful, especially of a tumor
+components:
+  - morpheme: bene
+    form: bene-
+    meaning_in_word: good
+    zh: 好、善
+    role: prefix
+    is_core: false
+  - morpheme: gen
+    form: gn
+    meaning_in_word: born
+    zh: 出生；种类
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 医学中 benign tumor 是良性肿瘤。

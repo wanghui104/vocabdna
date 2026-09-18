@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: district
+word: district
+pos: noun
+zh: 地区；行政区
+en: an area defined for administration or by a shared characteristic
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: strict
+    form: strict
+    meaning_in_word: tighten, constrict / 收缩；约束
+    zh: 收缩；约束
+    role: root
+    is_core: true
+    note: di- + strict-，来自 Latin distringere 的分词 districtus，先为司法约束/管辖再为管辖区域。不是“严格的地区”这一现代组合。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: di- + strict-，来自 Latin distringere 的分词 districtus，先为司法约束/管辖再为管辖区域。不是“严格的地区”这一现代组合。

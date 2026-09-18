@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: buddy
+display: buddy
+type: root
+core_meaning: buddy
+zh: 密友；伙伴
+origin: Unknown
+source_form: American English buddy
+source_meaning: companion, pal
+source_meaning_zh: 伙伴；朋友
+related_morphemes:
+  []
+senses:
+  - meaning: buddy
+    zh: 密友；伙伴
+    examples:
+      - buddy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - buddy -> buddy
+high_value_words:
+  - buddy
+confusable_words:
+  []

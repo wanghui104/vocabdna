@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: finger
+display: finger
+type: root
+core_meaning: finger
+zh: 手指
+origin: Old English
+source_form: finger
+source_meaning: finger
+source_meaning_zh: 手指
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: finger
+    zh: 手指
+    examples:
+      - fingertip
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - finger -> fingertip
+high_value_words:
+  - fingertip
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: animated
+word: animated
+pos: adjective
+zh: 活生生的；活泼的；生动的
+en: full of life and energy, or made to appear moving
+components:
+  - morpheme: anim
+    form: anim
+    meaning_in_word: life, spirit
+    zh: 生命；活力
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: completed state
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

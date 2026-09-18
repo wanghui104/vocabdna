@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: barren
+word: barren
+pos: adjective
+zh: 贫瘠的；荒凉的
+en: unable to produce plants, children, or useful results
+components:
+  - morpheme: barren
+    form: barren
+    meaning_in_word: sterile
+    zh: 贫瘠的；荒凉的
+    role: root
+    is_core: true
+word_family:
+  - barrenness
+word_family_details:
+  - word: barrenness
+    en: the state of being barren, empty, or unproductive
+    zh: 荒凉；贫瘠；不育
+confusables:
+  []
+examples:
+  []
+why_confusing: 可形容土地、计划、讨论或人。

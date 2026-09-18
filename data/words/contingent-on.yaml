@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contingent-on
+word: contingent on
+pos: phrase
+zh: 取决于；以……为条件
+en: dependent on a condition, event, or decision
+components:
+  - morpheme: tang
+    form: contingent
+    meaning_in_word: dependent on conditions
+    zh: 触碰；达到
+    role: root
+    is_core: true
+  - morpheme: on
+    form: -on
+    meaning_in_word: on, depending on
+    zh: 在上；继续
+    role: suffix
+    is_core: false
+word_family:
+  - contingent
+  - contingency
+  - contingently
+word_family_details:
+  - word: contingent
+    en: depending on something else that may or may not happen
+    zh: 取决于条件的；视情况而定的
+  - word: contingency
+    en: a possible event or condition that may need to be prepared for
+    zh: 可能发生的事；意外情况；应急情况
+  - word: contingently
+    en: in a way that depends on conditions or chance
+    zh: 有条件地；偶然地；视情况而定地
+confusables:
+  []
+examples:
+  - en: Funding is contingent on meeting the deadline.
+    zh: 资金拨付取决于是否按期完成。
+why_confusing: contingent on 和 contingent upon 意思相同，upon 更正式。

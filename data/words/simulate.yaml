@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: simulate
+word: simulate
+pos: verb
+zh: 模拟，模仿
+en: Means 模拟，模仿; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: simul
+    form: simul
+    meaning_in_word: like; together / 相似；一起
+    zh: 相似；一起
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: salt; make; having / 盐；使成；具有
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

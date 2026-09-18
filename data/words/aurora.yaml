@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aurora
+word: aurora
+pos: noun
+zh: 极光；晨光
+en: a natural light display in the sky, especially near the poles; historically dawn light
+components:
+  - morpheme: aur
+    form: auror
+    meaning_in_word: dawn light
+    zh: 黎明；晨光
+    role: root
+    is_core: true
+word_family:
+  - auroral
+word_family_details:
+  - word: auroral
+    en: related to an aurora or dawn light
+    zh: 极光的；晨光的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

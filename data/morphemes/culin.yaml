@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: culin
+display: culin
+type: root
+core_meaning: kitchen, cooking
+zh: 厨房；烹调
+origin: Latin
+source_form: Latin culina
+source_meaning: kitchen
+source_meaning_zh: 厨房
+related_morphemes:
+  []
+senses:
+  - meaning: kitchen, cooking
+    zh: 厨房；烹调
+    examples:
+      - culinary
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - culin -> culinary
+high_value_words:
+  - culinary
+confusable_words:
+  []

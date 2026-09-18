@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ferry
+word: ferry
+pos: noun/verb
+zh: 渡船；渡运；渡口
+en: a boat service, boat, or crossing carrying people or goods over water
+components:
+  - morpheme: ferry
+    form: ferry
+    meaning_in_word: carry, convey / 运送
+    zh: 运送
+    role: root
+    is_core: true
+    note: 与 faran 行走同源，本族词；不是 Latin ferre 的直接借词，不拆 -ry。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

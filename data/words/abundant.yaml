@@ -18,7 +18,7 @@ components:
   - morpheme: ent
     form: -ant
     meaning_in_word: having the quality of
-    zh: ……的人；具有……性质的
+    zh: 具有…性质
     role: suffix
     is_core: false
 word_family:

@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frustr
+display: frustr
+type: root
+core_meaning: in vain; deception
+zh: 徒然；欺骗
+origin: Latin
+source_form: Latin frustra, fraus
+source_meaning: in vain; deception
+source_meaning_zh: 徒然；欺骗
+source_note: frustrate = frustr- + -ate；frustra 与 fraus 伤害/欺骗有关，更深不确定。不是 fruit 或 frugal 的果实根。
+related_morphemes:
+  []
+senses:
+  - meaning: in vain; deception
+    zh: 徒然；欺骗
+    examples:
+      - frustrate
+      - frustrated
+      - frustrating
+      - frustration
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - frustr -> frustrate
+  - frustr -> frustrated
+  - frustr -> frustrating
+  - frustr -> frustration
+high_value_words:
+  - frustrate
+  - frustrated
+  - frustrating
+  - frustration
+confusable_words:
+  []

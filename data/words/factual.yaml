@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: factual
+word: factual
+pos: adjective
+zh: 事实的；真实的
+en: based on or concerned with facts
+components:
+  - morpheme: fac
+    form: fact
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ual
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - fact
+word_family_details:
+  - word: fact
+    en: something known or established to be true
+    zh: 事实
+confusables:
+  []
+examples:
+  []
+why_confusing: 

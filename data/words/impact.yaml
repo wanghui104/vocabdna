@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: impact
+word: impact
+pos: noun
+zh: 影响 / 撞击，冲击
+en: Means 影响 / 撞击，冲击; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
+  - morpheme: pact
+    form: pact
+    meaning_in_word: 压紧；紧凑
+    zh: 压紧；紧凑
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:pact.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

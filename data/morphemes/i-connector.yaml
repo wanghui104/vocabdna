@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: i-connector
+display: i
+type: connector
+core_meaning: linking vowel
+zh: 连接元音
+origin: Latin
+source_form: Latin connecting vowel -i-
+source_meaning: linking vowel
+source_meaning_zh: 连接元音
+source_note: 连接复合词的构词成分，不独立承担实义。
+related_morphemes:
+  []
+senses:
+  - meaning: linking vowel
+    zh: 连接元音
+    examples:
+      - petrifaction
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - i -> petrifaction
+high_value_words:
+  - petrifaction
+confusable_words:
+  []

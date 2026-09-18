@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: carving
+word: carving
+pos: noun
+zh: 雕刻品；雕花
+en: an object or pattern made by carving
+components:
+  - morpheme: carve
+    form: carv
+    meaning_in_word: cut, carve
+    zh: 切开；雕刻
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: result
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - carve
+  - carver
+word_family_details:
+  - word: carve
+    en: to cut material into a shape or slice it
+    zh: 切开；雕刻
+  - word: carver
+    en: a person who carves wood, stone, or other material
+    zh: 雕刻匠；雕工
+confusables:
+  []
+examples:
+  []
+why_confusing: carving 也可指雕刻这项活动。

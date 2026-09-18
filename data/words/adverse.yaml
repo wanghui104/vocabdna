@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adverse
+word: adverse
+pos: adjective
+zh: 不利的；敌对的；相反地
+en: Means 不利的；敌对的；相反地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to; toward / 向
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: vers
+    form: vers
+    meaning_in_word: turn / 转；变化
+    zh: 转
+    role: root
+    is_core: true
+word_family:
+  - adversely
+  - adversity
+  - versatile
+  - version
+word_family_details:
+  - word: adversely
+    en: in a way that harms, opposes, or has a negative effect
+    zh: 不利地；相反地
+  - word: adversity
+    en: difficulty, misfortune, or hardship
+    zh: 不幸；逆境；灾难
+  - word: versatile
+    en: Means 多才多艺的；通用的；可塑的，可变形的; reviewed from the TOEFL source gloss for learner display.
+    zh: 多才多艺的；通用的；可塑的，可变形的
+  - word: version
+    en: Means 译本，译文；一种描述; reviewed from the TOEFL source gloss for learner display.
+    zh: 译本，译文；一种描述
+confusables:
+  - word: averse
+    reason: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。
+    zh_reason: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: amenable
+word: amenable
+pos: adjective
+zh: 顺从的；乐于接受的
+en: willing to accept a suggestion or be influenced
+components:
+  - morpheme: mener
+    form: amen
+    meaning_in_word: lead, bring under control
+    zh: 引导；使服从
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: amenity
+    reason: 常用 amenable to，表示愿意接受或受……约束；不要和 amenity/amend 混。
+    zh_reason: 常用 amenable to，表示愿意接受或受……约束；不要和 amenity/amend 混。
+  - word: amendment
+    reason: 常用 amenable to，表示愿意接受或受……约束；不要和 amenity/amend 混。
+    zh_reason: 常用 amenable to，表示愿意接受或受……约束；不要和 amenity/amend 混。
+examples:
+  []
+why_confusing: 常用 amenable to，表示愿意接受或受……约束；不要和 amenity/amend 混。

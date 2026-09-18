@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: illuminate
+word: illuminate
+pos: verb
+zh: 照明，照亮 / 说明，阐明
+en: Means 照明，照亮 / 说明，阐明; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: il
+    form: il-
+    meaning_in_word: 不；入
+    zh: 不；入
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:il.
+  - morpheme: lumin
+    form: lumin
+    meaning_in_word: 光
+    zh: 光
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:lumin.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ate.
+word_family:
+  - illumination
+word_family_details:
+  - word: illumination
+    en: Means 照明；启发; reviewed from the TOEFL source gloss for learner display.
+    zh: 照明；启发
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

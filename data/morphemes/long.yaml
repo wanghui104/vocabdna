@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: long
+display: long
+type: root
+core_meaning: long
+zh: 长
+origin: Latin
+source_form: Latin longus
+source_meaning: long
+source_meaning_zh: 长
+source_note: elongate 中为拉丁 longus，不是前缀 el-。
+related_morphemes:
+  []
+senses:
+  - meaning: long
+    zh: 长
+    examples:
+      - elongate
+      - long-lasting
+      - long-range
+      - long-standing
+      - longitude
+      - prolong
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - long -> elongate
+  - long -> long-lasting
+  - long -> long-range
+  - long -> long-standing
+  - long -> longitude
+  - long -> prolong
+high_value_words:
+  - elongate
+  - long-lasting
+  - long-range
+  - long-standing
+  - longitude
+  - prolong
+confusable_words:
+  []

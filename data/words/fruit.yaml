@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fruit
+word: fruit
+pos: noun
+zh: 果实；水果
+en: a seed-bearing plant structure, especially an edible one
+components:
+  - morpheme: fruit
+    form: fruit
+    meaning_in_word: produce, enjoyment / 果实；收益
+    zh: 果实；收益
+    role: root
+    is_core: true
+    note: fruit 深层 fructus 来自 frui 享用 + -tus 名词层；fruitful/fruitless 再加英语后缀。
+    related_morphemes:
+      - frug
+word_family:
+  - fruitful
+  - fruitfulness
+  - fruitless
+  - fruitlessly
+word_family_details:
+  - word: fruitful
+    en: producing good results
+    zh: 富有成效的
+  - word: fruitfulness
+    en: the ability to produce useful results or abundant fruit
+    zh: 丰产；成果丰硕
+  - word: fruitless
+    en: producing no useful result
+    zh: 徒劳的；无成果的
+  - word: fruitlessly
+    en: without achieving a useful result
+    zh: 徒劳地
+confusables:
+  []
+examples:
+  []
+why_confusing: 

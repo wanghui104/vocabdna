@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: delicate
+word: delicate
+pos: adjective
+zh: 脆弱的；娇弱的；精致的；细腻的
+en: easily damaged, needing careful handling, or finely made
+components:
+  - morpheme: lect-delight
+    form: delic
+    meaning_in_word: delight, dainty, alluring
+    zh: 愉悦；美味；精致
+    role: root
+    is_core: true
+    note: 表层 delect-/delic- 引诱、使愉悦；Latin delectare 为 delicere 的反复式，深层 de- 离开 + lacere 引诱。不是 legere 读、选择。delectable 保留 delect- + -able；delicate/delicious 保留 delic-。
+    related_morphemes:
+      - de
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: having quality
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: delicate issue 是微妙问题，不是易碎物。

@@ -14,29 +14,296 @@ senses:
   - meaning: having the nature of, tending to
     zh: 具有……性质的；倾向于……的
     examples:
-      - inductive
-      - competitive
-      - receptive
       - abrasive
       - activate
       - actively
+      - adaptive
+      - additive
+      - adhesive
+      - administrative
+      - affective
+      - aggressive
+      - aggressiveness
+      - all-inclusive
+      - alternative
+      - attractive
+      - automotive
+      - cognitive
+      - cohesive
+      - competitive
+      - competitiveness
+      - comprehensive
+      - conclusive
+      - consecutive
+      - conservative
+      - cooperative
+      - corrosive
+      - deceptive
+      - decorative
+      - defective
+      - defensive
+      - definitive
+      - derivative
+      - destructive
+      - detective
+      - digestive
+      - distinctive
+      - distinctively
+      - effective
+      - effectiveness
+      - elusive
+      - excessive
+      - exclusive
+      - exclusively
+      - executive
+      - explosive
+      - expressive
+      - extensive
+      - festival
+      - festive
+      - festivity
+      - formative
+      - illusive
+      - imperative
+      - impressive
+      - incentive
+      - incisive
+      - inclusive
+      - inconclusive
+      - inductive
+      - informative
+      - inoffensive
+      - instinctive
+      - instinctively
+      - instructive
+      - intensive
+      - interactive
+      - introspective
+      - locomotive
+      - massive
+      - most distinctive
+      - motive
+      - native to
+      - objective
+      - offensive
+      - passive
+      - pensive
+      - perceptive
+      - permissive
+      - perspective
+      - persuasive
+      - positive
+      - predictive
+      - progressive
+      - prohibitive
+      - prohibitively
+      - receptive
+      - refractive
+      - respective
+      - respectively
+      - responsive
+      - restrictive
+      - retentive
+      - retrospective
+      - substantive
+      - subtractive
+      - subversive
+      - successive
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - -ive -> inductive
-  - -ive -> competitive
-  - -ive -> receptive
   - -ive -> abrasive
   - -iv -> activate
   - -ive -> actively
+  - -ive -> adaptive
+  - -itive -> additive
+  - -ive -> adhesive
+  - -ative -> administrative
+  - -ive -> affective
+  - -ive -> aggressive
+  - -ive -> aggressiveness
+  - -ive -> all-inclusive
+  - -ative -> alternative
+  - -ive -> attractive
+  - -ive -> automotive
+  - -ive -> cognitive
+  - -ive -> cohesive
+  - -ive -> competitive
+  - -ive -> competitiveness
+  - -ive -> comprehensive
+  - -ive -> conclusive
+  - -ive -> consecutive
+  - -ative -> conservative
+  - -ative -> cooperative
+  - -ive -> corrosive
+  - -ive -> deceptive
+  - -ative -> decorative
+  - -ive -> defective
+  - -ive -> defensive
+  - -ive -> definitive
+  - -ative -> derivative
+  - -ive -> destructive
+  - -ive -> detective
+  - -ive -> digestive
+  - -ive -> distinctive
+  - -ive -> distinctively
+  - -ive -> effective
+  - -ive -> effectiveness
+  - -ive -> elusive
+  - -ive -> excessive
+  - -ive -> exclusive
+  - -ive -> exclusively
+  - -ive -> executive
+  - -ive -> explosive
+  - -ive -> expressive
+  - -ive -> extensive
+  - -iv -> festival
+  - -ive -> festive
+  - -iv -> festivity
+  - -ive -> formative
+  - -ive -> illusive
+  - -ive -> imperative
+  - -ive -> impressive
+  - -ive -> incentive
+  - -ive -> incisive
+  - -ive -> inclusive
+  - -ive -> inconclusive
+  - -ive -> inductive
+  - -ive -> informative
+  - -ive -> inoffensive
+  - -ive -> instinctive
+  - -ive -> instinctively
+  - -ive -> instructive
+  - -ive -> intensive
+  - -ive -> interactive
+  - -ive -> introspective
+  - -ive -> locomotive
+  - -ive -> massive
+  - -ive -> most distinctive
+  - -ive -> motive
+  - -ive -> native to
+  - -ive -> objective
+  - -ive -> offensive
+  - -ive -> passive
+  - -ive -> pensive
+  - -ive -> perceptive
+  - -ive -> permissive
+  - -ive -> perspective
+  - -ive -> persuasive
+  - -ive -> positive
+  - -ive -> predictive
+  - -ive -> progressive
+  - -ive -> prohibitive
+  - -ive -> prohibitively
+  - -ive -> receptive
+  - -ive -> refractive
+  - -ive -> respective
+  - -ive -> respectively
+  - -ive -> responsive
+  - -ive -> restrictive
+  - -ive -> retentive
+  - -ive -> retrospective
+  - -ive -> substantive
+  - -ive -> subtractive
+  - -ive -> subversive
+  - -ive -> successive
 high_value_words:
-  - inductive
-  - competitive
-  - receptive
   - abrasive
   - activate
   - actively
+  - adaptive
+  - additive
+  - adhesive
+  - administrative
+  - affective
+  - aggressive
+  - aggressiveness
+  - all-inclusive
+  - alternative
+  - attractive
+  - automotive
+  - cognitive
+  - cohesive
+  - competitive
+  - competitiveness
+  - comprehensive
+  - conclusive
+  - consecutive
+  - conservative
+  - cooperative
+  - corrosive
+  - deceptive
+  - decorative
+  - defective
+  - defensive
+  - definitive
+  - derivative
+  - destructive
+  - detective
+  - digestive
+  - distinctive
+  - distinctively
+  - effective
+  - effectiveness
+  - elusive
+  - excessive
+  - exclusive
+  - exclusively
+  - executive
+  - explosive
+  - expressive
+  - extensive
+  - festival
+  - festive
+  - festivity
+  - formative
+  - illusive
+  - imperative
+  - impressive
+  - incentive
+  - incisive
+  - inclusive
+  - inconclusive
+  - inductive
+  - informative
+  - inoffensive
+  - instinctive
+  - instinctively
+  - instructive
+  - intensive
+  - interactive
+  - introspective
+  - locomotive
+  - massive
+  - most distinctive
+  - motive
+  - native to
+  - objective
+  - offensive
+  - passive
+  - pensive
+  - perceptive
+  - permissive
+  - perspective
+  - persuasive
+  - positive
+  - predictive
+  - progressive
+  - prohibitive
+  - prohibitively
+  - receptive
+  - refractive
+  - respective
+  - respectively
+  - responsive
+  - restrictive
+  - retentive
+  - retrospective
+  - substantive
+  - subtractive
+  - subversive
+  - successive
 confusable_words:
   []

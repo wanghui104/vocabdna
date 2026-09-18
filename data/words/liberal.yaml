@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: liberal
+word: liberal
+pos: adjective
+zh: 开放的,主张变革的,自由主义的 / 慷慨的，不拘泥的
+en: Means 开放的,主张变革的,自由主义的 / 慷慨的，不拘泥的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: liber
+    form: liber
+    meaning_in_word: 权衡；深思
+    zh: 权衡；深思
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:liber.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+word_family:
+  - liberate
+  - liberty
+  - liberally
+  - deliberate
+word_family_details:
+  - word: liberate
+    en: Means 释放，使自由; reviewed from the TOEFL source gloss for learner display.
+    zh: 释放，使自由
+  - word: liberty
+    en: Means 自由; reviewed from the TOEFL source gloss for learner display.
+    zh: 自由
+  - word: liberally
+    en: Means 随意地，不受限制地; reviewed from the TOEFL source gloss for learner display.
+    zh: 随意地，不受限制地
+  - word: deliberate
+    en: Means 深思熟虑的；故意的; reviewed from the TOEFL source gloss for learner display.
+    zh: 深思熟虑的；故意的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

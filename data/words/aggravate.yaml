@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aggravate
+word: aggravate
+pos: verb
+zh: 使恶化；使加重
+en: to make a bad situation, illness, or problem worse
+components:
+  - morpheme: ad
+    form: ag-
+    meaning_in_word: to, adding to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: grav
+    form: grav
+    meaning_in_word: heavy
+    zh: 沉重；严重
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - aggravating
+word_family_details:
+  - word: aggravating
+    en: annoying, or making a bad situation worse
+    zh: 恼人的；讨厌的；加重的
+confusables:
+  []
+examples:
+  - en: Smoke can aggravate asthma.
+    zh: 烟雾会加重哮喘。
+why_confusing: 正式意义是“使恶化”；口语里也可指“惹恼”。

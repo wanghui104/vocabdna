@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crab
+display: crab
+type: root
+core_meaning: crab
+zh: 蟹
+origin: Germanic
+source_form: Old English crabba
+source_meaning: crab
+source_meaning_zh: 蟹
+related_morphemes:
+  []
+senses:
+  - meaning: crab
+    zh: 蟹
+    examples:
+      - crab
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - crab -> crab
+high_value_words:
+  - crab
+confusable_words:
+  []

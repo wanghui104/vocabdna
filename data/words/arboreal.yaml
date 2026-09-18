@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: arboreal
+word: arboreal
+pos: adjective
+zh: 树栖的；树的
+en: living in trees or relating to trees
+components:
+  - morpheme: arbor
+    form: arbor
+    meaning_in_word: tree
+    zh: 树
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -eal
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

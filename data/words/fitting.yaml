@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fitting
+word: fitting
+pos: adjective/noun
+zh: 合适的
+en: appropriate or suitable
+components:
+  - morpheme: fit
+    form: fitt
+    meaning_in_word: suitable, in good condition / 合适；健康
+    zh: 合适；健康
+    role: root
+    is_core: true
+    note: 形容词 fit 更深来源未定；fitness = fit + -ness，fittingly 双写 t 后加 -ing + -ly。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - fit
+  - fitness
+  - fittingly
+word_family_details:
+  - word: fit
+    en: suitable or physically healthy
+    zh: 合适的；健康的
+  - word: fitness
+    en: physical health and strength
+    zh: 健康；体能
+  - word: fittingly
+    en: in a suitable or appropriate way
+    zh: 恰当地；合宜地
+confusables:
+  []
+examples:
+  []
+why_confusing: 

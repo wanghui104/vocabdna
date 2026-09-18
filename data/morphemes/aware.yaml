@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aware
+display: aware
+type: root
+core_meaning: watchful, conscious
+zh: 意识到；警觉
+origin: Old English
+source_form: Old English gewaer / waer
+source_meaning: watchful, cautious
+source_meaning_zh: 警觉；谨慎
+related_morphemes:
+  []
+senses:
+  - meaning: watchful, conscious
+    zh: 意识到；警觉
+    examples:
+      - aware
+      - awareness
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - aware -> aware
+  - aware -> awareness
+high_value_words:
+  - aware
+  - awareness
+confusable_words:
+  []

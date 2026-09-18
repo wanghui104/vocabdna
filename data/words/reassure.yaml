@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: reassure
+word: reassure
+pos: verb
+zh: 使安心；打消疑虑
+en: to make someone feel less worried or more confident again
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: again, back
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: sure
+    form: assure
+    meaning_in_word: make sure or secure
+    zh: 安全；确信
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

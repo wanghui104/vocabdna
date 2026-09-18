@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: artifice
+word: artifice
+pos: noun
+zh: 巧妙手法；技巧；诡计
+en: clever technique or ingenuity, especially a device or strategy used to mislead
+components:
+  - morpheme: art
+    form: arti
+    meaning_in_word: skill, craft / 技艺
+    zh: 技艺、技巧
+    role: root
+    is_core: true
+    note: arti- 是 art- 的复合词形式；i 是构词连接元音，无独立词义。
+  - morpheme: fac
+    form: fice
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+    note: fic-/fice 对应 facere 的复合词词干；不是 fiction 的 fict-。
+word_family:
+  - artificer
+word_family_details:
+  - word: artificer
+    en: a skilled craft worker or someone who devises and creates things
+    zh: 巧匠；技工；设计者
+confusables:
+  - word: artifact
+    reason: artifice 不等于 artifact（人工制品／伪象）。artificer 保留工匠、创造者义，并不默认指骗子。
+    zh_reason: artifice 不等于 artifact（人工制品／伪象）。artificer 保留工匠、创造者义，并不默认指骗子。
+examples:
+  - en: The false deadline was an artifice to pressure buyers.
+    zh: 那个虚假的截止日期是向买家施压的花招。
+  - en: The set combines technical artifice with simple materials.
+    zh: 这套布景将精巧技法与简单材料结合起来。
+why_confusing: artifice 不等于 artifact（人工制品／伪象）。artificer 保留工匠、创造者义，并不默认指骗子。

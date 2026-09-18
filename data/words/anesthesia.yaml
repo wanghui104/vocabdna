@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: anesthesia
+word: anesthesia
+pos: noun
+zh: 麻醉；感觉缺失
+en: loss of feeling, especially from drugs before surgery
+components:
+  - morpheme: an
+    form: an-
+    meaning_in_word: without
+    zh: 不；无
+    role: prefix
+    is_core: false
+  - morpheme: aesthet
+    form: esthesia
+    meaning_in_word: feeling
+    zh: 感知；审美
+    role: root
+    is_core: true
+  - morpheme: ia
+    form: -ia
+    meaning_in_word: condition
+    zh: 状态；状况
+    role: suffix
+    is_core: false
+word_family:
+  - anesthetic
+word_family_details:
+  - word: anesthetic
+    en: a drug that prevents pain by causing loss of feeling
+    zh: 麻醉剂；麻药
+confusables:
+  - word: amnesia
+    reason: anesthesia 是麻醉状态；anesthetic 是麻醉剂/麻醉的。
+    zh_reason: anesthesia 是麻醉状态；anesthetic 是麻醉剂/麻醉的。
+examples:
+  []
+why_confusing: anesthesia 是麻醉状态；anesthetic 是麻醉剂/麻醉的。

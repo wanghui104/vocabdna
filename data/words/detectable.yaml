@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: detectable
+word: detectable
+pos: adjective
+zh: 可发觉的；可查明的
+en: able to be noticed, discovered, or measured
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: uncover; remove / 揭去
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: teg-tect
+    form: tect
+    meaning_in_word: cover / 覆盖
+    zh: 覆盖
+    role: root
+    is_core: true
+    note: detect = de- 揭去 + tect- 覆盖；与 Greek tekton 建造者（root:tect）分开。
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be / 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - detect
+  - detective
+word_family_details:
+  - word: detect
+    en: to discover or notice something that is hidden or not obvious
+    zh: 察觉；发觉；探测；侦查
+  - word: detective
+    en: a person whose job is to investigate and discover facts
+    zh: 侦探；侦探的
+confusables:
+  []
+examples:
+  []
+why_confusing: detectable 常用于痕迹、变化、信号可被检测到。

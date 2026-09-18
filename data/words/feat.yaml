@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: feat
+word: feat
+pos: noun
+zh: 功绩；壮举
+en: an achievement requiring skill, effort, or courage
+components:
+  - morpheme: fac
+    form: feat
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+    note: 法语 fait/fet 来自 Latin factum，facere 做的分词名词化；整词 feat 是音变后的稳定词干，不再按字母细切。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

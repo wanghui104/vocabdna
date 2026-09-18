@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spectrum
+word: spectrum
+pos: noun
+zh: 谱，光谱
+en: Means 谱，光谱; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: spect
+    form: spect
+    meaning_in_word: look; see / 看
+    zh: 看
+    role: root
+    is_core: true
+  - morpheme: rum
+    form: -rum
+    meaning_in_word: result/place noun ending / 结果或场所名词尾缀
+    zh: 结果或场所名词尾缀
+    role: suffix
+    is_core: false
+word_family:
+  - spectacle
+  - spectacular
+  - spectacularly
+  - spectator
+  - spectra
+word_family_details:
+  - word: spectacle
+    en: Means 奇观；展示，景象; reviewed from the TOEFL source gloss for learner display.
+    zh: 奇观；展示，景象
+  - word: spectacular
+    en: Means 引人入胜的，壮观的; reviewed from the TOEFL source gloss for learner display.
+    zh: 引人入胜的，壮观的
+  - word: spectacularly
+    en: Means 引人入胜地; reviewed from the TOEFL source gloss for learner display.
+    zh: 引人入胜地
+  - word: spectator
+    en: Means 参观者，观众; reviewed from the TOEFL source gloss for learner display.
+    zh: 参观者，观众
+  - word: spectra
+    en: Means 光谱; reviewed from the TOEFL source gloss for learner display.
+    zh: 光谱
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: interference
+word: interference
+pos: noun
+zh: 冲突；干涉
+en: Means 冲突；干涉; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: inter
+    form: inter-
+    meaning_in_word: 在……之间；相互
+    zh: 在……之间；相互
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:inter.
+  - morpheme: fer
+    form: fer
+    meaning_in_word: 携带、带来
+    zh: 携带、带来
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:fer.
+  - morpheme: ence
+    form: -ence
+    meaning_in_word: 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ence.
+word_family:
+  - interfere
+word_family_details:
+  - word: interfere
+    en: Means 妨碍；干涉; reviewed from the TOEFL source gloss for learner display.
+    zh: 妨碍；干涉
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

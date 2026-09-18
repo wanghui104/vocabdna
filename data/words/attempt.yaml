@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: attempt
+word: attempt
+pos: noun/verb
+zh: 尝试；企图
+en: an effort to do something, or to try to do something
+components:
+  - morpheme: ad
+    form: at-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: tempt
+    form: tempt
+    meaning_in_word: try, test
+    zh: 尝试；测试
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

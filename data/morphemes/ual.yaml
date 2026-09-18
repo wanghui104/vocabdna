@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ual
+display: -ual
+type: suffix
+core_meaning: ual
+zh: ual
+origin: English
+source_form: English ual
+source_meaning: ual
+source_meaning_zh: ual
+related_morphemes:
+  []
+senses:
+  - meaning: ual
+    zh: ual
+    examples:
+      - intellectual
+      - mutual
+      - residual
+      - ritual
+      - spiritual
+      - virtually
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ual -> intellectual
+  - ual -> mutual
+  - -ual -> residual
+  - -ual -> ritual
+  - -ual -> spiritual
+  - -ual -> virtually
+high_value_words:
+  - intellectual
+  - mutual
+  - residual
+  - ritual
+  - spiritual
+  - virtually
+confusable_words:
+  []

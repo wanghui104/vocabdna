@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frost
+word: frost
+pos: noun/verb
+zh: 霜；结霜
+en: a thin layer of ice crystals formed on a cold surface; to cover with frost
+components:
+  - morpheme: frost
+    form: frost
+    meaning_in_word: frost / 霜
+    zh: 霜
+    role: root
+    is_core: true
+    note: 与 freeze 的本族词族相关，经历史音变；现代 defrost = de- 移除 + frost。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

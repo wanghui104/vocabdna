@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: precipitation
+word: precipitation
+pos: noun
+zh: 仓促，降雨量
+en: Means 仓促，降雨量; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pre
+    form: pre-
+    meaning_in_word: before / 在前
+    zh: 预先、在前
+    role: prefix
+    is_core: false
+  - morpheme: cipit
+    form: cipit
+    meaning_in_word: headlong; fall / 头朝下；落下
+    zh: 头朝下；落下
+    role: root
+    is_core: true
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: act or result / 动作或结果
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+word_family:
+  - precipitate
+  - precipitous
+word_family_details:
+  - word: precipitate
+    en: Means 促成；加速；猛地落下；沉淀物，降雨; reviewed from the TOEFL source gloss for learner display.
+    zh: 促成；加速；猛地落下；沉淀物，降雨
+  - word: precipitous
+    en: Means 陡峭的; reviewed from the TOEFL source gloss for learner display.
+    zh: 陡峭的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

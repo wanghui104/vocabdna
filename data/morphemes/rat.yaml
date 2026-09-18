@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rat
+display: rat
+type: root
+core_meaning: reckon; approve
+zh: 计算；批准
+origin: teaching morphology
+source_form: rat
+source_meaning: reckon; approve
+source_meaning_zh: 计算；批准
+related_morphemes:
+  []
+senses:
+  - meaning: reckon; approve
+    zh: 计算；批准
+    examples:
+      - ratify
+      - ration
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - rat -> ratify
+  - rat -> ration
+high_value_words:
+  - ratify
+  - ration
+confusable_words:
+  []

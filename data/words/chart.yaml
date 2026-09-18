@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chart
+word: chart
+pos: noun/verb
+zh: 海图；图表；制图
+en: a map or graph, or to record information in one
+components:
+  - morpheme: chart
+    form: chart
+    meaning_in_word: paper, map
+    zh: 图表；宪章；特许
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: chart 和 charter 同源但不同词页。

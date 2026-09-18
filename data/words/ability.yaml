@@ -8,13 +8,13 @@ components:
   - morpheme: able
     form: abil
     meaning_in_word: able
-    zh: 能够被……的
+    zh: 能够；适合
     role: root
     is_core: true
   - morpheme: ity
     form: -ity
     meaning_in_word: quality or state
-    zh: 性质、状态
+    zh: 状态；性质
     role: suffix
     is_core: false
 word_family:

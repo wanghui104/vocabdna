@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cust
+display: cust
+type: root
+core_meaning: guard, keeper
+zh: 守护；管理
+origin: Latin
+source_form: Latin custos / custodire
+source_meaning: guard, watchman
+source_meaning_zh: 守卫；看守
+related_morphemes:
+  []
+senses:
+  - meaning: guard, keeper
+    zh: 守护；管理
+    examples:
+      - custodian
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - custod -> custodian
+high_value_words:
+  - custodian
+confusable_words:
+  []

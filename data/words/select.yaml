@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: select
+word: select
+pos: verb/adjective
+zh: 选择；精选的
+en: to choose; carefully chosen
+components:
+  - morpheme: se-apart
+    form: se-
+    meaning_in_word: apart / 分开
+    zh: 分开
+    role: prefix
+    is_core: false
+  - morpheme: leg-choose
+    form: lect
+    meaning_in_word: choose, gather, value / 选择；重视
+    zh: 选择；重视
+    role: root
+    is_core: true
+word_family:
+  - selection
+word_family_details:
+  - word: selection
+    en: Means 选择, 挑选；选集, 精选品; reviewed from the TOEFL source gloss for learner display.
+    zh: 选择, 挑选；选集, 精选品
+confusables:
+  []
+examples:
+  []
+why_confusing: 

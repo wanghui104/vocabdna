@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: countless
+word: countless
+pos: adjective
+zh: 无数的
+en: too many to be counted
+components:
+  - morpheme: count
+    form: count
+    meaning_in_word: count
+    zh: 计算、说明
+    role: root
+    is_core: true
+    related_morphemes:
+      - com
+      - put-reckon
+  - morpheme: less
+    form: -less
+    meaning_in_word: without
+    zh: 无；没有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: countless examples/times/stars.

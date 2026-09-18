@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nerve-cord
+word: nerve cord
+pos: noun
+zh: 脊髓
+en: Means 脊髓; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: nerve
+    form: nerve
+    meaning_in_word: 神经；筋
+    zh: 神经；筋
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:nerve.
+  - morpheme: cord
+    form: cord
+    meaning_in_word: 心、一致
+    zh: 心、一致
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:cord.
+word_family:
+  - spinal-cord
+  - neuron
+  - nervous
+word_family_details:
+  - word: spinal-cord
+    en: Means 脊髓; reviewed from the TOEFL source gloss for learner display.
+    zh: 脊髓
+  - word: neuron
+    en: Means 神经元，神经细胞; reviewed from the TOEFL source gloss for learner display.
+    zh: 神经元，神经细胞
+  - word: nervous
+    en: Means 神经的；神经紧张的，易激动的; reviewed from the TOEFL source gloss for learner display.
+    zh: 神经的；神经紧张的，易激动的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

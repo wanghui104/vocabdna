@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consciousness
+word: consciousness
+pos: noun
+zh: 意识；知觉
+en: the state of being aware or awake
+components:
+  - morpheme: sci
+    form: conscious
+    meaning_in_word: aware
+    zh: 知道；有意识
+    role: root
+    is_core: true
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - conscious
+  - consciously
+  - unconscious
+word_family_details:
+  - word: conscious
+    en: awake and aware of yourself or surroundings
+    zh: 有意识的；神志清醒的
+  - word: consciously
+    en: in a deliberate or aware way
+    zh: 有意识地；自觉地
+  - word: unconscious
+    en: Means 不省人事的；无意识的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不省人事的；无意识的
+confusables:
+  []
+examples:
+  []
+why_confusing: lose/regain consciousness 常见。

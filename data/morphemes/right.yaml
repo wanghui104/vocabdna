@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: right
+display: right
+type: root
+core_meaning: right
+zh: 权利；正确
+origin: Old English
+source_form: Old English riht
+source_meaning: right, just, entitlement
+source_meaning_zh: 正确；权利
+related_morphemes:
+  []
+senses:
+  - meaning: right
+    zh: 权利；正确
+    examples:
+      - civil rights
+      - outright
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - rights -> civil rights
+  - right -> outright
+high_value_words:
+  - civil rights
+  - outright
+confusable_words:
+  []

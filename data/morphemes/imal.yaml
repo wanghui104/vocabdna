@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: imal
+display: imal
+type: root
+core_meaning: imal
+zh: imal
+origin: English
+source_form: English imal
+source_meaning: imal
+source_meaning_zh: imal
+related_morphemes:
+  []
+senses:
+  - meaning: imal
+    zh: imal
+    examples:
+      - minimal
+      - minimalist
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - imal -> minimal
+  - imal -> minimalist
+high_value_words:
+  - minimal
+  - minimalist
+confusable_words:
+  []

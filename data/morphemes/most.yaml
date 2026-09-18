@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: most
+display: most
+type: root
+core_meaning: most
+zh: 最多；最
+origin: Old English
+source_form: Old English maest
+source_meaning: most
+source_meaning_zh: 最多；最
+source_note: 最高级词；foremost 的现代重分析不可替代其更早 formest 来源。
+related_morphemes:
+  []
+senses:
+  - meaning: most
+    zh: 最多；最
+    examples:
+      - foremost
+      - innermost
+      - most distinctive
+      - outermost
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - most -> foremost
+  - most -> innermost
+  - most -> most distinctive
+  - most -> outermost
+high_value_words:
+  - foremost
+  - innermost
+  - most distinctive
+  - outermost
+confusable_words:
+  []

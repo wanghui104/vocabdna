@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conversant
+word: conversant
+pos: adjective
+zh: 熟悉的；通晓的
+en: familiar with or knowledgeable about something
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: with
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: vers
+    meaning_in_word: turn about, engage
+    zh: 转、转向
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having quality
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - converse
+  - conversation
+  - conversational
+word_family_details:
+  - word: converse
+    en: Means 谈话，交谈; reviewed from the TOEFL source gloss for learner display.
+    zh: 谈话，交谈
+  - word: conversation
+    en: informal spoken exchange between people
+    zh: 会话；非正式会谈
+  - word: conversational
+    en: related to conversation or informal speech
+    zh: 对话的；会话的；口语化的
+confusables:
+  []
+examples:
+  []
+why_confusing: be conversant with/in something.

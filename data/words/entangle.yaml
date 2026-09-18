@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: entangle
+word: entangle
+pos: verb
+zh: 缠住；使卷入复杂处境
+en: to catch something in a tangle or involve someone in a difficult situation
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: put into; cause to be in / 使进入、使陷入
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: 使陷入缠绕；经法语对应 Latin in-。
+  - morpheme: tangle
+    form: tangle
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: 保留 tangle 为学习词干；不是 Latin tangere（触碰）的 tang-，更早词源仍有不确定性。
+word_family:
+  - entangled
+  - entanglement
+word_family_details:
+  - word: entangled
+    en: caught among twisted things or involved in complicated affairs
+    zh: 被缠住的；卷入的；entangle 的过去形式
+  - word: entanglement
+    en: the state of being caught or involved, or a mass that traps something
+    zh: 纠缠；牵连；缠绕物
+confusables:
+  []
+examples:
+  - en: The loose net can entangle a swimmer’s feet.
+    zh: 松散的网可能缠住游泳者的双脚。
+  - en: The dispute threatened to entangle several neighboring towns.
+    zh: 这场争端可能把附近几个城镇牵扯进来。
+why_confusing: 常用 entangle A in B；entangle 强调缠住或牵连，tangle 也可直接说线自己打结。

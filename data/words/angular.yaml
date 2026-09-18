@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: angular
+word: angular
+pos: adjective
+zh: 有角的；尖角的
+en: having angles or sharp corners
+components:
+  - morpheme: ang
+    form: ang
+    meaning_in_word: angle
+    zh: 角；角度
+    role: root
+    is_core: true
+  - morpheme: ar
+    form: -ular
+    meaning_in_word: relating to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: advancement
+word: advancement
+pos: noun
+zh: 进展；提升
+en: progress, improvement, or promotion to a higher position
+components:
+  - morpheme: ante-avant
+    form: advance
+    meaning_in_word: move forward
+    zh: 在前；向前
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: act or result
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - advance
+  - advanced
+word_family_details:
+  - word: advance
+    en: to move forward, improve, or help something develop
+    zh: 前进；提高；发展；提升
+  - word: advanced
+    en: far ahead in development, difficulty, or age
+    zh: 高级的；先进的；年老的
+confusables:
+  []
+examples:
+  - en: Scientific advancement depends on shared evidence.
+    zh: 科学进步依赖共享证据。
+why_confusing: career advancement 常指职业晋升。

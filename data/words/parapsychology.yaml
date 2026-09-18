@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: parapsychology
+word: parapsychology
+pos: noun
+zh: 超心理学
+en: Means 超心理学; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: para
+    form: para-
+    meaning_in_word: beside; beyond / 旁；超出
+    zh: 旁；超出
+    role: prefix
+    is_core: false
+  - morpheme: psych
+    form: psych
+    meaning_in_word: mind; soul / 心理；灵魂
+    zh: 心理；灵魂
+    role: root
+    is_core: true
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study of / …学
+    zh: 学科、研究
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

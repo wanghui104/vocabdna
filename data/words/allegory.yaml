@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: allegory
+word: allegory
+pos: noun
+zh: 寓言；讽喻
+en: a story or picture whose surface events stand for deeper meanings
+components:
+  - morpheme: al-other
+    form: allo
+    meaning_in_word: other
+    zh: 其他；另一边
+    role: root
+    is_core: true
+  - morpheme: agor
+    form: egory
+    meaning_in_word: public speaking
+    zh: 公开发言；集会
+    role: root
+    is_core: true
+    note: From Greek agoreuein, to speak publicly.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: allegation
+    reason: 不要把 allegory 和 allegation 混。
+    zh_reason: 不要把 allegory 和 allegation 混。
+  - word: alliteration
+    reason: 不要把 allegory 和 allegation 混。
+    zh_reason: 不要把 allegory 和 allegation 混。
+examples:
+  []
+why_confusing: 不要把 allegory 和 allegation 混。

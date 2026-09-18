@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cardiac
+word: cardiac
+pos: adjective
+zh: 心脏的
+en: related to the heart
+components:
+  - morpheme: cardio
+    form: cardi-
+    meaning_in_word: heart
+    zh: 心脏
+    role: combining_form
+    is_core: true
+  - morpheme: al
+    form: -ac
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cardiac arrest 是心脏骤停。

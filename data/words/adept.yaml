@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adept
+word: adept
+pos: adjective/noun
+zh: 熟练的；擅长的；能手
+en: very skilled at doing something, or a person who has such skill
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: apt
+    form: ept
+    meaning_in_word: attain, fit
+    zh: 适合；达到
+    role: root
+    is_core: true
+    note: 保留 apt 与 ept 的历史相关性但区分路径：adapt 来自 aptare 使适合；adept = ad- + ept-，来自 adipisci 的分词 adeptus，底层 apisci 抓住、达到。不能把 adept 解释成给适合加前缀。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: adapt
+    reason: 常用 adept at；不要写成 adapt。
+    zh_reason: 常用 adept at；不要写成 adapt。
+  - word: deft
+    reason: 常用 adept at；不要写成 adapt。
+    zh_reason: 常用 adept at；不要写成 adapt。
+examples:
+  []
+why_confusing: 常用 adept at；不要写成 adapt。

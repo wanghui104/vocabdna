@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foghorn
+word: foghorn
+pos: noun
+zh: 雾号（浓雾信号）
+en: Means 雾号（浓雾信号）; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: fog
+    form: fog
+    meaning_in_word: 雾
+    zh: 雾
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:fog.
+  - morpheme: horn
+    form: horn
+    meaning_in_word: 角；号角
+    zh: 角；号角
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:horn.
+word_family:
+  - horn
+  - horned
+  - hornbill
+  - hornet
+  - pronghorn
+word_family_details:
+  - word: horn
+    en: Means （牛羊等的）角; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: （牛羊等的）角
+  - word: horned
+    en: Means 有角的，角状的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 有角的，角状的
+  - word: hornbill
+    en: Means 犀鸟，犀鸟科; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 犀鸟，犀鸟科
+  - word: hornet
+    en: Means 大黄蜂类; reviewed from the TOEFL source gloss for learner display.
+    zh: 大黄蜂类
+  - word: pronghorn
+    en: Means (墨西哥和美国西部产的)叉角羚; reviewed from the TOEFL source gloss for learner display.
+    zh: (墨西哥和美国西部产的)叉角羚
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

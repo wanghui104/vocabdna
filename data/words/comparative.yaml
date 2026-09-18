@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: comparative
+word: comparative
+pos: adjective
+zh: 比较的；相对的
+en: based on comparison, or relative rather than absolute
+components:
+  - morpheme: par
+    form: compar
+    meaning_in_word: compare
+    zh: 比较；相当
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ative
+    meaning_in_word: related
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - compare
+  - comparatively
+word_family_details:
+  - word: compare
+    en: to examine how things are similar or different
+    zh: 比较
+  - word: comparatively
+    en: relatively, when compared with others
+    zh: 相当地；比较地
+confusables:
+  []
+examples:
+  []
+why_confusing: comparative advantage/grammar 常见。

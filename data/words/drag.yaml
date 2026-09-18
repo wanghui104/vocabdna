@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: drag
+word: drag
+pos: verb
+zh: 拖；拉
+en: to pull along a surface with effort
+components:
+  - morpheme: drag
+    form: drag
+    meaning_in_word: pull / 拖；拉
+    zh: 拖；拉
+    role: root
+    is_core: true
+    note: 古诺斯语借入或古英语方言来源均有解释；不把 drag 错连到拉丁 tract。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

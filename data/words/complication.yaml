@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: complication
+word: complication
+pos: noun
+zh: 并发症；复杂情况；复杂性
+en: an added difficulty or medical problem
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: plex
+    form: plic
+    meaning_in_word: fold
+    zh: 复杂；牵连
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: process/result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - complicated
+word_family_details:
+  - word: complicated
+    en: difficult to understand or deal with because of many parts
+    zh: 费解的；棘手的；结构复杂的
+confusables:
+  []
+examples:
+  []
+why_confusing: medical complication 是并发症。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: creat
+display: creat
+type: root
+core_meaning: create; recreation
+zh: 创造；娱乐
+origin: teaching morphology
+source_form: creat
+source_meaning: create; recreation
+source_meaning_zh: 创造；娱乐
+related_morphemes:
+  []
+senses:
+  - meaning: create; recreation
+    zh: 创造；娱乐
+    examples:
+      - recreation
+      - recreational
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - creat -> recreation
+  - creat -> recreational
+high_value_words:
+  - recreation
+  - recreational
+confusable_words:
+  []

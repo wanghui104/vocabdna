@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contend
+word: contend
+pos: verb
+zh: 竞争；争辩；声称
+en: to compete, struggle, or argue that something is true
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tend
+    form: tend
+    meaning_in_word: stretch, strive
+    zh: 伸展；指向
+    role: root
+    is_core: true
+word_family:
+  - contender
+  - contention
+word_family_details:
+  - word: contender
+    en: Means 竞争者，斗争者; reviewed from the TOEFL source gloss for learner display.
+    zh: 竞争者，斗争者
+  - word: contention
+    en: an argument, disagreement, or claim
+    zh: 争论；争辩；论点
+confusables:
+  []
+examples:
+  []
+why_confusing: contend for/with/that 搭配不同。

@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mechanized
+word: mechanized
+pos: adjective
+zh: 机械化的
+en: Means 机械化的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mechan
+    form: mechan
+    meaning_in_word: 机器；机制
+    zh: 机器；机制
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mechan.
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ize.
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ed.
+word_family:
+  - mechanical
+  - mechanics
+  - mechanism
+word_family_details:
+  - word: mechanical
+    en: Means 机械的；机械性的，呆板的; reviewed from the TOEFL source gloss for learner display.
+    zh: 机械的；机械性的，呆板的
+  - word: mechanics
+    en: Means 机械学，力学; reviewed from the TOEFL source gloss for learner display.
+    zh: 机械学，力学
+  - word: mechanism
+    en: Means 机械；机理，运作机制; reviewed from the TOEFL source gloss for learner display.
+    zh: 机械；机理，运作机制
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

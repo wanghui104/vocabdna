@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cubism
+word: cubism
+pos: noun
+zh: 立体主义
+en: an art movement that represents subjects with geometric forms and multiple viewpoints
+components:
+  - morpheme: cube
+    form: cub
+    meaning_in_word: cube
+    zh: 立方体；立方
+    role: root
+    is_core: true
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: movement or doctrine
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Cubism 是艺术流派名，常大写。

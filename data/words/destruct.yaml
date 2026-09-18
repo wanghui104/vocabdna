@@ -8,7 +8,7 @@ components:
   - morpheme: de
     form: de-
     meaning_in_word: down, undo
-    zh: 向下、离开、取消
+    zh: 向下；去除
     role: prefix
     is_core: false
   - morpheme: struct
@@ -22,15 +22,13 @@ word_family:
   - destructive
 word_family_details:
   - word: destruction
-    en: related form of destruction
-    zh: destruction 的相关词
+    en: the act or result of destroying something
+    zh: 破坏；毁灭
   - word: destructive
-    en: related form of destructive
-    zh: destructive 的相关词
+    en: causing serious damage or destruction
+    zh: 破坏的；毁灭性的
 confusables:
-  - word: destroy
-    reason: destruct 较正式或技术化；destroy 更常用。
-    zh_reason: destruct 较正式或技术化；destroy 更常用。
+  []
 examples:
   - en: The device is designed to self-destruct.
     zh: 这个装置被设计为自毁。

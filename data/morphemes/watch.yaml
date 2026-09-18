@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: watch
+display: watch
+type: root
+core_meaning: watch
+zh: 看；表
+origin: teaching morphology
+source_form: watch
+source_meaning: watch
+source_meaning_zh: 看；表
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: watch
+    zh: 看；表
+    examples:
+      - wristwatch
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - watch -> wristwatch
+high_value_words:
+  - wristwatch
+confusable_words:
+  []

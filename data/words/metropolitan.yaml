@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: metropolitan
+word: metropolitan
+pos: adjective
+zh: 主要都市的，大城市的
+en: Means 主要都市的，大城市的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: metro
+    form: metro
+    meaning_in_word: 大都市
+    zh: 大都市
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:metro.
+  - morpheme: polis
+    form: polis
+    meaning_in_word: 城市；公民
+    zh: 城市；公民
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:polis.
+  - morpheme: an
+    form: an-
+    meaning_in_word: 不；无
+    zh: 不；无
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:an.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

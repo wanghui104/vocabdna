@@ -7,35 +7,19 @@ en: a first version of a piece of writing or a plan
 components:
   - morpheme: draft
     form: draft
-    meaning_in_word: draw, pull, draw off
+    meaning_in_word: draw, pull, draw off / 拉、抽、汲取
     zh: 拉、抽、汲取
     role: root
     is_core: true
+    note: draft/draught 是 draw 的历史结果名词；gh/f 反映拼写音变，不拆 dra + ft。
+    related_morphemes:
+      - draw
 word_family:
-  - drafting
-  - drafty
-  - draftee
-  - overdraft
+  []
 word_family_details:
-  - word: drafting
-    en: related form of drafting
-    zh: drafting 的相关词
-  - word: drafty
-    en: related form of drafty
-    zh: drafty 的相关词
-  - word: draftee
-    en: related form of draftee
-    zh: draftee 的相关词
-  - word: overdraft
-    en: related form of overdraft
-    zh: overdraft 的相关词
+  []
 confusables:
-  - word: draught
-    reason: draft 和 draught 在英美用法中分工不同；drift 是“漂移”，不是 draft。
-    zh_reason: draft 和 draught 在英美用法中分工不同；drift 是“漂移”，不是 draft。
-  - word: drift
-    reason: draft 和 draught 在英美用法中分工不同；drift 是“漂移”，不是 draft。
-    zh_reason: draft 和 draught 在英美用法中分工不同；drift 是“漂移”，不是 draft。
+  []
 examples:
   - en: Please send me the first draft of your essay.
     zh: 请把你的论文初稿发给我。

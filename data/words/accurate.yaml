@@ -30,9 +30,7 @@ word_family_details:
     en: the quality of being correct or exact
     zh: 准确性；正确性
 confusables:
-  - word: precise
-    reason: accurate 是准确；precise 是精确，二者可重叠但不完全一样。
-    zh_reason: accurate 是准确；precise 是精确，二者可重叠但不完全一样。
+  []
 examples:
   - en: The map is accurate.
     zh: 这张地图很准确。

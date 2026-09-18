@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stagnant
+word: stagnant
+pos: adjective
+zh: 停滞的, 迟钝的
+en: Means 停滞的, 迟钝的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: stagn
+    form: stagn
+    meaning_in_word: standing water; stagnant / 停水；停滞
+    zh: 停水；停滞
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having quality; thing/person / 具有…性质；物或人
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

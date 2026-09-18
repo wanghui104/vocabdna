@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: by-chance
+word: by chance
+pos: phrase
+zh: 偶然
+en: accidentally or without planning
+components:
+  - morpheme: by
+    form: by
+    meaning_in_word: by means of
+    zh: 由；被；靠
+    role: root
+    is_core: true
+  - morpheme: chance
+    form: chance
+    meaning_in_word: chance
+    zh: 偶然；机会
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: by chance 近义 accidentally。

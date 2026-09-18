@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bellows
+word: bellows
+pos: noun
+zh: 风箱
+en: a device with a bag that blows air into a fire
+components:
+  - morpheme: bellows
+    form: bellows
+    meaning_in_word: air bag
+    zh: 风箱
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: bellows 作名词常用复数形式。

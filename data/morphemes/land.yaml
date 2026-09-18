@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: land
+display: land
+type: root
+core_meaning: land
+zh: 土地
+origin: Old English
+source_form: Old English land
+source_meaning: land
+source_meaning_zh: 土地
+related_morphemes:
+  []
+senses:
+  - meaning: land
+    zh: 土地
+    examples:
+      - grazing land
+      - hinterland
+      - landing
+      - landmass
+      - landscape
+      - landslide
+      - tableland
+      - upland
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - land -> grazing land
+  - land -> hinterland
+  - land -> landing
+  - land -> landmass
+  - land -> landscape
+  - land -> landslide
+  - land -> tableland
+  - land -> upland
+high_value_words:
+  - grazing land
+  - hinterland
+  - landing
+  - landmass
+  - landscape
+  - landslide
+  - tableland
+  - upland
+confusable_words:
+  []

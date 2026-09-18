@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disillusion
+word: disillusion
+pos: verb
+zh: 使醒悟；使幻想破灭
+en: to make someone realize that a belief or hope was false
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: in
+    form: il-
+    meaning_in_word: into; intensive / 进入；加强
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+  - morpheme: lud
+    form: lus
+    meaning_in_word: play, hint indirectly / 玩；间接提及
+    zh: 玩；游戏
+    role: root
+    is_core: true
+    note: 表层 dis- 去除 + illusion；内层 illusion = il-（同化 in- 进入）+ lus- 玩弄 + -ion。这里 il- 不是否定前缀，词源意象为玩弄、欺骗。
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: disillusion 常带失望的醒悟。

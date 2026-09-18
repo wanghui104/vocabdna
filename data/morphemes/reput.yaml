@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: reput
+display: reput
+type: root
+core_meaning: reckon, reputation
+zh: 评价；名声
+origin: Latin
+source_form: Latin reputare
+source_meaning: reckon, count over
+source_meaning_zh: 重新计算；评价
+source_note: 表层 repute 名誉；Latin reputare = re- 再次 + putare 计算、考虑。disrepute 外层 dis- 表坏名声。
+related_morphemes:
+  - re
+  - put-reckon
+senses:
+  - meaning: reckon, reputation
+    zh: 评价；名声
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

@@ -2,25 +2,24 @@
 id: reception
 word: reception
 pos: noun
-zh: 接收；接待；欢迎
-en: the act or manner of receiving someone or something
+zh: 接待；招待会；接收
+en: Means 接待；招待会；接收; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: re
     form: re-
-    meaning_in_word: back, in return
+    meaning_in_word: back; again / 回；再
     zh: 回、再、反向
     role: prefix
     is_core: false
-  - morpheme: cap
+  - morpheme: cept
     form: cept
-    meaning_in_word: take, receive
-    zh: 拿、抓、接收
+    meaning_in_word: take; receive / 取；接受
+    zh: 取；理解
     role: root
     is_core: true
-    note: From Latin receptio/receptus, built on recipere/capere.
   - morpheme: ion
     form: -ion
-    meaning_in_word: act, process, result
+    meaning_in_word: act or result / 动作或结果
     zh: 行为、过程、结果
     role: suffix
     is_core: false
@@ -30,13 +29,15 @@ word_family:
   - receiver
   - receipt
   - recipient
+  - receptionist
+  - receptor
 word_family_details:
   - word: receive
     en: to get or take something that is given, sent, or offered
     zh: 收到；接收；得到
   - word: receptive
-    en: willing or able to receive ideas, suggestions, signals, or impressions
-    zh: 乐于接受的；能接收的
+    en: Means 善于接受的，能接纳的; reviewed from the TOEFL source gloss for learner display.
+    zh: 善于接受的，能接纳的
   - word: receiver
     en: a person or thing that receives something
     zh: 接收者；收件人
@@ -44,20 +45,16 @@ word_family_details:
     en: a written or electronic record showing that money or goods were received
     zh: 收据；收条
   - word: recipient
-    en: a person or group that receives something
-    zh: 接受者；收件人；受方
+    en: Means 接受者，接收方; reviewed from the TOEFL source gloss for learner display.
+    zh: 接受者，接收方
+  - word: receptionist
+    en: Means 招待员; reviewed from the TOEFL source gloss for learner display.
+    zh: 招待员
+  - word: receptor
+    en: Means 接受器，感受器; reviewed from the TOEFL source gloss for learner display.
+    zh: 接受器，感受器
 confusables:
-  - word: recession
-    reason: reception 是接待/接收；recession 是衰退；recipe 是配方。
-    zh_reason: reception 是接待/接收；recession 是衰退；recipe 是配方。
-  - word: recipe
-    reason: reception 是接待/接收；recession 是衰退；recipe 是配方。
-    zh_reason: reception 是接待/接收；recession 是衰退；recipe 是配方。
+  []
 examples:
-  - en: The speaker received a warm reception.
-    zh: 演讲者受到了热烈欢迎。
-  - en: Please check in at reception.
-    zh: 请在接待处登记。
-  - en: Cell phone reception is weak here.
-    zh: 这里手机信号接收很弱。
-why_confusing: reception 是接待/接收；recession 是衰退；recipe 是配方。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

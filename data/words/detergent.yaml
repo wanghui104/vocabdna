@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: detergent
+word: detergent
+pos: noun
+zh: 清洁剂；洗涤剂
+en: a substance used for washing or cleaning
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: off
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: terg
+    form: terg
+    meaning_in_word: wipe
+    zh: 擦净；清洁
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: causing
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: detergent 是清洁剂，不是 deterrent 威慑物。

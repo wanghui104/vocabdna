@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flock
+word: flock
+pos: noun/verb
+zh: 群；成群聚集
+en: a group of birds, sheep, or people; to gather or move in a crowd
+components:
+  - morpheme: flock
+    form: flock
+    meaning_in_word: group, crowd / 群
+    zh: 群
+    role: root
+    is_core: true
+    note: 群体义更深来源未定；另一个表示羊毛屑的 flock 有不同历史，不混入。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ecdot
+display: ecdot
+type: root
+core_meaning: given out, published
+zh: 给出；发表
+origin: Greek
+source_form: Greek ekdotos
+source_meaning: published, given out
+source_meaning_zh: 发表；给出
+related_morphemes:
+  []
+senses:
+  - meaning: given out, published
+    zh: 给出；发表
+    examples:
+      - anecdotal
+      - anecdote
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ecdot -> anecdotal
+  - ecdote -> anecdote
+high_value_words:
+  - anecdotal
+  - anecdote
+confusable_words:
+  []

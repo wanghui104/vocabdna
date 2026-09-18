@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contrary
+word: contrary
+pos: adjective/noun
+zh: 相反的；对抗的；相反事物
+en: opposite in nature, direction, or meaning
+components:
+  - morpheme: contra
+    form: contra-
+    meaning_in_word: against, opposite
+    zh: 反对、相反
+    role: prefix
+    is_core: false
+  - morpheme: al
+    form: -ary
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: on the contrary 表示正相反。

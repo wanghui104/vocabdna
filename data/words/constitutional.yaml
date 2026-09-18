@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: constitutional
+word: constitutional
+pos: adjective
+zh: 宪法的；章程的；体质的
+en: related to a constitution or basic structure
+components:
+  - morpheme: stat
+    form: constitution
+    meaning_in_word: fundamental structure/law
+    zh: 站立；竖立
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - constitute
+  - constitution
+  - constituent
+word_family_details:
+  - word: constitute
+    en: to make up, form, or establish something
+    zh: 组成；构成；建立
+  - word: constitution
+    en: the structure of something or the fundamental laws of a state
+    zh: 组织；构成；宪法
+  - word: constituent
+    en: a component part or a person represented by an elected official
+    zh: 成分；要素；选民
+confusables:
+  []
+examples:
+  []
+why_confusing: constitutional right/amendment/crisis 常见。

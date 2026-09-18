@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dissolve
+word: dissolve
+pos: verb
+zh: 使溶解；解散；消失
+en: to become or cause to become incorporated into a solution; to formally end an organization or agreement
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: solv-solut
+    form: solve
+    meaning_in_word: loosen, release / 松开、解开
+    zh: 松开、解开
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dissolve 可指物质溶解，也可指组织解散。

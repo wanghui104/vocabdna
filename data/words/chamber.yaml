@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chamber
+word: chamber
+pos: noun
+zh: 室；房间；议院
+en: a room, hall, or legislative body
+components:
+  - morpheme: camer
+    form: chamber
+    meaning_in_word: room
+    zh: 议院；房间
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: chamber 也可指议院或身体腔室。

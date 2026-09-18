@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ballet
+display: ballet
+type: root
+core_meaning: ballet, dance
+zh: 芭蕾；舞蹈
+origin: French
+source_form: French ballet, Italian balletto/ballo
+source_meaning: dance
+source_meaning_zh: 舞蹈
+related_morphemes:
+  []
+senses:
+  - meaning: ballet, dance
+    zh: 芭蕾；舞蹈
+    examples:
+      - ballet
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ballet -> ballet
+high_value_words:
+  - ballet
+confusable_words:
+  []

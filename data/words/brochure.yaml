@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brochure
+word: brochure
+pos: noun
+zh: 小册子
+en: a small booklet giving information or advertising something
+components:
+  - morpheme: brochure
+    form: brochure
+    meaning_in_word: stitched booklet
+    zh: 小册子
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常见 travel/product brochure。

@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: malnutrition
+word: malnutrition
+pos: noun
+zh: 营养不良
+en: Means 营养不良; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mal
+    form: mal
+    meaning_in_word: 坏、恶
+    zh: 坏、恶
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mal.
+  - morpheme: nutri
+    form: nutri
+    meaning_in_word: 滋养
+    zh: 滋养
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:nutri.
+  - morpheme: tion
+    form: tion
+    meaning_in_word: tion
+    zh: tion
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:tion.
+word_family:
+  - malfunction
+word_family_details:
+  - word: malfunction
+    en: Means 故障，失灵; reviewed from the TOEFL source gloss for learner display.
+    zh: 故障，失灵
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

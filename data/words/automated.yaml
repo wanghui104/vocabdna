@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: automated
+word: automated
+pos: adjective
+zh: 自动化的
+en: operated by machines or systems with little direct human control
+components:
+  - morpheme: automat
+    form: automat
+    meaning_in_word: self-acting
+    zh: 自动的；自行运作
+    role: root
+    is_core: true
+    related_morphemes:
+      - auto
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: made
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - automate
+  - automatic
+word_family_details:
+  - word: automate
+    en: to make a process operate automatically
+    zh: 使自动化
+  - word: automatic
+    en: working by itself, or done without conscious thought
+    zh: 自动的；无意识的；机械的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

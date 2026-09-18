@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: novel
+word: novel
+pos: adjective
+zh: 新奇的，新颖的
+en: Means 新奇的，新颖的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: nov
+    form: nov
+    meaning_in_word: new / 新
+    zh: 新
+    role: root
+    is_core: true
+  - morpheme: el
+    form: -el
+    meaning_in_word: el / el
+    zh: el
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

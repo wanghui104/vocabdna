@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cavity
+word: cavity
+pos: noun
+zh: 洞；腔
+en: a hole or empty space inside something
+components:
+  - morpheme: cav
+    form: cav
+    meaning_in_word: hollow
+    zh: 洞；腔
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -ity
+    meaning_in_word: state
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dental cavity 指龋洞。

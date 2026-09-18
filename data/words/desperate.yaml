@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: desperate
+word: desperate
+pos: adjective
+zh: 绝望的；不顾一切的；迫切的
+en: hopeless, reckless, or urgently needing something
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: without
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: sper
+    form: sper
+    meaning_in_word: hope
+    zh: 希望
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: having
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - desperately
+word_family_details:
+  - word: desperately
+    en: in a desperate, urgent, or hopeless way
+    zh: 迫切地；绝望地；危急地
+confusables:
+  []
+examples:
+  []
+why_confusing: desperate for something 是“非常需要”；desperate action 是“不顾后果的行动”。

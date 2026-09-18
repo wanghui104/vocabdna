@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mallet
+word: mallet
+pos: noun
+zh: 槌棒
+en: Means 槌棒; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mallet
+    form: mallet
+    meaning_in_word: 小槌
+    zh: 小槌
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

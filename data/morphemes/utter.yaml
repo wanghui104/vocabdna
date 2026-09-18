@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: utter
+display: utter
+type: root
+core_meaning: utter; complete
+zh: 说出；完全
+origin: teaching morphology
+source_form: utter
+source_meaning: utter; complete
+source_meaning_zh: 说出；完全
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: utter; complete
+    zh: 说出；完全
+    examples:
+      - utter
+      - utterance
+      - utterly
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - utter -> utter
+  - utter -> utterance
+  - utter -> utterly
+high_value_words:
+  - utter
+  - utterance
+  - utterly
+confusable_words:
+  []

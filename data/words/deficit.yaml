@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deficit
+word: deficit
+pos: noun
+zh: 赤字；不足额
+en: the amount by which something is less than what is needed or spent exceeds income
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: fac
+    form: ficit
+    meaning_in_word: fall short
+    zh: 做、制造
+    role: root
+    is_core: true
+    note: Latin deficit 意为“它缺少”，来自 deficere = de- 离开 + facere 做。ficit 包含 facere 的变形 fic- 及拉丁第三人称单数结尾 -it；不是现代英语可生产后缀。
+word_family:
+  - deficiency
+  - deficient
+word_family_details:
+  - word: deficiency
+    en: a lack, shortage, or inadequate amount of something necessary
+    zh: 缺乏；不足
+  - word: deficient
+    en: not having enough of something necessary
+    zh: 缺乏的；不足的
+confusables:
+  []
+examples:
+  []
+why_confusing: budget deficit 财政赤字；trade deficit 贸易逆差。

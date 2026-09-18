@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: priority
+word: priority
+pos: noun
+zh: 优先，优先权
+en: Means 优先，优先权; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: prior
+    form: prior
+    meaning_in_word: prior / prior
+    zh: prior
+    role: root
+    is_core: true
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: state or quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

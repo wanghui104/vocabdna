@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: form
+word: form
+pos: noun/verb
+zh: 形状；形式
+en: a shape or structure
+components:
+  - morpheme: form
+    form: form
+    meaning_in_word: form, shape / 形式；符合
+    zh: 形式；符合
+    role: root
+    is_core: true
+word_family:
+  - formation
+  - formative
+  - format
+word_family_details:
+  - word: formation
+    en: the process of forming
+    zh: 形成
+  - word: formative
+    en: having an important influence on development
+    zh: 形成的；对成长有重要影响的
+  - word: format
+    en: the arrangement or structure of information; to arrange in a particular form
+    zh: 格式；版式；设置格式
+confusables:
+  - word: former
+    reason: 
+    zh_reason: 
+  - word: formal
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

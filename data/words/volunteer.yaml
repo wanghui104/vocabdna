@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: volunteer
+word: volunteer
+pos: noun
+zh: 自愿者；自愿
+en: Means 自愿者；自愿; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: vol
+    form: vol
+    meaning_in_word: wish; will / 意愿
+    zh: 愿望、意志
+    role: root
+    is_core: true
+  - morpheme: unteer
+    form: -unteer
+    meaning_in_word: person who offers / 自愿者
+    zh: 自愿者
+    role: suffix
+    is_core: false
+word_family:
+  - involuntary
+  - voluntary
+word_family_details:
+  - word: involuntary
+    en: Means 自然而然的，无意的; reviewed from the TOEFL source gloss for learner display.
+    zh: 自然而然的，无意的
+  - word: voluntary
+    en: Means 自愿的；志愿的; reviewed from the TOEFL source gloss for learner display.
+    zh: 自愿的；志愿的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

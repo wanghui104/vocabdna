@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: embryonic
+word: embryonic
+pos: adjective
+zh: 胚胎的；萌芽期的
+en: relating to an embryo or being at a very early stage
+components:
+  - morpheme: embryo
+    form: embryon
+    meaning_in_word: young developing organism / 胚胎
+    zh: 胚胎
+    role: root
+    is_core: true
+    note: 深层 em-/en- 在内 + bryein 生长充盈；Latin 名词再分析产生 embryo/embryon- 交替，n 不是后加英语后缀。
+    related_morphemes:
+      - en-greek
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - embryo
+word_family_details:
+  - word: embryo
+    en: an organism at an early stage of development; an undeveloped beginning
+    zh: 胚胎；萌芽
+confusables:
+  []
+examples:
+  []
+why_confusing: 

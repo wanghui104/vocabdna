@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: obliter
+display: obliter
+type: root
+core_meaning: erase
+zh: 擦除
+origin: teaching morphology
+source_form: obliter
+source_meaning: erase
+source_meaning_zh: 擦除
+related_morphemes:
+  []
+senses:
+  - meaning: erase
+    zh: 擦除
+    examples:
+      - obliterate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - obliter -> obliterate
+high_value_words:
+  - obliterate
+confusable_words:
+  []

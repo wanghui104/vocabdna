@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fence
+word: fence
+pos: noun/verb
+zh: 围栏；围住；击剑
+en: a barrier enclosing an area; to enclose with a barrier or practice sword fighting
+components:
+  - morpheme: fence
+    form: fence
+    meaning_in_word: defense / 防御
+    zh: 防御
+    role: root
+    is_core: true
+    note: fence 为 defense 缩略，深层 de- 离开 + -fendere 击退；fencing 表层 fenc- + -ing。
+    related_morphemes:
+      - de
+      - fend
+word_family:
+  - fencing
+word_family_details:
+  - word: fencing
+    en: the sport of fighting with swords; fences or material used for fences
+    zh: 击剑；围栏；筑篱材料
+confusables:
+  []
+examples:
+  []
+why_confusing: 

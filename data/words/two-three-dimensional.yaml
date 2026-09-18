@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: two-three-dimensional
+word: two/three dimensional
+pos: phrase
+zh: 两/三维的
+en: having two or three spatial dimensions
+components:
+  - morpheme: two-three
+    form: two/three
+    meaning_in_word: two or three / 二或三
+    zh: 二或三
+    role: root
+    is_core: true
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: mens
+    form: mens
+    meaning_in_word: measure / 测量；尺度
+    zh: 测量；尺度
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 这是固定表达，slug 保留 workbook 的 two-three-dimensional。

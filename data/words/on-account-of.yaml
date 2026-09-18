@@ -11,14 +11,15 @@ components:
     zh: 计算、说明
     role: root
     is_core: true
+    related_morphemes:
+      - com
+      - put-reckon
 word_family:
   []
 word_family_details:
   []
 confusables:
-  - word: because-of
-    reason: 较正式，可用 because of 替换。
-    zh_reason: 较正式，可用 because of 替换。
+  []
 examples:
   - en: The match was delayed on account of rain.
     zh: 比赛因下雨而推迟。

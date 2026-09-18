@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: far-reaching
+word: far-reaching
+pos: adjective
+zh: 影响深远的
+en: having a wide or lasting effect
+components:
+  - morpheme: far
+    form: far
+    meaning_in_word: far / 远
+    zh: 远
+    role: root
+    is_core: true
+    note: far-reaching 为 far + reach + -ing，表示影响范围远。
+  - morpheme: reach
+    form: reach
+    meaning_in_word: reach, stretch out / 伸出；达到
+    zh: 伸出；达到
+    role: root
+    is_core: true
+    note: 简单本族词干，不把 re- 释为再次。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

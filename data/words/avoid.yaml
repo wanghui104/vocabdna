@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: avoid
+word: avoid
+pos: verb
+zh: 避免；避开
+en: to keep away from or prevent something from happening
+components:
+  - morpheme: ab
+    form: a-
+    meaning_in_word: away
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: void
+    form: void
+    meaning_in_word: empty, clear away
+    zh: 空；避开
+    role: root
+    is_core: true
+word_family:
+  - avoidable
+  - avoidance
+word_family_details:
+  - word: avoidable
+    en: able to be prevented or kept away from
+    zh: 可避免的
+  - word: avoidance
+    en: the act of avoiding something
+    zh: 避免；回避
+confusables:
+  - word: avert
+    reason: avoid 更普通；avert 常指阻止危机发生。
+    zh_reason: avoid 更普通；avert 常指阻止危机发生。
+examples:
+  []
+why_confusing: avoid 更普通；avert 常指阻止危机发生。

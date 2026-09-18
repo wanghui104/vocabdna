@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scatter
+display: scatter
+type: root
+core_meaning: scatter
+zh: 分散
+origin: teaching morphology
+source_form: scatter
+source_meaning: scatter
+source_meaning_zh: 分散
+related_morphemes:
+  []
+senses:
+  - meaning: scatter
+    zh: 分散
+    examples:
+      - scatter
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - scatter -> scatter
+high_value_words:
+  - scatter
+confusable_words:
+  []

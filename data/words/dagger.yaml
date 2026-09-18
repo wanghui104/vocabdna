@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dagger
+word: dagger
+pos: noun
+zh: 短剑；匕首
+en: a short knife with a pointed blade used as a weapon
+components:
+  - morpheme: dagger
+    form: dagger
+    meaning_in_word: short pointed blade
+    zh: 短剑；匕首
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dagger 也可指印刷中的剑号符号。

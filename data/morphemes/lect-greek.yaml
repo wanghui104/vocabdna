@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lect-greek
+display: lect
+type: root
+core_meaning: gather, choose
+zh: 收集；选择
+origin: Greek
+source_form: Greek λέγειν (legein), λεκτός (lektos)
+source_meaning: gather, choose
+source_meaning_zh: 收集；选择
+source_note: eclectic 中是选取，不是拉丁 legare 委派；与希腊说话意义有历史联系。
+related_morphemes:
+  []
+senses:
+  - meaning: gather, choose
+    zh: 收集；选择
+    examples:
+      - eclectic
+      - eclecticism
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - lect -> eclectic
+  - lect -> eclecticism
+high_value_words:
+  - eclectic
+  - eclecticism
+confusable_words:
+  []

@@ -14,14 +14,14 @@ components:
   - morpheme: blaze
     form: blaze
     meaning_in_word: flame or shine
-    zh: 火焰、闪耀
+    zh: 燃烧；闪耀
     role: root
     is_core: true
 word_family:
   - blazing
 word_family_details:
   - word: blazing
-    en: burning fiercely or shining very brightly
+    en: burning or shining very brightly
     zh: 炽烧的；闪耀的
 confusables:
   []

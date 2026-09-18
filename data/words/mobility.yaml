@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mobility
+word: mobility
+pos: noun
+zh: 流动性；灵活性
+en: Means 流动性；灵活性; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mob
+    form: mob
+    meaning_in_word: 移动；机动
+    zh: 移动；机动
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mob.
+    related_morphemes:
+      - able
+  - morpheme: ility
+    form: ility
+    meaning_in_word: ility
+    zh: ility
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ility.
+word_family:
+  - mobile
+  - immobile
+word_family_details:
+  - word: mobile
+    en: Means 可移动的 / 易变的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可移动的 / 易变的
+  - word: immobile
+    en: Means 稳定的，不动的，静止的; reviewed from the TOEFL source gloss for learner display.
+    zh: 稳定的，不动的，静止的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

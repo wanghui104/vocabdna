@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fold
+display: fold
+type: root
+core_meaning: bend, fold
+zh: 折叠
+origin: Old English
+source_form: Old English fealdan
+source_meaning: bend, fold
+source_meaning_zh: 折叠
+source_note: 本条为折叠，围栏 fold 来自另一词源。数量后缀 -fold 与倍叠概念相关但单列后缀。
+related_morphemes:
+  []
+senses:
+  - meaning: bend, fold
+    zh: 折叠
+    examples:
+      - fold
+      - folding
+      - unfold
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fold -> fold
+  - fold -> folding
+  - fold -> unfold
+high_value_words:
+  - fold
+  - folding
+  - unfold
+confusable_words:
+  []

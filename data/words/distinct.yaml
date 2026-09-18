@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distinct
+word: distinct
+pos: adjective
+zh: 不同的；分明的；清楚的
+en: clearly different or separate; easy to recognize
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: stingu-stinct
+    form: stinct
+    meaning_in_word: mark off, distinguish / 作标记；区别
+    zh: 作标记；区别
+    role: root
+    is_core: true
+    note: di-（dis- 在 s 前简化）+ stinct- 作标记的分词词干；更深“刺点/推开”的历史意象未定，不强行继续。
+word_family:
+  - distinctly
+  - distinctive
+  - distinctively
+  - distinction
+word_family_details:
+  - word: distinctly
+    en: clearly or unmistakably
+    zh: 清楚地；明显地
+  - word: distinctive
+    en: having a feature that makes something recognizable and different
+    zh: 有特色的；具有辨识度的
+  - word: distinctively
+    en: in a way that is characteristic and recognizable
+    zh: 有特色地；鲜明地
+  - word: distinction
+    en: a difference that separates one thing from another
+    zh: 区别；差异
+confusables:
+  []
+examples:
+  []
+why_confusing: di-（dis- 在 s 前简化）+ stinct- 作标记的分词词干；更深“刺点/推开”的历史意象未定，不强行继续。

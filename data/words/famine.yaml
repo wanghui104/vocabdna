@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: famine
+word: famine
+pos: noun
+zh: 饥荒
+en: an extreme shortage of food affecting many people
+components:
+  - morpheme: famine
+    form: famine
+    meaning_in_word: hunger / 饥饿
+    zh: 饥饿
+    role: root
+    is_core: true
+    note: fames 经俗拉丁及法语派生形成 famine；末尾 -ine 不是物质后缀，fames 更深词源未知。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

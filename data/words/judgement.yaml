@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: judgement
+word: judgement
+pos: noun
+zh: 判决
+en: Means 判决; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: jud
+    form: jud
+    meaning_in_word: 判断；判决
+    zh: 判断；判决
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:jud.
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ment.
+word_family:
+  - judicious
+word_family_details:
+  - word: judicious
+    en: Means 明智的；有判断力的; reviewed from the TOEFL source gloss for learner display.
+    zh: 明智的；有判断力的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

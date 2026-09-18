@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: meaningful
+word: meaningful
+pos: adjective
+zh: 意味深长的
+en: Means 意味深长的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mean
+    form: mean
+    meaning_in_word: 意味
+    zh: 意味
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mean.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ing.
+  - morpheme: ful
+    form: -ful
+    meaning_in_word: 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ful.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

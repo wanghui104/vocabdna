@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adequate
+word: adequate
+pos: adjective
+zh: 足够的；合格的
+en: good enough or sufficient for a particular need
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: equ
+    form: equ
+    meaning_in_word: equal
+    zh: 相等；平衡
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: made
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The shelter provides adequate protection.
+    zh: 这个避难所提供足够保护。
+why_confusing: adequate 有时只是“够用”，不一定表示优秀。

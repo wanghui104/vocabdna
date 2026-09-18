@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elementary
+word: elementary
+pos: adjective
+zh: 基本的；初级的；小学的
+en: basic, introductory, or relating to primary education
+components:
+  - morpheme: element
+    form: element
+    meaning_in_word: basic constituent / 基本组成
+    zh: 基本组成
+    role: root
+    is_core: true
+    note: elementum 更深来源不明，-ment 不能视为英语名词后缀硬拆。
+  - morpheme: ary
+    form: -ary
+    meaning_in_word: relating to / 与……有关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - element
+word_family_details:
+  - word: element
+    en: a basic part of something; a substance consisting of atoms with the same number of protons
+    zh: 要素；化学元素
+confusables:
+  []
+examples:
+  []
+why_confusing: 

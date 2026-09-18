@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: capable
+word: capable
+pos: adjective
+zh: 有能力的
+en: having the ability or qualities needed to do something
+components:
+  - morpheme: cap
+    form: cap
+    meaning_in_word: hold, take
+    zh: 拿；抓；容纳
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - capability
+word_family_details:
+  - word: capability
+    en: the ability or power to do something
+    zh: 能力
+confusables:
+  []
+examples:
+  []
+why_confusing: capable of doing sth。

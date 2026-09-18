@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: behalf
+word: behalf
+pos: noun
+zh: 代表…；作为…的代表
+en: as a representative of someone or for someone's benefit
+components:
+  - morpheme: be
+    form: be
+    meaning_in_word: by, about
+    zh: 使成为、加强
+    role: root
+    is_core: true
+  - morpheme: half
+    form: half
+    meaning_in_word: side
+    zh: 一侧；代表
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 固定搭配 on behalf of。

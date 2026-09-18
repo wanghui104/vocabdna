@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tort
+display: tort
+type: root
+core_meaning: twist
+zh: 扭转
+origin: Latin
+source_form: Latin torquere, tortus
+source_meaning: twist
+source_meaning_zh: 扭转
+source_note: tort- 是 torquere 的分词词干，不与“拉”的 tract- 混同。
+related_morphemes:
+  []
+senses:
+  - meaning: twist
+    zh: 扭转
+    examples:
+      - distort
+      - distorted
+      - distortion
+      - undistorted
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tort -> distort
+  - tort -> distorted
+  - tort -> distortion
+  - tort -> undistorted
+high_value_words:
+  - distort
+  - distorted
+  - distortion
+  - undistorted
+confusable_words:
+  []

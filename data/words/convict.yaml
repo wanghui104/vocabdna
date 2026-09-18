@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: convict
+word: convict
+pos: verb/noun
+zh: 证明有罪；宣告有罪；罪犯
+en: to find or prove someone guilty, or a person found guilty
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: vinc
+    form: vict
+    meaning_in_word: overcome, conquer
+    zh: 战胜；说服
+    role: root
+    is_core: true
+word_family:
+  - conviction
+  - convince
+  - convincing
+  - unconvincing
+  - convinced
+word_family_details:
+  - word: conviction
+    en: a firm belief, or the act/result of finding someone guilty
+    zh: 确信；深信；定罪；判罪
+  - word: convince
+    en: to make someone believe that something is true
+    zh: 使确信；说服
+  - word: convincing
+    en: able to make someone believe something is true
+    zh: 令人信服的
+  - word: unconvincing
+    en: not able to make someone believe something is true
+    zh: 不足以令人相信的
+  - word: convinced
+    en: firmly believing that something is true
+    zh: 确信的；深信的
+confusables:
+  []
+examples:
+  []
+why_confusing: convict someone of a crime.

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: slumber
+display: slumber
+type: root
+core_meaning: doze
+zh: 睡眠
+origin: Old English
+source_form: Old English slumerian
+source_meaning: doze
+source_meaning_zh: 睡眠
+related_morphemes:
+  []
+senses:
+  - meaning: doze
+    zh: 睡眠
+    examples:
+      - slumber
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - slumber -> slumber
+high_value_words:
+  - slumber
+confusable_words:
+  []

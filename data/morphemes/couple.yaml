@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: couple
+display: couple
+type: root
+core_meaning: pair, join
+zh: 一对；连接
+origin: Latin
+source_form: Latin copula
+source_meaning: bond, tie
+source_meaning_zh: 纽带；连接
+related_morphemes:
+  []
+senses:
+  - meaning: pair, join
+    zh: 一对；连接
+    examples:
+      - couple
+      - coupled with
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - couple -> couple
+  - coupled -> coupled with
+high_value_words:
+  - couple
+  - coupled with
+confusable_words:
+  []

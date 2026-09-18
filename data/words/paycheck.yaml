@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: paycheck
+word: paycheck
+pos: noun
+zh: 薪水支票；工资
+en: money received as wages, originally by check
+components:
+  - morpheme: pay
+    form: pay
+    meaning_in_word: pay
+    zh: 支付；薪水
+    role: root
+    is_core: true
+  - morpheme: check
+    form: check
+    meaning_in_word: bank check
+    zh: 检查；阻止；支票
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: live paycheck to paycheck 指月光/靠工资勉强维持。

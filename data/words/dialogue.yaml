@@ -1,28 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: dialogue
 word: dialogue
 pos: noun
-phonetic: /ˈdaɪəlɔːɡ/
-zh: 对话；交流
-en: conversation between two or more people
+zh: 对话；对白
+en: a conversation between people, or written speech in a text
 components:
   - morpheme: dia
     form: dia-
-    meaning_in_word: through / across / between
-    zh: 穿过；相互之间
+    meaning_in_word: between
+    zh: 穿过；横跨
     role: prefix
-  - morpheme: log
-    form: -logue
-    meaning_in_word: speech / discourse
-    zh: 话语；言说
+    is_core: false
+  - morpheme: leg-speak
+    form: logue
+    meaning_in_word: speech
+    zh: 说话；论述
     role: root
+    is_core: true
 word_family:
-  - dialogic
-  - dialogical
+  []
+word_family_details:
+  []
 confusables:
-  - word: monologue
-    reason: mono- marks one speaker; dia- marks speech moving between sides.
-  - word: prologue
-    reason: the -logue ending is shared, but pro- changes the function.
+  []
 examples:
-  - en: Real dialogue requires listening, not just taking turns.
-    zh: 真正的对话需要倾听，而不只是轮流说话。
+  []
+why_confusing: dialogue 不限于两个人；这是常见误解。

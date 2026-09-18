@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: thorn
+display: thorn
+type: root
+core_meaning: draft meaning for thorn
+zh: （植物的）刺，棘
+origin: Unknown
+source_form: TOEFL draft opaque stem: thorn
+source_meaning: draft learner stem for thorn
+source_meaning_zh: （植物的）刺，棘
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for thorn
+    zh: （植物的）刺，棘
+    examples:
+      - thorn
+      - thorny
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - thorn -> thorn
+  - thorn -> thorny
+high_value_words:
+  - thorn
+  - thorny
+confusable_words:
+  []

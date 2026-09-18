@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: endangered
+word: endangered
+pos: adjective
+zh: 濒危的；面临危险的
+en: at serious risk, especially of extinction
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: danger
+    form: danger
+    meaning_in_word: danger, risk / 危险；风险
+    zh: 危险；风险
+    role: root
+    is_core: true
+    note: 表层 danger，dangerous = danger + -ous。深层 Old French dangier ← *dominarium 主人的权力 ← Latin dominus 主人 ← domus 房屋；从受人控制发展为危险。此来源不是英语后缀 -dom。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - endanger
+word_family_details:
+  - word: endanger
+    en: to put at risk of harm or loss
+    zh: 危及
+confusables:
+  []
+examples:
+  []
+why_confusing: 

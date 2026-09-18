@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crossbones
+word: crossbones
+pos: noun
+zh: 十字交叉骨；骷髅标志的一部分
+en: two bones shown crossing each other, often as part of a danger symbol
+components:
+  - morpheme: cross
+    form: cross
+    meaning_in_word: cross / 交叉；杂交
+    zh: 交叉；杂交
+    role: root
+    is_core: true
+  - morpheme: bone
+    form: bone
+    meaning_in_word: bone / 骨头
+    zh: 骨头
+    role: root
+    is_core: true
+  - morpheme: s
+    form: -s
+    meaning_in_word: plural or institutional form / 复数；机构化形式
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常见于 skull and crossbones。

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blunt
+word: blunt
+pos: adjective
+zh: 直言不讳的；钝的
+en: not sharp, or very direct in speech
+components:
+  - morpheme: blunt
+    form: blunt
+    meaning_in_word: dull
+    zh: 钝；直率
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: blunt 可褒可贬，取决于语境。

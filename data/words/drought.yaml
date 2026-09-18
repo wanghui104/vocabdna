@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: drought
+word: drought
+pos: noun
+zh: 干旱
+en: a prolonged period with too little rain
+components:
+  - morpheme: drought
+    form: drought
+    meaning_in_word: dryness / 干燥；干旱
+    zh: 干燥；干旱
+    role: root
+    is_core: true
+    note: 深层 dry 的历史词干 + 抽象名词 -th，音变形成 drought；保留稳定拼写，不按现代字母硬拆。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

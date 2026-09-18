@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bill
+display: bill
+type: root
+core_meaning: beak
+zh: 喙
+origin: Old English
+source_form: Old English bile
+source_meaning: beak
+source_meaning_zh: 喙
+related_morphemes:
+  []
+senses:
+  - meaning: beak
+    zh: 喙
+    examples:
+      - hornbill
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bill -> hornbill
+high_value_words:
+  - hornbill
+confusable_words:
+  []

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: destine
+word: destine
+pos: verb
+zh: 命运注定；预定
+en: to intend or appoint someone or something for a particular future
+components:
+  - morpheme: destin
+    form: destine
+    meaning_in_word: appoint, fix / 注定；指定
+    zh: 注定；指定
+    role: root
+    is_core: true
+    note: 表层 destin- 指定、确定；Latin destinare 深层 de- 加强 + -stinare 使稳固，关联 stare 站立。destination 再接 -ation；不把 destin 整体当最底层。
+    related_morphemes:
+      - de
+      - stand
+word_family:
+  - destination
+word_family_details:
+  - word: destination
+    en: the place to which someone or something is going
+    zh: 目的地；终点
+confusables:
+  []
+examples:
+  []
+why_confusing: be destined for/to do 常用被动，表示注定会发生。

@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dawn
+word: dawn
+pos: noun/verb
+zh: 黎明；开端；开始显现
+en: the first light of day, or the beginning of something
+components:
+  - morpheme: dawn
+    form: dawn
+    meaning_in_word: become day
+    zh: 黎明；开端
+    role: root
+    is_core: true
+word_family:
+  - dawning
+word_family_details:
+  - word: dawning
+    en: the first appearance of light or the beginning of awareness
+    zh: 拂晓；黎明；开端
+confusables:
+  []
+examples:
+  []
+why_confusing: It dawned on me = 我开始明白。

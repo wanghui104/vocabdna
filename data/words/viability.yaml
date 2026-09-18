@@ -2,36 +2,29 @@
 id: viability
 word: viability
 pos: noun
-zh: 生存能力；可行性
-en: the ability to live, continue, or succeed
+zh: 生存能力，发育能力
+en: Means 生存能力，发育能力; reviewed from the TOEFL source gloss for learner display.
 components:
-  - morpheme: viv-vit
+  - morpheme: vi
     form: vi
-    meaning_in_word: life
-    zh: 生命、活着
+    meaning_in_word: life / 生命
+    zh: 生命
     role: root
     is_core: true
-  - morpheme: able
-    form: -able
-    meaning_in_word: able to be
-    zh: 能够被……的
-    role: suffix
-    is_core: false
-  - morpheme: ity
-    form: -ity
-    meaning_in_word: quality or state
-    zh: 性质、状态
-    role: suffix
-    is_core: false
+  - morpheme: ability
+    form: ability
+    meaning_in_word: ability / ability
+    zh: ability
+    role: root
+    is_core: true
 word_family:
-  []
+  - viable
 word_family_details:
-  []
+  - word: viable
+    en: Means 可行的，切实可行的；能活下去的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可行的，切实可行的；能活下去的
 confusables:
-  - word: vitality
-    reason: viable 是形容词；viability 是名词。
-    zh_reason: viable 是形容词；viability 是名词。
+  []
 examples:
-  - en: The study tested the plan's viability.
-    zh: 这项研究检验了计划的可行性。
-why_confusing: viable 是形容词；viability 是名词。
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

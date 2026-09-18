@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: enact
+word: enact
+pos: verb
+zh: 制定法律；上演
+en: to make a law or perform an action or scene
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: act
+    form: act
+    meaning_in_word: do, drive, act / 做、驱动
+    zh: 做、驱动
+    role: root
+    is_core: true
+word_family:
+  - enactment
+word_family_details:
+  - word: enactment
+    en: the making of a law; the performance of an action or scene
+    zh: 法律制定；演出
+confusables:
+  []
+examples:
+  []
+why_confusing: 

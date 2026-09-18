@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mim
+display: mim
+type: root
+core_meaning: mime, mimic
+zh: 模仿
+origin: Greek
+source_form: Greek mimos
+source_meaning: mime, mimic
+source_meaning_zh: 模仿
+related_morphemes:
+  []
+senses:
+  - meaning: mime, mimic
+    zh: 模仿
+    examples:
+      - mime
+      - mimetic
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - mim -> mime
+  - mim -> mimetic
+high_value_words:
+  - mime
+  - mimetic
+confusable_words:
+  []

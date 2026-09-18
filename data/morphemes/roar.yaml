@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: roar
+display: roar
+type: root
+core_meaning: roar
+zh: 吼叫
+origin: teaching morphology
+source_form: roar
+source_meaning: roar
+source_meaning_zh: 吼叫
+related_morphemes:
+  []
+senses:
+  - meaning: roar
+    zh: 吼叫
+    examples:
+      - roar
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - roar -> roar
+high_value_words:
+  - roar
+confusable_words:
+  []

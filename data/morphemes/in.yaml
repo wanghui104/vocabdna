@@ -8,24 +8,714 @@ origin: Latin
 source_form: Latin in-
 source_meaning: in, into, on, onto
 source_meaning_zh: 在……之中；进入；到……上
-source_note: In inundate, in- is the locative/directional Latin prefix meaning onto or over, not the negative in- meaning not.
+source_note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
 related_morphemes:
   []
 senses:
   - meaning: in, into, on, onto
     zh: 在内、进入、到……上
     examples:
+      - all-inclusive
+      - be informed about
+      - coincidence
+      - coincident
+      - desalination
+      - disillusion
+      - disintegrate
+      - embarrass
+      - embed
+      - embellish
+      - embellishment
+      - embody
+      - emboss
+      - embrace
+      - embroider
+      - embroidery
+      - employ
+      - employee
+      - employer
+      - employment
+      - enact
+      - enactment
+      - encase
+      - enclose
+      - enclosure
+      - encompass
+      - encounter
+      - encourage
+      - encroach
+      - endanger
+      - endangered
+      - endeavor
+      - endow
+      - endowment
+      - endurance
+      - endure
+      - enduring
+      - engage
+      - engage in
+      - engagement
+      - engaging
+      - engrave
+      - engraving
+      - enhance
+      - enlighten
+      - enlightenment
+      - enrich
+      - entangle
+      - entanglement
+      - entitle
+      - entitled
+      - entrench
+      - envelop
+      - envelope
+      - imaginative
+      - in accord with
+      - in addition to
+      - in common
+      - in conjunction with
+      - in scale
+      - in terms of
+      - inaccessible
+      - inactivate
+      - inadequate
+      - inanimate
+      - inappropriate
+      - inaugurate
+      - incandescent
+      - incapacitate
+      - incense
+      - incentive
+      - incessant
+      - incidence
+      - incident
+      - incidentally
+      - incise
+      - incisive
+      - inclination
+      - inclined
+      - inclusive
+      - incompatible
+      - incomprehensible
+      - inconclusive
+      - incongruity
+      - incongruous
+      - inconvenient
+      - incorpoarate
+      - incorporation
+      - incredible
+      - incredulity
+      - incur
+      - indefinite
+      - indefinitely
+      - indent
+      - indented
+      - indenture
+      - indicate
+      - indicative
+      - indifference
+      - indifferent
+      - indigestion
+      - indiscriminately
+      - indiscrimination
+      - indispensable
+      - induce
+      - inducible
+      - ineligible
+      - inert
+      - inevitably
+      - inextricably
+      - infancy
+      - infection
+      - infectious
+      - inferior
+      - inferiority
+      - infertile
+      - infest
+      - infiltrate
+      - infirmary
+      - inflate
+      - inflation
+      - inflexible
+      - inflict
+      - influential
+      - influenza
+      - influx
+      - inform
+      - informal
+      - informative
+      - informed
+      - infuse
+      - infusion
+      - ingenious
+      - ingeniously
+      - ingredient
+      - inhabit
+      - inhabitant
+      - inherent
+      - inherit
+      - inheritance
+      - inhibit
+      - inject
+      - injury
+      - injustice
+      - innate
+      - innocent
+      - innovation
+      - innovative
+      - innumerable
+      - inoffensive
+      - inorganic chemical
+      - inpractical
+      - inquiry
+      - insanity
+      - insert
+      - insight
+      - insignificant
+      - insist
+      - insistence
+      - inspect
+      - inspection
+      - inspector
+      - inspiration
+      - inspire
+      - inspiring
+      - install
+      - installment
+      - instantaneous
+      - instinct
+      - instinctive
+      - instinctively
+      - institute
+      - institution
+      - institutionalize
+      - instruct
+      - instruction
+      - instructive
+      - instrument
+      - instrumental
+      - instrumentalist
+      - insufficient
+      - insulation
+      - insult
+      - insulting
+      - insurmountable
+      - intact
+      - integral
+      - integrate
+      - integrated
+      - integrity
+      - intense
+      - intensify
+      - intensive
+      - intention
+      - intentionally
+      - intoxication
+      - intrepid
+      - intricate
+      - intricately
+      - intrigue
+      - intriguing
+      - intrinsic
+      - intruder
+      - intruding
+      - intrusion
       - inundate
       - inundation
+      - invade
+      - invader
+      - invariably
+      - invasion
+      - inventory
+      - invertebrate
+      - investigate
+      - investigation
+      - inviting
+      - involuntary
+      - platitudinous
+      - pollinate
+      - pollination
+      - pollinator
+      - reinforce
+      - salinity
+      - secretin
+      - stand in the way of
+      - unimaginable
+      - uninhabited
+      - usher in
+      - entangled
+      - disentangle
+      - disentangled
+      - disentanglement
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - in- -> all-inclusive
+  - in- -> be informed about
+  - in- -> coincidence
+  - in- -> coincident
+  - in- -> desalination
+  - il- -> disillusion
+  - in- -> disintegrate
+  - em- -> embarrass
+  - em- -> embed
+  - em- -> embellish
+  - em- -> embellishment
+  - em- -> embody
+  - em- -> emboss
+  - em- -> embrace
+  - em- -> embroider
+  - em- -> embroidery
+  - em- -> employ
+  - em- -> employee
+  - em- -> employer
+  - em- -> employment
+  - en- -> enact
+  - en- -> enactment
+  - en- -> encase
+  - en- -> enclose
+  - en- -> enclosure
+  - en- -> encompass
+  - en- -> encounter
+  - en- -> encourage
+  - en- -> encroach
+  - en- -> endanger
+  - en- -> endangered
+  - en- -> endeavor
+  - en- -> endow
+  - en- -> endowment
+  - en- -> endurance
+  - en- -> endure
+  - en- -> enduring
+  - en- -> engage
+  - en- -> engage in
+  - en- -> engagement
+  - en- -> engaging
+  - en- -> engrave
+  - en- -> engraving
+  - en- -> enhance
+  - en- -> enlighten
+  - en- -> enlightenment
+  - en- -> enrich
+  - en- -> entangle
+  - en- -> entanglement
+  - en- -> entitle
+  - en- -> entitled
+  - en- -> entrench
+  - en- -> envelop
+  - en- -> envelope
+  - in- -> imaginative
+  - in- -> in accord with
+  - in- -> in addition to
+  - in- -> in common
+  - in- -> in conjunction with
+  - in- -> in scale
+  - in- -> in terms of
+  - in- -> inaccessible
+  - in- -> inactivate
+  - in- -> inadequate
+  - in- -> inanimate
+  - in- -> inappropriate
+  - in- -> inaugurate
+  - in- -> incandescent
+  - in- -> incapacitate
+  - in- -> incense
+  - in- -> incentive
+  - in- -> incessant
+  - in- -> incidence
+  - in- -> incident
+  - in- -> incidentally
+  - in- -> incise
+  - in- -> incisive
+  - in- -> inclination
+  - in- -> inclined
+  - in- -> inclusive
+  - in- -> incompatible
+  - in- -> incomprehensible
+  - in- -> inconclusive
+  - in- -> incongruity
+  - in- -> incongruous
+  - in- -> inconvenient
+  - in- -> incorpoarate
+  - in- -> incorporation
+  - in- -> incredible
+  - in- -> incredulity
+  - in- -> incur
+  - in- -> indefinite
+  - in- -> indefinitely
+  - in- -> indent
+  - in- -> indented
+  - in- -> indenture
+  - in- -> indicate
+  - in- -> indicative
+  - in- -> indifference
+  - in- -> indifferent
+  - in- -> indigestion
+  - in- -> indiscriminately
+  - in- -> indiscrimination
+  - in- -> indispensable
+  - in- -> induce
+  - in- -> inducible
+  - in- -> ineligible
+  - in- -> inert
+  - in- -> inevitably
+  - in- -> inextricably
+  - in- -> infancy
+  - in- -> infection
+  - in- -> infectious
+  - in- -> inferior
+  - in- -> inferiority
+  - in- -> infertile
+  - in- -> infest
+  - in- -> infiltrate
+  - in- -> infirmary
+  - in- -> inflate
+  - in- -> inflation
+  - in- -> inflexible
+  - in- -> inflict
+  - in- -> influential
+  - in- -> influenza
+  - in- -> influx
+  - in- -> inform
+  - in- -> informal
+  - in- -> informative
+  - in- -> informed
+  - in- -> infuse
+  - in- -> infusion
+  - in- -> ingenious
+  - in- -> ingeniously
+  - in- -> ingredient
+  - in- -> inhabit
+  - in- -> inhabitant
+  - in- -> inherent
+  - in- -> inherit
+  - in- -> inheritance
+  - in- -> inhibit
+  - in- -> inject
+  - in- -> injury
+  - in- -> injustice
+  - in- -> innate
+  - in- -> innocent
+  - in- -> innovation
+  - in- -> innovative
+  - in- -> innumerable
+  - in- -> inoffensive
+  - in- -> inorganic chemical
+  - in- -> inpractical
+  - in- -> inquiry
+  - in- -> insanity
+  - in- -> insert
+  - in- -> insight
+  - in- -> insignificant
+  - in- -> insist
+  - in- -> insistence
+  - in- -> inspect
+  - in- -> inspection
+  - in- -> inspector
+  - in- -> inspiration
+  - in- -> inspire
+  - in- -> inspiring
+  - in- -> install
+  - in- -> installment
+  - in- -> instantaneous
+  - in- -> instinct
+  - in- -> instinctive
+  - in- -> instinctively
+  - in- -> institute
+  - in- -> institution
+  - in- -> institutionalize
+  - in- -> instruct
+  - in- -> instruction
+  - in- -> instructive
+  - in- -> instrument
+  - in- -> instrumental
+  - in- -> instrumentalist
+  - in- -> insufficient
+  - in- -> insulation
+  - in- -> insult
+  - in- -> insulting
+  - in- -> insurmountable
+  - in- -> intact
+  - in- -> integral
+  - in- -> integrate
+  - in- -> integrated
+  - in- -> integrity
+  - in- -> intense
+  - in- -> intensify
+  - in- -> intensive
+  - in- -> intention
+  - in- -> intentionally
+  - in- -> intoxication
+  - in- -> intrepid
+  - in- -> intricate
+  - in- -> intricately
+  - in- -> intrigue
+  - in- -> intriguing
+  - in- -> intrinsic
+  - in- -> intruder
+  - in- -> intruding
+  - in- -> intrusion
   - in- -> inundate
   - in- -> inundation
+  - in- -> invade
+  - in- -> invader
+  - in- -> invariably
+  - in- -> invasion
+  - in- -> inventory
+  - in- -> invertebrate
+  - in- -> investigate
+  - in- -> investigation
+  - in- -> inviting
+  - in- -> involuntary
+  - in -> platitudinous
+  - in -> pollinate
+  - in -> pollination
+  - in -> pollinator
+  - in -> reinforce
+  - in- -> salinity
+  - in- -> secretin
+  - in- -> stand in the way of
+  - in- -> unimaginable
+  - in- -> uninhabited
+  - in- -> usher in
+  - en- -> entangled
+  - en- -> disentangle
+  - en- -> disentangled
+  - en- -> disentanglement
 high_value_words:
+  - all-inclusive
+  - be informed about
+  - coincidence
+  - coincident
+  - desalination
+  - disillusion
+  - disintegrate
+  - embarrass
+  - embed
+  - embellish
+  - embellishment
+  - embody
+  - emboss
+  - embrace
+  - embroider
+  - embroidery
+  - employ
+  - employee
+  - employer
+  - employment
+  - enact
+  - enactment
+  - encase
+  - enclose
+  - enclosure
+  - encompass
+  - encounter
+  - encourage
+  - encroach
+  - endanger
+  - endangered
+  - endeavor
+  - endow
+  - endowment
+  - endurance
+  - endure
+  - enduring
+  - engage
+  - engage in
+  - engagement
+  - engaging
+  - engrave
+  - engraving
+  - enhance
+  - enlighten
+  - enlightenment
+  - enrich
+  - entangle
+  - entanglement
+  - entitle
+  - entitled
+  - entrench
+  - envelop
+  - envelope
+  - imaginative
+  - in accord with
+  - in addition to
+  - in common
+  - in conjunction with
+  - in scale
+  - in terms of
+  - inaccessible
+  - inactivate
+  - inadequate
+  - inanimate
+  - inappropriate
+  - inaugurate
+  - incandescent
+  - incapacitate
+  - incense
+  - incentive
+  - incessant
+  - incidence
+  - incident
+  - incidentally
+  - incise
+  - incisive
+  - inclination
+  - inclined
+  - inclusive
+  - incompatible
+  - incomprehensible
+  - inconclusive
+  - incongruity
+  - incongruous
+  - inconvenient
+  - incorpoarate
+  - incorporation
+  - incredible
+  - incredulity
+  - incur
+  - indefinite
+  - indefinitely
+  - indent
+  - indented
+  - indenture
+  - indicate
+  - indicative
+  - indifference
+  - indifferent
+  - indigestion
+  - indiscriminately
+  - indiscrimination
+  - indispensable
+  - induce
+  - inducible
+  - ineligible
+  - inert
+  - inevitably
+  - inextricably
+  - infancy
+  - infection
+  - infectious
+  - inferior
+  - inferiority
+  - infertile
+  - infest
+  - infiltrate
+  - infirmary
+  - inflate
+  - inflation
+  - inflexible
+  - inflict
+  - influential
+  - influenza
+  - influx
+  - inform
+  - informal
+  - informative
+  - informed
+  - infuse
+  - infusion
+  - ingenious
+  - ingeniously
+  - ingredient
+  - inhabit
+  - inhabitant
+  - inherent
+  - inherit
+  - inheritance
+  - inhibit
+  - inject
+  - injury
+  - injustice
+  - innate
+  - innocent
+  - innovation
+  - innovative
+  - innumerable
+  - inoffensive
+  - inorganic chemical
+  - inpractical
+  - inquiry
+  - insanity
+  - insert
+  - insight
+  - insignificant
+  - insist
+  - insistence
+  - inspect
+  - inspection
+  - inspector
+  - inspiration
+  - inspire
+  - inspiring
+  - install
+  - installment
+  - instantaneous
+  - instinct
+  - instinctive
+  - instinctively
+  - institute
+  - institution
+  - institutionalize
+  - instruct
+  - instruction
+  - instructive
+  - instrument
+  - instrumental
+  - instrumentalist
+  - insufficient
+  - insulation
+  - insult
+  - insulting
+  - insurmountable
+  - intact
+  - integral
+  - integrate
+  - integrated
+  - integrity
+  - intense
+  - intensify
+  - intensive
+  - intention
+  - intentionally
+  - intoxication
+  - intrepid
+  - intricate
+  - intricately
+  - intrigue
+  - intriguing
+  - intrinsic
+  - intruder
+  - intruding
+  - intrusion
   - inundate
   - inundation
+  - invade
+  - invader
+  - invariably
+  - invasion
+  - inventory
+  - invertebrate
+  - investigate
+  - investigation
+  - inviting
+  - involuntary
+  - platitudinous
+  - pollinate
+  - pollination
+  - pollinator
+  - reinforce
+  - salinity
+  - secretin
+  - stand in the way of
+  - unimaginable
+  - uninhabited
+  - usher in
+  - entangled
+  - disentangle
+  - disentangled
+  - disentanglement
 confusable_words:
   []

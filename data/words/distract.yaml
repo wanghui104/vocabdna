@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distract
+word: distract
+pos: verb
+zh: 分散注意力；使分心
+en: to draw attention away from something
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: tract
+    form: tract
+    meaning_in_word: draw, pull / 拉、抽出
+    zh: 拉、抽出
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 结合例句理解词义，不把词源意象当成全部现代释义。

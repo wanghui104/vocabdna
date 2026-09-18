@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distill
+word: distill
+pos: verb
+zh: 蒸馏；提炼精华
+en: to purify a liquid by evaporation and condensation; to extract its essential content
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: still-drop
+    form: still
+    meaning_in_word: drop, drip / 水滴；滴落
+    zh: 水滴；滴落
+    role: root
+    is_core: true
+    note: 表层 di- + still- 滴。Etymonline 解释 dis- + stillare；Merriam-Webster 指 Late Latin distillare 改自 de- + stillare 的 destillare。保留两条前缀历史解释，滴落词根明确。
+word_family:
+  - distillation
+word_family_details:
+  - word: distillation
+    en: separation or purification by evaporation and condensation; extraction of essentials
+    zh: 蒸馏；提炼
+confusables:
+  []
+examples:
+  []
+why_confusing: 表层 di- + still- 滴。Etymonline 解释 dis- + stillare；Merriam-Webster 指 Late Latin distillare 改自 de- + stillare 的 destillare。保留两条前缀历史解释，滴落词根明确。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ascend
+word: ascend
+pos: verb
+zh: 上升；升高；攀登
+en: to move upward or climb
+components:
+  - morpheme: ad
+    form: a-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: scend
+    form: scend
+    meaning_in_word: climb
+    zh: 攀登；上升
+    role: root
+    is_core: true
+word_family:
+  - ascending
+  - ascent
+word_family_details:
+  - word: ascending
+    en: moving or arranged from lower to higher
+    zh: 上升的；向上的
+  - word: ascent
+    en: Means 上升，攀登; reviewed from the TOEFL source gloss for learner display.
+    zh: 上升，攀登
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

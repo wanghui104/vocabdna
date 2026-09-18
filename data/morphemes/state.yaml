@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: state
+display: state
+type: root
+core_meaning: state; condition
+zh: 状态；国家
+origin: Latin
+source_form: state
+source_meaning: state; condition
+source_meaning_zh: 状态；国家
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: state; condition
+    zh: 状态；国家
+    examples:
+      - stately
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - state -> stately
+high_value_words:
+  - stately
+confusable_words:
+  []

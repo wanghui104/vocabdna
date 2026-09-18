@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: enormous
+word: enormous
+pos: adjective
+zh: 巨大的
+en: extremely large in size or amount
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: norm
+    form: norm
+    meaning_in_word: standard, rule / 标准、规则
+    zh: 标准、规则
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: full of, having / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

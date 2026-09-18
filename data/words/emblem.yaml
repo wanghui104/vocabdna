@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: emblem
+word: emblem
+pos: noun
+zh: 象征；徽章
+en: a symbol or object representing an idea or group
+components:
+  - morpheme: emblem
+    form: emblem
+    meaning_in_word: inlaid ornament, symbol / 镶嵌装饰；象征
+    zh: 镶嵌装饰；象征
+    role: root
+    is_core: true
+    note: 深层 em-/en- 在内 + ballein 投放 + -ma/-mat- 结果；emblem 是传入时收缩的名词形。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

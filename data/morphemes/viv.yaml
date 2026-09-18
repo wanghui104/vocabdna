@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: viv
+display: viv
+type: root
+core_meaning: live
+zh: 活
+origin: teaching morphology
+source_form: viv
+source_meaning: live
+source_meaning_zh: 活
+related_morphemes:
+  []
+senses:
+  - meaning: live
+    zh: 活
+    examples:
+      - revival
+      - revive
+      - survivability
+      - survival
+      - survive
+      - survivor
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - viv -> revival
+  - viv -> revive
+  - viv -> survivability
+  - viv -> survival
+  - viv -> survive
+  - viv -> survivor
+high_value_words:
+  - revival
+  - revive
+  - survivability
+  - survival
+  - survive
+  - survivor
+confusable_words:
+  []

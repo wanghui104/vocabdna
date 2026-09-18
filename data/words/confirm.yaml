@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confirm
+word: confirm
+pos: verb
+zh: 证实；确认；使更坚定
+en: to show that something is true or make it definite
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: completely
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: firm
+    form: firm
+    meaning_in_word: firm, strong
+    zh: 坚定；坚固
+    role: root
+    is_core: true
+word_family:
+  - confirmation
+word_family_details:
+  - word: confirmation
+    en: proof or an official statement that something is true or definite
+    zh: 确认；证实
+confusables:
+  []
+examples:
+  []
+why_confusing: confirm a booking/report; confirm that...

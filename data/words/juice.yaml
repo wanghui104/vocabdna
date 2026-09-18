@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: juice
+word: juice
+pos: noun
+zh: （水果）汁，液
+en: Means （水果）汁，液; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: juice
+    form: juice
+    meaning_in_word: 汁液
+    zh: 汁液
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:juice.
+word_family:
+  - juicy
+word_family_details:
+  - word: juicy
+    en: Means 多汁液的; reviewed from the TOEFL source gloss for learner display.
+    zh: 多汁液的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

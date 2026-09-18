@@ -21,17 +21,24 @@ senses:
       - abrasion
       - abrasive
       - abrupt
-      - absent
       - absence
+      - absent
       - absolute
       - absorb
       - absorption
       - abstract
       - absurd
+      - abundance
       - abundant
       - abundantly
-      - abundance
       - abuse
+      - averse
+      - aversion
+      - avert
+      - avocational
+      - avoid
+      - avoidable
+      - avoidance
 similar_form:
   []
 similar_meaning:
@@ -44,17 +51,24 @@ patterns:
   - a- -> abrasion
   - a- -> abrasive
   - ab- -> abrupt
-  - ab- -> absent
   - ab- -> absence
+  - ab- -> absent
   - ab- -> absolute
   - ab- -> absorb
   - ab- -> absorption
   - abs- -> abstract
   - ab- -> absurd
+  - ab- -> abundance
   - ab- -> abundant
   - ab- -> abundantly
-  - ab- -> abundance
   - ab- -> abuse
+  - a- -> averse
+  - a- -> aversion
+  - a- -> avert
+  - a- -> avocational
+  - a- -> avoid
+  - a- -> avoidable
+  - a- -> avoidance
 high_value_words:
   - ablaze
   - abnormal
@@ -63,16 +77,23 @@ high_value_words:
   - abrasion
   - abrasive
   - abrupt
-  - absent
   - absence
+  - absent
   - absolute
   - absorb
   - absorption
   - abstract
   - absurd
+  - abundance
   - abundant
   - abundantly
-  - abundance
   - abuse
+  - averse
+  - aversion
+  - avert
+  - avocational
+  - avoid
+  - avoidable
+  - avoidance
 confusable_words:
   []

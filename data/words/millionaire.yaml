@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: millionaire
+word: millionaire
+pos: noun
+zh: 百万富翁
+en: Means 百万富翁; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: million
+    form: million
+    meaning_in_word: 百万
+    zh: 百万
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:million.
+  - morpheme: aire
+    form: aire
+    meaning_in_word: aire
+    zh: aire
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:aire.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

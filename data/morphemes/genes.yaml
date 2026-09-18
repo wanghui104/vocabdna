@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: genes
+display: genes
+type: root
+core_meaning: origin; birth
+zh: 起源；出生
+origin: Greek
+source_form: Greek genesis
+source_meaning: origin; birth
+source_meaning_zh: 起源；出生
+related_morphemes:
+  []
+senses:
+  - meaning: origin; birth
+    zh: 起源；出生
+    examples:
+      - genesis
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - genes -> genesis
+high_value_words:
+  - genesis
+confusable_words:
+  []

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chord
+word: chord
+pos: noun
+zh: 琴弦；心弦；和弦
+en: a group of musical notes sounded together, or a string/line in older senses
+components:
+  - morpheme: chord
+    form: chord
+    meaning_in_word: string
+    zh: 弦；和弦
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cord 是绳；chord 多用于音乐/几何。

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: analyze
+word: analyze
+pos: verb
+zh: 分析；分解
+en: to examine something by separating it into parts
+components:
+  - morpheme: ana
+    form: ana-
+    meaning_in_word: up, apart
+    zh: 向上；返回；贯穿
+    role: prefix
+    is_core: false
+  - morpheme: lys
+    form: lyze
+    meaning_in_word: loosen, break apart
+    zh: 释放；催化
+    role: root
+    is_core: true
+word_family:
+  - analysis
+word_family_details:
+  - word: analysis
+    en: detailed examination of the parts or structure of something
+    zh: 分析；分析报告
+confusables:
+  - word: analogy
+    reason: 美式 analyze；英式常写 analyse。
+    zh_reason: 美式 analyze；英式常写 analyse。
+examples:
+  []
+why_confusing: 美式 analyze；英式常写 analyse。

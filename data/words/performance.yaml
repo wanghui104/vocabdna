@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: performance
+word: performance
+pos: noun
+zh: 履行，执行；表演，演奏
+en: Means 履行，执行；表演，演奏; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: per
+    form: per-
+    meaning_in_word: through; thoroughly / 穿过；彻底
+    zh: 穿过、完全
+    role: prefix
+    is_core: false
+  - morpheme: form
+    form: form
+    meaning_in_word: form; shape / 形式；表演
+    zh: 形式；符合
+    role: root
+    is_core: true
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: state or act / 状态或动作
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - perform
+  - performer
+word_family_details:
+  - word: perform
+    en: Means 履行，执行；表演，演出; reviewed from the TOEFL source gloss for learner display.
+    zh: 履行，执行；表演，演出
+  - word: performer
+    en: Means 表演者; reviewed from the TOEFL source gloss for learner display.
+    zh: 表演者
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

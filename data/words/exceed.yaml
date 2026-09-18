@@ -3,35 +3,28 @@ id: exceed
 word: exceed
 pos: verb
 zh: 超过；超出
-en: to be greater than a limit or expectation
+en: to be greater than a number, limit, or expectation
 components:
   - morpheme: e
     form: ex-
-    meaning_in_word: out, beyond
-    zh: 出、向外
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
     role: prefix
     is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
   - morpheme: excess-ceed
     form: ceed
-    meaning_in_word: go
-    zh: 走、前进、让步
+    meaning_in_word: go, yield / 走；让步
+    zh: 走；让步
     role: root
     is_core: true
+    note: ceed/cess 为 cedere 的英语表层和分词变体，exceed/excess 深层 ex- 超出 + cedere。
 word_family:
-  - excess
-  - exceedingly
+  []
 word_family_details:
-  - word: excess
-    en: related form of excess
-    zh: excess 的相关词
-  - word: exceedingly
-    en: related form of exceedingly
-    zh: exceedingly 的相关词
+  []
 confusables:
-  - word: excel
-    reason: exceed 是超过；excel 是擅长。
-    zh_reason: exceed 是超过；excel 是擅长。
+  []
 examples:
-  - en: Demand exceeded supply.
-    zh: 需求超过了供应。
-why_confusing: exceed 是超过；excel 是擅长。
+  []
+why_confusing: 

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: behave
+word: behave
+pos: verb
+zh: 举止；表现
+en: to act or conduct oneself in a particular way
+components:
+  - morpheme: be
+    form: be-
+    meaning_in_word: intensive
+    zh: 使成为、加强
+    role: prefix
+    is_core: false
+  - morpheme: have
+    form: have
+    meaning_in_word: hold oneself
+    zh: 有；持有
+    role: root
+    is_core: true
+word_family:
+  - behavior
+word_family_details:
+  - word: behavior
+    en: the way a person, animal, or thing acts
+    zh: 举止；行为
+confusables:
+  []
+examples:
+  []
+why_confusing: behave oneself 指守规矩。

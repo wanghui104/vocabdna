@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: emigrate
+word: emigrate
+pos: verb
+zh: 移居国外
+en: to leave a country to settle elsewhere
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: migr
+    form: migr
+    meaning_in_word: move from one place to another / 迁移
+    zh: 迁移
+    role: root
+    is_core: true
+    note: emigrant 从某地迁出；immigrant 迁入，视角不同。
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - emigrant
+  - emigration
+word_family_details:
+  - word: emigrant
+    en: Means 移居外国者，移民; reviewed from the TOEFL source gloss for learner display.
+    zh: 移居外国者，移民
+  - word: emigration
+    en: the act of leaving a country to settle elsewhere
+    zh: 移居国外
+confusables:
+  []
+examples:
+  []
+why_confusing: 

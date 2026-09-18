@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: formative
+word: formative
+pos: adjective
+zh: 形成的；对成长有重要影响的
+en: having an important influence on development
+components:
+  - morpheme: form
+    form: form
+    meaning_in_word: form, shape / 形式；符合
+    zh: 形式；符合
+    role: root
+    is_core: true
+    note: formative = form- + -at- + -ive；-at- 保留拉丁动词分词/派生层，指形成、塑造发展。
+  - morpheme: ate
+    form: -at
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having the nature of, tending to / 具有……性质的；倾向于……的
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - form
+  - formation
+  - format
+word_family_details:
+  - word: form
+    en: a shape or structure
+    zh: 形状；形式
+  - word: formation
+    en: the process of forming
+    zh: 形成
+  - word: format
+    en: the arrangement or structure of information; to arrange in a particular form
+    zh: 格式；版式；设置格式
+confusables:
+  []
+examples:
+  []
+why_confusing: 

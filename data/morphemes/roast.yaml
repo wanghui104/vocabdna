@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: roast
+display: roast
+type: root
+core_meaning: roast
+zh: 烤
+origin: teaching morphology
+source_form: roast
+source_meaning: roast
+source_meaning_zh: 烤
+related_morphemes:
+  []
+senses:
+  - meaning: roast
+    zh: 烤
+    examples:
+      - roast
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - roast -> roast
+high_value_words:
+  - roast
+confusable_words:
+  []

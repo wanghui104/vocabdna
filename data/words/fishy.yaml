@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fishy
+word: fishy
+pos: adjective
+zh: 有鱼味的；腥的
+en: like fish in smell or taste
+components:
+  - morpheme: fish
+    form: fish
+    meaning_in_word: fish / 鱼
+    zh: 鱼
+    role: root
+    is_core: true
+    note: fishy = fish + -y；可由鱼味引申为可疑。
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of, state / 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

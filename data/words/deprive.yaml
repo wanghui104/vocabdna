@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deprive
+word: deprive
+pos: verb
+zh: 剥夺；使失去
+en: to take something necessary or valued away from someone
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away, entirely
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: priv
+    form: priv
+    meaning_in_word: deprive, strip
+    zh: 剥夺；私有
+    role: root
+    is_core: true
+word_family:
+  - deprivation
+word_family_details:
+  - word: deprivation
+    en: the lack or loss of something needed or important
+    zh: 缺乏；剥夺
+confusables:
+  []
+examples:
+  []
+why_confusing: deprive someone of something。

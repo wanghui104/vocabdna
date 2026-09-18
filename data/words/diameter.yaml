@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diameter
+word: diameter
+pos: noun
+zh: 直径
+en: a straight line across a circle through its center, or its length
+components:
+  - morpheme: dia
+    form: dia-
+    meaning_in_word: across
+    zh: 穿过；横跨
+    role: prefix
+    is_core: false
+  - morpheme: meter
+    form: meter
+    meaning_in_word: measure
+    zh: 测量
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: diameter 是直径；radius 是半径。

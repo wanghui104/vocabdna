@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: afford
+word: afford
+pos: verb
+zh: 付得起；负担得起
+en: to have enough money, time, or resources for something
+components:
+  - morpheme: a
+    form: a-
+    meaning_in_word: completive
+    zh: 在；属于；完成性
+    role: prefix
+    is_core: false
+    note: Modern spelling has aff-, but the word is Germanic rather than Latin ad-.
+  - morpheme: forth
+    form: ford
+    meaning_in_word: put forth, provide
+    zh: 拿出；提供；负担得起
+    role: root
+    is_core: true
+word_family:
+  - affordable
+word_family_details:
+  - word: affordable
+    en: cheap enough for people to be able to pay for
+    zh: 负担得起的；便宜的
+confusables:
+  []
+examples:
+  - en: The family could not afford the repair.
+    zh: 这家人负担不起维修费用。
+  - en: The hill affords a clear view.
+    zh: 这座山丘提供了清晰视野。
+why_confusing: afford to do 表示有能力/负担得起做某事；afford something 可表示提供机会或视野。

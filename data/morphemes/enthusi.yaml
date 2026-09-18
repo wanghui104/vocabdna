@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: enthusi
+display: enthusi
+type: root
+core_meaning: inspired, eager
+zh: 受激励；热情
+origin: Greek
+source_form: Greek enthousiasmos, enthousiastes, entheos
+source_meaning: inspired, eager
+source_meaning_zh: 受激励；热情
+source_note: 深层 en- 在内 + theos 神 → entheos → enthousiazein 受神激励；enthusi- 为派生词干，enthusiast- 含希腊施事结尾，不硬拆成英语 ast。
+related_morphemes:
+  - en-greek
+  - theo
+senses:
+  - meaning: inspired, eager
+    zh: 受激励；热情
+    examples:
+      - enthusiasm
+      - enthusiast
+      - enthusiastic
+      - enthusiastically
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - enthusi -> enthusiasm
+  - enthusiast -> enthusiast
+  - enthusiast -> enthusiastic
+  - enthusiast -> enthusiastically
+high_value_words:
+  - enthusiasm
+  - enthusiast
+  - enthusiastic
+  - enthusiastically
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consonant
+word: consonant
+pos: adjective/noun
+zh: 协调一致的；辅音
+en: in agreement, or a speech sound made with blocked airflow
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: son
+    form: son
+    meaning_in_word: sound
+    zh: 声音；协调
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having quality
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: consonant with 表示与……一致；语音学中指辅音。

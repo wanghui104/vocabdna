@@ -72,7 +72,12 @@ export const morphemes = Object.values(morphemeFiles)
   .sort((a, b) => a.display.localeCompare(b.display));
 
 const wordById = new Map(words.map((word) => [word.id, word]));
-const wordByLabel = new Map(words.map((word) => [word.word.toLowerCase(), word]));
+const wordByLabel = new Map(words.map((word) => [word.word, word]));
+const wordByFoldedLabel = new Map<string, WordEntry | undefined>();
+for (const word of words) {
+  const key = word.word.toLowerCase();
+  wordByFoldedLabel.set(key, wordByFoldedLabel.has(key) ? undefined : word);
+}
 const morphemeById = new Map(
   morphemes.map((morpheme) => [morpheme.id, morpheme]),
 );
@@ -81,7 +86,7 @@ export function getWord(id: string | undefined) {
   if (!id) {
     return undefined;
   }
-  return wordById.get(id) ?? wordByLabel.get(id.toLowerCase());
+  return wordById.get(id) ?? wordByLabel.get(id) ?? wordByFoldedLabel.get(id.toLowerCase());
 }
 
 export function getMorpheme(id: string | undefined) {

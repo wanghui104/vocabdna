@@ -1,28 +1,90 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: log
-display: -log- / -logue
+display: log
 type: root
-core_meaning: word / speech / discourse
-zh: 词；话语；言说
-origin: Greek logos = word, speech, reason
+core_meaning: log
+zh: 原木；记录
+origin: Unknown
+source_form: English log
+source_meaning: wood block, log
+source_meaning_zh: 原木；木头
+related_morphemes:
+  []
 senses:
-  - meaning: speech / discourse
-    zh: 话语；言说
+  - meaning: log
+    zh: 原木；记录
     examples:
-      - monologue
-      - dialogue
-      - prologue
+      - analogous
+      - analogy
+      - anthology
+      - apologize
+      - apology
+      - biological
+      - biological diversity
+      - biologist
+      - biology
+      - chronological
+      - chronology
+      - ideological
+      - ideology
+      - log
+      - log cabin
+      - meteorologist
+      - meteorology
+      - methodology
+      - morphololgy
+      - mythology
+      - paleontologist
+      - physiological
 similar_form:
-  - logy
-  - logo
+  []
 similar_meaning:
-  - dict
-  - phon
+  []
 patterns:
-  - prefix + -logue = a structured speech situation
+  - log -> analogous
+  - logy -> analogy
+  - ology -> anthology
+  - log -> apologize
+  - logy -> apology
+  - log -> biological
+  - log -> biological diversity
+  - log -> biologist
+  - log -> biology
+  - log -> chronological
+  - log -> chronology
+  - log -> ideological
+  - log -> ideology
+  - log -> log
+  - log -> log cabin
+  - log -> meteorologist
+  - log -> meteorology
+  - log -> methodology
+  - log -> morphololgy
+  - log -> mythology
+  - log -> paleontologist
+  - log -> physiological
 high_value_words:
-  - monologue
-  - dialogue
-  - prologue
+  - analogous
+  - analogy
+  - anthology
+  - apologize
+  - apology
+  - biological
+  - biological diversity
+  - biologist
+  - biology
+  - chronological
+  - chronology
+  - ideological
+  - ideology
+  - log
+  - log cabin
+  - meteorologist
+  - meteorology
+  - methodology
+  - morphololgy
+  - mythology
+  - paleontologist
+  - physiological
 confusable_words:
-  - monologue vs dialogue
-  - prologue vs dialogue
+  []

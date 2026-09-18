@@ -1,0 +1,71 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: graphics
+word: graphics
+pos: noun
+zh: （作单数用）制图法，制图学
+en: Means （作单数用）制图法，制图学; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: graph
+    form: graph
+    meaning_in_word: graph
+    zh: 写、记录
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:graph.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Suffix layer from Greek -ikos, Latin -icus.
+  - morpheme: s
+    form: -s
+    meaning_in_word: 复数；机构化形式
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+    note: Suffix layer from Old English -s / -es.
+word_family:
+  - graph
+  - graphic
+  - kymograph
+  - telegraph
+  - stereophotograph
+  - photograph
+  - seismograph
+  - lithograph
+  - graphite
+word_family_details:
+  - word: graph
+    en: Means 图表; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 图表
+  - word: graphic
+    en: Means 绘画似的；图解的，生动的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 绘画似的；图解的，生动的
+  - word: kymograph
+    en: Means 波动曲线记录仪; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 波动曲线记录仪
+  - word: telegraph
+    en: Means 电报机；电报; reviewed from the TOEFL source gloss for learner display.
+    zh: 电报机；电报
+  - word: stereophotograph
+    en: Means 立体摄影，立体相片; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 立体摄影，立体相片
+  - word: photograph
+    en: Means 照片; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 照片
+  - word: seismograph
+    en: Means 地震仪; reviewed from the TOEFL source gloss for learner display.
+    zh: 地震仪
+  - word: lithograph
+    en: Means 平板印刷，平板画; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 平板印刷，平板画
+  - word: graphite
+    en: Means 石墨; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 石墨
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

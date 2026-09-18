@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: announcer
+word: announcer
+pos: noun
+zh: 广播员；播音员；宣布者
+en: a person who presents or announces information, especially on radio or television
+components:
+  - morpheme: ad
+    form: an-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: nounce
+    form: nounce
+    meaning_in_word: announce, report
+    zh: 宣布；报告
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - announce
+  - announcement
+word_family_details:
+  - word: announce
+    en: Means 宣布，通告; reviewed from the TOEFL source gloss for learner display.
+    zh: 宣布，通告
+  - word: announcement
+    en: a public or official statement
+    zh: 公告；通告；宣布
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

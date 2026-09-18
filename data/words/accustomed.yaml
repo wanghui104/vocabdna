@@ -2,12 +2,12 @@
 id: accustomed
 word: accustomed
 pos: adjective
-zh: 习惯了的
-en: familiar with something because it has happened often
+zh: 习惯的；通常的
+en: familiar with something through repeated experience
 components:
   - morpheme: ad
     form: ac-
-    meaning_in_word: toward
+    meaning_in_word: toward, into
     zh: 去、向、靠近
     role: prefix
     is_core: false
@@ -17,9 +17,12 @@ components:
     zh: 习惯、惯例
     role: root
     is_core: true
+    note: 表层 custom；Old French costume ← Latin consuetudo 习惯 ← consuescere 习惯于。深层 com-/con- 加强 + suescere 习惯于；历史压缩后的 custom 不机械按现代字母切开。
+    related_morphemes:
+      - com
   - morpheme: ed
     form: -ed
-    meaning_in_word: state
+    meaning_in_word: in a state
     zh: 已经……的
     role: suffix
     is_core: false
@@ -28,10 +31,7 @@ word_family:
 word_family_details:
   []
 confusables:
-  - word: customary
-    reason: be accustomed to 后接名词或动名词。
-    zh_reason: be accustomed to 后接名词或动名词。
+  []
 examples:
-  - en: She is accustomed to hard work.
-    zh: 她习惯了艰苦工作。
-why_confusing: be accustomed to 后接名词或动名词。
+  []
+why_confusing: be accustomed to + noun/gerund。

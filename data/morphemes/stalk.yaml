@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stalk
+display: stalk
+type: root
+core_meaning: stalk; stem
+zh: 茎；跟踪
+origin: Old English
+source_form: stalk
+source_meaning: stalk; stem
+source_meaning_zh: 茎；跟踪
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: stalk; stem
+    zh: 茎；跟踪
+    examples:
+      - stalk
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - stalk -> stalk
+high_value_words:
+  - stalk
+confusable_words:
+  []

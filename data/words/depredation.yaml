@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: depredation
+word: depredation
+pos: noun
+zh: 掠夺，破坏
+en: Means 掠夺，破坏; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down; away / 向下；离开
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: pred
+    form: pred
+    meaning_in_word: prey; plunder / 掠夺；捕食
+    zh: 劫掠；掠夺
+    role: root
+    is_core: true
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: act or result / 动作或结果
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fused
+word: fused
+pos: adjective
+zh: 熔合的；融合的
+en: joined or melted together
+components:
+  - morpheme: fus
+    form: fus
+    meaning_in_word: pour, blend / 混合；混淆
+    zh: 混合；混淆
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - fuse
+  - fusion
+word_family_details:
+  - word: fuse
+    en: to melt or join into one whole
+    zh: 熔合；融合
+  - word: fusion
+    en: the joining of things into one
+    zh: 融合
+confusables:
+  []
+examples:
+  []
+why_confusing: 

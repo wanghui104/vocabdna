@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mourning
+word: mourning
+pos: noun
+zh: 悲恸，服丧
+en: Means 悲恸，服丧; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mourn
+    form: mourn
+    meaning_in_word: 哀悼
+    zh: 哀悼
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mourn.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ing.
+word_family:
+  - mournful
+word_family_details:
+  - word: mournful
+    en: Means 悲痛的，悲哀的; reviewed from the TOEFL source gloss for learner display.
+    zh: 悲痛的，悲哀的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dynam
+display: dynam
+type: root
+core_meaning: power, be able
+zh: 力量；能够
+origin: Greek
+source_form: Greek δύναμις (dynamis), δύνασθαι (dynasthai)
+source_meaning: power, be able
+source_meaning_zh: 力量；能够
+source_note: dynamis 为 dynasthai 能够的名词派生，含 m 扩展；更深来源未定，不能拆 dy- 为二。
+related_morphemes:
+  []
+senses:
+  - meaning: power, be able
+    zh: 力量；能够
+    examples:
+      - aerodynamics
+      - dynamic
+      - dynamics
+      - thermodynamics
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - dynam -> aerodynamics
+  - dynam -> dynamic
+  - dynam -> dynamics
+  - dynam -> thermodynamics
+high_value_words:
+  - aerodynamics
+  - dynamic
+  - dynamics
+  - thermodynamics
+confusable_words:
+  []

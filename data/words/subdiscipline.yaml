@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: subdiscipline
+word: subdiscipline
+pos: noun
+zh: 分支学科；分科
+en: a smaller field within a larger academic discipline
+components:
+  - morpheme: sub
+    form: sub-
+    meaning_in_word: under
+    zh: 在下、靠近、从属
+    role: prefix
+    is_core: false
+  - morpheme: discip
+    form: discipline
+    meaning_in_word: field of study
+    zh: 学生；教学；训练纪律
+    role: root
+    is_core: true
+    note: 表层 disciple/disciplin-；Latin disciplina 教导关联 discipulus 学生。更深常说 discere 学习，也有 dis- + capere 的历史提议，但并无可靠定论；不造确定的 discip = dis + cip。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: subdiscipline 通常用于学术分类。

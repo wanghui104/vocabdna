@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: extra
+display: extra-
+type: prefix
+core_meaning: outside, beyond
+zh: 外部；超出
+origin: Latin
+source_form: Latin extra, exterus
+source_meaning: outside, beyond
+source_meaning_zh: 外部；超出
+source_note: extra 来自 exterus 外部的方位形式，深层 ex 出；extraordinary 为超出常规。
+related_morphemes:
+  - exter
+senses:
+  - meaning: outside, beyond
+    zh: 外部；超出
+    examples:
+      - extraordinary
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - extra- -> extraordinary
+high_value_words:
+  - extraordinary
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compulsory
+word: compulsory
+pos: adjective
+zh: 必须做的；被强制的
+en: required by rule or authority
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together/intensive
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: pel
+    form: puls
+    meaning_in_word: drive, push
+    zh: 驱动；推动
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -ory
+    meaning_in_word: related to
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: compulsory education/attendance 常见。

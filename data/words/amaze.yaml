@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: amaze
+word: amaze
+pos: verb
+zh: 使吃惊；使惊叹
+en: to surprise someone very much
+components:
+  - morpheme: a
+    form: a-
+    meaning_in_word: intensive
+    zh: 在；属于；完成性
+    role: prefix
+    is_core: false
+  - morpheme: maze
+    form: maze
+    meaning_in_word: bewilder, confuse
+    zh: 使困惑；使惊愕
+    role: root
+    is_core: true
+word_family:
+  - amazement
+  - amazing
+word_family_details:
+  - word: amazement
+    en: a feeling of great surprise or wonder
+    zh: 惊愕；惊异
+  - word: amazing
+    en: causing great surprise or admiration
+    zh: 令人惊异的；惊人的
+confusables:
+  []
+examples:
+  []
+why_confusing: amaze 是动词；amazing 形容事物令人惊奇，amazed 形容人感到惊奇。

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: juncture
+word: juncture
+pos: noun
+zh: 接合，接缝
+en: Means 接合，接缝; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: junct
+    form: junct
+    meaning_in_word: 连接
+    zh: 连接
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:junct.
+  - morpheme: ure
+    form: -ure
+    meaning_in_word: 行为；结果
+    zh: 行为；结果
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ure.
+word_family:
+  - junction
+word_family_details:
+  - word: junction
+    en: Means 连接；汇合处; reviewed from the TOEFL source gloss for learner display.
+    zh: 连接；汇合处
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

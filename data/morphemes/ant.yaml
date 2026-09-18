@@ -1,0 +1,211 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ant
+display: -ant
+type: suffix
+core_meaning: having quality, doing
+zh: 具有…性质；正在…
+origin: Latin
+source_form: Latin -ans/-antem, -ens/-entem
+source_meaning: present participle, having quality
+source_meaning_zh: 现在分词；具有…性质
+source_note: Suffix type normalized during TOEFL 5400 batch 5201-5400 root audit.
+related_morphemes:
+  []
+senses:
+  - meaning: having quality, doing
+    zh: 具有…性质；正在…
+    examples:
+      - coherent
+      - competent
+      - component
+      - concomitant
+      - confident
+      - conscientious
+      - consequent
+      - consistent
+      - consonant
+      - constant
+      - constituent
+      - consultant
+      - continent
+      - convenient
+      - conversant
+      - descendant
+      - determinant
+      - distant
+      - dominant
+      - dormant
+      - elegant
+      - emigrant
+      - exorbitant
+      - exuberant
+      - hestiant
+      - ignorant
+      - immigrant
+      - incessant
+      - infant
+      - inhabitant
+      - insignificant
+      - irrelevant
+      - itinerant
+      - jubilant
+      - mercantile
+      - merchant
+      - migrant
+      - militant
+      - nonrelevant
+      - occupant
+      - participant
+      - pendant
+      - pliant
+      - pollutant
+      - predominant
+      - predominantly
+      - propellant
+      - radiant
+      - rampant
+      - refrigerant
+      - relevant
+      - reliant
+      - reluctant
+      - remnant
+      - resistant
+      - significant
+      - stagnant
+      - stimulant
+      - tenant
+      - tolerant
+      - vacant
+      - vibrant
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ent -> coherent
+  - -ent -> competent
+  - -ent -> component
+  - -ant -> concomitant
+  - -ent -> confident
+  - -ent -> conscientious
+  - -ent -> consequent
+  - -ent -> consistent
+  - -ant -> consonant
+  - -ant -> constant
+  - -ent -> constituent
+  - -ant -> consultant
+  - -ent -> continent
+  - -ient -> convenient
+  - -ant -> conversant
+  - -ant -> descendant
+  - -ant -> determinant
+  - -ant -> distant
+  - -ant -> dominant
+  - -ant -> dormant
+  - -ant -> elegant
+  - -ant -> emigrant
+  - -ant -> exorbitant
+  - -ant -> exuberant
+  - -ant -> hestiant
+  - -ant -> ignorant
+  - -ant -> immigrant
+  - -ant -> incessant
+  - -nt -> infant
+  - -ant -> inhabitant
+  - -ant -> insignificant
+  - -ant -> irrelevant
+  - -ant -> itinerant
+  - -ant -> jubilant
+  - -ant -> mercantile
+  - -ant -> merchant
+  - -ant -> migrant
+  - -ant -> militant
+  - -ant -> nonrelevant
+  - -ant -> occupant
+  - -ant -> participant
+  - -ant -> pendant
+  - -ant -> pliant
+  - -ant -> pollutant
+  - -ant -> predominant
+  - -ant -> predominantly
+  - -ant -> propellant
+  - -ant -> radiant
+  - -ant -> rampant
+  - -ant -> refrigerant
+  - -ant -> relevant
+  - -ant -> reliant
+  - -ant -> reluctant
+  - -ant -> remnant
+  - -ant -> resistant
+  - -ant -> significant
+  - -ant -> stagnant
+  - -ant -> stimulant
+  - -ant -> tenant
+  - -ant -> tolerant
+  - -ant -> vacant
+  - -ant -> vibrant
+high_value_words:
+  - coherent
+  - competent
+  - component
+  - concomitant
+  - confident
+  - conscientious
+  - consequent
+  - consistent
+  - consonant
+  - constant
+  - constituent
+  - consultant
+  - continent
+  - convenient
+  - conversant
+  - descendant
+  - determinant
+  - distant
+  - dominant
+  - dormant
+  - elegant
+  - emigrant
+  - exorbitant
+  - exuberant
+  - hestiant
+  - ignorant
+  - immigrant
+  - incessant
+  - infant
+  - inhabitant
+  - insignificant
+  - irrelevant
+  - itinerant
+  - jubilant
+  - mercantile
+  - merchant
+  - migrant
+  - militant
+  - nonrelevant
+  - occupant
+  - participant
+  - pendant
+  - pliant
+  - pollutant
+  - predominant
+  - predominantly
+  - propellant
+  - radiant
+  - rampant
+  - refrigerant
+  - relevant
+  - reliant
+  - reluctant
+  - remnant
+  - resistant
+  - significant
+  - stagnant
+  - stimulant
+  - tenant
+  - tolerant
+  - vacant
+  - vibrant
+confusable_words:
+  []

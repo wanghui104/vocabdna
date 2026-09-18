@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: beat
+word: beat
+pos: verb/adjective/noun
+zh: 打击；敲击；打败
+en: to hit repeatedly or defeat someone
+components:
+  - morpheme: beat
+    form: beat
+    meaning_in_word: strike, rhythm
+    zh: 打击；节拍
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: beat 作形容词可口语表示累坏了。

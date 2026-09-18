@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shep
+display: shep
+type: root
+core_meaning: sheep; shepherd
+zh: 羊
+origin: teaching morphology
+source_form: shep
+source_meaning: sheep; shepherd
+source_meaning_zh: 羊
+related_morphemes:
+  []
+senses:
+  - meaning: sheep; shepherd
+    zh: 羊
+    examples:
+      - shepherd
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - shep -> shepherd
+high_value_words:
+  - shepherd
+confusable_words:
+  []

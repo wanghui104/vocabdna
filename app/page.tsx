@@ -663,7 +663,7 @@ function WordFamilyTabs({
       aria-label={`${familyEntries[0].word} word family`}
       className="family-tabs"
     >
-      <span className="family-tab family-stem-tab">
+      <span className="family-tab family-stem-tab" title="共同拼写；词素拆解见下方 Word DNA">
         {familyStem}
       </span>
       {familyEntries.map((entry) => (
@@ -681,20 +681,18 @@ function WordFamilyTabs({
 }
 
 function getWordFamilyEntries(word: WordEntry) {
-  const activeWordLabel = word.word.toLowerCase();
-  const familyLabels = new Set([
-    activeWordLabel,
-    ...word.word_family.map((label) => label.toLowerCase()),
-  ]);
-
+  const familyIds = new Set([word.id]);
+  for (const label of word.word_family ?? []) {
+    const linkedWord = getWord(label);
+    if (linkedWord) familyIds.add(linkedWord.id);
+  }
   for (const entry of words) {
-    if (entry.word_family.some((label) => label.toLowerCase() === activeWordLabel)) {
-      familyLabels.add(entry.word.toLowerCase());
+    if ((entry.word_family ?? []).some((label) => getWord(label)?.id === word.id)) {
+      familyIds.add(entry.id);
     }
   }
-
   return words
-    .filter((entry) => familyLabels.has(entry.word.toLowerCase()))
+    .filter((entry) => familyIds.has(entry.id))
     .sort((a, b) => a.word.length - b.word.length || a.word.localeCompare(b.word));
 }
 
@@ -725,42 +723,13 @@ function getWordVariantLabel(word: WordEntry, familyStem?: string) {
 }
 
 function getWordVariantSuffix(word: WordEntry, familyStem?: string) {
-  const lowerWord = word.word.toLowerCase();
+  const lowerWord = String(word.word).toLowerCase();
   const normalizedStem = familyStem?.replace(/-+$/g, '').toLowerCase();
   if (normalizedStem && lowerWord.startsWith(normalizedStem)) {
     const suffix = lowerWord.slice(normalizedStem.length);
-    if (suffix) {
-      return `-${suffix}`;
-    }
+    if (suffix) return '-' + suffix;
   }
-
-  const suffixPatterns: Array<[string, string]> = [
-    ['ologically', '-ly'],
-    ['ically', '-ly'],
-    ['logist', '-ist'],
-    ['ological', '-ical'],
-    ['ology', '-y'],
-    ['aneous', '-aneous'],
-    ['eous', '-eous'],
-    ['ical', '-ical'],
-    ['tion', '-tion'],
-    ['ist', '-ist'],
-    ['ism', '-ism'],
-    ['ure', '-ure'],
-    ['ous', '-ous'],
-    ['ic', '-ic'],
-    ['al', '-al'],
-    ['y', '-y'],
-  ];
-  const matchedPattern = suffixPatterns.find(([ending]) =>
-    lowerWord.endsWith(ending),
-  );
-
-  if (matchedPattern) {
-    return matchedPattern[1];
-  }
-
-  return word.components.at(-1)?.form ?? word.word;
+  return word.word;
 }
 
 function getPosShortLabel(pos: string) {
@@ -842,12 +811,12 @@ function getWordFamilyDetail(word: WordEntry, label: string) {
 function getConfusionDescription(item: WordEntry['confusables'][number]) {
   const linkedWord = getWord(item.word);
   if (linkedWord?.zh) {
-    return `${item.reason} / ${linkedWord.zh}`;
+    return [item.reason, linkedWord.zh].filter(Boolean).join(' / ');
   }
 
   const linkedMorpheme = getMorpheme(normalizeMorphemeId(item.word));
   if (linkedMorpheme?.zh) {
-    return `${item.reason} / ${linkedMorpheme.zh}`;
+    return [item.reason, linkedMorpheme.zh].filter(Boolean).join(' / ');
   }
 
   return item.reason;
@@ -1218,7 +1187,7 @@ function WordGlossList({ words: wordLabels }: { words: string[] }) {
   return (
     <ul className="word-gloss-list">
       {uniqueWords.map((label) => {
-        const word = getWord(label.toLowerCase());
+        const word = getWord(label);
         return (
           <li className="word-gloss-item" key={label}>
             <InlineWord label={label} />
@@ -1280,7 +1249,7 @@ function groupPatternsByFormAndFamily(patterns: string[]): PatternFormGroup[] {
       continue;
     }
 
-    const word = getWord(parsed.label.toLowerCase());
+    const word = getWord(parsed.label);
     const familyEntries = word ? getWordFamilyEntries(word) : [];
     const familyKey = familyEntries[0]?.id ?? `word:${parsed.label.toLowerCase()}`;
     const family = getOrCreatePatternFamily(groups, parsed.form, familyKey);
@@ -1355,7 +1324,7 @@ function MorphemeGrid({
   );
 }
 function InlineWord({ label }: { label: string }) {
-  const word = getWord(label.toLowerCase());
+  const word = getWord(label);
   if (!word) {
     return <span className="inline-word-static">{label}</span>;
   }

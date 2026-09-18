@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fung
+display: fung
+type: root
+core_meaning: mushroom
+zh: 蘑菇；真菌
+origin: Latin
+source_form: Latin fungus
+source_meaning: mushroom
+source_meaning_zh: 蘑菇；真菌
+source_note: fungus = fung- + -us 单数词尾，fungi = fung- + -i 复数词尾；更深与 Greek sphongos 的联系未定。
+related_morphemes:
+  []
+senses:
+  - meaning: mushroom
+    zh: 蘑菇；真菌
+    examples:
+      - fungal
+      - fungi
+      - fungus
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fung -> fungal
+  - fung -> fungi
+  - fung -> fungus
+high_value_words:
+  - fungal
+  - fungi
+  - fungus
+confusable_words:
+  []

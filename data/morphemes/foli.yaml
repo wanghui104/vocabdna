@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foli
+display: foli
+type: root
+core_meaning: leaf
+zh: 叶
+origin: Latin
+source_form: Latin folium
+source_meaning: leaf
+source_meaning_zh: 叶
+source_note: foliage = foli- + -age 集合；不是整个植物个体。
+related_morphemes:
+  []
+senses:
+  - meaning: leaf
+    zh: 叶
+    examples:
+      - foliage
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - foli -> foliage
+high_value_words:
+  - foliage
+confusable_words:
+  []

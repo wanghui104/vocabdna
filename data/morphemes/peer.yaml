@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: peer
+display: peer
+type: root
+core_meaning: equal; look closely
+zh: 同等；凝视
+origin: teaching morphology
+source_form: peer
+source_meaning: equal; look closely
+source_meaning_zh: 同等；凝视
+related_morphemes:
+  []
+senses:
+  - meaning: equal; look closely
+    zh: 同等；凝视
+    examples:
+      - peer
+      - peerless
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - peer -> peer
+  - peer -> peerless
+high_value_words:
+  - peer
+  - peerless
+confusable_words:
+  []

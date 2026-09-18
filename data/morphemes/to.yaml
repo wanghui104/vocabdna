@@ -1,0 +1,72 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: to
+display: to
+type: root
+core_meaning: to, toward
+zh: 向；到
+origin: Old English
+source_form: Old English to
+source_meaning: toward, for
+source_meaning_zh: 向；为了
+related_morphemes:
+  []
+senses:
+  - meaning: to, toward
+    zh: 向；到
+    examples:
+      - be reserved to
+      - be up to
+      - belong to
+      - contribute to
+      - due to
+      - flock to
+      - native to
+      - object to
+      - owing to
+      - range from…to…
+      - subject to
+      - superior to
+      - susceptible to
+      - testify to
+      - to and fro
+      - yield to
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - to -> be reserved to
+  - to -> be up to
+  - to -> belong to
+  - to -> contribute to
+  - to -> due to
+  - to -> flock to
+  - to -> native to
+  - to -> object to
+  - to -> owing to
+  - to -> range from…to…
+  - to -> subject to
+  - to -> superior to
+  - to -> susceptible to
+  - to -> testify to
+  - to -> to and fro
+  - to -> yield to
+high_value_words:
+  - be reserved to
+  - be up to
+  - belong to
+  - contribute to
+  - due to
+  - flock to
+  - native to
+  - object to
+  - owing to
+  - range from…to…
+  - subject to
+  - superior to
+  - susceptible to
+  - testify to
+  - to and fro
+  - yield to
+confusable_words:
+  []

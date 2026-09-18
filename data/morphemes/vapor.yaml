@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vapor
+display: vapor
+type: root
+core_meaning: steam, vapor
+zh: 蒸气
+origin: Latin
+source_form: Latin vapor
+source_meaning: steam, vapor
+source_meaning_zh: 蒸气
+source_note: evaporate = e- 向外 + vapor- 蒸气 + -ate。
+related_morphemes:
+  []
+senses:
+  - meaning: steam, vapor
+    zh: 蒸气
+    examples:
+      - evaporate
+      - evaporation
+      - vapor
+      - vaporization
+      - vaporize
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - vapor -> evaporate
+  - vapor -> evaporation
+  - vapor -> vapor
+  - vapor -> vaporization
+  - vapor -> vaporize
+high_value_words:
+  - evaporate
+  - evaporation
+  - vapor
+  - vaporization
+  - vaporize
+confusable_words:
+  []

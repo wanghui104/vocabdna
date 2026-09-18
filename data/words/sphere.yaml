@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sphere
+word: sphere
+pos: noun
+zh: 球体
+en: Means 球体; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sphere
+    form: sphere
+    meaning_in_word: sphere; globe / 球；圈层
+    zh: 球
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - chromosphere
+  - hemisphere
+  - hydrosphere
+  - ionosphere
+  - lithosphere
+  - magnetosphere
+  - photosphere
+  - spherical
+word_family_details:
+  - word: chromosphere
+    en: Means 色球; reviewed from the TOEFL source gloss for learner display.
+    zh: 色球
+  - word: hemisphere
+    en: Means 半球; reviewed from the TOEFL source gloss for learner display.
+    zh: 半球
+  - word: hydrosphere
+    en: Means 水圈, 水气, 水界; reviewed from the TOEFL source gloss for learner display.
+    zh: 水圈, 水气, 水界
+  - word: ionosphere
+    en: Means 电离层; reviewed from the TOEFL source gloss for learner display.
+    zh: 电离层
+  - word: lithosphere
+    en: Means [地]岩石圈; reviewed from the TOEFL source gloss for learner display.
+    zh: [地]岩石圈
+  - word: magnetosphere
+    en: Means 磁气圈; reviewed from the TOEFL source gloss for learner display.
+    zh: 磁气圈
+  - word: photosphere
+    en: Means 光球; reviewed from the TOEFL source gloss for learner display.
+    zh: 光球
+  - word: spherical
+    en: Means 球的，球状的; reviewed from the TOEFL source gloss for learner display.
+    zh: 球的，球状的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

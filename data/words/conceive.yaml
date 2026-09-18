@@ -15,7 +15,7 @@ components:
   - morpheme: cap
     form: ceive
     meaning_in_word: take in, hold
-    zh: 拿、抓、接收
+    zh: 拿；抓；容纳
     role: root
     is_core: true
     note: From Latin concipere, built from con- plus a combining form of capere.
@@ -24,8 +24,8 @@ word_family:
   - conceivable
 word_family_details:
   - word: conception
-    en: the act or process of forming an idea in the mind
-    zh: 构想；设想；观念形成
+    en: Means 观念，概念; reviewed from the TOEFL source gloss for learner display.
+    zh: 观念，概念
   - word: conceivable
     en: possible to imagine, believe, or suppose
     zh: 可想象的；可能的

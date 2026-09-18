@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: town
+display: town
+type: root
+core_meaning: enclosure, settlement
+zh: 围地；城镇
+origin: Old English
+source_form: Old English tun
+source_meaning: enclosure, settlement
+source_meaning_zh: 围地；城镇
+related_morphemes:
+  []
+senses:
+  - meaning: enclosure, settlement
+    zh: 围地；城镇
+    examples:
+      - downtown
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - town -> downtown
+high_value_words:
+  - downtown
+confusable_words:
+  []

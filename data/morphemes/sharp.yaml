@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sharp
+display: sharp
+type: root
+core_meaning: sharp
+zh: 锐利
+origin: teaching morphology
+source_form: sharp
+source_meaning: sharp
+source_meaning_zh: 锐利
+related_morphemes:
+  []
+senses:
+  - meaning: sharp
+    zh: 锐利
+    examples:
+      - sharpen
+      - sharply
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sharp -> sharpen
+  - sharp -> sharply
+high_value_words:
+  - sharpen
+  - sharply
+confusable_words:
+  []

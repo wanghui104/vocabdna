@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crustacean
+word: crustacean
+pos: noun
+zh: 甲壳动物
+en: an animal such as a crab or lobster with a hard outer shell
+components:
+  - morpheme: crustacea
+    form: crustace
+    meaning_in_word: shelled animals / 有壳的动物
+    zh: 有壳的动物
+    role: root
+    is_core: true
+    note: 表层分类名称；深层 crust- 壳 + -acea，来自 crustaceus 有壳的的中性复数；crustacean 再加 -an。
+    related_morphemes:
+      - crust
+  - morpheme: an-member
+    form: -an
+    meaning_in_word: belonging to; member of / 属于；一类中的成员
+    zh: 属于；一类中的成员
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 重点记 crust = hard outer shell。

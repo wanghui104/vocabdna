@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: concept
+word: concept
+pos: noun
+zh: 概念；观念
+en: an abstract idea or mental plan
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: cept
+    meaning_in_word: take, grasp
+    zh: 拿；抓；容纳
+    role: root
+    is_core: true
+word_family:
+  - conceptual
+word_family_details:
+  - word: conceptual
+    en: related to ideas rather than physical things
+    zh: 概念上的
+confusables:
+  []
+examples:
+  []
+why_confusing: concept 和 conception 相近，但 concept 更强调抽象概念本身。

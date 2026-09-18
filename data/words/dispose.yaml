@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dispose
+word: dispose
+pos: verb
+zh: 安排；处理；使倾向于
+en: to arrange, deal with, or make inclined toward something
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: pon
+    form: pose
+    meaning_in_word: put, place
+    zh: 放置
+    role: root
+    is_core: true
+word_family:
+  - disposal
+  - disposed
+  - disposition
+word_family_details:
+  - word: disposal
+    en: the act of getting rid of something, or the power to use something
+    zh: 处置；处理；垃圾倾倒
+  - word: disposed
+    en: inclined or willing to do something
+    zh: 有……倾向的
+  - word: disposition
+    en: a person's usual temperament, tendency, or arrangement
+    zh: 性情；倾向；安排
+confusables:
+  []
+examples:
+  []
+why_confusing: dispose of 是“处理掉”；be disposed to 是“倾向于”。

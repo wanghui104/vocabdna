@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cracy
+display: cracy
+type: root
+core_meaning: rule, power
+zh: 统治；权力
+origin: Greek
+source_form: Greek κράτος (kratos)
+source_meaning: power, rule
+source_meaning_zh: 权力；统治
+related_morphemes:
+  []
+senses:
+  - meaning: rule, power
+    zh: 统治；权力
+    examples:
+      - democracy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cracy -> democracy
+high_value_words:
+  - democracy
+confusable_words:
+  []

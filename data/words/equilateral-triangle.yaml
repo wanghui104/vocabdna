@@ -1,0 +1,62 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: equilateral-triangle
+word: equilateral triangle
+pos: noun
+zh: 等边三角形
+en: Means 等边三角形; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: equi
+    form: equi-
+    meaning_in_word: 相等
+    zh: 相等
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:equi.
+  - morpheme: later
+    form: later
+    meaning_in_word: 侧面；边
+    zh: 侧面；边
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:later.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+  - morpheme: triang
+    form: triang
+    meaning_in_word: 三角形
+    zh: 三角形
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:triang.
+word_family:
+  - lateral
+  - quadrilateral
+  - bilateral
+  - latitude
+  - platitude
+word_family_details:
+  - word: lateral
+    en: Means 侧面的，旁边的; reviewed from the TOEFL source gloss for learner display.
+    zh: 侧面的，旁边的
+  - word: quadrilateral
+    en: Means 四边形; reviewed from the TOEFL source gloss for learner display.
+    zh: 四边形
+  - word: bilateral
+    en: Means 有两面的, 双边的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有两面的, 双边的
+  - word: latitude
+    en: Means 纬度，范围 / 行动或言论的自由（范围）; reviewed from the TOEFL source gloss for learner display.
+    zh: 纬度，范围 / 行动或言论的自由（范围）
+  - word: platitude
+    en: Means 陈词滥调; reviewed from the TOEFL source gloss for learner display.
+    zh: 陈词滥调
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

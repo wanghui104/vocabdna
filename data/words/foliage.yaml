@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foliage
+word: foliage
+pos: noun
+zh: 树叶；叶子总称
+en: the leaves of a plant or plants collectively
+components:
+  - morpheme: foli
+    form: foli
+    meaning_in_word: leaf / 叶
+    zh: 叶
+    role: root
+    is_core: true
+    note: foliage = foli- + -age 集合；不是整个植物个体。
+  - morpheme: age
+    form: -age
+    meaning_in_word: result or collection / 结果；集合
+    zh: 结果；集合
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

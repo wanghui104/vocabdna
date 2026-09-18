@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: atomize
+word: atomize
+pos: verb
+zh: 使原子化；使雾化
+en: to break something into very small particles or a spray
+components:
+  - morpheme: atom
+    form: atom
+    meaning_in_word: tiny particle
+    zh: 不可分割的微粒；原子
+    role: root
+    is_core: true
+    related_morphemes:
+      - an
+      - tom
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make into
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - atom
+  - atomic
+  - atomization
+word_family_details:
+  - word: atom
+    en: the smallest unit of a chemical element, or a very tiny amount
+    zh: 原子；极微小的东西
+  - word: atomic
+    en: related to atoms or extremely small
+    zh: 原子的；微小的
+  - word: atomization
+    en: the process of breaking something into very small particles or droplets
+    zh: 原子化；雾化
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

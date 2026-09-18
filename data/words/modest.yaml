@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: modest
+word: modest
+pos: adjective
+zh: 谦虚的；适度的
+en: Means 谦虚的；适度的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mod
+    form: mod
+    meaning_in_word: 方式；尺度
+    zh: 方式；尺度
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mod.
+  - morpheme: est
+    form: est
+    meaning_in_word: 处于其间；关涉
+    zh: 处于其间；关涉
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:est.
+word_family:
+  - moderate
+  - modify
+word_family_details:
+  - word: moderate
+    en: Means 温和的；适度的，有节制的 / 使缓和，使稳定; reviewed from the TOEFL source gloss for learner display.
+    zh: 温和的；适度的，有节制的 / 使缓和，使稳定
+  - word: modify
+    en: Means 修改，变更; reviewed from the TOEFL source gloss for learner display.
+    zh: 修改，变更
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

@@ -15,20 +15,20 @@ senses:
   - meaning: companion, company
     zh: 陪伴、同伴
     examples:
+      - accompaniment
       - accompany
       - accompanying
-      - accompaniment
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - accompany -> accompaniment
   - company -> accompany
   - company -> accompanying
-  - accompany -> accompaniment
 high_value_words:
+  - accompaniment
   - accompany
   - accompanying
-  - accompaniment
 confusable_words:
   []

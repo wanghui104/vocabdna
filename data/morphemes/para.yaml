@@ -1,0 +1,57 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: para
+display: para-
+type: prefix
+core_meaning: beside; beyond
+zh: 旁；超出
+origin: teaching morphology
+source_form: para
+source_meaning: beside; beyond
+source_meaning_zh: 旁；超出
+related_morphemes:
+  []
+senses:
+  - meaning: beside; beyond
+    zh: 旁；超出
+    examples:
+      - parachute
+      - parallel
+      - paralysis
+      - paralyze
+      - parameter
+      - paramount
+      - paraphrase
+      - parapsychology
+      - parasite
+      - parasitic
+      - unparalleled
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - para- -> parachute
+  - para- -> parallel
+  - para- -> paralysis
+  - para- -> paralyze
+  - para- -> parameter
+  - para- -> paramount
+  - para- -> paraphrase
+  - para- -> parapsychology
+  - para- -> parasite
+  - para- -> parasitic
+  - para- -> unparalleled
+high_value_words:
+  - parachute
+  - parallel
+  - paralysis
+  - paralyze
+  - parameter
+  - paramount
+  - paraphrase
+  - parapsychology
+  - parasite
+  - parasitic
+  - unparalleled
+confusable_words:
+  []

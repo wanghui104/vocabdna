@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: durable
+word: durable
+pos: adjective
+zh: 耐用的；持久的
+en: able to last a long time despite use or wear
+components:
+  - morpheme: dur
+    form: dur
+    meaning_in_word: hard, last / 坚硬；持续
+    zh: 坚硬；持续
+    role: root
+    is_core: true
+    note: durare 从变硬发展到持久；endure 的 en- 为历史加强，非单纯方位。
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be / 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.
+word_family:
+  - duration
+word_family_details:
+  - word: duration
+    en: the length of time something continues
+    zh: 持续时间
+confusables:
+  []
+examples:
+  []
+why_confusing: 

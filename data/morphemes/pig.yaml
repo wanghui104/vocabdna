@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pig
+display: pig
+type: root
+core_meaning: paint/color
+zh: 颜料；颜色
+origin: teaching morphology
+source_form: pig
+source_meaning: paint/color
+source_meaning_zh: 颜料；颜色
+related_morphemes:
+  []
+senses:
+  - meaning: paint/color
+    zh: 颜料；颜色
+    examples:
+      - pigment
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pig -> pigment
+high_value_words:
+  - pigment
+confusable_words:
+  []

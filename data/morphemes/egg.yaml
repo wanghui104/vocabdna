@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: egg
+display: egg
+type: root
+core_meaning: egg
+zh: 卵
+origin: Mixed
+source_form: Old Norse egg; Old English æg
+source_meaning: egg
+source_meaning_zh: 卵
+source_note: 现代拼写受古诺斯语影响；fertilized egg 指受精卵。
+related_morphemes:
+  []
+senses:
+  - meaning: egg
+    zh: 卵
+    examples:
+      - eggshell
+      - fertilized egg
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - egg -> eggshell
+  - egg -> fertilized egg
+high_value_words:
+  - eggshell
+  - fertilized egg
+confusable_words:
+  []

@@ -1,0 +1,26 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: annoy
+word: annoy
+pos: verb
+zh: 使恼怒；打扰
+en: to irritate or bother someone
+components:
+  - morpheme: odium
+    form: annoy
+    meaning_in_word: irritate, offend
+    zh: 惹恼；冒犯
+    role: root
+    is_core: true
+word_family:
+  - annoying
+word_family_details:
+  - word: annoying
+    en: causing irritation or annoyance
+    zh: 令人恼怒的；讨厌的
+confusables:
+  - word: announce
+    reason: 注意具体词性和搭配，不要只按中文直译。
+    zh_reason: 注意具体词性和搭配，不要只按中文直译。
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

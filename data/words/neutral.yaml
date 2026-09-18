@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: neutral
+word: neutral
+pos: adjective
+zh: 中性的；中立的
+en: Means 中性的；中立的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: neutr
+    form: neutr
+    meaning_in_word: 中性；中立
+    zh: 中性；中立
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:neutr.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+word_family:
+  - neutralize
+word_family_details:
+  - word: neutralize
+    en: Means 抵消，中和; reviewed from the TOEFL source gloss for learner display.
+    zh: 抵消，中和
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: senator
+word: senator
+pos: noun
+zh: 参议员
+en: Means 参议员; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sen
+    form: sen
+    meaning_in_word: old; senate / 老人；参议院
+    zh: 老人；参议院
+    role: root
+    is_core: true
+  - morpheme: ator
+    form: ator
+    meaning_in_word: ator / ator
+    zh: ator
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

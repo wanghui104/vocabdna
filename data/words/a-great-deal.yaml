@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: a-great-deal
+word: a great deal
+pos: phrase
+zh: 大量；许多
+en: a large amount or extent
+components:
+  - morpheme: a-article
+    form: a
+    meaning_in_word: indefinite article / 不定冠词
+    zh: 一个；不定冠词
+    role: connector
+    is_core: false
+  - morpheme: great
+    form: great
+    meaning_in_word: large
+    zh: 大的；重要的
+    role: root
+    is_core: true
+  - morpheme: deal
+    form: deal
+    meaning_in_word: amount
+    zh: 交易；份量；处理
+    role: root
+    is_core: true
+word_family:
+  - deal
+  - a-good-deal
+  - big-deal
+  - deal-with
+word_family_details:
+  - word: deal
+    en: an agreement, arrangement, or amount
+    zh: 交易；协议；份量
+  - word: a-good-deal
+    en: a fairly large amount
+    zh: 许多；相当多
+  - word: big-deal
+    en: something or someone important, often used ironically
+    zh: 重大事情；重要人物
+  - word: deal-with
+    en: to handle, manage, or cope with a situation or person
+    zh: 处理；应付
+confusables:
+  []
+examples:
+  []
+why_confusing: 常作副词短语：matter a great deal。

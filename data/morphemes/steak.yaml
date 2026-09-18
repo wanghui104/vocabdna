@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: steak
+display: steak
+type: root
+core_meaning: steak
+zh: 牛排
+origin: Old Norse
+source_form: steak
+source_meaning: steak
+source_meaning_zh: 牛排
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: steak
+    zh: 牛排
+    examples:
+      - steak
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - steak -> steak
+high_value_words:
+  - steak
+confusable_words:
+  []

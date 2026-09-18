@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: du-two
+display: du-
+type: combining form
+core_meaning: two
+zh: 二
+origin: Latin
+source_form: Latin duo
+source_meaning: two
+source_meaning_zh: 二
+source_note: duplicate 为 duo 二 + plicare 折叠 + 分词/动词结尾；区别希腊 di-。
+related_morphemes:
+  []
+senses:
+  - meaning: two
+    zh: 二
+    examples:
+      - duplicate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - du- -> duplicate
+high_value_words:
+  - duplicate
+confusable_words:
+  []

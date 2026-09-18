@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: destructive
+word: destructive
+pos: adjective
+zh: 破坏的；毁灭性的
+en: causing serious damage or destruction
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: struct
+    form: struct
+    meaning_in_word: build, arrange
+    zh: 建造、排列
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: tending to
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - destruction
+  - destroy
+word_family_details:
+  - word: destruction
+    en: the act or result of destroying something
+    zh: 破坏；毁灭
+  - word: destroy
+    en: to damage something so severely that it cannot be used
+    zh: 毁坏；摧毁
+confusables:
+  []
+examples:
+  []
+why_confusing: destructive describes the thing that causes damage.

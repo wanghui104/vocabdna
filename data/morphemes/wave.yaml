@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: wave
+display: wave
+type: root
+core_meaning: wave
+zh: wave
+origin: English
+source_form: English wave
+source_meaning: wave
+source_meaning_zh: wave
+related_morphemes:
+  []
+senses:
+  - meaning: wave
+    zh: wave
+    examples:
+      - microwave
+      - wavy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - wave -> microwave
+  - wave -> wavy
+high_value_words:
+  - microwave
+  - wavy
+confusable_words:
+  []

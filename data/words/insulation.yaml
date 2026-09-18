@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: insulation
+word: insulation
+pos: noun
+zh: 绝缘；隔离；孤立
+en: Means 绝缘；隔离；孤立; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: sul
+    form: sul
+    meaning_in_word: 岛；隔离
+    zh: 岛；隔离
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:sul.
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: 动作；过程
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ation.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

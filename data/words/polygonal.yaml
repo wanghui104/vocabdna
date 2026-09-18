@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: polygonal
+word: polygonal
+pos: adjective
+zh: 多角形的，多边形的
+en: Means 多角形的，多边形的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: poly
+    form: poly
+    meaning_in_word: many / 多
+    zh: 多
+    role: combining
+    is_core: false
+  - morpheme: gon
+    form: gon
+    meaning_in_word: angle / 角
+    zh: 角
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 相关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - polygon
+word_family_details:
+  - word: polygon
+    en: Means 多边形; reviewed from the TOEFL source gloss for learner display.
+    zh: 多边形
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

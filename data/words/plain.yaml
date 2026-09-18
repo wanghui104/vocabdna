@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: plain
+word: plain
+pos: noun
+zh: 平原，草原；简单的，朴素的
+en: Means 平原，草原；简单的，朴素的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: plain
+    form: plain
+    meaning_in_word: flat; clear / 平；清楚
+    zh: 抱怨；怨言
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  - plainly
+word_family_details:
+  - word: plainly
+    en: Means 清楚地，明显地; reviewed from the TOEFL source gloss for learner display.
+    zh: 清楚地，明显地
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

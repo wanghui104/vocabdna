@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: folding
+word: folding
+pos: adjective
+zh: 可折叠的
+en: designed to be folded for storage or transport
+components:
+  - morpheme: fold
+    form: fold
+    meaning_in_word: bend, fold / 折叠
+    zh: 折叠
+    role: root
+    is_core: true
+    note: 本条为折叠，围栏 fold 来自另一词源。数量后缀 -fold 与倍叠概念相关但单列后缀。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - fold
+word_family_details:
+  - word: fold
+    en: to bend one part over another
+    zh: 折叠
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: domain
+word: domain
+pos: noun
+zh: 领域；范围；领地
+en: an area of knowledge, activity, ownership, or control
+components:
+  - morpheme: domain
+    form: domain
+    meaning_in_word: ownership, territory / 所有权；领地
+    zh: 所有权；领地
+    role: root
+    is_core: true
+    note: 表层 domain；深层 dominium 统辖权 ← dominus 主人 ← domus 房屋，现代引申为领域。
+    related_morphemes:
+      - domin
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 表层 domain；深层 dominium 统辖权 ← dominus 主人 ← domus 房屋，现代引申为领域。

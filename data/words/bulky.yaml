@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bulky
+word: bulky
+pos: adjective
+zh: 庞大的；笨重的
+en: large, heavy, and difficult to carry or store
+components:
+  - morpheme: bulk
+    form: bulk
+    meaning_in_word: large mass
+    zh: 大批；体积
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  - bulk
+word_family_details:
+  - word: bulk
+    en: large size, mass, or most of something
+    zh: 大批；大部分；大小；体积
+confusables:
+  []
+examples:
+  []
+why_confusing: bulky equipment/luggage/clothes 常见。

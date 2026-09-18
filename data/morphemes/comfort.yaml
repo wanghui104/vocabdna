@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: comfort
+display: comfort
+type: root
+core_meaning: strengthen, comfort
+zh: 加强；安慰
+origin: Latin
+source_form: Latin confortare
+source_meaning: strengthen greatly
+source_meaning_zh: 大大加强；安慰
+source_note: 表层 comfort；Latin confortare = con- 加强 + fortis 强壮，使人恢复力量而得到安慰。discomfort 再加外层否定 dis-。
+related_morphemes:
+  - con
+  - fort
+senses:
+  - meaning: strengthen, comfort
+    zh: 加强；安慰
+    examples:
+      - discomfort
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - comfort -> discomfort
+high_value_words:
+  - discomfort
+confusable_words:
+  []

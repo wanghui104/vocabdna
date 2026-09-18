@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flamm
+display: flamm
+type: root
+core_meaning: flame
+zh: 火焰
+origin: Latin
+source_form: Latin flamma
+source_meaning: flame
+source_meaning_zh: 火焰
+source_note: flammula 是 flamma + 小称 -ula；不要把 flamboyant 的 boy 当英语男孩。
+related_morphemes:
+  []
+senses:
+  - meaning: flame
+    zh: 火焰
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

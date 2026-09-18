@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: two-three
+display: two/three
+type: root
+core_meaning: two or three
+zh: 二或三
+origin: English
+source_form: Old English twa, thri
+source_meaning: two or three
+source_meaning_zh: 二或三
+source_note: 原表把 two-dimensional / three-dimensional 合并列出。这里是独立数词，不是 Greek di- 同时表示二和三。
+related_morphemes:
+  []
+senses:
+  - meaning: two or three
+    zh: 二或三
+    examples:
+      - two/three dimensional
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - two/three -> two/three dimensional
+high_value_words:
+  - two/three dimensional
+confusable_words:
+  []

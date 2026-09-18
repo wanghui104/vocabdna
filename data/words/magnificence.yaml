@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: magnificence
+word: magnificence
+pos: noun
+zh: 华丽，富丽堂皇
+en: Means 华丽，富丽堂皇; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: magn
+    form: magn
+    meaning_in_word: 大；伟大
+    zh: 大；伟大
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:magn.
+  - morpheme: fict
+    form: fict
+    meaning_in_word: 塑造；虚构
+    zh: 塑造；虚构
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:fict.
+  - morpheme: ence
+    form: -ence
+    meaning_in_word: 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ence.
+word_family:
+  - magnificent
+  - magnify
+  - magnitude
+word_family_details:
+  - word: magnificent
+    en: Means 华丽的；高尚的；丰富的; reviewed from the TOEFL source gloss for learner display.
+    zh: 华丽的；高尚的；丰富的
+  - word: magnify
+    en: Means 放大，扩大; reviewed from the TOEFL source gloss for learner display.
+    zh: 放大，扩大
+  - word: magnitude
+    en: Means 大小，光度，重要; reviewed from the TOEFL source gloss for learner display.
+    zh: 大小，光度，重要
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

@@ -1,0 +1,59 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: microscopic
+word: microscopic
+pos: adjective
+zh: 用显微镜可见的；极小的
+en: Means 用显微镜可见的；极小的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: micro
+    form: micro-
+    meaning_in_word: 小、微小
+    zh: 小、微小
+    role: combining_form
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:micro.
+  - morpheme: scope
+    form: -scope
+    meaning_in_word: 看；观察器
+    zh: 看；观察器
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:scope.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ic.
+word_family:
+  - microbe
+  - microcosm
+  - microorganism
+  - microscope
+  - telescope
+  - microwave
+word_family_details:
+  - word: microbe
+    en: Means 微生物; reviewed from the TOEFL source gloss for learner display.
+    zh: 微生物
+  - word: microcosm
+    en: Means 微观世界; reviewed from the TOEFL source gloss for learner display.
+    zh: 微观世界
+  - word: microorganism
+    en: Means 微生物; reviewed from the TOEFL source gloss for learner display.
+    zh: 微生物
+  - word: microscope
+    en: Means 显微镜; reviewed from the TOEFL source gloss for learner display.
+    zh: 显微镜
+  - word: telescope
+    en: Means 望远镜; reviewed from the TOEFL source gloss for learner display.
+    zh: 望远镜
+  - word: microwave
+    en: Means 微波（炉）; reviewed from the TOEFL source gloss for learner display.
+    zh: 微波（炉）
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

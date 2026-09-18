@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: torrential
+word: torrential
+pos: adjective
+zh: 奔流的，如急流的
+en: Means 奔流的，如急流的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: torrent
+    form: torrent
+    meaning_in_word: rushing stream / 急流；迸发
+    zh: 急流；迸发
+    role: root
+    is_core: true
+    note: Conservative bottom root inside this learner-visible analysis; deeper source is uncertain or not productive for TOEFL study.
+  - morpheme: ial
+    form: -ial
+    meaning_in_word: relating to / 与…有关
+    zh: 有关……的
+    role: suffix
+    is_core: false
+word_family:
+  - torrent
+  - torrential-rain
+word_family_details:
+  - word: torrent
+    en: Means 连发，迸发；骤雨；急流，洪流; reviewed from the TOEFL source gloss for learner display.
+    zh: 连发，迸发；骤雨；急流，洪流
+  - word: torrential-rain
+    en: Means 豪雨，大雨; reviewed from the TOEFL source gloss for learner display.
+    zh: 豪雨，大雨
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

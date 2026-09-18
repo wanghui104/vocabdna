@@ -1,0 +1,26 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forge
+word: forge
+pos: verb/noun
+zh: 锻造
+en: to shape metal by heating and hammering
+components:
+  - morpheme: forge
+    form: forge
+    meaning_in_word: workshop, craftsman / 工场；工匠
+    zh: 工场；工匠
+    role: root
+    is_core: true
+    note: forge 炉、锻造经音变来自 fabrica = fabr- 工匠 + -ica 名词化形容词层；伪造由制作引申。forge ahead 的动词另有历史，本条不强并。
+    related_morphemes:
+      - fabr
+      - ic
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

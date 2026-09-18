@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fanatical
+word: fanatical
+pos: adjective
+zh: 狂热的
+en: showing extreme and often unreasonable devotion
+components:
+  - morpheme: fanat
+    form: fanat
+    meaning_in_word: inspired by a deity, temple / 受神激励；神庙
+    zh: 受神激励；神庙
+    role: root
+    is_core: true
+    note: fanat- 的深层 fanum 神庙 + Latin -aticus 相关，fanatic 表层 fanat- + -ic；不是 infancy 的 fari 说，也不是 fancy。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - fanatic
+  - fanaticism
+word_family_details:
+  - word: fanatic
+    en: a person with extreme devotion to a cause or interest
+    zh: 狂热者
+  - word: fanaticism
+    en: extreme and often intolerant devotion
+    zh: 狂热；盲信
+confusables:
+  []
+examples:
+  []
+why_confusing: 

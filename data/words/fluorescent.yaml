@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fluorescent
+word: fluorescent
+pos: adjective
+zh: 荧光的, 莹光的
+en: Means 荧光的, 莹光的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: fluor
+    form: fluor
+    meaning_in_word: flow; fluorescence / 流动；荧光
+    zh: 流动；萤石
+    role: root
+    is_core: true
+    related_morphemes:
+      - flu
+      - or-state
+  - morpheme: esc
+    form: esc
+    meaning_in_word: esc / esc
+    zh: esc
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: being; doing / 正在/具有
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - fluorescence
+word_family_details:
+  - word: fluorescence
+    en: light emitted by a substance while it absorbs radiation
+    zh: 荧光；荧光现象
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

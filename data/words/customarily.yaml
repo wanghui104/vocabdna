@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: customarily
+word: customarily
+pos: adverb
+zh: 通常；习惯上
+en: usually or according to custom
+components:
+  - morpheme: custom
+    form: custom
+    meaning_in_word: habit, custom / 习惯、惯例
+    zh: 习惯、惯例
+    role: root
+    is_core: true
+    note: 表层 custom；Old French costume ← Latin consuetudo 习惯 ← consuescere 习惯于。深层 com-/con- 加强 + suescere 习惯于；历史压缩后的 custom 不机械按现代字母切开。
+    related_morphemes:
+      - com
+  - morpheme: ary
+    form: -ari
+    meaning_in_word: relating to / 与……有关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 比 usually 更正式。

@@ -14,26 +14,80 @@ senses:
   - meaning: do, drive, act
     zh: 做、驱动
     examples:
+      - activate
+      - actively
       - actual
       - actually
       - actuate
-      - activate
-      - actively
+      - agenda
+      - agile
+      - agility
+      - agitation
+      - counteract
+      - enact
+      - enactment
+      - exact
+      - exacting
+      - fumigate
+      - fumigation
+      - inactivate
+      - interact
+      - interaction
+      - interactive
+      - satisfactory
+      - transaction
+      - unsatisfactory
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - act -> activate
+  - act -> actively
   - act -> actual
   - actual -> actually
   - act -> actuate
-  - act -> activate
-  - act -> actively
+  - ag -> agenda
+  - ag -> agile
+  - ag -> agility
+  - agit -> agitation
+  - act -> counteract
+  - act -> enact
+  - act -> enactment
+  - act -> exact
+  - act -> exacting
+  - ig -> fumigate
+  - ig -> fumigation
+  - act -> inactivate
+  - act -> interact
+  - act -> interaction
+  - act -> interactive
+  - act -> satisfactory
+  - act -> transaction
+  - act -> unsatisfactory
 high_value_words:
+  - activate
+  - actively
   - actual
   - actually
   - actuate
-  - activate
-  - actively
+  - agenda
+  - agile
+  - agility
+  - agitation
+  - counteract
+  - enact
+  - enactment
+  - exact
+  - exacting
+  - fumigate
+  - fumigation
+  - inactivate
+  - interact
+  - interaction
+  - interactive
+  - satisfactory
+  - transaction
+  - unsatisfactory
 confusable_words:
   []

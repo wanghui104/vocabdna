@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dental
+word: dental
+pos: adjective
+zh: 牙齿的；牙科的
+en: related to teeth or dentistry
+components:
+  - morpheme: dent
+    form: dent
+    meaning_in_word: tooth
+    zh: 牙齿；齿状切口
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dental care/clinic/work 常见。

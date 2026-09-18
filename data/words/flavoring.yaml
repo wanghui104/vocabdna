@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flavoring
+word: flavoring
+pos: noun
+zh: 调味料
+en: a substance added to give food or drink a particular taste
+components:
+  - morpheme: flavor
+    form: flavor
+    meaning_in_word: smell, blow / 气味；吹
+    zh: 气味；吹
+    role: root
+    is_core: true
+    note: flavor 经法语来自 flator，深层 flare 吹 + -or 名词层；中间 v 为历史音变/类推，不等于 flare 闪耀。
+    related_morphemes:
+      - or-state
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - flavor
+  - flavorful
+word_family_details:
+  - word: flavor
+    en: the distinctive taste of something; to give something a particular taste
+    zh: 风味；味道；调味
+  - word: flavorful
+    en: having a rich or pleasant taste
+    zh: 味道浓郁的；美味的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

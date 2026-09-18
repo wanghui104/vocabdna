@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inextricably
+word: inextricably
+pos: verb/adverb
+zh: 无法摆脱地
+en: Means 无法摆脱地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: extric
+    form: extric
+    meaning_in_word: 解开；摆脱
+    zh: 解开；摆脱
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:extric.
+  - morpheme: able
+    form: -able
+    meaning_in_word: 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:able.
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ly.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

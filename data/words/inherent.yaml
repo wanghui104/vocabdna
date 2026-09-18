@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inherent
+word: inherent
+pos: adjective
+zh: 固有的，内在的
+en: Means 固有的，内在的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: her
+    form: her
+    meaning_in_word: 粘着；内在附着
+    zh: 粘着；内在附着
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:her.
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: ……的人；具有……性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ent.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

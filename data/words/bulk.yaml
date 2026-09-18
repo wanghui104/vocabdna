@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bulk
+word: bulk
+pos: noun
+zh: 大批；大部分；大小；体积
+en: large size, mass, or most of something
+components:
+  - morpheme: bulk
+    form: bulk
+    meaning_in_word: heap, cargo
+    zh: 大批；体积
+    role: root
+    is_core: true
+word_family:
+  - bulky
+word_family_details:
+  - word: bulky
+    en: large, heavy, and difficult to carry or store
+    zh: 庞大的；笨重的
+confusables:
+  []
+examples:
+  []
+why_confusing: in bulk 指大量购买。

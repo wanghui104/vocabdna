@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: downtown
+word: downtown
+pos: adjective/adverb
+zh: 在市中心的；往市中心
+en: in or toward the central business district of a city
+components:
+  - morpheme: down
+    form: down
+    meaning_in_word: down, collapse / 向下；崩溃
+    zh: 向下；崩溃
+    role: root
+    is_core: true
+  - morpheme: town
+    form: town
+    meaning_in_word: enclosure, settlement / 围地；城镇
+    zh: 围地；城镇
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

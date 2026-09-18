@@ -2,26 +2,42 @@
 id: cy
 display: -cy
 type: suffix
-core_meaning: quality, state
-zh: 性质、状态
+core_meaning: state or condition
+zh: 状态
 origin: Latin
-source_form: Latin -cia
-source_meaning: quality, state
-source_meaning_zh: 性质、状态
+source_form: Latin -cia, -tia; French -cie, English -cy
+source_meaning: state or condition
+source_meaning_zh: 状态
+source_note: infancy 对应 Latin infantia；fan- 来自 fari 的现在分词词干，-cy 与 -nt 的历史音变相关。
 related_morphemes:
   []
 senses:
-  - meaning: quality, state
-    zh: 性质、状态
+  - meaning: state or condition
+    zh: 状态
     examples:
       - accuracy
+      - contingency
+      - currency
+      - deficiency
+      - diplomacy
+      - supremacy
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - -acy -> accuracy
+  - -ency -> contingency
+  - -ency -> currency
+  - -iency -> deficiency
+  - -acy -> diplomacy
+  - -cy -> supremacy
 high_value_words:
   - accuracy
+  - contingency
+  - currency
+  - deficiency
+  - diplomacy
+  - supremacy
 confusable_words:
   []

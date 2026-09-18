@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: desolate
+word: desolate
+pos: adjective
+zh: 荒凉的；无人烟的；孤寂的
+en: empty, lonely, and often ruined or abandoned
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: completely
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: sol
+    form: sol
+    meaning_in_word: alone
+    zh: 单独
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: made
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: desolate 可写地方荒凉，也可写人心孤寂。

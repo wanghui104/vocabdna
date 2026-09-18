@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coin
+word: coin
+pos: noun/verb
+zh: 铸币；硬币；创造新词
+en: a piece of metal money, or to invent a new word or phrase
+components:
+  - morpheme: coin
+    form: coin
+    meaning_in_word: stamp money
+    zh: 铸币；创造词语
+    role: root
+    is_core: true
+word_family:
+  - coinage
+word_family_details:
+  - word: coinage
+    en: the making of coins, a system of coins, or a newly invented word
+    zh: 造币；货币制度；新造词
+confusables:
+  []
+examples:
+  []
+why_confusing: coin a phrase 指创造短语。

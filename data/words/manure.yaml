@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: manure
+word: manure
+pos: noun
+zh: 肥料
+en: Means 肥料; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: manu
+    form: manu
+    meaning_in_word: 手
+    zh: 手
+    role: root
+    is_core: true
+    note: Second-pass reviewed piece; source/deeper layer shown on root root:manu.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

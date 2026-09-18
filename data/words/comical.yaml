@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: comical
+word: comical
+pos: adjective
+zh: 滑稽的；好笑的
+en: funny in a strange or silly way
+components:
+  - morpheme: comic
+    form: comic
+    meaning_in_word: comedy
+    zh: 滑稽；喜剧
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: related
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - comic
+word_family_details:
+  - word: comic
+    en: funny or related to comedy
+    zh: 滑稽的；好笑的；喜剧的
+confusables:
+  []
+examples:
+  []
+why_confusing: comical 往往强调可笑、滑稽。

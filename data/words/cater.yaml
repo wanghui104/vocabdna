@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cater
+word: cater
+pos: verb
+zh: 满足需要；迎合
+en: to provide food, service, or what people want
+components:
+  - morpheme: cater
+    form: cater
+    meaning_in_word: provide
+    zh: 满足需要；迎合
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cater to 可指迎合，可能带负面。

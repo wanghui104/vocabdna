@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: boarder
+word: boarder
+pos: noun
+zh: 寄宿者；寄膳者
+en: a person who pays to live and eat in someone's house or at a school
+components:
+  - morpheme: board
+    form: board
+    meaning_in_word: meals/lodging
+    zh: 木板；委员会；膳食；登上交通工具
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: border 是边界，boarder 是寄宿者。

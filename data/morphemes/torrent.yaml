@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: torrent
+display: torrent
+type: root
+core_meaning: rushing stream
+zh: 急流；迸发
+origin: Latin
+source_form: torrent
+source_meaning: rushing stream
+source_meaning_zh: 急流；迸发
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: rushing stream
+    zh: 急流；迸发
+    examples:
+      - torrent
+      - torrential
+      - torrential rain
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - torrent -> torrent
+  - torrent -> torrential
+  - torrent -> torrential rain
+high_value_words:
+  - torrent
+  - torrential
+  - torrential rain
+confusable_words:
+  []

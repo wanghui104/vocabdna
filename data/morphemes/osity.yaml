@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: osity
+display: osity
+type: root
+core_meaning: osity
+zh: osity
+origin: English
+source_form: English osity
+source_meaning: osity
+source_meaning_zh: osity
+related_morphemes:
+  []
+senses:
+  - meaning: osity
+    zh: osity
+    examples:
+      - luminosity
+      - viscosity
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - osity -> luminosity
+  - -osity -> viscosity
+high_value_words:
+  - luminosity
+  - viscosity
+confusable_words:
+  []

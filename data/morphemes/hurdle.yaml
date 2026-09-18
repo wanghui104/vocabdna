@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hurdle
+display: hurdle
+type: root
+core_meaning: barrier; obstacle to jump over or overcome
+zh: 栏障；待跨越或克服的障碍
+origin: Old English
+source_form: Old English hyrdel
+source_meaning: a movable frame of woven branches used as a barrier
+source_meaning_zh: 用编织树枝制成的活动篱笆或栏障
+source_note: Etymonline analyzes hyrdel as a diminutive of hyrd (door), with an earlier Germanic sense of a wickerwork frame. Keep modern hurdle as the surface stem; the historical diminutive is explained here rather than linked to the unrelated Latin diminutive root:le. Sources: https://www.etymonline.com/word/hurdle ; https://www.merriam-webster.com/dictionary/hurdle .
+related_morphemes:
+  []
+senses:
+  - meaning: barrier; obstacle to jump over or overcome
+    zh: 栏障；待跨越或克服的障碍
+    examples:
+      - hurdle
+      - hurdler
+      - hurdling
+      - hurdles
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - hurdle -> hurdle
+  - hurdl -> hurdler
+  - hurdl -> hurdling
+  - hurdle -> hurdles
+high_value_words:
+  - hurdle
+  - hurdler
+  - hurdling
+  - hurdles
+confusable_words:
+  []

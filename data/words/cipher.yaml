@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cipher
+word: cipher
+pos: noun
+zh: 密码；零
+en: a secret code, or historically a zero
+components:
+  - morpheme: cipher
+    form: cipher
+    meaning_in_word: zero/code
+    zh: 密码；零
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cipher 和 cypher 都可见。

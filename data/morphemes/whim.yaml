@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: whim
+display: whim
+type: root
+core_meaning: whim
+zh: 冲动
+origin: teaching morphology
+source_form: whim
+source_meaning: whim
+source_meaning_zh: 冲动
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: whim
+    zh: 冲动
+    examples:
+      - whim
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - whim -> whim
+high_value_words:
+  - whim
+confusable_words:
+  []

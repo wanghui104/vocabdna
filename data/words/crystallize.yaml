@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crystallize
+word: crystallize
+pos: verb
+zh: 明确；使结晶化
+en: to become clear and definite, or to form crystals
+components:
+  - morpheme: crystal
+    form: crystall
+    meaning_in_word: crystal
+    zh: 水晶；晶体
+    role: root
+    is_core: true
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make or become
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - crystal
+  - crystalline
+  - crystallized
+  - crystallization
+word_family_details:
+  - word: crystal
+    en: a clear mineral solid with regular structure, or clear like crystal
+    zh: 水晶；晶体；清澈的；结晶状的
+  - word: crystalline
+    en: made of crystals or clear like crystal
+    zh: 水晶的；透明的；晶体状的
+  - word: crystallized
+    en: formed into crystals or made clear and fixed
+    zh: 变成晶体的；明确成形的
+  - word: crystallization
+    en: the process of forming crystals or becoming clear and definite
+    zh: 结晶化；明确化
+confusables:
+  []
+examples:
+  []
+why_confusing: 可用于 ideas/plans crystallize，也可用于化学结晶。

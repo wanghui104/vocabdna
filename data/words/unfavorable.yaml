@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: unfavorable
+word: unfavorable
+pos: adjective
+zh: 不赞同的；不利的
+en: disapproving or disadvantageous
+components:
+  - morpheme: un
+    form: un-
+    meaning_in_word: not, opposite / 不；相反
+    zh: 不；相反
+    role: prefix
+    is_core: false
+  - morpheme: favor
+    form: favor
+    meaning_in_word: goodwill, show kindness / 好意；支持
+    zh: 好意；支持
+    role: root
+    is_core: true
+    note: 深层 favere 示好 + -or 抽象名词结尾；favor 保留稳定表层，-or 不是施事者。
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be / 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

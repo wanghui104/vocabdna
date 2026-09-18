@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: besiege
+word: besiege
+pos: verb
+zh: 围攻；困扰
+en: to surround a place with armed forces, or overwhelm with requests or problems
+components:
+  - morpheme: be
+    form: be-
+    meaning_in_word: around
+    zh: 使成为、加强
+    role: prefix
+    is_core: false
+  - morpheme: siege
+    form: siege
+    meaning_in_word: blockade
+    zh: 围攻
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可比喻 be besieged by questions/problems。

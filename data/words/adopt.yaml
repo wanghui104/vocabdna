@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adopt
+word: adopt
+pos: verb
+zh: 采用；采纳
+en: to choose and begin to use an idea, method, or policy
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: opt
+    form: opt
+    meaning_in_word: choose
+    zh: 选择；希望
+    role: root
+    is_core: true
+word_family:
+  - adoption
+word_family_details:
+  - word: adoption
+    en: the act of choosing a method or legally taking a child into a family
+    zh: 采用；采纳；收养
+confusables:
+  - word: adapt
+    reason: adopt 是采纳/收养；adapt 是适应/改编。
+    zh_reason: adopt 是采纳/收养；adapt 是适应/改编。
+examples:
+  - en: The lab adopted a new protocol.
+    zh: 实验室采用了新规程。
+  - en: They adopted a child last year.
+    zh: 他们去年收养了一个孩子。
+why_confusing: adopt 是采纳/收养；adapt 是适应/改编。

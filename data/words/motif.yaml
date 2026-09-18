@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: motif
+word: motif
+pos: noun
+zh: （作品）主题，主旨
+en: Means （作品）主题，主旨; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: motif
+    form: motif
+    meaning_in_word: 主题；动机
+    zh: 主题；动机
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:motif.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

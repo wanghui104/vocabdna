@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: justly
+word: justly
+pos: verb/adverb
+zh: 公正地，正当地
+en: Means 公正地，正当地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: just
+    form: just
+    meaning_in_word: 正义；法律
+    zh: 正义；法律
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:just.
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ly.
+word_family:
+  - justice
+  - injustice
+  - justify
+word_family_details:
+  - word: justice
+    en: Means 正义，公平，公正; reviewed from the TOEFL source gloss for learner display.
+    zh: 正义，公平，公正
+  - word: injustice
+    en: Means 不公平，不讲道义; reviewed from the TOEFL source gloss for learner display.
+    zh: 不公平，不讲道义
+  - word: justify
+    en: Means 证明…是正当的或有理的；为…辩护; reviewed from the TOEFL source gloss for learner display.
+    zh: 证明…是正当的或有理的；为…辩护
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: concise
+word: concise
+pos: adjective
+zh: 简洁的；简明的
+en: brief but clear, without unnecessary words
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together/intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: cis
+    form: cise
+    meaning_in_word: cut
+    zh: 切短；简洁
+    role: root
+    is_core: true
+word_family:
+  - conciseness
+word_family_details:
+  - word: conciseness
+    en: the quality of being brief and clear
+    zh: 简洁；简明
+confusables:
+  []
+examples:
+  []
+why_confusing: concise 不等于 vague；要短而清楚。

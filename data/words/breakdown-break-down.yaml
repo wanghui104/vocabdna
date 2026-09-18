@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: breakdown-break-down
+word: breakdown=break down
+pos: noun/phrase
+zh: 失败；故障；分解；细目分类
+en: a failure, collapse, or detailed division into parts; to fail or analyze into parts
+components:
+  - morpheme: break
+    form: break
+    meaning_in_word: split, fail
+    zh: 打破；破裂
+    role: root
+    is_core: true
+  - morpheme: down
+    form: down
+    meaning_in_word: down, apart
+    zh: 向下；崩溃
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: breakdown 是名词；break down 是动词短语。

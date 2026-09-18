@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: venture
+display: venture
+type: root
+core_meaning: come; risk
+zh: 冒险
+origin: teaching morphology
+source_form: venture
+source_meaning: come; risk
+source_meaning_zh: 冒险
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: come; risk
+    zh: 冒险
+    examples:
+      - adventure
+      - venture
+      - venturesome
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - venture -> adventure
+  - venture -> venture
+  - venture -> venturesome
+high_value_words:
+  - adventure
+  - venture
+  - venturesome
+confusable_words:
+  []

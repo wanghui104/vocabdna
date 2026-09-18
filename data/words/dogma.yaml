@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dogma
+word: dogma
+pos: noun
+zh: 教义；教条
+en: a belief or principle accepted as authoritative, especially without question
+components:
+  - morpheme: dogma
+    form: dogma
+    meaning_in_word: 教条，教义
+    zh: 意见；被认为真的东西
+    role: root
+    is_core: true
+    note: 表层 dogma；深层 dok-/dog- 认为 + -ma 行为结果。与英语 dog 狗完全无关。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 表层 dogma；深层 dok-/dog- 认为 + -ma 行为结果。与英语 dog 狗完全无关。

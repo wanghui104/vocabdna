@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: miserable
+word: miserable
+pos: adjective
+zh: 痛苦的，悲惨的，可怜的
+en: Means 痛苦的，悲惨的，可怜的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: miser
+    form: miser
+    meaning_in_word: 悲惨
+    zh: 悲惨
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:miser.
+  - morpheme: able
+    form: -able
+    meaning_in_word: 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:able.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

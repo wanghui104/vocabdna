@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: illustrate
+word: illustrate
+pos: verb
+zh: （用图或例子）说明，阐明
+en: Means （用图或例子）说明，阐明; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: il
+    form: il-
+    meaning_in_word: 不；入
+    zh: 不；入
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:il.
+  - morpheme: lustr
+    form: lustr
+    meaning_in_word: 照亮；阐明
+    zh: 照亮；阐明
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:lustr.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ate.
+word_family:
+  - illustration
+word_family_details:
+  - word: illustration
+    en: Means 例证；插图; reviewed from the TOEFL source gloss for learner display.
+    zh: 例证；插图
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

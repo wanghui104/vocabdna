@@ -15,12 +15,6 @@ senses:
   - meaning: act, process, result
     zh: 行为、过程、结果
     examples:
-      - conception
-      - induction
-      - reduction
-      - deduction
-      - competition
-      - reception
       - abbreviation
       - abolition
       - abrasion
@@ -30,19 +24,318 @@ senses:
       - accumulation
       - accusation
       - acquisition
+      - adaptation
+      - additional
+      - administration
+      - admiration
+      - adoption
+      - affection
+      - affectionate
+      - affliction
+      - aggregation
+      - agitation
+      - allegation
+      - alliteration
+      - alteration
+      - alternation
+      - ambition
+      - amplification
+      - anticipation
+      - application
+      - appreciation
+      - appropriation
+      - aspiration
+      - association
+      - assumption
+      - atomization
+      - attention
+      - attraction
+      - audition
+      - aversion
+      - aviation
+      - avocational
+      - calculation
+      - calibration
+      - cancellation
+      - caution
+      - circulation
+      - clarification
+      - classification
+      - coalition
+      - cohesion
+      - collaboration
+      - collision
+      - combination
+      - combustion
+      - commission
+      - communication
+      - compaction
+      - compensation
+      - competition
+      - complication
+      - composition
+      - comprehension
+      - compression
+      - computation
+      - conception
+      - condemnation
+      - condensation
+      - condition
+      - conduction
+      - confession
+      - configuration
+      - confirmation
+      - confusion
+      - congestion
+      - congratulation
+      - connection
+      - conservation
+      - consideration
+      - consortium
+      - constellation
+      - consternation
+      - constitution
+      - construction
+      - consumption
+      - contamination
+      - contention
+      - continuation
+      - continuum
+      - contraction
+      - convention
+      - conversation
+      - conversion
+      - conviction
+      - cooperation
+      - coordination
+      - corrosion
+      - corruption
+      - crystallization
+      - cultivation
+      - deception
+      - declaration
+      - decomposition
+      - decoration
+      - deduction
+      - definition
+      - deformation
+      - degradation
+      - dehydration
+      - demolition
+      - demonstration
+      - denomination
+      - depreciation
+      - depression
+      - deprivation
+      - destination
+      - destruction
+      - devastation
+      - devotion
+      - diction
+      - diffusion
+      - digestion
+      - digression
+      - dilution
+      - dimension
+      - dimensional
+      - disillusion
+      - disposition
+      - dissertation
+      - distillation
+      - distinction
+      - distortion
+      - distribution
+      - diversification
+      - diversion
+      - division
+      - documentation
+      - domestication
+      - donation
+      - dramatization
+      - duration
+      - education
+      - educational
+      - election
+      - elevation
+      - elimination
+      - emancipation
+      - emigration
+      - emission
+      - emotion
+      - emotional
+      - envision
+      - erosion
+      - eruption
+      - escalation
+      - evaluation
+      - evocation
+      - evolution
+      - evolutionary
+      - exaggeration
+      - excavation
+      - exception
+      - exceptional
+      - exceptionally
+      - exclamation
+      - exclusion
+      - excursion
+      - execution
+      - exemption
+      - exertion
+      - exhaustion
+      - exhibition
+      - exhilaration
+      - expansion
+      - expedition
+      - exploitation
+      - exploration
+      - explosion
+      - exposition
+      - expression
+      - extension
+      - extermination
+      - extinction
+      - extraction
+      - facilitation
+      - faction
+      - fascination
+      - fermentation
+      - fertilization
+      - fiction
+      - fictional
+      - filtration
+      - fluctuation
+      - formalization
+      - formation
+      - formulation
+      - fortification
+      - fossilization
+      - foundation
+      - fraction
+      - fractional
+      - fragmentation
+      - friction
+      - frustration
+      - fumigation
+      - function
+      - functional
+      - functionally
+      - functioning
+      - fusion
+      - galvanization
+      - illusion
+      - improvision
+      - in conjunction with
+      - indigestion
+      - induction
+      - infection
+      - inflation
+      - infusion
+      - inspection
+      - institution
+      - institutionalize
+      - instruction
+      - intention
+      - intentionally
+      - interaction
+      - intersection
       - inundation
+      - invasion
+      - junction
+      - jurisdiction
+      - locomotion
+      - malfunctional
+      - malfunctioning
+      - mention
+      - misconception
+      - motion
+      - motionless
+      - multifunctional
+      - nonfiction
+      - objection
+      - obsession
+      - obstruction
+      - opposition
+      - option
+      - optional
+      - oversecretion
+      - passion
+      - passionate
+      - perception
+      - percussion
+      - perfection
+      - permission
+      - petition
+      - petrifaction
+      - pollution
+      - portion
+      - possession
+      - precaution
+      - precision
+      - prediction
+      - prescription
+      - presidential election
+      - pretension
+      - profession
+      - professional
+      - professionalism
+      - progression
+      - projection
+      - projectionist
+      - propulsion
+      - protectionist
+      - provision
+      - questionable
+      - questionnaire
+      - ration
+      - rebellion
+      - reception
+      - receptionist
+      - recession
+      - reclamation
+      - recollection
+      - reconstruction
+      - recreation
+      - recreational
+      - reduction
+      - reflection
+      - refraction
+      - rejection
+      - religion
+      - repetition
+      - restriction
+      - revision
+      - revolution
+      - revolutionary
+      - revolutionize
+      - sanction
+      - satisfaction
+      - seclusion
+      - section
+      - sectional
+      - selection
+      - social distinction
+      - subdivision
+      - subsection
+      - subtraction
+      - supervision
+      - suspicion
+      - tension
+      - traction
+      - transaction
+      - transition
+      - tuition
+      - two/three dimensional
       - undulation
+      - unquestionably
+      - unquestioning
+      - version
+      - vision
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - -ion -> conception
-  - -ion -> induction
-  - -ion -> reduction
-  - -ion -> deduction
-  - -ion -> competition
-  - -ion -> reception
   - -ation -> abbreviation
   - -ition -> abolition
   - -ion -> abrasion
@@ -52,15 +345,314 @@ patterns:
   - -ation -> accumulation
   - -ation -> accusation
   - -ition -> acquisition
+  - -ation -> adaptation
+  - -ition -> additional
+  - -ation -> administration
+  - -ation -> admiration
+  - -ion -> adoption
+  - -ion -> affection
+  - -ion -> affectionate
+  - -ion -> affliction
+  - -ation -> aggregation
+  - -ation -> agitation
+  - -ation -> allegation
+  - -ation -> alliteration
+  - -ation -> alteration
+  - -ation -> alternation
+  - -ion -> ambition
+  - -ation -> amplification
+  - -ation -> anticipation
+  - -ation -> application
+  - -ation -> appreciation
+  - -ation -> appropriation
+  - -ation -> aspiration
+  - -ation -> association
+  - -ion -> assumption
+  - -ation -> atomization
+  - -ion -> attention
+  - -ion -> attraction
+  - -ition -> audition
+  - -ion -> aversion
+  - -ation -> aviation
+  - -ation -> avocational
+  - -ation -> calculation
+  - -ation -> calibration
+  - -ation -> cancellation
+  - -ion -> caution
+  - -ation -> circulation
+  - -ification -> clarification
+  - -ification -> classification
+  - -ion -> coalition
+  - -ion -> cohesion
+  - -ation -> collaboration
+  - -ion -> collision
+  - -ation -> combination
+  - -ion -> combustion
+  - -ion -> commission
+  - -ication -> communication
+  - -ion -> compaction
+  - -ation -> compensation
+  - -ion -> competition
+  - -ation -> complication
+  - -ion -> composition
+  - -ion -> comprehension
+  - -ion -> compression
+  - -ation -> computation
+  - -ion -> conception
+  - -ation -> condemnation
+  - -ation -> condensation
+  - -ion -> condition
+  - -ion -> conduction
+  - -ion -> confession
+  - -ation -> configuration
+  - -ation -> confirmation
+  - -ion -> confusion
+  - -ion -> congestion
+  - -ulation -> congratulation
+  - -ion -> connection
+  - -ation -> conservation
+  - -ation -> consideration
+  - -ium -> consortium
+  - -ation -> constellation
+  - -ation -> consternation
+  - -ion -> constitution
+  - -ion -> construction
+  - -ion -> consumption
+  - -ation -> contamination
+  - -ion -> contention
+  - -ation -> continuation
+  - -um -> continuum
+  - -ion -> contraction
+  - -ion -> convention
+  - -ation -> conversation
+  - -ion -> conversion
+  - -ion -> conviction
+  - -ation -> cooperation
+  - -ation -> coordination
+  - -ion -> corrosion
+  - -ion -> corruption
+  - -ation -> crystallization
+  - -ation -> cultivation
+  - -ion -> deception
+  - -ation -> declaration
+  - -ion -> decomposition
+  - -ation -> decoration
+  - -ion -> deduction
+  - -ion -> definition
+  - -ation -> deformation
+  - -ation -> degradation
+  - -ation -> dehydration
+  - -ition -> demolition
+  - -ation -> demonstration
+  - -ation -> denomination
+  - -ation -> depreciation
+  - -ion -> depression
+  - -ation -> deprivation
+  - -ation -> destination
+  - -ion -> destruction
+  - -ation -> devastation
+  - -ion -> devotion
+  - -ion -> diction
+  - -ion -> diffusion
+  - -ion -> digestion
+  - -ion -> digression
+  - -ion -> dilution
+  - -ion -> dimension
+  - -ion -> dimensional
+  - -ion -> disillusion
+  - -ion -> disposition
+  - -ation -> dissertation
+  - -ation -> distillation
+  - -ion -> distinction
+  - -ion -> distortion
+  - -ion -> distribution
+  - -ation -> diversification
+  - -ion -> diversion
+  - -ion -> division
+  - -ation -> documentation
+  - -ation -> domestication
+  - -ation -> donation
+  - -ation -> dramatization
+  - -ation -> duration
+  - -ation -> education
+  - -ation -> educational
+  - -ion -> election
+  - -ation -> elevation
+  - -ation -> elimination
+  - -ation -> emancipation
+  - -ation -> emigration
+  - -ion -> emission
+  - -ion -> emotion
+  - -ion -> emotional
+  - -ion -> envision
+  - -ion -> erosion
+  - -ion -> eruption
+  - -ation -> escalation
+  - -ation -> evaluation
+  - -ation -> evocation
+  - -ion -> evolution
+  - -ion -> evolutionary
+  - -ation -> exaggeration
+  - -ation -> excavation
+  - -ion -> exception
+  - -ion -> exceptional
+  - -ion -> exceptionally
+  - -ation -> exclamation
+  - -ion -> exclusion
+  - -ion -> excursion
+  - -ion -> execution
+  - -ion -> exemption
+  - -ion -> exertion
+  - -ion -> exhaustion
+  - -ion -> exhibition
+  - -ation -> exhilaration
+  - -ion -> expansion
+  - -ition -> expedition
+  - -ation -> exploitation
+  - -ation -> exploration
+  - -ion -> explosion
+  - -ition -> exposition
+  - -ion -> expression
+  - -ion -> extension
+  - -ation -> extermination
+  - -ion -> extinction
+  - -ion -> extraction
+  - -ation -> facilitation
+  - -ion -> faction
+  - -ation -> fascination
+  - -ation -> fermentation
+  - -ation -> fertilization
+  - -ion -> fiction
+  - -ion -> fictional
+  - -ation -> filtration
+  - -ation -> fluctuation
+  - -ation -> formalization
+  - -ation -> formation
+  - -ation -> formulation
+  - -ation -> fortification
+  - -ation -> fossilization
+  - -ation -> foundation
+  - -ion -> fraction
+  - -ion -> fractional
+  - -ation -> fragmentation
+  - -ion -> friction
+  - -ation -> frustration
+  - -ation -> fumigation
+  - -ion -> function
+  - -ion -> functional
+  - -ion -> functionally
+  - -ion -> functioning
+  - -ion -> fusion
+  - -ation -> galvanization
+  - -ion -> illusion
+  - -ion -> improvision
+  - -ion -> in conjunction with
+  - -ion -> indigestion
+  - -ion -> induction
+  - -ion -> infection
+  - -ion -> inflation
+  - -ion -> infusion
+  - -ion -> inspection
+  - -ion -> institution
+  - -ion -> institutionalize
+  - -ion -> instruction
+  - -ion -> intention
+  - -ion -> intentionally
+  - -ion -> interaction
+  - -ion -> intersection
   - -ation -> inundation
+  - -ion -> invasion
+  - -ion -> junction
+  - -ion -> jurisdiction
+  - -ion -> locomotion
+  - -ion -> malfunctional
+  - -ion -> malfunctioning
+  - -ion -> mention
+  - -ion -> misconception
+  - -ion -> motion
+  - -ion -> motionless
+  - -ion -> multifunctional
+  - -ion -> nonfiction
+  - -ion -> objection
+  - -ion -> obsession
+  - -ion -> obstruction
+  - -ion -> opposition
+  - -ion -> option
+  - -ion -> optional
+  - -ion -> oversecretion
+  - -ion -> passion
+  - -ion -> passionate
+  - -ion -> perception
+  - -ion -> percussion
+  - -ion -> perfection
+  - -ion -> permission
+  - -ion -> petition
+  - -ion -> petrifaction
+  - -ion -> pollution
+  - -ion -> portion
+  - -ion -> possession
+  - -ion -> precaution
+  - -ion -> precision
+  - -ion -> prediction
+  - -ion -> prescription
+  - -ion -> presidential election
+  - -ion -> pretension
+  - -ion -> profession
+  - -ion -> professional
+  - -ion -> professionalism
+  - -ion -> progression
+  - -ion -> projection
+  - -ion -> projectionist
+  - -ion -> propulsion
+  - -ion -> protectionist
+  - -ion -> provision
+  - -ion -> questionable
+  - -ion -> questionnaire
+  - -ion -> ration
+  - -ion -> rebellion
+  - -ion -> reception
+  - -ion -> receptionist
+  - -ion -> recession
+  - -ation -> reclamation
+  - -ion -> recollection
+  - -ion -> reconstruction
+  - -ion -> recreation
+  - -ion -> recreational
+  - -ion -> reduction
+  - -ion -> reflection
+  - -ion -> refraction
+  - -ion -> rejection
+  - -ion -> religion
+  - -ion -> repetition
+  - -ion -> restriction
+  - -ion -> revision
+  - -ion -> revolution
+  - -ion -> revolutionary
+  - -ion -> revolutionize
+  - -ion -> sanction
+  - -ion -> satisfaction
+  - -ion -> seclusion
+  - -ion -> section
+  - -ion -> sectional
+  - -ion -> selection
+  - -ion -> social distinction
+  - -ion -> subdivision
+  - -ion -> subsection
+  - -ion -> subtraction
+  - -ion -> supervision
+  - -ion -> suspicion
+  - -ion -> tension
+  - -ion -> traction
+  - -ion -> transaction
+  - -ion -> transition
+  - -ion -> tuition
+  - -ion -> two/three dimensional
   - -ation -> undulation
+  - -ion -> unquestionably
+  - -ion -> unquestioning
+  - -ion -> version
+  - -ion -> vision
 high_value_words:
-  - conception
-  - induction
-  - reduction
-  - deduction
-  - competition
-  - reception
   - abbreviation
   - abolition
   - abrasion
@@ -70,7 +662,312 @@ high_value_words:
   - accumulation
   - accusation
   - acquisition
+  - adaptation
+  - additional
+  - administration
+  - admiration
+  - adoption
+  - affection
+  - affectionate
+  - affliction
+  - aggregation
+  - agitation
+  - allegation
+  - alliteration
+  - alteration
+  - alternation
+  - ambition
+  - amplification
+  - anticipation
+  - application
+  - appreciation
+  - appropriation
+  - aspiration
+  - association
+  - assumption
+  - atomization
+  - attention
+  - attraction
+  - audition
+  - aversion
+  - aviation
+  - avocational
+  - calculation
+  - calibration
+  - cancellation
+  - caution
+  - circulation
+  - clarification
+  - classification
+  - coalition
+  - cohesion
+  - collaboration
+  - collision
+  - combination
+  - combustion
+  - commission
+  - communication
+  - compaction
+  - compensation
+  - competition
+  - complication
+  - composition
+  - comprehension
+  - compression
+  - computation
+  - conception
+  - condemnation
+  - condensation
+  - condition
+  - conduction
+  - confession
+  - configuration
+  - confirmation
+  - confusion
+  - congestion
+  - congratulation
+  - connection
+  - conservation
+  - consideration
+  - consortium
+  - constellation
+  - consternation
+  - constitution
+  - construction
+  - consumption
+  - contamination
+  - contention
+  - continuation
+  - continuum
+  - contraction
+  - convention
+  - conversation
+  - conversion
+  - conviction
+  - cooperation
+  - coordination
+  - corrosion
+  - corruption
+  - crystallization
+  - cultivation
+  - deception
+  - declaration
+  - decomposition
+  - decoration
+  - deduction
+  - definition
+  - deformation
+  - degradation
+  - dehydration
+  - demolition
+  - demonstration
+  - denomination
+  - depreciation
+  - depression
+  - deprivation
+  - destination
+  - destruction
+  - devastation
+  - devotion
+  - diction
+  - diffusion
+  - digestion
+  - digression
+  - dilution
+  - dimension
+  - dimensional
+  - disillusion
+  - disposition
+  - dissertation
+  - distillation
+  - distinction
+  - distortion
+  - distribution
+  - diversification
+  - diversion
+  - division
+  - documentation
+  - domestication
+  - donation
+  - dramatization
+  - duration
+  - education
+  - educational
+  - election
+  - elevation
+  - elimination
+  - emancipation
+  - emigration
+  - emission
+  - emotion
+  - emotional
+  - envision
+  - erosion
+  - eruption
+  - escalation
+  - evaluation
+  - evocation
+  - evolution
+  - evolutionary
+  - exaggeration
+  - excavation
+  - exception
+  - exceptional
+  - exceptionally
+  - exclamation
+  - exclusion
+  - excursion
+  - execution
+  - exemption
+  - exertion
+  - exhaustion
+  - exhibition
+  - exhilaration
+  - expansion
+  - expedition
+  - exploitation
+  - exploration
+  - explosion
+  - exposition
+  - expression
+  - extension
+  - extermination
+  - extinction
+  - extraction
+  - facilitation
+  - faction
+  - fascination
+  - fermentation
+  - fertilization
+  - fiction
+  - fictional
+  - filtration
+  - fluctuation
+  - formalization
+  - formation
+  - formulation
+  - fortification
+  - fossilization
+  - foundation
+  - fraction
+  - fractional
+  - fragmentation
+  - friction
+  - frustration
+  - fumigation
+  - function
+  - functional
+  - functionally
+  - functioning
+  - fusion
+  - galvanization
+  - illusion
+  - improvision
+  - in conjunction with
+  - indigestion
+  - induction
+  - infection
+  - inflation
+  - infusion
+  - inspection
+  - institution
+  - institutionalize
+  - instruction
+  - intention
+  - intentionally
+  - interaction
+  - intersection
   - inundation
+  - invasion
+  - junction
+  - jurisdiction
+  - locomotion
+  - malfunctional
+  - malfunctioning
+  - mention
+  - misconception
+  - motion
+  - motionless
+  - multifunctional
+  - nonfiction
+  - objection
+  - obsession
+  - obstruction
+  - opposition
+  - option
+  - optional
+  - oversecretion
+  - passion
+  - passionate
+  - perception
+  - percussion
+  - perfection
+  - permission
+  - petition
+  - petrifaction
+  - pollution
+  - portion
+  - possession
+  - precaution
+  - precision
+  - prediction
+  - prescription
+  - presidential election
+  - pretension
+  - profession
+  - professional
+  - professionalism
+  - progression
+  - projection
+  - projectionist
+  - propulsion
+  - protectionist
+  - provision
+  - questionable
+  - questionnaire
+  - ration
+  - rebellion
+  - reception
+  - receptionist
+  - recession
+  - reclamation
+  - recollection
+  - reconstruction
+  - recreation
+  - recreational
+  - reduction
+  - reflection
+  - refraction
+  - rejection
+  - religion
+  - repetition
+  - restriction
+  - revision
+  - revolution
+  - revolutionary
+  - revolutionize
+  - sanction
+  - satisfaction
+  - seclusion
+  - section
+  - sectional
+  - selection
+  - social distinction
+  - subdivision
+  - subsection
+  - subtraction
+  - supervision
+  - suspicion
+  - tension
+  - traction
+  - transaction
+  - transition
+  - tuition
+  - two/three dimensional
   - undulation
+  - unquestionably
+  - unquestioning
+  - version
+  - vision
 confusable_words:
   []

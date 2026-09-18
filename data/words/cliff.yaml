@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cliff
+word: cliff
+pos: noun
+zh: 悬崖；峭壁
+en: a high steep rock face
+components:
+  - morpheme: cliff
+    form: cliff
+    meaning_in_word: steep rock
+    zh: 悬崖
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cliff 和 bluff 都可指悬崖，但词源不同。

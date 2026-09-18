@@ -53,7 +53,7 @@ for (const word of wordsDoc.words) {
   }
 
   if (shouldWrite) {
-    await writeFile(filePath, yaml, "utf8");
+    await writeGeneratedFileWithRetry(filePath, yaml);
   }
   generated.words.push(word.slug);
 }
@@ -71,7 +71,7 @@ for (const root of rootsDoc.roots) {
   }
 
   if (shouldWrite) {
-    await writeFile(filePath, yaml, "utf8");
+    await writeGeneratedFileWithRetry(filePath, yaml);
   }
   generated.morphemes.push(id);
 }
@@ -92,6 +92,23 @@ console.log(
   ),
 );
 
+async function writeGeneratedFileWithRetry(filePath, yaml) {
+  const retryableCodes = new Set(["UNKNOWN", "EPERM", "EBUSY", "ETXTBSY"]);
+  let lastError;
+  for (let attempt = 0; attempt < 6; attempt += 1) {
+    try {
+      await writeFile(filePath, yaml, "utf8");
+      return;
+    } catch (error) {
+      lastError = error;
+      if (!retryableCodes.has(error?.code) || attempt === 5) {
+        break;
+      }
+      await new Promise((resolve) => setTimeout(resolve, 250 * (attempt + 1)));
+    }
+  }
+  throw lastError;
+}
 async function readJson(filePath) {
   return JSON.parse(await readFile(filePath, "utf8"));
 }

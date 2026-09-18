@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confederate
+word: confederate
+pos: noun/adjective/verb
+zh: 同盟者；盟友；联盟的
+en: a person, group, or state joined in an alliance
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: fed
+    form: feder
+    meaning_in_word: treaty, league
+    zh: 联盟；同盟
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make/related
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - confederacy
+word_family_details:
+  - word: confederacy
+    en: a union or alliance of people, groups, or states
+    zh: 联盟；同盟
+confusables:
+  []
+examples:
+  []
+why_confusing: capitalized Confederate has specific U.S. historical meaning.

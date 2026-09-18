@@ -15,6 +15,11 @@ senses:
   - meaning: small, little
     zh: 小的；小型的
     examples:
+      - formula
+      - incredulity
+      - regulate
+      - regulation
+      - regulatory
       - undulate
       - undulation
 similar_form:
@@ -22,9 +27,19 @@ similar_form:
 similar_meaning:
   []
 patterns:
+  - -ula -> formula
+  - -ul -> incredulity
+  - ul -> regulate
+  - ul -> regulation
+  - ul -> regulatory
   - -ul -> undulate
   - -ul -> undulation
 high_value_words:
+  - formula
+  - incredulity
+  - regulate
+  - regulation
+  - regulatory
   - undulate
   - undulation
 confusable_words:

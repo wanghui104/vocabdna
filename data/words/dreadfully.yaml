@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dreadfully
+word: dreadfully
+pos: adverb
+zh: 很糟地；可怕地；极其
+en: very badly, fearfully, or extremely
+components:
+  - morpheme: dread
+    form: dread
+    meaning_in_word: fear greatly / 非常害怕
+    zh: 非常害怕
+    role: root
+    is_core: true
+    note: 表层 dread 是收缩词干；深层 ond- 反对 + rædan 劝告，经过 adrædan 收缩，不把 d 当现代前缀。
+  - morpheme: ful
+    form: -ful
+    meaning_in_word: full of / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - dreadful
+  - dread
+word_family_details:
+  - word: dreadful
+    en: very bad or causing great fear
+    zh: 糟糕的；可怕的
+  - word: dread
+    en: great fear of something that may happen
+    zh: 恐惧；担忧
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -30,12 +30,7 @@ word_family_details:
     en: to discuss something with someone in order to exchange views or decide what to do
     zh: 商议；协商
 confusables:
-  - word: convention
-    reason: conference 通常指较正式的会议或大会；meeting 更普通，convention 更像大型集会或行业大会。
-    zh_reason: conference 通常指较正式的会议或大会；meeting 更普通，convention 更像大型集会或行业大会。
-  - word: congress
-    reason: conference 通常指较正式的会议或大会；meeting 更普通，convention 更像大型集会或行业大会。
-    zh_reason: conference 通常指较正式的会议或大会；meeting 更普通，convention 更像大型集会或行业大会。
+  []
 examples:
   - en: Researchers presented their findings at the conference.
     zh: 研究人员在会议上展示了他们的发现。

@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: field-research
+word: field research
+pos: noun
+zh: 实地研究；野外考察
+en: research conducted in real-world settings rather than only in a laboratory
+components:
+  - morpheme: field
+    form: field
+    meaning_in_word: open land, field / 田野；领域
+    zh: 田野；领域
+    role: root
+    is_core: true
+    note: 本族简单词；field research 是 field + research，指实地研究。
+  - morpheme: re
+    form: re-
+    meaning_in_word: back, again / 回、再、反向
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: search
+    form: search
+    meaning_in_word: go around, seek / 巡查；寻找
+    zh: 巡查；寻找
+    role: root
+    is_core: true
+    note: research 的 re- 在此加强，search 经法语来自 circare 绕行，深层 circus 圆；不是再次搜索的唯一含义。
+    related_morphemes:
+      - circ
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

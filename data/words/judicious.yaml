@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: judicious
+word: judicious
+pos: adjective
+zh: 明智的；有判断力的
+en: Means 明智的；有判断力的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: jud
+    form: jud
+    meaning_in_word: 判断；判决
+    zh: 判断；判决
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:jud.
+  - morpheme: icious
+    form: icious
+    meaning_in_word: icious
+    zh: icious
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:icious.
+word_family:
+  - judgement
+word_family_details:
+  - word: judgement
+    en: Means 判决; reviewed from the TOEFL source gloss for learner display.
+    zh: 判决
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

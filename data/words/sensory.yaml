@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sensory
+word: sensory
+pos: adjective
+zh: 感觉的，感官的
+en: Means 感觉的，感官的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sens
+    form: sens
+    meaning_in_word: feel / 感觉
+    zh: 感觉；感知
+    role: root
+    is_core: true
+  - morpheme: ory
+    form: -ory
+    meaning_in_word: relating to / 相关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - sensational
+  - sensation
+word_family_details:
+  - word: sensational
+    en: Means 极好的，绝妙的；引起轰动的; reviewed from the TOEFL source gloss for learner display.
+    zh: 极好的，绝妙的；引起轰动的
+  - word: sensation
+    en: Means 感觉，知觉; reviewed from the TOEFL source gloss for learner display.
+    zh: 感觉，知觉
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

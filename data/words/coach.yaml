@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coach
+word: coach
+pos: noun
+zh: 教练；四轮大马车
+en: Means 教练；四轮大马车; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: coach
+    form: coach
+    meaning_in_word: coach; carriage; trainer / 马车；教练
+    zh: 马车；教练
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - stagecoach
+word_family_details:
+  - word: stagecoach
+    en: Means 公共马车; reviewed from the TOEFL source gloss for learner display.
+    zh: 公共马车
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

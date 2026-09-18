@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aloof
+word: aloof
+pos: adjective/adverb
+zh: 远离的；冷淡的；漠不关心的
+en: distant, reserved, or uninvolved
+components:
+  - morpheme: a
+    form: a-
+    meaning_in_word: on, at
+    zh: 在；属于；完成性
+    role: prefix
+    is_core: false
+  - morpheme: loof-luff
+    form: loof
+    meaning_in_word: windward side, away
+    zh: 迎风侧；远离
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: aloft
+    reason: aloof 常指人态度冷淡疏离；不要和 aloft “在空中”混。
+    zh_reason: aloof 常指人态度冷淡疏离；不要和 aloft “在空中”混。
+  - word: alone
+    reason: aloof 常指人态度冷淡疏离；不要和 aloft “在空中”混。
+    zh_reason: aloof 常指人态度冷淡疏离；不要和 aloft “在空中”混。
+examples:
+  []
+why_confusing: aloof 常指人态度冷淡疏离；不要和 aloft “在空中”混。

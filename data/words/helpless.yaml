@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: helpless
+word: helpless
+pos: adjective
+zh: 无助的，无依靠的
+en: Means 无助的，无依靠的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: help
+    form: help
+    meaning_in_word: help
+    zh: 帮助
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:help.
+  - morpheme: less
+    form: -less
+    meaning_in_word: 无；没有
+    zh: 无；没有
+    role: suffix
+    is_core: false
+    note: Suffix layer from Old English -leas.
+word_family:
+  - helpful
+  - helper
+word_family_details:
+  - word: helpful
+    en: Means 有帮助的，有益的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 有帮助的，有益的
+  - word: helper
+    en: Means 助手; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 助手
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

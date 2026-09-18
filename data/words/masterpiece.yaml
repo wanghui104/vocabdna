@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: masterpiece
+word: masterpiece
+pos: noun
+zh: 杰作，名著
+en: Means 杰作，名著; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: master
+    form: master
+    meaning_in_word: 大师；主管
+    zh: 大师；主管
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:master.
+  - morpheme: piece
+    form: piece
+    meaning_in_word: 片；作品
+    zh: 片；作品
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:piece.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

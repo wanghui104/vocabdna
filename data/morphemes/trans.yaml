@@ -5,23 +5,69 @@ type: prefix
 core_meaning: across, through
 zh: 横越、穿过、转移
 origin: Latin
+source_form: Latin trans
+source_meaning: across, through
+source_meaning_zh: 横越、穿过、转移
+source_note: 拉丁介词及前缀；per 表穿过、彻底，trans 表横越、转移。
 related_morphemes:
   []
 senses:
   - meaning: across, through
     zh: 横越、穿过、转移
     examples:
-      - transport
+      - neurotransmitter
+      - transaction
+      - transcend
+      - transcontinental
+      - transcript
+      - transfer
+      - transform
+      - transformation
+      - transition
+      - translucent
       - transmit
+      - transmitter
+      - transmute
+      - transparent
+      - transplant
+      - transport
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - trans- -> transport
+  - trans- -> neurotransmitter
+  - trans- -> transaction
+  - trans- -> transcend
+  - trans- -> transcontinental
+  - trans- -> transcript
+  - trans- -> transfer
+  - trans- -> transform
+  - trans- -> transformation
+  - trans- -> transition
+  - trans- -> translucent
   - trans- -> transmit
+  - trans- -> transmitter
+  - trans- -> transmute
+  - trans- -> transparent
+  - trans- -> transplant
+  - trans- -> transport
 high_value_words:
-  - transport
+  - neurotransmitter
+  - transaction
+  - transcend
+  - transcontinental
+  - transcript
+  - transfer
+  - transform
+  - transformation
+  - transition
+  - translucent
   - transmit
+  - transmitter
+  - transmute
+  - transparent
+  - transplant
+  - transport
 confusable_words:
   []

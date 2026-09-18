@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: equipment
+word: equipment
+pos: noun
+zh: 设备；装备
+en: the tools and other items needed for an activity
+components:
+  - morpheme: equip
+    form: equip
+    meaning_in_word: fit out, furnish / 装备
+    zh: 装备
+    role: root
+    is_core: true
+    note: 深层经法语，可能来自 Old Norse skipa 装备船、安排，skip 船；MW 给出日耳曼来源。不能拆为 equ- 相等 + ip。
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result, state / 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - equip
+word_family_details:
+  - word: equip
+    en: to supply with the tools, skills, or resources needed
+    zh: 装备；使具备条件
+confusables:
+  - word: equilibrium
+    reason: equipment 通常为不可数名词；一件设备用 a piece of equipment。
+    zh_reason: equipment 通常为不可数名词；一件设备用 a piece of equipment。
+examples:
+  []
+why_confusing: equipment 通常为不可数名词；一件设备用 a piece of equipment。

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: such
+display: such
+type: root
+core_meaning: of this kind
+zh: 这样的
+origin: Old English
+source_form: Old English swylc
+source_meaning: of this kind
+source_meaning_zh: 这样的
+related_morphemes:
+  []
+senses:
+  - meaning: of this kind
+    zh: 这样的
+    examples:
+      - as such
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - such -> as such
+high_value_words:
+  - as such
+confusable_words:
+  []

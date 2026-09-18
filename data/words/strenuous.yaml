@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: strenuous
+word: strenuous
+pos: adjective
+zh: 费力的；艰辛的
+en: Means 费力的；艰辛的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: strenu
+    form: strenu
+    meaning_in_word: vigorous; strenuous / 奋力；艰辛
+    zh: 奋力；艰辛
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: full of; having / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - strenuously
+word_family_details:
+  - word: strenuously
+    en: Means 奋发地，费力地; reviewed from the TOEFL source gloss for learner display.
+    zh: 奋发地，费力地
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

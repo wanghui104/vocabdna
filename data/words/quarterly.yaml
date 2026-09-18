@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: quarterly
+word: quarterly
+pos: adverb/verb
+zh: 每季地
+en: Means 每季地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: quart
+    form: quart
+    meaning_in_word: fourth / 四分之一
+    zh: 四分之一
+    role: root
+    is_core: true
+  - morpheme: er
+    form: -er
+    meaning_in_word: person or thing / 人或物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in that manner / 以…方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - quarter
+word_family_details:
+  - word: quarter
+    en: Means 四分之一; reviewed from the TOEFL source gloss for learner display.
+    zh: 四分之一
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

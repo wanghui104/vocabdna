@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disturbance
+word: disturbance
+pos: noun
+zh: 干扰；骚乱；扰动
+en: an interruption of peace or normal activity; a disorderly event
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: completely; intensive / 充分；加强
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: turb
+    form: turb
+    meaning_in_word: disorder, throw into confusion / 混乱；扰乱
+    zh: 混乱；扰乱
+    role: root
+    is_core: true
+    note: turba 人群、纷乱 → turbare 搅乱；disturb 中 dis- 为加强。
+  - morpheme: ence-ance
+    form: -ance
+    meaning_in_word: state, quality / 状态、性质
+    zh: 状态、性质
+    role: suffix
+    is_core: false
+word_family:
+  - disturb
+  - disturbed
+word_family_details:
+  - word: disturb
+    en: to interrupt peace, activity, or the usual arrangement of something
+    zh: 打扰；扰乱；使不安
+  - word: disturbed
+    en: interrupted or unsettled; emotionally troubled
+    zh: 被打扰的；不安的
+confusables:
+  []
+examples:
+  []
+why_confusing: turba 人群、纷乱 → turbare 搅乱；disturb 中 dis- 为加强。

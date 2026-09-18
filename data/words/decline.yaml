@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: decline
+word: decline
+pos: verb/noun
+zh: 衰退；下降；减退
+en: to become lower, weaker, or less
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: cline
+    form: cline
+    meaning_in_word: lean, slope
+    zh: 倾斜；下降
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: decline a request 是谢绝；a decline in sales 是下降。

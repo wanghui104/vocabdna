@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tagon
+display: tagon
+type: root
+core_meaning: struggle; contest
+zh: 争斗；角色
+origin: teaching morphology
+source_form: tagon
+source_meaning: struggle; contest
+source_meaning_zh: 争斗；角色
+related_morphemes:
+  []
+senses:
+  - meaning: struggle; contest
+    zh: 争斗；角色
+    examples:
+      - protagonist
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tagon -> protagonist
+high_value_words:
+  - protagonist
+confusable_words:
+  []

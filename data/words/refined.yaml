@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: refined
+word: refined
+pos: adjective
+zh: 优雅的；精制的
+en: Means 优雅的；精制的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: fin
+    form: fin
+    meaning_in_word: fine; finish/refine / 细；完成
+    zh: 边界；限制；终点
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having; past participle / 已…的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - refinement
+word_family_details:
+  - word: refinement
+    en: Means （言语、举止等的）文雅，精巧; reviewed from the TOEFL source gloss for learner display.
+    zh: （言语、举止等的）文雅，精巧
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

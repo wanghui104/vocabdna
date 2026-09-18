@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disposed
+word: disposed
+pos: adjective
+zh: 有……倾向的
+en: inclined or willing to do something
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: pon
+    form: pos
+    meaning_in_word: compose, component, compound / 组成；放置
+    zh: 放置
+    role: root
+    is_core: true
+    note: pon-/pos-/posit- 来自 Latin ponere/positus 放置；dispose 的 dis- 表分开安排，disposed 的 -ed 只计一次。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - dispose
+  - disposal
+  - disposition
+word_family_details:
+  - word: dispose
+    en: to arrange, deal with, or make inclined toward something
+    zh: 安排；处理；使倾向于
+  - word: disposal
+    en: the act of getting rid of something, or the power to use something
+    zh: 处置；处理；垃圾倾倒
+  - word: disposition
+    en: a person's usual temperament, tendency, or arrangement
+    zh: 性情；倾向；安排
+confusables:
+  []
+examples:
+  []
+why_confusing: disposed 常用 be disposed to do。

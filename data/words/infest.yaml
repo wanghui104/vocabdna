@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: infest
+word: infest
+pos: verb
+zh: 骚扰，大批滋生
+en: Means 骚扰，大批滋生; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: fest
+    form: fest
+    meaning_in_word: 节庆
+    zh: 节庆
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:fest.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

@@ -1,0 +1,26 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elite
+word: elite
+pos: noun/adjective
+zh: 精英；上层群体
+en: a group considered the most skilled, influential, or privileged
+components:
+  - morpheme: elite
+    form: elite
+    meaning_in_word: chosen group / 精选群体
+    zh: 精选群体
+    role: root
+    is_core: true
+    note: 深层 eligere = e- 出 + legere 选择，经法语收缩；保留现代 elite，非 el + ite。
+    related_morphemes:
+      - e
+      - leg-choose
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

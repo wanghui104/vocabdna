@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: squash
+display: squash
+type: root
+core_meaning: squash; crush
+zh: 南瓜；压碎
+origin: Native American/French?
+source_form: squash
+source_meaning: squash; crush
+source_meaning_zh: 南瓜；压碎
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: squash; crush
+    zh: 南瓜；压碎
+    examples:
+      - squash
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - squash -> squash
+high_value_words:
+  - squash
+confusable_words:
+  []

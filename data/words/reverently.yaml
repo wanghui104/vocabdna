@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: reverently
+word: reverently
+pos: adverb/verb
+zh: 虔诚地
+en: Means 虔诚地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: ver
+    form: ver
+    meaning_in_word: awe; revere / 敬畏
+    zh: 敬畏
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: being; doing / 正在/具有
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in that manner / 以…方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - revered
+word_family_details:
+  - word: revered
+    en: Means 可敬的，尊敬的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可敬的，尊敬的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

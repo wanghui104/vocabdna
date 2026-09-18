@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: complain
+word: complain
+pos: verb
+zh: 抱怨；悲叹
+en: to say that something is wrong or unsatisfactory
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: plain
+    form: plain
+    meaning_in_word: lament
+    zh: 抱怨；怨言
+    role: root
+    is_core: true
+word_family:
+  - complaint
+word_family_details:
+  - word: complaint
+    en: a statement that something is wrong or unsatisfactory
+    zh: 抱怨；怨言；投诉
+confusables:
+  []
+examples:
+  []
+why_confusing: complain about/of。

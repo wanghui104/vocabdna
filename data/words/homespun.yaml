@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: homespun
+word: homespun
+pos: adjective
+zh: 朴素的；家里纺织的
+en: Means 朴素的；家里纺织的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: home
+    form: home
+    meaning_in_word: home
+    zh: 家
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:home.
+  - morpheme: spun
+    form: spun
+    meaning_in_word: spun
+    zh: 纺；旋转
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:spun.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

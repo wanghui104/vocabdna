@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bowl
+word: bowl
+pos: noun
+zh: 碗；碗状物
+en: a round deep dish, or something shaped like one
+components:
+  - morpheme: bowl
+    form: bowl
+    meaning_in_word: round vessel
+    zh: 碗；碗状物
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: bow
+    reason: 不要和 bow 弓形混为一条词源。
+    zh_reason: 不要和 bow 弓形混为一条词源。
+examples:
+  []
+why_confusing: 不要和 bow 弓形混为一条词源。

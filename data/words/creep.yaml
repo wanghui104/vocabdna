@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: creep
+word: creep
+pos: verb
+zh: 慢慢行进；爬行；潜行
+en: to move slowly, quietly, or close to the ground
+components:
+  - morpheme: creep
+    form: creep
+    meaning_in_word: crawl slowly
+    zh: 缓慢爬行；潜行
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: crawl
+    reason: creep 可带令人不安的感觉；crawl 更中性。
+    zh_reason: creep 可带令人不安的感觉；crawl 更中性。
+examples:
+  []
+why_confusing: creep 可带令人不安的感觉；crawl 更中性。

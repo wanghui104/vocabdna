@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: calculator
+word: calculator
+pos: noun
+zh: 计算器
+en: a device or person that calculates numbers
+components:
+  - morpheme: calc
+    form: calcul
+    meaning_in_word: count
+    zh: 计算；估计
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -ator
+    meaning_in_word: thing/person that does
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - calculate
+  - calculation
+word_family_details:
+  - word: calculate
+    en: to find a number by math, or estimate carefully
+    zh: 计算；估计
+  - word: calculation
+    en: a mathematical process or careful planning
+    zh: 计算；考虑
+confusables:
+  []
+examples:
+  []
+why_confusing: calculator 通常指电子计算器。

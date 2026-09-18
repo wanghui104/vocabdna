@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: employee
+word: employee
+pos: noun
+zh: 雇员
+en: a person hired to work for someone else
+components:
+  - morpheme: in
+    form: em-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: plic
+    form: ploy
+    meaning_in_word: fold, attach, apply / 折叠；贴合；应用
+    zh: 折叠；贴合；应用
+    role: root
+    is_core: true
+  - morpheme: ee
+    form: -ee
+    meaning_in_word: person affected by an action / 接受动作的人
+    zh: 接受动作的人
+    role: suffix
+    is_core: false
+word_family:
+  - employ
+  - employer
+  - employment
+word_family_details:
+  - word: employ
+    en: to hire someone for work
+    zh: 雇用
+  - word: employer
+    en: a person or organization that hires workers
+    zh: 雇主
+  - word: employment
+    en: paid work or the act of using something
+    zh: 就业；雇用；使用
+confusables:
+  []
+examples:
+  []
+why_confusing: 

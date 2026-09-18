@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blend
+display: blend
+type: root
+core_meaning: blend, mix
+zh: 混合；融合
+origin: Old English
+source_form: Old English blandan
+source_meaning: mix
+source_meaning_zh: 混合
+related_morphemes:
+  []
+senses:
+  - meaning: blend, mix
+    zh: 混合；融合
+    examples:
+      - blend
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - blend -> blend
+high_value_words:
+  - blend
+confusable_words:
+  []

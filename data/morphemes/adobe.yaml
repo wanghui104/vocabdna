@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adobe
+display: adobe
+type: root
+core_meaning: mudbrick
+zh: 土坯；泥砖
+origin: Mixed
+source_form: Spanish adobe, Arabic al-tob, Coptic tube
+source_meaning: sun-dried brick
+source_meaning_zh: 日晒土砖
+source_note: Etymology is reported through Spanish with possible Arabic/Coptic layers.
+related_morphemes:
+  []
+senses:
+  - meaning: mudbrick
+    zh: 土坯；泥砖
+    examples:
+      - adobe
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - adobe -> adobe
+high_value_words:
+  - adobe
+confusable_words:
+  []

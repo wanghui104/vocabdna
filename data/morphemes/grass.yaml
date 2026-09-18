@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: grass
+display: grass
+type: root
+core_meaning: grass
+zh: grass
+origin: English
+source_form: English grass
+source_meaning: grass
+source_meaning_zh: grass
+related_morphemes:
+  []
+senses:
+  - meaning: grass
+    zh: grass
+    examples:
+      - grasshopper
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - grass -> grasshopper
+high_value_words:
+  - grasshopper
+confusable_words:
+  []

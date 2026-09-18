@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: big-deal
+word: big deal
+pos: phrase
+zh: 重大事情；重要人物
+en: something or someone important, often used ironically
+components:
+  - morpheme: big
+    form: big
+    meaning_in_word: important
+    zh: 大的；重要的
+    role: root
+    is_core: true
+  - morpheme: deal
+    form: deal
+    meaning_in_word: matter
+    zh: 交易；份量；处理
+    role: root
+    is_core: true
+word_family:
+  - deal
+  - a-great-deal
+  - a-good-deal
+  - deal-with
+word_family_details:
+  - word: deal
+    en: an agreement, arrangement, or amount
+    zh: 交易；协议；份量
+  - word: a-great-deal
+    en: a large amount or extent
+    zh: 大量；许多
+  - word: a-good-deal
+    en: a fairly large amount
+    zh: 许多；相当多
+  - word: deal-with
+    en: to handle, manage, or cope with a situation or person
+    zh: 处理；应付
+confusables:
+  []
+examples:
+  []
+why_confusing: No big deal 表示没什么大不了。

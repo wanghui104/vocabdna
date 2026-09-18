@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spoil
+word: spoil
+pos: verb
+zh: 损坏；腐烂；宠爱，溺爱
+en: Means 损坏；腐烂；宠爱，溺爱; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: spoil
+    form: spoil
+    meaning_in_word: spoil; plunder / 损坏；掠夺
+    zh: 掠夺；剥夺
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - despoiler
+  - spoilage
+  - unspoiled
+word_family_details:
+  - word: despoiler
+    en: Means 掠夺者; reviewed from the TOEFL source gloss for learner display.
+    zh: 掠夺者
+  - word: spoilage
+    en: Means （食物等）变质，损坏; reviewed from the TOEFL source gloss for learner display.
+    zh: （食物等）变质，损坏
+  - word: unspoiled
+    en: Means 未损坏的; reviewed from the TOEFL source gloss for learner display.
+    zh: 未损坏的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

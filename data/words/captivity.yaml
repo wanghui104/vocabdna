@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: captivity
+word: captivity
+pos: noun
+zh: 囚禁；拘留
+en: the state of being kept as a prisoner or captive
+components:
+  - morpheme: capt
+    form: capt
+    meaning_in_word: captured
+    zh: 囚禁；俘获
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -ivity
+    meaning_in_word: state
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: in captivity 指被圈养/囚禁。

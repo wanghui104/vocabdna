@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: congestion
+word: congestion
+pos: noun
+zh: 拥挤；拥塞；堵塞
+en: a crowded or blocked condition, especially traffic or nasal passages
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: gest
+    form: gest
+    meaning_in_word: carry, pile up
+    zh: 承载；拥塞
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: state/result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - congested
+word_family_details:
+  - word: congested
+    en: too crowded or blocked
+    zh: 堵塞的；拥挤的
+confusables:
+  []
+examples:
+  []
+why_confusing: traffic/nasal congestion 常见。

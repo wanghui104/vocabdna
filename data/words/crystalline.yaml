@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crystalline
+word: crystalline
+pos: adjective
+zh: 水晶的；透明的；晶体状的
+en: made of crystals or clear like crystal
+components:
+  - morpheme: crystal
+    form: crystall
+    meaning_in_word: crystal, clear solid / 水晶；晶体
+    zh: 水晶；晶体
+    role: root
+    is_core: true
+  - morpheme: ine
+    form: -ine
+    meaning_in_word: of, like, made of / 属于；像；由……组成
+    zh: 属于；像；由……组成
+    role: suffix
+    is_core: false
+word_family:
+  - crystal
+  - crystallize
+  - crystallized
+  - crystallization
+word_family_details:
+  - word: crystal
+    en: a clear mineral solid with regular structure, or clear like crystal
+    zh: 水晶；晶体；清澈的；结晶状的
+  - word: crystallize
+    en: to become clear and definite, or to form crystals
+    zh: 明确；使结晶化
+  - word: crystallized
+    en: formed into crystals or made clear and fixed
+    zh: 变成晶体的；明确成形的
+  - word: crystallization
+    en: the process of forming crystals or becoming clear and definite
+    zh: 结晶化；明确化
+confusables:
+  []
+examples:
+  []
+why_confusing: crystalline water 强调清澈；crystalline structure 强调晶体结构。

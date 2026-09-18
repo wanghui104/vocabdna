@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bound
+word: bound
+pos: adjective/noun
+zh: 被束缚的；有义务的；范围；限制
+en: tied or obliged, or a limit
+components:
+  - morpheme: bond
+    form: bound
+    meaning_in_word: tied
+    zh: 联结；债券；化学键
+    role: root
+    is_core: true
+  - morpheme: bound-limit
+    form: bound
+    meaning_in_word: limit
+    zh: 界限；边界
+    role: root
+    is_core: true
+word_family:
+  - boundary
+  - boundless
+word_family_details:
+  - word: boundary
+    en: a line that marks the edge or limit of an area
+    zh: 分界线；边界
+  - word: boundless
+    en: having no limits
+    zh: 无限的；无边无际的
+confusables:
+  []
+examples:
+  []
+why_confusing: bound for 表示前往；bound to 表示必定或有义务。

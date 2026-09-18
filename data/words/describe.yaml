@@ -8,7 +8,7 @@ components:
   - morpheme: de
     form: de-
     meaning_in_word: down, fully
-    zh: 向下、离开、取消
+    zh: 向下；去除
     role: prefix
     is_core: false
   - morpheme: scrib
@@ -18,15 +18,9 @@ components:
     role: root
     is_core: true
 word_family:
-  - description
-  - descriptive
+  []
 word_family_details:
-  - word: description
-    en: related form of description
-    zh: description 的相关词
-  - word: descriptive
-    en: related form of descriptive
-    zh: descriptive 的相关词
+  []
 confusables:
   - word: depict
     reason: describe 用语言描述；depict 用图像或文字描绘。

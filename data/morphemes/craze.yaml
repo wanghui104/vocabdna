@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: craze
+display: craze
+type: root
+core_meaning: crazy, cracked in mind
+zh: 疯狂；狂热
+origin: Unknown
+source_form: English craze
+source_meaning: crack, shatter, become deranged
+source_meaning_zh: 裂开；发狂
+related_morphemes:
+  []
+senses:
+  - meaning: crazy, cracked in mind
+    zh: 疯狂；狂热
+    examples:
+      - craze
+      - crazy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - craze -> craze
+  - craz -> crazy
+high_value_words:
+  - craze
+  - crazy
+confusable_words:
+  []

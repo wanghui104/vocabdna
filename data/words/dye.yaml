@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dye
+word: dye
+pos: noun/verb
+zh: 染料
+en: a substance used to give lasting color
+components:
+  - morpheme: dye
+    form: dye
+    meaning_in_word: color, color with a dye / 颜色；染色
+    zh: 颜色；染色
+    role: root
+    is_core: true
+    note: 纠正原表“燃料”为“染料”；dye 和 die 是不同词。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

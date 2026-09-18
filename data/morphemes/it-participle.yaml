@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: it-participle
+display: -it
+type: suffix
+core_meaning: participial formation
+zh: 分词构词层
+origin: Latin
+source_form: Latin participial -itus
+source_meaning: participial formation
+source_meaning_zh: 分词构词层
+source_note: explicit/implicit 的 -it 对应 Latin -itus；expenditure 的 it 来自 Medieval Latin expenditus。
+related_morphemes:
+  []
+senses:
+  - meaning: participial formation
+    zh: 分词构词层
+    examples:
+      - expenditure
+      - explicit
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -it -> expenditure
+  - -it -> explicit
+high_value_words:
+  - expenditure
+  - explicit
+confusable_words:
+  []

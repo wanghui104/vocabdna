@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chateau
+display: chateau
+type: root
+core_meaning: chateau
+zh: 城堡；高级旅馆
+origin: French
+source_form: French chateau, Latin castellum
+source_meaning: castle
+source_meaning_zh: 城堡
+related_morphemes:
+  []
+senses:
+  - meaning: chateau
+    zh: 城堡；高级旅馆
+    examples:
+      - chateau
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - chateau -> chateau
+high_value_words:
+  - chateau
+confusable_words:
+  []

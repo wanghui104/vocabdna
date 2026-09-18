@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conifer
+word: conifer
+pos: noun
+zh: 针叶树；松柏类
+en: a tree that produces cones and usually has needle-like leaves
+components:
+  - morpheme: cone
+    form: coni
+    meaning_in_word: cone
+    zh: 圆锥；松果
+    role: root
+    is_core: true
+  - morpheme: fer
+    form: fer
+    meaning_in_word: bear, carry
+    zh: 携带、带来
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: conifer 是植物分类词。

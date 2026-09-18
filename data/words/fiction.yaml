@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fiction
+word: fiction
+pos: noun
+zh: 小说；虚构文学
+en: literature about imagined people or events
+components:
+  - morpheme: fict
+    form: fict
+    meaning_in_word: shape, invent / 塑造；虚构
+    zh: 塑造；虚构
+    role: root
+    is_core: true
+    note: fiction 的 fict- 为 fingere 的过去分词词干；figure 的 figura 也是这一塑造词族，fig- 后含历史 -ura 名词层。
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
+word_family:
+  - fictional
+word_family_details:
+  - word: fictional
+    en: invented for a story; relating to fiction
+    zh: 虚构的；小说的
+confusables:
+  - word: friction
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

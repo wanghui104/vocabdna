@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fray
+display: fray
+type: root
+core_meaning: rub; fight
+zh: 磨损；冲突
+origin: Mixed
+source_form: Old French fraier, Latin fricare; shortened affray
+source_meaning: rub; fight
+source_meaning_zh: 磨损；冲突
+source_note: 同形异源：磨损动词来自 fricare 摩擦；冲突名词缩自 affray。当前 draft 明列两支，不把冲突当摩擦的必然派生。
+related_morphemes:
+  []
+senses:
+  - meaning: rub; fight
+    zh: 磨损；冲突
+    examples:
+      - fray
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fray -> fray
+high_value_words:
+  - fray
+confusable_words:
+  []

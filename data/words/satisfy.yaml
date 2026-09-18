@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: satisfy
+word: satisfy
+pos: verb
+zh: 满足；使满意
+en: to meet a need or requirement; to make content
+components:
+  - morpheme: satis
+    form: satis
+    meaning_in_word: enough, satisfy / 足够；满足
+    zh: 足够；满足
+    role: root
+    is_core: true
+  - morpheme: ify
+    form: -fy
+    meaning_in_word: make, cause to become / 使成为
+    zh: 使成为
+    role: suffix
+    is_core: false
+    note: -ify 更深来自 Latin facere 做的复合构词形；不是不可解释的整块。
+    related_morphemes:
+      - fac
+word_family:
+  - satisfaction
+word_family_details:
+  - word: satisfaction
+    en: contentment from fulfillment; fulfillment of a requirement
+    zh: 满意；满足；符合要求
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: by
+display: by
+type: root
+core_meaning: by
+zh: 由；被；靠
+origin: Old English
+source_form: Old English bi
+source_meaning: near, through, by means of
+source_meaning_zh: 靠近；通过；由
+related_morphemes:
+  []
+senses:
+  - meaning: by
+    zh: 由；被；靠
+    examples:
+      - be characterized by
+      - be taken by
+      - by a factor of
+      - by chance
+      - by far
+      - by-product
+      - learn by rote
+      - thereby
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - by -> be characterized by
+  - by -> be taken by
+  - by -> by a factor of
+  - by -> by chance
+  - by -> by far
+  - by- -> by-product
+  - by -> learn by rote
+  - by -> thereby
+high_value_words:
+  - be characterized by
+  - be taken by
+  - by a factor of
+  - by chance
+  - by far
+  - by-product
+  - learn by rote
+  - thereby
+confusable_words:
+  []

@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: courier
+word: courier
+pos: noun
+zh: 送急件的人；信使；快递员；递送服务
+en: a messenger or delivery service that carries letters, documents, or packages quickly
+components:
+  - morpheme: curr
+    form: cour
+    meaning_in_word: run, go quickly
+    zh: 跑；流动；路线
+    role: root
+    is_core: true
+    note: French cour-/courr- reflects Latin currere 'to run'.
+  - morpheme: er
+    form: -ier
+    meaning_in_word: person who does
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: Romance agent suffix, comparable for learners to -er.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The courier delivered the documents before noon.
+    zh: 快递员在中午前送到了文件。
+why_confusing: Do not confuse courier with currier, a worker who dresses leather; courier belongs with the run/course family.

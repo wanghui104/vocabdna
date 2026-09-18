@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spinach
+display: spinach
+type: root
+core_meaning: spinach
+zh: 菠菜
+origin: Persian/Latin
+source_form: spinach
+source_meaning: spinach
+source_meaning_zh: 菠菜
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: spinach
+    zh: 菠菜
+    examples:
+      - spinach
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - spinach -> spinach
+high_value_words:
+  - spinach
+confusable_words:
+  []

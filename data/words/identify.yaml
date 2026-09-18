@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: identify
+word: identify
+pos: verb
+zh: 识别，认出；鉴定
+en: Means 识别，认出；鉴定; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ident
+    form: ident
+    meaning_in_word: 同一
+    zh: 同一
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:ident.
+  - morpheme: ify
+    form: -ify
+    meaning_in_word: 使成为
+    zh: 使成为
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ify.
+    related_morphemes:
+      - fac
+word_family:
+  - identification
+  - identifiable
+  - identity
+  - identical
+word_family_details:
+  - word: identification
+    en: Means 辨认；鉴定; reviewed from the TOEFL source gloss for learner display.
+    zh: 辨认；鉴定
+  - word: identifiable
+    en: Means 可辨认的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可辨认的
+  - word: identity
+    en: Means 身份; reviewed from the TOEFL source gloss for learner display.
+    zh: 身份
+  - word: identical
+    en: Means 同一的；完全相同的; reviewed from the TOEFL source gloss for learner display.
+    zh: 同一的；完全相同的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

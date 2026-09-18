@@ -2,29 +2,60 @@
 id: mit
 display: mit
 type: root
-core_meaning: send, let go
-zh: 送、放出
+core_meaning: send
+zh: 送；提交
 origin: Latin
+source_form: mit
+source_meaning: send
+source_meaning_zh: 送；提交
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
 related_morphemes:
   []
 senses:
-  - meaning: send, let go
-    zh: 送、放出
+  - meaning: send
+    zh: 送；提交
     examples:
-      - transmit
+      - admit
+      - admittedly
       - dismiss
+      - emission
+      - emit
+      - neurotransmitter
+      - permission
+      - permissive
       - permit
+      - submit
+      - transmit
+      - transmitter
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - mit -> transmit
+  - mit -> admit
+  - mit -> admittedly
   - miss -> dismiss
+  - miss -> emission
+  - mit -> emit
+  - mit -> neurotransmitter
+  - mit -> permission
+  - mit -> permissive
   - mit -> permit
+  - mit -> submit
+  - mit -> transmit
+  - mit -> transmitter
 high_value_words:
-  - transmit
+  - admit
+  - admittedly
   - dismiss
+  - emission
+  - emit
+  - neurotransmitter
+  - permission
+  - permissive
   - permit
+  - submit
+  - transmit
+  - transmitter
 confusable_words:
   []

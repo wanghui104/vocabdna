@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cease
+word: cease
+pos: verb
+zh: 停止；终止
+en: to stop happening or stop doing something
+components:
+  - morpheme: cease
+    form: cease
+    meaning_in_word: stop
+    zh: 停止；终止
+    role: root
+    is_core: true
+word_family:
+  - ceaseless
+word_family_details:
+  - word: ceaseless
+    en: continuing without stopping
+    zh: 不停的；不断的
+confusables:
+  []
+examples:
+  []
+why_confusing: cease to exist/fire/work 常见。

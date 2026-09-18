@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brilliant
+display: brilliant
+type: root
+core_meaning: brilliant
+zh: 辉煌；聪明
+origin: French
+source_form: French brillant, briller
+source_meaning: shine, sparkle
+source_meaning_zh: 闪耀；发光
+related_morphemes:
+  []
+senses:
+  - meaning: brilliant
+    zh: 辉煌；聪明
+    examples:
+      - brilliance
+      - brilliantly
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - brilli -> brilliance
+  - brilliant -> brilliantly
+high_value_words:
+  - brilliance
+  - brilliantly
+confusable_words:
+  []

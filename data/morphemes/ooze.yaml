@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ooze
+display: ooze
+type: root
+core_meaning: ooze; seep
+zh: 渗出
+origin: teaching morphology
+source_form: ooze
+source_meaning: ooze; seep
+source_meaning_zh: 渗出
+related_morphemes:
+  []
+senses:
+  - meaning: ooze; seep
+    zh: 渗出
+    examples:
+      - ooze
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ooze -> ooze
+high_value_words:
+  - ooze
+confusable_words:
+  []

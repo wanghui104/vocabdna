@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bluff
+word: bluff
+pos: noun/verb
+zh: 悬崖；绝壁；诈骗；吓唬
+en: a steep cliff, or an attempt to deceive by confident appearance
+components:
+  - morpheme: bluff-cliff
+    form: bluff
+    meaning_in_word: steep front
+    zh: 悬崖；绝壁
+    role: root
+    is_core: true
+  - morpheme: bluff-deceive
+    form: bluff
+    meaning_in_word: boast, deceive
+    zh: 虚张声势；诈骗
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 两义同形但来源不同，不按同一 root 强行解释。

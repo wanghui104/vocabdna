@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blast
+word: blast
+pos: verb/noun
+zh: 爆破；一阵风、气流或噪音
+en: an explosion or powerful burst of air, sound, or force
+components:
+  - morpheme: blast
+    form: blast
+    meaning_in_word: gust, explosion
+    zh: 爆破；气流；巨响
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: blast 可指爆破、强风、巨响或猛烈批评。

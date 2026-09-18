@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rear
+word: rear
+pos: verb
+zh: 培养，饲养；后面
+en: Means 培养，饲养；后面; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rear
+    form: rear
+    meaning_in_word: rear; raise / 后；培养
+    zh: 后；培养
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

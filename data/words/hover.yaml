@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hover
+word: hover
+pos: verb
+zh: 翱翔；徘徊
+en: Means 翱翔；徘徊; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: hover
+    form: hover
+    meaning_in_word: 悬停；浮停
+    zh: 悬停；浮停
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hover.
+word_family:
+  - hovercraft
+word_family_details:
+  - word: hovercraft
+    en: Means 水翼船; reviewed from the TOEFL source gloss for learner display.
+    zh: 水翼船
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

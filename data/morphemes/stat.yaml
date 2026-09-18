@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stat
+display: stat
+type: root
+core_meaning: stand, set up
+zh: 站立；竖立
+origin: Latin
+source_form: Latin statuere / status
+source_meaning: set up, stand
+source_meaning_zh: 放置；站立
+related_morphemes:
+  []
+senses:
+  - meaning: stand, set up
+    zh: 站立；竖立
+    examples:
+      - constituent
+      - constitute
+      - constitution
+      - constitutional
+      - statistics
+      - status
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - stitu -> constituent
+  - stitu -> constitute
+  - stitu -> constitution
+  - constitution -> constitutional
+  - stat -> statistics
+  - stat -> status
+high_value_words:
+  - constituent
+  - constitute
+  - constitution
+  - constitutional
+  - statistics
+  - status
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: perspective
+word: perspective
+pos: noun
+zh: (判断事物的)角度，方法，观点；透视；远景
+en: Means (判断事物的)角度，方法，观点；透视；远景; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: per
+    form: per-
+    meaning_in_word: through; thoroughly / 穿过；彻底
+    zh: 穿过、完全
+    role: prefix
+    is_core: false
+  - morpheme: spect
+    form: spect
+    meaning_in_word: look / 看
+    zh: 看
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: tending to / 倾向于
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: armory
+word: armory
+pos: noun
+zh: 军械库；兵工厂；纹章
+en: a place where weapons are stored or made; also heraldic arms
+components:
+  - morpheme: army
+    form: arm
+    meaning_in_word: weapons
+    zh: 军队；大群
+    role: root
+    is_core: true
+  - morpheme: arium
+    form: -ory
+    meaning_in_word: place for
+    zh: 场所；容器
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

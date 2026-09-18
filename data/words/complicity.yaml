@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: complicity
+word: complicity
+pos: noun
+zh: 共谋；同谋；共犯
+en: involvement with others in wrongdoing
+components:
+  - morpheme: plex
+    form: complicity
+    meaning_in_word: being folded together in wrongdoing
+    zh: 复杂；牵连
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

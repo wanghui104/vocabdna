@@ -1,0 +1,49 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spec
+display: spec
+type: root
+core_meaning: look; kind; specify
+zh: 看；种类；明确
+origin: Latin
+source_form: spec
+source_meaning: look; kind; specify
+source_meaning_zh: 看；种类；明确
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: look; kind; specify
+    zh: 看；种类；明确
+    examples:
+      - species
+      - specific
+      - specification
+      - specified
+      - specify
+      - specimen
+      - speculate
+      - subspecies
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - spec -> species
+  - spec -> specific
+  - spec -> specification
+  - spec -> specified
+  - spec -> specify
+  - spec -> specimen
+  - spec -> speculate
+  - spec -> subspecies
+high_value_words:
+  - species
+  - specific
+  - specification
+  - specified
+  - specify
+  - specimen
+  - speculate
+  - subspecies
+confusable_words:
+  []

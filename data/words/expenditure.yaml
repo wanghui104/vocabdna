@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: expenditure
+word: expenditure
+pos: noun
+zh: 支出；花费
+en: money, time, or effort spent; the act of spending it
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: pend
+    form: pend
+    meaning_in_word: hang, weigh, pay / 悬挂；称量；支付
+    zh: 悬挂；称量；支付
+    role: root
+    is_core: true
+  - morpheme: it-participle
+    form: -it
+    meaning_in_word: participial formation / 分词构词层
+    zh: 分词构词层
+    role: suffix
+    is_core: false
+    note: explicit/implicit 的 -it 对应 Latin -itus；expenditure 的 it 来自 Medieval Latin expenditus。
+  - morpheme: ure
+    form: -ure
+    meaning_in_word: act or result / 行为；结果
+    zh: 行为；结果
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

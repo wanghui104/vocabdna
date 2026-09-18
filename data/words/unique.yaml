@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: unique
+word: unique
+pos: adjective
+zh: 独一无二的；独特的
+en: Means 独一无二的；独特的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: uni
+    form: uni
+    meaning_in_word: one / 一
+    zh: 一
+    role: root
+    is_core: true
+  - morpheme: ique
+    form: ique
+    meaning_in_word: single/unique ending / 独特词尾
+    zh: 独特词尾
+    role: root
+    is_core: true
+word_family:
+  - unify
+  - unity
+word_family_details:
+  - word: unify
+    en: Means 统一，使成一体; reviewed from the TOEFL source gloss for learner display.
+    zh: 统一，使成一体
+  - word: unity
+    en: Means 结合，一致; reviewed from the TOEFL source gloss for learner display.
+    zh: 结合，一致
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

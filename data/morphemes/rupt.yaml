@@ -15,13 +15,37 @@ senses:
     zh: 破裂、打断
     examples:
       - abrupt
+      - bankrupt
+      - bankruptcy
+      - corruption
+      - disrupt
+      - erupt
+      - eruption
+      - interrupt
+      - rupture
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - rupt -> abrupt
+  - rupt -> bankrupt
+  - rupt -> bankruptcy
+  - rupt -> corruption
+  - rupt -> disrupt
+  - rupt -> erupt
+  - rupt -> eruption
+  - rupt -> interrupt
+  - rupt -> rupture
 high_value_words:
   - abrupt
+  - bankrupt
+  - bankruptcy
+  - corruption
+  - disrupt
+  - erupt
+  - eruption
+  - interrupt
+  - rupture
 confusable_words:
   []

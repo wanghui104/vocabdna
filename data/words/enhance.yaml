@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: enhance
+word: enhance
+pos: verb
+zh: 提高；增强
+en: to improve the quality, value, or extent of
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: hance
+    form: hance
+    meaning_in_word: raise, make higher / 提高
+    zh: 提高
+    role: root
+    is_core: true
+    note: 历史 in- + altus 高，经法语及 h/n 拼写影响形成 enhance；hance 保留表层，深层 altus。
+    related_morphemes:
+      - alt
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

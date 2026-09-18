@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ajar
+word: ajar
+pos: adjective
+zh: （门窗等）微开的
+en: Means （门窗等）微开的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: a
+    form: a-
+    meaning_in_word: 在；属于；完成性
+    zh: 在；属于；完成性
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:a.
+  - morpheme: jar
+    form: jar
+    meaning_in_word: 震动；罐
+    zh: 震动；罐
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:jar.
+word_family:
+  - jar
+word_family_details:
+  - word: jar
+    en: Means 罐，广口瓶 / 震动；刺激，震惊; reviewed from the TOEFL source gloss for learner display.
+    zh: 罐，广口瓶 / 震动；刺激，震惊
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

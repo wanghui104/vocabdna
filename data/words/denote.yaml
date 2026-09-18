@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: denote
+word: denote
+pos: verb
+zh: 指示；表示
+en: to indicate, stand for, or mean something
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: formally, down
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: not
+    form: note
+    meaning_in_word: mark, sign
+    zh: 标记；表示
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: denote 比 mean 更正式。

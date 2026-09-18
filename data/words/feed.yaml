@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: feed
+word: feed
+pos: verb/noun
+zh: 喂养；供给；进食
+en: to give food or material to; to eat
+components:
+  - morpheme: feed
+    form: feed
+    meaning_in_word: feed, food / 喂养；食物
+    zh: 喂养；食物
+    role: root
+    is_core: true
+    note: feed 与 food 同源，经历史元音变化形成使动词，不把 ee 当词缀。
+word_family:
+  - feeder
+word_family_details:
+  - word: feeder
+    en: a person, animal, or device that takes in or supplies food or material
+    zh: 进食者；喂食器；供给装置
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cosmic
+word: cosmic
+pos: adjective
+zh: 宇宙的
+en: related to the universe or outer space
+components:
+  - morpheme: cosm
+    form: cosm
+    meaning_in_word: universe
+    zh: 世界；宇宙
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: related to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cosmic rays/scale/significance 常见。

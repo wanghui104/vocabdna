@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: average
+word: average
+pos: noun/adjective/verb
+zh: 平均数；普通的；平均为
+en: a usual or mean amount; ordinary; to calculate a mean
+components:
+  - morpheme: average
+    form: average
+    meaning_in_word: shared loss, mean
+    zh: 分摊；平均数
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: average 作形容词可指普通、不特别。

@@ -17,6 +17,9 @@ components:
     zh: 计算、说明
     role: root
     is_core: true
+    related_morphemes:
+      - com
+      - put-reckon
 word_family:
   - accounting
   - accountant
@@ -28,9 +31,7 @@ word_family_details:
     en: a person whose job is to keep or inspect financial accounts
     zh: 会计员；会计师
 confusables:
-  - word: count
-    reason: account for 表示解释原因。
-    zh_reason: account for 表示解释原因。
+  []
 examples:
   - en: Her account of the trip was detailed.
     zh: 她对旅行的叙述很详细。

@@ -22,9 +22,7 @@ word_family:
 word_family_details:
   []
 confusables:
-  - word: extract
-    reason: abstract 作名词是摘要；作形容词是抽象的。
-    zh_reason: abstract 作名词是摘要；作形容词是抽象的。
+  []
 examples:
   - en: Justice is an abstract concept.
     zh: 正义是一个抽象概念。

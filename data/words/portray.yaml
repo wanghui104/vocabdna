@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: portray
+word: portray
+pos: verb
+zh: 描述；绘制
+en: Means 描述；绘制; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: por
+    form: por
+    meaning_in_word: pore; passage / 孔；通道
+    zh: 孔；通道
+    role: root
+    is_core: true
+  - morpheme: tray
+    form: tray
+    meaning_in_word: draw; portray / 描绘
+    zh: 背叛；暴露
+    role: root
+    is_core: true
+word_family:
+  - portrayal
+word_family_details:
+  - word: portrayal
+    en: Means 饰演；描画; reviewed from the TOEFL source gloss for learner display.
+    zh: 饰演；描画
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

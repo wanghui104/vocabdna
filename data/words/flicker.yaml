@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flicker
+word: flicker
+pos: verb/noun
+zh: 闪烁；摇曳；微光
+en: to shine unsteadily; a brief unsteady light or movement
+components:
+  - morpheme: flicker
+    form: flicker
+    meaning_in_word: flutter, flicker / 颤动；闪烁
+    zh: 颤动；闪烁
+    role: root
+    is_core: true
+    note: 历史 -er 表反复动作，不是人；现代保留 flicker，再加 -ing。
+word_family:
+  - flickering
+word_family_details:
+  - word: flickering
+    en: shining unsteadily or intermittently
+    zh: 闪烁的；摇曳的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

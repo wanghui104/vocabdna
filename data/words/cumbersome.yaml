@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cumbersome
+word: cumbersome
+pos: adjective
+zh: 笨重的；难处理的
+en: large, heavy, awkward, or difficult to manage
+components:
+  - morpheme: cumber
+    form: cumber
+    meaning_in_word: burden, obstruct
+    zh: 妨碍；笨重负担
+    role: root
+    is_core: true
+  - morpheme: some
+    form: -some
+    meaning_in_word: characterized by
+    zh: 有…倾向的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 多形容 process/equipment/language 笨重繁琐。

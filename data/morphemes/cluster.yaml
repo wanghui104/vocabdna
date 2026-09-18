@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cluster
+display: cluster
+type: root
+core_meaning: cluster
+zh: 簇；聚集
+origin: Old English
+source_form: Old English clyster
+source_meaning: bunch, cluster
+source_meaning_zh: 簇；群
+related_morphemes:
+  []
+senses:
+  - meaning: cluster
+    zh: 簇；聚集
+    examples:
+      - cluster
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cluster -> cluster
+high_value_words:
+  - cluster
+confusable_words:
+  []

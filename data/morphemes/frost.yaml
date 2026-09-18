@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frost
+display: frost
+type: root
+core_meaning: frost
+zh: 霜
+origin: Old English
+source_form: Old English frost, forst
+source_meaning: frost
+source_meaning_zh: 霜
+source_note: 与 freeze 的本族词族相关，经历史音变；现代 defrost = de- 移除 + frost。
+related_morphemes:
+  []
+senses:
+  - meaning: frost
+    zh: 霜
+    examples:
+      - defrost
+      - frost
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - frost -> defrost
+  - frost -> frost
+high_value_words:
+  - defrost
+  - frost
+confusable_words:
+  []

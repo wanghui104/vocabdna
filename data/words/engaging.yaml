@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: engaging
+word: engaging
+pos: adjective
+zh: 迷人的；有吸引力的
+en: charming and able to hold attention
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: gage
+    form: gag
+    meaning_in_word: pledge / 承诺；抵押
+    zh: 承诺；抵押
+    role: root
+    is_core: true
+    note: engage 从使承担承诺到参与、吸引；engaging 去掉末尾 e 再加 -ing。 更深 Old French gage ← Frankish *wadja- / Germanic *wadi- 抵押、承诺，不能同 gauge 度量混淆。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - engage
+  - engagement
+word_family_details:
+  - word: engage
+    en: to involve, attract, hire, or commit oneself
+    zh: 使参与；吸引；雇用；承诺
+  - word: engagement
+    en: participation, a commitment, or an agreement to marry
+    zh: 参与；约定；订婚
+confusables:
+  []
+examples:
+  []
+why_confusing: 

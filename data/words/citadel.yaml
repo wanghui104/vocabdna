@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: citadel
+word: citadel
+pos: noun
+zh: 堡垒；要塞
+en: a fortress, especially one protecting a city
+components:
+  - morpheme: citadel
+    form: citadel
+    meaning_in_word: fortified city
+    zh: 堡垒；要塞
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可比喻某种思想或权力的堡垒。

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blanket
+display: blanket
+type: root
+core_meaning: blanket, covering
+zh: 毯子；覆盖物
+origin: French
+source_form: Old French blanc/blankete
+source_meaning: white woolen cloth
+source_meaning_zh: 白色羊毛布
+related_morphemes:
+  []
+senses:
+  - meaning: blanket, covering
+    zh: 毯子；覆盖物
+    examples:
+      - blanket
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - blanket -> blanket
+high_value_words:
+  - blanket
+confusable_words:
+  []

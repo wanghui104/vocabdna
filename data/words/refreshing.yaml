@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: refreshing
+word: refreshing
+pos: adjective
+zh: 提神的,凉爽的;使人耳目一新的
+en: Means 提神的,凉爽的;使人耳目一新的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: fresh
+    form: fresh
+    meaning_in_word: fresh / 新鲜
+    zh: 新鲜
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: action; ongoing / 动作；进行中
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - refreshment
+word_family_details:
+  - word: refreshment
+    en: Means 茶点；提神之事物; reviewed from the TOEFL source gloss for learner display.
+    zh: 茶点；提神之事物
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

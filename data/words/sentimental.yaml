@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sentimental
+word: sentimental
+pos: adjective
+zh: 感伤性的, 感情脆弱的
+en: Means 感伤性的, 感情脆弱的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sent
+    form: sent
+    meaning_in_word: feel; sentiment / 感觉；情感
+    zh: 感觉；怨恨
+    role: root
+    is_core: true
+  - morpheme: iment
+    form: iment
+    meaning_in_word: iment / iment
+    zh: iment
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 相关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - sentimentalize
+  - sentimentalism
+word_family_details:
+  - word: sentimentalize
+    en: Means 伤感; reviewed from the TOEFL source gloss for learner display.
+    zh: 伤感
+  - word: sentimentalism
+    en: Means 感情主意，感情用事; reviewed from the TOEFL source gloss for learner display.
+    zh: 感情主意，感情用事
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

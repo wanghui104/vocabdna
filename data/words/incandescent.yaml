@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: incandescent
+word: incandescent
+pos: adjective
+zh: 遇热发光的, 白炽的
+en: Means 遇热发光的, 白炽的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: in; not / 在内；不
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+  - morpheme: cand
+    form: cand
+    meaning_in_word: shine; white-hot / 发白光；白炽
+    zh: 发白光；白炽
+    role: root
+    is_core: true
+  - morpheme: esc
+    form: esc
+    meaning_in_word: esc / esc
+    zh: esc
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: being; doing / 正在/具有
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

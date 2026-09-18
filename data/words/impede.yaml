@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: impede
+word: impede
+pos: verb
+zh: 妨碍，阻碍
+en: Means 妨碍，阻碍; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
+  - morpheme: ped
+    form: ped
+    meaning_in_word: 足
+    zh: 足
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:ped.
+word_family:
+  - impediment
+  - impending
+word_family_details:
+  - word: impediment
+    en: Means 妨碍，阻碍（物）; reviewed from the TOEFL source gloss for learner display.
+    zh: 妨碍，阻碍（物）
+  - word: impending
+    en: Means 即将发生的，逼近的; reviewed from the TOEFL source gloss for learner display.
+    zh: 即将发生的，逼近的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

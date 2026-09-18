@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: search
+display: search
+type: root
+core_meaning: go around, seek
+zh: 巡查；寻找
+origin: Latin
+source_form: Old French cerchier; Latin circare, circus
+source_meaning: go around, seek
+source_meaning_zh: 巡查；寻找
+source_note: research 的 re- 在此加强，search 经法语来自 circare 绕行，深层 circus 圆；不是再次搜索的唯一含义。
+related_morphemes:
+  - circ
+senses:
+  - meaning: go around, seek
+    zh: 巡查；寻找
+    examples:
+      - field research
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - search -> field research
+high_value_words:
+  - field research
+confusable_words:
+  []

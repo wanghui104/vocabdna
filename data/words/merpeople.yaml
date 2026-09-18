@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: merpeople
+word: merpeople
+pos: noun
+zh: 人鱼族；性别中性的 merfolk 说法
+en: A gender-neutral term for merfolk, or legendary human-like people of the sea.
+components:
+  - morpheme: mere
+    form: mer
+    meaning_in_word: sea, lake, water
+    zh: 海；湖；水域
+    role: root
+    is_core: true
+  - morpheme: people
+    form: people
+    meaning_in_word: people
+    zh: 人们
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The fantasy novel describes merpeople living below the reef.
+    zh: 那本奇幻小说描写了生活在礁石下方的人鱼族。
+why_confusing: Merpeople and merfolk overlap; merpeople is often chosen when a gender-neutral wording is wanted.

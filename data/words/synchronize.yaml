@@ -2,32 +2,33 @@
 id: synchronize
 word: synchronize
 pos: verb
-zh: 使同步
-en: to make things happen at the same time
+zh: 同步，同时发生
+en: Means 同步，同时发生; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: syn
     form: syn-
-    meaning_in_word: together
+    meaning_in_word: together / 共同
     zh: 共同、一起
     role: prefix
     is_core: false
   - morpheme: chron
-    form: chron-
-    meaning_in_word: time
+    form: chron
+    meaning_in_word: time / 时间
     zh: 时间
-    role: combining_form
+    role: root
     is_core: true
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make; become / 使成；变成
+    zh: 使成为；做
+    role: suffix
+    is_core: false
 word_family:
-  - synchronization
+  []
 word_family_details:
-  - word: synchronization
-    en: related form of synchronization
-    zh: synchronization 的相关词
+  []
 confusables:
-  - word: synergize
-    reason: synchronize 是同步；synergize 是协同增效。
-    zh_reason: synchronize 是同步；synergize 是协同增效。
+  []
 examples:
-  - en: The app synchronizes data across devices.
-    zh: 这个应用在多台设备之间同步数据。
-why_confusing: synchronize 是同步；synergize 是协同增效。
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

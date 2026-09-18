@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: horn
+word: horn
+pos: noun
+zh: （牛羊等的）角
+en: Means （牛羊等的）角; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: horn
+    form: horn
+    meaning_in_word: （牛羊等的）角
+    zh: 角；号角
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  - horned
+  - hornbill
+  - hornet
+  - pronghorn
+  - foghorn
+word_family_details:
+  - word: horned
+    en: Means 有角的，角状的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 有角的，角状的
+  - word: hornbill
+    en: Means 犀鸟，犀鸟科; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 犀鸟，犀鸟科
+  - word: hornet
+    en: Means 大黄蜂类; reviewed from the TOEFL source gloss for learner display.
+    zh: 大黄蜂类
+  - word: pronghorn
+    en: Means (墨西哥和美国西部产的)叉角羚; reviewed from the TOEFL source gloss for learner display.
+    zh: (墨西哥和美国西部产的)叉角羚
+  - word: foghorn
+    en: Means 雾号（浓雾信号）; reviewed from the TOEFL source gloss for learner display.
+    zh: 雾号（浓雾信号）
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

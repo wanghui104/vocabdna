@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: restrictive
+word: restrictive
+pos: adjective
+zh: 限制性的
+en: Means 限制性的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: strict
+    form: strict
+    meaning_in_word: bind tight / 束紧；限制
+    zh: 收缩；约束
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: tending to / 倾向于
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - restrict
+  - restriction
+word_family_details:
+  - word: restrict
+    en: Means 限制，约束; reviewed from the TOEFL source gloss for learner display.
+    zh: 限制，约束
+  - word: restriction
+    en: Means 限制，约束; reviewed from the TOEFL source gloss for learner display.
+    zh: 限制，约束
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

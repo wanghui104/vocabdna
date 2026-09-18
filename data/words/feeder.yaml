@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: feeder
+word: feeder
+pos: noun
+zh: 进食者；喂食器；供给装置
+en: a person, animal, or device that takes in or supplies food or material
+components:
+  - morpheme: feed
+    form: feed
+    meaning_in_word: feed, food / 喂养；食物
+    zh: 喂养；食物
+    role: root
+    is_core: true
+    note: feed 与 food 同源，经历史元音变化形成使动词，不把 ee 当词缀。
+  - morpheme: er
+    form: -er
+    meaning_in_word: one who does / ……者；……物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.
+word_family:
+  - feed
+word_family_details:
+  - word: feed
+    en: to give food or material to; to eat
+    zh: 喂养；供给；进食
+confusables:
+  []
+examples:
+  []
+why_confusing: 

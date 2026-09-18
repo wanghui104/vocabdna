@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clan
+word: clan
+pos: noun
+zh: 家族；宗族
+en: a large family group or close group of people
+components:
+  - morpheme: clan
+    form: clan
+    meaning_in_word: family
+    zh: 宗族；家族
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可指苏格兰氏族，也可泛指小圈子。

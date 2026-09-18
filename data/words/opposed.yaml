@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: opposed
+word: opposed
+pos: adjective
+zh: 反对的
+en: Means 反对的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: op
+    form: -op
+    meaning_in_word: op / op
+    zh: op
+    role: suffix
+    is_core: false
+  - morpheme: pos
+    form: -pos
+    meaning_in_word: pos / pos
+    zh: 放置
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having; past participle / 已…的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - opposing
+word_family_details:
+  - word: opposing
+    en: Means 相反的，对立的; reviewed from the TOEFL source gloss for learner display.
+    zh: 相反的，对立的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

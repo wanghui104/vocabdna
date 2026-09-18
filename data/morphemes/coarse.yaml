@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coarse
+display: coarse
+type: root
+core_meaning: coarse
+zh: 粗糙的
+origin: Unknown
+source_form: English coarse
+source_meaning: rough, common
+source_meaning_zh: 粗糙；粗俗
+related_morphemes:
+  []
+senses:
+  - meaning: coarse
+    zh: 粗糙的
+    examples:
+      - coarse
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - coarse -> coarse
+high_value_words:
+  - coarse
+confusable_words:
+  []

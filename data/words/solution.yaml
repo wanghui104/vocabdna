@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: solution
+word: solution
+pos: noun
+zh: 解答，解决；溶液
+en: Means 解答，解决；溶液; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: solu
+    form: solu
+    meaning_in_word: loosen; dissolve; solve / 松开；溶解；解决
+    zh: 松开；溶解；解决
+    role: root
+    is_core: true
+  - morpheme: tion
+    form: -tion
+    meaning_in_word: act; result / 行为；结果
+    zh: tion
+    role: suffix
+    is_core: false
+word_family:
+  - resolution
+  - soluble
+word_family_details:
+  - word: resolution
+    en: Means 分辨率; reviewed from the TOEFL source gloss for learner display.
+    zh: 分辨率
+  - word: soluble
+    en: Means 可溶的，可溶解的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可溶的，可溶解的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

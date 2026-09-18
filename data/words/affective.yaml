@@ -1,0 +1,49 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: affective
+word: affective
+pos: adjective
+zh: 感情的；情感性的
+en: relating to emotions, feelings, or moods
+components:
+  - morpheme: ad
+    form: af-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: fac
+    form: fect
+    meaning_in_word: affect
+    zh: 做、制造
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: relating to
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - affect
+  - affected
+  - affection
+  - affectionate
+word_family_details:
+  - word: affect
+    en: to influence or produce a change in someone or something
+    zh: 影响
+  - word: affected
+    en: not natural or sincere; deliberately displayed
+    zh: 装模作样的
+  - word: affection
+    en: a gentle feeling of liking, love, or fondness
+    zh: 友爱；挚爱；情爱
+  - word: affectionate
+    en: showing love, fondness, or warm feeling
+    zh: 亲爱的；充满爱意的
+confusables:
+  []
+examples:
+  - en: The study measured affective responses.
+    zh: 该研究测量了情感反应。
+why_confusing: affective 是情感的；effective 是有效的。

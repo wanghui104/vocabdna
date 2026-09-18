@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intrusion
+word: intrusion
+pos: noun
+zh: 侵扰，干扰
+en: Means 侵扰，干扰; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: trud
+    form: trud
+    meaning_in_word: 推入；闯入
+    zh: 推入；闯入
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:trud.
+  - morpheme: sion
+    form: sion
+    meaning_in_word: sion
+    zh: sion
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:sion.
+word_family:
+  - intruder
+  - intruding
+word_family_details:
+  - word: intruder
+    en: Means 入侵者，闯入者; reviewed from the TOEFL source gloss for learner display.
+    zh: 入侵者，闯入者
+  - word: intruding
+    en: Means 入侵性的; reviewed from the TOEFL source gloss for learner display.
+    zh: 入侵性的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

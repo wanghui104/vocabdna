@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: idiom
+display: idiom
+type: root
+core_meaning: peculiarity, private phrase
+zh: 特有表达；习语
+origin: Greek
+source_form: Greek idioma
+source_meaning: peculiarity, private phrase
+source_meaning_zh: 特有表达；习语
+related_morphemes:
+  []
+senses:
+  - meaning: peculiarity, private phrase
+    zh: 特有表达；习语
+    examples:
+      - idiom
+      - idiomatic
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - idiom -> idiom
+  - idiom -> idiomatic
+high_value_words:
+  - idiom
+  - idiomatic
+confusable_words:
+  []

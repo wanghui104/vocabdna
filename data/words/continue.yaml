@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: continue
+word: continue
+pos: verb
+zh: 继续；延续
+en: to keep happening or doing something without stopping
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tain
+    form: tinu
+    meaning_in_word: hold
+    zh: 持有；包含
+    role: root
+    is_core: true
+word_family:
+  - continuation
+  - continuity
+  - continuum
+word_family_details:
+  - word: continuation
+    en: the act of continuing or a part that extends something
+    zh: 继续；延长；续篇
+  - word: continuity
+    en: unbroken and consistent connection over time or space
+    zh: 连续性；连贯性
+  - word: continuum
+    en: a continuous range or whole with no clear divisions
+    zh: 连续统一体
+confusables:
+  []
+examples:
+  []
+why_confusing: continue doing / continue to do 都常见。

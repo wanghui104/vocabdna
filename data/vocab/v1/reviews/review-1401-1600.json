@@ -1,0 +1,1909 @@
+{
+  "range": [
+    1401,
+    1600
+  ],
+  "rows": [
+    448,
+    667
+  ],
+  "entries": [
+    {
+      "no": 1401,
+      "term": "descendant",
+      "changed": false,
+      "before": "de + scend + ant",
+      "after": "de + scend + ant",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1402,
+      "term": "descent",
+      "changed": false,
+      "before": "de + scent",
+      "after": "de + scent",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1403,
+      "term": "desert",
+      "changed": true,
+      "before": "desert",
+      "after": "de + sert",
+      "notes": "desert/sert- 来自 Latin deserere 放弃：de- 离开 + serere 连接；desertum 原为荒弃之地。与 dessert 清桌后的甜点不同。"
+    },
+    {
+      "no": 1404,
+      "term": "deserted",
+      "changed": true,
+      "before": "desert + ed",
+      "after": "de + sert + ed",
+      "notes": "desert/sert- 来自 Latin deserere 放弃：de- 离开 + serere 连接；desertum 原为荒弃之地。与 dessert 清桌后的甜点不同。"
+    },
+    {
+      "no": 1405,
+      "term": "deserve",
+      "changed": false,
+      "before": "de + serve",
+      "after": "de + serve",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1406,
+      "term": "undeserved",
+      "changed": true,
+      "before": "un + de + serve + ed",
+      "after": "un + de + serv + ed",
+      "notes": "The final e of serve is dropped before -ed."
+    },
+    {
+      "no": 1407,
+      "term": "designate",
+      "changed": false,
+      "before": "de + sign + ate",
+      "after": "de + sign + ate",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1408,
+      "term": "desire",
+      "changed": true,
+      "before": "desir",
+      "after": "desire",
+      "notes": "desire/desir- 来自 Latin desiderare 渴望。传统联系 de- + sidus/sideris 星，但语义链及更深构成有争议，不能把“等待星辰”写成确定事实。"
+    },
+    {
+      "no": 1409,
+      "term": "desirable",
+      "changed": true,
+      "before": "desir + able",
+      "after": "desir + able",
+      "notes": "desire/desir- 来自 Latin desiderare 渴望。传统联系 de- + sidus/sideris 星，但语义链及更深构成有争议，不能把“等待星辰”写成确定事实。"
+    },
+    {
+      "no": 1410,
+      "term": "desolate",
+      "changed": true,
+      "before": "de + sol + ate",
+      "after": "de + sol + ate",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1411,
+      "term": "desperate",
+      "changed": false,
+      "before": "de + sper + ate",
+      "after": "de + sper + ate",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1412,
+      "term": "desperately",
+      "changed": false,
+      "before": "de + sper + ate + ly",
+      "after": "de + sper + ate + ly",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1413,
+      "term": "despoil",
+      "changed": false,
+      "before": "de + spoil",
+      "after": "de + spoil",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1414,
+      "term": "despoiler",
+      "changed": false,
+      "before": "de + spoil + er",
+      "after": "de + spoil + er",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1415,
+      "term": "dessert",
+      "changed": true,
+      "before": "dessert",
+      "after": "dessert",
+      "notes": "表层 dessert；French desservir 清理餐桌 = des- 撤去 + servir 上菜、服务。词尾 -sert 来自法语历史变化，不是 desert 的 serere。"
+    },
+    {
+      "no": 1416,
+      "term": "destination",
+      "changed": true,
+      "before": "destin + ation",
+      "after": "destin + ation",
+      "notes": "表层 destin- 指定、确定；Latin destinare 深层 de- 加强 + -stinare 使稳固，关联 stare 站立。destination 再接 -ation；不把 destin 整体当最底层。"
+    },
+    {
+      "no": 1417,
+      "term": "destine",
+      "changed": true,
+      "before": "destin",
+      "after": "destine",
+      "notes": "表层 destin- 指定、确定；Latin destinare 深层 de- 加强 + -stinare 使稳固，关联 stare 站立。destination 再接 -ation；不把 destin 整体当最底层。"
+    },
+    {
+      "no": 1418,
+      "term": "destruction",
+      "changed": true,
+      "before": "de + struct + ion",
+      "after": "de + struct + ion",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1419,
+      "term": "destructive",
+      "changed": true,
+      "before": "de + struct + ive",
+      "after": "de + struct + ive",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1420,
+      "term": "detect",
+      "changed": true,
+      "before": "de + tect",
+      "after": "de + tect",
+      "notes": "detect = de- 揭去 + tect- 覆盖；与 Greek tekton 建造者（root:tect）分开。"
+    },
+    {
+      "no": 1421,
+      "term": "detective",
+      "changed": true,
+      "before": "de + tect + ive",
+      "after": "de + tect + ive",
+      "notes": "detect = de- 揭去 + tect- 覆盖；与 Greek tekton 建造者（root:tect）分开。"
+    },
+    {
+      "no": 1422,
+      "term": "detectable",
+      "changed": true,
+      "before": "de + tect + able",
+      "after": "de + tect + able",
+      "notes": "detect = de- 揭去 + tect- 覆盖；与 Greek tekton 建造者（root:tect）分开。"
+    },
+    {
+      "no": 1423,
+      "term": "smoke detector",
+      "changed": true,
+      "before": "smoke + detect + or",
+      "after": "smoke + de + tect + or",
+      "notes": "detect = de- 揭去 + tect- 覆盖；与 Greek tekton 建造者（root:tect）分开。"
+    },
+    {
+      "no": 1424,
+      "term": "deter",
+      "changed": true,
+      "before": "de + terr",
+      "after": "de + ter",
+      "notes": "de- 离开 + ter-（Latin terrere 吓唬）；deterrent 中 r 双写，不能让 deter 的 Word DNA 拼成 deterr。"
+    },
+    {
+      "no": 1425,
+      "term": "deterrent",
+      "changed": false,
+      "before": "de + terr + ent",
+      "after": "de + terr + ent",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1426,
+      "term": "detergent",
+      "changed": false,
+      "before": "de + terg + ent",
+      "after": "de + terg + ent",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1427,
+      "term": "deteriorate",
+      "changed": true,
+      "before": "deterior + ate",
+      "after": "deterior + ate",
+      "notes": "deterior- 来自 Latin deterior 更坏的，为比较级形式；-ior 表示“更……”，较深基础关系不宜从现代 deter 阻止倒推。"
+    },
+    {
+      "no": 1428,
+      "term": "determinant",
+      "changed": true,
+      "before": "de + termin + ant",
+      "after": "de + termin + ant",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1429,
+      "term": "detest",
+      "changed": false,
+      "before": "de + test",
+      "after": "de + test",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1430,
+      "term": "detrimental",
+      "changed": true,
+      "before": "de + trit + al",
+      "after": "de + tri + ment + al",
+      "notes": "tri-/trit- ← Latin terere 磨损，detriment = de- + tri- + -ment；detrimental 再加 -al，不能漏掉 ment 或凭空多写 t。"
+    },
+    {
+      "no": 1431,
+      "term": "detriment",
+      "changed": true,
+      "before": "de + trit + ment",
+      "after": "de + tri + ment",
+      "notes": "tri-/trit- ← Latin terere 磨损，detriment = de- + tri- + -ment；detrimental 再加 -al，不能漏掉 ment 或凭空多写 t。"
+    },
+    {
+      "no": 1432,
+      "term": "devastate",
+      "changed": true,
+      "before": "de + vast + ate",
+      "after": "de + vast + ate",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1433,
+      "term": "devastation",
+      "changed": true,
+      "before": "de + vast + ation",
+      "after": "de + vast + ation",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1434,
+      "term": "devastating",
+      "changed": true,
+      "before": "de + vast + ing",
+      "after": "de + vast + at + ing",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1435,
+      "term": "device",
+      "changed": true,
+      "before": "devic",
+      "after": "de + vice",
+      "notes": "vid-/vis-/vic- 表分开：Latin dividere = dis- + -videre 分离；*divisare → Old French deviser 安排 → device/devise。不是 Latin videre 看见的同形词根。"
+    },
+    {
+      "no": 1436,
+      "term": "devise",
+      "changed": true,
+      "before": "devis",
+      "after": "de + vise",
+      "notes": "vid-/vis-/vic- 表分开：Latin dividere = dis- + -videre 分离；*divisare → Old French deviser 安排 → device/devise。不是 Latin videre 看见的同形词根。"
+    },
+    {
+      "no": 1437,
+      "term": "devoid",
+      "changed": false,
+      "before": "de + void",
+      "after": "de + void",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1438,
+      "term": "devote",
+      "changed": true,
+      "before": "de + vot",
+      "after": "de + vote",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1439,
+      "term": "devotion",
+      "changed": false,
+      "before": "de + vot + ion",
+      "after": "de + vot + ion",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1440,
+      "term": "devour",
+      "changed": false,
+      "before": "de + vour",
+      "after": "de + vour",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1441,
+      "term": "diagnose",
+      "changed": true,
+      "before": "dia + gnos",
+      "after": "dia + gnose",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1442,
+      "term": "diagonal",
+      "changed": false,
+      "before": "dia + gon + al",
+      "after": "dia + gon + al",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1443,
+      "term": "diagonally",
+      "changed": false,
+      "before": "dia + gon + al + ly",
+      "after": "dia + gon + al + ly",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1444,
+      "term": "diagram",
+      "changed": false,
+      "before": "dia + gram",
+      "after": "dia + gram",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1445,
+      "term": "dialect",
+      "changed": false,
+      "before": "dia + lect",
+      "after": "dia + lect",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1446,
+      "term": "dialogue",
+      "changed": false,
+      "before": "dia + logue",
+      "after": "dia + logue",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1447,
+      "term": "diameter",
+      "changed": false,
+      "before": "dia + meter",
+      "after": "dia + meter",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1448,
+      "term": "dictate",
+      "changed": true,
+      "before": "dict",
+      "after": "dict + ate",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1449,
+      "term": "diction",
+      "changed": false,
+      "before": "dict + ion",
+      "after": "dict + ion",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1450,
+      "term": "prediction",
+      "changed": false,
+      "before": "pre + dict + ion",
+      "after": "pre + dict + ion",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1451,
+      "term": "jurisdiction",
+      "changed": true,
+      "before": "jur + dict + ion",
+      "after": "juris + dict + ion",
+      "notes": "juris 是 Latin ius 法律的属格 iuris；juris- + dict- 说 + -ion，表示宣告法律的权限，-is 不是英语复数。"
+    },
+    {
+      "no": 1452,
+      "term": "diet",
+      "changed": true,
+      "before": "diet",
+      "after": "diet",
+      "notes": "diet- 来自 Greek diaita 生活方式、饮食；不可硬拆 dia- + it。dietetics 的 -etics 来自 diaitetikos 相关性质 + 学科名词 -s；dietitian 的 -itian 是专业人员结尾。"
+    },
+    {
+      "no": 1453,
+      "term": "dietary",
+      "changed": true,
+      "before": "diet + ary",
+      "after": "diet + ary",
+      "notes": "diet- 来自 Greek diaita 生活方式、饮食；不可硬拆 dia- + it。dietetics 的 -etics 来自 diaitetikos 相关性质 + 学科名词 -s；dietitian 的 -itian 是专业人员结尾。"
+    },
+    {
+      "no": 1454,
+      "term": "dieter",
+      "changed": true,
+      "before": "diet + er",
+      "after": "diet + er",
+      "notes": "diet- 来自 Greek diaita 生活方式、饮食；不可硬拆 dia- + it。dietetics 的 -etics 来自 diaitetikos 相关性质 + 学科名词 -s；dietitian 的 -itian 是专业人员结尾。"
+    },
+    {
+      "no": 1455,
+      "term": "dietitian",
+      "changed": true,
+      "before": "diet + itian",
+      "after": "diet + itian",
+      "notes": "diet- 来自 Greek diaita 生活方式、饮食；不可硬拆 dia- + it。dietetics 的 -etics 来自 diaitetikos 相关性质 + 学科名词 -s；dietitian 的 -itian 是专业人员结尾。"
+    },
+    {
+      "no": 1456,
+      "term": "dietetics",
+      "changed": true,
+      "before": "diet + etics",
+      "after": "diet + etics",
+      "notes": "diet- 来自 Greek diaita 生活方式、饮食；不可硬拆 dia- + it。dietetics 的 -etics 来自 diaitetikos 相关性质 + 学科名词 -s；dietitian 的 -itian 是专业人员结尾。"
+    },
+    {
+      "no": 1457,
+      "term": "differentiate",
+      "changed": true,
+      "before": "dif + fer + ate",
+      "after": "dif + fer + ent + iate",
+      "notes": "表层 different + -iate；内层 dif-（dis-）+ fer- 搬运 + -ent 性质 + -iate（连接 i + -ate 使成为）。原记录遗漏 -ent(i)-。"
+    },
+    {
+      "no": 1458,
+      "term": "undifferentiated",
+      "changed": true,
+      "before": "un + dif + fer + ate + ed",
+      "after": "un + dif + fer + ent + iat + ed",
+      "notes": "un- 不 + differentiated；后者 different + -iate + -ed，词尾 e 脱落为 -iat-。不能漏掉 -ent(i)-。"
+    },
+    {
+      "no": 1459,
+      "term": "diffuse",
+      "changed": true,
+      "before": "dif + fus",
+      "after": "dif + fuse",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1460,
+      "term": "digestion",
+      "changed": false,
+      "before": "di + gest + ion",
+      "after": "di + gest + ion",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1461,
+      "term": "digest",
+      "changed": false,
+      "before": "di + gest",
+      "after": "di + gest",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1462,
+      "term": "digestive",
+      "changed": false,
+      "before": "di + gest + ive",
+      "after": "di + gest + ive",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1463,
+      "term": "indigestion",
+      "changed": true,
+      "before": "in + di + gest + ion",
+      "after": "in + di + gest + ion",
+      "notes": "in- 在此是否定/缺乏，digestion 内层 di- 分开 + gest- 运送、安排 + -ion；不要连到 in- 进入。"
+    },
+    {
+      "no": 1464,
+      "term": "dignity",
+      "changed": false,
+      "before": "dign + ity",
+      "after": "dign + ity",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1465,
+      "term": "digression",
+      "changed": true,
+      "before": "di + gress + ion",
+      "after": "di + gress + ion",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1466,
+      "term": "dilate",
+      "changed": true,
+      "before": "di + lat + ate",
+      "after": "di + late",
+      "notes": "来自 Latin dilatare，dis- 向外 + latus 宽；当前用 di- + late 展示历史宽阔词干，-ate 不可再重复接一次而拼成 dilatate。"
+    },
+    {
+      "no": 1467,
+      "term": "dilemma",
+      "changed": false,
+      "before": "di + lemma",
+      "after": "di + lemma",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1468,
+      "term": "diligent",
+      "changed": false,
+      "before": "di + lig + ent",
+      "after": "di + lig + ent",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1469,
+      "term": "diligently",
+      "changed": false,
+      "before": "di + lig + ent + ly",
+      "after": "di + lig + ent + ly",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1470,
+      "term": "dilute",
+      "changed": true,
+      "before": "di + lut",
+      "after": "di + lute",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1471,
+      "term": "dilution",
+      "changed": false,
+      "before": "di + lut + ion",
+      "after": "di + lut + ion",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1472,
+      "term": "dim",
+      "changed": false,
+      "before": "dim",
+      "after": "dim",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1473,
+      "term": "dimly",
+      "changed": false,
+      "before": "dim + ly",
+      "after": "dim + ly",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1474,
+      "term": "dime",
+      "changed": false,
+      "before": "dime",
+      "after": "dime",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1475,
+      "term": "dimension",
+      "changed": true,
+      "before": "di + mens + ion",
+      "after": "di + mens + ion",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1476,
+      "term": "dimensional",
+      "changed": true,
+      "before": "di + mens + ion + al",
+      "after": "di + mens + ion + al",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1477,
+      "term": "two/three dimensional",
+      "changed": true,
+      "before": "two/three + dimension + al",
+      "after": "two/three + di + mens + ion + al",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1478,
+      "term": "diminish",
+      "changed": true,
+      "before": "di + min + ish",
+      "after": "di + min + ish",
+      "notes": "di- 在此沿 Latin deminuere 的 de- 加强；英语融合 diminue 与 minish。min- 小 + Romance 动词结尾 -ish；不是 di- 二，也不是“有点小”。"
+    },
+    {
+      "no": 1479,
+      "term": "dinosaur",
+      "changed": false,
+      "before": "dino + saur",
+      "after": "dino + saur",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1480,
+      "term": "dioxide",
+      "changed": true,
+      "before": "di + oxide",
+      "after": "di + oxide",
+      "notes": "表层 oxide/oxid- 氧化物；French oxyde 由 oxygen 的 oxy- 与化学结尾 -ide 形成。oxygen 名称更深为 Greek oxys 酸、尖锐 + -gen 产生，反映早期命名观念；氧化物不等于酸。"
+    },
+    {
+      "no": 1481,
+      "term": "carbon dioxide",
+      "changed": true,
+      "before": "carbon + di + oxide",
+      "after": "carbon + di + oxide",
+      "notes": "表层 oxide/oxid- 氧化物；French oxyde 由 oxygen 的 oxy- 与化学结尾 -ide 形成。oxygen 名称更深为 Greek oxys 酸、尖锐 + -gen 产生，反映早期命名观念；氧化物不等于酸。"
+    },
+    {
+      "no": 1482,
+      "term": "diplomacy",
+      "changed": true,
+      "before": "diplom + acy",
+      "after": "diplom + acy",
+      "notes": "表层 diplom-/diplomat- 官方文书；Greek diploma 是 diploun 折成两层的结果名词：diplo- 双层 + -ma 结果。diplomat- 为 diploma 的斜格词干；diplomatic = diplomat- + -ic。diplomacy 经法语 diplomatie，名词构词涉及 t/c 变化。 当前 diplom- + -acy 为学习层，不把 -acy 说成字母完全不变的直接历史拼接。"
+    },
+    {
+      "no": 1483,
+      "term": "diplomatic",
+      "changed": true,
+      "before": "diplom + atic",
+      "after": "diplomat + ic",
+      "notes": "表层 diplom-/diplomat- 官方文书；Greek diploma 是 diploun 折成两层的结果名词：diplo- 双层 + -ma 结果。diplomat- 为 diploma 的斜格词干；diplomatic = diplomat- + -ic。diplomacy 经法语 diplomatie，名词构词涉及 t/c 变化。"
+    },
+    {
+      "no": 1484,
+      "term": "disadvantage",
+      "changed": true,
+      "before": "dis + advantage",
+      "after": "dis + advantage",
+      "notes": "表层 advantage；深层 Old French avantage = avant 在前 + -age 结果/状态。保留 dis- + advantage，前面的领先位置形成优势。"
+    },
+    {
+      "no": 1485,
+      "term": "disapproval",
+      "changed": true,
+      "before": "dis + approval + al",
+      "after": "dis + ap + prov + al",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1486,
+      "term": "disaster",
+      "changed": false,
+      "before": "dis + aster",
+      "after": "dis + aster",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1487,
+      "term": "disastrous",
+      "changed": true,
+      "before": "dis + aster + ous",
+      "after": "dis + astr + ous",
+      "notes": "The star stem appears as astr- in disastrous; compare disaster."
+    },
+    {
+      "no": 1488,
+      "term": "discard",
+      "changed": false,
+      "before": "dis + card",
+      "after": "dis + card",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1489,
+      "term": "discern",
+      "changed": false,
+      "before": "dis + cern",
+      "after": "dis + cern",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1490,
+      "term": "discernible",
+      "changed": false,
+      "before": "dis + cern + ible",
+      "after": "dis + cern + ible",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1491,
+      "term": "discerning",
+      "changed": false,
+      "before": "dis + cern + ing",
+      "after": "dis + cern + ing",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1492,
+      "term": "discharge",
+      "changed": true,
+      "before": "dis + charge",
+      "after": "dis + charge",
+      "notes": "表层 charge 负载；Old French chargier ← Latin carricare 装载 ← carrus 车。discharge 为卸下负载，不能把 charge 的根义直接写成释放。"
+    },
+    {
+      "no": 1493,
+      "term": "disciple",
+      "changed": true,
+      "before": "discip",
+      "after": "disciple",
+      "notes": "表层 disciple/disciplin-；Latin disciplina 教导关联 discipulus 学生。更深常说 discere 学习，也有 dis- + capere 的历史提议，但并无可靠定论；不造确定的 discip = dis + cip。"
+    },
+    {
+      "no": 1494,
+      "term": "discipline",
+      "changed": true,
+      "before": "discip",
+      "after": "discipline",
+      "notes": "表层 disciple/disciplin-；Latin disciplina 教导关联 discipulus 学生。更深常说 discere 学习，也有 dis- + capere 的历史提议，但并无可靠定论；不造确定的 discip = dis + cip。"
+    },
+    {
+      "no": 1495,
+      "term": "subdiscipline",
+      "changed": true,
+      "before": "sub + discipline",
+      "after": "sub + discipline",
+      "notes": "表层 disciple/disciplin-；Latin disciplina 教导关联 discipulus 学生。更深常说 discere 学习，也有 dis- + capere 的历史提议，但并无可靠定论；不造确定的 discip = dis + cip。"
+    },
+    {
+      "no": 1496,
+      "term": "disciplined",
+      "changed": true,
+      "before": "discipline + ed",
+      "after": "disciplin + ed",
+      "notes": "表层 disciple/disciplin-；Latin disciplina 教导关联 discipulus 学生。更深常说 discere 学习，也有 dis- + capere 的历史提议，但并无可靠定论；不造确定的 discip = dis + cip。"
+    },
+    {
+      "no": 1497,
+      "term": "discomfort",
+      "changed": true,
+      "before": "dis + comfort",
+      "after": "dis + comfort",
+      "notes": "表层 comfort；Latin confortare = con- 加强 + fortis 强壮，使人恢复力量而得到安慰。discomfort 再加外层否定 dis-。"
+    },
+    {
+      "no": 1498,
+      "term": "discontented",
+      "changed": true,
+      "before": "dis + content + ed",
+      "after": "dis + con + tent + ed",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1499,
+      "term": "discontent",
+      "changed": true,
+      "before": "dis + content",
+      "after": "dis + con + tent",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1500,
+      "term": "discount",
+      "changed": true,
+      "before": "dis + count",
+      "after": "dis + count",
+      "notes": "表层 count；Latin computare = com- 一起 + putare 计算，经过法语 conter 收缩。discount 再加外层 dis-。"
+    },
+    {
+      "no": 1501,
+      "term": "discourage",
+      "changed": true,
+      "before": "dis + courage",
+      "after": "dis + courage",
+      "notes": "表层 courage/courag- 勇气；Old French corage ← cor 心 + -age 状态。discourage = dis- + courage；discouraging 去末尾 e 后加 -ing。"
+    },
+    {
+      "no": 1502,
+      "term": "discouraging",
+      "changed": true,
+      "before": "dis + courage + ing",
+      "after": "dis + courag + ing",
+      "notes": "表层 courage/courag- 勇气；Old French corage ← cor 心 + -age 状态。discourage = dis- + courage；discouraging 去末尾 e 后加 -ing。"
+    },
+    {
+      "no": 1503,
+      "term": "discourse",
+      "changed": false,
+      "before": "dis + course",
+      "after": "dis + course",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1504,
+      "term": "discrete",
+      "changed": true,
+      "before": "dis + cret",
+      "after": "dis + crete",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1505,
+      "term": "discreet",
+      "changed": false,
+      "before": "dis + creet",
+      "after": "dis + creet",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1506,
+      "term": "disgust",
+      "changed": false,
+      "before": "dis + gust",
+      "after": "dis + gust",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1507,
+      "term": "disgusted",
+      "changed": false,
+      "before": "dis + gust + ed",
+      "after": "dis + gust + ed",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1508,
+      "term": "disillusion",
+      "changed": true,
+      "before": "dis + illusion",
+      "after": "dis + il + lus + ion",
+      "notes": "表层 dis- 去除 + illusion；内层 illusion = il-（同化 in- 进入）+ lus- 玩弄 + -ion。这里 il- 不是否定前缀，词源意象为玩弄、欺骗。"
+    },
+    {
+      "no": 1509,
+      "term": "disintegrate",
+      "changed": true,
+      "before": "dis + integr + ate",
+      "after": "dis + integr + ate",
+      "notes": "表层 integr- 完整；Latin integer 更深为否定 in- + tangere 触碰的弱化词干，原意未被触碰。disintegrate 外层 dis- 使完整结构分开。"
+    },
+    {
+      "no": 1510,
+      "term": "disinterested",
+      "changed": true,
+      "before": "dis + interest + ed",
+      "after": "dis + interest + ed",
+      "notes": "表层 interest 利益/关切；Latin interest 原是 interesse 的第三人称形式：inter- 在其间 + esse 是/存在，-t 是拉丁人称结尾。disinterested 的 dis- 排除私利，不能把全部 interest 当简单根。 常用义为公正、不受私利影响；不能只释为没有兴趣。"
+    },
+    {
+      "no": 1511,
+      "term": "dismal",
+      "changed": true,
+      "before": "dismal",
+      "after": "dis + mal",
+      "notes": "dismal 中 dis 来自 dies 日子，不是分开/否定前缀。"
+    },
+    {
+      "no": 1512,
+      "term": "dismay",
+      "changed": true,
+      "before": "dismay",
+      "after": "dismay",
+      "notes": "表层 dismay；经 Old French esmaier，关联 *exmagare 使失去能力：ex- 除去 + Germanic magan 能够。外层 dis-/des- 的传入路径有不同说法，保持分层说明而不强建 may 根。"
+    },
+    {
+      "no": 1513,
+      "term": "dismember",
+      "changed": false,
+      "before": "dis + member",
+      "after": "dis + member",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1514,
+      "term": "dismembered",
+      "changed": false,
+      "before": "dis + member + ed",
+      "after": "dis + member + ed",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1515,
+      "term": "dismiss",
+      "changed": true,
+      "before": "dis + miss",
+      "after": "dis + miss",
+      "notes": "dis- 的现代拼写受到 dismiss/dismittere 形式影响；源于 Latin dimittere（dis- 分开 + mittere 送）。不要仅连到 de- 向下。"
+    },
+    {
+      "no": 1516,
+      "term": "disorganize",
+      "changed": false,
+      "before": "dis + organ + ize",
+      "after": "dis + organ + ize",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1517,
+      "term": "dispatch",
+      "changed": true,
+      "before": "dis + patch",
+      "after": "dispatch",
+      "notes": "表层 dispatch；Spanish despachar / Italian dispacciare，dis- 分开可辨，后半来源有 pactare 或 pedicare 等说法，未定。patch 在这里不能直接释为英语补丁，也不能把整个 dispatch 的源义贴到 patch 上。"
+    },
+    {
+      "no": 1518,
+      "term": "dispense",
+      "changed": true,
+      "before": "dis + pens",
+      "after": "dis + pense",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1519,
+      "term": "dispense with",
+      "changed": true,
+      "before": "dispense + with",
+      "after": "dis + pense + with",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1520,
+      "term": "disperse",
+      "changed": true,
+      "before": "dis + sperse",
+      "after": "di + sperse",
+      "notes": "The prefix dis- appears as di- before the s of the scatter stem."
+    },
+    {
+      "no": 1521,
+      "term": "dispersal",
+      "changed": true,
+      "before": "dis + sperse + al",
+      "after": "di + spers + al",
+      "notes": "The prefix dis- appears as di- before the s of the scatter stem."
+    },
+    {
+      "no": 1522,
+      "term": "displace",
+      "changed": false,
+      "before": "dis + place",
+      "after": "dis + place",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1523,
+      "term": "displacement",
+      "changed": false,
+      "before": "dis + place + ment",
+      "after": "dis + place + ment",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1524,
+      "term": "display",
+      "changed": false,
+      "before": "dis + play",
+      "after": "dis + play",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1525,
+      "term": "disposal",
+      "changed": true,
+      "before": "dis + pos + al",
+      "after": "dis + pos + al",
+      "notes": "pon-/pos-/posit- 来自 Latin ponere/positus 放置；dispose 的 dis- 表分开安排，disposed 的 -ed 只计一次。"
+    },
+    {
+      "no": 1526,
+      "term": "dispose of",
+      "changed": true,
+      "before": "dispose + of",
+      "after": "dis + pose + of",
+      "notes": "pon-/pos-/posit- 来自 Latin ponere/positus 放置；dispose 的 dis- 表分开安排，disposed 的 -ed 只计一次。"
+    },
+    {
+      "no": 1527,
+      "term": "disposed",
+      "changed": true,
+      "before": "dis + posed + ed",
+      "after": "dis + pos + ed",
+      "notes": "pon-/pos-/posit- 来自 Latin ponere/positus 放置；dispose 的 dis- 表分开安排，disposed 的 -ed 只计一次。"
+    },
+    {
+      "no": 1528,
+      "term": "disposition",
+      "changed": true,
+      "before": "dis + posit + ion",
+      "after": "dis + posit + ion",
+      "notes": "pon-/pos-/posit- 来自 Latin ponere/positus 放置；dispose 的 dis- 表分开安排，disposed 的 -ed 只计一次。"
+    },
+    {
+      "no": 1529,
+      "term": "disproportionate",
+      "changed": false,
+      "before": "dis + pro + portion + ate",
+      "after": "dis + pro + portion + ate",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1530,
+      "term": "dispute",
+      "changed": false,
+      "before": "dis + pute",
+      "after": "dis + pute",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1531,
+      "term": "disregard",
+      "changed": true,
+      "before": "dis + regard",
+      "after": "dis + re + gard",
+      "notes": "dis- 不 + regard；regard 内层 re- 加强 + garder 看顾；guard/gard 是法语词干，不把 regard 全部标成 garde。"
+    },
+    {
+      "no": 1532,
+      "term": "disrepute",
+      "changed": true,
+      "before": "dis + repute",
+      "after": "dis + re + pute",
+      "notes": "表层 repute 名誉；Latin reputare = re- 再次 + putare 计算、考虑。disrepute 外层 dis- 表坏名声。"
+    },
+    {
+      "no": 1533,
+      "term": "disrupt",
+      "changed": false,
+      "before": "dis + rupt",
+      "after": "dis + rupt",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1534,
+      "term": "disseminate",
+      "changed": false,
+      "before": "dis + semin + ate",
+      "after": "dis + semin + ate",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1535,
+      "term": "dissenter",
+      "changed": false,
+      "before": "dis + sent + er",
+      "after": "dis + sent + er",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1536,
+      "term": "dissenting",
+      "changed": false,
+      "before": "dis + sent + ing",
+      "after": "dis + sent + ing",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1537,
+      "term": "dissertation",
+      "changed": true,
+      "before": "dis + sert + ation",
+      "after": "dis + sert + ation",
+      "notes": "dis- 分开 + sert-（Latin serere 排列的分词词干）+ -ation；中间经 dissertare 详述/讨论，-t- 是历史词干层而不是漏掉的独立现代后缀。"
+    },
+    {
+      "no": 1538,
+      "term": "dissimilar",
+      "changed": true,
+      "before": "dis + similar",
+      "after": "dis + simil + ar",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1539,
+      "term": "dissipate",
+      "changed": true,
+      "before": "dis + sip + ate",
+      "after": "dissip + ate",
+      "notes": "表层 dissip- 撒散；Latin dissipare 深层 dis- 分开 + supare 撒、抛，元音弱化为 sip-；sip 不是英语啜饮。保留 dissip- + -ate，再在此展示内部层。"
+    },
+    {
+      "no": 1540,
+      "term": "dissipated",
+      "changed": true,
+      "before": "dis + sip + ate + ed",
+      "after": "dissip + at + ed",
+      "notes": "表层 dissip- 撒散；Latin dissipare 深层 dis- 分开 + supare 撒、抛，元音弱化为 sip-；sip 不是英语啜饮。保留 dissip- + -ate，再在此展示内部层。"
+    },
+    {
+      "no": 1541,
+      "term": "dissolve",
+      "changed": true,
+      "before": "dis + solv",
+      "after": "dis + solve",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1542,
+      "term": "distant",
+      "changed": true,
+      "before": "dis + stant",
+      "after": "di + st + ant",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1543,
+      "term": "distance",
+      "changed": true,
+      "before": "dis + st + ance",
+      "after": "di + st + ance",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1544,
+      "term": "distend",
+      "changed": false,
+      "before": "dis + tend",
+      "after": "dis + tend",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1545,
+      "term": "distent",
+      "changed": true,
+      "before": "distent",
+      "after": "dis + tent",
+      "notes": "过时形容词，意为膨胀的、展开的；Latin distentus 是 distendere 的分词，dis- + tent-（tendere 的分词词干），不是 distant 遥远的。"
+    },
+    {
+      "no": 1546,
+      "term": "distasteful",
+      "changed": true,
+      "before": "distasteful",
+      "after": "dis + taste + ful",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1547,
+      "term": "distill",
+      "changed": true,
+      "before": "distill",
+      "after": "di + still",
+      "notes": "表层 di- + still- 滴。Etymonline 解释 dis- + stillare；Merriam-Webster 指 Late Latin distillare 改自 de- + stillare 的 destillare。保留两条前缀历史解释，滴落词根明确。"
+    },
+    {
+      "no": 1548,
+      "term": "distinction",
+      "changed": true,
+      "before": "distinction",
+      "after": "di + stinct + ion",
+      "notes": "distinct/distinguish 共用词干。更深层“刺点”与“推开”解释有争议，只把 mark off 作为可靠学习层。"
+    },
+    {
+      "no": 1549,
+      "term": "distinct",
+      "changed": true,
+      "before": "distinct",
+      "after": "di + stinct",
+      "notes": "di-（dis- 在 s 前简化）+ stinct- 作标记的分词词干；更深“刺点/推开”的历史意象未定，不强行继续。"
+    },
+    {
+      "no": 1550,
+      "term": "distinctly",
+      "changed": true,
+      "before": "distinctly",
+      "after": "di + stinct + ly",
+      "notes": "distinct/distinguish 共用词干。更深层“刺点”与“推开”解释有争议，只把 mark off 作为可靠学习层。"
+    },
+    {
+      "no": 1551,
+      "term": "distinctive",
+      "changed": true,
+      "before": "distinctive",
+      "after": "di + stinct + ive",
+      "notes": "distinct/distinguish 共用词干。更深层“刺点”与“推开”解释有争议，只把 mark off 作为可靠学习层。"
+    },
+    {
+      "no": 1552,
+      "term": "distinctively",
+      "changed": true,
+      "before": "distinctively",
+      "after": "di + stinct + ive + ly",
+      "notes": "distinct/distinguish 共用词干。更深层“刺点”与“推开”解释有争议，只把 mark off 作为可靠学习层。"
+    },
+    {
+      "no": 1553,
+      "term": "distinguish",
+      "changed": true,
+      "before": "distinguish",
+      "after": "di + stingu + ish",
+      "notes": "di-（dis- 简化）+ stingu- 标记、区别 + -ish 法语动词结尾；与 distinct 同源，不把 -ish 当“有点”。"
+    },
+    {
+      "no": 1554,
+      "term": "distinguished",
+      "changed": true,
+      "before": "distinguished",
+      "after": "di + stingu + ish + ed",
+      "notes": "distinct/distinguish 共用词干。更深层“刺点”与“推开”解释有争议，只把 mark off 作为可靠学习层。\ndiminish/distinguish 的历史法语动词结尾，不是 Germanic -ish “有点……”。"
+    },
+    {
+      "no": 1555,
+      "term": "distort",
+      "changed": true,
+      "before": "distort",
+      "after": "dis + tort",
+      "notes": "tort- 是 torquere 的分词词干，不与“拉”的 tract- 混同。"
+    },
+    {
+      "no": 1556,
+      "term": "undistorted",
+      "changed": true,
+      "before": "undistorted",
+      "after": "un + dis + tort + ed",
+      "notes": "tort- 是 torquere 的分词词干，不与“拉”的 tract- 混同。"
+    },
+    {
+      "no": 1557,
+      "term": "distortion",
+      "changed": true,
+      "before": "distortion",
+      "after": "dis + tort + ion",
+      "notes": "tort- 是 torquere 的分词词干，不与“拉”的 tract- 混同。"
+    },
+    {
+      "no": 1558,
+      "term": "distract",
+      "changed": true,
+      "before": "distract",
+      "after": "dis + tract",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1559,
+      "term": "distress",
+      "changed": true,
+      "before": "distress",
+      "after": "di + stress",
+      "notes": "历史词来自 French destresse ← Latin districtus/distringere 紧勒、约束；Word DNA di- + stress 保留法语变体，深层是 dis- + stringere 拉紧。"
+    },
+    {
+      "no": 1560,
+      "term": "distribute",
+      "changed": true,
+      "before": "distribute",
+      "after": "dis + tribute",
+      "notes": "更深层关联 tribus 部族：按群体分配；tribus 的更深来源不强拆成 tri- 三。"
+    },
+    {
+      "no": 1561,
+      "term": "distribution",
+      "changed": true,
+      "before": "distribution",
+      "after": "dis + tribut + ion",
+      "notes": "更深层关联 tribus 部族：按群体分配；tribus 的更深来源不强拆成 tri- 三。"
+    },
+    {
+      "no": 1562,
+      "term": "district",
+      "changed": true,
+      "before": "district",
+      "after": "di + strict",
+      "notes": "di- + strict-，来自 Latin distringere 的分词 districtus，先为司法约束/管辖再为管辖区域。不是“严格的地区”这一现代组合。"
+    },
+    {
+      "no": 1563,
+      "term": "disturb",
+      "changed": true,
+      "before": "disturb",
+      "after": "dis + turb",
+      "notes": "turba 人群、纷乱 → turbare 搅乱；disturb 中 dis- 为加强。"
+    },
+    {
+      "no": 1564,
+      "term": "undisturbed",
+      "changed": true,
+      "before": "undisturbed",
+      "after": "un + dis + turb + ed",
+      "notes": "turba 人群、纷乱 → turbare 搅乱；disturb 中 dis- 为加强。"
+    },
+    {
+      "no": 1565,
+      "term": "disturbance",
+      "changed": true,
+      "before": "disturbance",
+      "after": "dis + turb + ance",
+      "notes": "turba 人群、纷乱 → turbare 搅乱；disturb 中 dis- 为加强。"
+    },
+    {
+      "no": 1566,
+      "term": "dive",
+      "changed": true,
+      "before": "dive",
+      "after": "dive",
+      "notes": "由古英语两个相关动词合流而来；现代 dive 保留整体，diver 为 div- + -er，勿误连拉丁分开前缀。"
+    },
+    {
+      "no": 1567,
+      "term": "diver",
+      "changed": true,
+      "before": "diver",
+      "after": "div + er",
+      "notes": "由古英语两个相关动词合流而来；现代 dive 保留整体，diver 为 div- + -er，勿误连拉丁分开前缀。"
+    },
+    {
+      "no": 1568,
+      "term": "divergent",
+      "changed": true,
+      "before": "divergent",
+      "after": "di + verg + ent",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1569,
+      "term": "divergence",
+      "changed": true,
+      "before": "divergence",
+      "after": "di + verg + ence",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1570,
+      "term": "diverse",
+      "changed": true,
+      "before": "diverse",
+      "after": "di + verse",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1571,
+      "term": "diversity",
+      "changed": true,
+      "before": "diversity",
+      "after": "di + vers + ity",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1572,
+      "term": "diversify",
+      "changed": true,
+      "before": "diversify",
+      "after": "divers + ify",
+      "notes": "表层 divers- 不同；Latin diversus 来自 divertere = dis- 分开 + vertere 转向，vers- 是分词词干。diversify 保留 divers- + -ify，再显示此层。\n-ify = 连接元音 i + -fy；更深层来自 facere 做。-ific- 为 -ification 前的构词形。"
+    },
+    {
+      "no": 1573,
+      "term": "diversified",
+      "changed": true,
+      "before": "diversified",
+      "after": "divers + ifi + ed",
+      "notes": "表层 divers- 不同；Latin diversus 来自 divertere = dis- 分开 + vertere 转向，vers- 是分词词干。diversify 保留 divers- + -ify，再显示此层。\n-ify = 连接元音 i + -fy；更深层来自 facere 做。-ific- 为 -ification 前的构词形。"
+    },
+    {
+      "no": 1574,
+      "term": "diversification",
+      "changed": true,
+      "before": "diversification",
+      "after": "divers + ific + ation",
+      "notes": "表层 divers- 不同；Latin diversus 来自 divertere = dis- 分开 + vertere 转向，vers- 是分词词干。diversify 保留 divers- + -ify，再显示此层。\n-ify = 连接元音 i + -fy；更深层来自 facere 做。-ific- 为 -ification 前的构词形。"
+    },
+    {
+      "no": 1575,
+      "term": "diversion",
+      "changed": true,
+      "before": "diversion",
+      "after": "di + vers + ion",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1576,
+      "term": "divert",
+      "changed": true,
+      "before": "divert",
+      "after": "di + vert",
+      "notes": "已核对拆分、来源、释义及词族。"
+    },
+    {
+      "no": 1577,
+      "term": "divide",
+      "changed": true,
+      "before": "divide",
+      "after": "di + vide",
+      "notes": "vid-/vis-/vic- 表分开：Latin dividere = dis- + -videre 分离；*divisare → Old French deviser 安排 → device/devise。不是 Latin videre 看见的同形词根。"
+    },
+    {
+      "no": 1578,
+      "term": "dividing line",
+      "changed": true,
+      "before": "dividing line",
+      "after": "di + vid + ing + line",
+      "notes": "vid-/vis-/vic- 表分开：Latin dividere = dis- + -videre 分离；*divisare → Old French deviser 安排 → device/devise。不是 Latin videre 看见的同形词根。"
+    },
+    {
+      "no": 1579,
+      "term": "divorce",
+      "changed": true,
+      "before": "divorce",
+      "after": "di + vorce",
+      "notes": "di- 分开 + vorce-，经 French divorce ← Latin divortium，关联 divertere 转开（vert-/vers-）。保留法语词形变化，不能把 vorce 解作 vor- 吞食。"
+    },
+    {
+      "no": 1580,
+      "term": "dizzy",
+      "changed": true,
+      "before": "dizzy",
+      "after": "dizzy",
+      "notes": "现代无独立可用的 dizz 基词；保留 dizzy，历史 -ig 对应英语 -y，但更深底层不确定。"
+    },
+    {
+      "no": 1581,
+      "term": "dizzying",
+      "changed": true,
+      "before": "dizzying",
+      "after": "dizzy + ing",
+      "notes": "现代无独立可用的 dizz 基词；保留 dizzy，历史 -ig 对应英语 -y，但更深底层不确定。"
+    },
+    {
+      "no": 1582,
+      "term": "dizziness",
+      "changed": true,
+      "before": "dizziness",
+      "after": "dizzi + ness",
+      "notes": "现代无独立可用的 dizz 基词；保留 dizzy，历史 -ig 对应英语 -y，但更深底层不确定。"
+    },
+    {
+      "no": 1583,
+      "term": "doctrine",
+      "changed": true,
+      "before": "doctrine",
+      "after": "doctr + ine",
+      "notes": "doctr- 教导 + -ine；Latin doctrina ← doctor 教师 ← docere 教。-r- 属历史名词词干层。不是 doctr 整词根已到底层。"
+    },
+    {
+      "no": 1584,
+      "term": "documentation",
+      "changed": true,
+      "before": "documentation",
+      "after": "docu + ment + ation",
+      "notes": "docu- 为 documentum 的构词形；doctr- 为 doctrina 的词干层，含 doct- 已教的及 r 扩展，不另造现代后缀 -tr。"
+    },
+    {
+      "no": 1585,
+      "term": "document",
+      "changed": true,
+      "before": "document",
+      "after": "docu + ment",
+      "notes": "docu- 为 documentum 的构词形；doctr- 为 doctrina 的词干层，含 doct- 已教的及 r 扩展，不另造现代后缀 -tr。"
+    },
+    {
+      "no": 1586,
+      "term": "documentary",
+      "changed": true,
+      "before": "documentary",
+      "after": "docu + ment + ary",
+      "notes": "docu- 为 documentum 的构词形；doctr- 为 doctrina 的词干层，含 doct- 已教的及 r 扩展，不另造现代后缀 -tr。"
+    },
+    {
+      "no": 1587,
+      "term": "dogged",
+      "changed": true,
+      "before": "dogged",
+      "after": "dogg + ed",
+      "notes": "dogg-（dog 双写 g）+ -ed 性质；顽强不放的形象来自狗。形容词读两音节 /ˈdɒɡɪd/，不要与动词 dog 的过去式混同。"
+    },
+    {
+      "no": 1588,
+      "term": "dogma",
+      "changed": true,
+      "before": "dogma",
+      "after": "dogma",
+      "notes": "表层 dogma；深层 dok-/dog- 认为 + -ma 行为结果。与英语 dog 狗完全无关。"
+    },
+    {
+      "no": 1589,
+      "term": "doll",
+      "changed": true,
+      "before": "doll",
+      "after": "doll",
+      "notes": "Doll 是 Dorothy 的昵称，后来指玩偶；姓名更深来自 Greek doron 礼物 + theos 神，但现代 doll 不按字母硬拆。"
+    },
+    {
+      "no": 1590,
+      "term": "dolphin",
+      "changed": true,
+      "before": "dolphin",
+      "after": "dolphin",
+      "notes": "表层借词 dolphin；与 Greek delphys 子宫的联系有解释空间，不把 dolphin 拼成英语 dol + phin。"
+    },
+    {
+      "no": 1591,
+      "term": "domain",
+      "changed": true,
+      "before": "domain",
+      "after": "domain",
+      "notes": "表层 domain；深层 dominium 统辖权 ← dominus 主人 ← domus 房屋，现代引申为领域。"
+    },
+    {
+      "no": 1592,
+      "term": "domestic",
+      "changed": true,
+      "before": "domestic",
+      "after": "domest + ic",
+      "notes": "domest- 是 domesticus 的家庭词干层，domus + 历史扩展 -est-；不是最高级 -est。与英语 -dom 后缀分开。"
+    },
+    {
+      "no": 1593,
+      "term": "domesticate",
+      "changed": true,
+      "before": "domesticate",
+      "after": "domest + ic + ate",
+      "notes": "domest- 是 domesticus 的家庭词干层，domus + 历史扩展 -est-；不是最高级 -est。与英语 -dom 后缀分开。"
+    },
+    {
+      "no": 1594,
+      "term": "domesticated",
+      "changed": true,
+      "before": "domesticated",
+      "after": "domest + ic + at + ed",
+      "notes": "domest- 是 domesticus 的家庭词干层，domus + 历史扩展 -est-；不是最高级 -est。与英语 -dom 后缀分开。"
+    },
+    {
+      "no": 1595,
+      "term": "dominant",
+      "changed": true,
+      "before": "dominant",
+      "after": "domin + ant",
+      "notes": "表层 domin- 主人、控制；深层 dominus 是与 domus 房屋相关的家主称谓。"
+    },
+    {
+      "no": 1596,
+      "term": "predominantly",
+      "changed": true,
+      "before": "predominantly",
+      "after": "pre + domin + ant + ly",
+      "notes": "表层 domin- 主人、控制；深层 dominus 是与 domus 房屋相关的家主称谓。"
+    },
+    {
+      "no": 1597,
+      "term": "dominate",
+      "changed": true,
+      "before": "dominate",
+      "after": "domin + ate",
+      "notes": "表层 domin- 主人、控制；深层 dominus 是与 domus 房屋相关的家主称谓。"
+    },
+    {
+      "no": 1598,
+      "term": "predominate",
+      "changed": true,
+      "before": "predominate",
+      "after": "pre + domin + ate",
+      "notes": "表层 domin- 主人、控制；深层 dominus 是与 domus 房屋相关的家主称谓。"
+    },
+    {
+      "no": 1599,
+      "term": "donate",
+      "changed": true,
+      "before": "donate",
+      "after": "don + ate",
+      "notes": "don- 礼物 → donare 赠与；donation 先进入英语，donate 后由其逆构。现代学习可比较 don + -ate/-ation/-or。"
+    },
+    {
+      "no": 1600,
+      "term": "donation",
+      "changed": true,
+      "before": "donation",
+      "after": "don + ation",
+      "notes": "don- 礼物 → donare 赠与；donation 先进入英语，donate 后由其逆构。现代学习可比较 don + -ate/-ation/-or。"
+    }
+  ],
+  "changedWords": [
+    "carbon-dioxide",
+    "desert",
+    "deserted",
+    "desirable",
+    "desire",
+    "desolate",
+    "dessert",
+    "destination",
+    "destine",
+    "destroy",
+    "destruction",
+    "destructive",
+    "detect",
+    "detectable",
+    "detective",
+    "deter",
+    "deteriorate",
+    "determinant",
+    "determine",
+    "detriment",
+    "detrimental",
+    "devastate",
+    "devastating",
+    "devastation",
+    "device",
+    "devise",
+    "devote",
+    "diagnose",
+    "dictate",
+    "diet",
+    "dietary",
+    "dieter",
+    "dietetics",
+    "dietitian",
+    "different",
+    "differentiate",
+    "diffuse",
+    "digress",
+    "digression",
+    "dilate",
+    "dilute",
+    "dimension",
+    "dimensional",
+    "diminish",
+    "dioxide",
+    "diplomacy",
+    "diplomatic",
+    "disadvantage",
+    "disapproval",
+    "disapprove",
+    "disastrous",
+    "discharge",
+    "disciple",
+    "discipline",
+    "disciplined",
+    "discomfort",
+    "discontent",
+    "discontented",
+    "discount",
+    "discourage",
+    "discouraging",
+    "discrete",
+    "disillusion",
+    "disintegrate",
+    "disinterested",
+    "dismal",
+    "dismay",
+    "dismiss",
+    "dispatch",
+    "dispense",
+    "dispense-with",
+    "dispersal",
+    "disperse",
+    "disposal",
+    "dispose",
+    "dispose-of",
+    "disposed",
+    "disposition",
+    "disregard",
+    "disrepute",
+    "dissertation",
+    "dissimilar",
+    "dissipate",
+    "dissipated",
+    "dissolve",
+    "distance",
+    "distant",
+    "distaste",
+    "distasteful",
+    "distent",
+    "distill",
+    "distillation",
+    "distinct",
+    "distinction",
+    "distinctive",
+    "distinctively",
+    "distinctly",
+    "distinguish",
+    "distinguished",
+    "distort",
+    "distorted",
+    "distortion",
+    "distract",
+    "distress",
+    "distribute",
+    "distribution",
+    "district",
+    "disturb",
+    "disturbance",
+    "disturbed",
+    "dive",
+    "diver",
+    "diverge",
+    "divergence",
+    "divergent",
+    "diverse",
+    "diversification",
+    "diversified",
+    "diversify",
+    "diversion",
+    "diversity",
+    "divert",
+    "divide",
+    "dividing-line",
+    "divorce",
+    "dizziness",
+    "dizzy",
+    "dizzying",
+    "doctrine",
+    "document",
+    "documentary",
+    "documentation",
+    "dogged",
+    "dogma",
+    "doll",
+    "dolphin",
+    "domain",
+    "domestic",
+    "domesticate",
+    "domesticated",
+    "domestication",
+    "dominant",
+    "dominate",
+    "donate",
+    "donation",
+    "donor",
+    "indigestion",
+    "jurisdiction",
+    "predominant",
+    "predominantly",
+    "predominate",
+    "smoke-detector",
+    "subdiscipline",
+    "two-three-dimensional",
+    "undeserved",
+    "undifferentiated",
+    "undistorted",
+    "undisturbed"
+  ],
+  "changedRoots": [
+    "root:advantage",
+    "root:al-action",
+    "root:ate",
+    "root:cern",
+    "root:charge",
+    "root:comfort",
+    "root:count",
+    "root:courage",
+    "root:cy",
+    "root:de",
+    "root:dec",
+    "root:desert",
+    "root:desire",
+    "root:dessert",
+    "root:destin",
+    "root:deterior",
+    "root:dies",
+    "root:diet",
+    "root:diplom",
+    "root:dis",
+    "root:discip",
+    "root:dismay",
+    "root:dispatch",
+    "root:dissip",
+    "root:dive",
+    "root:divers",
+    "root:dizzy",
+    "root:doc",
+    "root:dog",
+    "root:dogma",
+    "root:doll",
+    "root:dolphin",
+    "root:domain",
+    "root:domin",
+    "root:domus",
+    "root:don",
+    "root:fort",
+    "root:garde",
+    "root:gnos",
+    "root:ian",
+    "root:ics",
+    "root:ify",
+    "root:in",
+    "root:integr",
+    "root:interest",
+    "root:ish-romance",
+    "root:jur",
+    "root:lat",
+    "root:lud",
+    "root:mal",
+    "root:mit",
+    "root:oxid",
+    "root:pens",
+    "root:plic",
+    "root:pon",
+    "root:pre",
+    "root:pro",
+    "root:reput",
+    "root:sense",
+    "root:solv-solut",
+    "root:stand",
+    "root:still-drop",
+    "root:stingu-stinct",
+    "root:strict",
+    "root:struct",
+    "root:sub",
+    "root:taste",
+    "root:teg-tect",
+    "root:term",
+    "root:terr",
+    "root:tort",
+    "root:tribut",
+    "root:trit",
+    "root:turb",
+    "root:two-three",
+    "root:vert",
+    "root:vid",
+    "root:vor",
+    "root:vot"
+  ],
+  "newWords": [
+    "destroy",
+    "determine",
+    "different",
+    "digress",
+    "distaste",
+    "distillation",
+    "distorted",
+    "disturbed",
+    "diverge",
+    "domestication",
+    "predominant"
+  ],
+  "staticVerified": {
+    "words": 200,
+    "roots": 158
+  },
+  "placeholderDefinitionsReplaced": 56,
+  "validation": "canonical/batch: 0 issues, 0 warnings; TypeScript/build passed. Build has bundle-size and route-classification warnings.",
+  "uncertainDeepOrigins": [
+    "desire",
+    "disciple",
+    "dispatch",
+    "dismay",
+    "distill",
+    "distinct/distinguish",
+    "dizzy",
+    "dolphin"
+  ],
+  "ingestProgress": "unchanged: through 2433; next 2434",
+  "sources": [
+    "https://www.etymonline.com/word/detect",
+    "https://www.etymonline.com/word/desire",
+    "https://www.etymonline.com/word/disciple",
+    "https://www.etymonline.com/word/dispatch",
+    "https://www.etymonline.com/word/dismay",
+    "https://www.etymonline.com/word/distill",
+    "https://www.etymonline.com/word/distinguish",
+    "https://www.etymonline.com/word/distribute",
+    "https://www.etymonline.com/word/domestic",
+    "https://www.etymonline.com/word/document",
+    "https://www.etymonline.com/word/donate",
+    "https://www.etymonline.com/word/doll",
+    "https://www.etymonline.com/word/dogma",
+    "https://www.etymonline.com/word/dolphin",
+    "https://www.etymonline.com/word/device",
+    "https://www.etymonline.com/word/detriment",
+    "https://www.merriam-webster.com/dictionary/detect",
+    "https://www.merriam-webster.com/dictionary/distill",
+    "https://www.merriam-webster.com/dictionary/distinguish",
+    "https://www.merriam-webster.com/dictionary/distribute",
+    "https://www.merriam-webster.com/dictionary/domestic",
+    "https://www.merriam-webster.com/dictionary/donation",
+    "https://www.merriam-webster.com/dictionary/distent",
+    "https://www.merriam-webster.com/dictionary/dogma"
+  ]
+}

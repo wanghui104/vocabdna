@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: connoisseur
+word: connoisseur
+pos: noun
+zh: 鉴赏家；行家
+en: a person with expert knowledge and judgment in an area, especially art or food
+components:
+  - morpheme: connoiss
+    form: connoiss
+    meaning_in_word: expert knower
+    zh: 鉴赏家；行家
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -eur
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 拼写注意 double n + oi + ss + eur。

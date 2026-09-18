@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ambitious
+word: ambitious
+pos: adjective
+zh: 有雄心的；渴望成功的
+en: strongly wanting success, power, or achievement
+components:
+  - morpheme: ambi
+    form: ambit
+    meaning_in_word: go around seeking support
+    zh: 周围；两边
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ious
+    meaning_in_word: full of, having
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - ambition
+word_family_details:
+  - word: ambition
+    en: a strong desire to achieve something important
+    zh: 雄心；抱负
+confusables:
+  []
+examples:
+  []
+why_confusing: ambitious plan 是宏大的计划；ambitious person 是有抱负的人。

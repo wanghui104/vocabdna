@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: magnesium
+word: magnesium
+pos: noun
+zh: 镁
+en: Means 镁; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: magnes
+    form: magnes
+    meaning_in_word: 磁石；镁名
+    zh: 磁石；镁名
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:magnes.
+  - morpheme: ium
+    form: -ium
+    meaning_in_word: 状态；物质
+    zh: 状态；物质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ium.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

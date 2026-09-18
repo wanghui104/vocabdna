@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: theist
+word: theist
+pos: noun
+zh: 有神论者
+en: a person who believes in the existence of a god or gods
+components:
+  - morpheme: theo
+    form: the
+    meaning_in_word: god
+    zh: 神；神明
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person with a belief
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: atheist
+    reason: theist 有神论者；atheist 无神论者。
+    zh_reason: theist 有神论者；atheist 无神论者。
+examples:
+  []
+why_confusing: theist 有神论者；atheist 无神论者。

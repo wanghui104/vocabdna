@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: connoiss
+display: connoiss
+type: root
+core_meaning: expert knower
+zh: 鉴赏家；行家
+origin: French
+source_form: French connaisseur, connaitre
+source_meaning: knower, one who knows
+source_meaning_zh: 懂行者；知道的人
+related_morphemes:
+  []
+senses:
+  - meaning: expert knower
+    zh: 鉴赏家；行家
+    examples:
+      - connoisseur
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - connoiss -> connoisseur
+high_value_words:
+  - connoisseur
+confusable_words:
+  []

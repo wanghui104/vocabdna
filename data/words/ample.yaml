@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ample
+word: ample
+pos: adjective
+zh: 富足的；充足的
+en: enough or more than enough; spacious
+components:
+  - morpheme: ampl
+    form: ample
+    meaning_in_word: large, abundant
+    zh: 宽大；充足
+    role: root
+    is_core: true
+word_family:
+  - amplify
+  - amplification
+word_family_details:
+  - word: amplify
+    en: to make something larger, louder, stronger, or more detailed
+    zh: 放大；扩大；增强
+  - word: amplification
+    en: the act or result of making something larger or stronger
+    zh: 扩大；放大；增强
+confusables:
+  - word: amount
+    reason: trample 只是拼写含 ample，不是 ample 的派生词。
+    zh_reason: trample 只是拼写含 ample，不是 ample 的派生词。
+  - word: trample
+    reason: trample 只是拼写含 ample，不是 ample 的派生词。
+    zh_reason: trample 只是拼写含 ample，不是 ample 的派生词。
+examples:
+  []
+why_confusing: trample 只是拼写含 ample，不是 ample 的派生词。

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: critique
+word: critique
+pos: noun
+zh: 批评；评论
+en: a careful review or evaluation, especially of art, literature, or ideas
+components:
+  - morpheme: crit
+    form: critique
+    meaning_in_word: judge, evaluate / 判断；评论
+    zh: 判断；评论
+    role: root
+    is_core: true
+    note: 表层 crit- 判断 + -ic + -al；Greek kritikos = krit- 判断 + -ikos 性质后缀。critique 经法语借入，保留完整词形；-ique 与希腊 -ikos 相关。
+    related_morphemes:
+      - ic
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: critique 更偏正式的分析评论，不只是责备。

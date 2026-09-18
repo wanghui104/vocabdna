@@ -22,9 +22,7 @@ word_family:
 word_family_details:
   []
 confusables:
-  - word: sudden
-    reason: abrupt 可指变化突然，也可指态度生硬。
-    zh_reason: abrupt 可指变化突然，也可指态度生硬。
+  []
 examples:
   - en: The meeting came to an abrupt end.
     zh: 会议突然结束了。

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: legislate
+word: legislate
+pos: verb
+zh: 立法
+en: Means 立法; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: legisl
+    form: legisl
+    meaning_in_word: 立法
+    zh: 立法
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:legisl.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ate.
+word_family:
+  - legislation
+  - legislature
+word_family_details:
+  - word: legislation
+    en: Means 立法 / 法规; reviewed from the TOEFL source gloss for learner display.
+    zh: 立法 / 法规
+  - word: legislature
+    en: Means 立法机关; reviewed from the TOEFL source gloss for learner display.
+    zh: 立法机关
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

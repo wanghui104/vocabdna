@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sit
+display: sit
+type: root
+core_meaning: sit, be seated
+zh: 坐；照看
+origin: Old English
+source_form: Old English sittan
+source_meaning: sit
+source_meaning_zh: 坐
+related_morphemes:
+  []
+senses:
+  - meaning: sit, be seated
+    zh: 坐；照看
+    examples:
+      - baby-sitter
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sitter -> baby-sitter
+high_value_words:
+  - baby-sitter
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vibrate
+word: vibrate
+pos: verb
+zh: 颤动，震动
+en: Means 颤动，震动; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: vibr
+    form: vibr
+    meaning_in_word: shake / 震动
+    zh: 震动
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make; act / 使；做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - vibrant
+  - vibration
+word_family_details:
+  - word: vibrant
+    en: Means 活泼的；生气勃勃的; reviewed from the TOEFL source gloss for learner display.
+    zh: 活泼的；生气勃勃的
+  - word: vibration
+    en: Means 振动，颤动; reviewed from the TOEFL source gloss for learner display.
+    zh: 振动，颤动
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

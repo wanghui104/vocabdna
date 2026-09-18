@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: penetr
+display: penetr
+type: root
+core_meaning: enter; pierce
+zh: 进入；穿透
+origin: teaching morphology
+source_form: penetr
+source_meaning: enter; pierce
+source_meaning_zh: 进入；穿透
+related_morphemes:
+  []
+senses:
+  - meaning: enter; pierce
+    zh: 进入；穿透
+    examples:
+      - penetrate
+      - penetrating
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - penetr -> penetrate
+  - penetr -> penetrating
+high_value_words:
+  - penetrate
+  - penetrating
+confusable_words:
+  []

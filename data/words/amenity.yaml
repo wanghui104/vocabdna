@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: amenity
+word: amenity
+pos: noun
+zh: 生活福利设施；便利设施；文娱康乐场所
+en: a useful or pleasant feature of a place, often in plural
+components:
+  - morpheme: amoen
+    form: amen
+    meaning_in_word: pleasant, delightful
+    zh: 愉快；宜人
+    role: root
+    is_core: true
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: quality or state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: amenable
+    reason: amenity 常用复数 amenities 表示酒店、小区等设施。
+    zh_reason: amenity 常用复数 amenities 表示酒店、小区等设施。
+  - word: amendment
+    reason: amenity 常用复数 amenities 表示酒店、小区等设施。
+    zh_reason: amenity 常用复数 amenities 表示酒店、小区等设施。
+examples:
+  []
+why_confusing: amenity 常用复数 amenities 表示酒店、小区等设施。

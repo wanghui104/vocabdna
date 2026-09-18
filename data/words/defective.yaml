@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: defective
+word: defective
+pos: adjective
+zh: 有缺陷的
+en: having a defect or not working correctly
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, lacking
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: fac
+    form: fect
+    meaning_in_word: make, do
+    zh: 做、制造
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having quality
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - defect
+word_family_details:
+  - word: defect
+    en: a fault or lack, or to abandon one's group or duty
+    zh: 缺点；瑕疵；背离
+confusables:
+  []
+examples:
+  []
+why_confusing: defective product/equipment 常见。

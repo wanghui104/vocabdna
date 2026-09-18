@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: wind
+display: wind
+type: root
+core_meaning: wind; turn
+zh: 卷；终止
+origin: teaching morphology
+source_form: wind
+source_meaning: wind; turn
+source_meaning_zh: 卷；终止
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: wind; turn
+    zh: 卷；终止
+    examples:
+      - wind up
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - wind -> wind up
+high_value_words:
+  - wind up
+confusable_words:
+  []

@@ -2,32 +2,33 @@
 id: symphony
 word: symphony
 pos: noun
-zh: 交响乐；和谐组合
-en: a long musical work for orchestra, or a harmonious combination
+zh: 交响乐，交响曲
+en: Means 交响乐，交响曲; reviewed from the TOEFL source gloss for learner display.
 components:
-  - morpheme: syn
+  - morpheme: sym
     form: sym-
-    meaning_in_word: together
-    zh: 共同、一起
+    meaning_in_word: together / 共同
+    zh: 共同
     role: prefix
     is_core: false
   - morpheme: phon
-    form: phony-
-    meaning_in_word: sound
+    form: phon
+    meaning_in_word: sound / 声音
     zh: 声音
-    role: combining_form
+    role: root
     is_core: true
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of; having / 充满；具有
+    zh: 充满；状态
+    role: suffix
+    is_core: false
 word_family:
-  - symphonic
+  []
 word_family_details:
-  - word: symphonic
-    en: related form of symphonic
-    zh: symphonic 的相关词
+  []
 confusables:
-  - word: sympathy
-    reason: symphony 是交响；sympathy 是共感。
-    zh_reason: symphony 是交响；sympathy 是共感。
+  []
 examples:
-  - en: The orchestra performed a new symphony.
-    zh: 管弦乐队演奏了一首新交响曲。
-why_confusing: symphony 是交响；sympathy 是共感。
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

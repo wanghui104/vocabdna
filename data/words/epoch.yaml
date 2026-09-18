@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: epoch
+word: epoch
+pos: noun
+zh: 时代；地质世；纪元起点
+en: a distinct period in history or geology; a reference point in time
+components:
+  - morpheme: epoch
+    form: epoch
+    meaning_in_word: fixed point, cessation / 固定点；停顿
+    zh: 固定点；停顿
+    role: root
+    is_core: true
+    note: 深层 epi- 在 + echein 持有，经词干和拼写变化形成 epoch；不造英语 och 独立词。
+    related_morphemes:
+      - epi
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

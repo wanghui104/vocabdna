@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pose
+word: pose
+pos: verb
+zh: 形成，引起；姿势，姿态
+en: Means 形成，引起；姿势，姿态; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pos
+    form: pos
+    meaning_in_word: put; place / 放置
+    zh: 放置
+    role: root
+    is_core: true
+  - morpheme: e
+    form: -e
+    meaning_in_word: final-e marker / 词尾 e
+    zh: 出；离开；加强
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

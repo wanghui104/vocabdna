@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: finch
+word: finch
+pos: noun
+zh: 雀科小鸟
+en: a small songbird, typically with a short strong seed-eating bill
+components:
+  - morpheme: finch
+    form: finch
+    meaning_in_word: finch / 雀科鸟
+    zh: 雀科鸟
+    role: root
+    is_core: true
+    note: 本族简单鸟名；更深拟声解释不作为确定拆解。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

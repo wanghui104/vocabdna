@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contract
+word: contract
+pos: verb/noun
+zh: 收缩；缩短
+en: to become smaller or draw together
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tract
+    form: tract
+    meaning_in_word: draw, pull
+    zh: 拉、抽出
+    role: root
+    is_core: true
+word_family:
+  - contraction
+  - contractor
+word_family_details:
+  - word: contraction
+    en: the act of becoming smaller or a shortened form of a word
+    zh: 缩短；收缩；缩约形式
+  - word: contractor
+    en: a person or company hired under a contract to do work
+    zh: 承包人；订约人
+confusables:
+  []
+examples:
+  []
+why_confusing: contract 作名词合同；作动词可指收缩或订约。

@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: line-lign
+display: line
+type: root
+core_meaning: line, align
+zh: 线；排列成线
+origin: Latin
+source_form: Latin linea / lineare
+source_meaning: line; to bring into line
+source_meaning_zh: 线；排成一线
+related_morphemes:
+  []
+senses:
+  - meaning: line, align
+    zh: 线；排列成线
+    examples:
+      - alignment
+      - assembly line
+      - dividing line
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - lign -> alignment
+  - line -> assembly line
+  - line -> dividing line
+high_value_words:
+  - alignment
+  - assembly line
+  - dividing line
+confusable_words:
+  []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: patriot
+word: patriot
+pos: noun
+zh: 爱国者
+en: Means 爱国者; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: patri
+    form: patri
+    meaning_in_word: father; fatherland / 父；祖国
+    zh: 父；祖国
+    role: root
+    is_core: true
+  - morpheme: ot
+    form: ot
+    meaning_in_word: ot / ot
+    zh: 闲暇；事务
+    role: root
+    is_core: true
+word_family:
+  - patriotic
+word_family_details:
+  - word: patriotic
+    en: Means 爱国的; reviewed from the TOEFL source gloss for learner display.
+    zh: 爱国的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nostalgia
+word: nostalgia
+pos: noun
+zh: 思家病，怀旧
+en: Means 思家病，怀旧; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: nostalgia
+    form: nostalgia
+    meaning_in_word: homesickness; longing / 怀旧；思乡
+    zh: 怀旧；思乡
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

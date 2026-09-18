@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cactus
+word: cactus
+pos: noun
+zh: 仙人掌
+en: a plant with thick stems and spines, often growing in dry areas
+components:
+  - morpheme: cactus
+    form: cactus
+    meaning_in_word: spiny plant
+    zh: 仙人掌
+    role: root
+    is_core: true
+word_family:
+  - cacti
+word_family_details:
+  - word: cacti
+    en: plural of cactus
+    zh: 仙人掌（复数）
+confusables:
+  []
+examples:
+  []
+why_confusing: 复数可作 cacti 或 cactuses。

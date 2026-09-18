@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nervous
+word: nervous
+pos: adjective
+zh: 神经的；神经紧张的，易激动的
+en: Means 神经的；神经紧张的，易激动的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: nerv
+    form: nerv
+    meaning_in_word: nerv
+    zh: nerv
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:nerv.
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ous.
+word_family:
+  - nerve-cord
+  - spinal-cord
+  - neuron
+word_family_details:
+  - word: nerve-cord
+    en: Means 脊髓; reviewed from the TOEFL source gloss for learner display.
+    zh: 脊髓
+  - word: spinal-cord
+    en: Means 脊髓; reviewed from the TOEFL source gloss for learner display.
+    zh: 脊髓
+  - word: neuron
+    en: Means 神经元，神经细胞; reviewed from the TOEFL source gloss for learner display.
+    zh: 神经元，神经细胞
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

@@ -2,30 +2,33 @@
 id: acquaint
 word: acquaint
 pos: verb
-zh: 使熟悉；告知
-en: to make someone familiar with or aware of something
+zh: 使熟知，通知
+en: Means 使熟知，通知; reviewed from the TOEFL source gloss for learner display.
 components:
-  - morpheme: ad
+  - morpheme: ac
     form: ac-
-    meaning_in_word: toward
-    zh: 去、向、靠近
+    meaning_in_word: to / 向
+    zh: 向；到
     role: prefix
     is_core: false
   - morpheme: quaint-cogn
-    form: quaint
-    meaning_in_word: make known
+    form: quaint-cogn
+    meaning_in_word: know; acquaint / 知道；熟悉
     zh: 认识、熟悉
     role: root
     is_core: true
 word_family:
   - acquaintance
+  - acquainted
 word_family_details:
   - word: acquaintance
-    en: a person one knows but not very well
-    zh: 熟人
+    en: Means 相识，熟人; reviewed from the TOEFL source gloss for learner display.
+    zh: 相识，熟人
+  - word: acquainted
+    en: Means 有知识的，知晓的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有知识的，知晓的
 confusables:
   []
 examples:
-  - en: The guide acquainted us with local customs.
-    zh: 导游让我们熟悉了当地习俗。
-why_confusing: 常用 acquaint someone with something。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: strings
+word: strings
+pos: noun
+zh: 弦乐器
+en: Means 弦乐器; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: string
+    form: string
+    meaning_in_word: string / 弦；绳
+    zh: 弦；绳
+    role: root
+    is_core: true
+  - morpheme: s
+    form: -s
+    meaning_in_word: plural or possessive / 复数或所有格
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+word_family:
+  - string
+  - stringent
+word_family_details:
+  - word: string
+    en: Means （乐器的）弦；细绳，带子; reviewed from the TOEFL source gloss for learner display.
+    zh: （乐器的）弦；细绳，带子
+  - word: stringent
+    en: Means 严厉的；缺钱的，银根紧的，周转困难的; reviewed from the TOEFL source gloss for learner display.
+    zh: 严厉的；缺钱的，银根紧的，周转困难的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

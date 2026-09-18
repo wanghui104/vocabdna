@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: infuse
+word: infuse
+pos: verb
+zh: 注入，灌输
+en: Means 注入，灌输; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: fus
+    form: fus
+    meaning_in_word: 混合；混淆
+    zh: 混合；混淆
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:fus.
+word_family:
+  - infusion
+word_family_details:
+  - word: infusion
+    en: Means 注入; reviewed from the TOEFL source gloss for learner display.
+    zh: 注入
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

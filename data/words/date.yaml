@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: date
+word: date
+pos: verb/noun
+zh: 注明日期
+en: to write or mark the date on something
+components:
+  - morpheme: date
+    form: date
+    meaning_in_word: given date
+    zh: 日期；注明日期
+    role: root
+    is_core: true
+word_family:
+  - dated
+  - outdated
+word_family_details:
+  - word: dated
+    en: no longer modern or fashionable
+    zh: 陈旧的；过时的
+  - word: outdated
+    en: Means 过时的; reviewed from the TOEFL source gloss for learner display.
+    zh: 过时的
+confusables:
+  []
+examples:
+  []
+why_confusing: date 作动词是注明日期；dated/outdated 表示跟时代脱节。

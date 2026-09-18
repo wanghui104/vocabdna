@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dissent
+word: dissent
+pos: verb/noun
+zh: 不同意；异议；反对
+en: to disagree, especially formally; an expression of disagreement
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, differently
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: sense
+    form: sent
+    meaning_in_word: feel, think
+    zh: 感觉；常识
+    role: root
+    is_core: true
+word_family:
+  - dissenter
+  - dissenting
+word_family_details:
+  - word: dissenter
+    en: a person who dissents or refuses to accept an official view
+    zh: 不同意者；反对者
+  - word: dissenting
+    en: expressing disagreement with a majority or official view
+    zh: 不同意的；持异议的
+confusables:
+  []
+examples:
+  []
+why_confusing: dissent 比 disagree 更正式。

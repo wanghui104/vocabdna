@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cone
+word: cone
+pos: noun
+zh: 圆锥；松果
+en: a solid or object with a circular base and a point
+components:
+  - morpheme: cone
+    form: cone
+    meaning_in_word: cone
+    zh: 圆锥；松果
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: pine cone 指松果；traffic cone 指路锥。

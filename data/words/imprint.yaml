@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: imprint
+word: imprint
+pos: noun/verb
+zh: 印痕，痕迹；深刻的印象 / 压印，牢记
+en: Means 印痕，痕迹；深刻的印象 / 压印，牢记; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
+  - morpheme: print
+    form: print
+    meaning_in_word: 压印
+    zh: 压印
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:print.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

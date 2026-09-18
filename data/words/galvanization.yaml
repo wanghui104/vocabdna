@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: galvanization
+word: galvanization
+pos: noun
+zh: 镀锌
+en: the process of coating iron or steel with zinc
+components:
+  - morpheme: galvan
+    form: galvan
+    meaning_in_word: Galvani, electricity / 伽伐尼；电
+    zh: 伽伐尼；电
+    role: root
+    is_core: true
+    note: galvan- 为 Galvani 人名词干 + -iz- + -ation。镀锌可以采用热浸等方式，不等于所有电镀；另有电刺激、激励义。
+  - morpheme: ize
+    form: -iz
+    meaning_in_word: make or do / 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: -ation 将动作名词化；其中 a 保留历史动词词干元音，-tion 对应 Latin -tio/-tion- 行为名词层。
+word_family:
+  - galvanize
+word_family_details:
+  - word: galvanize
+    en: to shock or stimulate into action
+    zh: 激起；促使行动
+confusables:
+  []
+examples:
+  []
+why_confusing: 

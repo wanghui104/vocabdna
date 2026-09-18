@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: boundary
+word: boundary
+pos: noun
+zh: 分界线；边界
+en: a line that marks the edge or limit of an area
+components:
+  - morpheme: bound-limit
+    form: bound
+    meaning_in_word: limit
+    zh: 界限；边界
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ary
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - bound
+word_family_details:
+  - word: bound
+    en: tied or obliged, or a limit
+    zh: 被束缚的；有义务的；范围；限制
+confusables:
+  []
+examples:
+  []
+why_confusing: physical/social/personal boundaries 都常见。

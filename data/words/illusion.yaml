@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: illusion
+word: illusion
+pos: noun
+zh: 幻觉；错觉
+en: Means 幻觉；错觉; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: il
+    form: il-
+    meaning_in_word: 不；入
+    zh: 不；入
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:il.
+  - morpheme: lus
+    form: lus
+    meaning_in_word: 玩；戏弄
+    zh: 玩；戏弄
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:lus.
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ion.
+word_family:
+  - illusive
+word_family_details:
+  - word: illusive
+    en: Means 迷惑人的；错觉的; reviewed from the TOEFL source gloss for learner display.
+    zh: 迷惑人的；错觉的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

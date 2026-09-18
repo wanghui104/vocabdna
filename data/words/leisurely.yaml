@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: leisurely
+word: leisurely
+pos: adjective
+zh: 从容的，悠闲的
+en: Means 从容的，悠闲的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: leisur
+    form: leisur
+    meaning_in_word: 闲暇
+    zh: 闲暇
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:leisur.
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ly.
+word_family:
+  - leisure
+word_family_details:
+  - word: leisure
+    en: Means 空闲，闲暇; reviewed from the TOEFL source gloss for learner display.
+    zh: 空闲，闲暇
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

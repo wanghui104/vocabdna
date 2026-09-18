@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: characteristic
+word: characteristic
+pos: adjective/noun
+zh: 典型的；特有的；特征
+en: typical of someone or something, or a distinguishing feature
+components:
+  - morpheme: character
+    form: character
+    meaning_in_word: feature
+    zh: 角色；性格；特征
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -istic
+    meaning_in_word: related to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - character
+  - characterize
+word_family_details:
+  - word: character
+    en: a person's qualities, a role in a story, or a written mark
+    zh: 角色；性格；特征；文字
+  - word: characterize
+    en: to describe or mark the typical qualities of someone or something
+    zh: 表现…特色；刻画…性格
+confusables:
+  []
+examples:
+  []
+why_confusing: characteristic of 表示具有…特征。

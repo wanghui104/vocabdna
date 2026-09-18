@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dart
+word: dart
+pos: verb/noun
+zh: 飞奔；猛冲；投掷
+en: to move suddenly and quickly, or to throw a small pointed object
+components:
+  - morpheme: dart
+    form: dart
+    meaning_in_word: pointed missile, sudden movement
+    zh: 镖；飞奔
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dart across the road 表示突然冲过马路。

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: miracle
+word: miracle
+pos: noun
+zh: 奇迹，奇事
+en: Means 奇迹，奇事; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mir
+    form: mir
+    meaning_in_word: 惊叹；钦佩
+    zh: 惊叹；钦佩
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mir.
+  - morpheme: acle
+    form: acle
+    meaning_in_word: acle
+    zh: acle
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:acle.
+word_family:
+  - miraculous
+word_family_details:
+  - word: miraculous
+    en: Means 奇迹的，不可思议的; reviewed from the TOEFL source gloss for learner display.
+    zh: 奇迹的，不可思议的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

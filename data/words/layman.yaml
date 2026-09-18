@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: layman
+word: layman
+pos: noun
+zh: 俗人，犯人；外行
+en: Means 俗人，犯人；外行; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lay
+    form: lay
+    meaning_in_word: 放置；产卵
+    zh: 放置；产卵
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lay.
+  - morpheme: man
+    form: man
+    meaning_in_word: 人
+    zh: 人
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:man.
+word_family:
+  - lay
+  - layer
+  - layering
+  - layout
+word_family_details:
+  - word: lay
+    en: Means 产卵，下蛋; reviewed from the TOEFL source gloss for learner display.
+    zh: 产卵，下蛋
+  - word: layer
+    en: Means 层，层次；阶层; reviewed from the TOEFL source gloss for learner display.
+    zh: 层，层次；阶层
+  - word: layering
+    en: Means 分层堆积; reviewed from the TOEFL source gloss for learner display.
+    zh: 分层堆积
+  - word: layout
+    en: Means 规划，设计; reviewed from the TOEFL source gloss for learner display.
+    zh: 规划，设计
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crossbreeding
+word: crossbreeding
+pos: noun
+zh: 异种交配；杂交
+en: breeding between different varieties or species
+components:
+  - morpheme: cross
+    form: cross
+    meaning_in_word: cross
+    zh: 交叉；杂交
+    role: root
+    is_core: true
+  - morpheme: breed
+    form: breed
+    meaning_in_word: reproduce
+    zh: 繁殖；培育
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: process
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 用于动物、植物或遗传育种语境。

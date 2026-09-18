@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blend
+word: blend
+pos: verb/noun
+zh: 混合；掺混；混合物
+en: to mix smoothly together, or a mixture
+components:
+  - morpheme: blend
+    form: blend
+    meaning_in_word: mix
+    zh: 混合；融合
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: blend in 表示融入环境。

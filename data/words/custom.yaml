@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: custom
+word: custom
+pos: noun
+zh: 习惯；传统；惯例
+en: a usual practice, tradition, or established way of doing something
+components:
+  - morpheme: custom
+    form: custom
+    meaning_in_word: habit
+    zh: 习惯、惯例
+    role: root
+    is_core: true
+    note: 表层 custom；Old French costume ← Latin consuetudo 习惯 ← consuescere 习惯于。深层 com-/con- 加强 + suescere 习惯于；历史压缩后的 custom 不机械按现代字母切开。
+    related_morphemes:
+      - com
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: custom 单数多指习俗；customs 可指海关或关税。

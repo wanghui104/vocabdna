@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shepherd
+word: shepherd
+pos: noun
+zh: 牧羊人；牧羊犬
+en: Means 牧羊人；牧羊犬; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: shep
+    form: shep
+    meaning_in_word: sheep; shepherd / 羊
+    zh: 羊
+    role: root
+    is_core: true
+  - morpheme: herd
+    form: herd
+    meaning_in_word: herd; keeper / 畜群；看管
+    zh: 兽群；人群；把…赶在一起放牧；成群，群集
+    role: root
+    is_core: true
+word_family:
+  - herd
+  - herder
+word_family_details:
+  - word: herd
+    en: Means 兽群；人群 / 把…赶在一起放牧；成群，群集; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 兽群；人群 / 把…赶在一起放牧；成群，群集
+  - word: herder
+    en: Means 牧者，牧人; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 牧者，牧人
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

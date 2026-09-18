@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bold
+word: bold
+pos: adjective
+zh: 勇敢的；大胆的；放肆的
+en: brave and confident, sometimes too direct or rude
+components:
+  - morpheme: bold
+    form: bold
+    meaning_in_word: brave
+    zh: 勇敢；大胆
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: bald
+    reason: bold 与 bald 拼写近但意义不同。
+    zh_reason: bold 与 bald 拼写近但意义不同。
+examples:
+  []
+why_confusing: bold 与 bald 拼写近但意义不同。

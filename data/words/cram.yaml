@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cram
+word: cram
+pos: verb
+zh: 填塞；匆忙备考
+en: to force a lot into a small space or study intensively just before a test
+components:
+  - morpheme: cram
+    form: cram
+    meaning_in_word: stuff in
+    zh: 填塞；临时硬记
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cram for an exam 指临时抱佛脚。

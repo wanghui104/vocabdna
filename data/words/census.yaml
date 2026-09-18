@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: census
+word: census
+pos: noun
+zh: 人口调查；人口普查
+en: an official count of a population
+components:
+  - morpheme: cens
+    form: cens
+    meaning_in_word: assess, count
+    zh: 人口普查
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: census data/tract 常见。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: articulate
+word: articulate
+pos: verb/adjective
+zh: 清楚地讲话；清晰表达；善于言辞的
+en: to express clearly in words, or able to speak clearly
+components:
+  - morpheme: articul
+    form: articul
+    meaning_in_word: joint, distinct part
+    zh: 关节；部分；条款
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make/do
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - article
+word_family_details:
+  - word: article
+    en: a piece of writing, an item, a clause, or a grammar word such as a/an/the
+    zh: 论文；文章；物品；条款；冠词
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

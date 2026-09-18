@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: correlated
+word: correlated
+pos: adjective
+zh: 有相互关系的
+en: related in a measurable or mutual way
+components:
+  - morpheme: con
+    form: cor-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: relat
+    form: relat
+    meaning_in_word: relate
+    zh: 关联；叙述
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having been
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - correlate
+word_family_details:
+  - word: correlate
+    en: to have or show a mutual relationship
+    zh: 使相互关联；相关物
+confusables:
+  []
+examples:
+  []
+why_confusing: correlated with 不表示必然因果。

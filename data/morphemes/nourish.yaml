@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nourish
+display: nourish
+type: root
+core_meaning: feed; nurture
+zh: 滋养；养育
+origin: teaching morphology
+source_form: nourish
+source_meaning: feed; nurture
+source_meaning_zh: 滋养；养育
+related_morphemes:
+  []
+senses:
+  - meaning: feed; nurture
+    zh: 滋养；养育
+    examples:
+      - nourish
+      - nourishing
+      - nourishment
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - nourish -> nourish
+  - nourish -> nourishing
+  - nourish -> nourishment
+high_value_words:
+  - nourish
+  - nourishing
+  - nourishment
+confusable_words:
+  []

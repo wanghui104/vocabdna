@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intersect
+word: intersect
+pos: verb
+zh: 相交
+en: Means 相交; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: inter
+    form: inter-
+    meaning_in_word: 在……之间；相互
+    zh: 在……之间；相互
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:inter.
+  - morpheme: sect
+    form: sect
+    meaning_in_word: 切；相交
+    zh: 切；相交
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:sect.
+word_family:
+  - intersection
+word_family_details:
+  - word: intersection
+    en: Means 十字路口, 交叉点; reviewed from the TOEFL source gloss for learner display.
+    zh: 十字路口, 交叉点
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

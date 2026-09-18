@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bonanza
+word: bonanza
+pos: noun
+zh: 富矿带；幸运事；发财机会
+en: a rich source of wealth, success, or good luck
+components:
+  - morpheme: bonanza
+    form: bonanza
+    meaning_in_word: prosperity
+    zh: 富矿；好运
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 不等于 banana，拼写注意 z。

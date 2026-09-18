@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: id
+display: -id
+type: suffix
+core_meaning: having a state
+zh: 处于某状态
+origin: Latin
+source_form: Latin -idus
+source_meaning: having a state
+source_meaning_zh: 处于某状态
+source_note: frigid 由 frig- 寒冷 + -id 状态形容词层构成。
+related_morphemes:
+  []
+senses:
+  - meaning: having a state
+    zh: 处于某状态
+    examples:
+      - frigid
+      - liquid
+      - rigid
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -id -> frigid
+  - -id -> liquid
+  - -id -> rigid
+high_value_words:
+  - frigid
+  - liquid
+  - rigid
+confusable_words:
+  []

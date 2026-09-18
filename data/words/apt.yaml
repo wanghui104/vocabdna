@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: apt
+word: apt
+pos: adjective
+zh: 恰当的；贴切的
+en: suitable or appropriate
+components:
+  - morpheme: apt
+    form: apt
+    meaning_in_word: fit, suited
+    zh: 适合；达到
+    role: root
+    is_core: true
+word_family:
+  - aptly
+word_family_details:
+  - word: aptly
+    en: in a suitable or fitting way
+    zh: 适当地；得体地；贴切地
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

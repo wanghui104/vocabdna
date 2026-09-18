@@ -2,23 +2,85 @@
 id: ment
 display: -ment
 type: suffix
-core_meaning: act, result, state
-zh: 行为、结果、状态
+core_meaning: result, state
+zh: 结果；状态
 origin: Latin
 source_form: Latin -mentum
-source_meaning: means or result of an action
-source_meaning_zh: 行为或结果
+source_meaning: result, means, state
+source_meaning_zh: 结果；状态；手段
 related_morphemes:
   []
 senses:
-  - meaning: act, result, state
-    zh: 行为、结果、状态
+  - meaning: result, state
+    zh: 结果；状态
     examples:
       - abandonment
       - accompaniment
       - accomplishment
       - achievement
       - acumen
+      - adjustment
+      - adornment
+      - advancement
+      - ailment
+      - alignment
+      - amazement
+      - amendment
+      - announcement
+      - appointment
+      - arrangement
+      - assessment
+      - assignment
+      - assortment
+      - attachment
+      - attainment
+      - augment
+      - commitment
+      - condiment
+      - confinement
+      - detriment
+      - detrimental
+      - disappointment
+      - displacement
+      - document
+      - documentary
+      - documentation
+      - embellishment
+      - employment
+      - enactment
+      - endowment
+      - engagement
+      - enlightenment
+      - entanglement
+      - entertainment
+      - equipment
+      - excitement
+      - fragment
+      - fragmentary
+      - fragmentation
+      - fundamental
+      - fundamentally
+      - implement
+      - imprisonment
+      - installment
+      - instrument
+      - instrumental
+      - instrumentalist
+      - judgement
+      - labor movement
+      - mention
+      - monument
+      - mounmental
+      - nourishment
+      - pigment
+      - refinement
+      - refreshment
+      - retirement
+      - segment
+      - shipment
+      - tournament
+      - treatment
+      - disentanglement
 similar_form:
   []
 similar_meaning:
@@ -29,11 +91,135 @@ patterns:
   - -ment -> accomplishment
   - -ment -> achievement
   - -men -> acumen
+  - -ment -> adjustment
+  - -ment -> adornment
+  - -ment -> advancement
+  - -ment -> ailment
+  - -ment -> alignment
+  - -ment -> amazement
+  - -ment -> amendment
+  - -ment -> announcement
+  - -ment -> appointment
+  - -ment -> arrangement
+  - -ment -> assessment
+  - -ment -> assignment
+  - -ment -> assortment
+  - -ment -> attachment
+  - -ment -> attainment
+  - -ment -> augment
+  - -ment -> commitment
+  - -ment -> condiment
+  - -ment -> confinement
+  - -ment -> detriment
+  - -ment -> detrimental
+  - -ment -> disappointment
+  - -ment -> displacement
+  - -ment -> document
+  - -ment -> documentary
+  - -ment -> documentation
+  - -ment -> embellishment
+  - -ment -> employment
+  - -ment -> enactment
+  - -ment -> endowment
+  - -ment -> engagement
+  - -ment -> enlightenment
+  - -ment -> entanglement
+  - -ment -> entertainment
+  - -ment -> equipment
+  - -ment -> excitement
+  - -ment -> fragment
+  - -ment -> fragmentary
+  - -ment -> fragmentation
+  - -ament -> fundamental
+  - -ament -> fundamentally
+  - -ment -> implement
+  - -ment -> imprisonment
+  - -ment -> installment
+  - -ment -> instrument
+  - -ment -> instrumental
+  - -ment -> instrumentalist
+  - -ment -> judgement
+  - -ment -> labor movement
+  - -ment -> mention
+  - -ment -> monument
+  - -ment -> mounmental
+  - -ment -> nourishment
+  - -ment -> pigment
+  - -ment -> refinement
+  - -ment -> refreshment
+  - -ment -> retirement
+  - -ment -> segment
+  - -ment -> shipment
+  - -ment -> tournament
+  - -ment -> treatment
+  - -ment -> disentanglement
 high_value_words:
   - abandonment
   - accompaniment
   - accomplishment
   - achievement
   - acumen
+  - adjustment
+  - adornment
+  - advancement
+  - ailment
+  - alignment
+  - amazement
+  - amendment
+  - announcement
+  - appointment
+  - arrangement
+  - assessment
+  - assignment
+  - assortment
+  - attachment
+  - attainment
+  - augment
+  - commitment
+  - condiment
+  - confinement
+  - detriment
+  - detrimental
+  - disappointment
+  - displacement
+  - document
+  - documentary
+  - documentation
+  - embellishment
+  - employment
+  - enactment
+  - endowment
+  - engagement
+  - enlightenment
+  - entanglement
+  - entertainment
+  - equipment
+  - excitement
+  - fragment
+  - fragmentary
+  - fragmentation
+  - fundamental
+  - fundamentally
+  - implement
+  - imprisonment
+  - installment
+  - instrument
+  - instrumental
+  - instrumentalist
+  - judgement
+  - labor movement
+  - mention
+  - monument
+  - mounmental
+  - nourishment
+  - pigment
+  - refinement
+  - refreshment
+  - retirement
+  - segment
+  - shipment
+  - tournament
+  - treatment
+  - disentanglement
 confusable_words:
   []

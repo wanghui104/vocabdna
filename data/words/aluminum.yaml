@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aluminum
+word: aluminum
+pos: noun
+zh: 铝
+en: a light silvery metal used in cans, aircraft, and many products
+components:
+  - morpheme: alum
+    form: alumin
+    meaning_in_word: alum, aluminum source
+    zh: 明矾；铝来源
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 美式 aluminum；英式常见 aluminium。

@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mimetic
+word: mimetic
+pos: adjective
+zh: 模仿的，（生物）拟态的
+en: Means 模仿的，（生物）拟态的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mim
+    form: mim
+    meaning_in_word: 模仿
+    zh: 模仿
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mim.
+  - morpheme: etic
+    form: etic
+    meaning_in_word: etic
+    zh: etic
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:etic.
+word_family:
+  - mime
+  - mimicry
+  - mimic
+word_family_details:
+  - word: mime
+    en: Means 模拟，模仿; reviewed from the TOEFL source gloss for learner display.
+    zh: 模拟，模仿
+  - word: mimicry
+    en: Means （生物）拟态；模仿; reviewed from the TOEFL source gloss for learner display.
+    zh: （生物）拟态；模仿
+  - word: mimic
+    en: Means 模仿，摹拟; reviewed from the TOEFL source gloss for learner display.
+    zh: 模仿，摹拟
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

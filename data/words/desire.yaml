@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: desire
+word: desire
+pos: noun/verb
+zh: 欲望；要求；想要
+en: a strong wish for something; to want something
+components:
+  - morpheme: desire
+    form: desire
+    meaning_in_word: long for, want / 渴望；想要
+    zh: 渴望；想要
+    role: root
+    is_core: true
+    note: desire/desir- 来自 Latin desiderare 渴望。传统联系 de- + sidus/sideris 星，但语义链及更深构成有争议，不能把“等待星辰”写成确定事实。
+word_family:
+  - desirable
+word_family_details:
+  - word: desirable
+    en: wanted or worth having
+    zh: 令人向往的；令人满意的
+confusables:
+  []
+examples:
+  []
+why_confusing: desire 可作名词或动词；desirable 是“令人想要的”。

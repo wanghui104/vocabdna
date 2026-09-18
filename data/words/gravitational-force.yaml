@@ -1,0 +1,62 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gravitational-force
+word: gravitational force
+pos: phrase
+zh: 地心引力
+en: Means 地心引力; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: grav
+    form: grav
+    meaning_in_word: grav
+    zh: 沉重；严重
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:grav.
+  - morpheme: itation
+    form: -itation
+    meaning_in_word: itation
+    zh: itation
+    role: suffix
+    is_core: false
+    note: Suffix layer from English itation.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Suffix layer from Latin -alis.
+  - morpheme: force
+    form: force
+    meaning_in_word: force
+    zh: 力量
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:force.
+word_family:
+  - gravity
+  - gravitation
+  - gravitational
+  - gravitational-field
+  - gravitational-pull
+word_family_details:
+  - word: gravity
+    en: Means 地心引力 / 严肃，一本正经; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 地心引力 / 严肃，一本正经
+  - word: gravitation
+    en: Means 引力，重力; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 引力，重力
+  - word: gravitational
+    en: Means 地心引力的，重力的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 地心引力的，重力的
+  - word: gravitational-field
+    en: Means 重力场; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 重力场
+  - word: gravitational-pull
+    en: Means 地心引力; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 地心引力
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

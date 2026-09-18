@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: entertain
+word: entertain
+pos: verb
+zh: 娱乐；款待
+en: to amuse or host people
+components:
+  - morpheme: inter
+    form: enter-
+    meaning_in_word: between, among / 在……之间；相互
+    zh: 在……之间；相互
+    role: prefix
+    is_core: false
+  - morpheme: tain
+    form: tain
+    meaning_in_word: hold, contain / 持有；包含
+    zh: 持有；包含
+    role: root
+    is_core: true
+word_family:
+  - entertainment
+  - entertainer
+word_family_details:
+  - word: entertainment
+    en: amusement or a performance provided for enjoyment
+    zh: 娱乐；表演
+  - word: entertainer
+    en: a person whose work is to amuse an audience
+    zh: 演艺人员
+confusables:
+  []
+examples:
+  []
+why_confusing: 

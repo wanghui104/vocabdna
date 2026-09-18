@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: insist
+word: insist
+pos: verb
+zh: 坚持认为；坚决主张
+en: Means 坚持认为；坚决主张; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: sist
+    form: sist
+    meaning_in_word: 站立；放置
+    zh: 站立；放置
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:sist.
+    related_morphemes:
+      - sta
+word_family:
+  - insistence
+word_family_details:
+  - word: insistence
+    en: Means 坚持; reviewed from the TOEFL source gloss for learner display.
+    zh: 坚持
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

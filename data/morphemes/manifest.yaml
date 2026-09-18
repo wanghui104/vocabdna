@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: manifest
+display: manifest
+type: root
+core_meaning: manifest
+zh: manifest
+origin: English
+source_form: English manifest
+source_meaning: manifest
+source_meaning_zh: manifest
+related_morphemes:
+  []
+senses:
+  - meaning: manifest
+    zh: manifest
+    examples:
+      - manifestation
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - manifest -> manifestation
+high_value_words:
+  - manifestation
+confusable_words:
+  []

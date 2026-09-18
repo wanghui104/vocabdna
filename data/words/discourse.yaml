@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discourse
+word: discourse
+pos: noun
+zh: 讲道；演讲；论述
+en: formal speech, writing, or discussion on a subject
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: about, to and fro
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: curs
+    form: course
+    meaning_in_word: run, course
+    zh: 跑；路线
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: discourse 比 speech 更偏正式论述。

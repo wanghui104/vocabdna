@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: drastic
+word: drastic
+pos: adjective
+zh: 激烈的；严厉的；幅度很大的
+en: extreme or severe in effect or action
+components:
+  - morpheme: drast
+    form: drast
+    meaning_in_word: acting, effective / 行动；有强烈效果
+    zh: 行动；有强烈效果
+    role: root
+    is_core: true
+    note: drast- 来自 dra- 做 + 历史施事 -tes（含 s 扩展），与 drama 同源，非英语 dra + st。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

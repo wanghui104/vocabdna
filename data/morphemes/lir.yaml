@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lir
+display: lir
+type: root
+core_meaning: wander from reason
+zh: 精神错乱；偏离理智
+origin: Latin
+source_form: Latin lira / delirare
+source_meaning: furrow; go out of the furrow
+source_meaning_zh: 犁沟；离开犁沟
+related_morphemes:
+  []
+senses:
+  - meaning: wander from reason
+    zh: 精神错乱；偏离理智
+    examples:
+      - delirium
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - lir -> delirium
+high_value_words:
+  - delirium
+confusable_words:
+  []

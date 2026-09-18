@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: circulation
+word: circulation
+pos: noun
+zh: 循环；流通
+en: movement through a system or among people
+components:
+  - morpheme: circ
+    form: circul
+    meaning_in_word: circle
+    zh: 圆；周围
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: process
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - circulate
+word_family_details:
+  - word: circulate
+    en: to move around continuously or spread among people
+    zh: 循环；传播；流通
+confusables:
+  []
+examples:
+  []
+why_confusing: blood circulation/newspaper circulation 含义不同。

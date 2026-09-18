@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mens
+display: mens
+type: root
+core_meaning: measure
+zh: 测量；尺度
+origin: Latin
+source_form: Latin metiri / mensus
+source_meaning: measure
+source_meaning_zh: 测量
+related_morphemes:
+  []
+senses:
+  - meaning: measure
+    zh: 测量；尺度
+    examples:
+      - dimension
+      - dimensional
+      - immense
+      - two/three dimensional
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - mens -> dimension
+  - mens -> dimensional
+  - mens -> immense
+  - mens -> two/three dimensional
+high_value_words:
+  - dimension
+  - dimensional
+  - immense
+  - two/three dimensional
+confusable_words:
+  []

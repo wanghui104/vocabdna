@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: transparent
+word: transparent
+pos: adjective
+zh: 透明的
+en: Means 透明的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: trans
+    form: trans-
+    meaning_in_word: across; through / 穿过；转移
+    zh: 横越、穿过、转移
+    role: prefix
+    is_core: false
+  - morpheme: par
+    form: par
+    meaning_in_word: appear; show / 显现；透明
+    zh: 比较；相当
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having quality / 具有…性质
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

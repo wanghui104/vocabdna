@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: halt
+display: halt
+type: root
+core_meaning: draft meaning for halt
+zh: （使）停止
+origin: Unknown
+source_form: TOEFL draft opaque stem: halt
+source_meaning: draft learner stem for halt
+source_meaning_zh: （使）停止
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for halt
+    zh: （使）停止
+    examples:
+      - halt
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - halt -> halt
+high_value_words:
+  - halt
+confusable_words:
+  []

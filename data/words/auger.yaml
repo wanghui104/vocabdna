@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: auger
+word: auger
+pos: noun
+zh: 螺丝钻；钻孔机
+en: a tool or machine used for boring holes
+components:
+  - morpheme: auger
+    form: auger
+    meaning_in_word: boring tool
+    zh: 钻孔工具
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: augment
+    reason: auger 钻具；augment 增加。
+    zh_reason: auger 钻具；augment 增加。
+examples:
+  []
+why_confusing: auger 钻具；augment 增加。

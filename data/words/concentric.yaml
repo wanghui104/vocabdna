@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: concentric
+word: concentric
+pos: adjective
+zh: 同心的
+en: having the same center
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: center
+    form: centr
+    meaning_in_word: center
+    zh: 中心
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: related to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: concentric circles/rings 常见。

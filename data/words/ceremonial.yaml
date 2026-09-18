@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ceremonial
+word: ceremonial
+pos: noun/adjective
+zh: 仪式；正式的；仪式的
+en: related to formal ceremonies, or a formal ritual
+components:
+  - morpheme: ceremony
+    form: ceremon
+    meaning_in_word: rite
+    zh: 仪式；礼节
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ial
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - ceremony
+word_family_details:
+  - word: ceremony
+    en: a formal public or religious event
+    zh: 典礼；仪式；礼节
+confusables:
+  []
+examples:
+  []
+why_confusing: ceremonial role/dress/duty 常见。

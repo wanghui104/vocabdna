@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vey
+display: vey
+type: root
+core_meaning: see; view
+zh: 看；调查
+origin: Latin/French
+source_form: vey
+source_meaning: see; view
+source_meaning_zh: 看；调查
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: see; view
+    zh: 看；调查
+    examples:
+      - survey
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - vey -> survey
+high_value_words:
+  - survey
+confusable_words:
+  []

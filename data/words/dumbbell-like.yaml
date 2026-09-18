@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dumbbell-like
+word: dumbbell-like
+pos: adjective
+zh: 哑铃状的
+en: shaped like a short bar with a weight or swelling at each end
+components:
+  - morpheme: dumb
+    form: dumb
+    meaning_in_word: unable or unwilling to speak / 不能或不愿说话
+    zh: 不能或不愿说话
+    role: root
+    is_core: true
+    note: 本族简单词，b 不发音；现代指人不能说话时可能冒犯，释义标注用法。
+  - morpheme: bell
+    form: bell
+    meaning_in_word: bell / 钟；铃
+    zh: 钟；铃
+    role: root
+    is_core: true
+    note: dumbbell 原指不发声的练习铃，不是“愚蠢的铃”。
+  - morpheme: like
+    form: like
+    meaning_in_word: similar, same form / 相似；同样
+    zh: 相似；同样
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

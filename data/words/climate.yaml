@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: climate
+word: climate
+pos: noun
+zh: 气候；社会风气或趋势
+en: the usual weather of a place, or the general mood of a situation
+components:
+  - morpheme: climate
+    form: climate
+    meaning_in_word: region/weather
+    zh: 气候；风气
+    role: root
+    is_core: true
+word_family:
+  - climatic
+word_family_details:
+  - word: climatic
+    en: related to climate
+    zh: 气候上的
+confusables:
+  []
+examples:
+  []
+why_confusing: political/economic climate 是社会风气/形势。

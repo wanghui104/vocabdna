@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deceive
+word: deceive
+pos: verb
+zh: 欺骗；行骗
+en: to make someone believe something false
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away, wrong
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: ceive
+    meaning_in_word: take
+    zh: 拿；抓；容纳
+    role: root
+    is_core: true
+    note: from Latin decipere, de- + capere
+word_family:
+  - deceptive
+  - deception
+word_family_details:
+  - word: deceptive
+    en: likely to make someone believe something false
+    zh: 欺骗的；导致误解的
+  - word: deception
+    en: the act of deceiving or a trick that deceives
+    zh: 欺骗；诡计
+confusables:
+  []
+examples:
+  []
+why_confusing: deceive 强调让人相信错误信息。

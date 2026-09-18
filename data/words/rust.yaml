@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rust
+word: rust
+pos: noun
+zh: 锈，生锈；（植物）患锈病
+en: Means 锈，生锈；（植物）患锈病; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rust
+    form: rust
+    meaning_in_word: rust / 锈
+    zh: 锈
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  - rustic
+word_family_details:
+  - word: rustic
+    en: Means 乡村的，乡下风格的; reviewed from the TOEFL source gloss for learner display.
+    zh: 乡村的，乡下风格的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

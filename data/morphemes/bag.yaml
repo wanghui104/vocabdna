@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bag
+display: bag
+type: root
+core_meaning: bag, baggage
+zh: 包；行李
+origin: Mixed
+source_form: Old French bagage, related to bag/baggi
+source_meaning: pack, bundle
+source_meaning_zh: 包裹；行李
+related_morphemes:
+  []
+senses:
+  - meaning: bag, baggage
+    zh: 包；行李
+    examples:
+      - baggage
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bagg -> baggage
+high_value_words:
+  - baggage
+confusable_words:
+  []

@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: formula
+word: formula
+pos: noun
+zh: 公式
+en: a rule expressed with symbols
+components:
+  - morpheme: form
+    form: form
+    meaning_in_word: form, shape / 形式；符合
+    zh: 形式；符合
+    role: root
+    is_core: true
+  - morpheme: ul
+    form: -ula
+    meaning_in_word: small, little / 小的；小型的
+    zh: 小的；小型的
+    role: suffix
+    is_core: false
+    note: formula 的 -ula 是小称词尾；不是 unit 的缩写。
+word_family:
+  - formulate
+  - formulation
+word_family_details:
+  - word: formulate
+    en: to develop and express a plan, theory, or statement precisely
+    zh: 制定；系统阐述
+  - word: formulation
+    en: the development or precise expression of a plan or idea
+    zh: 制定；系统阐述
+confusables:
+  []
+examples:
+  []
+why_confusing: 

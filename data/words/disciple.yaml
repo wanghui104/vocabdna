@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disciple
+word: disciple
+pos: noun
+zh: 门徒；弟子
+en: a follower or student of a teacher or belief
+components:
+  - morpheme: discip
+    form: disciple
+    meaning_in_word: learner, instruction, ordered training / 学生；教学；训练纪律
+    zh: 学生；教学；训练纪律
+    role: root
+    is_core: true
+    note: 表层 disciple/disciplin-；Latin disciplina 教导关联 discipulus 学生。更深常说 discere 学习，也有 dis- + capere 的历史提议，但并无可靠定论；不造确定的 discip = dis + cip。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: disciple 强调追随某教师或教义。

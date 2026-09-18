@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fluffy
+word: fluffy
+pos: adjective
+zh: 蓬松的；绒毛状的
+en: soft, light, and covered with or resembling fluff
+components:
+  - morpheme: fluff
+    form: fluff
+    meaning_in_word: soft loose fibers / 绒毛
+    zh: 绒毛
+    role: root
+    is_core: true
+    note: 更深形成不确定；fluffy = fluff + -y，不凭外形关联流动根。
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of, state / 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  - fluff
+word_family_details:
+  - word: fluff
+    en: soft loose fibers
+    zh: 绒毛；绒屑
+confusables:
+  []
+examples:
+  []
+why_confusing: 

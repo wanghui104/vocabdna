@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: debt
+display: debt
+type: root
+core_meaning: debt, owe
+zh: 债务；欠
+origin: Latin
+source_form: Latin debitum / debere
+source_meaning: thing owed; owe
+source_meaning_zh: 所欠之物；欠债
+source_note: 表层 debt；Latin debitum 所欠之物 ← debere 欠 = de- 离开 + habere 持有。深层意象是扣留别人应有之物；字母 b 是后期恢复的词源拼写，现代不发音。
+related_morphemes:
+  - de
+senses:
+  - meaning: debt, owe
+    zh: 债务；欠
+    examples:
+      - debt
+      - debtor
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - debt -> debt
+  - debt -> debtor
+high_value_words:
+  - debt
+  - debtor
+confusable_words:
+  []

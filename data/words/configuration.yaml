@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: configuration
+word: configuration
+pos: noun
+zh: 构型；轮廓；配置
+en: the arrangement, shape, or setup of parts
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: figur
+    form: figur
+    meaning_in_word: shape
+    zh: 形状；构型
+    role: root
+    is_core: true
+    related_morphemes:
+      - fict
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: result/process
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: computer/system configuration 指配置。

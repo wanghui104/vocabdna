@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elbow
+display: elbow
+type: root
+core_meaning: elbow
+zh: 肘
+origin: Old English
+source_form: Old English elnboga
+source_meaning: arm-bow, elbow
+source_meaning_zh: 臂弯；肘
+related_morphemes:
+  []
+senses:
+  - meaning: elbow
+    zh: 肘
+    examples:
+      - elbow
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - elbow -> elbow
+high_value_words:
+  - elbow
+confusable_words:
+  []

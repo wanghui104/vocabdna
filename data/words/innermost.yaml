@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: innermost
+word: innermost
+pos: adjective
+zh: 最里面的；内心的，秘密的
+en: Means 最里面的；内心的，秘密的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: inner
+    form: inner
+    meaning_in_word: 内部
+    zh: 内部
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:inner.
+  - morpheme: most
+    form: most
+    meaning_in_word: 最多；最
+    zh: 最多；最
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:most.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

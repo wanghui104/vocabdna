@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: entrench
+word: entrench
+pos: verb
+zh: 使牢固确立；挖壕防守
+en: to establish firmly or surround with defensive trenches
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: trench
+    form: trench
+    meaning_in_word: cut, ditch / 切；沟壕
+    zh: 切；沟壕
+    role: root
+    is_core: true
+    note: entrenched 从置于壕沟到牢固确立；trenchier 的更深来源未定。
+word_family:
+  - entrenched
+word_family_details:
+  - word: entrenched
+    en: Means （权利、传统）确立的，牢固的; reviewed from the TOEFL source gloss for learner display.
+    zh: （权利、传统）确立的，牢固的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

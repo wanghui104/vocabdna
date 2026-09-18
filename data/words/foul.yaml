@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foul
+word: foul
+pos: adjective/verb/noun
+zh: 污秽的；恶臭的
+en: very dirty or offensive
+components:
+  - morpheme: foul
+    form: foul
+    meaning_in_word: rotten, dirty / 腐败；污秽
+    zh: 腐败；污秽
+    role: root
+    is_core: true
+    note: 本族简单形容词；不是后缀 -ful。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

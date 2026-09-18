@@ -15,56 +15,494 @@ senses:
   - meaning: with, together
     zh: 共同、一起、加强
     examples:
-      - conceivable
-      - conceive
-      - conception
-      - construct
-      - convert
-      - conduct
-      - compete
-      - competition
-      - competitive
-      - competitor
       - accomplish
       - accomplished
       - accomplishment
+      - competitive
+      - competitor
+      - concave
+      - conceal
+      - concede
+      - conceivable
+      - conceive
+      - concentric
+      - concept
+      - conception
+      - conceptual
+      - concert
+      - concerted
+      - concise
+      - conciseness
+      - conclude
+      - conclusive
+      - concomitant
+      - concrete
+      - concurrent
+      - condemn
+      - condemnation
+      - condensation
+      - condense
+      - condenser
+      - condition
+      - conduct
+      - conduction
+      - conductivity
+      - conductor
+      - confederacy
+      - confederate
       - confer
       - conference
+      - confess
+      - confession
+      - confide
+      - confidence
+      - confident
+      - configuration
+      - confine
+      - confinement
+      - confining
+      - confirm
+      - confirmation
+      - conflict
+      - conflicting
+      - confluence
+      - conform
+      - conformity
+      - confront
+      - confuse
+      - confused
+      - confusing
+      - confusion
+      - congenial
+      - congenital
+      - congested
+      - congestion
+      - conglomerate
+      - congratulation
+      - congregate
+      - congress
+      - congressional
+      - conjectural
+      - conjecture
+      - connect
+      - connection
+      - conscience
+      - conscientious
+      - conscious
+      - consecutive
+      - consequence
+      - consequent
+      - conservation
+      - conservative
+      - conserve
+      - consider
+      - consist
+      - consistency
+      - consistent
+      - consonant
+      - consort
+      - consortium
+      - conspicuous
+      - conspiracy
+      - constant
+      - constellation
+      - consternation
+      - constituent
+      - constitute
+      - constitution
+      - constrain
+      - constraint
+      - constrict
+      - constricted
+      - construct
+      - construction
+      - consult
+      - consultant
+      - consume
+      - consumption
+      - contact
+      - contagious
+      - contain
+      - contaminate
+      - contamination
+      - contemplate
+      - contemporary
+      - contend
+      - contender
+      - content
+      - contention
+      - context
+      - contiguous
+      - continent
+      - contingency
+      - contingent
+      - contingently
+      - continue
+      - contour
+      - contract
+      - contraction
+      - contribute to
+      - convenience
+      - convenient
+      - convention
+      - converge
+      - conversant
+      - conversation
+      - converse
+      - conversion
+      - convert
+      - convex
+      - convict
+      - conviction
+      - convince
+      - convivial
+      - cooperate
+      - cooperation
+      - cooperative
+      - coordinate
+      - coordinated
+      - coordination
+      - correlate
+      - correlated
+      - corrosion
+      - corrosive
+      - corruption
+      - discontent
+      - discontented
+      - inconclusive
+      - incongruity
+      - incongruous
+      - interconnected
+      - interconnecting
+      - misconception
+      - unconventional
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - con- -> conceivable
-  - con- -> conceive
-  - con- -> conception
-  - con- -> construct
-  - con- -> convert
-  - con- -> conduct
-  - com- -> compete
-  - com- -> competition
-  - com- -> competitive
-  - com- -> competitor
   - com- -> accomplish
   - com- -> accomplished
   - com- -> accomplishment
+  - com- -> competitive
+  - com- -> competitor
+  - con- -> concave
+  - con- -> conceal
+  - con- -> concede
+  - con- -> conceivable
+  - con- -> conceive
+  - con- -> concentric
+  - con- -> concept
+  - con- -> conception
+  - con- -> conceptual
+  - con- -> concert
+  - con- -> concerted
+  - con- -> concise
+  - con- -> conciseness
+  - con- -> conclude
+  - con- -> conclusive
+  - con- -> concomitant
+  - con- -> concrete
+  - con- -> concurrent
+  - con- -> condemn
+  - con- -> condemnation
+  - con- -> condensation
+  - con- -> condense
+  - con- -> condenser
+  - con- -> condition
+  - con- -> conduct
+  - con- -> conduction
+  - con- -> conductivity
+  - con- -> conductor
+  - con- -> confederacy
+  - con- -> confederate
   - con- -> confer
   - con- -> conference
+  - con- -> confess
+  - con- -> confession
+  - con- -> confide
+  - con- -> confidence
+  - con- -> confident
+  - con- -> configuration
+  - con- -> confine
+  - con- -> confinement
+  - con- -> confining
+  - con- -> confirm
+  - con- -> confirmation
+  - con- -> conflict
+  - con- -> conflicting
+  - con- -> confluence
+  - con- -> conform
+  - con- -> conformity
+  - con- -> confront
+  - con- -> confuse
+  - con- -> confused
+  - con- -> confusing
+  - con- -> confusion
+  - con- -> congenial
+  - con- -> congenital
+  - con- -> congested
+  - con- -> congestion
+  - con- -> conglomerate
+  - con- -> congratulation
+  - con- -> congregate
+  - con- -> congress
+  - con- -> congressional
+  - con- -> conjectural
+  - con- -> conjecture
+  - con- -> connect
+  - con- -> connection
+  - con- -> conscience
+  - con- -> conscientious
+  - con- -> conscious
+  - con- -> consecutive
+  - con -> consequence
+  - con- -> consequent
+  - con- -> conservation
+  - con- -> conservative
+  - con- -> conserve
+  - con- -> consider
+  - con- -> consist
+  - con- -> consistency
+  - con- -> consistent
+  - con- -> consonant
+  - con- -> consort
+  - con- -> consortium
+  - con- -> conspicuous
+  - con- -> conspiracy
+  - con- -> constant
+  - con- -> constellation
+  - con- -> consternation
+  - con- -> constituent
+  - con- -> constitute
+  - con- -> constitution
+  - con- -> constrain
+  - con- -> constraint
+  - con- -> constrict
+  - con- -> constricted
+  - con- -> construct
+  - con- -> construction
+  - con- -> consult
+  - con- -> consultant
+  - con- -> consume
+  - con- -> consumption
+  - con- -> contact
+  - con- -> contagious
+  - con- -> contain
+  - con- -> contaminate
+  - con- -> contamination
+  - con- -> contemplate
+  - con- -> contemporary
+  - con- -> contend
+  - con- -> contender
+  - con- -> content
+  - con- -> contention
+  - con- -> context
+  - con- -> contiguous
+  - con- -> continent
+  - con- -> contingency
+  - con- -> contingent
+  - con- -> contingently
+  - con- -> continue
+  - con- -> contour
+  - con- -> contract
+  - con- -> contraction
+  - con- -> contribute to
+  - con- -> convenience
+  - con- -> convenient
+  - con- -> convention
+  - con- -> converge
+  - con- -> conversant
+  - con- -> conversation
+  - con -> converse
+  - con -> conversion
+  - con- -> convert
+  - con- -> convex
+  - con- -> convict
+  - con- -> conviction
+  - con- -> convince
+  - con- -> convivial
+  - co- -> cooperate
+  - co- -> cooperation
+  - co- -> cooperative
+  - co- -> coordinate
+  - co- -> coordinated
+  - co- -> coordination
+  - cor- -> correlate
+  - cor- -> correlated
+  - cor- -> corrosion
+  - cor- -> corrosive
+  - cor- -> corruption
+  - con- -> discontent
+  - con- -> discontented
+  - con- -> inconclusive
+  - con- -> incongruity
+  - con- -> incongruous
+  - con- -> interconnected
+  - con- -> interconnecting
+  - con- -> misconception
+  - con- -> unconventional
 high_value_words:
-  - conceivable
-  - conceive
-  - conception
-  - construct
-  - convert
-  - conduct
-  - compete
-  - competition
-  - competitive
-  - competitor
   - accomplish
   - accomplished
   - accomplishment
+  - competitive
+  - competitor
+  - concave
+  - conceal
+  - concede
+  - conceivable
+  - conceive
+  - concentric
+  - concept
+  - conception
+  - conceptual
+  - concert
+  - concerted
+  - concise
+  - conciseness
+  - conclude
+  - conclusive
+  - concomitant
+  - concrete
+  - concurrent
+  - condemn
+  - condemnation
+  - condensation
+  - condense
+  - condenser
+  - condition
+  - conduct
+  - conduction
+  - conductivity
+  - conductor
+  - confederacy
+  - confederate
   - confer
   - conference
+  - confess
+  - confession
+  - confide
+  - confidence
+  - confident
+  - configuration
+  - confine
+  - confinement
+  - confining
+  - confirm
+  - confirmation
+  - conflict
+  - conflicting
+  - confluence
+  - conform
+  - conformity
+  - confront
+  - confuse
+  - confused
+  - confusing
+  - confusion
+  - congenial
+  - congenital
+  - congested
+  - congestion
+  - conglomerate
+  - congratulation
+  - congregate
+  - congress
+  - congressional
+  - conjectural
+  - conjecture
+  - connect
+  - connection
+  - conscience
+  - conscientious
+  - conscious
+  - consecutive
+  - consequence
+  - consequent
+  - conservation
+  - conservative
+  - conserve
+  - consider
+  - consist
+  - consistency
+  - consistent
+  - consonant
+  - consort
+  - consortium
+  - conspicuous
+  - conspiracy
+  - constant
+  - constellation
+  - consternation
+  - constituent
+  - constitute
+  - constitution
+  - constrain
+  - constraint
+  - constrict
+  - constricted
+  - construct
+  - construction
+  - consult
+  - consultant
+  - consume
+  - consumption
+  - contact
+  - contagious
+  - contain
+  - contaminate
+  - contamination
+  - contemplate
+  - contemporary
+  - contend
+  - contender
+  - content
+  - contention
+  - context
+  - contiguous
+  - continent
+  - contingency
+  - contingent
+  - contingently
+  - continue
+  - contour
+  - contract
+  - contraction
+  - contribute to
+  - convenience
+  - convenient
+  - convention
+  - converge
+  - conversant
+  - conversation
+  - converse
+  - conversion
+  - convert
+  - convex
+  - convict
+  - conviction
+  - convince
+  - convivial
+  - cooperate
+  - cooperation
+  - cooperative
+  - coordinate
+  - coordinated
+  - coordination
+  - correlate
+  - correlated
+  - corrosion
+  - corrosive
+  - corruption
+  - discontent
+  - discontented
+  - inconclusive
+  - incongruity
+  - incongruous
+  - interconnected
+  - interconnecting
+  - misconception
+  - unconventional
 confusable_words:
   []

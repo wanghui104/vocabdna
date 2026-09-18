@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: committed
+word: committed
+pos: adjective
+zh: 效忠的；忠于…的
+en: dedicated and loyal to a cause or relationship
+components:
+  - morpheme: miss
+    form: commit
+    meaning_in_word: pledge
+    zh: 委托；提交；承担
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having been
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - commit
+  - commitment
+word_family_details:
+  - word: commit
+    en: to do something wrong, or pledge yourself to something
+    zh: 犯错；干坏事；承诺；投入
+  - word: commitment
+    en: a promise, obligation, or dedication to something
+    zh: 信奉；支持；许诺；承担义务
+confusables:
+  []
+examples:
+  []
+why_confusing: committed to doing sth。

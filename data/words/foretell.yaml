@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foretell
+word: foretell
+pos: verb
+zh: 预言；预测
+en: to say what will happen in the future
+components:
+  - morpheme: fore
+    form: fore-
+    meaning_in_word: before, ancestor / 在前；祖先
+    zh: 在前；祖先
+    role: prefix
+    is_core: false
+  - morpheme: tell
+    form: tell
+    meaning_in_word: count, relate / 数；讲述
+    zh: 数；讲述
+    role: root
+    is_core: true
+    note: foretell = fore + tell 提前讲述。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

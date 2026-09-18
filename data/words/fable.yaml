@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fable
+word: fable
+pos: noun
+zh: 寓言；虚构的故事
+en: a short story teaching a lesson, often with animal characters; an invented tale
+components:
+  - morpheme: fable
+    form: fable
+    meaning_in_word: story, speak / 故事；说
+    zh: 故事；说
+    role: root
+    is_core: true
+    note: fabula 为 fari 说的名词派生，含历史 -bula 构词层；不是 f- + able 能够。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

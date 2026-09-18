@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rainbow
+word: rainbow
+pos: noun
+zh: 彩虹
+en: an arch of colors in the sky caused by sunlight and rain
+components:
+  - morpheme: rain
+    form: rain
+    meaning_in_word: rain
+    zh: 雨
+    role: root
+    is_core: true
+  - morpheme: bow-arch
+    form: bow
+    meaning_in_word: arch
+    zh: 弓；弓形
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: rainbow 是复合词，和 bowl 无关。

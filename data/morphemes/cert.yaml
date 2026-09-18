@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cert
+display: cert
+type: root
+core_meaning: act together, agree
+zh: 一致；协同
+origin: Latin
+source_form: Latin concertare
+source_meaning: contend, agree together
+source_meaning_zh: 竞争；协同商定
+related_morphemes:
+  []
+senses:
+  - meaning: act together, agree
+    zh: 一致；协同
+    examples:
+      - concert
+      - concerted
+      - concerto
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cert -> concert
+  - cert -> concerted
+  - concert -> concerto
+high_value_words:
+  - concert
+  - concerted
+  - concerto
+confusable_words:
+  []

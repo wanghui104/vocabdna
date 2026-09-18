@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mistrustful-of
+word: mistrustful of
+pos: noun
+zh: 不相信，怀疑
+en: Means 不相信，怀疑; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mis
+    form: mis-
+    meaning_in_word: 错误地；不当地
+    zh: 错误地；不当地
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:mis.
+  - morpheme: trust
+    form: trust
+    meaning_in_word: 信任
+    zh: 信任
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:trust.
+  - morpheme: ful
+    form: -ful
+    meaning_in_word: 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ful.
+  - morpheme: of
+    form: of
+    meaning_in_word: 属于；关于
+    zh: 属于；关于
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:of.
+word_family:
+  - mistrust
+word_family_details:
+  - word: mistrust
+    en: Means 不信任，不相信，怀疑; reviewed from the TOEFL source gloss for learner display.
+    zh: 不信任，不相信，怀疑
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

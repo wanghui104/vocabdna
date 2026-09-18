@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crevice
+word: crevice
+pos: noun
+zh: 裂缝；缺口
+en: a narrow crack or opening, especially in rock or a surface
+components:
+  - morpheme: crev
+    form: crevice
+    meaning_in_word: crack, split / 裂缝；缺口
+    zh: 裂缝；缺口
+    role: root
+    is_core: true
+    note: 表层 crevice；Old French crevace 来自 crever 裂开，历史词干 crev-，名词结尾 -ace 演变为 -ice；此 -ice 不作为现代通用后缀。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于 rock crevice, wall crevice。

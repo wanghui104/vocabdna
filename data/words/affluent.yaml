@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: affluent
+word: affluent
+pos: adjective
+zh: 富有的；丰富的
+en: having a lot of money, resources, or abundance
+components:
+  - morpheme: ad
+    form: af-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: flu
+    form: flu
+    meaning_in_word: flow
+    zh: 流动
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having the quality of
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: Affluent neighborhoods often have more services.
+    zh: 富裕社区通常拥有更多服务。
+why_confusing: affluent 常指富裕人群或地区；fluent 是说话流利。

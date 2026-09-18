@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: extraordinary
+word: extraordinary
+pos: adjective
+zh: 非凡的；异乎寻常的
+en: very unusual or remarkable
+components:
+  - morpheme: extra
+    form: extra-
+    meaning_in_word: outside, beyond / 外部；超出
+    zh: 外部；超出
+    role: prefix
+    is_core: false
+    note: extra 来自 exterus 外部的方位形式，深层 ex 出；extraordinary 为超出常规。
+    related_morphemes:
+      - exter
+  - morpheme: ordin
+    form: ordin
+    meaning_in_word: order, arrangement / 次序；安排
+    zh: 次序；安排
+    role: root
+    is_core: true
+    note: ordinary 为 ordin- + -ary；extraordinary 外层 extra- 超出 + ordinary。
+  - morpheme: ary
+    form: -ary
+    meaning_in_word: relating to / 与……有关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

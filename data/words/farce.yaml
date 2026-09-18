@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: farce
+word: farce
+pos: noun
+zh: 闹剧；荒唐的事情
+en: a comic play using absurd situations; a ridiculous or ineffective proceeding
+components:
+  - morpheme: farce
+    form: farce
+    meaning_in_word: stuff / 填塞
+    zh: 填塞
+    role: root
+    is_core: true
+    note: 从插入剧中的滑稽片段到闹剧；深层 farcire 填塞，更深来源不确定。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

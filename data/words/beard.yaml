@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: beard
+word: beard
+pos: noun
+zh: 胡须
+en: hair that grows on a man's chin and cheeks
+components:
+  - morpheme: beard
+    form: beard
+    meaning_in_word: facial hair
+    zh: 胡须
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: barber/barb 来自 Latin barba，beard 是 Germanic，本批不强连。

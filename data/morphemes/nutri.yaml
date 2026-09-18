@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nutri
+display: nutri
+type: root
+core_meaning: nourish
+zh: 滋养
+origin: Latin
+source_form: Latin nutrire
+source_meaning: nourish
+source_meaning_zh: 滋养
+related_morphemes:
+  []
+senses:
+  - meaning: nourish
+    zh: 滋养
+    examples:
+      - malnutrition
+      - nutrient
+      - nutritional
+      - nutritious
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - nutri -> malnutrition
+  - nutri -> nutrient
+  - nutri -> nutritional
+  - nutri -> nutritious
+high_value_words:
+  - malnutrition
+  - nutrient
+  - nutritional
+  - nutritious
+confusable_words:
+  []

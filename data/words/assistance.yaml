@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assistance
+word: assistance
+pos: noun
+zh: 协助；援助
+en: help or support
+components:
+  - morpheme: ad
+    form: as-
+    meaning_in_word: to, beside
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: sist
+    form: sist
+    meaning_in_word: stand, help
+    zh: 站立；放置
+    role: root
+    is_core: true
+    related_morphemes:
+      - sta
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: act or state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - assist
+  - assistant
+  - assistantship
+word_family_details:
+  - word: assist
+    en: to help someone do something
+    zh: 援助；帮助
+  - word: assistant
+    en: a person who helps, or a role that helps another position
+    zh: 助手；助教；辅助的
+  - word: assistantship
+    en: a position or financial award for serving as an assistant, especially in graduate study
+    zh: 助教职位；研究生助教奖学金
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

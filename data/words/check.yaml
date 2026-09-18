@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: check
+word: check
+pos: verb/noun
+zh: 检查；核对；阻止；支票
+en: to examine, stop, or mark; also a bank payment order
+components:
+  - morpheme: check
+    form: check
+    meaning_in_word: stop, verify
+    zh: 检查；阻止；支票
+    role: root
+    is_core: true
+word_family:
+  - checkup
+  - checkout
+word_family_details:
+  - word: checkup
+    en: a general examination, especially by a doctor
+    zh: 审查；身体检查
+  - word: checkout
+    en: the place or process of paying, leaving, or checking something out
+    zh: 检验；校验；结账处
+confusables:
+  []
+examples:
+  []
+why_confusing: 美式 check 可指支票；英式常写 cheque。

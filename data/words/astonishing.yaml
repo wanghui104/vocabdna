@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: astonishing
+word: astonishing
+pos: adjective
+zh: 惊人的；令人惊讶的
+en: very surprising
+components:
+  - morpheme: ton
+    form: astonish
+    meaning_in_word: surprise greatly
+    zh: 雷鸣；震惊
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: causing
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - astonish
+  - astonished
+word_family_details:
+  - word: astonish
+    en: to surprise someone very greatly
+    zh: 使惊讶
+  - word: astonished
+    en: very surprised
+    zh: 惊讶的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: navigate
+word: navigate
+pos: verb
+zh: 航行，航海；航空
+en: Means 航行，航海；航空; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: nav
+    form: nav
+    meaning_in_word: 船；航行
+    zh: 船；航行
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:nav.
+  - morpheme: ig
+    form: ig
+    meaning_in_word: ig
+    zh: ig
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ig.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ate.
+word_family:
+  - naval
+  - navigation
+word_family_details:
+  - word: naval
+    en: Means 海军的；军舰的; reviewed from the TOEFL source gloss for learner display.
+    zh: 海军的；军舰的
+  - word: navigation
+    en: Means 航海; reviewed from the TOEFL source gloss for learner display.
+    zh: 航海
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

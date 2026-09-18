@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: collide
+word: collide
+pos: verb
+zh: 碰撞；冲突
+en: to hit each other or conflict
+components:
+  - morpheme: com
+    form: col-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: lid
+    form: lide
+    meaning_in_word: strike
+    zh: 碰撞；冲突
+    role: root
+    is_core: true
+word_family:
+  - collision
+word_family_details:
+  - word: collision
+    en: an act of colliding or a serious disagreement
+    zh: 碰撞；冲突；抵触
+confusables:
+  []
+examples:
+  []
+why_confusing: ideas/interests can collide。

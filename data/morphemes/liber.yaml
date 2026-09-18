@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: liber
+display: liber
+type: root
+core_meaning: weigh, consider
+zh: 权衡；深思
+origin: Latin
+source_form: Latin libra / deliberare
+source_meaning: balance, weigh
+source_meaning_zh: 天平；权衡
+source_note: liber-/libr- 在这里来自 Latin libra 天平；deliberare = de- 充分 + librare 权衡。deliberate 的 -ate 是动词或分词形容词结尾；不是 liber 自由、书。
+related_morphemes:
+  []
+senses:
+  - meaning: weigh, consider
+    zh: 权衡；深思
+    examples:
+      - deliberate
+      - deliberately
+      - liberal
+      - liberally
+      - liberate
+      - liberty
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - liber -> deliberate
+  - liber -> deliberately
+  - liber -> liberal
+  - liber -> liberally
+  - liber -> liberate
+  - liber -> liberty
+high_value_words:
+  - deliberate
+  - deliberately
+  - liberal
+  - liberally
+  - liberate
+  - liberty
+confusable_words:
+  []

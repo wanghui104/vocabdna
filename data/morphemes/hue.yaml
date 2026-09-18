@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hue
+display: hue
+type: root
+core_meaning: draft meaning for hue
+zh: 颜色，色彩
+origin: Unknown
+source_form: TOEFL draft opaque stem: hue
+source_meaning: draft learner stem for hue
+source_meaning_zh: 颜色，色彩
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for hue
+    zh: 颜色，色彩
+    examples:
+      - hue
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - hue -> hue
+high_value_words:
+  - hue
+confusable_words:
+  []

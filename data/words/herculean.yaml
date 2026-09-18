@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: herculean
+word: herculean
+pos: adjective
+zh: 力大无比的, 巨大的
+en: Means 力大无比的, 巨大的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hercul
+    form: hercul
+    meaning_in_word: hercul
+    zh: 赫拉克勒斯
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hercul.
+  - morpheme: ean
+    form: -ean
+    meaning_in_word: ean
+    zh: ean
+    role: suffix
+    is_core: false
+    note: Suffix layer from English ean.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

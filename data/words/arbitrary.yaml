@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: arbitrary
+word: arbitrary
+pos: adjective
+zh: 专横的；武断的；任意的
+en: based on personal choice or power rather than reason, rule, or system
+components:
+  - morpheme: arbit
+    form: arbitr
+    meaning_in_word: judge, decide
+    zh: 裁判；凭判断决定
+    role: root
+    is_core: true
+  - morpheme: arium
+    form: -ary
+    meaning_in_word: relating to
+    zh: 场所；容器
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: arbitrary 可指任意的，也可带“武断/专横”贬义。

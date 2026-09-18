@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: circle
+word: circle
+pos: noun/verb
+zh: 圆；圈子；包围；环绕
+en: a round shape, group, or to move around something
+components:
+  - morpheme: circ
+    form: circle
+    meaning_in_word: small ring
+    zh: 圆；周围
+    role: root
+    is_core: true
+word_family:
+  - circular
+word_family_details:
+  - word: circular
+    en: round, moving in a circle, or sent to many people
+    zh: 循环的；圆的
+confusables:
+  []
+examples:
+  []
+why_confusing: circle of friends 指朋友圈。

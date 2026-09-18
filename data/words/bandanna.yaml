@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bandanna
+word: bandanna
+pos: noun
+zh: 印花大手帕；头巾
+en: a large colored handkerchief or scarf worn on the head or neck
+components:
+  - morpheme: band
+    form: band
+    meaning_in_word: bind, tie
+    zh: 带子；乐队；群体
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 也拼作 bandana。

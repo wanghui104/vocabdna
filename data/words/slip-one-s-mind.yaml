@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: slip-one-s-mind
+word: slip one's mind
+pos: phrase
+zh: 忘记
+en: Means 忘记; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: slip
+    form: slip
+    meaning_in_word: slip / 滑；片
+    zh: 滑；片
+    role: root
+    is_core: true
+  - morpheme: one
+    form: one
+    meaning_in_word: one / 一；某个
+    zh: 一个；单独
+    role: root
+    is_core: true
+  - morpheme: s
+    form: -s
+    meaning_in_word: s / s
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+  - morpheme: mind
+    form: mind
+    meaning_in_word: mind / 心；记忆
+    zh: 记忆；提醒
+    role: root
+    is_core: true
+word_family:
+  - slip
+  - slipper
+  - slippery
+word_family_details:
+  - word: slip
+    en: Means 片，纸片；滑倒；事故；滑动；滑倒; reviewed from the TOEFL source gloss for learner display.
+    zh: 片，纸片；滑倒；事故；滑动；滑倒
+  - word: slipper
+    en: Means 拖鞋; reviewed from the TOEFL source gloss for learner display.
+    zh: 拖鞋
+  - word: slippery
+    en: Means （物体表面）滑的，光滑的; reviewed from the TOEFL source gloss for learner display.
+    zh: （物体表面）滑的，光滑的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

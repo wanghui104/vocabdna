@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fundamental
+word: fundamental
+pos: adjective/noun
+zh: 根本的；基础的
+en: forming an essential base
+components:
+  - morpheme: fund
+    form: fund
+    meaning_in_word: bottom, establish / 底；建立基础
+    zh: 底；建立基础
+    role: root
+    is_core: true
+    note: fundamental = fund- + -ament- + -al；深层 fundamentum ← fundare 奠基（fundus 底 + 动词连接元音 a）+ -mentum 结果物。不是 fundere 倒出的 fus- 词族。
+  - morpheme: ment
+    form: -ament
+    meaning_in_word: result, state / 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - fundamentally
+word_family_details:
+  - word: fundamentally
+    en: in a basic or essential way
+    zh: 根本上；基本上
+confusables:
+  []
+examples:
+  []
+why_confusing: 

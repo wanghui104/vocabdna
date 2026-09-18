@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: undeserved
+word: undeserved
+pos: adjective
+zh: 不应得的；不该受的
+en: not deserved or not earned by one's actions
+components:
+  - morpheme: un
+    form: un-
+    meaning_in_word: not
+    zh: 不；相反
+    role: prefix
+    is_core: false
+  - morpheme: de
+    form: de-
+    meaning_in_word: fully
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: serve
+    form: serv
+    meaning_in_word: deserve
+    zh: 服务；应得
+    role: root
+    is_core: true
+    note: The final e of serve is dropped before -ed.
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: completed state
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - deserve
+word_family_details:
+  - word: deserve
+    en: to be worthy of receiving something, good or bad
+    zh: 应得；值得
+confusables:
+  []
+examples:
+  []
+why_confusing: undeserved criticism/praise 均可用。

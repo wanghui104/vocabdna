@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dissimilar
+word: dissimilar
+pos: adjective
+zh: 不同的；相异的
+en: not similar or alike
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: simil
+    form: simil
+    meaning_in_word: like, together / 相似；一起
+    zh: 相似
+    role: root
+    is_core: true
+  - morpheme: ar
+    form: -ar
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dissimilar 是形容词，常接 to/from。

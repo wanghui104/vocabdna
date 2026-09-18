@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lifer
+display: lifer
+type: root
+core_meaning: offspring; bear
+zh: 子代；生育
+origin: teaching morphology
+source_form: lifer
+source_meaning: offspring; bear
+source_meaning_zh: 子代；生育
+related_morphemes:
+  []
+senses:
+  - meaning: offspring; bear
+    zh: 子代；生育
+    examples:
+      - proliferate
+      - proliferation
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - lifer -> proliferate
+  - lifer -> proliferation
+high_value_words:
+  - proliferate
+  - proliferation
+confusable_words:
+  []

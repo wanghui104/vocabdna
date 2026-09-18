@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: defensive
+word: defensive
+pos: adjective
+zh: 自卫的；防御性的
+en: intended to protect, or quick to protect oneself from criticism
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: fend
+    form: fens
+    meaning_in_word: ward off
+    zh: 抵御；防护
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: tending to
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - defend
+  - defense
+word_family_details:
+  - word: defend
+    en: to protect from attack or speak in support of someone or something
+    zh: 防护；辩护
+  - word: defense
+    en: the act or means of protecting, or arguments supporting a position
+    zh: 防卫；防卫物；辩护
+confusables:
+  []
+examples:
+  []
+why_confusing: a defensive tone 可指说话带自我防卫。

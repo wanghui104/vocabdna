@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: latent
+word: latent
+pos: adjective
+zh: 潜伏的，隐藏的
+en: Means 潜伏的，隐藏的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lat
+    form: lat
+    meaning_in_word: 宽阔
+    zh: 宽阔
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lat.
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: ……的人；具有……性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ent.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

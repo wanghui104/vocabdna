@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: estimate
+word: estimate
+pos: verb/noun
+zh: 估计；估价
+en: to judge an approximate amount, value, or size
+components:
+  - morpheme: estim
+    form: estim
+    meaning_in_word: appraise, value / 估价
+    zh: 估价
+    role: root
+    is_core: true
+    note: estimate = estim- + -ate；aestimare 更深来源有争议，“铜 + 切”解释不确定，不写作确证。
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

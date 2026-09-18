@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flex
+display: flex
+type: root
+core_meaning: bend
+zh: 弯曲
+origin: Latin
+source_form: Latin flectere, flexus
+source_meaning: bend
+source_meaning_zh: 弯曲
+source_note: flex- 是分词词干；flexible = flex + -ible，flexibility = flex + -ibil- + -ity。
+related_morphemes:
+  []
+senses:
+  - meaning: bend
+    zh: 弯曲
+    examples:
+      - flexibility
+      - flexible
+      - flexibly
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - flex -> flexibility
+  - flex -> flexible
+  - flex -> flexibly
+high_value_words:
+  - flexibility
+  - flexible
+  - flexibly
+confusable_words:
+  []

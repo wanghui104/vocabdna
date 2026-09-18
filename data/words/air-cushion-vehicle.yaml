@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: air-cushion-vehicle
+word: air-cushion vehicle
+pos: phrase
+zh: 气垫船；气垫交通工具
+en: a vehicle supported by a cushion of air
+components:
+  - morpheme: air
+    form: air
+    meaning_in_word: air
+    zh: 空气
+    role: root
+    is_core: true
+    note: 表层 cushion；Old French coissin 座垫。更深层可能来自 Latin coxa 臀部，也有 culcita 床垫解释，尚不唯一；不强拆 cush- + -ion。 表层 vehicle；Latin vehiculum 运输工具 ← vehere 运载 + 工具名词结尾 -culum。短语 air-cushion vehicle 内保留 vehicle，但同时解释 veh- 运载与 -icle 历史工具结尾。
+  - morpheme: cushion
+    form: cushion
+    meaning_in_word: air cushion
+    zh: 软垫；缓冲
+    role: root
+    is_core: true
+  - morpheme: veh
+    form: vehicle
+    meaning_in_word: carrier
+    zh: 承载；交通工具
+    role: root
+    is_core: true
+    related_morphemes:
+      - cule
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 与 hovercraft 同义或近义，强调 air cushion 的结构。

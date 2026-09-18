@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ted
+display: ted
+type: root
+core_meaning: weary
+zh: 厌烦
+origin: Latin
+source_form: ted
+source_meaning: weary
+source_meaning_zh: 厌烦
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: weary
+    zh: 厌烦
+    examples:
+      - tedious
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ted -> tedious
+high_value_words:
+  - tedious
+confusable_words:
+  []

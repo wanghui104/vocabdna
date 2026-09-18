@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adobe
+word: adobe
+pos: noun
+zh: 泥砖；土坯
+en: a sun-dried brick made of clay or earth, or the material used to make it
+components:
+  - morpheme: adobe
+    form: adobe
+    meaning_in_word: sun-dried mud brick
+    zh: 土坯；泥砖
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The old house was built from adobe.
+    zh: 这栋老房子由土坯建成。
+why_confusing: Adobe 首字母大写时也可指公司名；这里是普通名词。

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: potentiality
+word: potentiality
+pos: noun
+zh: 潜能，潜力
+en: Means 潜能，潜力; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: potent
+    form: potent
+    meaning_in_word: power / 力量
+    zh: 力量
+    role: root
+    is_core: true
+  - morpheme: ial
+    form: ial
+    meaning_in_word: ial / ial
+    zh: 有关……的
+    role: root
+    is_core: true
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: state or quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - potential
+word_family_details:
+  - word: potential
+    en: Means 可能的；潜在的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可能的；潜在的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

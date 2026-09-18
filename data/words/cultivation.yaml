@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cultivation
+word: cultivation
+pos: noun
+zh: 耕种；培养
+en: the act or process of cultivating land, plants, skills, or qualities
+components:
+  - morpheme: cult
+    form: cultiv
+    meaning_in_word: cultivate, care
+    zh: 耕作；培养；文化
+    role: root
+    is_core: true
+    note: 表层 cult-/cultiv-；Latin colere 耕作、照料的分词 cultus 提供 cult-。culture = cult- + -ure；cultivate 的 cultiv- 来自 Medieval Latin cultivare，关联 Late Latin cultivus 耕作的，较深层 cult- + 形容词 -iv-。
+    related_morphemes:
+      - ive
+      - ure
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: process
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - cultivate
+word_family_details:
+  - word: cultivate
+    en: to prepare land for crops, or to develop something through care and effort
+    zh: 耕种；培养
+confusables:
+  []
+examples:
+  []
+why_confusing: 农业义和抽象培养义都常见。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fortify
+display: fortify
+type: root
+core_meaning: draft meaning for fortify
+zh: 加强，巩固
+origin: Unknown
+source_form: TOEFL draft opaque stem: fortify
+source_meaning: draft learner stem for fortify
+source_meaning_zh: 加强，巩固
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for fortify
+    zh: 加强，巩固
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

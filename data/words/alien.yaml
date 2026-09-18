@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: alien
+word: alien
+pos: adjective
+zh: 相异的；陌生的；外国的
+en: different from what is familiar or belonging to another place
+components:
+  - morpheme: al-other
+    form: ali
+    meaning_in_word: other, beyond
+    zh: 其他；另一边
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -en
+    meaning_in_word: having the nature of
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: alignment
+    reason: alien 可指外国的、陌生的，也可在科幻里指外星的。
+    zh_reason: alien 可指外国的、陌生的，也可在科幻里指外星的。
+examples:
+  []
+why_confusing: alien 可指外国的、陌生的，也可在科幻里指外星的。

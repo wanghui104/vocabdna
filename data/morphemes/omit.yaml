@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: omit
+display: omit
+type: root
+core_meaning: leave out
+zh: 省去；遗漏
+origin: teaching morphology
+source_form: omit
+source_meaning: leave out
+source_meaning_zh: 省去；遗漏
+related_morphemes:
+  []
+senses:
+  - meaning: leave out
+    zh: 省去；遗漏
+    examples:
+      - omit
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - omit -> omit
+high_value_words:
+  - omit
+confusable_words:
+  []

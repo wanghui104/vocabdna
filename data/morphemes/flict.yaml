@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flict
+display: flict
+type: root
+core_meaning: strike, dash
+zh: 打击；折磨
+origin: Latin
+source_form: Latin fligere, flictus
+source_meaning: strike, dash
+source_meaning_zh: 打击；撞击
+related_morphemes:
+  []
+senses:
+  - meaning: strike, dash
+    zh: 打击；折磨
+    examples:
+      - afflict
+      - affliction
+      - conflict
+      - conflicting
+      - inflict
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - flict -> afflict
+  - flict -> affliction
+  - flict -> conflict
+  - flict -> conflicting
+  - flict -> inflict
+high_value_words:
+  - afflict
+  - affliction
+  - conflict
+  - conflicting
+  - inflict
+confusable_words:
+  []

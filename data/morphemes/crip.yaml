@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crip
+display: crip
+type: root
+core_meaning: weaken, disable
+zh: 削弱；使残疾
+origin: Old English
+source_form: Old English crypel / cryppan
+source_meaning: one who creeps, bend
+source_meaning_zh: 爬行者；弯曲
+source_note: 表层 cripple，派生 crippl- + -ing；Old English crypel 与 creopan 爬行相关。不要把 crip- 后全部字母省掉或强接拉丁小称 -le。
+related_morphemes:
+  - creep
+senses:
+  - meaning: weaken, disable
+    zh: 削弱；使残疾
+    examples:
+      - cripple
+      - crippling
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cripple -> cripple
+  - crippl -> crippling
+high_value_words:
+  - cripple
+  - crippling
+confusable_words:
+  []

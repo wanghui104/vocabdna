@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ensemble
+display: ensemble
+type: root
+core_meaning: together
+zh: 一起
+origin: Latin
+source_form: French ensemble;  Late Latin insimul
+source_meaning: together
+source_meaning_zh: 一起
+source_note: 深层 in- 加强 + simul 同时，与 similis 相似相关；保留法语借词整体，不能按英语 seem 拆。
+related_morphemes:
+  []
+senses:
+  - meaning: together
+    zh: 一起
+    examples:
+      - ensemble
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ensemble -> ensemble
+high_value_words:
+  - ensemble
+confusable_words:
+  []

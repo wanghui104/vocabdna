@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coil
+word: coil
+pos: noun/verb
+zh: 一卷；线圈；盘绕；卷
+en: a loop or series of loops, or to wind into loops
+components:
+  - morpheme: coil
+    form: coil
+    meaning_in_word: wind together
+    zh: 卷；线圈
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: coil 可指线圈、蛇盘绕、弹簧圈。

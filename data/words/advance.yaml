@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: advance
+word: advance
+pos: verb/noun
+zh: 前进；提高；发展；提升
+en: to move forward, improve, or help something develop
+components:
+  - morpheme: ante-avant
+    form: advance
+    meaning_in_word: move forward
+    zh: 在前；向前
+    role: root
+    is_core: true
+    note: From Late Latin abante 'from before'; the d is unetymological.
+word_family:
+  - advancement
+  - advanced
+word_family_details:
+  - word: advancement
+    en: progress, improvement, or promotion to a higher position
+    zh: 进展；提升
+  - word: advanced
+    en: far ahead in development, difficulty, or age
+    zh: 高级的；先进的；年老的
+confusables:
+  []
+examples:
+  - en: New tools advance medical research.
+    zh: 新工具推动医学研究发展。
+  - en: The article advances a new theory.
+    zh: 这篇文章提出了一个新理论。
+  - en: They paid an advance before construction began.
+    zh: 施工开始前他们支付了预付款。
+why_confusing: in advance 表示预先；advance 也可作动词或名词。

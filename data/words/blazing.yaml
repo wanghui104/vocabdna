@@ -3,12 +3,12 @@ id: blazing
 word: blazing
 pos: adjective
 zh: 炽烧的；闪耀的
-en: burning fiercely or shining very brightly
+en: burning or shining very brightly
 components:
   - morpheme: blaze
-    form: blaz
-    meaning_in_word: flame or shine
-    zh: 火焰、闪耀
+    form: blaze
+    meaning_in_word: flame
+    zh: 燃烧；闪耀
     role: root
     is_core: true
   - morpheme: ing
@@ -18,14 +18,13 @@ components:
     role: suffix
     is_core: false
 word_family:
-  - ablaze
+  - blaze
 word_family_details:
-  - word: ablaze
-    en: burning, brightly lit, or shining strongly
-    zh: 着火的；闪耀的
+  - word: blaze
+    en: to burn or shine brightly, or a bright flame
+    zh: 燃烧；照耀；火焰
 confusables:
   []
 examples:
-  - en: They walked under the blazing sun.
-    zh: 他们走在烈日下。
-why_confusing: blazing 可指火、光、太阳，也可指速度很快。
+  []
+why_confusing: blazing sun/fire/row 都常见。

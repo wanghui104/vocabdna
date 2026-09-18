@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: transcontinental
+word: transcontinental
+pos: adjective
+zh: 横贯大陆的；大陆那边的
+en: crossing or extending across a continent
+components:
+  - morpheme: trans
+    form: trans-
+    meaning_in_word: across
+    zh: 横越、穿过、转移
+    role: prefix
+    is_core: false
+  - morpheme: tain
+    form: continental
+    meaning_in_word: continent-related
+    zh: 持有；包含
+    role: root
+    is_core: true
+word_family:
+  - continent
+  - continental
+  - supercontinent
+word_family_details:
+  - word: continent
+    en: one of the earth's very large landmasses
+    zh: 大陆；洲
+  - word: continental
+    en: related to a continent or its climate/culture
+    zh: 大陆的；大陆性的
+  - word: supercontinent
+    en: a very large landmass made of multiple continents joined together
+    zh: 超大陆
+confusables:
+  []
+examples:
+  []
+why_confusing: transcontinental railroad/flight 常见。

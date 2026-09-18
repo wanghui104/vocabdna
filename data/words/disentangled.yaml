@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disentangled
+word: disentangled
+pos: adjective/verb
+zh: 已解开纠缠的；已分清的；disentangle 的过去形式
+en: freed from a tangle or separated from confusing connections
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: reverse; free from / 解除、脱离
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: 表层 dis- + entangle；继续展开为 dis- + en- + tangle。
+  - morpheme: in
+    form: en-
+    meaning_in_word: put into; cause to be in / 使进入、使陷入
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: 使陷入缠绕；经法语对应 Latin in-。
+  - morpheme: tangle
+    form: tangl
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: tangle 去掉词尾不发音 e 的词干，用于加 -ed/-ing。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past action or resulting state / 过去动作、结果状态
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - disentangle
+  - disentanglement
+word_family_details:
+  - word: disentangle
+    en: to free something from a tangle or separate things that are confusingly mixed
+    zh: 解开；使摆脱纠缠；理清、分辨
+  - word: disentanglement
+    en: the process or result of freeing things from tangles or separating complex connections
+    zh: 解开纠缠；摆脱牵连；理清
+confusables:
+  []
+examples:
+  - en: Once disentangled from the net, the animal swam away.
+    zh: 从网中解脱后，那只动物游走了。
+why_confusing: 常见 disentangled from；词尾保留 -ed 结果层，词干 tangle 的 e 被省去。

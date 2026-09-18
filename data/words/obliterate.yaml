@@ -1,0 +1,54 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: obliterate
+word: obliterate
+pos: verb
+zh: 涂掉，擦掉
+en: Means 涂掉，擦掉; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: obliter
+    form: obliter
+    meaning_in_word: erase / 擦除
+    zh: 擦除
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make; act / 使；做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - literally
+  - literary
+  - literate
+  - literacy
+  - illiterate
+  - semiliterate
+  - iterate
+word_family_details:
+  - word: literally
+    en: Means 照字面意义地，逐字地; reviewed from the TOEFL source gloss for learner display.
+    zh: 照字面意义地，逐字地
+  - word: literary
+    en: Means 文学（上）的，从事写作的; reviewed from the TOEFL source gloss for learner display.
+    zh: 文学（上）的，从事写作的
+  - word: literate
+    en: Means 有文化的，有阅读和写作能力的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有文化的，有阅读和写作能力的
+  - word: literacy
+    en: Means 有读写能力，识字; reviewed from the TOEFL source gloss for learner display.
+    zh: 有读写能力，识字
+  - word: illiterate
+    en: Means 不识字的，没受教育的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不识字的，没受教育的
+  - word: semiliterate
+    en: Means 半文盲，有初等文化者; reviewed from the TOEFL source gloss for learner display.
+    zh: 半文盲，有初等文化者
+  - word: iterate
+    en: Means 反复说，重申; reviewed from the TOEFL source gloss for learner display.
+    zh: 反复说，重申
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

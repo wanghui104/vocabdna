@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fend-for-oneself
+word: fend for oneself
+pos: phrase
+zh: 自立；照顾自己
+en: to provide for and take care of oneself
+components:
+  - morpheme: fend-word
+    form: fend
+    meaning_in_word: manage, defend / 自理；抵御
+    zh: 自理；抵御
+    role: root
+    is_core: true
+    note: fend + for + oneself；oneself 再拆 one + self。fend 为 defend 缩略，深层 de- + -fendere 击退。for 是独立介词。
+    related_morphemes:
+      - de
+      - fend
+  - morpheme: for
+    form: for
+    meaning_in_word: for, on behalf of / 为
+    zh: 为
+    role: connector
+    is_core: false
+    note: 短语中的独立介词，不是前缀 for-。
+  - morpheme: one
+    form: one
+    meaning_in_word: one, single / 一个；单独
+    zh: 一个；单独
+    role: root
+    is_core: true
+  - morpheme: self
+    form: self
+    meaning_in_word: self / 自身
+    zh: 自身
+    role: root
+    is_core: true
+    note: oneself = one + self，为反身代词。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

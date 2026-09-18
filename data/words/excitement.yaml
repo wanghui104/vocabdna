@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: excitement
+word: excitement
+pos: noun
+zh: 兴奋；激动
+en: a feeling or state of eager interest or enthusiasm
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: cit
+    form: cite
+    meaning_in_word: set in motion, summon / 激起；召唤
+    zh: 激起；召唤
+    role: root
+    is_core: true
+    note: citare 是 ciere 使动、召唤的反复动词；excite 深层 ex- + citare。
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result, state / 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - excite
+  - exciting
+  - excited
+word_family_details:
+  - word: excite
+    en: to cause enthusiasm, interest, or a heightened state of activity
+    zh: 使兴奋；激起
+  - word: exciting
+    en: causing eager interest or enthusiasm
+    zh: 令人兴奋的
+  - word: excited
+    en: feeling eager interest or enthusiasm
+    zh: 兴奋的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

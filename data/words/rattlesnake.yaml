@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rattlesnake
+word: rattlesnake
+pos: noun
+zh: 响尾蛇
+en: Means 响尾蛇; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rattle
+    form: rattle
+    meaning_in_word: rattle / 格格声
+    zh: 格格声
+    role: root
+    is_core: true
+  - morpheme: snake
+    form: snake
+    meaning_in_word: snake / 蛇
+    zh: 蛇
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

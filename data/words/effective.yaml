@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: effective
+word: effective
+pos: adjective
+zh: 有效的；生效的
+en: producing the intended result; currently in force
+components:
+  - morpheme: e
+    form: ef-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: fac
+    form: fect
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having the nature of, tending to / 具有……性质的；倾向于……的
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - effect
+  - effectiveness
+word_family_details:
+  - word: effect
+    en: a result; to bring something about
+    zh: 结果；使发生
+  - word: effectiveness
+    en: the degree to which something achieves its intended result
+    zh: 有效性；效力
+confusables:
+  - word: efficient
+    reason: effective 强调达到效果；efficient 强调少浪费。
+    zh_reason: effective 强调达到效果；efficient 强调少浪费。
+examples:
+  []
+why_confusing: effective 强调达到效果；efficient 强调少浪费。

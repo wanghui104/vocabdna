@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: documentation
+display: documentation
+type: root
+core_meaning: draft meaning for documentation
+zh: 文件
+origin: Unknown
+source_form: TOEFL draft opaque stem: documentation
+source_meaning: draft learner stem for documentation
+source_meaning_zh: 文件
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for documentation
+    zh: 文件
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

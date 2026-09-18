@@ -1,0 +1,60 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: genuine
+word: genuine
+pos: adjective
+zh: 真正的，真实的；真诚的
+en: Means 真正的，真实的；真诚的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: genu
+    form: genu
+    meaning_in_word: genu
+    zh: 天生的；真实的
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:genu.
+  - morpheme: ine
+    form: -ine
+    meaning_in_word: 属于；像；由……组成
+    zh: 属于；像；由……组成
+    role: suffix
+    is_core: false
+    note: Suffix layer from Latin -inus; Greek -inos.
+word_family:
+  - generate
+  - generous
+  - genesis
+  - genetic
+  - genetics
+  - genetically
+  - genial
+  - gentility
+word_family_details:
+  - word: generate
+    en: Means 造成，产生 / 产卵; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 造成，产生 / 产卵
+  - word: generous
+    en: Means 慷慨的 / 大量的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 慷慨的 / 大量的
+  - word: genesis
+    en: Means 起源，产生; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 起源，产生
+  - word: genetic
+    en: Means 遗传的，起源的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 遗传的，起源的
+  - word: genetics
+    en: Means 遗传学; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 遗传学
+  - word: genetically
+    en: Means 遗传上; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 遗传上
+  - word: genial
+    en: Means 和蔼可亲的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 和蔼可亲的
+  - word: gentility
+    en: Means 有教养，文雅; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 有教养，文雅
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

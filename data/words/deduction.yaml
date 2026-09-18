@@ -8,13 +8,13 @@ components:
   - morpheme: de
     form: de-
     meaning_in_word: down, away
-    zh: 向下、离开、取消
+    zh: 向下；去除
     role: prefix
     is_core: false
   - morpheme: duc
     form: duct
     meaning_in_word: lead
-    zh: 引导、带领
+    zh: 引导；传导
     role: root
     is_core: true
   - morpheme: ion

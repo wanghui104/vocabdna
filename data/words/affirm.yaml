@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: affirm
+word: affirm
+pos: verb
+zh: 断言；证实；确认
+en: to state strongly that something is true or to confirm it
+components:
+  - morpheme: ad
+    form: af-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: firm
+    form: firm
+    meaning_in_word: make firm
+    zh: 坚定；坚固
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The witness affirmed the facts.
+    zh: 证人确认了事实。
+why_confusing: affirm 比 say 更正式，常用于声明、判决、信念。

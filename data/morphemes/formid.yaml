@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: formid
+display: formid
+type: root
+core_meaning: fear
+zh: 恐惧
+origin: Latin
+source_form: Latin formidare, formido
+source_meaning: fear
+source_meaning_zh: 恐惧
+source_note: formidable = formid- + -able；formido 更深起源不明，不拆成 form 形状 + id。
+related_morphemes:
+  []
+senses:
+  - meaning: fear
+    zh: 恐惧
+    examples:
+      - formidable
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - formid -> formidable
+high_value_words:
+  - formidable
+confusable_words:
+  []

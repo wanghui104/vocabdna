@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: balloonist
+word: balloonist
+pos: noun
+zh: 气球驾驶员
+en: a person who flies or pilots a balloon
+components:
+  - morpheme: balloon
+    form: balloon
+    meaning_in_word: air-filled ball
+    zh: 气球；膨胀物
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - balloon
+word_family_details:
+  - word: balloon
+    en: a bag filled with air or gas; to swell or increase quickly
+    zh: 气球；膨胀；激增
+confusables:
+  []
+examples:
+  []
+why_confusing: 通常指热气球运动者。

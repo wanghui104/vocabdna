@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: reef
+word: reef
+pos: noun
+zh: 礁；暗礁
+en: a ridge of rock, sand, or coral near the surface of the sea
+components:
+  - morpheme: reef
+    form: reef
+    meaning_in_word: sea ridge
+    zh: 礁；暗礁
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: reef 可由岩石、沙或珊瑚形成。

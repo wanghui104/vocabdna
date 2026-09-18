@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: belie
+word: belie
+pos: verb
+zh: 给人错觉；掩饰
+en: to give a false idea of something or show something to be false
+components:
+  - morpheme: be
+    form: be-
+    meaning_in_word: about, thoroughly
+    zh: 使成为、加强
+    role: prefix
+    is_core: false
+  - morpheme: lie-speak
+    form: lie
+    meaning_in_word: tell an untruth
+    zh: 说谎；欺骗
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: believe-in
+    reason: belie 和 believe 不是同一个词族。
+    zh_reason: belie 和 believe 不是同一个词族。
+examples:
+  []
+why_confusing: belie 和 believe 不是同一个词族。

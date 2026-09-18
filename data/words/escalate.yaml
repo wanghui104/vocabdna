@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: escalate
+word: escalate
+pos: verb
+zh: 升级；加剧
+en: to increase or cause an increase in intensity, size, or seriousness
+components:
+  - morpheme: escal
+    form: escal
+    meaning_in_word: ladder, stairs / 梯子；楼梯
+    zh: 梯子；楼梯
+    role: root
+    is_core: true
+    note: escalator 原为商标，结合 scala 阶梯与 elevator 的造词模式；escalate 后由 escalator 逆构。初始 e 不是可独立释为 out 的前缀。
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - escalator
+  - escalation
+word_family_details:
+  - word: escalator
+    en: a moving staircase
+    zh: 自动扶梯
+  - word: escalation
+    en: an increase in intensity, scale, or seriousness
+    zh: 升级；加剧
+confusables:
+  []
+examples:
+  []
+why_confusing: 

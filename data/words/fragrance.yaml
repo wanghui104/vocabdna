@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fragrance
+word: fragrance
+pos: noun
+zh: 香气
+en: a pleasant smell
+components:
+  - morpheme: fragr
+    form: fragr
+    meaning_in_word: emit a smell / 散发香气
+    zh: 散发香气
+    role: root
+    is_core: true
+    note: fragrant = fragr- + -ant；fragrance = fragr- + -ance，勿与 frag-/fract- 破裂混淆。
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: state, act, quality / 状态；行为；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - fragrant
+word_family_details:
+  - word: fragrant
+    en: having a pleasant smell
+    zh: 芳香的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

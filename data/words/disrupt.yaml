@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disrupt
+word: disrupt
+pos: verb
+zh: 使混乱；使中断
+en: to interrupt or break the normal flow or order of something
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: rupt
+    form: rupt
+    meaning_in_word: break
+    zh: 破裂、打断
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: disrupt 强调中断正常流程。

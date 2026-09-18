@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: luxurious
+word: luxurious
+pos: adjective
+zh: 奢侈的，豪华的
+en: Means 奢侈的，豪华的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lux
+    form: lux
+    meaning_in_word: 光；奢华
+    zh: 光；奢华
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lux.
+  - morpheme: urious
+    form: urious
+    meaning_in_word: urious
+    zh: urious
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:urious.
+word_family:
+  - luxury
+word_family_details:
+  - word: luxury
+    en: Means 奢侈，豪华; reviewed from the TOEFL source gloss for learner display.
+    zh: 奢侈，豪华
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

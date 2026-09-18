@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fantastic
+word: fantastic
+pos: adjective
+zh: 极好的；奇异的；幻想的
+en: extremely good; imaginative, strange, or unreal
+components:
+  - morpheme: fantas
+    form: fantast
+    meaning_in_word: imagination, show / 想象；显示
+    zh: 想象；显示
+    role: root
+    is_core: true
+    note: 深层 phainein 显示 → phantos 可见 → phantazein 想象 → phantasia；fantast- 的 t 属希腊形容词派生层，不是 fanatic 的神庙根。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - fantasy
+word_family_details:
+  - word: fantasy
+    en: imagination or an imagined situation; fiction involving unreal worlds or magic
+    zh: 幻想；幻想文学
+confusables:
+  - word: fanatic
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

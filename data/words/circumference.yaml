@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: circumference
+word: circumference
+pos: noun
+zh: 圆周；周长
+en: the distance around a circle or round object
+components:
+  - morpheme: circ
+    form: circum-
+    meaning_in_word: around
+    zh: 圆；周围
+    role: prefix
+    is_core: false
+  - morpheme: fer
+    form: fer
+    meaning_in_word: carry
+    zh: 携带、带来
+    role: root
+    is_core: true
+  - morpheme: ance
+    form: -ence
+    meaning_in_word: state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: circumference 是周长，不是面积。

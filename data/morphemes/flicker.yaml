@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flicker
+display: flicker
+type: root
+core_meaning: flutter, flicker
+zh: 颤动；闪烁
+origin: Old English
+source_form: Old English flicorian
+source_meaning: flutter, flicker
+source_meaning_zh: 颤动；闪烁
+source_note: 历史 -er 表反复动作，不是人；现代保留 flicker，再加 -ing。
+related_morphemes:
+  []
+senses:
+  - meaning: flutter, flicker
+    zh: 颤动；闪烁
+    examples:
+      - flicker
+      - flickering
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - flicker -> flicker
+  - flicker -> flickering
+high_value_words:
+  - flicker
+  - flickering
+confusable_words:
+  []

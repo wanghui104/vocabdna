@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: quilt
+word: quilt
+pos: noun
+zh: 棉被；制成棉被
+en: Means 棉被；制成棉被; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: quilt
+    form: quilt
+    meaning_in_word: quilt / 棉被
+    zh: 棉被
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  - quilter
+word_family_details:
+  - word: quilter
+    en: Means 缝被子的人; reviewed from the TOEFL source gloss for learner display.
+    zh: 缝被子的人
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

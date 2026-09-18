@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eternal
+word: eternal
+pos: adjective
+zh: 永恒的；无休止的
+en: lasting forever or seeming to have no end
+components:
+  - morpheme: etern
+    form: etern
+    meaning_in_word: lasting for an age / 长久；永恒
+    zh: 长久；永恒
+    role: root
+    is_core: true
+    note: aeternus 为 aeviternus 收缩形，深层 aevum 年代、生命 + 历史形容词构词层；表层 etern- + -al。
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -2,26 +2,45 @@
 id: spectacle
 word: spectacle
 pos: noun
-zh: 壮观场面；景象
-en: an impressive public sight or display
+zh: 奇观；展示，景象
+en: Means 奇观；展示，景象; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: spect
     form: spect
-    meaning_in_word: look
+    meaning_in_word: look; see / 看
     zh: 看
     role: root
     is_core: true
+  - morpheme: acle
+    form: -acle
+    meaning_in_word: thing/place connected with / 有关的事物或场所
+    zh: acle
+    role: suffix
+    is_core: false
 word_family:
   - spectacular
+  - spectacularly
+  - spectator
+  - spectra
+  - spectrum
 word_family_details:
   - word: spectacular
-    en: related form of spectacular
-    zh: spectacular 的相关词
+    en: Means 引人入胜的，壮观的; reviewed from the TOEFL source gloss for learner display.
+    zh: 引人入胜的，壮观的
+  - word: spectacularly
+    en: Means 引人入胜地; reviewed from the TOEFL source gloss for learner display.
+    zh: 引人入胜地
+  - word: spectator
+    en: Means 参观者，观众; reviewed from the TOEFL source gloss for learner display.
+    zh: 参观者，观众
+  - word: spectra
+    en: Means 光谱; reviewed from the TOEFL source gloss for learner display.
+    zh: 光谱
+  - word: spectrum
+    en: Means 谱，光谱; reviewed from the TOEFL source gloss for learner display.
+    zh: 谱，光谱
 confusables:
-  - word: spectacles
-    reason: spectacle 可指场面；spectacles 可指眼镜。
-    zh_reason: spectacle 可指场面；spectacles 可指眼镜。
+  []
 examples:
-  - en: The parade was a colorful spectacle.
-    zh: 游行是一场色彩斑斓的壮观景象。
-why_confusing: spectacle 可指场面；spectacles 可指眼镜。
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: applicant
+word: applicant
+pos: noun
+zh: 申请人
+en: a person who applies for something
+components:
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: plic
+    form: plic
+    meaning_in_word: apply, attach
+    zh: 折叠；贴合；应用
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ant
+    meaning_in_word: person
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - apply
+  - application
+  - appliance
+word_family_details:
+  - word: apply
+    en: to use something for a purpose, or be relevant
+    zh: 应用；运用；适用
+  - word: application
+    en: a formal request
+    zh: 申请
+  - word: appliance
+    en: a device or piece of equipment used for a particular purpose
+    zh: 用具；器具；家用电器
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

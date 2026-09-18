@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clog
+word: clog
+pos: verb
+zh: 阻碍；阻塞
+en: to block or make movement difficult
+components:
+  - morpheme: clog
+    form: clog
+    meaning_in_word: block
+    zh: 阻塞；障碍
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: clog drains/roads/arteries 常见。

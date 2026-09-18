@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: correlate
+word: correlate
+pos: verb/noun
+zh: 使相互关联；相关物
+en: to have or show a mutual relationship
+components:
+  - morpheme: con
+    form: cor-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: relat
+    form: relate
+    meaning_in_word: carry back, relate
+    zh: 关联；叙述
+    role: root
+    is_core: true
+word_family:
+  - correlated
+word_family_details:
+  - word: correlated
+    en: related in a measurable or mutual way
+    zh: 有相互关系的
+confusables:
+  []
+examples:
+  []
+why_confusing: correlate with; correlation 是常见名词。

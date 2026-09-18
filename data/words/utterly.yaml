@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: utterly
+word: utterly
+pos: adverb/verb
+zh: 完全地，绝对地
+en: Means 完全地，绝对地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: utter
+    form: utter
+    meaning_in_word: utter; complete / 说出；完全
+    zh: 说出；完全
+    role: root
+    is_core: true
+    note: Conservative bottom root inside this learner-visible analysis; deeper source is uncertain or not productive for TOEFL study.
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner / 以…方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - utter
+  - utterance
+word_family_details:
+  - word: utter
+    en: Means 做声；发表；全然的，完全的; reviewed from the TOEFL source gloss for learner display.
+    zh: 做声；发表；全然的，完全的
+  - word: utterance
+    en: Means 说话，说话的方式; reviewed from the TOEFL source gloss for learner display.
+    zh: 说话，说话的方式
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

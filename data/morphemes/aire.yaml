@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aire
+display: aire
+type: root
+core_meaning: aire
+zh: aire
+origin: English
+source_form: English aire
+source_meaning: aire
+source_meaning_zh: aire
+related_morphemes:
+  []
+senses:
+  - meaning: aire
+    zh: aire
+    examples:
+      - millionaire
+      - questionnaire
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - aire -> millionaire
+  - -aire -> questionnaire
+high_value_words:
+  - millionaire
+  - questionnaire
+confusable_words:
+  []

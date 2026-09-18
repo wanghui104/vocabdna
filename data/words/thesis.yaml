@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: thesis
+word: thesis
+pos: noun
+zh: 论题，论文
+en: Means 论题，论文; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: thesis
+    form: thesis
+    meaning_in_word: placing; thesis / 放置；论题
+    zh: 放置；论题
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - hypothesis
+  - photosynthesis
+  - synthesis
+word_family_details:
+  - word: hypothesis
+    en: Means 假设; reviewed from the TOEFL source gloss for learner display.
+    zh: 假设
+  - word: photosynthesis
+    en: Means 光合作用；光合作用; reviewed from the TOEFL source gloss for learner display.
+    zh: 光合作用；光合作用
+  - word: synthesis
+    en: Means 综合, 合成；综合, 合成; reviewed from the TOEFL source gloss for learner display.
+    zh: 综合, 合成；综合, 合成
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

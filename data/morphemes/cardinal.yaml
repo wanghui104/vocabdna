@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cardinal
+display: cardinal
+type: root
+core_meaning: principal, cardinal
+zh: 主要的；枢要的
+origin: Latin
+source_form: Latin cardo / cardinalis
+source_meaning: hinge, principal
+source_meaning_zh: 枢轴；主要的
+related_morphemes:
+  []
+senses:
+  - meaning: principal, cardinal
+    zh: 主要的；枢要的
+    examples:
+      - cardinal
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cardinal -> cardinal
+high_value_words:
+  - cardinal
+confusable_words:
+  []

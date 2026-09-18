@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: counteract
+word: counteract
+pos: verb
+zh: 抵消；消除；对抗
+en: to act against something in order to reduce or neutralize it
+components:
+  - morpheme: counter
+    form: counter-
+    meaning_in_word: against
+    zh: 相反；逆向
+    role: prefix
+    is_core: false
+  - morpheme: act
+    form: act
+    meaning_in_word: act
+    zh: 做、驱动
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: counteract the effects/influence.

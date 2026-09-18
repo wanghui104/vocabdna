@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disregard
+word: disregard
+pos: noun/verb
+zh: 不理会；漠视
+en: to ignore or pay no attention to something; lack of attention
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: re
+    form: re-
+    meaning_in_word: back, again / 回、再、反向
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: garde
+    form: gard
+    meaning_in_word: guard / 守卫；警戒
+    zh: 守卫；警戒
+    role: root
+    is_core: true
+    note: dis- 不 + regard；regard 内层 re- 加强 + garder 看顾；guard/gard 是法语词干，不把 regard 全部标成 garde。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: disregard for safety/rules 是常见搭配。

@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contingently
+word: contingently
+pos: adverb
+zh: 有条件地；偶然地；视情况而定地
+en: in a way that depends on conditions or chance
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: with, together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tang
+    form: ting
+    meaning_in_word: touch, happen, befall
+    zh: 触碰；达到
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having quality
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in this way
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - contingent
+  - contingency
+  - contingent-on
+word_family_details:
+  - word: contingent
+    en: depending on something else that may or may not happen
+    zh: 取决于条件的；视情况而定的
+  - word: contingency
+    en: a possible event or condition that may need to be prepared for
+    zh: 可能发生的事；意外情况；应急情况
+  - word: contingent-on
+    en: dependent on a condition, event, or decision
+    zh: 取决于；以……为条件
+confusables:
+  []
+examples:
+  []
+why_confusing: contingently 比 contingent 少见，常见于正式、哲学或法律语境。

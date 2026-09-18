@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: commute
+word: commute
+pos: verb
+zh: 通勤；经常往返
+en: to travel regularly between home and work or school
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together, back and forth
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: mut
+    form: mute
+    meaning_in_word: change, exchange
+    zh: 通勤；交换
+    role: root
+    is_core: true
+word_family:
+  - commuter
+  - telecommuter
+word_family_details:
+  - word: commuter
+    en: a person who travels regularly between home and work or school
+    zh: 通勤者；经常往返者
+  - word: telecommuter
+    en: a person who works from home or remotely using online communication
+    zh: 远距离工作者；远程办公者
+confusables:
+  []
+examples:
+  []
+why_confusing: commute 也可指减刑或交换。

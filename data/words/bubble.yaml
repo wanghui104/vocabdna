@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bubble
+word: bubble
+pos: noun
+zh: 气泡；水泡
+en: a small round ball of air or gas in liquid, or a blister
+components:
+  - morpheme: bubble
+    form: bubble
+    meaning_in_word: air pocket
+    zh: 气泡；水泡
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: economic bubble 指经济泡沫。

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: carat
+word: carat
+pos: noun
+zh: 克拉
+en: a unit for measuring the weight of gems
+components:
+  - morpheme: carat
+    form: carat
+    meaning_in_word: small weight
+    zh: 克拉
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: carat 宝石重量；karat 黄金纯度。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dot
+word: dot
+pos: noun/verb
+zh: 点；小圆点
+en: a small round mark
+components:
+  - morpheme: dot
+    form: dot
+    meaning_in_word: small spot / 小点
+    zh: 小点
+    role: root
+    is_core: true
+    note: 古英语 dott 记录稀少，深层来源不明，保留简单词干。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

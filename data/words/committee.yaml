@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: committee
+word: committee
+pos: noun
+zh: 委员会
+en: a group of people appointed to do a task
+components:
+  - morpheme: miss
+    form: commit
+    meaning_in_word: entrust
+    zh: 委托；提交；承担
+    role: root
+    is_core: true
+  - morpheme: ee
+    form: -ee
+    meaning_in_word: recipient/group
+    zh: 接受动作的人
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: committee 是集合名词，谓语随英美用法不同。

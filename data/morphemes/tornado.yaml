@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tornado
+display: tornado
+type: root
+core_meaning: tornado
+zh: 龙卷风
+origin: Spanish
+source_form: tornado
+source_meaning: tornado
+source_meaning_zh: 龙卷风
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: tornado
+    zh: 龙卷风
+    examples:
+      - tornado
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tornado -> tornado
+high_value_words:
+  - tornado
+confusable_words:
+  []

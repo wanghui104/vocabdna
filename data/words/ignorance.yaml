@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ignorance
+word: ignorance
+pos: noun
+zh: 无知，不了解
+en: Means 无知，不了解; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: gnor
+    form: gnor
+    meaning_in_word: 知道；不知
+    zh: 知道；不知
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:gnor.
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: 状态；行为；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ance.
+word_family:
+  - ignore
+  - ignorant
+word_family_details:
+  - word: ignore
+    en: Means 忽视；不顾，不理会; reviewed from the TOEFL source gloss for learner display.
+    zh: 忽视；不顾，不理会
+  - word: ignorant
+    en: Means 无知的；不了解的; reviewed from the TOEFL source gloss for learner display.
+    zh: 无知的；不了解的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

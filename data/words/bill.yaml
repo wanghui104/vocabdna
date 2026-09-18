@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bill
+word: bill
+pos: noun
+zh: 账单；发票；议案；法案；钞票
+en: a written statement of money owed, a proposed law, or paper money
+components:
+  - morpheme: bill-doc
+    form: bill
+    meaning_in_word: written notice
+    zh: 账单；议案；票据
+    role: root
+    is_core: true
+  - morpheme: bill-beak
+    form: bill
+    meaning_in_word: bird beak
+    zh: 鸟嘴；喙
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 这些义项同形但来源不同，学习时按语境拆开。

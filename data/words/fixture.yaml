@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fixture
+word: fixture
+pos: noun
+zh: 固定装置
+en: an item attached in place as part of a building
+components:
+  - morpheme: fix
+    form: fixt
+    meaning_in_word: fasten / 固定
+    zh: 固定
+    role: root
+    is_core: true
+    note: fixture = fixt- + -ure；fixt- 保存与 fixed 相关的历史分词拼写，深层 figere 固定 → fixus。不是 fix + 英语 ture。
+  - morpheme: ure
+    form: -ure
+    meaning_in_word: act or result / 行为；结果
+    zh: 行为；结果
+    role: suffix
+    is_core: false
+word_family:
+  - fix
+  - fixed
+word_family_details:
+  - word: fix
+    en: to secure in place
+    zh: 固定
+  - word: fixed
+    en: securely placed
+    zh: 固定的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hike
+display: hike
+type: root
+core_meaning: draft meaning for hike
+zh: 远足，徒步旅行；徒步旅行
+origin: Unknown
+source_form: TOEFL draft opaque stem: hike
+source_meaning: draft learner stem for hike
+source_meaning_zh: 远足，徒步旅行；徒步旅行
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for hike
+    zh: 远足，徒步旅行；徒步旅行
+    examples:
+      - hike
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - hike -> hike
+high_value_words:
+  - hike
+confusable_words:
+  []

@@ -2,44 +2,273 @@
 id: ity
 display: -ity
 type: suffix
-core_meaning: quality, state
-zh: 性质、状态
+core_meaning: state or quality
+zh: 状态；性质
 origin: Latin
-source_form: Latin -itas
-source_meaning: quality, state
-source_meaning_zh: 性质、状态
+source_form: Latin -itas, -itatis
+source_meaning: state or quality
+source_meaning_zh: 状态；性质
+source_note: -ty/-ity 是名词构词结尾。
 related_morphemes:
   []
 senses:
-  - meaning: quality, state
-    zh: 性质、状态
+  - meaning: state or quality
+    zh: 状态；性质
     examples:
       - ability
-      - inability
-      - capability
-      - viability
-      - variability
       - accessibility
       - acidity
+      - adversity
+      - affinity
+      - agility
+      - amenity
+      - antiquity
+      - audibility
+      - authority
+      - availability
+      - community
+      - curiosity
+      - deity
+      - density
+      - dignity
+      - diversity
+      - eccentricity
+      - elasticity
+      - entity
+      - equality
+      - equity
+      - extremity
+      - facility
+      - fertility
+      - festivity
+      - fidelity
+      - flexibility
+      - formality
+      - fragility
+      - frivolity
+      - frugality
+      - gentility
+      - gravity
+      - heredity
+      - humanitarian
+      - humanity
+      - humidity
+      - identity
+      - immunity
+      - impracticality
+      - inability
+      - incongruity
+      - incredulity
+      - inferiority
+      - informality
+      - insanity
+      - integrity
+      - locality
+      - longevity
+      - majority
+      - minority
+      - opportunity
+      - originality
+      - paucity
+      - peculiarity
+      - personality
+      - popularity
+      - potentiality
+      - practicality
+      - predictability
+      - priority
+      - proclivity
+      - propensity
+      - prosperity
+      - publicity
+      - reliability
+      - responsibility
+      - rigidity
+      - salinity
+      - security
+      - simplicity
+      - timidity
+      - tranquility
+      - unanimity
+      - uniformity
+      - utility
+      - validity
+      - velocity
+      - vicinity
+      - victuosity
+      - vitality
+      - artificiality
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - -ity -> ability
-  - -ity -> inability
-  - -ity -> capability
-  - -ity -> viability
-  - -ity -> variability
   - -ity -> accessibility
   - -ity -> acidity
+  - -ity -> adversity
+  - -ity -> affinity
+  - -ility -> agility
+  - -ity -> amenity
+  - -ity -> antiquity
+  - -ibility -> audibility
+  - -ity -> authority
+  - -ability -> availability
+  - -ity -> community
+  - -ity -> curiosity
+  - -ity -> deity
+  - -ity -> density
+  - -ity -> dignity
+  - -ity -> diversity
+  - -ity -> eccentricity
+  - -ity -> elasticity
+  - -ity -> entity
+  - -ity -> equality
+  - -ity -> equity
+  - -ity -> extremity
+  - -ity -> facility
+  - -ity -> fertility
+  - -ity -> festivity
+  - -ity -> fidelity
+  - -ity -> flexibility
+  - -ity -> formality
+  - -ity -> fragility
+  - -ity -> frivolity
+  - -ity -> frugality
+  - -ity -> gentility
+  - -ity -> gravity
+  - -ity -> heredity
+  - -ity -> humanitarian
+  - -ity -> humanity
+  - -ity -> humidity
+  - -ity -> identity
+  - -ity -> immunity
+  - -ity -> impracticality
+  - -ity -> inability
+  - -ity -> incongruity
+  - -ity -> incredulity
+  - -ity -> inferiority
+  - -ity -> informality
+  - -ity -> insanity
+  - -ity -> integrity
+  - -ity -> locality
+  - -ity -> longevity
+  - -ity -> majority
+  - -ity -> minority
+  - -ity -> opportunity
+  - -ity -> originality
+  - -ity -> paucity
+  - -ity -> peculiarity
+  - -ity -> personality
+  - -ity -> popularity
+  - -ity -> potentiality
+  - -ity -> practicality
+  - -ity -> predictability
+  - -ity -> priority
+  - -ity -> proclivity
+  - -ity -> propensity
+  - -ity -> prosperity
+  - -ity -> publicity
+  - -ity -> reliability
+  - -ity -> responsibility
+  - -ity -> rigidity
+  - -ity -> salinity
+  - -ity -> security
+  - -ity -> simplicity
+  - -ity -> timidity
+  - -ity -> tranquility
+  - -ity -> unanimity
+  - -ity -> uniformity
+  - -ity -> utility
+  - -ity -> validity
+  - -ity -> velocity
+  - -ity -> vicinity
+  - -ity -> victuosity
+  - -ity -> vitality
+  - -ity -> artificiality
 high_value_words:
   - ability
-  - inability
-  - capability
-  - viability
-  - variability
   - accessibility
   - acidity
+  - adversity
+  - affinity
+  - agility
+  - amenity
+  - antiquity
+  - audibility
+  - authority
+  - availability
+  - community
+  - curiosity
+  - deity
+  - density
+  - dignity
+  - diversity
+  - eccentricity
+  - elasticity
+  - entity
+  - equality
+  - equity
+  - extremity
+  - facility
+  - fertility
+  - festivity
+  - fidelity
+  - flexibility
+  - formality
+  - fragility
+  - frivolity
+  - frugality
+  - gentility
+  - gravity
+  - heredity
+  - humanitarian
+  - humanity
+  - humidity
+  - identity
+  - immunity
+  - impracticality
+  - inability
+  - incongruity
+  - incredulity
+  - inferiority
+  - informality
+  - insanity
+  - integrity
+  - locality
+  - longevity
+  - majority
+  - minority
+  - opportunity
+  - originality
+  - paucity
+  - peculiarity
+  - personality
+  - popularity
+  - potentiality
+  - practicality
+  - predictability
+  - priority
+  - proclivity
+  - propensity
+  - prosperity
+  - publicity
+  - reliability
+  - responsibility
+  - rigidity
+  - salinity
+  - security
+  - simplicity
+  - timidity
+  - tranquility
+  - unanimity
+  - uniformity
+  - utility
+  - validity
+  - velocity
+  - vicinity
+  - victuosity
+  - vitality
+  - artificiality
 confusable_words:
   []

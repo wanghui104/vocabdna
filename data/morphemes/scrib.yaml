@@ -5,26 +5,38 @@ type: root
 core_meaning: write
 zh: 写
 origin: Latin
+source_form: scrib
+source_meaning: write
+source_meaning_zh: 写
 related_morphemes:
   []
 senses:
   - meaning: write
     zh: 写
     examples:
-      - subscribe
+      - ascribe
       - describe
       - inscription
+      - prescribe
+      - prescribed
+      - subscribe
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - scrib -> subscribe
+  - scribe -> ascribe
   - scrib -> describe
   - script -> inscription
+  - scrib -> prescribe
+  - scrib -> prescribed
+  - scrib -> subscribe
 high_value_words:
-  - subscribe
+  - ascribe
   - describe
   - inscription
+  - prescribe
+  - prescribed
+  - subscribe
 confusable_words:
   []

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: soft
+display: soft
+type: root
+core_meaning: soft
+zh: 软
+origin: teaching morphology
+source_form: soft
+source_meaning: soft
+source_meaning_zh: 软
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: soft
+    zh: 软
+    examples:
+      - softwood
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - soft -> softwood
+high_value_words:
+  - softwood
+confusable_words:
+  []

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fragile
+word: fragile
+pos: adjective
+zh: 易碎的；脆弱的
+en: easily broken or damaged
+components:
+  - morpheme: frag-fract
+    form: frag
+    meaning_in_word: break, fragile / 破裂；易碎
+    zh: 破裂；易碎
+    role: root
+    is_core: true
+  - morpheme: ile
+    form: -ile
+    meaning_in_word: capable of being / 能够……的
+    zh: 能够……的
+    role: suffix
+    is_core: false
+    note: ductile 对应 Latin ductilis，可被拉伸；后缀不是 tile 砖。
+word_family:
+  - fragility
+word_family_details:
+  - word: fragility
+    en: the quality of being easily broken or harmed
+    zh: 易碎性；脆弱性
+confusables:
+  []
+examples:
+  - en: Fragile ecosystems recover slowly.
+    zh: 脆弱生态系统恢复缓慢。
+why_confusing: 

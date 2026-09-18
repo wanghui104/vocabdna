@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: real-estate
+word: real estate
+pos: noun
+zh: 房地产；不动产
+en: land and the buildings on it
+components:
+  - morpheme: res-thing
+    form: re
+    meaning_in_word: thing, property / 事物；财产
+    zh: 事物；财产
+    role: root
+    is_core: true
+    note: real = re-（res 事物）+ -al；不是 re- 再次。real estate 的 real 为不动产用法。
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+  - morpheme: estate
+    form: estate
+    meaning_in_word: state, condition / 状态；地位
+    zh: 状态；地位
+    role: root
+    is_core: true
+    note: 深层 status 是 stare 站立的状态名词；法语起首 e 是增音，不是 e-/ex- 出。房地产义从财产、身份发展而来。
+    related_morphemes:
+      - stand
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

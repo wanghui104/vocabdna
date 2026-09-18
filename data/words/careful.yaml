@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: careful
+word: careful
+pos: adjective
+zh: 小心的；仔细的
+en: giving attention to avoid mistakes or danger
+components:
+  - morpheme: care
+    form: care
+    meaning_in_word: attention
+    zh: 关心；小心
+    role: root
+    is_core: true
+  - morpheme: ful
+    form: -ful
+    meaning_in_word: full of
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - care
+word_family_details:
+  - word: care
+    en: attention, concern, or careful treatment
+    zh: 关心；照料；小心
+confusables:
+  []
+examples:
+  []
+why_confusing: careful 后可接 with/about/to do。

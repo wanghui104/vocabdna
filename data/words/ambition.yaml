@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ambition
+word: ambition
+pos: noun
+zh: 雄心；抱负
+en: a strong desire to achieve something important
+components:
+  - morpheme: ambi
+    form: ambit
+    meaning_in_word: go around seeking support
+    zh: 周围；两边
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: state or action
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - ambitious
+word_family_details:
+  - word: ambitious
+    en: strongly wanting success, power, or achievement
+    zh: 有雄心的；渴望成功的
+confusables:
+  []
+examples:
+  []
+why_confusing: ambition 可褒可贬；既可指抱负，也可指野心。

@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compliment
+word: compliment
+pos: noun/verb
+zh: 恭维；称赞
+en: a polite expression of praise, or to praise someone
+components:
+  - morpheme: ple
+    form: compliment
+    meaning_in_word: courtesy, praise
+    zh: 补足；补充
+    role: root
+    is_core: true
+word_family:
+  - complimentary
+word_family_details:
+  - word: complimentary
+    en: expressing praise, or given free as a courtesy
+    zh: 赞美的；免费的
+confusables:
+  - word: complement
+    reason: 和 complement 补足不同。
+    zh_reason: 和 complement 补足不同。
+  - word: complementary
+    reason: 和 complement 补足不同。
+    zh_reason: 和 complement 补足不同。
+examples:
+  []
+why_confusing: 和 complement 补足不同。

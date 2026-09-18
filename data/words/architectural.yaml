@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: architectural
+word: architectural
+pos: adjective
+zh: 建筑上的；建筑学的
+en: relating to architecture or building design
+components:
+  - morpheme: arch
+    form: archi-
+    meaning_in_word: chief
+    zh: 统治；统治者
+    role: prefix
+    is_core: false
+  - morpheme: tect
+    form: tect
+    meaning_in_word: builder
+    zh: 建造；建造者
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ural
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - architect
+  - architecture
+word_family_details:
+  - word: architect
+    en: a person who designs buildings or plans a system
+    zh: 建筑师；设计者
+  - word: architecture
+    en: the art or style of designing buildings or systems
+    zh: 建筑；建筑学；体系结构
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

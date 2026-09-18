@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: floodplain
+word: floodplain
+pos: noun
+zh: 泛滥平原, 涝原, 漫滩
+en: Means 泛滥平原, 涝原, 漫滩; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: flood
+    form: flood
+    meaning_in_word: flood / 洪水
+    zh: 洪水
+    role: root
+    is_core: true
+  - morpheme: plain
+    form: plain
+    meaning_in_word: flat; clear / 平；清楚
+    zh: 抱怨；怨言
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

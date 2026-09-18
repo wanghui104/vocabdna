@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: counterbalance
+word: counterbalance
+pos: verb/noun
+zh: 使平衡；抗衡物
+en: to balance something by having an opposite effect
+components:
+  - morpheme: counter
+    form: counter-
+    meaning_in_word: opposite
+    zh: 相反；逆向
+    role: prefix
+    is_core: false
+  - morpheme: balance
+    form: balance
+    meaning_in_word: weigh evenly
+    zh: 平衡；称量
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: can be noun or verb.

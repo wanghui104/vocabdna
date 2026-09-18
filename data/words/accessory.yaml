@@ -14,7 +14,7 @@ components:
   - morpheme: excess-ceed
     form: cess
     meaning_in_word: go
-    zh: 走、前进、让步
+    zh: 走；让步
     role: root
     is_core: true
   - morpheme: ory
@@ -28,9 +28,7 @@ word_family:
 word_family_details:
   []
 confusables:
-  - word: necessary
-    reason: accessory 不等于 access；法律上 accessory 也可指从犯。
-    zh_reason: accessory 不等于 access；法律上 accessory 也可指从犯。
+  []
 examples:
   - en: The case is sold as a phone accessory.
     zh: 这个保护壳作为手机配件出售。

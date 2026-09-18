@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: formidable
+word: formidable
+pos: adjective
+zh: 可怕的；令人敬畏的；难以应付的
+en: causing fear or respect through strength, size, or difficulty
+components:
+  - morpheme: formid
+    form: formid
+    meaning_in_word: fear / 恐惧
+    zh: 恐惧
+    role: root
+    is_core: true
+    note: formid- 来自 formido 恐惧及 formidare 害怕 + -able；不能停在整个 formidable，也不能错拆为 form 形状 + id。formido 更深来源不确定。
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be / 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: formal
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

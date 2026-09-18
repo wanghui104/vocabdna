@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rhythmical
+word: rhythmical
+pos: adjective
+zh: 有韵律的，有节奏的
+en: Means 有韵律的，有节奏的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rhythm
+    form: rhythm
+    meaning_in_word: rhythm / 节奏
+    zh: 节奏
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 相关的
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 相关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - rhythm
+  - rhythmic
+word_family_details:
+  - word: rhythm
+    en: Means 节奏，韵律; reviewed from the TOEFL source gloss for learner display.
+    zh: 节奏，韵律
+  - word: rhythmic
+    en: Means 有节奏的，有韵律的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有节奏的，有韵律的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

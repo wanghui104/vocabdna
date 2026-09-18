@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: atrophy
+word: atrophy
+pos: noun/verb
+zh: 萎缩；萎缩症；萎缩
+en: wasting away through lack of nourishment, or to waste away
+components:
+  - morpheme: an
+    form: a-
+    meaning_in_word: without
+    zh: 不；无
+    role: prefix
+    is_core: false
+  - morpheme: troph
+    form: trophy-
+    meaning_in_word: nourishment
+    zh: 营养；生长
+    role: combining_form
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

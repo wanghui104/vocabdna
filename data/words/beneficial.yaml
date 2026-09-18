@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: beneficial
+word: beneficial
+pos: adjective
+zh: 有益的；有利的
+en: producing a good or helpful result
+components:
+  - morpheme: bene
+    form: bene-
+    meaning_in_word: good
+    zh: 好、善
+    role: prefix
+    is_core: false
+  - morpheme: fac
+    form: fici
+    meaning_in_word: make, do
+    zh: 做、制造
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - benefit
+word_family_details:
+  - word: benefit
+    en: an advantage or helpful effect; to help or be helped
+    zh: 利益；好处；有益于
+confusables:
+  []
+examples:
+  []
+why_confusing: 常搭配 beneficial effect/relationship/change。

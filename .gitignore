@@ -38,3 +38,8 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+
+# local working files and Python caches
+/.tmp/
+__pycache__/
+*.py[cod]

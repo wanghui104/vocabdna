@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clamor
+word: clamor
+pos: noun
+zh: 叫嚣；喧哗
+en: a loud confused noise, especially of people shouting
+components:
+  - morpheme: claim
+    form: clamor
+    meaning_in_word: cry out
+    zh: 要求；声称；叫嚣
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: clam
+    reason: clamor for reform 指强烈要求改革。
+    zh_reason: clamor for reform 指强烈要求改革。
+examples:
+  []
+why_confusing: clamor for reform 指强烈要求改革。

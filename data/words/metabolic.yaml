@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: metabolic
+word: metabolic
+pos: adjective
+zh: 新陈代谢的
+en: Means 新陈代谢的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: metabol
+    form: metabol
+    meaning_in_word: 变化；代谢
+    zh: 变化；代谢
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:metabol.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ic.
+word_family:
+  - metabolism
+word_family_details:
+  - word: metabolism
+    en: Means 新陈代谢; reviewed from the TOEFL source gloss for learner display.
+    zh: 新陈代谢
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

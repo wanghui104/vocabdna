@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clay
+word: clay
+pos: noun
+zh: 黏土；泥土
+en: heavy sticky earth that can be shaped and baked
+components:
+  - morpheme: clay
+    form: clay
+    meaning_in_word: sticky earth
+    zh: 黏土；泥土
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: clay soil 指黏土质土壤。

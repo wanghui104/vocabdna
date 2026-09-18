@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hazel
+display: hazel
+type: root
+core_meaning: draft meaning for hazel
+zh: 榛树的
+origin: Unknown
+source_form: TOEFL draft opaque stem: hazel
+source_meaning: draft learner stem for hazel
+source_meaning_zh: 榛树的
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for hazel
+    zh: 榛树的
+    examples:
+      - hazel
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - hazel -> hazel
+high_value_words:
+  - hazel
+confusable_words:
+  []

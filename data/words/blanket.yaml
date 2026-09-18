@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blanket
+word: blanket
+pos: noun
+zh: 毯子；厚的遮盖物
+en: a large warm cloth for covering, or a thick covering layer
+components:
+  - morpheme: blanket
+    form: blanket
+    meaning_in_word: covering cloth
+    zh: 毯子；覆盖物
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: blanket ban/statement 指一刀切的全面禁令/陈述。

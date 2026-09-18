@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aquamarine
+word: aquamarine
+pos: noun
+zh: 绿玉；碧绿色
+en: Means 绿玉；碧绿色; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: aqua
+    form: aqua
+    meaning_in_word: 水
+    zh: 水
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:aqua.
+  - morpheme: mar
+    form: mar
+    meaning_in_word: 海
+    zh: 海
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mar.
+  - morpheme: ine
+    form: -ine
+    meaning_in_word: 属于；像；由……组成
+    zh: 属于；像；由……组成
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ine.
+word_family:
+  - marine
+  - submarine
+  - maritime
+word_family_details:
+  - word: marine
+    en: Means 海的，航海的，海产的; reviewed from the TOEFL source gloss for learner display.
+    zh: 海的，航海的，海产的
+  - word: submarine
+    en: Means 潜水艇，潜艇；水下的，海底的; reviewed from the TOEFL source gloss for learner display.
+    zh: 潜水艇，潜艇；水下的，海底的
+  - word: maritime
+    en: Means 海上的，海事的; reviewed from the TOEFL source gloss for learner display.
+    zh: 海上的，海事的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

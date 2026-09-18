@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cogn
+display: cogn
+type: root
+core_meaning: cognitive
+zh: 认知的
+origin: Latin
+source_form: Latin cognoscere / cognitus
+source_meaning: know, learn
+source_meaning_zh: 知道；认识
+related_morphemes:
+  []
+senses:
+  - meaning: cognitive
+    zh: 认知的
+    examples:
+      - cognitive
+      - recognition
+      - recognize
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cognit -> cognitive
+  - cogn -> recognition
+  - cogn -> recognize
+high_value_words:
+  - cognitive
+  - recognition
+  - recognize
+confusable_words:
+  []

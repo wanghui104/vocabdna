@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: quota
+display: quota
+type: root
+core_meaning: quota
+zh: quota
+origin: teaching morphology
+source_form: quota
+source_meaning: quota
+source_meaning_zh: quota
+related_morphemes:
+  []
+senses:
+  - meaning: quota
+    zh: quota
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

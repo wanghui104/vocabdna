@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: barrel
+word: barrel
+pos: noun
+zh: 桶
+en: a large round container, often for liquid
+components:
+  - morpheme: barrel
+    form: barrel
+    meaning_in_word: cask
+    zh: 桶
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: barrel 也可指枪管或一桶的量。

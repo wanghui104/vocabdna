@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: carapace
+word: carapace
+pos: noun
+zh: 甲壳
+en: the hard protective shell of an animal such as a crab or turtle
+components:
+  - morpheme: carapace
+    form: carapace
+    meaning_in_word: shell
+    zh: 甲壳
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 多用于动物学或比喻防御外壳。

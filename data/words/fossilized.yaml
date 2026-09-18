@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fossilized
+word: fossilized
+pos: adjective
+zh: 化石化的
+en: preserved as a fossil
+components:
+  - morpheme: foss
+    form: foss
+    meaning_in_word: dig / 挖
+    zh: 挖
+    role: root
+    is_core: true
+    note: fossil 的 foss- 分词词干 + -il 形容词层，原为挖出的；fossilize 再加 -ize。
+  - morpheme: ile
+    form: -il
+    meaning_in_word: capable of being / 能够……的
+    zh: 能够……的
+    role: suffix
+    is_core: false
+    note: ductile 对应 Latin ductilis，可被拉伸；后缀不是 tile 砖。
+  - morpheme: ize
+    form: -iz
+    meaning_in_word: make or do / 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - fossil
+  - fossilize
+  - fossilization
+word_family_details:
+  - word: fossil
+    en: preserved remains or traces of ancient life
+    zh: 化石
+  - word: fossilize
+    en: to become or turn into a fossil
+    zh: 使成化石；化石化
+  - word: fossilization
+    en: the process of becoming a fossil or becoming rigid
+    zh: 化石化；僵化
+confusables:
+  []
+examples:
+  []
+why_confusing: 

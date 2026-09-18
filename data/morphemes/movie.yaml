@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: movie
+display: movie
+type: root
+core_meaning: moving picture
+zh: 电影
+origin: English
+source_form: English movie
+source_meaning: moving picture
+source_meaning_zh: 电影
+related_morphemes:
+  []
+senses:
+  - meaning: moving picture
+    zh: 电影
+    examples:
+      - horror film/movie
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - movie -> horror film/movie
+high_value_words:
+  - horror film/movie
+confusable_words:
+  []

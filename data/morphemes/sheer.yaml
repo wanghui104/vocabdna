@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sheer
+display: sheer
+type: root
+core_meaning: sheer
+zh: 陡峭；纯粹
+origin: teaching morphology
+source_form: sheer
+source_meaning: sheer
+source_meaning_zh: 陡峭；纯粹
+related_morphemes:
+  []
+senses:
+  - meaning: sheer
+    zh: 陡峭；纯粹
+    examples:
+      - sheer
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sheer -> sheer
+high_value_words:
+  - sheer
+confusable_words:
+  []

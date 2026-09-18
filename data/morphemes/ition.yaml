@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ition
+display: ition
+type: root
+core_meaning: ition
+zh: ition
+origin: English
+source_form: English ition
+source_meaning: ition
+source_meaning_zh: ition
+related_morphemes:
+  []
+senses:
+  - meaning: ition
+    zh: ition
+    examples:
+      - juxtaposition
+      - recognition
+      - rendition
+      - supposition
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ition -> juxtaposition
+  - ition -> recognition
+  - ition -> rendition
+  - -ition -> supposition
+high_value_words:
+  - juxtaposition
+  - recognition
+  - rendition
+  - supposition
+confusable_words:
+  []

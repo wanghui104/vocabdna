@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: portraitist
+word: portraitist
+pos: noun
+zh: 肖像画家
+en: Means 肖像画家; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: portray
+    form: portray
+    meaning_in_word: depict / 描绘
+    zh: 描绘
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person connected with / 从事…者
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - portrait
+  - portraiture
+word_family_details:
+  - word: portrait
+    en: Means 肖像，人像; reviewed from the TOEFL source gloss for learner display.
+    zh: 肖像，人像
+  - word: portraiture
+    en: Means 肖像画法; reviewed from the TOEFL source gloss for learner display.
+    zh: 肖像画法
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

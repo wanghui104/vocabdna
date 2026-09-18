@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cowboy
+word: cowboy
+pos: noun
+zh: 牛仔；牧牛人
+en: a person who herds cattle, especially on horseback
+components:
+  - morpheme: cow
+    form: cow
+    meaning_in_word: cattle
+    zh: 牛
+    role: root
+    is_core: true
+  - morpheme: boy
+    form: boy
+    meaning_in_word: worker, boy
+    zh: 男孩；工人
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cowboy 也可指西部文化形象。

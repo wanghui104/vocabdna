@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: extended
+word: extended
+pos: adjective
+zh: 延长的；扩大的；长期的
+en: made longer or larger; lasting for a considerable time
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: tend
+    form: tend
+    meaning_in_word: stretch, direct / 伸展；指向
+    zh: 伸展；指向
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - extend
+  - extension
+  - extensive
+word_family_details:
+  - word: extend
+    en: to make longer or larger; to reach or offer
+    zh: 延长；扩大；延伸；给予
+  - word: extension
+    en: an increase in length, size, or time; an added part
+    zh: 延伸；扩大；延期；增建部分
+  - word: extensive
+    en: covering a large area or range
+    zh: 广泛的；大量的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

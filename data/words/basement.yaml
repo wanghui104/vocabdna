@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: basement
+word: basement
+pos: noun
+zh: 地下室
+en: a part of a building partly or completely below ground
+components:
+  - morpheme: base
+    form: base
+    meaning_in_word: foundation
+    zh: 底部；基础
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: basement 也可比喻最低层。

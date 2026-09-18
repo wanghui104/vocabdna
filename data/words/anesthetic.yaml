@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: anesthetic
+word: anesthetic
+pos: noun/adjective
+zh: 麻醉剂；麻药
+en: a drug that prevents pain by causing loss of feeling
+components:
+  - morpheme: an
+    form: an-
+    meaning_in_word: without
+    zh: 不；无
+    role: prefix
+    is_core: false
+  - morpheme: aesthet
+    form: esthet
+    meaning_in_word: feeling
+    zh: 感知；审美
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - anesthesia
+word_family_details:
+  - word: anesthesia
+    en: loss of feeling, especially from drugs before surgery
+    zh: 麻醉；感觉缺失
+confusables:
+  - word: amnesia
+    reason: anesthetic 是药物或麻醉相关；aesthetic 是审美。
+    zh_reason: anesthetic 是药物或麻醉相关；aesthetic 是审美。
+examples:
+  []
+why_confusing: anesthetic 是药物或麻醉相关；aesthetic 是审美。

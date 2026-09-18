@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confined-to-bed
+word: confined to bed
+pos: phrase
+zh: 卧病不起的；被限制在床上的
+en: unable to leave bed because of illness or weakness
+components:
+  - morpheme: fin
+    form: confined
+    meaning_in_word: kept within limits
+    zh: 边界；限制；终点
+    role: root
+    is_core: true
+  - morpheme: bed
+    form: bed
+    meaning_in_word: bed
+    zh: 床；底层
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 多用于健康状况描述。

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aim
+word: aim
+pos: noun/verb
+zh: 目标；计划
+en: a purpose or goal
+components:
+  - morpheme: estim
+    form: aim
+    meaning_in_word: estimate, direct toward a target
+    zh: 估价
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The aim of the study is to compare habitats.
+    zh: 这项研究的目标是比较栖息地。
+  - en: The policy aims to reduce waste.
+    zh: 该政策旨在减少浪费。
+why_confusing: aim at + 名词/动名词；aim to do 表示打算做。

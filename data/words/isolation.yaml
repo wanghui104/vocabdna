@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: isolation
+word: isolation
+pos: noun
+zh: 隔离；孤立
+en: Means 隔离；孤立; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: isol
+    form: isol
+    meaning_in_word: 岛；孤立
+    zh: 岛；孤立
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:isol.
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: 动作；过程
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ation.
+word_family:
+  - isolate
+  - isolated
+word_family_details:
+  - word: isolate
+    en: Means 使隔离，使孤立; reviewed from the TOEFL source gloss for learner display.
+    zh: 使隔离，使孤立
+  - word: isolated
+    en: Means 与世隔绝的，偏僻的；孤独的; reviewed from the TOEFL source gloss for learner display.
+    zh: 与世隔绝的，偏僻的；孤独的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

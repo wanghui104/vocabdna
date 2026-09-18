@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hustle
+word: hustle
+pos: noun
+zh: 挤，推，拥挤喧嚷
+en: Means 挤，推，拥挤喧嚷; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: hustle
+    form: hustle
+    meaning_in_word: 推挤；忙乱
+    zh: 推挤；忙乱
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hustle.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: menu
+display: menu
+type: root
+core_meaning: small, detailed list
+zh: 小项；菜单
+origin: Latin/French
+source_form: Latin minutus / French menu
+source_meaning: small, detailed list
+source_meaning_zh: 小项；菜单
+related_morphemes:
+  []
+senses:
+  - meaning: small, detailed list
+    zh: 小项；菜单
+    examples:
+      - menu
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - menu -> menu
+high_value_words:
+  - menu
+confusable_words:
+  []

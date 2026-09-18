@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tension
+word: tension
+pos: noun
+zh: 紧张（状态），压力
+en: Means 紧张（状态），压力; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: tens
+    form: tens
+    meaning_in_word: stretch / 拉伸
+    zh: 拉伸；紧张
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act; result / 行为；结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - pretension
+  - tensile
+word_family_details:
+  - word: pretension
+    en: Means 主张，要求; reviewed from the TOEFL source gloss for learner display.
+    zh: 主张，要求
+  - word: tensile
+    en: Means 可拉长的, 可伸长的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可拉长的, 可伸长的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

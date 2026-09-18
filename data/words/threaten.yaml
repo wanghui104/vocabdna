@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: threaten
+word: threaten
+pos: verb
+zh: 威胁；预示…的凶兆，可能来临
+en: Means 威胁；预示…的凶兆，可能来临; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: threat
+    form: threat
+    meaning_in_word: threat / 威胁
+    zh: 威胁
+    role: root
+    is_core: true
+  - morpheme: en
+    form: -en
+    meaning_in_word: make; become / 使；变成
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+word_family:
+  - threateningly
+word_family_details:
+  - word: threateningly
+    en: Means 胁迫地; reviewed from the TOEFL source gloss for learner display.
+    zh: 胁迫地
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

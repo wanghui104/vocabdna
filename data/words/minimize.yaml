@@ -1,0 +1,56 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: minimize
+word: minimize
+pos: verb
+zh: 最小化，减到最小
+en: Means 最小化，减到最小; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: min
+    form: min
+    meaning_in_word: 小；较少
+    zh: 小；较少
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:min.
+  - morpheme: imize
+    form: imize
+    meaning_in_word: imize
+    zh: imize
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:imize.
+word_family:
+  - miniature
+  - minimal
+  - minimalist
+  - minimum
+  - minority
+  - minuscule
+  - minute
+word_family_details:
+  - word: miniature
+    en: Means 微型的，缩小的 / 缩小的模型，缩图，缩影; reviewed from the TOEFL source gloss for learner display.
+    zh: 微型的，缩小的 / 缩小的模型，缩图，缩影
+  - word: minimal
+    en: Means 最小的，最少的; reviewed from the TOEFL source gloss for learner display.
+    zh: 最小的，最少的
+  - word: minimalist
+    en: Means 最低限要求者; reviewed from the TOEFL source gloss for learner display.
+    zh: 最低限要求者
+  - word: minimum
+    en: Means 最小的，最低的 / 最小值，最小化; reviewed from the TOEFL source gloss for learner display.
+    zh: 最小的，最低的 / 最小值，最小化
+  - word: minority
+    en: Means 少数；少数民族; reviewed from the TOEFL source gloss for learner display.
+    zh: 少数；少数民族
+  - word: minuscule
+    en: Means 极小的; reviewed from the TOEFL source gloss for learner display.
+    zh: 极小的
+  - word: minute
+    en: Means 微小的; reviewed from the TOEFL source gloss for learner display.
+    zh: 微小的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

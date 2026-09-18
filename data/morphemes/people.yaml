@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: people
+display: people
+type: root
+core_meaning: people
+zh: 人们
+origin: Latin/French
+source_form: Latin populus, Old French poeple
+source_meaning: people
+source_meaning_zh: 人民；人们
+related_morphemes:
+  []
+senses:
+  - meaning: people
+    zh: 人们
+    examples:
+      - craftspeople
+      - merpeople
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - people -> craftspeople
+  - people -> merpeople
+high_value_words:
+  - craftspeople
+  - merpeople
+confusable_words:
+  []

@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: duplicate
+word: duplicate
+pos: verb/noun/adjective
+zh: 复制
+en: to make an exact copy
+components:
+  - morpheme: du-two
+    form: du-
+    meaning_in_word: two / 二
+    zh: 二
+    role: combining_form
+    is_core: true
+    note: duplicate 为 duo 二 + plicare 折叠 + 分词/动词结尾；区别希腊 di-。
+  - morpheme: plic
+    form: plic
+    meaning_in_word: fold, attach, apply / 折叠；贴合；应用
+    zh: 折叠；贴合；应用
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

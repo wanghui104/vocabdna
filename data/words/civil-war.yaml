@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: civil-war
+word: civil war
+pos: phrase
+zh: 内战
+en: a war between groups within the same country
+components:
+  - morpheme: civ
+    form: civil
+    meaning_in_word: citizen
+    zh: 公民；市民；文明
+    role: root
+    is_core: true
+  - morpheme: war
+    form: war
+    meaning_in_word: war
+    zh: 战争
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 首字母大写时 Civil War 可指特定历史事件。

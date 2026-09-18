@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chisel
+word: chisel
+pos: noun/verb
+zh: 凿子；凿刻
+en: a sharp tool for cutting wood or stone, or to cut with it
+components:
+  - morpheme: chisel
+    form: chisel
+    meaning_in_word: cutting tool
+    zh: 凿子；凿刻
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: chisel away at 可比喻逐步削弱。

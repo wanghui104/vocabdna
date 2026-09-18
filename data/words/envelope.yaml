@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: envelope
+word: envelope
+pos: noun
+zh: 信封；包层
+en: a paper covering for a letter; an enclosing layer
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: velop
+    form: velope
+    meaning_in_word: wrap / 包裹
+    zh: 包裹
+    role: root
+    is_core: true
+    note: 更深来源有 Celtic/Germanic 等提议但未定；en- + velop，不能错误归入 vol- 飞。
+word_family:
+  - envelop
+word_family_details:
+  - word: envelop
+    en: to wrap around or cover completely
+    zh: 包围；包裹
+confusables:
+  - word: envelop
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

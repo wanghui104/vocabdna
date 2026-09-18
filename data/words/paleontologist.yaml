@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: paleontologist
+word: paleontologist
+pos: noun
+zh: 古生物学者
+en: Means 古生物学者; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: paleo
+    form: paleo
+    meaning_in_word: ancient / 古
+    zh: 古
+    role: combining
+    is_core: false
+  - morpheme: ont
+    form: ont
+    meaning_in_word: being; creature / 存在物；生物
+    zh: 存在物；生物
+    role: root
+    is_core: true
+  - morpheme: log
+    form: log
+    meaning_in_word: study; word / 学科；话语
+    zh: 原木；记录
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person; specialist / 人；专家
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

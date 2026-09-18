@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: utter
+word: utter
+pos: verb
+zh: 做声；发表；全然的，完全的
+en: Means 做声；发表；全然的，完全的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: utter
+    form: utter
+    meaning_in_word: utter; complete / 说出；完全
+    zh: 说出；完全
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - utterance
+  - utterly
+word_family_details:
+  - word: utterance
+    en: Means 说话，说话的方式; reviewed from the TOEFL source gloss for learner display.
+    zh: 说话，说话的方式
+  - word: utterly
+    en: Means 完全地，绝对地; reviewed from the TOEFL source gloss for learner display.
+    zh: 完全地，绝对地
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

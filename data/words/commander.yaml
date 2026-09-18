@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: commander
+word: commander
+pos: noun
+zh: 司令官；指挥员
+en: a person who commands troops or an operation
+components:
+  - morpheme: mand
+    form: command
+    meaning_in_word: command
+    zh: 命令；指挥
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - command
+word_family_details:
+  - word: command
+    en: an order, or to direct and control
+    zh: 命令；指挥；控制
+confusables:
+  []
+examples:
+  []
+why_confusing: military commander 常见。

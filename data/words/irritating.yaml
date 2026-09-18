@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: irritating
+word: irritating
+pos: adjective
+zh: 刺激的；使人愤怒的，气人的
+en: Means 刺激的；使人愤怒的，气人的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: irrit
+    form: irrit
+    meaning_in_word: 刺激；激怒
+    zh: 刺激；激怒
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:irrit.
+  - morpheme: ating
+    form: ating
+    meaning_in_word: ating
+    zh: ating
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ating.
+word_family:
+  - irritate
+  - irritable
+word_family_details:
+  - word: irritate
+    en: Means 激怒；使过敏; reviewed from the TOEFL source gloss for learner display.
+    zh: 激怒；使过敏
+  - word: irritable
+    en: Means 易怒的，急躁的; reviewed from the TOEFL source gloss for learner display.
+    zh: 易怒的，急躁的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stimul
+display: stimul
+type: root
+core_meaning: goad; stimulus
+zh: 刺激；激励
+origin: Latin
+source_form: stimul
+source_meaning: goad; stimulus
+source_meaning_zh: 刺激；激励
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: goad; stimulus
+    zh: 刺激；激励
+    examples:
+      - stimulant
+      - stimulate
+      - stimulation
+      - stimuli
+      - stimulus
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - stimul -> stimulant
+  - stimul -> stimulate
+  - stimul -> stimulation
+  - stimul -> stimuli
+  - stimul -> stimulus
+high_value_words:
+  - stimulant
+  - stimulate
+  - stimulation
+  - stimuli
+  - stimulus
+confusable_words:
+  []

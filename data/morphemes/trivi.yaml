@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: trivi
+display: trivi
+type: root
+core_meaning: crossroads; trivial
+zh: 琐碎
+origin: teaching morphology
+source_form: trivi
+source_meaning: crossroads; trivial
+source_meaning_zh: 琐碎
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: crossroads; trivial
+    zh: 琐碎
+    examples:
+      - trivial
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - trivi -> trivial
+high_value_words:
+  - trivial
+confusable_words:
+  []

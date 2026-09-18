@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: character
+word: character
+pos: noun
+zh: 角色；性格；特征；文字
+en: a person's qualities, a role in a story, or a written mark
+components:
+  - morpheme: character
+    form: character
+    meaning_in_word: engraved mark
+    zh: 角色；性格；特征
+    role: root
+    is_core: true
+word_family:
+  - characteristic
+  - characterize
+word_family_details:
+  - word: characteristic
+    en: typical of someone or something, or a distinguishing feature
+    zh: 典型的；特有的；特征
+  - word: characterize
+    en: to describe or mark the typical qualities of someone or something
+    zh: 表现…特色；刻画…性格
+confusables:
+  []
+examples:
+  []
+why_confusing: character 可指性格、角色、文字。

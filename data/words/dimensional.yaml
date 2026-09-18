@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dimensional
+word: dimensional
+pos: adjective
+zh: 空间的；维度的
+en: related to dimensions or measured space
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: mens
+    form: mens
+    meaning_in_word: measure
+    zh: 测量；尺度
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - dimension
+word_family_details:
+  - word: dimension
+    en: a measured extent, size, aspect, or direction in space
+    zh: 尺寸；尺度；维度
+confusables:
+  []
+examples:
+  []
+why_confusing: dimensional 常与 two-/three- 搭配。

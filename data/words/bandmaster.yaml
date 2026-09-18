@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bandmaster
+word: bandmaster
+pos: noun
+zh: 乐队指挥；军乐队队长
+en: a person who conducts or trains a band
+components:
+  - morpheme: band
+    form: band
+    meaning_in_word: group
+    zh: 带子；乐队；群体
+    role: root
+    is_core: true
+  - morpheme: master
+    form: master
+    meaning_in_word: chief
+    zh: 大师；主管
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于军乐队或管乐队语境。

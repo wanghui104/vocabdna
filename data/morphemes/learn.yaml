@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: learn
+display: learn
+type: root
+core_meaning: learn
+zh: learn
+origin: English
+source_form: English learn
+source_meaning: learn
+source_meaning_zh: learn
+related_morphemes:
+  []
+senses:
+  - meaning: learn
+    zh: learn
+    examples:
+      - learn by rote
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - learn -> learn by rote
+high_value_words:
+  - learn by rote
+confusable_words:
+  []

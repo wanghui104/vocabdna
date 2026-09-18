@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: system
+word: system
+pos: noun
+zh: 系统，体系
+en: Means 系统，体系; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: system
+    form: system
+    meaning_in_word: system; organized whole / 系统；整体
+    zh: 组成的整体
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+    related_morphemes:
+      - syn
+word_family:
+  - ecosystem
+  - systematic
+  - systematize
+word_family_details:
+  - word: ecosystem
+    en: Means 生态系统; reviewed from the TOEFL source gloss for learner display.
+    zh: 生态系统
+  - word: systematic
+    en: Means 系统的，体系的; reviewed from the TOEFL source gloss for learner display.
+    zh: 系统的，体系的
+  - word: systematize
+    en: Means 使系统化；将…分类; reviewed from the TOEFL source gloss for learner display.
+    zh: 使系统化；将…分类
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

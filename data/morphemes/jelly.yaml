@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: jelly
+display: jelly
+type: root
+core_meaning: frozen, gel
+zh: 凝胶
+origin: Old French
+source_form: Old French gelee
+source_meaning: frozen, gel
+source_meaning_zh: 凝胶
+related_morphemes:
+  []
+senses:
+  - meaning: frozen, gel
+    zh: 凝胶
+    examples:
+      - jelly
+      - jellyfish
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - jelly -> jelly
+  - jelly -> jellyfish
+high_value_words:
+  - jelly
+  - jellyfish
+confusable_words:
+  []

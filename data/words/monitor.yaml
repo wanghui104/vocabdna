@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: monitor
+word: monitor
+pos: verb
+zh: 监控；监测
+en: Means 监控；监测; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: monitor
+    form: monitor
+    meaning_in_word: 提醒；监控
+    zh: 提醒；监控
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:monitor.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

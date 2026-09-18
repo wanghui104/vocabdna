@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: imbalance
+word: imbalance
+pos: noun
+zh: 不平衡；失衡
+en: a lack of balance or fairness
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: not
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+  - morpheme: balance
+    form: balance
+    meaning_in_word: even scale
+    zh: 平衡；称量
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可用于身体、经济、生态或权力结构。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: antibiotic
+word: antibiotic
+pos: adjective/noun
+zh: 抗菌的；抗生的
+en: able to destroy or inhibit bacteria
+components:
+  - morpheme: anti
+    form: anti-
+    meaning_in_word: against
+    zh: 反对；相对
+    role: prefix
+    is_core: false
+  - morpheme: bio
+    form: bio-
+    meaning_in_word: life
+    zh: 生命
+    role: combining_form
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 日常 noun 常用 antibiotic；antibiotics 可作复数或泛指抗生素。

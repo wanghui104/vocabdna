@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cornet
+word: cornet
+pos: noun
+zh: 短号
+en: Means 短号; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: cornet
+    form: cornet
+    meaning_in_word: 小号；小角
+    zh: 小号；小角
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  - corn
+  - popcorn
+word_family_details:
+  - word: corn
+    en: Means 玉米，谷类; reviewed from the TOEFL source gloss for learner display.
+    zh: 玉米，谷类
+  - word: popcorn
+    en: Means 爆米花; reviewed from the TOEFL source gloss for learner display.
+    zh: 爆米花
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

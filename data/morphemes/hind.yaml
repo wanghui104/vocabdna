@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hind
+display: hind
+type: root
+core_meaning: back, behind
+zh: 后方；后面
+origin: Old English
+source_form: Old English hindan
+source_meaning: back, behind
+source_meaning_zh: 后方；后面
+related_morphemes:
+  []
+senses:
+  - meaning: back, behind
+    zh: 后方；后面
+    examples:
+      - hinder
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - hind -> hinder
+high_value_words:
+  - hinder
+confusable_words:
+  []

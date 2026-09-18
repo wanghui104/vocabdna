@@ -1,0 +1,424 @@
+{
+  "batch": "3601-3800",
+  "sheet": "3001-4000",
+  "startNo": 3601,
+  "endNo": 3800,
+  "startRow": 663,
+  "endRow": 879,
+  "logicalWords": 200,
+  "existingBeforeReview": 18,
+  "missingBeforeReview": 182,
+  "newCanonicalWords": 182,
+  "uniqueCanonicalSlugs": 200,
+  "verifiedWordSlugs": [
+    "pollution",
+    "pollutant",
+    "polygon",
+    "polygonal",
+    "popular",
+    "popular-tune",
+    "popularity",
+    "populous",
+    "porcelain",
+    "pore",
+    "pole",
+    "tadpole",
+    "porous",
+    "portable",
+    "portend",
+    "portion",
+    "portrait",
+    "portraitist",
+    "portraiture",
+    "portray",
+    "portrayal",
+    "pose",
+    "posture",
+    "positive",
+    "negative",
+    "possess",
+    "possession",
+    "post",
+    "poster",
+    "postmaster",
+    "postage",
+    "postal",
+    "postal-service",
+    "postcard",
+    "postdate",
+    "antedate",
+    "postgraduate",
+    "postwar",
+    "postoperative",
+    "posthumous",
+    "postpone",
+    "postulate",
+    "pot",
+    "coffeepot",
+    "teapot",
+    "pottery",
+    "potter",
+    "potted",
+    "potent",
+    "potential",
+    "potentiality",
+    "pound",
+    "poverty",
+    "propery",
+    "practicable",
+    "practical",
+    "practically",
+    "practicality",
+    "inpractical",
+    "impracticality",
+    "prairie",
+    "preach",
+    "precarious",
+    "precaution",
+    "precede",
+    "precedent",
+    "unprecedented",
+    "preceding",
+    "precious",
+    "precipitate",
+    "precipitation",
+    "precipitous",
+    "precision",
+    "precursor",
+    "predatory",
+    "predator",
+    "depredation",
+    "predecessor",
+    "predict",
+    "prediction",
+    "predictive",
+    "predictable",
+    "predictability",
+    "predominate",
+    "predominant",
+    "predominantly",
+    "preeminent",
+    "eminent",
+    "prefabricated",
+    "preferable",
+    "preference",
+    "pregnant",
+    "prehistoric",
+    "preliminary",
+    "premature",
+    "premium",
+    "preoccupation",
+    "preponderance",
+    "prerequisite",
+    "prescribe",
+    "prescribed",
+    "prescription",
+    "presence",
+    "preserve",
+    "preservative",
+    "preservation",
+    "presidency",
+    "presidential-election",
+    "preside-over",
+    "pressure",
+    "prestige",
+    "prestigious",
+    "presumably",
+    "pretension",
+    "prevailing",
+    "prevail",
+    "prevalent",
+    "prey",
+    "osprey",
+    "primal",
+    "primate",
+    "prime",
+    "primary",
+    "prime-number",
+    "heyday",
+    "primitive",
+    "primordial",
+    "priority",
+    "pristine",
+    "privilege",
+    "probe",
+    "proceed",
+    "proceeds",
+    "proceeding",
+    "process",
+    "proclaim",
+    "proclivity",
+    "prod",
+    "prodigious",
+    "prodigy",
+    "produce",
+    "profession",
+    "professional",
+    "professionalism",
+    "proficient",
+    "proficiency",
+    "profile",
+    "profound",
+    "profoundly",
+    "progress",
+    "progression",
+    "progressive",
+    "prohibit",
+    "prohibitive",
+    "prohibitively",
+    "project",
+    "projecting",
+    "projector",
+    "projection",
+    "projectionist",
+    "proliferate",
+    "proliferation",
+    "prolific",
+    "prolong",
+    "prominent",
+    "prominence",
+    "promising",
+    "unpromising",
+    "compromise",
+    "promote",
+    "promoter",
+    "prompt",
+    "prone",
+    "pronounced",
+    "proof",
+    "proofread",
+    "fireproof",
+    "waterproof",
+    "soundproof",
+    "rustproof",
+    "propagate",
+    "propel",
+    "propellant",
+    "propensity",
+    "proper",
+    "property",
+    "proponent",
+    "opponent",
+    "proportion",
+    "disproportionate",
+    "propose",
+    "proposal",
+    "proprietor",
+    "proprietorship",
+    "propulsion",
+    "prose",
+    "prosecute",
+    "prospect",
+    "prospecting",
+    "prospector"
+  ],
+  "multiMorphemeOrCompoundAfterReview": 180,
+  "intentionalBottomRootsAfterReview": 20,
+  "intentionalBottomRootSlugs": [
+    "porcelain",
+    "pore",
+    "pole",
+    "post",
+    "pot",
+    "pound",
+    "prairie",
+    "preach",
+    "pregnant",
+    "premium",
+    "prestige",
+    "prey",
+    "osprey",
+    "pristine",
+    "probe",
+    "prod",
+    "prone",
+    "proof",
+    "proportion",
+    "prose"
+  ],
+  "weakRootWordsAfterReview": 0,
+  "templateResidueCount": 0,
+  "templateResidueSlugs": [],
+  "representativeSplits": [
+    {
+      "slug": "pollution",
+      "split": [
+        "pollut",
+        "ion"
+      ]
+    },
+    {
+      "slug": "pollutant",
+      "split": [
+        "pollut",
+        "ant"
+      ]
+    },
+    {
+      "slug": "polygon",
+      "split": [
+        "poly",
+        "gon"
+      ]
+    },
+    {
+      "slug": "polygonal",
+      "split": [
+        "poly",
+        "gon",
+        "al"
+      ]
+    },
+    {
+      "slug": "popular",
+      "split": [
+        "popul",
+        "ar"
+      ]
+    },
+    {
+      "slug": "popular-tune",
+      "split": [
+        "popul",
+        "ar",
+        "tune"
+      ]
+    },
+    {
+      "slug": "popularity",
+      "split": [
+        "popul",
+        "ar",
+        "ity"
+      ]
+    },
+    {
+      "slug": "populous",
+      "split": [
+        "popul",
+        "ous"
+      ]
+    },
+    {
+      "slug": "tadpole",
+      "split": [
+        "tad",
+        "pole"
+      ]
+    },
+    {
+      "slug": "porous",
+      "split": [
+        "por",
+        "ous"
+      ]
+    },
+    {
+      "slug": "portable",
+      "split": [
+        "port",
+        "able"
+      ]
+    },
+    {
+      "slug": "portend",
+      "split": [
+        "port",
+        "tend"
+      ]
+    },
+    {
+      "slug": "portion",
+      "split": [
+        "port",
+        "ion"
+      ]
+    },
+    {
+      "slug": "portrait",
+      "split": [
+        "por",
+        "trait"
+      ]
+    },
+    {
+      "slug": "portraitist",
+      "split": [
+        "portrait",
+        "ist"
+      ]
+    },
+    {
+      "slug": "portraiture",
+      "split": [
+        "portrait",
+        "ure"
+      ]
+    },
+    {
+      "slug": "portray",
+      "split": [
+        "por",
+        "tray"
+      ]
+    },
+    {
+      "slug": "portrayal",
+      "split": [
+        "por",
+        "tray",
+        "al"
+      ]
+    },
+    {
+      "slug": "pose",
+      "split": [
+        "pos",
+        "e"
+      ]
+    },
+    {
+      "slug": "posture",
+      "split": [
+        "post",
+        "ure"
+      ]
+    },
+    {
+      "slug": "positive",
+      "split": [
+        "posit",
+        "ive"
+      ]
+    },
+    {
+      "slug": "negative",
+      "split": [
+        "neg",
+        "ative"
+      ]
+    },
+    {
+      "slug": "possess",
+      "split": [
+        "pos",
+        "sess"
+      ]
+    },
+    {
+      "slug": "possession",
+      "split": [
+        "possess",
+        "ion"
+      ]
+    }
+  ],
+  "validation": {
+    "validate:vocab": "passed",
+    "generate:vocab": "passed",
+    "build:static": "passed",
+    "tsc --noEmit": "passed",
+    "audit-current-toefl-batch": "passed"
+  },
+  "mainIssue": "Primary work was adding missing canonical entries and drilling learner-visible morphology. After second-pass review, no unresolved root-breakdown defects or template residues remain; remaining one-part entries are intentional bottom roots or opaque common/loan/material/place/animal bases."
+}

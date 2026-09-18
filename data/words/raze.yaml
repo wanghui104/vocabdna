@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: raze
+word: raze
+pos: verb
+zh: 夷为平地
+en: Means 夷为平地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: raze
+    form: raze
+    meaning_in_word: scrape; raze / 刮；夷平
+    zh: 刮；夷平
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

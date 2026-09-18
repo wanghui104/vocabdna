@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: colleague
+word: colleague
+pos: noun
+zh: 同事，同僚
+en: Means 同事，同僚; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: col
+    form: col-
+    meaning_in_word: 共同；一起
+    zh: 共同；一起
+    role: prefix
+    is_core: false
+    note: Second-pass reviewed piece; source/deeper layer shown on root root:col.
+  - morpheme: league
+    form: league
+    meaning_in_word: 联盟；结合
+    zh: 联盟；结合
+    role: root
+    is_core: true
+    note: Second-pass reviewed piece; source/deeper layer shown on root root:league.
+word_family:
+  - league
+word_family_details:
+  - word: league
+    en: Means 同盟，联盟；联合会; reviewed from the TOEFL source gloss for learner display.
+    zh: 同盟，联盟；联合会
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

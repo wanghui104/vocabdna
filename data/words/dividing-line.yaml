@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dividing-line
+word: dividing line
+pos: phrase
+zh: 分界线；界限
+en: a boundary that separates two areas, groups, or ideas
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: vid
+    form: vid
+    meaning_in_word: divide, arrange / 分开；安排
+    zh: 分开；安排
+    role: root
+    is_core: true
+    note: vid-/vis-/vic- 表分开：Latin dividere = dis- + -videre 分离；*divisare → Old French deviser 安排 → device/devise。不是 Latin videre 看见的同形词根。
+    related_morphemes:
+      - dis
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+  - morpheme: line-lign
+    form: line
+    meaning_in_word: line, align / 线；排列成线
+    zh: 线；排列成线
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: vid-/vis-/vic- 表分开：Latin dividere = dis- + -videre 分离；*divisare → Old French deviser 安排 → device/devise。不是 Latin videre 看见的同形词根。

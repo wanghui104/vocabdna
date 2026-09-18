@@ -5,20 +5,155 @@ type: prefix
 core_meaning: before
 zh: 预先、在前
 origin: Latin
+source_form: Latin prae
+source_meaning: before
+source_meaning_zh: 在前
 related_morphemes:
   []
 senses:
   - meaning: before
     zh: 预先、在前
     examples:
+      - precaution
+      - precede
+      - precedent
+      - preceding
+      - precipitate
+      - precipitation
+      - precipitous
+      - precision
+      - precursor
+      - predecessor
       - predict
+      - predictability
+      - predictable
+      - prediction
+      - predictive
+      - predominant
+      - predominantly
+      - predominate
+      - preeminent
+      - prefabricated
+      - preferable
+      - preference
+      - prehistoric
+      - preliminary
+      - premature
+      - preoccupation
+      - preponderance
+      - prerequisite
+      - prescribe
+      - prescribed
+      - prescription
+      - presence
+      - preservation
+      - preservative
+      - preserve
+      - preside over
+      - presidency
+      - presumably
+      - pretense
+      - pretension
+      - prevail
+      - prevailing
+      - prevalent
+      - unprecedented
+      - unpredictable
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - pre- -> precaution
+  - pre- -> precede
+  - pre- -> precedent
+  - pre- -> preceding
+  - pre- -> precipitate
+  - pre- -> precipitation
+  - pre- -> precipitous
+  - pre- -> precision
+  - pre- -> precursor
+  - pre- -> predecessor
   - pre- -> predict
+  - pre- -> predictability
+  - pre- -> predictable
+  - pre- -> prediction
+  - pre- -> predictive
+  - pre- -> predominant
+  - pre- -> predominantly
+  - pre- -> predominate
+  - pre- -> preeminent
+  - pre- -> prefabricated
+  - pre- -> preferable
+  - pre- -> preference
+  - pre- -> prehistoric
+  - pre- -> preliminary
+  - pre- -> premature
+  - pre- -> preoccupation
+  - pre- -> preponderance
+  - pre- -> prerequisite
+  - pre- -> prescribe
+  - pre- -> prescribed
+  - pre- -> prescription
+  - pre- -> presence
+  - pre- -> preservation
+  - pre- -> preservative
+  - pre- -> preserve
+  - pre- -> preside over
+  - pre- -> presidency
+  - pre- -> presumably
+  - pre- -> pretense
+  - pre- -> pretension
+  - pre- -> prevail
+  - pre- -> prevailing
+  - pre- -> prevalent
+  - pre -> unprecedented
+  - pre -> unpredictable
 high_value_words:
+  - precaution
+  - precede
+  - precedent
+  - preceding
+  - precipitate
+  - precipitation
+  - precipitous
+  - precision
+  - precursor
+  - predecessor
   - predict
+  - predictability
+  - predictable
+  - prediction
+  - predictive
+  - predominant
+  - predominantly
+  - predominate
+  - preeminent
+  - prefabricated
+  - preferable
+  - preference
+  - prehistoric
+  - preliminary
+  - premature
+  - preoccupation
+  - preponderance
+  - prerequisite
+  - prescribe
+  - prescribed
+  - prescription
+  - presence
+  - preservation
+  - preservative
+  - preserve
+  - preside over
+  - presidency
+  - presumably
+  - pretense
+  - pretension
+  - prevail
+  - prevailing
+  - prevalent
+  - unprecedented
+  - unpredictable
 confusable_words:
   []

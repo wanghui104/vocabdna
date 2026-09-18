@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diver
+word: diver
+pos: noun
+zh: 潜水者；跳水运动员
+en: a person who dives into or works under water
+components:
+  - morpheme: dive
+    form: div
+    meaning_in_word: plunge, submerge / 潜入；浸入
+    zh: 潜入；浸入
+    role: root
+    is_core: true
+    note: 由古英语两个相关动词合流而来；现代 dive 保留整体，diver 为 div- + -er，勿误连拉丁分开前缀。
+  - morpheme: er
+    form: -er
+    meaning_in_word: one who does / ……者；……物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+word_family:
+  - dive
+word_family_details:
+  - word: dive
+    en: to jump or go down into water; a downward plunge
+    zh: 跳水；潜水；俯冲
+confusables:
+  []
+examples:
+  []
+why_confusing: 由古英语两个相关动词合流而来；现代 dive 保留整体，diver 为 div- + -er，勿误连拉丁分开前缀。

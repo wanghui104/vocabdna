@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: counseling
+word: counseling
+pos: noun
+zh: 咨询服务；辅导
+en: professional help and advice about personal, educational, or psychological problems
+components:
+  - morpheme: counsel
+    form: counsel
+    meaning_in_word: advise
+    zh: 劝告；咨询
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: process
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - counsel
+  - counselor
+word_family_details:
+  - word: counsel
+    en: advice, a legal adviser, or to advise someone
+    zh: 劝告；建议；法律顾问；提供建议
+  - word: counselor
+    en: a person trained to give advice, guidance, or legal help
+    zh: 顾问；法律顾问；辅导员
+confusables:
+  []
+examples:
+  []
+why_confusing: American spelling counseling; British counselling.

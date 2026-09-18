@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: freight
+word: freight
+pos: noun/verb
+zh: 货物；货运；运送
+en: goods carried in bulk, or their transport; to carry as cargo
+components:
+  - morpheme: freight
+    form: freight
+    meaning_in_word: cargo, transport / 货物；货运
+    zh: 货物；货运
+    role: root
+    is_core: true
+    note: 日耳曼货运词；freighter = freight + -er，可指货船、货机或承运人，不局限货车。
+word_family:
+  - freighter
+word_family_details:
+  - word: freighter
+    en: a ship or aircraft used mainly for cargo; a carrier of freight
+    zh: 货船；货机；承运人
+confusables:
+  []
+examples:
+  []
+why_confusing: 

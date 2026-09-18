@@ -1,0 +1,55 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: affectionate
+word: affectionate
+pos: adjective
+zh: 亲爱的；充满爱意的
+en: showing love, fondness, or warm feeling
+components:
+  - morpheme: ad
+    form: af-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: fac
+    form: fect
+    meaning_in_word: feeling affected
+    zh: 做、制造
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: state
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: having
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - affect
+  - affected
+  - affection
+  - affective
+word_family_details:
+  - word: affect
+    en: to influence or produce a change in someone or something
+    zh: 影响
+  - word: affected
+    en: not natural or sincere; deliberately displayed
+    zh: 装模作样的
+  - word: affection
+    en: a gentle feeling of liking, love, or fondness
+    zh: 友爱；挚爱；情爱
+  - word: affective
+    en: relating to emotions, feelings, or moods
+    zh: 感情的；情感性的
+confusables:
+  []
+examples:
+  - en: The child gave an affectionate smile.
+    zh: 孩子露出亲切的微笑。
+why_confusing: 常修饰 person, smile, gesture, relationship。

@@ -22,9 +22,7 @@ word_family_details:
     en: the act of leaving or giving something up
     zh: 抛弃；放弃
 confusables:
-  - word: abase
-    reason: 注意名词 abandon 表示放纵，不等于 abandonment。
-    zh_reason: 注意名词 abandon 表示放纵，不等于 abandonment。
+  []
 examples:
   - en: The team refused to abandon the project.
     zh: 团队拒绝放弃这个项目。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: avant-garde
+word: avant-garde
+pos: adjective/noun
+zh: 先锋派的；先锋派
+en: new and experimental in art, culture, or ideas
+components:
+  - morpheme: ante-avant
+    form: avant-
+    meaning_in_word: before, in front
+    zh: 在前；向前
+    role: prefix
+    is_core: false
+  - morpheme: garde
+    form: garde
+    meaning_in_word: guard
+    zh: 守卫；警戒
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于艺术、音乐、文学等创新风格。

@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rhythm
+word: rhythm
+pos: noun
+zh: 节奏，韵律
+en: Means 节奏，韵律; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rhythm
+    form: rhythm
+    meaning_in_word: rhythm / 节奏
+    zh: 节奏
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  - rhythmic
+  - rhythmical
+word_family_details:
+  - word: rhythmic
+    en: Means 有节奏的，有韵律的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有节奏的，有韵律的
+  - word: rhythmical
+    en: Means 有韵律的，有节奏的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有韵律的，有节奏的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

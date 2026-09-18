@@ -1,0 +1,63 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: motivate
+word: motivate
+pos: verb
+zh: 激发，刺激
+en: Means 激发，刺激; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mot
+    form: mot
+    meaning_in_word: 移动
+    zh: 移动
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mot.
+  - morpheme: iv
+    form: iv
+    meaning_in_word: iv
+    zh: iv
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:iv.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ate.
+word_family:
+  - motion
+  - motionless
+  - locomotion
+  - motivation
+  - motive
+  - locomotive
+  - automotive
+word_family_details:
+  - word: motion
+    en: Means 运动; reviewed from the TOEFL source gloss for learner display.
+    zh: 运动
+  - word: motionless
+    en: Means 不动的，静止的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不动的，静止的
+  - word: locomotion
+    en: Means 运动，移动; reviewed from the TOEFL source gloss for learner display.
+    zh: 运动，移动
+  - word: motivation
+    en: Means 动机，刺激; reviewed from the TOEFL source gloss for learner display.
+    zh: 动机，刺激
+  - word: motive
+    en: Means 动机; reviewed from the TOEFL source gloss for learner display.
+    zh: 动机
+  - word: locomotive
+    en: Means 火车头; reviewed from the TOEFL source gloss for learner display.
+    zh: 火车头
+  - word: automotive
+    en: Means 汽车的，自动推进的; reviewed from the TOEFL source gloss for learner display.
+    zh: 汽车的，自动推进的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

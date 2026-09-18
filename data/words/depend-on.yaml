@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: depend-on
+word: depend on
+pos: phrase
+zh: 依靠；依赖；取决于
+en: to rely on someone or something, or be determined by something
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, from
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: pend
+    form: pend
+    meaning_in_word: hang
+    zh: 悬挂；称量；支付
+    role: root
+    is_core: true
+  - morpheme: on
+    form: on
+    meaning_in_word: on
+    zh: 在上；继续
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: depend on 可指依靠，也可指取决于。

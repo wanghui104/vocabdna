@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: glacial
+word: glacial
+pos: adjective
+zh: 冰的，冰河的；冰冷的
+en: Means 冰的，冰河的；冰冷的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: glaci
+    form: glaci
+    meaning_in_word: glaci
+    zh: 冰
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:glaci.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Suffix layer from Latin -alis.
+word_family:
+  - glacier
+word_family_details:
+  - word: glacier
+    en: Means 冰川; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 冰川
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

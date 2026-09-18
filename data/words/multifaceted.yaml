@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: multifaceted
+word: multifaceted
+pos: adjective
+zh: 多方面的
+en: having many aspects or sides
+components:
+  - morpheme: multi
+    form: multi-
+    meaning_in_word: many / 多
+    zh: 多
+    role: prefix
+    is_core: false
+    note: multifaceted 中 multi- 表多。
+  - morpheme: face
+    form: fac
+    meaning_in_word: face, appearance / 脸；外表
+    zh: 脸；外表
+    role: root
+    is_core: true
+    note: facies 可能与 facere 做、形成有关，但直接词源为脸、形状；facade/facet 的 fac- 不直接释为做。
+  - morpheme: et-small
+    form: -et
+    meaning_in_word: small thing / 小物；小称
+    zh: 小物；小称
+    role: suffix
+    is_core: false
+    note: facet 对应 French facette，face + -ette。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

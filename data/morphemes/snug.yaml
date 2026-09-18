@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: snug
+display: snug
+type: root
+core_meaning: snug
+zh: 温暖舒适
+origin: Scandinavian
+source_form: snug
+source_meaning: snug
+source_meaning_zh: 温暖舒适
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: snug
+    zh: 温暖舒适
+    examples:
+      - snug
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - snug -> snug
+high_value_words:
+  - snug
+confusable_words:
+  []

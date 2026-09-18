@@ -1,0 +1,26 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: article
+word: article
+pos: noun
+zh: 论文；文章；物品；条款；冠词
+en: a piece of writing, an item, a clause, or a grammar word such as a/an/the
+components:
+  - morpheme: articul
+    form: article
+    meaning_in_word: part, joint, item
+    zh: 关节；部分；条款
+    role: root
+    is_core: true
+word_family:
+  - articulate
+word_family_details:
+  - word: articulate
+    en: to express clearly in words, or able to speak clearly
+    zh: 清楚地讲话；清晰表达；善于言辞的
+confusables:
+  - word: artifact
+    reason: article 可指文章、物品、条款，也可指语法冠词。
+    zh_reason: article 可指文章、物品、条款，也可指语法冠词。
+examples:
+  []
+why_confusing: article 可指文章、物品、条款，也可指语法冠词。

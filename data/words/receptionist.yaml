@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: receptionist
+word: receptionist
+pos: noun
+zh: 招待员
+en: Means 招待员; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: cept
+    form: cept
+    meaning_in_word: take; receive / 取；接受
+    zh: 取；理解
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act or result / 动作或结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person; specialist / 人；专家
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - reception
+  - receptive
+  - receptor
+word_family_details:
+  - word: reception
+    en: Means 接待；招待会；接收; reviewed from the TOEFL source gloss for learner display.
+    zh: 接待；招待会；接收
+  - word: receptive
+    en: Means 善于接受的，能接纳的; reviewed from the TOEFL source gloss for learner display.
+    zh: 善于接受的，能接纳的
+  - word: receptor
+    en: Means 接受器，感受器; reviewed from the TOEFL source gloss for learner display.
+    zh: 接受器，感受器
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

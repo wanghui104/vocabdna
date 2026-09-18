@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spaceship
+word: spaceship
+pos: noun
+zh: 宇宙飞船
+en: Means 宇宙飞船; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: space
+    form: space
+    meaning_in_word: space / 空间；太空
+    zh: 空间；范围
+    role: root
+    is_core: true
+  - morpheme: ship-vessel
+    form: ship
+    meaning_in_word: ship; carry by ship / 船；运输
+    zh: 船；运输
+    role: root
+    is_core: true
+word_family:
+  - shipment
+word_family_details:
+  - word: shipment
+    en: Means 装运；装载的货物; reviewed from the TOEFL source gloss for learner display.
+    zh: 装运；装载的货物
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

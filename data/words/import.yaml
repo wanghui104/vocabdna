@@ -1,37 +1,30 @@
 # Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: import
 word: import
-pos: verb/noun
-zh: 进口；引入
-en: to bring goods or data into a place or system
+pos: noun/verb
+zh: （贸易）进口
+en: Means （贸易）进口; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: im
     form: im-
-    meaning_in_word: in
+    meaning_in_word: 进入、向内；不、否定
     zh: 进入、向内；不、否定
     role: prefix
     is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
   - morpheme: port
     form: port
-    meaning_in_word: carry
-    zh: 携带、运输
+    meaning_in_word: 携带、运输
+    zh: 携带；港口
     role: root
     is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:port.
 word_family:
-  - importer
-  - important
+  []
 word_family_details:
-  - word: importer
-    en: related form of importer
-    zh: importer 的相关词
-  - word: important
-    en: related form of important
-    zh: important 的相关词
+  []
 confusables:
-  - word: important
-    reason: import 和 important 形近但词源路径不同。
-    zh_reason: import 和 important 形近但词源路径不同。
+  []
 examples:
-  - en: The company imports coffee from Brazil.
-    zh: 这家公司从巴西进口咖啡。
-why_confusing: import 和 important 形近但词源路径不同。
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

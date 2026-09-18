@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: camoufl
+display: camoufl
+type: root
+core_meaning: disguise
+zh: 伪装
+origin: French
+source_form: French camoufler
+source_meaning: disguise
+source_meaning_zh: 伪装
+source_note: camouflage = camoufl- + -age；camoufler 更深可能涉及意大利语，但证据不足，不强拆 camo/moufl。
+related_morphemes:
+  []
+senses:
+  - meaning: disguise
+    zh: 伪装
+    examples:
+      - camouflage
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - camoufl -> camouflage
+high_value_words:
+  - camouflage
+confusable_words:
+  []

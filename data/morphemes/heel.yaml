@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: heel
+display: heel
+type: root
+core_meaning: draft meaning for heel
+zh: 脚后跟
+origin: Unknown
+source_form: TOEFL draft opaque stem: heel
+source_meaning: draft learner stem for heel
+source_meaning_zh: 脚后跟
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for heel
+    zh: 脚后跟
+    examples:
+      - heel
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - heel -> heel
+high_value_words:
+  - heel
+confusable_words:
+  []

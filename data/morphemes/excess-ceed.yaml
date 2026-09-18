@@ -3,43 +3,62 @@ id: excess-ceed
 display: ceed
 type: root
 core_meaning: go, yield
-zh: 走、前进、让步
+zh: 走；让步
 origin: Latin
+source_form: Latin cedere, cessus
+source_meaning: go, yield
+source_meaning_zh: 走；让步
+source_note: ceed/cess 为 cedere 的英语表层和分词变体，exceed/excess 深层 ex- 超出 + cedere。
 related_morphemes:
   []
 senses:
   - meaning: go, yield
-    zh: 走、前进、让步
+    zh: 走；让步
     examples:
-      - proceed
-      - exceed
-      - succeed
-      - recede
       - access
-      - accessible
       - accessibility
+      - accessible
       - accessory
+      - ancestor
+      - ancestral
+      - ancestry
+      - concede
+      - exceed
+      - excess
+      - excessive
+      - recede
+      - succeed
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - ceed -> proceed
-  - ceed -> exceed
-  - ceed -> succeed
-  - cede -> recede
   - cess -> access
-  - cess -> accessible
   - cess -> accessibility
+  - cess -> accessible
   - cess -> accessory
+  - cess -> ancestor
+  - ancestr -> ancestral
+  - ancestr -> ancestry
+  - cede -> concede
+  - ceed -> exceed
+  - cess -> excess
+  - cess -> excessive
+  - cede -> recede
+  - ceed -> succeed
 high_value_words:
-  - proceed
-  - exceed
-  - succeed
-  - recede
   - access
-  - accessible
   - accessibility
+  - accessible
   - accessory
+  - ancestor
+  - ancestral
+  - ancestry
+  - concede
+  - exceed
+  - excess
+  - excessive
+  - recede
+  - succeed
 confusable_words:
   []

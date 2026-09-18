@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: voyage
+display: voyage
+type: root
+core_meaning: voyage
+zh: 航行
+origin: teaching morphology
+source_form: voyage
+source_meaning: voyage
+source_meaning_zh: 航行
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: voyage
+    zh: 航行
+    examples:
+      - voyage
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - voyage -> voyage
+high_value_words:
+  - voyage
+confusable_words:
+  []

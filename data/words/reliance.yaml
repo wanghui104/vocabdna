@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: reliance
+word: reliance
+pos: noun
+zh: 依靠；依靠的人或物
+en: Means 依靠；依靠的人或物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: li
+    form: li
+    meaning_in_word: bind; rely / 连接；依靠
+    zh: li
+    role: root
+    is_core: true
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: state or act / 状态或动作
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - reliant
+  - reliability
+word_family_details:
+  - word: reliant
+    en: Means 依靠的，信赖自己的; reviewed from the TOEFL source gloss for learner display.
+    zh: 依靠的，信赖自己的
+  - word: reliability
+    en: Means 可靠性; reviewed from the TOEFL source gloss for learner display.
+    zh: 可靠性
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

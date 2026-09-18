@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dent
+word: dent
+pos: noun/verb
+zh: 凹痕；缺口；使凹下
+en: a hollow mark in a surface, or to make such a mark
+components:
+  - morpheme: dent-blow
+    form: dent
+    meaning_in_word: blow, indentation / 打击；凹痕
+    zh: 打击；凹痕
+    role: root
+    is_core: true
+    note: 英语 dent 凹痕来自 dint/Old English dynt 打击。与 Latin dent- 牙齿在此分开建根；indent 是另一条齿状切口路径，不是 dent 的同页派生。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: indent
+    reason: make a dent in 也可表示取得一点进展或消耗一部分。
+    zh_reason: make a dent in 也可表示取得一点进展或消耗一部分。
+examples:
+  []
+why_confusing: make a dent in 也可表示取得一点进展或消耗一部分。

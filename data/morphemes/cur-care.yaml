@@ -14,17 +14,17 @@ senses:
   - meaning: care, attention
     zh: 小心、照料
     examples:
-      - accurate
       - accuracy
+      - accurate
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - cur -> accurate
   - cur -> accuracy
+  - cur -> accurate
 high_value_words:
-  - accurate
   - accuracy
+  - accurate
 confusable_words:
   []

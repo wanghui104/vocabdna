@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compound-eyes
+word: compound eyes
+pos: phrase
+zh: 复眼
+en: eyes made of many small visual units
+components:
+  - morpheme: pon
+    form: compound
+    meaning_in_word: combined
+    zh: 放置
+    role: root
+    is_core: true
+  - morpheme: eye
+    form: eyes
+    meaning_in_word: eyes
+    zh: 眼睛；视觉
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 昆虫常有 compound eyes。

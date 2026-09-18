@@ -1,0 +1,66 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: il
+display: il-
+type: prefix
+core_meaning: not, in
+zh: 不；入
+origin: Latin
+source_form: Latin in-, assimilated before l
+source_meaning: not, in
+source_meaning_zh: 不；入
+related_morphemes:
+  []
+senses:
+  - meaning: not, in
+    zh: 不；入
+    examples:
+      - demobilize
+      - illegible
+      - illiterate
+      - illuminate
+      - illumination
+      - illusion
+      - illusive
+      - illustrate
+      - illustration
+      - immobilize
+      - pestilence
+      - pestilential
+      - ventilate
+      - ventilation
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - il- -> demobilize
+  - il- -> illegible
+  - il- -> illiterate
+  - il- -> illuminate
+  - il- -> illumination
+  - il- -> illusion
+  - il- -> illusive
+  - il- -> illustrate
+  - il- -> illustration
+  - il- -> immobilize
+  - il -> pestilence
+  - il -> pestilential
+  - -il -> ventilate
+  - -il -> ventilation
+high_value_words:
+  - demobilize
+  - illegible
+  - illiterate
+  - illuminate
+  - illumination
+  - illusion
+  - illusive
+  - illustrate
+  - illustration
+  - immobilize
+  - pestilence
+  - pestilential
+  - ventilate
+  - ventilation
+confusable_words:
+  []

@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stock-car-racing
+word: stock car racing
+pos: phrase
+zh: 专业汽车比赛
+en: Means 专业汽车比赛; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: stock
+    form: stock
+    meaning_in_word: stock; supply / 存货；根干
+    zh: 存货；牲畜
+    role: root
+    is_core: true
+  - morpheme: car
+    form: car
+    meaning_in_word: car / 车
+    zh: 车
+    role: root
+    is_core: true
+  - morpheme: race
+    form: race
+    meaning_in_word: race / 比赛；奔跑
+    zh: 比赛；奔跑
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: forming adjective or gerund / 形成形容词或动名词
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - stocky
+word_family_details:
+  - word: stocky
+    en: Means (人或动物)矮而结实的，粗壮的; reviewed from the TOEFL source gloss for learner display.
+    zh: (人或动物)矮而结实的，粗壮的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

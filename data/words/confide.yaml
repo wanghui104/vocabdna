@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confide
+word: confide
+pos: verb
+zh: 吐露心事；倾诉；信赖
+en: to tell someone a private matter because you trust them
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: fid
+    form: fide
+    meaning_in_word: trust
+    zh: 信任；信心
+    role: root
+    is_core: true
+word_family:
+  - confident
+  - confidence
+  - overconfident
+word_family_details:
+  - word: confident
+    en: feeling sure about your ability or about what will happen
+    zh: 有信心的；自信的
+  - word: confidence
+    en: trust in someone or something, or belief in your own ability
+    zh: 信心；信任；把握
+  - word: overconfident
+    en: too confident, especially in a way that ignores risks
+    zh: 过于自信的；自负的
+confusables:
+  []
+examples:
+  []
+why_confusing: confide in someone; confide something to someone.

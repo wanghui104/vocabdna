@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: charity
+word: charity
+pos: noun
+zh: 慈善；仁慈
+en: kindness and giving to people in need
+components:
+  - morpheme: charity
+    form: charity
+    meaning_in_word: love, kindness
+    zh: 慈善；仁慈
+    role: root
+    is_core: true
+word_family:
+  - charitable
+word_family_details:
+  - word: charitable
+    en: kind and generous, especially toward people in need
+    zh: 慈善的；仁慈的
+confusables:
+  []
+examples:
+  []
+why_confusing: 用于补全 charitable。

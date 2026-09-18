@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: marvel
+word: marvel
+pos: noun
+zh: 奇异的事物，罕见的例子
+en: Means 奇异的事物，罕见的例子; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: marvel
+    form: marvel
+    meaning_in_word: 奇异；惊叹
+    zh: 奇异；惊叹
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:marvel.
+word_family:
+  - marvelous
+word_family_details:
+  - word: marvelous
+    en: Means 不可思议的；了不起的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不可思议的；了不起的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

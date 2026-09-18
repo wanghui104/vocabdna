@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: formulate
+word: formulate
+pos: verb
+zh: 制定；系统阐述
+en: to develop and express a plan, theory, or statement precisely
+components:
+  - morpheme: formul
+    form: formul
+    meaning_in_word: small form, rule / 小形式；规则
+    zh: 小形式；规则
+    role: root
+    is_core: true
+    note: formula = form- + -ula 小称；formulate 的 formul- 保存 formula 去词尾 a 的词干，然后加 -ate。
+    related_morphemes:
+      - form
+      - ul
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - formula
+  - formulation
+word_family_details:
+  - word: formula
+    en: a rule expressed with symbols
+    zh: 公式
+  - word: formulation
+    en: the development or precise expression of a plan or idea
+    zh: 制定；系统阐述
+confusables:
+  []
+examples:
+  []
+why_confusing: 

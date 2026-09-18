@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cabinetmaker
+word: cabinetmaker
+pos: noun
+zh: 家具师；细木工匠
+en: a skilled person who makes cabinets and fine wooden furniture
+components:
+  - morpheme: cabin
+    form: cabinet
+    meaning_in_word: cabinet
+    zh: 小屋；橱柜；内阁
+    role: root
+    is_core: true
+  - morpheme: make
+    form: maker
+    meaning_in_word: person who makes
+    zh: 制造；制作者
+    role: root
+    is_core: true
+word_family:
+  - cabinet
+word_family_details:
+  - word: cabinet
+    en: a cupboard with shelves or drawers, or a group of senior government advisers
+    zh: 橱柜；内阁
+confusables:
+  []
+examples:
+  []
+why_confusing: 不是 government cabinet 的成员。

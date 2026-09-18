@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: trail
+display: trail
+type: root
+core_meaning: trail
+zh: 踪迹；拖曳
+origin: Latin/French
+source_form: trail
+source_meaning: trail
+source_meaning_zh: 踪迹；拖曳
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: trail
+    zh: 踪迹；拖曳
+    examples:
+      - trail
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - trail -> trail
+high_value_words:
+  - trail
+confusable_words:
+  []

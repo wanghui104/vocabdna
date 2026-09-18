@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brilliance
+word: brilliance
+pos: noun
+zh: 聪明；辉煌；灿烂
+en: great brightness, skill, or intelligence
+components:
+  - morpheme: brilliant
+    form: brilli
+    meaning_in_word: shine
+    zh: 辉煌；聪明
+    role: root
+    is_core: true
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - brilliantly
+word_family_details:
+  - word: brilliantly
+    en: in a very bright, skillful, or excellent way
+    zh: 辉煌地；灿烂地；出色地
+confusables:
+  []
+examples:
+  []
+why_confusing: 可指视觉亮度，也可指智力才华。

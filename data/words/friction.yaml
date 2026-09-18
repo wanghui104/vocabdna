@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: friction
+word: friction
+pos: noun
+zh: 摩擦
+en: resistance between surfaces moving against each other
+components:
+  - morpheme: frict
+    form: frict
+    meaning_in_word: rub / 摩擦
+    zh: 摩擦
+    role: root
+    is_core: true
+    note: friction = frict- 分词词干 + -ion；不是 fiction 虚构的 fict-。
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: fiction
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

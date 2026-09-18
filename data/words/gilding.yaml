@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gilding
+word: gilding
+pos: noun
+zh: 贴金箔，镀金
+en: Means 贴金箔，镀金; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: gild
+    form: gild
+    meaning_in_word: 镀金
+    zh: 镀金
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:gild.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 动作；结果
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source shown on root:ing.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

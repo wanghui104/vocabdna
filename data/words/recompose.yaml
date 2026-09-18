@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: recompose
+word: recompose
+pos: verb
+zh: 重写；重新安排
+en: to compose again or arrange in a new way
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: again
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: pon
+    form: compose
+    meaning_in_word: put together
+    zh: 放置
+    role: root
+    is_core: true
+word_family:
+  - compose
+  - composition
+word_family_details:
+  - word: compose
+    en: to form something from parts, or create music or writing
+    zh: 组成；作曲；写作
+  - word: composition
+    en: the way parts are arranged, or a piece of writing or music
+    zh: 构成；组成；作文；作曲
+confusables:
+  []
+examples:
+  []
+why_confusing: 可指音乐、文字或结构重组。

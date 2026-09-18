@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: colloquialism
+word: colloquialism
+pos: noun
+zh: 俗话；白话；口语表达
+en: an informal word or expression used in conversation
+components:
+  - morpheme: com
+    form: col-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: loqu
+    form: loqu
+    meaning_in_word: speak
+    zh: 说话
+    role: root
+    is_core: true
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: expression/practice
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+word_family:
+  - colloquial
+word_family_details:
+  - word: colloquial
+    en: used in ordinary conversation rather than formal speech or writing
+    zh: 口语的；通俗语的
+confusables:
+  []
+examples:
+  []
+why_confusing: 正式写作中要谨慎使用。

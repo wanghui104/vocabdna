@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pollen
+word: pollen
+pos: noun
+zh: 花粉
+en: Means 花粉; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: poll
+    form: poll
+    meaning_in_word: head; flower dust/vote / 头；花粉/投票
+    zh: 头；投票
+    role: root
+    is_core: true
+  - morpheme: en
+    form: -en
+    meaning_in_word: substance marker / 物质标记
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

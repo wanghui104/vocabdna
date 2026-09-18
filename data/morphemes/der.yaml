@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: der
+display: der
+type: root
+core_meaning: der
+zh: der
+origin: teaching morphology
+source_form: der
+source_meaning: der
+source_meaning_zh: der
+related_morphemes:
+  []
+senses:
+  - meaning: der
+    zh: der
+    examples:
+      - remainder
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - der -> remainder
+high_value_words:
+  - remainder
+confusable_words:
+  []

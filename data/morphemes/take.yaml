@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: take
+display: take
+type: root
+core_meaning: take, receive
+zh: 拿；接受
+origin: Old English
+source_form: Old English tacan, from Old Norse taka
+source_meaning: take, grasp
+source_meaning_zh: 拿；抓住
+related_morphemes:
+  []
+senses:
+  - meaning: take, receive
+    zh: 拿；接受
+    examples:
+      - be taken by
+      - breathtaking
+      - take into account
+      - undertake
+      - undertaking
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - taken -> be taken by
+  - taking -> breathtaking
+  - take -> take into account
+  - take -> undertake
+  - take -> undertaking
+high_value_words:
+  - be taken by
+  - breathtaking
+  - take into account
+  - undertake
+  - undertaking
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deciduous
+word: deciduous
+pos: adjective
+zh: 每年落叶的
+en: shedding leaves at a particular season each year
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, off
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: cad-cid-cas
+    form: cid
+    meaning_in_word: fall
+    zh: 落下、发生
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -uous
+    meaning_in_word: having quality
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: deciduous trees 落叶树；evergreen 常绿。

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tom
+display: tom
+type: root
+core_meaning: cut
+zh: 切；解剖
+origin: Greek
+source_form: Greek temnein / tome
+source_meaning: cut
+source_meaning_zh: 切开
+related_morphemes:
+  []
+senses:
+  - meaning: cut
+    zh: 切；解剖
+    examples:
+      - anatomy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tomy -> anatomy
+high_value_words:
+  - anatomy
+confusable_words:
+  []

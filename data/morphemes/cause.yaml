@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cause
+display: cause
+type: root
+core_meaning: cause
+zh: 导致；原因；事业
+origin: Latin
+source_form: Latin causa
+source_meaning: cause, reason, legal case
+source_meaning_zh: 原因；理由；案件
+related_morphemes:
+  []
+senses:
+  - meaning: cause
+    zh: 导致；原因；事业
+    examples:
+      - cause
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cause -> cause
+high_value_words:
+  - cause
+confusable_words:
+  []

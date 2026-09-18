@@ -1,0 +1,6700 @@
+{
+  "range": [
+    1601,
+    1800
+  ],
+  "sheet": "1001-2000",
+  "rows": [
+    668,
+    890
+  ],
+  "logicalWords": 200,
+  "entries": [
+    {
+      "no": 1601,
+      "term": "donor",
+      "slug": "donor",
+      "sourceRows": [
+        668,
+        668
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "捐助者"
+        ]
+      ],
+      "changed": true,
+      "before": "don + or",
+      "after": "don + or",
+      "notes": "don- 礼物 → donare 赠与；donation 先进入英语，donate 后由其逆构。现代学习可比较 don + -ate/-ation/-or。",
+      "definitions": [
+        {
+          "sense": "a person or organization that gives something without payment",
+          "en": "a person or organization that gives something without payment",
+          "zh": "捐赠者"
+        }
+      ],
+      "derivatives": [
+        "donate",
+        "donation"
+      ]
+    },
+    {
+      "no": 1602,
+      "term": "dormant",
+      "slug": "dormant",
+      "sourceRows": [
+        669,
+        669
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "静止的，休眠的"
+        ]
+      ],
+      "changed": true,
+      "before": "dormant",
+      "after": "dorm + ant",
+      "notes": "dormit- 为 dormire 的分词构词词干，-it- 属历史词干扩展；dormitory 再接表示场所的 -ory。",
+      "definitions": [
+        {
+          "sense": "temporarily inactive but capable of becoming active",
+          "en": "temporarily inactive but capable of becoming active",
+          "zh": "休眠的；暂不活动的"
+        }
+      ],
+      "derivatives": [
+        "dormancy"
+      ]
+    },
+    {
+      "no": 1603,
+      "term": "dormitory",
+      "slug": "dormitory",
+      "sourceRows": [
+        670,
+        670
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "宿舍"
+        ]
+      ],
+      "changed": true,
+      "before": "dormitory",
+      "after": "dormit + ory",
+      "notes": "dormit- 为 dormire 的分词构词词干，-it- 属历史词干扩展；dormitory 再接表示场所的 -ory。 dormitory 的 -ory 对应 -orium 场所名词，区别形容词 -ory。",
+      "definitions": [
+        {
+          "sense": "a building or room where a number of people sleep, especially students",
+          "en": "a building or room where a number of people sleep, especially students",
+          "zh": "宿舍楼；集体寝室"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1604,
+      "term": "dorsal",
+      "slug": "dorsal",
+      "sourceRows": [
+        671,
+        671
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "背部的，背脊的"
+        ]
+      ],
+      "changed": true,
+      "before": "dorsal",
+      "after": "dors + al",
+      "notes": "dorsum 更深来源不明，不能按英语 door 拆分。",
+      "definitions": [
+        {
+          "sense": "relating to or located on the back of an animal",
+          "en": "relating to or located on the back of an animal",
+          "zh": "背部的；背侧的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1605,
+      "term": "dot",
+      "slug": "dot",
+      "sourceRows": [
+        672,
+        673
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "星罗棋布于"
+        ],
+        [
+          "n.",
+          "点，圆点"
+        ]
+      ],
+      "changed": true,
+      "before": "dot",
+      "after": "dot",
+      "notes": "古英语 dott 记录稀少，深层来源不明，保留简单词干。",
+      "definitions": [
+        {
+          "sense": "a small round mark",
+          "en": "a small round mark",
+          "zh": "点；小圆点"
+        },
+        {
+          "sense": "to mark or cover at scattered points",
+          "en": "to mark or cover at scattered points",
+          "zh": "点缀；散布于"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1606,
+      "term": "endotoxin",
+      "slug": "endotoxin",
+      "sourceRows": [
+        674,
+        674
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "内毒素"
+        ]
+      ],
+      "changed": true,
+      "before": "endotoxin",
+      "after": "endo + tox + in",
+      "notes": "endon 来自 en 在内及历史副词扩展，现代 endo- 作为完整组合成分保留。 toxikon 原为箭毒，关联 toxon 弓；更深来源有争议，不强拆。 toxin 的 -in 是物质名词后缀，不是前缀 in-。",
+      "definitions": [
+        {
+          "sense": "a toxic component of the outer membrane of gram-negative bacteria",
+          "en": "a toxic component of the outer membrane of gram-negative bacteria",
+          "zh": "革兰氏阴性细菌外膜中的有毒成分；内毒素"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1607,
+      "term": "endotherm",
+      "slug": "endotherm",
+      "sourceRows": [
+        675,
+        675
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "温血动物，恒温动物"
+        ]
+      ],
+      "changed": true,
+      "before": "endotherm",
+      "after": "endo + therm",
+      "notes": "endon 来自 en 在内及历史副词扩展，现代 endo- 作为完整组合成分保留。 endo- 内部 + therm- 热；按体内产热分类，不等同于所有时候都保持恒温。",
+      "definitions": [
+        {
+          "sense": "an animal that produces most of its body heat internally through metabolism",
+          "en": "an animal that produces most of its body heat internally through metabolism",
+          "zh": "主要依靠体内代谢产热的动物"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1608,
+      "term": "doubt",
+      "slug": "doubt",
+      "sourceRows": [
+        676,
+        676
+      ],
+      "sourceSenses": [
+        [
+          "n./vt.",
+          "怀疑"
+        ]
+      ],
+      "changed": true,
+      "before": "doubt",
+      "after": "doubt",
+      "notes": "表层 doubt；深层 dubitare/dubius 关联 duo 二，原指两可；经法语 douter 收缩，b 为历史拼写恢复。",
+      "definitions": [
+        {
+          "sense": "uncertainty about whether something is true or likely",
+          "en": "uncertainty about whether something is true or likely",
+          "zh": "怀疑；不确定"
+        },
+        {
+          "sense": "to feel uncertain about or question something",
+          "en": "to feel uncertain about or question something",
+          "zh": "怀疑；质疑"
+        }
+      ],
+      "derivatives": [
+        "doubtful"
+      ]
+    },
+    {
+      "no": 1609,
+      "term": "doubtful",
+      "slug": "doubtful",
+      "sourceRows": [
+        677,
+        677
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "可疑的；疑心的"
+        ]
+      ],
+      "changed": true,
+      "before": "doubtful",
+      "after": "doubt + ful",
+      "notes": "表层 doubt；深层 dubitare/dubius 关联 duo 二，原指两可；经法语 douter 收缩，b 为历史拼写恢复。",
+      "definitions": [
+        {
+          "sense": "uncertain, unlikely, or not convinced",
+          "en": "uncertain, unlikely, or not convinced",
+          "zh": "不确定的；不大可能的；怀疑的"
+        }
+      ],
+      "derivatives": [
+        "doubt"
+      ]
+    },
+    {
+      "no": 1610,
+      "term": "downtown",
+      "slug": "downtown",
+      "sourceRows": [
+        678,
+        678
+      ],
+      "sourceSenses": [
+        [
+          "adv./adj.",
+          "在市区（的），往市区（的）"
+        ]
+      ],
+      "changed": true,
+      "before": "downtown",
+      "after": "down + town",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "in or toward the central business district of a city",
+          "en": "in or toward the central business district of a city",
+          "zh": "在市中心的；往市中心"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1611,
+      "term": "draft",
+      "slug": "draft",
+      "sourceRows": [
+        679,
+        680
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "草图，草稿"
+        ],
+        [
+          "vt.",
+          "起草"
+        ]
+      ],
+      "changed": true,
+      "before": "draft",
+      "after": "draft",
+      "notes": "draft/draught 是 draw 的历史结果名词；gh/f 反映拼写音变，不拆 dra + ft。",
+      "definitions": [
+        {
+          "sense": "rough version",
+          "zh": "草稿；初稿",
+          "en": "a first version of a piece of writing or a plan",
+          "example": {
+            "en": "Please send me the first draft of your essay.",
+            "zh": "请把你的论文初稿发给我。"
+          }
+        },
+        {
+          "sense": "select for service",
+          "zh": "征召；选拔",
+          "en": "to choose people for military service, a team, or a task",
+          "example": {
+            "en": "The team drafted a young quarterback.",
+            "zh": "球队选中了一名年轻四分卫。"
+          }
+        },
+        {
+          "sense": "current of air",
+          "zh": "气流；穿堂风",
+          "en": "a current of air moving through a space",
+          "example": {
+            "en": "A cold draft came under the door.",
+            "zh": "一阵冷风从门缝里钻进来。"
+          }
+        },
+        {
+          "sense": "drawn from a cask or tap",
+          "zh": "散装的；桶装啤酒",
+          "en": "served by being drawn from a cask or tap",
+          "example": {
+            "en": "They ordered draft beer with dinner.",
+            "zh": "他们晚餐时点了生啤。"
+          }
+        },
+        {
+          "sense": "payment order",
+          "zh": "汇票",
+          "en": "a written order to pay money from one account to another",
+          "example": {
+            "en": "The invoice was paid by bank draft.",
+            "zh": "这张发票是用银行汇票支付的。"
+          }
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1612,
+      "term": "draft animal",
+      "slug": "draft-animal",
+      "sourceRows": [
+        681,
+        681
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "役用动物"
+        ]
+      ],
+      "changed": true,
+      "before": "draft animal",
+      "after": "draft + anim + al",
+      "notes": "draft/draught 是 draw 的历史结果名词；gh/f 反映拼写音变，不拆 dra + ft。",
+      "definitions": [
+        {
+          "sense": "an animal used to pull a vehicle or heavy load",
+          "en": "an animal used to pull a vehicle or heavy load",
+          "zh": "役畜；拉车或牵引重物的动物"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1613,
+      "term": "drag",
+      "slug": "drag",
+      "sourceRows": [
+        682,
+        682
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "拖动"
+        ]
+      ],
+      "changed": true,
+      "before": "drag",
+      "after": "drag",
+      "notes": "古诺斯语借入或古英语方言来源均有解释；不把 drag 错连到拉丁 tract。",
+      "definitions": [
+        {
+          "sense": "to pull along a surface with effort",
+          "en": "to pull along a surface with effort",
+          "zh": "拖；拉"
+        },
+        {
+          "sense": "to move slowly or continue tediously",
+          "en": "to move slowly or continue tediously",
+          "zh": "缓慢移动；拖延"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1614,
+      "term": "dragonfly",
+      "slug": "dragonfly",
+      "sourceRows": [
+        683,
+        683
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "蜻蜓"
+        ]
+      ],
+      "changed": true,
+      "before": "dragonfly",
+      "after": "dragon + fly",
+      "notes": "更深通常联系 derkesthai 看清，但语义解释不是定论；现代 dragon 保留借词词干。 dragonfly = dragon + fly，fly 为稳定本族词。",
+      "definitions": [
+        {
+          "sense": "a predatory insect with a long body and two pairs of large wings",
+          "en": "a predatory insect with a long body and two pairs of large wings",
+          "zh": "蜻蜓"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1615,
+      "term": "drain",
+      "slug": "drain",
+      "sourceRows": [
+        684,
+        685
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "（使）流走，（使）排光"
+        ],
+        [
+          "n.",
+          "排水；消耗"
+        ]
+      ],
+      "changed": true,
+      "before": "drain",
+      "after": "drain",
+      "notes": "历史关联 dry/drought 的干燥词族，现代 drain 为稳定词干。",
+      "definitions": [
+        {
+          "sense": "to remove liquid or let it flow away; to use up resources",
+          "en": "to remove liquid or let it flow away; to use up resources",
+          "zh": "排液；耗尽"
+        },
+        {
+          "sense": "a pipe or channel for carrying liquid away; a continuing loss of resources",
+          "en": "a pipe or channel for carrying liquid away; a continuing loss of resources",
+          "zh": "排水管；消耗"
+        }
+      ],
+      "derivatives": [
+        "drainage"
+      ]
+    },
+    {
+      "no": 1616,
+      "term": "down the drain",
+      "slug": "down-the-drain",
+      "sourceRows": [
+        686,
+        686
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "浪费；无结果"
+        ]
+      ],
+      "changed": true,
+      "before": "down the drain",
+      "after": "down + the + drain",
+      "notes": "短语中的独立虚词，不是词缀。 历史关联 dry/drought 的干燥词族，现代 drain 为稳定词干。",
+      "definitions": [
+        {
+          "sense": "wasted or lost without a useful result",
+          "en": "wasted or lost without a useful result",
+          "zh": "付诸东流；白白浪费"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1617,
+      "term": "drainage",
+      "slug": "drainage",
+      "sourceRows": [
+        687,
+        687
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "排水，排出物"
+        ]
+      ],
+      "changed": true,
+      "before": "drainage",
+      "after": "drain + age",
+      "notes": "历史关联 dry/drought 的干燥词族，现代 drain 为稳定词干。",
+      "definitions": [
+        {
+          "sense": "the removal or flow of excess water or other liquid",
+          "en": "the removal or flow of excess water or other liquid",
+          "zh": "排水；排液"
+        }
+      ],
+      "derivatives": [
+        "drain"
+      ]
+    },
+    {
+      "no": 1618,
+      "term": "drama",
+      "slug": "drama",
+      "sourceRows": [
+        688,
+        688
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "戏剧"
+        ]
+      ],
+      "changed": true,
+      "before": "drama",
+      "after": "drama",
+      "notes": "更深 dra- 做、表演 + -ma/-mat- 结果名词；dramat- 是斜格词干，不把 t 当独立英语后缀。",
+      "definitions": [
+        {
+          "sense": "a play or the art of theatrical performance; an emotionally striking series of events",
+          "en": "a play or the art of theatrical performance; an emotionally striking series of events",
+          "zh": "戏剧；戏剧艺术；富于戏剧性的事件"
+        }
+      ],
+      "derivatives": [
+        "dramatic",
+        "dramatically",
+        "dramatize",
+        "dramatization"
+      ]
+    },
+    {
+      "no": 1619,
+      "term": "dramatize",
+      "slug": "dramatize",
+      "sourceRows": [
+        689,
+        689
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "改编成戏剧，编写剧本"
+        ]
+      ],
+      "changed": true,
+      "before": "dramatize",
+      "after": "dramat + ize",
+      "notes": "更深 dra- 做、表演 + -ma/-mat- 结果名词；dramat- 是斜格词干，不把 t 当独立英语后缀。",
+      "definitions": [
+        {
+          "sense": "to adapt a story for performance; to present something as unusually exciting or serious",
+          "en": "to adapt a story for performance; to present something as unusually exciting or serious",
+          "zh": "改编成戏剧；戏剧化地表现"
+        }
+      ],
+      "derivatives": [
+        "drama",
+        "dramatic",
+        "dramatically",
+        "dramatization"
+      ]
+    },
+    {
+      "no": 1620,
+      "term": "melodrama",
+      "slug": "melodrama",
+      "sourceRows": [
+        690,
+        690
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "情节剧"
+        ]
+      ],
+      "changed": true,
+      "before": "melodrama",
+      "after": "melo + drama",
+      "notes": "melodrama 原为配乐戏剧，后来强调夸张情节。 更深 dra- 做、表演 + -ma/-mat- 结果名词；dramat- 是斜格词干，不把 t 当独立英语后缀。",
+      "definitions": [
+        {
+          "sense": "a story or performance emphasizing sensational events and exaggerated emotion",
+          "en": "a story or performance emphasizing sensational events and exaggerated emotion",
+          "zh": "情节剧；夸张煽情的表现"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1621,
+      "term": "dramatically",
+      "slug": "dramatically",
+      "sourceRows": [
+        691,
+        691
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "戏剧性地；引人注目地"
+        ]
+      ],
+      "changed": true,
+      "before": "dramatically",
+      "after": "dramat + ic + al + ly",
+      "notes": "dramatic + -ally；细分 dramat- + -ic + -al + -ly。-al 是副词构词桥接层；dramat- 更深为 dra- 做 + -ma/-mat- 结果名词。",
+      "definitions": [
+        {
+          "sense": "in a striking, sudden, or theatrical way",
+          "en": "in a striking, sudden, or theatrical way",
+          "zh": "显著地；剧烈地；戏剧性地"
+        }
+      ],
+      "derivatives": [
+        "drama",
+        "dramatic",
+        "dramatize",
+        "dramatization"
+      ]
+    },
+    {
+      "no": 1622,
+      "term": "dramatic",
+      "slug": "dramatic",
+      "sourceRows": [
+        692,
+        692
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "戏剧性的；引人注目的"
+        ]
+      ],
+      "changed": true,
+      "before": "dramatic",
+      "after": "dramat + ic",
+      "notes": "更深 dra- 做、表演 + -ma/-mat- 结果名词；dramat- 是斜格词干，不把 t 当独立英语后缀。",
+      "definitions": [
+        {
+          "sense": "relating to drama; striking, exciting, or sudden in effect",
+          "en": "relating to drama; striking, exciting, or sudden in effect",
+          "zh": "戏剧的；引人注目的；剧烈的"
+        }
+      ],
+      "derivatives": [
+        "drama",
+        "dramatically",
+        "dramatize",
+        "dramatization"
+      ]
+    },
+    {
+      "no": 1623,
+      "term": "drastic",
+      "slug": "drastic",
+      "sourceRows": [
+        693,
+        693
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "猛烈的"
+        ]
+      ],
+      "changed": true,
+      "before": "drastic",
+      "after": "drast + ic",
+      "notes": "drast- 来自 dra- 做 + 历史施事 -tes（含 s 扩展），与 drama 同源，非英语 dra + st。",
+      "definitions": [
+        {
+          "sense": "extreme or severe in effect or action",
+          "en": "extreme or severe in effect or action",
+          "zh": "激烈的；严厉的；幅度很大的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1624,
+      "term": "draw",
+      "slug": "draw",
+      "sourceRows": [
+        694,
+        694
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "吸引"
+        ]
+      ],
+      "changed": true,
+      "before": "draw",
+      "after": "draw",
+      "notes": "draw 是 dragan 的英语演变形；drag 与 draft 同源相关，但是独立现代词族。",
+      "definitions": [
+        {
+          "sense": "to pull or attract",
+          "en": "to pull or attract",
+          "zh": "拉；吸引"
+        },
+        {
+          "sense": "to make a picture with lines",
+          "en": "to make a picture with lines",
+          "zh": "画"
+        },
+        {
+          "sense": "to obtain or take something from a source",
+          "en": "to obtain or take something from a source",
+          "zh": "取出；汲取"
+        }
+      ],
+      "derivatives": [
+        "drawing",
+        "drawer"
+      ]
+    },
+    {
+      "no": 1625,
+      "term": "drawing",
+      "slug": "drawing",
+      "sourceRows": [
+        695,
+        695
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "图画，制图"
+        ]
+      ],
+      "changed": true,
+      "before": "drawing",
+      "after": "draw + ing",
+      "notes": "draw 是 dragan 的英语演变形；drag 与 draft 同源相关，但是独立现代词族。",
+      "definitions": [
+        {
+          "sense": "a picture made with lines, or the activity of making such pictures",
+          "en": "a picture made with lines, or the activity of making such pictures",
+          "zh": "图画；绘图"
+        }
+      ],
+      "derivatives": [
+        "draw",
+        "drawer"
+      ]
+    },
+    {
+      "no": 1626,
+      "term": "draw up",
+      "slug": "draw-up",
+      "sourceRows": [
+        696,
+        696
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "起草"
+        ]
+      ],
+      "changed": true,
+      "before": "draw up",
+      "after": "draw + up",
+      "notes": "draw 是 dragan 的英语演变形；drag 与 draft 同源相关，但是独立现代词族。",
+      "definitions": [
+        {
+          "sense": "to prepare a written document or plan",
+          "en": "to prepare a written document or plan",
+          "zh": "起草；拟订"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1627,
+      "term": "draw out",
+      "slug": "draw-out",
+      "sourceRows": [
+        697,
+        697
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "拔出；引起"
+        ]
+      ],
+      "changed": true,
+      "before": "draw out",
+      "after": "draw + out",
+      "notes": "draw 是 dragan 的英语演变形；drag 与 draft 同源相关，但是独立现代词族。",
+      "definitions": [
+        {
+          "sense": "to extract something; to make something last longer; to encourage someone to speak",
+          "en": "to extract something; to make something last longer; to encourage someone to speak",
+          "zh": "拔出；拖长；引导某人开口"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1628,
+      "term": "draw from",
+      "slug": "draw-from",
+      "sourceRows": [
+        698,
+        698
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "源于…"
+        ]
+      ],
+      "changed": true,
+      "before": "draw from",
+      "after": "draw + from",
+      "notes": "draw 是 dragan 的英语演变形；drag 与 draft 同源相关，但是独立现代词族。",
+      "definitions": [
+        {
+          "sense": "to obtain ideas, information, or support from a source",
+          "en": "to obtain ideas, information, or support from a source",
+          "zh": "从……汲取；获得"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1629,
+      "term": "drawback",
+      "slug": "drawback",
+      "sourceRows": [
+        699,
+        699
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "弊端，缺点"
+        ]
+      ],
+      "changed": true,
+      "before": "drawback",
+      "after": "draw + back",
+      "notes": "draw 是 dragan 的英语演变形；drag 与 draft 同源相关，但是独立现代词族。",
+      "definitions": [
+        {
+          "sense": "a disadvantage or unfavorable feature",
+          "en": "a disadvantage or unfavorable feature",
+          "zh": "缺点；不利条件"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1630,
+      "term": "drawer",
+      "slug": "drawer",
+      "sourceRows": [
+        700,
+        700
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "抽屉"
+        ]
+      ],
+      "changed": true,
+      "before": "drawer",
+      "after": "draw + er",
+      "notes": "draw 是 dragan 的英语演变形；drag 与 draft 同源相关，但是独立现代词族。 Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.",
+      "definitions": [
+        {
+          "sense": "a sliding box in furniture that can be pulled out",
+          "en": "a sliding box in furniture that can be pulled out",
+          "zh": "抽屉"
+        }
+      ],
+      "derivatives": [
+        "draw",
+        "drawing"
+      ]
+    },
+    {
+      "no": 1631,
+      "term": "dread",
+      "slug": "dread",
+      "sourceRows": [
+        701,
+        701
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "畏惧，恐怖"
+        ]
+      ],
+      "changed": true,
+      "before": "dread",
+      "after": "dread",
+      "notes": "表层 dread 是收缩词干；深层 ond- 反对 + rædan 劝告，经过 adrædan 收缩，不把 d 当现代前缀。",
+      "definitions": [
+        {
+          "sense": "great fear of something that may happen",
+          "en": "great fear of something that may happen",
+          "zh": "恐惧；担忧"
+        },
+        {
+          "sense": "to fear something intensely",
+          "en": "to fear something intensely",
+          "zh": "非常害怕"
+        }
+      ],
+      "derivatives": [
+        "dreadful",
+        "dreadfully"
+      ]
+    },
+    {
+      "no": 1632,
+      "term": "dreadful",
+      "slug": "dreadful",
+      "sourceRows": [
+        702,
+        702
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "可怕的"
+        ]
+      ],
+      "changed": true,
+      "before": "dreadful",
+      "after": "dread + ful",
+      "notes": "表层 dread 是收缩词干；深层 ond- 反对 + rædan 劝告，经过 adrædan 收缩，不把 d 当现代前缀。",
+      "definitions": [
+        {
+          "sense": "very bad or causing great fear",
+          "en": "very bad or causing great fear",
+          "zh": "糟糕的；可怕的"
+        }
+      ],
+      "derivatives": [
+        "dreadfully",
+        "dread"
+      ]
+    },
+    {
+      "no": 1633,
+      "term": "dreadfully",
+      "slug": "dreadfully",
+      "sourceRows": [
+        703,
+        703
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "可怕地"
+        ]
+      ],
+      "changed": true,
+      "before": "dreadfully",
+      "after": "dread + ful + ly",
+      "notes": "表层 dread 是收缩词干；深层 ond- 反对 + rædan 劝告，经过 adrædan 收缩，不把 d 当现代前缀。",
+      "definitions": [
+        {
+          "sense": "very badly, fearfully, or extremely",
+          "en": "very badly, fearfully, or extremely",
+          "zh": "很糟地；可怕地；极其"
+        }
+      ],
+      "derivatives": [
+        "dreadful",
+        "dread"
+      ]
+    },
+    {
+      "no": 1634,
+      "term": "dreary",
+      "slug": "dreary",
+      "sourceRows": [
+        704,
+        704
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "沉闷的，阴郁的"
+        ]
+      ],
+      "changed": true,
+      "before": "dreary",
+      "after": "dreary",
+      "notes": "深层 dreor 血 + -ig 性质后缀（对应 -y）；dreor 又关联 dreosan 下落，现代不强造 drear 自由词。",
+      "definitions": [
+        {
+          "sense": "dull, gloomy, and depressing",
+          "en": "dull, gloomy, and depressing",
+          "zh": "沉闷的；阴郁的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1635,
+      "term": "drift",
+      "slug": "drift",
+      "sourceRows": [
+        705,
+        705
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "漂流；漂泊"
+        ]
+      ],
+      "changed": true,
+      "before": "drift",
+      "after": "drift",
+      "notes": "历史为 drive 词族的结果名词，或经北欧语言借入；词尾 t 是历史派生痕迹，现代保留 drift。",
+      "definitions": [
+        {
+          "sense": "to move slowly under the influence of wind or water; to move without a clear purpose",
+          "en": "to move slowly under the influence of wind or water; to move without a clear purpose",
+          "zh": "漂流；漫无目的地移动"
+        },
+        {
+          "sense": "a slow movement, a general tendency, or a wind-blown pile",
+          "en": "a slow movement, a general tendency, or a wind-blown pile",
+          "zh": "漂移；趋势；吹积物"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1636,
+      "term": "driftwood",
+      "slug": "driftwood",
+      "sourceRows": [
+        706,
+        706
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "浮木"
+        ]
+      ],
+      "changed": true,
+      "before": "driftwood",
+      "after": "drift + wood",
+      "notes": "历史为 drive 词族的结果名词，或经北欧语言借入；词尾 t 是历史派生痕迹，现代保留 drift。 简单本族词干。",
+      "definitions": [
+        {
+          "sense": "wood carried by water and often washed ashore",
+          "en": "wood carried by water and often washed ashore",
+          "zh": "浮木；漂流木"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1637,
+      "term": "snowdrift",
+      "slug": "snowdrift",
+      "sourceRows": [
+        707,
+        707
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "雪堆"
+        ]
+      ],
+      "changed": true,
+      "before": "snowdrift",
+      "after": "snow + drift",
+      "notes": "简单本族词干。 历史为 drive 词族的结果名词，或经北欧语言借入；词尾 t 是历史派生痕迹，现代保留 drift。",
+      "definitions": [
+        {
+          "sense": "a bank of snow piled up by wind",
+          "en": "a bank of snow piled up by wind",
+          "zh": "风吹积成的雪堆"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1638,
+      "term": "drill",
+      "slug": "drill",
+      "sourceRows": [
+        708,
+        709
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "钻孔，打眼"
+        ],
+        [
+          "n./vi.",
+          "训练，操练；反复练习"
+        ]
+      ],
+      "changed": true,
+      "before": "drill",
+      "after": "drill",
+      "notes": "本批钻孔及反复操练沿荷兰语 drillen 路径；不混入布料及狒狒的同形异源义项。",
+      "definitions": [
+        {
+          "sense": "to make a hole with a rotating tool",
+          "en": "to make a hole with a rotating tool",
+          "zh": "钻孔"
+        },
+        {
+          "sense": "a tool for boring; repeated practice of a skill or procedure",
+          "en": "a tool for boring; repeated practice of a skill or procedure",
+          "zh": "钻；反复操练"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1639,
+      "term": "drop in",
+      "slug": "drop-in",
+      "sourceRows": [
+        710,
+        710
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "顺便拜访"
+        ]
+      ],
+      "changed": true,
+      "before": "drop in",
+      "after": "drop + in",
+      "notes": "独立英语介词或小品词 in，来自 Old English in，不是构词前缀。",
+      "definitions": [
+        {
+          "sense": "to visit informally without a prior arrangement",
+          "en": "to visit informally without a prior arrangement",
+          "zh": "顺便拜访"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1640,
+      "term": "drought",
+      "slug": "drought",
+      "sourceRows": [
+        711,
+        711
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "干旱"
+        ]
+      ],
+      "changed": true,
+      "before": "drought",
+      "after": "drought",
+      "notes": "深层 dry 的历史词干 + 抽象名词 -th，音变形成 drought；保留稳定拼写，不按现代字母硬拆。",
+      "definitions": [
+        {
+          "sense": "a prolonged period with too little rain",
+          "en": "a prolonged period with too little rain",
+          "zh": "干旱"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1641,
+      "term": "drowsy",
+      "slug": "drowsy",
+      "sourceRows": [
+        712,
+        712
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "昏昏欲睡的"
+        ]
+      ],
+      "changed": true,
+      "before": "drowsy",
+      "after": "drows + y",
+      "notes": "可能关联 drusian 下沉、迟缓；历史关系不确定，drowsy 表层 drows- + -y。",
+      "definitions": [
+        {
+          "sense": "sleepy or likely to fall asleep",
+          "en": "sleepy or likely to fall asleep",
+          "zh": "昏昏欲睡的"
+        }
+      ],
+      "derivatives": [
+        "drowse"
+      ]
+    },
+    {
+      "no": 1642,
+      "term": "drudgery",
+      "slug": "drudgery",
+      "sourceRows": [
+        713,
+        713
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "苦工，苦差事"
+        ]
+      ],
+      "changed": true,
+      "before": "drudgery",
+      "after": "drudg + ery",
+      "notes": "可能关联 Old English dreogan 劳作、忍受；深层未定。drudgery 为 drudg- + -ery。 -ry 是 -ery 的缩略形式；现代 dentistry = dentist + -ry。",
+      "definitions": [
+        {
+          "sense": "hard, repetitive, and dull work",
+          "en": "hard, repetitive, and dull work",
+          "zh": "单调辛苦的劳动"
+        }
+      ],
+      "derivatives": [
+        "drudge"
+      ]
+    },
+    {
+      "no": 1643,
+      "term": "ductile",
+      "slug": "ductile",
+      "sourceRows": [
+        714,
+        714
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "易延展的；柔软的"
+        ]
+      ],
+      "changed": true,
+      "before": "ductile",
+      "after": "duct + ile",
+      "notes": "ductile 对应 Latin ductilis，可被拉伸；后缀不是 tile 砖。",
+      "definitions": [
+        {
+          "sense": "capable of being drawn into wire or stretched without breaking",
+          "en": "capable of being drawn into wire or stretched without breaking",
+          "zh": "有延展性的；可拉成细丝的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1644,
+      "term": "due",
+      "slug": "due",
+      "sourceRows": [
+        715,
+        715
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "预定的；到期的"
+        ]
+      ],
+      "changed": true,
+      "before": "due",
+      "after": "due",
+      "notes": "debere 更深 de- 离开 + habere 持有；due 为法语分词收缩形，与 subdue/residue 不同根。",
+      "definitions": [
+        {
+          "sense": "expected at a stated time; owed or payable; proper or deserved",
+          "en": "expected at a stated time; owed or payable; proper or deserved",
+          "zh": "预定的；到期应付的；应得的"
+        }
+      ],
+      "derivatives": [
+        "dues"
+      ]
+    },
+    {
+      "no": 1645,
+      "term": "due to",
+      "slug": "due-to",
+      "sourceRows": [
+        716,
+        716
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "因为，由于"
+        ]
+      ],
+      "changed": true,
+      "before": "due to",
+      "after": "due + to",
+      "notes": "debere 更深 de- 离开 + habere 持有；due 为法语分词收缩形，与 subdue/residue 不同根。",
+      "definitions": [
+        {
+          "sense": "because of or caused by",
+          "en": "because of or caused by",
+          "zh": "由于；由……引起"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1646,
+      "term": "overdue",
+      "slug": "overdue",
+      "sourceRows": [
+        717,
+        717
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "迟到的，过期的"
+        ]
+      ],
+      "changed": true,
+      "before": "overdue",
+      "after": "over + due",
+      "notes": "debere 更深 de- 离开 + habere 持有；due 为法语分词收缩形，与 subdue/residue 不同根。",
+      "definitions": [
+        {
+          "sense": "not done, paid, or returned by the expected time",
+          "en": "not done, paid, or returned by the expected time",
+          "zh": "逾期的；迟到的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1647,
+      "term": "dues",
+      "slug": "dues",
+      "sourceRows": [
+        718,
+        718
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "应付款"
+        ]
+      ],
+      "changed": true,
+      "before": "dues",
+      "after": "due + s",
+      "notes": "debere 更深 de- 离开 + habere 持有；due 为法语分词收缩形，与 subdue/residue 不同根。",
+      "definitions": [
+        {
+          "sense": "regular payments owed for membership or services",
+          "en": "regular payments owed for membership or services",
+          "zh": "会费；应缴费用"
+        }
+      ],
+      "derivatives": [
+        "due"
+      ]
+    },
+    {
+      "no": 1648,
+      "term": "subdue",
+      "slug": "subdue",
+      "sourceRows": [
+        719,
+        719
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "征服"
+        ]
+      ],
+      "changed": true,
+      "before": "subdue",
+      "after": "subdue",
+      "notes": "表层保留 subdue；深层 sub- + ducere 引导，另受 subdere（sub- + 放置）影响；不是 sub- + due 到期。",
+      "definitions": [
+        {
+          "sense": "to bring under control or reduce in intensity",
+          "en": "to bring under control or reduce in intensity",
+          "zh": "制服；抑制；减弱"
+        }
+      ],
+      "derivatives": [
+        "subdued"
+      ]
+    },
+    {
+      "no": 1649,
+      "term": "residue",
+      "slug": "residue",
+      "sourceRows": [
+        720,
+        720
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "残滓，剩余"
+        ]
+      ],
+      "changed": true,
+      "before": "residue",
+      "after": "residue",
+      "notes": "深层 re- 留后 + sedere 坐（弱化 sid-），再有 Latin -uus 形容词构词；不把 residue 看成 re + due。",
+      "definitions": [
+        {
+          "sense": "material or an amount that remains after the rest has gone or been removed",
+          "en": "material or an amount that remains after the rest has gone or been removed",
+          "zh": "残留物；剩余"
+        }
+      ],
+      "derivatives": [
+        "residual"
+      ]
+    },
+    {
+      "no": 1650,
+      "term": "dull",
+      "slug": "dull",
+      "sourceRows": [
+        721,
+        721
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "钝的；感觉或理解迟钝的"
+        ]
+      ],
+      "changed": true,
+      "before": "dull",
+      "after": "dull",
+      "notes": "本族简单词，具体传入路径存在不同解释，不强拆。",
+      "definitions": [
+        {
+          "sense": "not sharp, bright, interesting, or quick to understand",
+          "en": "not sharp, bright, interesting, or quick to understand",
+          "zh": "钝的；暗淡的；乏味的；迟钝的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1651,
+      "term": "dumb",
+      "slug": "dumb",
+      "sourceRows": [
+        722,
+        722
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "哑的"
+        ]
+      ],
+      "changed": true,
+      "before": "dumb",
+      "after": "dumb",
+      "notes": "本族简单词，b 不发音；现代指人不能说话时可能冒犯，释义标注用法。",
+      "definitions": [
+        {
+          "sense": "unable to speak; unwilling to speak",
+          "en": "unable to speak; unwilling to speak",
+          "zh": "不能说话的（指人时有冒犯风险）；缄默的"
+        },
+        {
+          "sense": "foolish or unintelligent in informal usage",
+          "en": "foolish or unintelligent in informal usage",
+          "zh": "愚蠢的（口语）"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1652,
+      "term": "dumbbell-like",
+      "slug": "dumbbell-like",
+      "sourceRows": [
+        723,
+        723
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "哑铃状的"
+        ]
+      ],
+      "changed": true,
+      "before": "dumbbell-like",
+      "after": "dumb + bell + like",
+      "notes": "本族简单词，b 不发音；现代指人不能说话时可能冒犯，释义标注用法。 dumbbell 原指不发声的练习铃，不是“愚蠢的铃”。",
+      "definitions": [
+        {
+          "sense": "shaped like a short bar with a weight or swelling at each end",
+          "en": "shaped like a short bar with a weight or swelling at each end",
+          "zh": "哑铃状的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1653,
+      "term": "dump",
+      "slug": "dump",
+      "sourceRows": [
+        724,
+        724
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "倾泻，倾倒"
+        ]
+      ],
+      "changed": true,
+      "before": "dump",
+      "after": "dump",
+      "notes": "可能来自北欧语言或拟声，来源不确定；保留简单词干。",
+      "definitions": [
+        {
+          "sense": "to unload or throw away carelessly",
+          "en": "to unload or throw away carelessly",
+          "zh": "倾倒；丢弃"
+        },
+        {
+          "sense": "a place where waste is deposited",
+          "en": "a place where waste is deposited",
+          "zh": "垃圾场"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1654,
+      "term": "duplicate",
+      "slug": "duplicate",
+      "sourceRows": [
+        725,
+        726
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "复写，复制"
+        ],
+        [
+          "adj.",
+          "两重的，两倍的；完全相同的"
+        ]
+      ],
+      "changed": true,
+      "before": "duplicate",
+      "after": "du + plic + ate",
+      "notes": "duplicate 为 duo 二 + plicare 折叠 + 分词/动词结尾；区别希腊 di-。",
+      "definitions": [
+        {
+          "sense": "to make an exact copy",
+          "en": "to make an exact copy",
+          "zh": "复制"
+        },
+        {
+          "sense": "an exact copy; exactly matching another",
+          "en": "an exact copy; exactly matching another",
+          "zh": "副本；完全相同的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1655,
+      "term": "durable",
+      "slug": "durable",
+      "sourceRows": [
+        727,
+        727
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "持久的；耐用的"
+        ]
+      ],
+      "changed": true,
+      "before": "durable",
+      "after": "dur + able",
+      "notes": "durare 从变硬发展到持久；endure 的 en- 为历史加强，非单纯方位。 English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.",
+      "definitions": [
+        {
+          "sense": "able to last a long time despite use or wear",
+          "en": "able to last a long time despite use or wear",
+          "zh": "耐用的；持久的"
+        }
+      ],
+      "derivatives": [
+        "duration"
+      ]
+    },
+    {
+      "no": 1656,
+      "term": "duration",
+      "slug": "duration",
+      "sourceRows": [
+        728,
+        728
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "持续时间"
+        ]
+      ],
+      "changed": true,
+      "before": "duration",
+      "after": "dur + ation",
+      "notes": "durare 从变硬发展到持久；endure 的 en- 为历史加强，非单纯方位。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the length of time something continues",
+          "en": "the length of time something continues",
+          "zh": "持续时间"
+        }
+      ],
+      "derivatives": [
+        "durable"
+      ]
+    },
+    {
+      "no": 1657,
+      "term": "dwarf",
+      "slug": "dwarf",
+      "sourceRows": [
+        729,
+        730
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "侏儒"
+        ],
+        [
+          "vt.",
+          "把…显得矮小"
+        ]
+      ],
+      "changed": true,
+      "before": "dwarf",
+      "after": "dwarf",
+      "notes": "本族简单词，深层来源不定；指人时注意用法。",
+      "definitions": [
+        {
+          "sense": "an organism or imaginary being much smaller than usual",
+          "en": "an organism or imaginary being much smaller than usual",
+          "zh": "矮小生物；传说中的矮人"
+        },
+        {
+          "sense": "to make something appear small by comparison",
+          "en": "to make something appear small by comparison",
+          "zh": "使相形见绌"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1658,
+      "term": "dwell",
+      "slug": "dwell",
+      "sourceRows": [
+        731,
+        731
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "居住，生活于"
+        ]
+      ],
+      "changed": true,
+      "before": "dwell",
+      "after": "dwell",
+      "notes": "历史含误导、耽搁，后发展为停留与居住；现代不拆 dw + ell。",
+      "definitions": [
+        {
+          "sense": "to live in a place; to remain with a thought or subject",
+          "en": "to live in a place; to remain with a thought or subject",
+          "zh": "居住；停留；反复思考"
+        }
+      ],
+      "derivatives": [
+        "dweller",
+        "dwelling"
+      ]
+    },
+    {
+      "no": 1659,
+      "term": "dweller",
+      "slug": "dweller",
+      "sourceRows": [
+        732,
+        732
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "居住者，居民"
+        ]
+      ],
+      "changed": true,
+      "before": "dweller",
+      "after": "dwell + er",
+      "notes": "历史含误导、耽搁，后发展为停留与居住；现代不拆 dw + ell。 Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.",
+      "definitions": [
+        {
+          "sense": "a person or animal living in a particular place",
+          "en": "a person or animal living in a particular place",
+          "zh": "居民；栖居者"
+        }
+      ],
+      "derivatives": [
+        "dwell",
+        "dwelling"
+      ]
+    },
+    {
+      "no": 1660,
+      "term": "dwelling",
+      "slug": "dwelling",
+      "sourceRows": [
+        733,
+        733
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "住处，寓所"
+        ]
+      ],
+      "changed": true,
+      "before": "dwelling",
+      "after": "dwell + ing",
+      "notes": "历史含误导、耽搁，后发展为停留与居住；现代不拆 dw + ell。",
+      "definitions": [
+        {
+          "sense": "a house or other place in which someone lives",
+          "en": "a house or other place in which someone lives",
+          "zh": "住所"
+        }
+      ],
+      "derivatives": [
+        "dwell",
+        "dweller"
+      ]
+    },
+    {
+      "no": 1661,
+      "term": "dye",
+      "slug": "dye",
+      "sourceRows": [
+        734,
+        735
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "颜料，燃料"
+        ],
+        [
+          "vt.",
+          "染色"
+        ]
+      ],
+      "changed": true,
+      "before": "dye",
+      "after": "dye",
+      "notes": "纠正原表“燃料”为“染料”；dye 和 die 是不同词。",
+      "definitions": [
+        {
+          "sense": "a substance used to give lasting color",
+          "en": "a substance used to give lasting color",
+          "zh": "染料"
+        },
+        {
+          "sense": "to color something with a dye",
+          "en": "to color something with a dye",
+          "zh": "染色"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1662,
+      "term": "dynamic",
+      "slug": "dynamic",
+      "sourceRows": [
+        736,
+        736
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "动力的；动态的"
+        ]
+      ],
+      "changed": true,
+      "before": "dynamic",
+      "after": "dynam + ic",
+      "notes": "dynamis 为 dynasthai 能够的名词派生，含 m 扩展；更深来源未定，不能拆 dy- 为二。",
+      "definitions": [
+        {
+          "sense": "involving continuous change or energetic activity; relating to forces and motion",
+          "en": "involving continuous change or energetic activity; relating to forces and motion",
+          "zh": "动态的；有活力的；动力的"
+        }
+      ],
+      "derivatives": [
+        "dynamics"
+      ]
+    },
+    {
+      "no": 1663,
+      "term": "dynamics",
+      "slug": "dynamics",
+      "sourceRows": [
+        737,
+        737
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "动力学"
+        ]
+      ],
+      "changed": true,
+      "before": "dynamics",
+      "after": "dynam + ics",
+      "notes": "dynamis 为 dynasthai 能够的名词派生，含 m 扩展；更深来源未定，不能拆 dy- 为二。 -ics 为学科名词结尾，深层 -ic 相关 + -s 名词化/复数形式；词法功能不等于数个对象。",
+      "definitions": [
+        {
+          "sense": "the study of forces and motion; the interacting forces in a situation",
+          "en": "the study of forces and motion; the interacting forces in a situation",
+          "zh": "动力学；相互作用的力量"
+        }
+      ],
+      "derivatives": [
+        "dynamic"
+      ]
+    },
+    {
+      "no": 1664,
+      "term": "aerodynamics",
+      "slug": "aerodynamics",
+      "sourceRows": [
+        738,
+        738
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "空气动力学"
+        ]
+      ],
+      "changed": true,
+      "before": "aerodynamics",
+      "after": "aero + dynam + ics",
+      "notes": "Ultimate origin is uncertain; the learner-facing source is Greek/Latin aer. dynamis 为 dynasthai 能够的名词派生，含 m 扩展；更深来源未定，不能拆 dy- 为二。 -ics 为学科名词结尾，深层 -ic 相关 + -s 名词化/复数形式；词法功能不等于数个对象。",
+      "definitions": [
+        {
+          "sense": "the study of moving air and its effects on objects",
+          "en": "the study of moving air and its effects on objects",
+          "zh": "空气动力学"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1665,
+      "term": "thermodynamics",
+      "slug": "thermodynamics",
+      "sourceRows": [
+        739,
+        739
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "热力学"
+        ]
+      ],
+      "changed": true,
+      "before": "thermodynamics",
+      "after": "thermo + dynam + ics",
+      "notes": "therm- 热，组合时常用 therm-o-，o 是连接元音。 dynamis 为 dynasthai 能够的名词派生，含 m 扩展；更深来源未定，不能拆 dy- 为二。 -ics 为学科名词结尾，深层 -ic 相关 + -s 名词化/复数形式；词法功能不等于数个对象。",
+      "definitions": [
+        {
+          "sense": "the study of heat, work, temperature, and energy",
+          "en": "the study of heat, work, temperature, and energy",
+          "zh": "热力学"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1666,
+      "term": "eager",
+      "slug": "eager",
+      "sourceRows": [
+        740,
+        740
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "渴望的；热心的"
+        ]
+      ],
+      "changed": true,
+      "before": "eager",
+      "after": "eager",
+      "notes": "经法语音变形成 eager，来源为 acer 锐利；尾部 er 不是施事后缀。",
+      "definitions": [
+        {
+          "sense": "keenly interested and wanting to do or have something",
+          "en": "keenly interested and wanting to do or have something",
+          "zh": "热切的；渴望的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1667,
+      "term": "earthquake",
+      "slug": "earthquake",
+      "sourceRows": [
+        741,
+        741
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "地震"
+        ]
+      ],
+      "changed": true,
+      "before": "earthquake",
+      "after": "earth + quake",
+      "notes": "简单本族词，不连拉丁 terr 作为表层构词。 简单本族词；earthquake 是复合词。",
+      "definitions": [
+        {
+          "sense": "a shaking of the ground caused by a sudden release of energy in the earth",
+          "en": "a shaking of the ground caused by a sudden release of energy in the earth",
+          "zh": "地震"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1668,
+      "term": "eccentric",
+      "slug": "eccentric",
+      "sourceRows": [
+        742,
+        742
+      ],
+      "sourceSenses": [
+        [
+          "adj./n.",
+          "古怪的（人），异常的（人）"
+        ]
+      ],
+      "changed": true,
+      "before": "eccentric",
+      "after": "ec + centr + ic",
+      "notes": "希腊语 ek-，与拉丁 ex- 同源但保留具体语言来源。",
+      "definitions": [
+        {
+          "sense": "unconventional or unusual; not sharing the same center",
+          "en": "unconventional or unusual; not sharing the same center",
+          "zh": "古怪的；偏心的"
+        },
+        {
+          "sense": "a person with unusual habits",
+          "en": "a person with unusual habits",
+          "zh": "行为古怪的人"
+        }
+      ],
+      "derivatives": [
+        "eccentricity"
+      ]
+    },
+    {
+      "no": 1669,
+      "term": "eccentricity",
+      "slug": "eccentricity",
+      "sourceRows": [
+        743,
+        743
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "反常，怪癖"
+        ]
+      ],
+      "changed": true,
+      "before": "eccentricity",
+      "after": "ec + centr + ic + ity",
+      "notes": "希腊语 ek-，与拉丁 ex- 同源但保留具体语言来源。",
+      "definitions": [
+        {
+          "sense": "unusual behavior or a measure of departure from a circular orbit",
+          "en": "unusual behavior or a measure of departure from a circular orbit",
+          "zh": "怪癖；偏心率"
+        }
+      ],
+      "derivatives": [
+        "eccentric"
+      ]
+    },
+    {
+      "no": 1670,
+      "term": "eclecticism",
+      "slug": "eclecticism",
+      "sourceRows": [
+        744,
+        744
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "折衷主义"
+        ]
+      ],
+      "changed": true,
+      "before": "eclecticism",
+      "after": "ec + lect + ic + ism",
+      "notes": "希腊语 ek-，与拉丁 ex- 同源但保留具体语言来源。 eclectic 中是选取，不是拉丁 legare 委派；与希腊说话意义有历史联系。",
+      "definitions": [
+        {
+          "sense": "the practice of drawing ideas or methods from varied sources",
+          "en": "the practice of drawing ideas or methods from varied sources",
+          "zh": "折衷主义；兼采众长的方法"
+        }
+      ],
+      "derivatives": [
+        "eclectic"
+      ]
+    },
+    {
+      "no": 1671,
+      "term": "eclipse",
+      "slug": "eclipse",
+      "sourceRows": [
+        745,
+        746
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "日蚀，月蚀"
+        ],
+        [
+          "vt.",
+          "盖过，使失色；遮蔽"
+        ]
+      ],
+      "changed": true,
+      "before": "eclipse",
+      "after": "ec + lip + se",
+      "notes": "希腊语 ek-，与拉丁 ex- 同源但保留具体语言来源。 Greek ek- 出 + leipein 留下 + -sis 动作名词；借入后 -sis 表现为 -se。不是 ec- + 英语 clip。 历史 -sis 可通过借入变化显示为 -is/-se；具体依词说明。",
+      "definitions": [
+        {
+          "sense": "the obscuring of one celestial body by another",
+          "en": "the obscuring of one celestial body by another",
+          "zh": "日食；月食；天体遮掩"
+        },
+        {
+          "sense": "to overshadow or surpass",
+          "en": "to overshadow or surpass",
+          "zh": "使黯然失色；超过"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1672,
+      "term": "ecological",
+      "slug": "ecological",
+      "sourceRows": [
+        747,
+        747
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "生态的；生态学的"
+        ]
+      ],
+      "changed": true,
+      "before": "ecological",
+      "after": "eco + log + ic + al",
+      "notes": "eco- 源于居所；economy 加 nomos 管理，ecology 加 logia 研究。 这里的 log- 来自 Greek logos，表示论述与研究；不是 English log 原木。",
+      "definitions": [
+        {
+          "sense": "relating to organisms and their relationships with the environment",
+          "en": "relating to organisms and their relationships with the environment",
+          "zh": "生态的；生态学的"
+        }
+      ],
+      "derivatives": [
+        "ecology",
+        "ecologist"
+      ]
+    },
+    {
+      "no": 1673,
+      "term": "ecologist",
+      "slug": "ecologist",
+      "sourceRows": [
+        748,
+        748
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "生态学者"
+        ]
+      ],
+      "changed": true,
+      "before": "ecologist",
+      "after": "eco + log + ist",
+      "notes": "eco- 源于居所；economy 加 nomos 管理，ecology 加 logia 研究。 这里的 log- 来自 Greek logos，表示论述与研究；不是 English log 原木。",
+      "definitions": [
+        {
+          "sense": "a scientist who studies organisms and their environments",
+          "en": "a scientist who studies organisms and their environments",
+          "zh": "生态学家"
+        }
+      ],
+      "derivatives": [
+        "ecology",
+        "ecological"
+      ]
+    },
+    {
+      "no": 1674,
+      "term": "economical",
+      "slug": "economical",
+      "sourceRows": [
+        749,
+        749
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "经济的，节俭的"
+        ]
+      ],
+      "changed": true,
+      "before": "economical",
+      "after": "eco + nom + ic + al",
+      "notes": "eco- 源于居所；economy 加 nomos 管理，ecology 加 logia 研究。 nomos 管理、法则来自 nemein 分配；economy = eco- 家 + nom- 管理，再加名词结尾。",
+      "definitions": [
+        {
+          "sense": "using money, time, or resources carefully without waste",
+          "en": "using money, time, or resources carefully without waste",
+          "zh": "节约的；经济实惠的"
+        }
+      ],
+      "derivatives": [
+        "economy",
+        "economic",
+        "economics",
+        "economize"
+      ]
+    },
+    {
+      "no": 1675,
+      "term": "economics",
+      "slug": "economics",
+      "sourceRows": [
+        750,
+        750
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "经济学"
+        ]
+      ],
+      "changed": true,
+      "before": "economics",
+      "after": "eco + nom + ics",
+      "notes": "eco- 源于居所；economy 加 nomos 管理，ecology 加 logia 研究。 nomos 管理、法则来自 nemein 分配；economy = eco- 家 + nom- 管理，再加名词结尾。 -ics 为学科名词结尾，深层 -ic 相关 + -s 名词化/复数形式；词法功能不等于数个对象。",
+      "definitions": [
+        {
+          "sense": "the study of how goods and services are produced, distributed, and consumed",
+          "en": "the study of how goods and services are produced, distributed, and consumed",
+          "zh": "经济学"
+        }
+      ],
+      "derivatives": [
+        "economy",
+        "economic",
+        "economical",
+        "economize"
+      ]
+    },
+    {
+      "no": 1676,
+      "term": "economize",
+      "slug": "economize",
+      "sourceRows": [
+        751,
+        751
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "节约，节省"
+        ]
+      ],
+      "changed": true,
+      "before": "economize",
+      "after": "eco + nom + ize",
+      "notes": "eco- 源于居所；economy 加 nomos 管理，ecology 加 logia 研究。 nomos 管理、法则来自 nemein 分配；economy = eco- 家 + nom- 管理，再加名词结尾。",
+      "definitions": [
+        {
+          "sense": "to reduce spending or avoid wasting resources",
+          "en": "to reduce spending or avoid wasting resources",
+          "zh": "节约；节省"
+        }
+      ],
+      "derivatives": [
+        "economy",
+        "economic",
+        "economical",
+        "economics"
+      ]
+    },
+    {
+      "no": 1677,
+      "term": "ecosystem",
+      "slug": "ecosystem",
+      "sourceRows": [
+        752,
+        752
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "生态系统"
+        ]
+      ],
+      "changed": true,
+      "before": "ecosystem",
+      "after": "eco + system",
+      "notes": "eco- 源于居所；economy 加 nomos 管理，ecology 加 logia 研究。 深层 syn- 一起 + histanai 使站立 + -ma 结果名词；ecosystem 保留 eco- + system，内部层在此说明。",
+      "definitions": [
+        {
+          "sense": "a community of organisms and the physical environment with which they interact",
+          "en": "a community of organisms and the physical environment with which they interact",
+          "zh": "生态系统"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1678,
+      "term": "edge",
+      "slug": "edge",
+      "sourceRows": [
+        753,
+        753
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "边缘"
+        ]
+      ],
+      "changed": true,
+      "before": "edge",
+      "after": "edge",
+      "notes": "Old English ecg 刀刃、边缘；简单本族词，现代不拆为 ed- + -ge。",
+      "definitions": [
+        {
+          "sense": "the boundary of a surface; a sharp side; an advantage",
+          "en": "the boundary of a surface; a sharp side; an advantage",
+          "zh": "边缘；刃；优势"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1679,
+      "term": "edentate",
+      "slug": "edentate",
+      "sourceRows": [
+        754,
+        754
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "贫齿类动物"
+        ]
+      ],
+      "changed": true,
+      "before": "e + dent + ate",
+      "after": "e + dent + ate",
+      "notes": "牙齿词族 dental/dentist；indent/indenture 的齿形切口源自 French dent。独立英语 dent 凹痕另见 dent-blow。",
+      "definitions": [
+        {
+          "sense": "toothless mammal group",
+          "zh": "贫齿类动物；无齿的",
+          "en": "a mammal formerly grouped as having few or no teeth, or lacking teeth"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1680,
+      "term": "edible",
+      "slug": "edible",
+      "sourceRows": [
+        755,
+        755
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "可食用的"
+        ]
+      ],
+      "changed": true,
+      "before": "edible",
+      "after": "ed + ible",
+      "notes": "edible 的 ed- 是吃，不是过去分词 -ed。 English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.",
+      "definitions": [
+        {
+          "sense": "suitable or safe to eat",
+          "en": "suitable or safe to eat",
+          "zh": "可食用的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1681,
+      "term": "edifice",
+      "slug": "edifice",
+      "sourceRows": [
+        756,
+        756
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "宏伟的建筑物"
+        ]
+      ],
+      "changed": true,
+      "before": "edifice",
+      "after": "edi + fice",
+      "notes": "edifice 的 edi- 为 aedes 构词形，i 是连接元音；与 edible 的 edere 吃不同。",
+      "definitions": [
+        {
+          "sense": "a large or imposing building; an elaborate abstract structure",
+          "en": "a large or imposing building; an elaborate abstract structure",
+          "zh": "宏伟建筑；复杂体系"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1682,
+      "term": "educable",
+      "slug": "educable",
+      "sourceRows": [
+        757,
+        757
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "可教育的，可培养的"
+        ]
+      ],
+      "changed": true,
+      "before": "educable",
+      "after": "educ + able",
+      "notes": "educare 关联 educere = e-/ex- 向外 + ducere 引导；并非证实“引出潜能”这一流行解释。表层 educ- 保留养育教育词干。 English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.",
+      "definitions": [
+        {
+          "sense": "capable of being educated or trained",
+          "en": "capable of being educated or trained",
+          "zh": "可教育的；可培养的"
+        }
+      ],
+      "derivatives": [
+        "educate",
+        "educated",
+        "education",
+        "educational"
+      ]
+    },
+    {
+      "no": 1683,
+      "term": "educated",
+      "slug": "educated",
+      "sourceRows": [
+        758,
+        758
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "受过教育的，有教养的"
+        ]
+      ],
+      "changed": true,
+      "before": "educated",
+      "after": "educ + at + ed",
+      "notes": "educare 关联 educere = e-/ex- 向外 + ducere 引导；并非证实“引出潜能”这一流行解释。表层 educ- 保留养育教育词干。",
+      "definitions": [
+        {
+          "sense": "having received education; based on informed knowledge",
+          "en": "having received education; based on informed knowledge",
+          "zh": "受过教育的；有根据的"
+        }
+      ],
+      "derivatives": [
+        "educate",
+        "educable",
+        "education",
+        "educational"
+      ]
+    },
+    {
+      "no": 1684,
+      "term": "education",
+      "slug": "education",
+      "sourceRows": [
+        759,
+        759
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "教育，培养"
+        ]
+      ],
+      "changed": true,
+      "before": "education",
+      "after": "educ + ation",
+      "notes": "educare 关联 educere = e-/ex- 向外 + ducere 引导；并非证实“引出潜能”这一流行解释。表层 educ- 保留养育教育词干。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the process of teaching, learning, or developing knowledge and skills",
+          "en": "the process of teaching, learning, or developing knowledge and skills",
+          "zh": "教育；培养"
+        }
+      ],
+      "derivatives": [
+        "educate",
+        "educable",
+        "educated",
+        "educational"
+      ]
+    },
+    {
+      "no": 1685,
+      "term": "effective",
+      "slug": "effective",
+      "sourceRows": [
+        760,
+        760
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "有效的；生效的"
+        ]
+      ],
+      "changed": true,
+      "before": "effective",
+      "after": "ef + fect + ive",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "producing the intended result; currently in force",
+          "en": "producing the intended result; currently in force",
+          "zh": "有效的；生效的"
+        }
+      ],
+      "derivatives": [
+        "effect",
+        "effectiveness"
+      ]
+    },
+    {
+      "no": 1686,
+      "term": "effectiveness",
+      "slug": "effectiveness",
+      "sourceRows": [
+        761,
+        761
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "效力"
+        ]
+      ],
+      "changed": true,
+      "before": "effectiveness",
+      "after": "ef + fect + ive + ness",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "the degree to which something achieves its intended result",
+          "en": "the degree to which something achieves its intended result",
+          "zh": "有效性；效力"
+        }
+      ],
+      "derivatives": [
+        "effect",
+        "effective"
+      ]
+    },
+    {
+      "no": 1687,
+      "term": "efficient",
+      "slug": "efficient",
+      "sourceRows": [
+        762,
+        762
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "生效的；能干的，有效率的"
+        ]
+      ],
+      "changed": true,
+      "before": "efficient",
+      "after": "ef + fic + ient",
+      "notes": "efficient 高效、少浪费；不是 effective 的有效或生效。",
+      "definitions": [
+        {
+          "sense": "achieving results with little wasted time, energy, or money",
+          "en": "achieving results with little wasted time, energy, or money",
+          "zh": "高效的；能干的"
+        }
+      ],
+      "derivatives": [
+        "efficiency"
+      ]
+    },
+    {
+      "no": 1688,
+      "term": "efficiency",
+      "slug": "efficiency",
+      "sourceRows": [
+        763,
+        763
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "效率，功效"
+        ]
+      ],
+      "changed": true,
+      "before": "efficiency",
+      "after": "ef + fic + iency",
+      "notes": "-iency 为 -ient 对应名词形式，其中 i 连接前面词干。",
+      "definitions": [
+        {
+          "sense": "the ability to achieve results with little waste",
+          "en": "the ability to achieve results with little waste",
+          "zh": "效率"
+        }
+      ],
+      "derivatives": [
+        "efficient"
+      ]
+    },
+    {
+      "no": 1689,
+      "term": "effluent",
+      "slug": "effluent",
+      "sourceRows": [
+        764,
+        764
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "流出物"
+        ]
+      ],
+      "changed": true,
+      "before": "effluent",
+      "after": "ef + flu + ent",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "liquid waste or other fluid flowing out of a source",
+          "en": "liquid waste or other fluid flowing out of a source",
+          "zh": "流出物；排放的废液"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1690,
+      "term": "eject",
+      "slug": "eject",
+      "sourceRows": [
+        765,
+        766
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "喷出，喷射"
+        ],
+        [
+          "vt.",
+          "逐出，驱逐"
+        ]
+      ],
+      "changed": true,
+      "before": "e + ject",
+      "after": "e + ject",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "throw out",
+          "zh": "弹出；逐出",
+          "en": "to force something or someone out",
+          "example": {
+            "en": "The pilot ejected from the aircraft.",
+            "zh": "飞行员从飞机中弹射出来。"
+          }
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1691,
+      "term": "elaborate",
+      "slug": "elaborate",
+      "sourceRows": [
+        767,
+        768
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "精细的，精心的；详尽的"
+        ],
+        [
+          "vt.",
+          "详细阐述"
+        ]
+      ],
+      "changed": true,
+      "before": "elaborate",
+      "after": "e + labor + ate",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "having many carefully arranged details",
+          "en": "having many carefully arranged details",
+          "zh": "精心制作的；详尽的"
+        },
+        {
+          "sense": "to explain or develop in more detail",
+          "en": "to explain or develop in more detail",
+          "zh": "详细阐述"
+        }
+      ],
+      "derivatives": [
+        "elaborately"
+      ]
+    },
+    {
+      "no": 1692,
+      "term": "elaborately",
+      "slug": "elaborately",
+      "sourceRows": [
+        769,
+        769
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "精细地，详尽地"
+        ]
+      ],
+      "changed": true,
+      "before": "elaborately",
+      "after": "e + labor + ate + ly",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "with much detail or careful preparation",
+          "en": "with much detail or careful preparation",
+          "zh": "精细地；详尽地"
+        }
+      ],
+      "derivatives": [
+        "elaborate"
+      ]
+    },
+    {
+      "no": 1693,
+      "term": "elasticity",
+      "slug": "elasticity",
+      "sourceRows": [
+        770,
+        770
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "弹力，弹性"
+        ]
+      ],
+      "changed": true,
+      "before": "elasticity",
+      "after": "elast + ic + ity",
+      "notes": "elast- 为稳定希腊词干，深层 elaunein 来源不明，不拆 e- 出 + last 持续。",
+      "definitions": [
+        {
+          "sense": "the ability to return to an original shape after deformation",
+          "en": "the ability to return to an original shape after deformation",
+          "zh": "弹性"
+        }
+      ],
+      "derivatives": [
+        "elastic"
+      ]
+    },
+    {
+      "no": 1694,
+      "term": "inelastic",
+      "slug": "inelastic",
+      "sourceRows": [
+        771,
+        771
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "无弹性的"
+        ]
+      ],
+      "changed": true,
+      "before": "inelastic",
+      "after": "in + elast + ic",
+      "notes": "此处为否定 in-，不是进入。 elast- 为稳定希腊词干，深层 elaunein 来源不明，不拆 e- 出 + last 持续。",
+      "definitions": [
+        {
+          "sense": "unable to stretch and recover readily; relatively unresponsive to change",
+          "en": "unable to stretch and recover readily; relatively unresponsive to change",
+          "zh": "缺乏弹性的；缺乏响应的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1695,
+      "term": "election",
+      "slug": "election",
+      "sourceRows": [
+        772,
+        772
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "选举；当选"
+        ]
+      ],
+      "changed": true,
+      "before": "election",
+      "after": "e + lect + ion",
+      "notes": "English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the process of choosing someone by voting; the act of being chosen",
+          "en": "the process of choosing someone by voting; the act of being chosen",
+          "zh": "选举；当选"
+        }
+      ],
+      "derivatives": [
+        "elect"
+      ]
+    },
+    {
+      "no": 1696,
+      "term": "selection",
+      "slug": "selection",
+      "sourceRows": [
+        773,
+        773
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "选择；精选品"
+        ]
+      ],
+      "changed": true,
+      "before": "selection",
+      "after": "se + lect + ion",
+      "notes": "English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the act of choosing; a chosen item or collection",
+          "en": "the act of choosing; a chosen item or collection",
+          "zh": "选择；精选品"
+        }
+      ],
+      "derivatives": [
+        "select"
+      ]
+    },
+    {
+      "no": 1697,
+      "term": "electron",
+      "slug": "electron",
+      "sourceRows": [
+        774,
+        774
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "电子"
+        ]
+      ],
+      "changed": true,
+      "before": "electron",
+      "after": "electr + on",
+      "notes": "electric 与琥珀摩擦产生电的现象相关；electron 为 electr- + 粒子后缀 -on，不是 elect 选举。 electron 的 -on 是近代粒子命名后缀，非介词 on。",
+      "definitions": [
+        {
+          "sense": "a subatomic particle carrying a negative electric charge",
+          "en": "a subatomic particle carrying a negative electric charge",
+          "zh": "电子"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1698,
+      "term": "elegant",
+      "slug": "elegant",
+      "sourceRows": [
+        775,
+        775
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "雅致的"
+        ]
+      ],
+      "changed": true,
+      "before": "elegant",
+      "after": "e + leg + ant",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "graceful and refined; pleasingly simple and effective",
+          "en": "graceful and refined; pleasingly simple and effective",
+          "zh": "优雅的；精妙简洁的"
+        }
+      ],
+      "derivatives": [
+        "elegance"
+      ]
+    },
+    {
+      "no": 1699,
+      "term": "elegance",
+      "slug": "elegance",
+      "sourceRows": [
+        776,
+        776
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "高雅, 典雅, 优雅, 雅致"
+        ]
+      ],
+      "changed": true,
+      "before": "elegance",
+      "after": "e + leg + ance",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "refined beauty or pleasing simplicity",
+          "en": "refined beauty or pleasing simplicity",
+          "zh": "优雅；精妙"
+        }
+      ],
+      "derivatives": [
+        "elegant"
+      ]
+    },
+    {
+      "no": 1700,
+      "term": "element",
+      "slug": "element",
+      "sourceRows": [
+        777,
+        777
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "成分；要素"
+        ]
+      ],
+      "changed": true,
+      "before": "element",
+      "after": "element",
+      "notes": "elementum 更深来源不明，-ment 不能视为英语名词后缀硬拆。",
+      "definitions": [
+        {
+          "sense": "a basic part of something; a substance consisting of atoms with the same number of protons",
+          "en": "a basic part of something; a substance consisting of atoms with the same number of protons",
+          "zh": "要素；化学元素"
+        }
+      ],
+      "derivatives": [
+        "elementary"
+      ]
+    },
+    {
+      "no": 1701,
+      "term": "elementary",
+      "slug": "elementary",
+      "sourceRows": [
+        778,
+        778
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "基本的，初级的"
+        ]
+      ],
+      "changed": true,
+      "before": "elementary",
+      "after": "element + ary",
+      "notes": "elementum 更深来源不明，-ment 不能视为英语名词后缀硬拆。",
+      "definitions": [
+        {
+          "sense": "basic, introductory, or relating to primary education",
+          "en": "basic, introductory, or relating to primary education",
+          "zh": "基本的；初级的；小学的"
+        }
+      ],
+      "derivatives": [
+        "element"
+      ]
+    },
+    {
+      "no": 1702,
+      "term": "elevate",
+      "slug": "elevate",
+      "sourceRows": [
+        779,
+        779
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "举起；抬高；使上升"
+        ]
+      ],
+      "changed": true,
+      "before": "elevate",
+      "after": "e + lev + ate",
+      "notes": "levare 从减轻发展到举起；elevate = e- + lev- + -ate。",
+      "definitions": [
+        {
+          "sense": "to lift or raise in height, rank, or quality",
+          "en": "to lift or raise in height, rank, or quality",
+          "zh": "举起；提升"
+        }
+      ],
+      "derivatives": [
+        "elevation",
+        "elevator"
+      ]
+    },
+    {
+      "no": 1703,
+      "term": "elevation",
+      "slug": "elevation",
+      "sourceRows": [
+        780,
+        780
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "高度，海拔"
+        ]
+      ],
+      "changed": true,
+      "before": "elevation",
+      "after": "e + lev + ation",
+      "notes": "levare 从减轻发展到举起；elevate = e- + lev- + -ate。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "height above a reference level; the act of raising something",
+          "en": "height above a reference level; the act of raising something",
+          "zh": "高度；海拔；提升"
+        }
+      ],
+      "derivatives": [
+        "elevate",
+        "elevator"
+      ]
+    },
+    {
+      "no": 1704,
+      "term": "elevator",
+      "slug": "elevator",
+      "sourceRows": [
+        781,
+        781
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "电梯，起重机；活动谷仓"
+        ]
+      ],
+      "changed": true,
+      "before": "elevator",
+      "after": "e + lev + at + or",
+      "notes": "levare 从减轻发展到举起；elevate = e- + lev- + -ate。",
+      "definitions": [
+        {
+          "sense": "a lift for moving people or goods between levels; a grain-lifting and storage facility",
+          "en": "a lift for moving people or goods between levels; a grain-lifting and storage facility",
+          "zh": "电梯；升降机；谷物升运储存设施"
+        }
+      ],
+      "derivatives": [
+        "elevate",
+        "elevation"
+      ]
+    },
+    {
+      "no": 1705,
+      "term": "elicit",
+      "slug": "elicit",
+      "sourceRows": [
+        782,
+        782
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "得出；引出"
+        ]
+      ],
+      "changed": true,
+      "before": "elicit",
+      "after": "e + licit",
+      "notes": "licit 为 elicitus 中的分词词干，深层 lacere；不是 illicit 的 licere 被允许。",
+      "definitions": [
+        {
+          "sense": "to bring out a response, answer, or information",
+          "en": "to bring out a response, answer, or information",
+          "zh": "引出；探得"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1706,
+      "term": "eligible",
+      "slug": "eligible",
+      "sourceRows": [
+        783,
+        783
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "合格的，有资格的"
+        ]
+      ],
+      "changed": true,
+      "before": "eligible",
+      "after": "e + lig + ible",
+      "notes": "English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.",
+      "definitions": [
+        {
+          "sense": "meeting the conditions required to be chosen or to receive something",
+          "en": "meeting the conditions required to be chosen or to receive something",
+          "zh": "合格的；有资格的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1707,
+      "term": "eliminate",
+      "slug": "eliminate",
+      "sourceRows": [
+        784,
+        784
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "排除，剔除"
+        ]
+      ],
+      "changed": true,
+      "before": "eliminate",
+      "after": "e + limin + ate",
+      "notes": "eliminate 原为移出门槛，e- + limin- + -ate。",
+      "definitions": [
+        {
+          "sense": "to remove, exclude, or get rid of",
+          "en": "to remove, exclude, or get rid of",
+          "zh": "排除；消除"
+        }
+      ],
+      "derivatives": [
+        "elimination"
+      ]
+    },
+    {
+      "no": 1708,
+      "term": "elimination",
+      "slug": "elimination",
+      "sourceRows": [
+        785,
+        785
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "排除，除去"
+        ]
+      ],
+      "changed": true,
+      "before": "elimination",
+      "after": "e + limin + ation",
+      "notes": "eliminate 原为移出门槛，e- + limin- + -ate。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the act or process of removing or excluding",
+          "en": "the act or process of removing or excluding",
+          "zh": "排除；消除"
+        }
+      ],
+      "derivatives": [
+        "eliminate"
+      ]
+    },
+    {
+      "no": 1709,
+      "term": "elite",
+      "slug": "elite",
+      "sourceRows": [
+        786,
+        786
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "精英"
+        ]
+      ],
+      "changed": true,
+      "before": "elite",
+      "after": "elite",
+      "notes": "深层 eligere = e- 出 + legere 选择，经法语收缩；保留现代 elite，非 el + ite。",
+      "definitions": [
+        {
+          "sense": "a group considered the most skilled, influential, or privileged",
+          "en": "a group considered the most skilled, influential, or privileged",
+          "zh": "精英；上层群体"
+        },
+        {
+          "sense": "belonging to such a select group",
+          "en": "belonging to such a select group",
+          "zh": "精英的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1710,
+      "term": "elixir",
+      "slug": "elixir",
+      "sourceRows": [
+        787,
+        787
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "长生不老药，万能药"
+        ]
+      ],
+      "changed": true,
+      "before": "elixir",
+      "after": "elixir",
+      "notes": "深层 al- 定冠词 + iksir 炼金药，后者可能来自 Greek xerion 干燥药粉、xeros 干；可能链条不得写成定论。",
+      "definitions": [
+        {
+          "sense": "a substance believed to cure all ills or prolong life; a medicinal solution",
+          "en": "a substance believed to cure all ills or prolong life; a medicinal solution",
+          "zh": "灵丹妙药；药用酏剂"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1711,
+      "term": "elliptical",
+      "slug": "elliptical",
+      "sourceRows": [
+        788,
+        789
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "椭圆的"
+        ],
+        [
+          "adj.",
+          "省略的"
+        ]
+      ],
+      "changed": true,
+      "before": "elliptical",
+      "after": "el + lipt + ic + al",
+      "notes": "希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。 ellipse 椭圆与 ellipsis 省略同源：Greek en-（同化 el-）+ leipein 留下；lipt- 是形容词构词形。两义分别保留。",
+      "definitions": [
+        {
+          "sense": "oval in shape",
+          "en": "oval in shape",
+          "zh": "椭圆的"
+        },
+        {
+          "sense": "using omission or indirect expression",
+          "en": "using omission or indirect expression",
+          "zh": "省略的；隐晦的"
+        }
+      ],
+      "derivatives": [
+        "ellipse"
+      ]
+    },
+    {
+      "no": 1712,
+      "term": "elongate",
+      "slug": "elongate",
+      "sourceRows": [
+        790,
+        790
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "延长，伸长"
+        ]
+      ],
+      "changed": true,
+      "before": "elongate",
+      "after": "e + long + ate",
+      "notes": "elongate 中为拉丁 longus，不是前缀 el-。",
+      "definitions": [
+        {
+          "sense": "to make or become longer",
+          "en": "to make or become longer",
+          "zh": "延长；伸长"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1713,
+      "term": "eloquent",
+      "slug": "eloquent",
+      "sourceRows": [
+        791,
+        791
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "善于表达的，有口才的；雄辩的"
+        ]
+      ],
+      "changed": true,
+      "before": "eloquent",
+      "after": "e + loqu + ent",
+      "notes": "Latin eloqui = e-/ex- 向外 + loqui 说；loqu- 是说话，不把 colloquial 口语的作为词根义。",
+      "definitions": [
+        {
+          "sense": "expressing ideas fluently and persuasively",
+          "en": "expressing ideas fluently and persuasively",
+          "zh": "雄辩的；有表现力的"
+        }
+      ],
+      "derivatives": [
+        "eloquence"
+      ]
+    },
+    {
+      "no": 1714,
+      "term": "elusive",
+      "slug": "elusive",
+      "sourceRows": [
+        792,
+        792
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "难懂的，难捉摸的"
+        ]
+      ],
+      "changed": true,
+      "before": "elusive",
+      "after": "e + lus + ive",
+      "notes": "Latin eludere = e-/ex- 向外 + ludere 玩，发展为躲开、逃脱；lus- 是分词词干。",
+      "definitions": [
+        {
+          "sense": "difficult to catch, find, achieve, or understand",
+          "en": "difficult to catch, find, achieve, or understand",
+          "zh": "难以捕获、找到、达到或理解的"
+        }
+      ],
+      "derivatives": [
+        "elude"
+      ]
+    },
+    {
+      "no": 1715,
+      "term": "emancipate",
+      "slug": "emancipate",
+      "sourceRows": [
+        793,
+        793
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "解放，释放"
+        ]
+      ],
+      "changed": true,
+      "before": "emancipate",
+      "after": "e + man + cip + ate",
+      "notes": "e- 解除 + mancip- 所有权 + -ate；mancip- 在此进一步拆为 man- 手 + cip- 取得（capere）。",
+      "definitions": [
+        {
+          "sense": "to free from another person or institution's control",
+          "en": "to free from another person or institution's control",
+          "zh": "解放；使摆脱控制"
+        }
+      ],
+      "derivatives": [
+        "emancipation"
+      ]
+    },
+    {
+      "no": 1716,
+      "term": "emancipation",
+      "slug": "emancipation",
+      "sourceRows": [
+        794,
+        794
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "释放，解放"
+        ]
+      ],
+      "changed": true,
+      "before": "emancipation",
+      "after": "e + man + cip + ation",
+      "notes": "e- 解除 + man- 手 + cip- 取得 + -ation；mancip- 为所有权词干，进一步来源是“以手取得”。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the act or process of freeing from control or restriction",
+          "en": "the act or process of freeing from control or restriction",
+          "zh": "解放；解除束缚"
+        }
+      ],
+      "derivatives": [
+        "emancipate"
+      ]
+    },
+    {
+      "no": 1717,
+      "term": "embarrass",
+      "slug": "embarrass",
+      "sourceRows": [
+        795,
+        795
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "使尴尬，使困窘"
+        ]
+      ],
+      "changed": true,
+      "before": "embarrass",
+      "after": "em + barrass",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 em- + barrass-；后者来自 bar/barra 障碍及 Romance 动词扩展。词典对中介语言路径有不同解释，不独造英语 -ass。",
+      "definitions": [
+        {
+          "sense": "to make someone feel awkward or ashamed",
+          "en": "to make someone feel awkward or ashamed",
+          "zh": "使尴尬；使难堪"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1718,
+      "term": "embed",
+      "slug": "embed",
+      "sourceRows": [
+        796,
+        796
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "插入；镶嵌"
+        ]
+      ],
+      "changed": true,
+      "before": "embed",
+      "after": "em + bed",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。",
+      "definitions": [
+        {
+          "sense": "to fix firmly within surrounding material or context",
+          "en": "to fix firmly within surrounding material or context",
+          "zh": "嵌入；使扎根"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1719,
+      "term": "embellish",
+      "slug": "embellish",
+      "sourceRows": [
+        797,
+        797
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "装饰，修饰"
+        ]
+      ],
+      "changed": true,
+      "before": "embellish",
+      "after": "em + bell + ish",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 embellish = em- + bell- + -ish（法语动词结尾）；不是 bell 钟。 diminish/distinguish 的历史法语动词结尾，不是 Germanic -ish “有点……”。",
+      "definitions": [
+        {
+          "sense": "to make more decorative; to add invented details to a story",
+          "en": "to make more decorative; to add invented details to a story",
+          "zh": "装饰；添油加醋"
+        }
+      ],
+      "derivatives": [
+        "embellishment"
+      ]
+    },
+    {
+      "no": 1720,
+      "term": "embellishment",
+      "slug": "embellishment",
+      "sourceRows": [
+        798,
+        798
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "装饰，修饰"
+        ]
+      ],
+      "changed": true,
+      "before": "embellishment",
+      "after": "em + bell + ish + ment",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 embellish = em- + bell- + -ish（法语动词结尾）；不是 bell 钟。 diminish/distinguish 的历史法语动词结尾，不是 Germanic -ish “有点……”。",
+      "definitions": [
+        {
+          "sense": "a decorative addition or an invented detail",
+          "en": "a decorative addition or an invented detail",
+          "zh": "装饰；润饰；虚构细节"
+        }
+      ],
+      "derivatives": [
+        "embellish"
+      ]
+    },
+    {
+      "no": 1721,
+      "term": "emblem",
+      "slug": "emblem",
+      "sourceRows": [
+        799,
+        799
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "象征，标志；徽章"
+        ]
+      ],
+      "changed": true,
+      "before": "emblem",
+      "after": "emblem",
+      "notes": "深层 em-/en- 在内 + ballein 投放 + -ma/-mat- 结果；emblem 是传入时收缩的名词形。",
+      "definitions": [
+        {
+          "sense": "a symbol or object representing an idea or group",
+          "en": "a symbol or object representing an idea or group",
+          "zh": "象征；徽章"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1722,
+      "term": "embody",
+      "slug": "embody",
+      "sourceRows": [
+        800,
+        800
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "使具体化；包含，收录"
+        ]
+      ],
+      "changed": true,
+      "before": "embody",
+      "after": "em + body",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。",
+      "definitions": [
+        {
+          "sense": "to express an idea in a concrete form; to include",
+          "en": "to express an idea in a concrete form; to include",
+          "zh": "体现；包含"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1723,
+      "term": "emboss",
+      "slug": "emboss",
+      "sourceRows": [
+        801,
+        801
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "加浮雕花纹于，使凸出"
+        ]
+      ],
+      "changed": true,
+      "before": "emboss",
+      "after": "em + boss",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 emboss 中 boss 指凸块，与老板 boss 异源。",
+      "definitions": [
+        {
+          "sense": "to decorate a surface with a raised design",
+          "en": "to decorate a surface with a raised design",
+          "zh": "压印浮雕图案"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1724,
+      "term": "embrace",
+      "slug": "embrace",
+      "sourceRows": [
+        802,
+        803
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "包含"
+        ],
+        [
+          "vt.",
+          "拥抱；欣然接受"
+        ]
+      ],
+      "changed": true,
+      "before": "embrace",
+      "after": "em + brace",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 embrace 从拥入双臂引申为接受、包含。",
+      "definitions": [
+        {
+          "sense": "to hold someone in one's arms",
+          "en": "to hold someone in one's arms",
+          "zh": "拥抱"
+        },
+        {
+          "sense": "to accept willingly or include",
+          "en": "to accept willingly or include",
+          "zh": "欣然接受；包含"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1725,
+      "term": "embroider",
+      "slug": "embroider",
+      "sourceRows": [
+        804,
+        804
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "刺绣, 镶边；装饰"
+        ]
+      ],
+      "changed": true,
+      "before": "embroider",
+      "after": "em + broider",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 broider 是历史刺绣动词；-er 不是施事后缀；与 braid 的拼写影响不等于同一直接来源。",
+      "definitions": [
+        {
+          "sense": "to decorate fabric with sewn designs; to embellish a story",
+          "en": "to decorate fabric with sewn designs; to embellish a story",
+          "zh": "刺绣；润饰故事"
+        }
+      ],
+      "derivatives": [
+        "embroidery"
+      ]
+    },
+    {
+      "no": 1726,
+      "term": "embroidery",
+      "slug": "embroidery",
+      "sourceRows": [
+        805,
+        805
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "刺绣"
+        ]
+      ],
+      "changed": true,
+      "before": "embroidery",
+      "after": "em + broider + y",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 broider 是历史刺绣动词；-er 不是施事后缀；与 braid 的拼写影响不等于同一直接来源。 名词 -y 与形容词 -y（古英语 -ig）分开。",
+      "definitions": [
+        {
+          "sense": "the craft or product of decorating fabric with stitches",
+          "en": "the craft or product of decorating fabric with stitches",
+          "zh": "刺绣；绣品"
+        }
+      ],
+      "derivatives": [
+        "embroider"
+      ]
+    },
+    {
+      "no": 1727,
+      "term": "embryo",
+      "slug": "embryo",
+      "sourceRows": [
+        806,
+        806
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "胚胎；事物的萌芽期"
+        ]
+      ],
+      "changed": true,
+      "before": "embryo",
+      "after": "embryo",
+      "notes": "深层 em-/en- 在内 + bryein 生长充盈；Latin 名词再分析产生 embryo/embryon- 交替，n 不是后加英语后缀。",
+      "definitions": [
+        {
+          "sense": "an organism at an early stage of development; an undeveloped beginning",
+          "en": "an organism at an early stage of development; an undeveloped beginning",
+          "zh": "胚胎；萌芽"
+        }
+      ],
+      "derivatives": [
+        "embryonic"
+      ]
+    },
+    {
+      "no": 1728,
+      "term": "embryological",
+      "slug": "embryological",
+      "sourceRows": [
+        807,
+        807
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "胚胎学的"
+        ]
+      ],
+      "changed": true,
+      "before": "embryological",
+      "after": "embryo + log + ic + al",
+      "notes": "深层 em-/en- 在内 + bryein 生长充盈；Latin 名词再分析产生 embryo/embryon- 交替，n 不是后加英语后缀。 这里的 log- 来自 Greek logos，表示论述与研究；不是 English log 原木。",
+      "definitions": [
+        {
+          "sense": "relating to the study of embryos and their development",
+          "en": "relating to the study of embryos and their development",
+          "zh": "胚胎学的"
+        }
+      ],
+      "derivatives": [
+        "embryology"
+      ]
+    },
+    {
+      "no": 1729,
+      "term": "embryonic",
+      "slug": "embryonic",
+      "sourceRows": [
+        808,
+        808
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "胚胎的，萌芽期的"
+        ]
+      ],
+      "changed": true,
+      "before": "embryonic",
+      "after": "embryon + ic",
+      "notes": "深层 em-/en- 在内 + bryein 生长充盈；Latin 名词再分析产生 embryo/embryon- 交替，n 不是后加英语后缀。",
+      "definitions": [
+        {
+          "sense": "relating to an embryo or being at a very early stage",
+          "en": "relating to an embryo or being at a very early stage",
+          "zh": "胚胎的；萌芽期的"
+        }
+      ],
+      "derivatives": [
+        "embryo"
+      ]
+    },
+    {
+      "no": 1730,
+      "term": "emerge",
+      "slug": "emerge",
+      "sourceRows": [
+        809,
+        809
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "出现，浮现"
+        ]
+      ],
+      "changed": true,
+      "before": "emerge",
+      "after": "e + merge",
+      "notes": "emerge = e- 出 + mergere 沉入，从覆盖物下浮现。",
+      "definitions": [
+        {
+          "sense": "to come into view or become known",
+          "en": "to come into view or become known",
+          "zh": "出现；浮现；显露"
+        }
+      ],
+      "derivatives": [
+        "emerging",
+        "emergence"
+      ]
+    },
+    {
+      "no": 1731,
+      "term": "emerging",
+      "slug": "emerging",
+      "sourceRows": [
+        810,
+        810
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "正在不断出现的"
+        ]
+      ],
+      "changed": true,
+      "before": "emerging",
+      "after": "e + merg + ing",
+      "notes": "emerge = e- 出 + mergere 沉入，从覆盖物下浮现。",
+      "definitions": [
+        {
+          "sense": "beginning to appear, develop, or become important",
+          "en": "beginning to appear, develop, or become important",
+          "zh": "新兴的；正在形成的"
+        }
+      ],
+      "derivatives": [
+        "emerge",
+        "emergence"
+      ]
+    },
+    {
+      "no": 1732,
+      "term": "emergence",
+      "slug": "emergence",
+      "sourceRows": [
+        811,
+        811
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "出现，形成"
+        ]
+      ],
+      "changed": true,
+      "before": "emergence",
+      "after": "e + merg + ence",
+      "notes": "emerge = e- 出 + mergere 沉入，从覆盖物下浮现。",
+      "definitions": [
+        {
+          "sense": "the process of coming into view or developing",
+          "en": "the process of coming into view or developing",
+          "zh": "出现；形成"
+        }
+      ],
+      "derivatives": [
+        "emerge",
+        "emerging"
+      ]
+    },
+    {
+      "no": 1733,
+      "term": "emigrant",
+      "slug": "emigrant",
+      "sourceRows": [
+        812,
+        812
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "移民（出国）"
+        ]
+      ],
+      "changed": true,
+      "before": "emigrant",
+      "after": "e + migr + ant",
+      "notes": "emigrant 从某地迁出；immigrant 迁入，视角不同。",
+      "definitions": [
+        {
+          "sense": "a person leaving a country to settle elsewhere",
+          "en": "a person leaving a country to settle elsewhere",
+          "zh": "移居国外的人"
+        }
+      ],
+      "derivatives": [
+        "emigrate",
+        "emigration"
+      ]
+    },
+    {
+      "no": 1734,
+      "term": "eminent",
+      "slug": "eminent",
+      "sourceRows": [
+        813,
+        813
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "著名的，显著的"
+        ]
+      ],
+      "changed": true,
+      "before": "eminent",
+      "after": "e + min + ent",
+      "notes": "eminent 的 min- 是突出，不是 minus 少；更深关系不强行定论。",
+      "definitions": [
+        {
+          "sense": "well known and highly respected; standing out",
+          "en": "well known and highly respected; standing out",
+          "zh": "著名而受尊敬的；杰出的"
+        }
+      ],
+      "derivatives": [
+        "eminence"
+      ]
+    },
+    {
+      "no": 1735,
+      "term": "eminence",
+      "slug": "eminence",
+      "sourceRows": [
+        814,
+        814
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "显赫的声望"
+        ]
+      ],
+      "changed": true,
+      "before": "eminence",
+      "after": "e + min + ence",
+      "notes": "eminent 的 min- 是突出，不是 minus 少；更深关系不强行定论。",
+      "definitions": [
+        {
+          "sense": "distinction, high standing, or a raised place",
+          "en": "distinction, high standing, or a raised place",
+          "zh": "显赫；卓越；高地"
+        }
+      ],
+      "derivatives": [
+        "eminent"
+      ]
+    },
+    {
+      "no": 1736,
+      "term": "preeminent",
+      "slug": "preeminent",
+      "sourceRows": [
+        815,
+        815
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "卓越的"
+        ]
+      ],
+      "changed": true,
+      "before": "preeminent",
+      "after": "pre + e + min + ent",
+      "notes": "eminent 的 min- 是突出，不是 minus 少；更深关系不强行定论。",
+      "definitions": [
+        {
+          "sense": "surpassing others in distinction or importance",
+          "en": "surpassing others in distinction or importance",
+          "zh": "卓越的；出类拔萃的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1737,
+      "term": "emission",
+      "slug": "emission",
+      "sourceRows": [
+        816,
+        816
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "散发；发射"
+        ]
+      ],
+      "changed": true,
+      "before": "emission",
+      "after": "e + miss + ion",
+      "notes": "English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the release of gas, light, heat, or other material or energy",
+          "en": "the release of gas, light, heat, or other material or energy",
+          "zh": "排放；发射"
+        }
+      ],
+      "derivatives": [
+        "emit"
+      ]
+    },
+    {
+      "no": 1738,
+      "term": "emit",
+      "slug": "emit",
+      "sourceRows": [
+        817,
+        817
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "发出，放射"
+        ]
+      ],
+      "changed": true,
+      "before": "emit",
+      "after": "e + mit",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "to send out light, heat, gas, sound, or another substance",
+          "en": "to send out light, heat, gas, sound, or another substance",
+          "zh": "发出；排放"
+        }
+      ],
+      "derivatives": [
+        "emission"
+      ]
+    },
+    {
+      "no": 1739,
+      "term": "emotional",
+      "slug": "emotional",
+      "sourceRows": [
+        818,
+        818
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "情绪的，情感的"
+        ]
+      ],
+      "changed": true,
+      "before": "emotional",
+      "after": "e + mot + ion + al",
+      "notes": "emotion 经法语 émouvoir，深层 e- + movere 使动、激起。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "relating to feelings or showing strong feelings",
+          "en": "relating to feelings or showing strong feelings",
+          "zh": "情感的；情绪激动的"
+        }
+      ],
+      "derivatives": [
+        "emotion"
+      ]
+    },
+    {
+      "no": 1740,
+      "term": "emotion",
+      "slug": "emotion",
+      "sourceRows": [
+        819,
+        819
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "情绪，强烈的情感"
+        ]
+      ],
+      "changed": true,
+      "before": "emotion",
+      "after": "e + mot + ion",
+      "notes": "emotion 经法语 émouvoir，深层 e- + movere 使动、激起。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "a strong feeling such as joy, fear, or anger",
+          "en": "a strong feeling such as joy, fear, or anger",
+          "zh": "情感；情绪"
+        }
+      ],
+      "derivatives": [
+        "emotional"
+      ]
+    },
+    {
+      "no": 1741,
+      "term": "emphasize",
+      "slug": "emphasize",
+      "sourceRows": [
+        820,
+        820
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "强调, 着重"
+        ]
+      ],
+      "changed": true,
+      "before": "emphasize",
+      "after": "em + phas + ize",
+      "notes": "希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。 emphasis 深层 em-/en- 在内 + phainein 显示 + -sis 动作名词；emphasize 去除 -is 后加 -ize。",
+      "definitions": [
+        {
+          "sense": "to give special importance or stress to",
+          "en": "to give special importance or stress to",
+          "zh": "强调"
+        }
+      ],
+      "derivatives": [
+        "emphasis"
+      ]
+    },
+    {
+      "no": 1742,
+      "term": "emphasis",
+      "slug": "emphasis",
+      "sourceRows": [
+        821,
+        821
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "强调, 重点"
+        ]
+      ],
+      "changed": true,
+      "before": "emphasis",
+      "after": "em + phas + is",
+      "notes": "希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。 emphasis 深层 em-/en- 在内 + phainein 显示 + -sis 动作名词；emphasize 去除 -is 后加 -ize。 历史 -sis 可通过借入变化显示为 -is/-se；具体依词说明。",
+      "definitions": [
+        {
+          "sense": "special importance or force given to something",
+          "en": "special importance or force given to something",
+          "zh": "强调；重点"
+        }
+      ],
+      "derivatives": [
+        "emphasize"
+      ]
+    },
+    {
+      "no": 1743,
+      "term": "employ",
+      "slug": "employ",
+      "sourceRows": [
+        822,
+        823
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "用，使用"
+        ],
+        [
+          "vt.",
+          "雇佣"
+        ]
+      ],
+      "changed": true,
+      "before": "employ",
+      "after": "em + ploy",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 em- 在内 + ploy-（Latin plicare 折叠，经法语音变）；从卷入某用途到使用、雇用。",
+      "definitions": [
+        {
+          "sense": "to hire someone for work",
+          "en": "to hire someone for work",
+          "zh": "雇用"
+        },
+        {
+          "sense": "to use something for a purpose",
+          "en": "to use something for a purpose",
+          "zh": "使用"
+        }
+      ],
+      "derivatives": [
+        "employee",
+        "employer",
+        "employment"
+      ]
+    },
+    {
+      "no": 1744,
+      "term": "employee",
+      "slug": "employee",
+      "sourceRows": [
+        824,
+        824
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "雇员"
+        ]
+      ],
+      "changed": true,
+      "before": "employee",
+      "after": "em + ploy + ee",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。",
+      "definitions": [
+        {
+          "sense": "a person hired to work for someone else",
+          "en": "a person hired to work for someone else",
+          "zh": "雇员"
+        }
+      ],
+      "derivatives": [
+        "employ",
+        "employer",
+        "employment"
+      ]
+    },
+    {
+      "no": 1745,
+      "term": "employer",
+      "slug": "employer",
+      "sourceRows": [
+        825,
+        825
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "雇主，老板"
+        ]
+      ],
+      "changed": true,
+      "before": "employer",
+      "after": "em + ploy + er",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.",
+      "definitions": [
+        {
+          "sense": "a person or organization that hires workers",
+          "en": "a person or organization that hires workers",
+          "zh": "雇主"
+        }
+      ],
+      "derivatives": [
+        "employ",
+        "employee",
+        "employment"
+      ]
+    },
+    {
+      "no": 1746,
+      "term": "empty",
+      "slug": "empty",
+      "sourceRows": [
+        826,
+        827
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "空的；空洞的，空虚的"
+        ],
+        [
+          "vt.",
+          "使成为空，倒空"
+        ]
+      ],
+      "changed": true,
+      "before": "empty",
+      "after": "empty",
+      "notes": "æmettig 含 æmetta 闲暇 + -ig 性质，p 为后来的插音；更深前缀来源不明，保留 empty。",
+      "definitions": [
+        {
+          "sense": "containing nothing or lacking substance",
+          "en": "containing nothing or lacking substance",
+          "zh": "空的；空洞的"
+        },
+        {
+          "sense": "to remove the contents of",
+          "en": "to remove the contents of",
+          "zh": "倒空"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1747,
+      "term": "enactment",
+      "slug": "enactment",
+      "sourceRows": [
+        828,
+        828
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "设定，制定"
+        ]
+      ],
+      "changed": true,
+      "before": "enactment",
+      "after": "en + act + ment",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。",
+      "definitions": [
+        {
+          "sense": "the making of a law; the performance of an action or scene",
+          "en": "the making of a law; the performance of an action or scene",
+          "zh": "法律制定；演出"
+        }
+      ],
+      "derivatives": [
+        "enact"
+      ]
+    },
+    {
+      "no": 1748,
+      "term": "encase",
+      "slug": "encase",
+      "sourceRows": [
+        829,
+        829
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "装入，包住，围"
+        ]
+      ],
+      "changed": true,
+      "before": "encase",
+      "after": "en + case",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。",
+      "definitions": [
+        {
+          "sense": "to surround or enclose in a covering",
+          "en": "to surround or enclose in a covering",
+          "zh": "包住；装入"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1749,
+      "term": "enclose",
+      "slug": "enclose",
+      "sourceRows": [
+        830,
+        830
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "装入，放入封套；围绕"
+        ]
+      ],
+      "changed": true,
+      "before": "enclose",
+      "after": "en + close",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。",
+      "definitions": [
+        {
+          "sense": "to surround; to put inside; to include with a letter",
+          "en": "to surround; to put inside; to include with a letter",
+          "zh": "围住；装入；随函附上"
+        }
+      ],
+      "derivatives": [
+        "enclosure"
+      ]
+    },
+    {
+      "no": 1750,
+      "term": "enclosure",
+      "slug": "enclosure",
+      "sourceRows": [
+        831,
+        831
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "围绕；围墙"
+        ]
+      ],
+      "changed": true,
+      "before": "enclosure",
+      "after": "en + clos + ure",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。",
+      "definitions": [
+        {
+          "sense": "an enclosed area or barrier; something included with a letter",
+          "en": "an enclosed area or barrier; something included with a letter",
+          "zh": "围场；围栏；附件"
+        }
+      ],
+      "derivatives": [
+        "enclose"
+      ]
+    },
+    {
+      "no": 1751,
+      "term": "encompass",
+      "slug": "encompass",
+      "sourceRows": [
+        832,
+        833
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "包括，包含"
+        ],
+        [
+          "vt.",
+          "环绕，围住"
+        ]
+      ],
+      "changed": true,
+      "before": "encompass",
+      "after": "en + compass",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 更深 com- 一起 + passer 步量，passer 关联 Latin passus 步；encompass 外层加 en-。",
+      "definitions": [
+        {
+          "sense": "to include or surround completely",
+          "en": "to include or surround completely",
+          "zh": "包含；包围"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1752,
+      "term": "encounter",
+      "slug": "encounter",
+      "sourceRows": [
+        834,
+        834
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "遭遇，遇到"
+        ]
+      ],
+      "changed": true,
+      "before": "encounter",
+      "after": "en + counter",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。",
+      "definitions": [
+        {
+          "sense": "to meet or experience unexpectedly",
+          "en": "to meet or experience unexpectedly",
+          "zh": "遇到；遭遇"
+        },
+        {
+          "sense": "an unexpected meeting",
+          "en": "an unexpected meeting",
+          "zh": "相遇"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1753,
+      "term": "encourage",
+      "slug": "encourage",
+      "sourceRows": [
+        835,
+        835
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "鼓励，支持"
+        ]
+      ],
+      "changed": true,
+      "before": "encourage",
+      "after": "en + courage",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 表层 courage/courag- 勇气；Old French corage ← cor 心 + -age 状态。discourage = dis- + courage；discouraging 去末尾 e 后加 -ing。",
+      "definitions": [
+        {
+          "sense": "to give support, confidence, or hope; to promote",
+          "en": "to give support, confidence, or hope; to promote",
+          "zh": "鼓励；促进"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1754,
+      "term": "encroach",
+      "slug": "encroach",
+      "sourceRows": [
+        836,
+        836
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "侵占，蚕食"
+        ]
+      ],
+      "changed": true,
+      "before": "encroach",
+      "after": "en + croach",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。",
+      "definitions": [
+        {
+          "sense": "to gradually intrude on another's space, rights, or time",
+          "en": "to gradually intrude on another's space, rights, or time",
+          "zh": "侵占；蚕食"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1755,
+      "term": "encyclopedia",
+      "slug": "encyclopedia",
+      "sourceRows": [
+        837,
+        837
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "百科全书"
+        ]
+      ],
+      "changed": true,
+      "before": "encyclopedia",
+      "after": "en + cyclo + pedia",
+      "notes": "希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。 en- + cycl-o- 圆周 + pedia 教育；pedia 内部 paid- 儿童 + -eia，原为 enkyklios paideia 通识教育的词组融合。 pedia 不是足：深层 paid- 儿童 + -eia 抽象名词；encyclopedia 来自 enkyklios paideia 这一词组的历史融合。",
+      "definitions": [
+        {
+          "sense": "a reference work covering many subjects or a particular field systematically",
+          "en": "a reference work covering many subjects or a particular field systematically",
+          "zh": "百科全书"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1756,
+      "term": "endanger",
+      "slug": "endanger",
+      "sourceRows": [
+        838,
+        838
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "危及；危害"
+        ]
+      ],
+      "changed": true,
+      "before": "endanger",
+      "after": "en + danger",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 表层 danger，dangerous = danger + -ous。深层 Old French dangier ← *dominarium 主人的权力 ← Latin dominus 主人 ← domus 房屋；从受人控制发展为危险。此来源不是英语后缀 -dom。",
+      "definitions": [
+        {
+          "sense": "to put at risk of harm or loss",
+          "en": "to put at risk of harm or loss",
+          "zh": "危及"
+        }
+      ],
+      "derivatives": [
+        "endangered"
+      ]
+    },
+    {
+      "no": 1757,
+      "term": "endangered",
+      "slug": "endangered",
+      "sourceRows": [
+        839,
+        839
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "有灭绝危险的，将要绝种的"
+        ]
+      ],
+      "changed": true,
+      "before": "endangered",
+      "after": "en + danger + ed",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 表层 danger，dangerous = danger + -ous。深层 Old French dangier ← *dominarium 主人的权力 ← Latin dominus 主人 ← domus 房屋；从受人控制发展为危险。此来源不是英语后缀 -dom。",
+      "definitions": [
+        {
+          "sense": "at serious risk, especially of extinction",
+          "en": "at serious risk, especially of extinction",
+          "zh": "濒危的；面临危险的"
+        }
+      ],
+      "derivatives": [
+        "endanger"
+      ]
+    },
+    {
+      "no": 1758,
+      "term": "endeavor",
+      "slug": "endeavor",
+      "sourceRows": [
+        840,
+        841
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "尝试，努力"
+        ],
+        [
+          "n.",
+          "努力，尽力"
+        ]
+      ],
+      "changed": true,
+      "before": "endeavor",
+      "after": "en + deavor",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 endeavor 来自 put in dever 尽责；debere 更深 de- 离开 + habere 持有，与 due/debt 同历史源。",
+      "definitions": [
+        {
+          "sense": "to try hard to achieve something",
+          "en": "to try hard to achieve something",
+          "zh": "努力；尝试"
+        },
+        {
+          "sense": "a serious effort or undertaking",
+          "en": "a serious effort or undertaking",
+          "zh": "努力；事业"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1759,
+      "term": "endless",
+      "slug": "endless",
+      "sourceRows": [
+        842,
+        842
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "无止境的"
+        ]
+      ],
+      "changed": true,
+      "before": "endless",
+      "after": "end + less",
+      "notes": "endless = end + -less，不能把 en- 当这里的前缀。",
+      "definitions": [
+        {
+          "sense": "having or seeming to have no end",
+          "en": "having or seeming to have no end",
+          "zh": "无止境的"
+        }
+      ],
+      "derivatives": [
+        "endlessly"
+      ]
+    },
+    {
+      "no": 1760,
+      "term": "endlessly",
+      "slug": "endlessly",
+      "sourceRows": [
+        843,
+        843
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "不断地，无穷尽地"
+        ]
+      ],
+      "changed": true,
+      "before": "endlessly",
+      "after": "end + less + ly",
+      "notes": "endless = end + -less，不能把 en- 当这里的前缀。",
+      "definitions": [
+        {
+          "sense": "continuously or without an apparent end",
+          "en": "continuously or without an apparent end",
+          "zh": "无休止地"
+        }
+      ],
+      "derivatives": [
+        "endless"
+      ]
+    },
+    {
+      "no": 1761,
+      "term": "endow",
+      "slug": "endow",
+      "sourceRows": [
+        844,
+        845
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "捐赠"
+        ],
+        [
+          "vt.",
+          "赋予"
+        ]
+      ],
+      "changed": true,
+      "before": "endow",
+      "after": "en + dow",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 dotare 来自 dos 嫁资，关联 give 的历史根；不是 down 的缩写。",
+      "definitions": [
+        {
+          "sense": "to provide money for an institution; to give a quality or ability",
+          "en": "to provide money for an institution; to give a quality or ability",
+          "zh": "捐资；赋予"
+        }
+      ],
+      "derivatives": [
+        "endowment"
+      ]
+    },
+    {
+      "no": 1762,
+      "term": "endowment",
+      "slug": "endowment",
+      "sourceRows": [
+        846,
+        846
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "禀赋；捐款"
+        ]
+      ],
+      "changed": true,
+      "before": "endowment",
+      "after": "en + dow + ment",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 dotare 来自 dos 嫁资，关联 give 的历史根；不是 down 的缩写。",
+      "definitions": [
+        {
+          "sense": "money or property given to support an institution; a natural ability",
+          "en": "money or property given to support an institution; a natural ability",
+          "zh": "捐赠基金；天赋"
+        }
+      ],
+      "derivatives": [
+        "endow"
+      ]
+    },
+    {
+      "no": 1763,
+      "term": "endure",
+      "slug": "endure",
+      "sourceRows": [
+        847,
+        848
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "承受，忍受"
+        ],
+        [
+          "vt.",
+          "耐久"
+        ]
+      ],
+      "changed": true,
+      "before": "endure",
+      "after": "en + dure",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 durare 从变硬发展到持久；endure 的 en- 为历史加强，非单纯方位。",
+      "definitions": [
+        {
+          "sense": "to suffer patiently",
+          "en": "to suffer patiently",
+          "zh": "忍受"
+        },
+        {
+          "sense": "to continue to exist",
+          "en": "to continue to exist",
+          "zh": "持续"
+        }
+      ],
+      "derivatives": [
+        "enduring",
+        "endurance"
+      ]
+    },
+    {
+      "no": 1764,
+      "term": "enduring",
+      "slug": "enduring",
+      "sourceRows": [
+        849,
+        849
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "持久的，不朽的"
+        ]
+      ],
+      "changed": true,
+      "before": "enduring",
+      "after": "en + dur + ing",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 durare 从变硬发展到持久；endure 的 en- 为历史加强，非单纯方位。",
+      "definitions": [
+        {
+          "sense": "lasting for a long time",
+          "en": "lasting for a long time",
+          "zh": "持久的"
+        }
+      ],
+      "derivatives": [
+        "endure",
+        "endurance"
+      ]
+    },
+    {
+      "no": 1765,
+      "term": "endurance",
+      "slug": "endurance",
+      "sourceRows": [
+        850,
+        850
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "忍耐（力），持久（力）"
+        ]
+      ],
+      "changed": true,
+      "before": "endurance",
+      "after": "en + dur + ance",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 durare 从变硬发展到持久；endure 的 en- 为历史加强，非单纯方位。",
+      "definitions": [
+        {
+          "sense": "the ability to withstand hardship or continue over time",
+          "en": "the ability to withstand hardship or continue over time",
+          "zh": "忍耐力；耐力"
+        }
+      ],
+      "derivatives": [
+        "endure",
+        "enduring"
+      ]
+    },
+    {
+      "no": 1766,
+      "term": "energetic",
+      "slug": "energetic",
+      "sourceRows": [
+        851,
+        851
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "精力充沛的；积极的"
+        ]
+      ],
+      "changed": true,
+      "before": "energetic",
+      "after": "en + erg + etic",
+      "notes": "希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。 en- 在 + erg- 工作 + -etic；-etic 对应 Greek energetikos 的形容词派生层，与 Latin erg-reg 不同。",
+      "definitions": [
+        {
+          "sense": "full of energy and activity",
+          "en": "full of energy and activity",
+          "zh": "精力充沛的；积极的"
+        }
+      ],
+      "derivatives": [
+        "energy"
+      ]
+    },
+    {
+      "no": 1767,
+      "term": "engaging",
+      "slug": "engaging",
+      "sourceRows": [
+        852,
+        852
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "动人的，迷人的"
+        ]
+      ],
+      "changed": true,
+      "before": "engaging",
+      "after": "en + gag + ing",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 engage 从使承担承诺到参与、吸引；engaging 去掉末尾 e 再加 -ing。 更深 Old French gage ← Frankish *wadja- / Germanic *wadi- 抵押、承诺，不能同 gauge 度量混淆。",
+      "definitions": [
+        {
+          "sense": "charming and able to hold attention",
+          "en": "charming and able to hold attention",
+          "zh": "迷人的；有吸引力的"
+        }
+      ],
+      "derivatives": [
+        "engage",
+        "engagement"
+      ]
+    },
+    {
+      "no": 1768,
+      "term": "engage in",
+      "slug": "engage-in",
+      "sourceRows": [
+        853,
+        853
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "从事于，参加"
+        ]
+      ],
+      "changed": true,
+      "before": "engage in",
+      "after": "en + gage + in",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 engage 从使承担承诺到参与、吸引；engaging 去掉末尾 e 再加 -ing。 更深 Old French gage ← Frankish *wadja- / Germanic *wadi- 抵押、承诺，不能同 gauge 度量混淆。 独立英语介词或小品词 in，来自 Old English in，不是构词前缀。",
+      "definitions": [
+        {
+          "sense": "to take part in an activity",
+          "en": "to take part in an activity",
+          "zh": "从事；参与"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1769,
+      "term": "engrave",
+      "slug": "engrave",
+      "sourceRows": [
+        854,
+        854
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "雕刻，铭刻"
+        ]
+      ],
+      "changed": true,
+      "before": "engrave",
+      "after": "en + grave",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 engrave 的 grave 是刻，不是 Latin gravis 重。",
+      "definitions": [
+        {
+          "sense": "to cut a design or words into a hard surface",
+          "en": "to cut a design or words into a hard surface",
+          "zh": "雕刻；铭刻"
+        }
+      ],
+      "derivatives": [
+        "engraving"
+      ]
+    },
+    {
+      "no": 1770,
+      "term": "engraving",
+      "slug": "engraving",
+      "sourceRows": [
+        855,
+        855
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "雕刻术, 雕版, 雕版图"
+        ]
+      ],
+      "changed": true,
+      "before": "engraving",
+      "after": "en + grav + ing",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 engrave 的 grave 是刻，不是 Latin gravis 重。",
+      "definitions": [
+        {
+          "sense": "the art of cutting designs into a surface; a print made from such a design",
+          "en": "the art of cutting designs into a surface; a print made from such a design",
+          "zh": "雕刻术；版画"
+        }
+      ],
+      "derivatives": [
+        "engrave"
+      ]
+    },
+    {
+      "no": 1771,
+      "term": "enhance",
+      "slug": "enhance",
+      "sourceRows": [
+        856,
+        856
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "提高，增加"
+        ]
+      ],
+      "changed": true,
+      "before": "enhance",
+      "after": "en + hance",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 历史 in- + altus 高，经法语及 h/n 拼写影响形成 enhance；hance 保留表层，深层 altus。",
+      "definitions": [
+        {
+          "sense": "to improve the quality, value, or extent of",
+          "en": "to improve the quality, value, or extent of",
+          "zh": "提高；增强"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1772,
+      "term": "enlightenment",
+      "slug": "enlightenment",
+      "sourceRows": [
+        857,
+        857
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "启迪，教化"
+        ]
+      ],
+      "changed": true,
+      "before": "enlightenment",
+      "after": "en + light + en + ment",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 开头 en- 为法语/拉丁来源的使进入；中间 -en 为英语使变得后缀；light 为光，-ment 名词化。",
+      "definitions": [
+        {
+          "sense": "the gaining of understanding or spiritual insight",
+          "en": "the gaining of understanding or spiritual insight",
+          "zh": "启迪；开悟"
+        }
+      ],
+      "derivatives": [
+        "enlighten"
+      ]
+    },
+    {
+      "no": 1773,
+      "term": "enormous",
+      "slug": "enormous",
+      "sourceRows": [
+        858,
+        858
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "极大的，庞大的"
+        ]
+      ],
+      "changed": true,
+      "before": "enormous",
+      "after": "e + norm + ous",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "extremely large in size or amount",
+          "en": "extremely large in size or amount",
+          "zh": "巨大的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1774,
+      "term": "enrage",
+      "slug": "enrage",
+      "sourceRows": [
+        859,
+        859
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "激怒"
+        ]
+      ],
+      "changed": true,
+      "before": "enrage",
+      "after": "en + rage",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 enrage 使陷入愤怒；rage 为借词词干，不把 age 拆作后缀。",
+      "definitions": [
+        {
+          "sense": "to make extremely angry",
+          "en": "to make extremely angry",
+          "zh": "激怒"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1775,
+      "term": "enrich",
+      "slug": "enrich",
+      "sourceRows": [
+        860,
+        860
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "加料于(食物)；使富足，使肥沃"
+        ]
+      ],
+      "changed": true,
+      "before": "enrich",
+      "after": "en + rich",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 rich 是稳定词干；enrich 引申增加营养、价值或肥力。",
+      "definitions": [
+        {
+          "sense": "to improve by adding value, nutrients, or wealth",
+          "en": "to improve by adding value, nutrients, or wealth",
+          "zh": "使丰富；使富足；增加营养"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1776,
+      "term": "ensemble",
+      "slug": "ensemble",
+      "sourceRows": [
+        861,
+        862
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "全体，整体"
+        ],
+        [
+          "n.",
+          "合唱曲；剧团或文工团"
+        ]
+      ],
+      "changed": true,
+      "before": "ensemble",
+      "after": "ensemble",
+      "notes": "深层 in- 加强 + simul 同时，与 similis 相似相关；保留法语借词整体，不能按英语 seem 拆。",
+      "definitions": [
+        {
+          "sense": "a group performing together; a coordinated set of parts or clothes",
+          "en": "a group performing together; a coordinated set of parts or clothes",
+          "zh": "合奏或表演团体；整体；套装"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1777,
+      "term": "entanglement",
+      "slug": "entanglement",
+      "sourceRows": [
+        863,
+        864
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "纠缠，缠绕物"
+        ],
+        [
+          "n.",
+          "累赘；牵连"
+        ]
+      ],
+      "changed": true,
+      "before": "entanglement",
+      "after": "en + tangle + ment",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 可能关联北欧词源，底层不定；-le 不能自信当作可拆的英语重复后缀。",
+      "definitions": [
+        {
+          "sense": "a twisted or complicated involvement; something that entangles",
+          "en": "a twisted or complicated involvement; something that entangles",
+          "zh": "纠缠；牵连；缠绕物"
+        }
+      ],
+      "derivatives": [
+        "entangle"
+      ]
+    },
+    {
+      "no": 1778,
+      "term": "enterprise",
+      "slug": "enterprise",
+      "sourceRows": [
+        865,
+        865
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "事业，企业"
+        ]
+      ],
+      "changed": true,
+      "before": "enterprise",
+      "after": "enter + prise",
+      "notes": "enter- 来自 French entre-/Latin inter-；prise 为 prendre 的分词词干，深层 prehendere = prae- + -hendere 抓。",
+      "definitions": [
+        {
+          "sense": "a business or undertaking; readiness to take initiative",
+          "en": "a business or undertaking; readiness to take initiative",
+          "zh": "企业；事业；进取心"
+        }
+      ],
+      "derivatives": [
+        "enterprising"
+      ]
+    },
+    {
+      "no": 1779,
+      "term": "enterprising",
+      "slug": "enterprising",
+      "sourceRows": [
+        866,
+        866
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "有进取心的,有事业心的,有魄力的"
+        ]
+      ],
+      "changed": true,
+      "before": "enterprising",
+      "after": "enter + pris + ing",
+      "notes": "prehendere 抓住更深 prae- 在前 + -hendere 抓；French prendre/pris 形成 pren-/prise，表层保持法语词干。",
+      "definitions": [
+        {
+          "sense": "showing initiative and readiness to undertake new projects",
+          "en": "showing initiative and readiness to undertake new projects",
+          "zh": "有进取心的"
+        }
+      ],
+      "derivatives": [
+        "enterprise"
+      ]
+    },
+    {
+      "no": 1780,
+      "term": "entertain",
+      "slug": "entertain",
+      "sourceRows": [
+        867,
+        867
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "娱乐；款待"
+        ]
+      ],
+      "changed": true,
+      "before": "entertain",
+      "after": "enter + tain",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "to amuse or host people",
+          "en": "to amuse or host people",
+          "zh": "娱乐；款待"
+        },
+        {
+          "sense": "to consider an idea or possibility",
+          "en": "to consider an idea or possibility",
+          "zh": "考虑；抱有"
+        }
+      ],
+      "derivatives": [
+        "entertainment",
+        "entertainer"
+      ]
+    },
+    {
+      "no": 1781,
+      "term": "entertainment",
+      "slug": "entertainment",
+      "sourceRows": [
+        868,
+        868
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "娱乐；款待"
+        ]
+      ],
+      "changed": true,
+      "before": "entertainment",
+      "after": "enter + tain + ment",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "amusement or a performance provided for enjoyment",
+          "en": "amusement or a performance provided for enjoyment",
+          "zh": "娱乐；表演"
+        }
+      ],
+      "derivatives": [
+        "entertain",
+        "entertainer"
+      ]
+    },
+    {
+      "no": 1782,
+      "term": "entertainer",
+      "slug": "entertainer",
+      "sourceRows": [
+        869,
+        869
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "演艺人员"
+        ]
+      ],
+      "changed": true,
+      "before": "entertainer",
+      "after": "enter + tain + er",
+      "notes": "Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.",
+      "definitions": [
+        {
+          "sense": "a person whose work is to amuse an audience",
+          "en": "a person whose work is to amuse an audience",
+          "zh": "演艺人员"
+        }
+      ],
+      "derivatives": [
+        "entertain",
+        "entertainment"
+      ]
+    },
+    {
+      "no": 1783,
+      "term": "enthusiasm",
+      "slug": "enthusiasm",
+      "sourceRows": [
+        870,
+        870
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "热心，热情"
+        ]
+      ],
+      "changed": true,
+      "before": "enthusiasm",
+      "after": "enthusi + asm",
+      "notes": "深层 en- 在内 + theos 神 → entheos → enthousiazein 受神激励；enthusi- 为派生词干，enthusiast- 含希腊施事结尾，不硬拆成英语 ast。 enthusiasm 的 -asm 经希腊动词派生层而来，不当作未经证实的纯英语拆法。",
+      "definitions": [
+        {
+          "sense": "strong interest, eagerness, or enjoyment",
+          "en": "strong interest, eagerness, or enjoyment",
+          "zh": "热情；热忱"
+        }
+      ],
+      "derivatives": [
+        "enthusiast",
+        "enthusiastic",
+        "enthusiastically"
+      ]
+    },
+    {
+      "no": 1784,
+      "term": "enthusiastically",
+      "slug": "enthusiastically",
+      "sourceRows": [
+        871,
+        871
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "热心地；满腔热情地"
+        ]
+      ],
+      "changed": true,
+      "before": "enthusiastically",
+      "after": "enthusiast + ic + al + ly",
+      "notes": "enthusiastic + -ally；细分 enthusiast- + -ic + -al + -ly。enthusiast- 的历史内部层为 en- 在内 + theos 神及希腊动词、施事派生。",
+      "definitions": [
+        {
+          "sense": "with strong interest and eagerness",
+          "en": "with strong interest and eagerness",
+          "zh": "热情地"
+        }
+      ],
+      "derivatives": [
+        "enthusiasm",
+        "enthusiast",
+        "enthusiastic"
+      ]
+    },
+    {
+      "no": 1785,
+      "term": "entitle",
+      "slug": "entitle",
+      "sourceRows": [
+        872,
+        873
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "取名叫，叫做"
+        ],
+        [
+          "v.",
+          "赋予权力"
+        ]
+      ],
+      "changed": true,
+      "before": "entitle",
+      "after": "en + title",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 titulus 更深来源不明；entitled = en- + titl- + -ed，去尾 e。",
+      "definitions": [
+        {
+          "sense": "to give a right or claim",
+          "en": "to give a right or claim",
+          "zh": "赋予权利"
+        },
+        {
+          "sense": "to give a title or name",
+          "en": "to give a title or name",
+          "zh": "给……命名"
+        }
+      ],
+      "derivatives": [
+        "entitled"
+      ]
+    },
+    {
+      "no": 1786,
+      "term": "entitled",
+      "slug": "entitled",
+      "sourceRows": [
+        874,
+        874
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "有资格的"
+        ]
+      ],
+      "changed": true,
+      "before": "entitled",
+      "after": "en + titl + ed",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 titulus 更深来源不明；entitled = en- + titl- + -ed，去尾 e。",
+      "definitions": [
+        {
+          "sense": "having a right or claim; assuming one deserves special treatment",
+          "en": "having a right or claim; assuming one deserves special treatment",
+          "zh": "有权享有的；自认为应获优待的"
+        }
+      ],
+      "derivatives": [
+        "entitle"
+      ]
+    },
+    {
+      "no": 1787,
+      "term": "entity",
+      "slug": "entity",
+      "sourceRows": [
+        875,
+        875
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "存在物，实体"
+        ]
+      ],
+      "changed": true,
+      "before": "entity",
+      "after": "ent + ity",
+      "notes": "ent- 为 Latin ens 的斜格词干，ens 是 esse 存在的拟造分词；-ity 表性质，ent 不是这里的后缀。",
+      "definitions": [
+        {
+          "sense": "something with a distinct existence",
+          "en": "something with a distinct existence",
+          "zh": "实体；独立存在的事物"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1788,
+      "term": "entrenched",
+      "slug": "entrenched",
+      "sourceRows": [
+        876,
+        876
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "确立的，不容易改的(风俗习惯)"
+        ]
+      ],
+      "changed": true,
+      "before": "entrenched",
+      "after": "en + trench + ed",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 entrenched 从置于壕沟到牢固确立；trenchier 的更深来源未定。",
+      "definitions": [
+        {
+          "sense": "firmly established and difficult to change",
+          "en": "firmly established and difficult to change",
+          "zh": "根深蒂固的"
+        }
+      ],
+      "derivatives": [
+        "entrench"
+      ]
+    },
+    {
+      "no": 1789,
+      "term": "entrepreneur",
+      "slug": "entrepreneur",
+      "sourceRows": [
+        877,
+        877
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "企业家，创业人"
+        ]
+      ],
+      "changed": true,
+      "before": "entrepreneur",
+      "after": "entre + pren + eur",
+      "notes": "entre- 之间 + pren- 取得、承担 + -eur 人；prendre 更深为 prehendere（prae- + -hendere）。 entrepreneur 的法语施事后缀。",
+      "definitions": [
+        {
+          "sense": "a person who starts and runs a business while taking financial risk",
+          "en": "a person who starts and runs a business while taking financial risk",
+          "zh": "企业家；创业者"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1790,
+      "term": "entry",
+      "slug": "entry",
+      "sourceRows": [
+        878,
+        879
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "进口；入口"
+        ],
+        [
+          "n.",
+          "条目"
+        ]
+      ],
+      "changed": true,
+      "before": "entry",
+      "after": "entr + y",
+      "notes": "entr- 来自 enter/Latin intrare；-y 为法语名词结尾路径。区别 enterprise/entertain 的 enter-/entre- 之间。 名词 -y 与形容词 -y（古英语 -ig）分开。",
+      "definitions": [
+        {
+          "sense": "the act or right of entering; an entrance",
+          "en": "the act or right of entering; an entrance",
+          "zh": "进入；进入权；入口"
+        },
+        {
+          "sense": "an item recorded in a list or a competition submission",
+          "en": "an item recorded in a list or a competition submission",
+          "zh": "条目；参赛作品"
+        }
+      ],
+      "derivatives": [
+        "enter"
+      ]
+    },
+    {
+      "no": 1791,
+      "term": "envelop",
+      "slug": "envelop",
+      "sourceRows": [
+        880,
+        880
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "把…包住，裹住"
+        ]
+      ],
+      "changed": true,
+      "before": "envelop",
+      "after": "en + velop",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 更深来源有 Celtic/Germanic 等提议但未定；en- + velop，不能错误归入 vol- 飞。",
+      "definitions": [
+        {
+          "sense": "to wrap around or cover completely",
+          "en": "to wrap around or cover completely",
+          "zh": "包围；包裹"
+        }
+      ],
+      "derivatives": [
+        "envelope"
+      ]
+    },
+    {
+      "no": 1792,
+      "term": "envision",
+      "slug": "envision",
+      "sourceRows": [
+        881,
+        881
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "想象，预想"
+        ]
+      ],
+      "changed": true,
+      "before": "envision",
+      "after": "en + vis + ion",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "to imagine a future situation or possibility",
+          "en": "to imagine a future situation or possibility",
+          "zh": "想象；展望"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1793,
+      "term": "enzyme",
+      "slug": "enzyme",
+      "sourceRows": [
+        882,
+        882
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "酶"
+        ]
+      ],
+      "changed": true,
+      "before": "enzyme",
+      "after": "en + zyme",
+      "notes": "希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。 enzyme = en- 在内 + zyme 酵母，命名源于酵母中的作用物。",
+      "definitions": [
+        {
+          "sense": "a biological catalyst that speeds up a chemical reaction",
+          "en": "a biological catalyst that speeds up a chemical reaction",
+          "zh": "酶；生物催化剂"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1794,
+      "term": "ephemeral",
+      "slug": "ephemeral",
+      "sourceRows": [
+        883,
+        883
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "短暂的，转瞬即逝的"
+        ]
+      ],
+      "changed": true,
+      "before": "ephemeral",
+      "after": "ep + hemer + al",
+      "notes": "ep- 为元音前变体；ephemeral 中 ph 跨边界反映历史送气变化。 表层 ep- + hemer- + -al。拼写 ph 横跨边界，反映 epi 遇 hemera 的送气 h 后的历史变化；ph 不是独立词根。",
+      "definitions": [
+        {
+          "sense": "lasting for only a short time",
+          "en": "lasting for only a short time",
+          "zh": "短暂的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1795,
+      "term": "epic",
+      "slug": "epic",
+      "sourceRows": [
+        884,
+        884
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "史诗，叙事诗"
+        ]
+      ],
+      "changed": true,
+      "before": "epic",
+      "after": "ep + ic",
+      "notes": "epic = ep- + -ic；与 epi- 在上不同。",
+      "definitions": [
+        {
+          "sense": "a long narrative poem about heroic deeds",
+          "en": "a long narrative poem about heroic deeds",
+          "zh": "史诗"
+        },
+        {
+          "sense": "grand in scale or impressive",
+          "en": "grand in scale or impressive",
+          "zh": "宏大的；壮观的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1796,
+      "term": "epidemic",
+      "slug": "epidemic",
+      "sourceRows": [
+        885,
+        885
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "传染病，流行病"
+        ]
+      ],
+      "changed": true,
+      "before": "epidemic",
+      "after": "epi + dem + ic",
+      "notes": "ep- 为元音前变体；ephemeral 中 ph 跨边界反映历史送气变化。",
+      "definitions": [
+        {
+          "sense": "an unusually widespread occurrence of a disease or other phenomenon",
+          "en": "an unusually widespread occurrence of a disease or other phenomenon",
+          "zh": "流行病；广泛蔓延"
+        },
+        {
+          "sense": "spreading widely in a community",
+          "en": "spreading widely in a community",
+          "zh": "流行性的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1797,
+      "term": "epidermis",
+      "slug": "epidermis",
+      "sourceRows": [
+        886,
+        886
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "表皮"
+        ]
+      ],
+      "changed": true,
+      "before": "epidermis",
+      "after": "epi + dermis",
+      "notes": "ep- 为元音前变体；ephemeral 中 ph 跨边界反映历史送气变化。 derma 为皮肤名词，-ma 结果层历史关联剥皮；epidermis 中 dermis 是希腊名词构词形，-is 非英语复数。",
+      "definitions": [
+        {
+          "sense": "the outermost layer of skin, or the outer covering of a plant",
+          "en": "the outermost layer of skin, or the outer covering of a plant",
+          "zh": "表皮"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1798,
+      "term": "episode",
+      "slug": "episode",
+      "sourceRows": [
+        887,
+        887
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "一段情节；（音乐）插曲"
+        ]
+      ],
+      "changed": true,
+      "before": "episode",
+      "after": "ep + isode",
+      "notes": "ep- 为元音前变体；ephemeral 中 ph 跨边界反映历史送气变化。 episode 表层 ep- + isode；isode 深层 eis 进入 + hodos 道路，经过借入缩略，不能直接贴成普通英语 ode 颂歌。",
+      "definitions": [
+        {
+          "sense": "one part of a series or a distinct event within a larger story",
+          "en": "one part of a series or a distinct event within a larger story",
+          "zh": "一集；片段；事件"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1799,
+      "term": "epoch",
+      "slug": "epoch",
+      "sourceRows": [
+        888,
+        888
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "新纪元，时代"
+        ]
+      ],
+      "changed": true,
+      "before": "epoch",
+      "after": "epoch",
+      "notes": "深层 epi- 在 + echein 持有，经词干和拼写变化形成 epoch；不造英语 och 独立词。",
+      "definitions": [
+        {
+          "sense": "a distinct period in history or geology; a reference point in time",
+          "en": "a distinct period in history or geology; a reference point in time",
+          "zh": "时代；地质世；纪元起点"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1800,
+      "term": "equal",
+      "slug": "equal",
+      "sourceRows": [
+        889,
+        890
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "相等的，同样的"
+        ],
+        [
+          "vt.",
+          "等于，比得上"
+        ]
+      ],
+      "changed": true,
+      "before": "equal",
+      "after": "equ + al",
+      "notes": "已核对表层构词、具体词源、释义与词族；复用已有可靠词根。",
+      "definitions": [
+        {
+          "sense": "the same in amount, value, or status",
+          "en": "the same in amount, value, or status",
+          "zh": "相等的；平等的"
+        },
+        {
+          "sense": "to match or be the same as",
+          "en": "to match or be the same as",
+          "zh": "等于；比得上"
+        }
+      ],
+      "derivatives": [
+        "equality"
+      ]
+    }
+  ],
+  "changedWords": [
+    "aerodynamics",
+    "debt",
+    "discourage",
+    "donor",
+    "dormant",
+    "dormitory",
+    "dorsal",
+    "dot",
+    "doubt",
+    "doubtful",
+    "down-the-drain",
+    "downtown",
+    "draft",
+    "draft-animal",
+    "drag",
+    "dragonfly",
+    "drain",
+    "drainage",
+    "drama",
+    "dramatic",
+    "dramatically",
+    "dramatize",
+    "drastic",
+    "draw",
+    "draw-from",
+    "draw-out",
+    "draw-up",
+    "drawback",
+    "drawer",
+    "drawing",
+    "dread",
+    "dreadful",
+    "dreadfully",
+    "dreary",
+    "drift",
+    "driftwood",
+    "drill",
+    "drop-in",
+    "drought",
+    "drowsy",
+    "drudgery",
+    "ductile",
+    "due",
+    "due-to",
+    "dues",
+    "dull",
+    "dumb",
+    "dumbbell-like",
+    "dump",
+    "duplicate",
+    "durable",
+    "duration",
+    "dwarf",
+    "dwell",
+    "dweller",
+    "dwelling",
+    "dye",
+    "dynamic",
+    "dynamics",
+    "eager",
+    "earthquake",
+    "eccentric",
+    "eccentricity",
+    "eclecticism",
+    "eclipse",
+    "ecological",
+    "ecologist",
+    "economical",
+    "economics",
+    "economize",
+    "ecosystem",
+    "edentate",
+    "edge",
+    "edible",
+    "edifice",
+    "educable",
+    "educated",
+    "education",
+    "effective",
+    "effectiveness",
+    "efficiency",
+    "efficient",
+    "effluent",
+    "eject",
+    "elaborate",
+    "elaborately",
+    "elasticity",
+    "election",
+    "electron",
+    "elegance",
+    "elegant",
+    "element",
+    "elementary",
+    "elevate",
+    "elevation",
+    "elevator",
+    "elicit",
+    "eligible",
+    "eliminate",
+    "elimination",
+    "elite",
+    "elixir",
+    "elliptical",
+    "elongate",
+    "eloquent",
+    "elusive",
+    "emancipate",
+    "emancipation",
+    "embarrass",
+    "embed",
+    "embellish",
+    "embellishment",
+    "emblem",
+    "embody",
+    "emboss",
+    "embrace",
+    "embroider",
+    "embroidery",
+    "embryo",
+    "embryological",
+    "embryonic",
+    "emerge",
+    "emergence",
+    "emerging",
+    "emigrant",
+    "eminence",
+    "eminent",
+    "emission",
+    "emit",
+    "emotion",
+    "emotional",
+    "emphasis",
+    "emphasize",
+    "employ",
+    "employee",
+    "employer",
+    "empty",
+    "enactment",
+    "encase",
+    "enclose",
+    "enclosure",
+    "encompass",
+    "encounter",
+    "encourage",
+    "encroach",
+    "encyclopedia",
+    "endanger",
+    "endangered",
+    "endeavor",
+    "endless",
+    "endlessly",
+    "endotherm",
+    "endotoxin",
+    "endow",
+    "endowment",
+    "endurance",
+    "endure",
+    "enduring",
+    "energetic",
+    "engage-in",
+    "engaging",
+    "engrave",
+    "engraving",
+    "enhance",
+    "enlightenment",
+    "enormous",
+    "enrage",
+    "enrich",
+    "ensemble",
+    "entanglement",
+    "enterprise",
+    "enterprising",
+    "entertain",
+    "entertainer",
+    "entertainment",
+    "enthusiasm",
+    "enthusiastically",
+    "entitle",
+    "entitled",
+    "entity",
+    "entrenched",
+    "entrepreneur",
+    "entry",
+    "envelop",
+    "envision",
+    "enzyme",
+    "ephemeral",
+    "epic",
+    "epidemic",
+    "epidermis",
+    "episode",
+    "epoch",
+    "equal",
+    "equality",
+    "inelastic",
+    "melodrama",
+    "overdue",
+    "preeminent",
+    "residue",
+    "selection",
+    "snowdrift",
+    "subdue",
+    "thermodynamics",
+    "dormancy",
+    "drowse",
+    "drudge",
+    "toxin",
+    "ecology",
+    "economy",
+    "economic",
+    "educate",
+    "educational",
+    "effect",
+    "elastic",
+    "elect",
+    "select",
+    "ellipse",
+    "ellipsis",
+    "eloquence",
+    "elude",
+    "emigrate",
+    "emigration",
+    "employment",
+    "enact",
+    "energy",
+    "engage",
+    "engagement",
+    "enlighten",
+    "entangle",
+    "enthusiast",
+    "enthusiastic",
+    "entrench",
+    "enter",
+    "envelope",
+    "dramatization",
+    "subdued",
+    "residual",
+    "embryology",
+    "eclectic"
+  ],
+  "changedRoots": [
+    "root:aer",
+    "root:bar",
+    "root:crook",
+    "root:demo",
+    "root:di-two",
+    "root:dot",
+    "root:doubt",
+    "root:draft",
+    "root:drag",
+    "root:drain",
+    "root:drama",
+    "root:draw",
+    "root:dread",
+    "root:dreary",
+    "root:drift",
+    "root:drill",
+    "root:drop",
+    "root:drought",
+    "root:due",
+    "root:dull",
+    "root:dumb",
+    "root:dump",
+    "root:dwarf",
+    "root:dwell",
+    "root:dye",
+    "root:eager",
+    "root:edge",
+    "root:element",
+    "root:elite",
+    "root:elixir",
+    "root:emblem",
+    "root:embryo",
+    "root:empty",
+    "root:ensemble",
+    "root:epoch",
+    "root:esse-sent",
+    "root:fac",
+    "root:ic",
+    "root:ics",
+    "root:in",
+    "root:inter",
+    "root:labor",
+    "root:leg-speak",
+    "root:logy",
+    "root:loqu",
+    "root:lud",
+    "root:manu",
+    "root:nom",
+    "root:plic",
+    "root:prehend",
+    "root:subdue",
+    "root:dorm",
+    "root:dors",
+    "root:endo",
+    "root:tox",
+    "root:therm",
+    "root:dragon",
+    "root:fly",
+    "root:melo",
+    "root:drast",
+    "root:wood",
+    "root:snow",
+    "root:drowse",
+    "root:drudge",
+    "root:residu",
+    "root:bell",
+    "root:dur",
+    "root:dynam",
+    "root:earth",
+    "root:quake",
+    "root:ec-greek",
+    "root:lect-greek",
+    "root:lip-leip",
+    "root:eco",
+    "root:system",
+    "root:ed-eat",
+    "root:aed-house",
+    "root:educ",
+    "root:elast",
+    "root:electr",
+    "root:lev",
+    "root:lac-lure",
+    "root:limin",
+    "root:long",
+    "root:bell-beauty",
+    "root:boss-raised",
+    "root:brace-arm",
+    "root:broider",
+    "root:merg",
+    "root:migr",
+    "root:min-project",
+    "root:mot",
+    "root:phas",
+    "root:compass",
+    "root:paideia",
+    "root:cycl",
+    "root:end",
+    "root:deavor",
+    "root:dow",
+    "root:erg-work",
+    "root:gage",
+    "root:grave-carve",
+    "root:hance",
+    "root:rage",
+    "root:rich",
+    "root:tangle",
+    "root:enthusi",
+    "root:title",
+    "root:trench",
+    "root:enter",
+    "root:velop",
+    "root:zym",
+    "root:hemer",
+    "root:epos",
+    "root:epi",
+    "root:derm",
+    "root:eisode",
+    "root:en-greek",
+    "root:in-substance",
+    "root:ory-place",
+    "root:ile",
+    "root:on-particle",
+    "root:sis",
+    "root:y-noun",
+    "root:eur",
+    "root:body",
+    "root:town",
+    "root:ency",
+    "root:se-apart",
+    "root:light",
+    "root:asm",
+    "root:ancy",
+    "root:du-two",
+    "root:in-word"
+  ],
+  "newWords": [
+    "dormancy",
+    "drowse",
+    "drudge",
+    "toxin",
+    "ecology",
+    "economy",
+    "economic",
+    "educate",
+    "educational",
+    "effect",
+    "elastic",
+    "elect",
+    "select",
+    "ellipse",
+    "ellipsis",
+    "eloquence",
+    "elude",
+    "emigrate",
+    "emigration",
+    "employment",
+    "enact",
+    "energy",
+    "engage",
+    "engagement",
+    "enlighten",
+    "entangle",
+    "enthusiast",
+    "enthusiastic",
+    "entrench",
+    "enter",
+    "envelope",
+    "dramatization",
+    "subdued",
+    "residual",
+    "embryology",
+    "eclectic"
+  ],
+  "newRoots": [
+    "root:dorm",
+    "root:dors",
+    "root:endo",
+    "root:tox",
+    "root:therm",
+    "root:dragon",
+    "root:fly",
+    "root:melo",
+    "root:drast",
+    "root:wood",
+    "root:snow",
+    "root:drowse",
+    "root:drudge",
+    "root:residu",
+    "root:bell",
+    "root:dur",
+    "root:dynam",
+    "root:earth",
+    "root:quake",
+    "root:ec-greek",
+    "root:lect-greek",
+    "root:lip-leip",
+    "root:eco",
+    "root:system",
+    "root:ed-eat",
+    "root:aed-house",
+    "root:educ",
+    "root:elast",
+    "root:electr",
+    "root:lev",
+    "root:lac-lure",
+    "root:limin",
+    "root:long",
+    "root:bell-beauty",
+    "root:boss-raised",
+    "root:brace-arm",
+    "root:broider",
+    "root:merg",
+    "root:migr",
+    "root:min-project",
+    "root:mot",
+    "root:phas",
+    "root:compass",
+    "root:paideia",
+    "root:cycl",
+    "root:end",
+    "root:deavor",
+    "root:dow",
+    "root:erg-work",
+    "root:gage",
+    "root:grave-carve",
+    "root:hance",
+    "root:rage",
+    "root:rich",
+    "root:tangle",
+    "root:enthusi",
+    "root:title",
+    "root:trench",
+    "root:enter",
+    "root:velop",
+    "root:zym",
+    "root:hemer",
+    "root:epos",
+    "root:epi",
+    "root:derm",
+    "root:eisode",
+    "root:en-greek",
+    "root:in-substance",
+    "root:ory-place",
+    "root:ile",
+    "root:on-particle",
+    "root:sis",
+    "root:y-noun",
+    "root:eur",
+    "root:body",
+    "root:town",
+    "root:ency",
+    "root:se-apart",
+    "root:light",
+    "root:asm",
+    "root:ancy",
+    "root:du-two",
+    "root:in-word"
+  ],
+  "placeholderDefinitionsReplaced": 196,
+  "staticVerified": {
+    "words": 237,
+    "targetWords": 200,
+    "roots": 197
+  },
+  "uncertainDeepOrigins": [
+    "dot",
+    "dragon",
+    "drast/drama beyond Greek drao",
+    "drowsy",
+    "drudge",
+    "subdue historical confluence",
+    "dull",
+    "dump",
+    "dwarf",
+    "elast",
+    "element",
+    "elixir",
+    "embarrass intermediary path",
+    "empty",
+    "tangle",
+    "trench",
+    "velop"
+  ],
+  "layerRepresentation": "Surface morphemes + learner-visible component notes and root source notes; relatedRootIds where etymologically appropriate, not a new structural hierarchy.",
+  "ingestProgress": "unchanged; previous completed logical number 2433, next 2434",
+  "sources": [
+    "https://www.etymonline.com/word/dormant",
+    "https://www.etymonline.com/word/dormitory",
+    "https://www.etymonline.com/word/dorsal",
+    "https://www.etymonline.com/word/dot",
+    "https://www.etymonline.com/word/endo-",
+    "https://www.etymonline.com/word/toxin",
+    "https://www.etymonline.com/word/doubt",
+    "https://www.etymonline.com/word/drag",
+    "https://www.etymonline.com/word/dragon",
+    "https://www.etymonline.com/word/drain",
+    "https://www.etymonline.com/word/drama",
+    "https://www.etymonline.com/word/melodrama",
+    "https://www.etymonline.com/word/drastic",
+    "https://www.etymonline.com/word/draw",
+    "https://www.etymonline.com/word/dread",
+    "https://www.etymonline.com/word/dreary",
+    "https://www.etymonline.com/word/drift",
+    "https://www.etymonline.com/word/drill",
+    "https://www.etymonline.com/word/drought",
+    "https://www.etymonline.com/word/drowsy",
+    "https://www.etymonline.com/word/drudge",
+    "https://www.etymonline.com/word/due",
+    "https://www.etymonline.com/word/subdue",
+    "https://www.etymonline.com/word/residue",
+    "https://www.etymonline.com/word/dull",
+    "https://www.etymonline.com/word/dumb",
+    "https://www.etymonline.com/word/dump",
+    "https://www.etymonline.com/word/duplicate",
+    "https://www.etymonline.com/word/durable",
+    "https://www.etymonline.com/word/dwarf",
+    "https://www.etymonline.com/word/dwell",
+    "https://www.etymonline.com/word/dye",
+    "https://www.etymonline.com/word/dynamic",
+    "https://www.etymonline.com/word/eager",
+    "https://www.etymonline.com/word/earthquake",
+    "https://www.etymonline.com/word/eccentric",
+    "https://www.etymonline.com/word/eclectic",
+    "https://www.etymonline.com/word/eclipse",
+    "https://www.etymonline.com/word/ecology",
+    "https://www.etymonline.com/word/economy",
+    "https://www.etymonline.com/word/system",
+    "https://www.etymonline.com/word/edible",
+    "https://www.etymonline.com/word/edifice",
+    "https://www.etymonline.com/word/educate",
+    "https://www.etymonline.com/word/elastic",
+    "https://www.etymonline.com/word/electron",
+    "https://www.etymonline.com/word/elegant",
+    "https://www.etymonline.com/word/element",
+    "https://www.etymonline.com/word/elevate",
+    "https://www.etymonline.com/word/elicit",
+    "https://www.etymonline.com/word/eligible",
+    "https://www.etymonline.com/word/elite",
+    "https://www.etymonline.com/word/elixir",
+    "https://www.etymonline.com/word/ellipse",
+    "https://www.etymonline.com/word/emancipate",
+    "https://www.etymonline.com/word/embarrass",
+    "https://www.etymonline.com/word/embellish",
+    "https://www.etymonline.com/word/emblem",
+    "https://www.etymonline.com/word/emboss",
+    "https://www.etymonline.com/word/embrace",
+    "https://www.etymonline.com/word/embroider",
+    "https://www.etymonline.com/word/embryo",
+    "https://www.etymonline.com/word/emerge",
+    "https://www.etymonline.com/word/emigrant",
+    "https://www.etymonline.com/word/eminent",
+    "https://www.etymonline.com/word/emphasis",
+    "https://www.etymonline.com/word/employ",
+    "https://www.etymonline.com/word/empty",
+    "https://www.etymonline.com/word/encompass",
+    "https://www.etymonline.com/word/encounter",
+    "https://www.etymonline.com/word/encroach",
+    "https://www.etymonline.com/word/encyclopedia",
+    "https://www.etymonline.com/word/endeavor",
+    "https://www.etymonline.com/word/endow",
+    "https://www.etymonline.com/word/energy",
+    "https://www.etymonline.com/word/engrave",
+    "https://www.etymonline.com/word/enhance",
+    "https://www.etymonline.com/word/enormous",
+    "https://www.etymonline.com/word/ensemble",
+    "https://www.etymonline.com/word/enterprise",
+    "https://www.etymonline.com/word/entertain",
+    "https://www.etymonline.com/word/enthusiasm",
+    "https://www.etymonline.com/word/entity",
+    "https://www.etymonline.com/word/entrepreneur",
+    "https://www.etymonline.com/word/entry",
+    "https://www.etymonline.com/word/envelop",
+    "https://www.etymonline.com/word/enzyme",
+    "https://www.etymonline.com/word/ephemeral",
+    "https://www.etymonline.com/word/epic",
+    "https://www.etymonline.com/word/epidemic",
+    "https://www.etymonline.com/word/epidermis",
+    "https://www.etymonline.com/word/episode",
+    "https://www.etymonline.com/word/epoch",
+    "https://www.etymonline.com/word/equal",
+    "https://www.merriam-webster.com/dictionary/due",
+    "https://www.merriam-webster.com/dictionary/duo",
+    "https://www.merriam-webster.com/dictionary/dormant",
+    "https://www.merriam-webster.com/dictionary/dorsal",
+    "https://www.merriam-webster.com/dictionary/drama",
+    "https://www.merriam-webster.com/dictionary/drastic",
+    "https://www.merriam-webster.com/dictionary/drowsy",
+    "https://www.merriam-webster.com/dictionary/eclipse",
+    "https://www.merriam-webster.com/dictionary/dynamic",
+    "https://www.merriam-webster.com/dictionary/edifice",
+    "https://www.merriam-webster.com/dictionary/subdue",
+    "https://www.merriam-webster.com/dictionary/residue",
+    "https://www.merriam-webster.com/dictionary/elixir",
+    "https://www.merriam-webster.com/dictionary/elicit",
+    "https://www.merriam-webster.com/dictionary/eliminate",
+    "https://www.merriam-webster.com/dictionary/eminent",
+    "https://www.merriam-webster.com/dictionary/electron",
+    "https://www.merriam-webster.com/dictionary/endow",
+    "https://www.merriam-webster.com/dictionary/enhance",
+    "https://www.merriam-webster.com/dictionary/envelop",
+    "https://www.merriam-webster.com/dictionary/ephemeral",
+    "https://www.merriam-webster.com/dictionary/enzyme",
+    "https://www.merriam-webster.com/dictionary/epidermis",
+    "https://www.merriam-webster.com/dictionary/episode",
+    "https://www.merriam-webster.com/dictionary/epoch",
+    "https://www.merriam-webster.com/dictionary/dot",
+    "https://www.merriam-webster.com/dictionary/dragon",
+    "https://www.merriam-webster.com/dictionary/drain",
+    "https://www.merriam-webster.com/dictionary/dread",
+    "https://www.merriam-webster.com/dictionary/dreary",
+    "https://www.merriam-webster.com/dictionary/drift",
+    "https://www.merriam-webster.com/dictionary/drill",
+    "https://www.merriam-webster.com/dictionary/dye",
+    "https://www.merriam-webster.com/dictionary/dull",
+    "https://www.merriam-webster.com/dictionary/dumb",
+    "https://www.merriam-webster.com/dictionary/dwarf",
+    "https://www.merriam-webster.com/dictionary/dump",
+    "https://www.merriam-webster.com/dictionary/economy",
+    "https://www.merriam-webster.com/dictionary/system",
+    "https://www.merriam-webster.com/dictionary/energy",
+    "https://www.merriam-webster.com/dictionary/edible",
+    "https://www.merriam-webster.com/dictionary/durable",
+    "https://www.merriam-webster.com/dictionary/enthusiasm",
+    "https://www.merriam-webster.com/dictionary/encyclopedia",
+    "https://www.merriam-webster.com/dictionary/entity",
+    "https://www.merriam-webster.com/dictionary/endeavor",
+    "https://www.merriam-webster.com/dictionary/employ",
+    "https://www.merriam-webster.com/dictionary/empty",
+    "https://www.merriam-webster.com/dictionary/embellish",
+    "https://www.merriam-webster.com/dictionary/embroider",
+    "https://www.merriam-webster.com/dictionary/embryo",
+    "https://www.merriam-webster.com/dictionary/emblem",
+    "https://www.merriam-webster.com/dictionary/emancipate",
+    "https://www.merriam-webster.com/dictionary/engage",
+    "https://www.merriam-webster.com/dictionary/therm",
+    "https://www.merriam-webster.com/dictionary/endotherm",
+    "https://www.etymonline.com/word/gage"
+  ],
+  "validation": {
+    "canonicalIssues": 0,
+    "canonicalWarnings": 0,
+    "batchIssues": 0,
+    "batchWarnings": 0,
+    "generation": "passed",
+    "staticContent": "passed: 237 words and 197 roots verified",
+    "typescript": "passed",
+    "productionBuild": "passed",
+    "buildWarnings": [
+      "large output chunks",
+      "vinext static route classification unknown"
+    ],
+    "ingestProgress": "unchanged; sheet 2001-3000 through row 494, next row 495 (No.2434)"
+  }
+}

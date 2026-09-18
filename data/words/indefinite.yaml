@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: indefinite
+word: indefinite
+pos: adjective
+zh: 模糊的；不明确的
+en: Means 模糊的；不明确的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: de
+    form: de-
+    meaning_in_word: 向下；去除
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:de.
+  - morpheme: fin
+    form: fin
+    meaning_in_word: 边界；限制；终点
+    zh: 边界；限制；终点
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:fin.
+  - morpheme: ite
+    form: -ite
+    meaning_in_word: 矿物；相关物
+    zh: 矿物；相关物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ite.
+word_family:
+  - indefinitely
+word_family_details:
+  - word: indefinitely
+    en: Means 不确定地；无穷尽地; reviewed from the TOEFL source gloss for learner display.
+    zh: 不确定地；无穷尽地
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

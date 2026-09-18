@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: staircase
+word: staircase
+pos: noun
+zh: 楼梯
+en: Means 楼梯; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: stair
+    form: stair
+    meaning_in_word: stair / 楼梯
+    zh: 楼梯
+    role: root
+    is_core: true
+  - morpheme: case
+    form: case
+    meaning_in_word: case; container / 箱；框架
+    zh: 箱；框架
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

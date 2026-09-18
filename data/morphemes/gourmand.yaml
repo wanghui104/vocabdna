@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gourmand
+display: gourmand
+type: root
+core_meaning: draft meaning for gourmand
+zh: 嗜食者
+origin: Unknown
+source_form: TOEFL draft opaque stem: gourmand
+source_meaning: draft learner stem for gourmand
+source_meaning_zh: 嗜食者
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for gourmand
+    zh: 嗜食者
+    examples:
+      - gourmand
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - gourmand -> gourmand
+high_value_words:
+  - gourmand
+confusable_words:
+  []

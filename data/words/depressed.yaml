@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: depressed
+word: depressed
+pos: adjective
+zh: 沮丧的；低迷的；凹陷的
+en: sad and low in spirit, economically low, or physically lowered
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: press
+    form: press
+    meaning_in_word: press
+    zh: 压
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: completed state
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - depress
+  - depression
+word_family_details:
+  - word: depress
+    en: to press down, lower, or make sad
+    zh: 压下；压低；使沮丧
+  - word: depression
+    en: a period of low economic activity
+    zh: 不景气；萧条期
+confusables:
+  []
+examples:
+  []
+why_confusing: 医学 depression/depressed 需谨慎使用，不只是普通难过。

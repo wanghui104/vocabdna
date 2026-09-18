@@ -5,6 +5,10 @@ type: root
 core_meaning: skill, craft
 zh: 技艺、技巧
 origin: Latin
+source_form: Latin ars, artis (stem art-); arte = by skill
+source_meaning: skill, craft, art
+source_meaning_zh: 技艺；手艺；艺术
+source_note: arti- is a compound form containing a linking vowel; arte is the Latin ablative form. Artifact reflects arte + factum/factus, while artifice and artificial reflect artificium / artificialis. References: https://www.etymonline.com/word/artifact ; https://www.merriam-webster.com/dictionary/artifact ; https://www.etymonline.com/word/artifice ; https://www.etymonline.com/word/artificial . Sources differ on the immediate borrowing route of artifact, so no single route is asserted.
 related_morphemes:
   []
 senses:
@@ -12,13 +16,40 @@ senses:
     zh: 技艺、技巧
     examples:
       - artifact
+      - artificial
+      - artisan
+      - artefact
+      - artifactual
+      - artefactual
+      - artificially
+      - artificiality
+      - artifice
+      - artificer
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - art -> artifact
+  - arti -> artifact
+  - arti -> artificial
+  - art -> artisan
+  - arte -> artefact
+  - arti -> artifactual
+  - arte -> artefactual
+  - arti -> artificially
+  - arti -> artificiality
+  - arti -> artifice
+  - arti -> artificer
 high_value_words:
   - artifact
+  - artificial
+  - artisan
+  - artefact
+  - artifactual
+  - artefactual
+  - artificially
+  - artificiality
+  - artifice
+  - artificer
 confusable_words:
   []

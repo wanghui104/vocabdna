@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: citizen
+word: citizen
+pos: noun
+zh: 公民；市民
+en: a legally recognized member of a country or city
+components:
+  - morpheme: civ
+    form: citizen
+    meaning_in_word: citizen
+    zh: 公民；市民；文明
+    role: root
+    is_core: true
+word_family:
+  - citizenship
+word_family_details:
+  - word: citizenship
+    en: the legal status or duties of being a citizen
+    zh: 公民身份
+confusables:
+  []
+examples:
+  []
+why_confusing: 用于补全 citizenship。

@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cur
+display: cur
+type: root
+core_meaning: run
+zh: 跑；发生
+origin: Latin
+source_form: Latin currere
+source_meaning: run
+source_meaning_zh: 跑；发生
+related_morphemes:
+  []
+senses:
+  - meaning: run
+    zh: 跑；发生
+    examples:
+      - incur
+      - recur
+      - recurring
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cur -> incur
+  - cur -> recur
+  - cur -> recurring
+high_value_words:
+  - incur
+  - recur
+  - recurring
+confusable_words:
+  []

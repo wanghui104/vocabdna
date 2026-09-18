@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: artificially
+word: artificially
+pos: adverb
+zh: 人工地；人为地；不自然地
+en: through human intervention, or in a forced or unnatural way
+components:
+  - morpheme: art
+    form: arti
+    meaning_in_word: skill, craft / 技艺
+    zh: 技艺、技巧
+    role: root
+    is_core: true
+    note: arti- 是 art- 的复合词形式；i 是构词连接元音，无独立词义。
+  - morpheme: fac
+    form: fic
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+    note: fic-/fice 对应 facere 的复合词词干；不是 fiction 的 fict-。
+  - morpheme: al
+    form: -ial
+    meaning_in_word: relating to / ……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Latin artificialis 的形容词层；表层人工性质词干 artificial 可继续加 -ly 或 -ity。
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in this manner / 以……方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - artificial
+  - artificiality
+word_family_details:
+  - word: artificial
+    en: made by people rather than nature, or not natural or sincere
+    zh: 人造的；人工的；虚假的；矫揉造作的
+  - word: artificiality
+    en: the quality of being human-made, unnatural, or insincere
+    zh: 人造性；不自然；做作
+confusables:
+  []
+examples:
+  - en: The greenhouse is heated artificially during winter.
+    zh: 温室在冬季通过人工方式供暖。
+  - en: The subsidy kept prices artificially low.
+    zh: 补贴使价格被人为地维持在低位。
+why_confusing: 修饰动词或形容词，用 artificially；修饰名词用 artificial，如 artificial light。

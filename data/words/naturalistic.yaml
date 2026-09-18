@@ -1,0 +1,61 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: naturalistic
+word: naturalistic
+pos: adjective
+zh: 自然（主义）的
+en: Means 自然（主义）的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: nat
+    form: nat
+    meaning_in_word: 出生
+    zh: 出生
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:nat.
+  - morpheme: ur
+    form: ur
+    meaning_in_word: ur
+    zh: ur
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ur.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: 从事……的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ist.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ic.
+word_family:
+  - native-to
+  - natural-gas
+  - naturalist
+word_family_details:
+  - word: native-to
+    en: Means 土生土长的; reviewed from the TOEFL source gloss for learner display.
+    zh: 土生土长的
+  - word: natural-gas
+    en: Means 天然气; reviewed from the TOEFL source gloss for learner display.
+    zh: 天然气
+  - word: naturalist
+    en: Means 自然主义者，博物学着; reviewed from the TOEFL source gloss for learner display.
+    zh: 自然主义者，博物学着
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

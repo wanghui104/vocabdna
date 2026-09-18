@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: display
+word: display
+pos: verb/noun
+zh: 陈列；显示；展览
+en: to show something openly; a public show or arrangement
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: open, apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: plic
+    form: play
+    meaning_in_word: fold, spread
+    zh: 折叠；贴合；应用
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: display 可指展示动作，也可指展品或显示屏。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: edge
+word: edge
+pos: noun
+zh: 边缘；刃；优势
+en: the boundary of a surface; a sharp side; an advantage
+components:
+  - morpheme: edge
+    form: edge
+    meaning_in_word: edge, border, leading side / 边缘；前沿
+    zh: 边缘；前沿
+    role: root
+    is_core: true
+    note: Old English ecg 刀刃、边缘；简单本族词，现代不拆为 ed- + -ge。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

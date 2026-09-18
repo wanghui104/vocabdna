@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: candid
+word: candid
+pos: adjective
+zh: 率直的；坦白的
+en: honest and direct, especially about something difficult
+components:
+  - morpheme: candid
+    form: candid
+    meaning_in_word: white, sincere
+    zh: 坦率；候选
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: candid 可以是坦率，也可指抓拍照片 candid photo。

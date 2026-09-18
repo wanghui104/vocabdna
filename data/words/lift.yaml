@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lift
+word: lift
+pos: verb
+zh: 举起，升高
+en: Means 举起，升高; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lift
+    form: lift
+    meaning_in_word: 举起
+    zh: 举起
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  - facelift
+word_family_details:
+  - word: facelift
+    en: Means 改建，表面修改; reviewed from the TOEFL source gloss for learner display.
+    zh: 改建，表面修改
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

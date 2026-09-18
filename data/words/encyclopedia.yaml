@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: encyclopedia
+word: encyclopedia
+pos: noun
+zh: 百科全书
+en: a reference work covering many subjects or a particular field systematically
+components:
+  - morpheme: en-greek
+    form: en-
+    meaning_in_word: in, within / 在内
+    zh: 在内
+    role: prefix
+    is_core: false
+    note: 希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。
+  - morpheme: cycl
+    form: cyclo
+    meaning_in_word: circle / 圆；循环
+    zh: 圆；循环
+    role: root
+    is_core: true
+    note: en- + cycl-o- 圆周 + pedia 教育；pedia 内部 paid- 儿童 + -eia，原为 enkyklios paideia 通识教育的词组融合。
+  - morpheme: paideia
+    form: pedia
+    meaning_in_word: education, child-rearing / 教育；育儿
+    zh: 教育；育儿
+    role: root
+    is_core: true
+    note: pedia 不是足：深层 paid- 儿童 + -eia 抽象名词；encyclopedia 来自 enkyklios paideia 这一词组的历史融合。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frown
+word: frown
+pos: verb/noun
+zh: 皱眉；不悦的表情
+en: to draw the eyebrows together in displeasure; such an expression
+components:
+  - morpheme: frown
+    form: frown
+    meaning_in_word: scowl / 皱眉
+    zh: 皱眉
+    role: root
+    is_core: true
+    note: 更深可能来自高卢语鼻孔词，但非确证；保留借入后稳定词形。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

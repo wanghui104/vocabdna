@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cell
+word: cell
+pos: noun
+zh: 细胞；单人牢房；电池
+en: a small biological unit, small room, or battery unit
+components:
+  - morpheme: cell
+    form: cell
+    meaning_in_word: small room/unit
+    zh: 细胞；单间；电池
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cellist/cello 与 cell 不同词族。

@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: alert
+word: alert
+pos: adjective/verb/noun
+zh: 机敏的；警觉的
+en: watchful, ready to notice danger or act quickly
+components:
+  - morpheme: ad
+    form: al-
+    meaning_in_word: to the
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: erg-reg
+    form: ert
+    meaning_in_word: raised lookout
+    zh: 举起；警觉
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The guard remained alert all night.
+    zh: 守卫整夜保持警觉。
+  - en: The system alerts users to errors.
+    zh: 系统提醒用户注意错误。
+  - en: The city issued a storm alert.
+    zh: 城市发布了风暴警报。
+why_confusing: alert 作形容词是警觉的；作动词是提醒；作名词是警报。

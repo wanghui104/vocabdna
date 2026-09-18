@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: drill
+word: drill
+pos: verb/noun
+zh: 钻孔
+en: to make a hole with a rotating tool
+components:
+  - morpheme: drill
+    form: drill
+    meaning_in_word: make a hole, turn / 钻孔；转动
+    zh: 钻孔；转动
+    role: root
+    is_core: true
+    note: 本批钻孔及反复操练沿荷兰语 drillen 路径；不混入布料及狒狒的同形异源义项。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

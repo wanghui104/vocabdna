@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: doll
+display: doll
+type: root
+core_meaning: Doll, a personal nickname; toy figure
+zh: 人名昵称；玩偶
+origin: English
+source_form: English Doll, a pet form of Dorothy
+source_meaning: Doll, a personal nickname; toy figure
+source_meaning_zh: 人名昵称；玩偶
+source_note: Doll 是 Dorothy 的昵称，后来指玩偶；姓名更深来自 Greek doron 礼物 + theos 神，但现代 doll 不按字母硬拆。
+related_morphemes:
+  []
+senses:
+  - meaning: Doll, a personal nickname; toy figure
+    zh: 人名昵称；玩偶
+    examples:
+      - doll
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - doll -> doll
+high_value_words:
+  - doll
+confusable_words:
+  []

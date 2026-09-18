@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: educated
+word: educated
+pos: adjective
+zh: 受过教育的；有根据的
+en: having received education; based on informed knowledge
+components:
+  - morpheme: educ
+    form: educ
+    meaning_in_word: rear, educate / 养育；教育
+    zh: 养育；教育
+    role: root
+    is_core: true
+    note: educare 关联 educere = e-/ex- 向外 + ducere 引导；并非证实“引出潜能”这一流行解释。表层 educ- 保留养育教育词干。
+    related_morphemes:
+      - e
+      - duc
+  - morpheme: ate
+    form: -at
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - educate
+  - educable
+  - education
+  - educational
+word_family_details:
+  - word: educate
+    en: to teach or develop knowledge and skills
+    zh: 教育；培养
+  - word: educable
+    en: capable of being educated or trained
+    zh: 可教育的；可培养的
+  - word: education
+    en: the process of teaching, learning, or developing knowledge and skills
+    zh: 教育；培养
+  - word: educational
+    en: relating to education or providing knowledge
+    zh: 教育的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

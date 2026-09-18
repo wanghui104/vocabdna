@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: counterpart
+word: counterpart
+pos: noun
+zh: 对应的人或物；配对物
+en: a person or thing that has the same role as another in a different place
+components:
+  - morpheme: counter
+    form: counter-
+    meaning_in_word: matching opposite
+    zh: 相反；逆向
+    role: prefix
+    is_core: false
+  - morpheme: part-pars
+    form: part
+    meaning_in_word: part
+    zh: 部分；份额
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: one's counterpart in another country/company.

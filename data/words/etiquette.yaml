@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: etiquette
+word: etiquette
+pos: noun
+zh: 礼仪；礼节
+en: customary rules of polite behavior in a particular setting
+components:
+  - morpheme: etiquette
+    form: etiquette
+    meaning_in_word: label, attach / 标签；贴上
+    zh: 标签；贴上
+    role: root
+    is_core: true
+    note: 表层保留借词；深层 estiquette 小标签 = estiqu-（estiquer 贴上）+ -ette 小称，经日耳曼 stick 相关词源；从标示礼节的标签发展为礼仪。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

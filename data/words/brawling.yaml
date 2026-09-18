@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brawling
+word: brawling
+pos: noun
+zh: 争吵；喧嚷；斗殴
+en: noisy fighting or quarrelling
+components:
+  - morpheme: brawl
+    form: brawl
+    meaning_in_word: noisy quarrel
+    zh: 争吵；喧嚷
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: action
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - brawl
+word_family_details:
+  - word: brawl
+    en: a noisy fight or quarrel
+    zh: 争吵；斗殴
+confusables:
+  []
+examples:
+  []
+why_confusing: 常指公共场合的吵闹斗殴。

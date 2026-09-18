@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pertinent
+word: pertinent
+pos: adjective
+zh: 相关的，切题的；中肯的
+en: Means 相关的，切题的；中肯的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: per
+    form: per-
+    meaning_in_word: through; thoroughly / 穿过；彻底
+    zh: 穿过、完全
+    role: prefix
+    is_core: false
+  - morpheme: tin
+    form: tin
+    meaning_in_word: tin / 锡
+    zh: 锡
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: being; doing / 正在/具有
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adversity
+word: adversity
+pos: noun
+zh: 不幸；逆境；灾难
+en: difficulty, misfortune, or hardship
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: toward, against
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: vers
+    meaning_in_word: turned against
+    zh: 转、转向
+    role: root
+    is_core: true
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - adverse
+  - adversely
+word_family_details:
+  - word: adverse
+    en: Means 不利的；敌对的；相反地; reviewed from the TOEFL source gloss for learner display.
+    zh: 不利的；敌对的；相反地
+  - word: adversely
+    en: in a way that harms, opposes, or has a negative effect
+    zh: 不利地；相反地
+confusables:
+  - word: averse
+    reason: adversity 强调困境/逆境，不只是一个 negative effect。
+    zh_reason: adversity 强调困境/逆境，不只是一个 negative effect。
+examples:
+  - en: The community showed strength in adversity.
+    zh: 这个社区在逆境中展现力量。
+why_confusing: adversity 强调困境/逆境，不只是一个 negative effect。

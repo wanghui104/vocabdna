@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cozy
+word: cozy
+pos: adjective
+zh: 舒适的；惬意的；温暖安逸的
+en: comfortable, warm, and pleasant
+components:
+  - morpheme: cozy
+    form: cozy
+    meaning_in_word: snug, warm
+    zh: 舒适；惬意
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cozy can also imply too close or private in some contexts.

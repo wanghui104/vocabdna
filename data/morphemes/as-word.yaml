@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: as-word
+display: as
+type: root
+core_meaning: as, so, in the role of
+zh: 如；作为；就
+origin: Old English
+source_form: Old English ealswa / swa
+source_meaning: so, as
+source_meaning_zh: 如；作为
+related_morphemes:
+  []
+senses:
+  - meaning: as, so, in the role of
+    zh: 如；作为；就
+    examples:
+      - as a rule
+      - as far as
+      - as such
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - as -> as a rule
+  - as -> as far as
+  - as -> as such
+high_value_words:
+  - as a rule
+  - as far as
+  - as such
+confusable_words:
+  []

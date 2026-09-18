@@ -1,0 +1,390 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dis
+display: dis-
+type: prefix
+core_meaning: apart, not
+zh: 分开；不
+origin: Latin
+source_form: Latin dis-
+source_meaning: apart, away; not
+source_meaning_zh: 分开；相反；不
+related_morphemes:
+  []
+senses:
+  - meaning: apart, not
+    zh: 分开；不
+    examples:
+      - device
+      - devise
+      - different
+      - differentiate
+      - diffuse
+      - diffusion
+      - digest
+      - digestion
+      - digestive
+      - digress
+      - digression
+      - dilate
+      - diligent
+      - diligently
+      - dilute
+      - dilution
+      - dimension
+      - dimensional
+      - disadvantage
+      - disagreeable
+      - disappoint
+      - disappointment
+      - disapproval
+      - disapprove
+      - disaster
+      - disastrous
+      - discard
+      - discern
+      - discernible
+      - discerning
+      - discharge
+      - discomfort
+      - disconnect
+      - discontent
+      - discontented
+      - discount
+      - discourage
+      - discouraging
+      - discourse
+      - discreet
+      - discrete
+      - disgrace
+      - disgust
+      - disgusted
+      - disillusion
+      - disintegrate
+      - disinterested
+      - dismember
+      - dismembered
+      - dismiss
+      - disorganize
+      - dispatch
+      - dispense
+      - dispense with
+      - dispersal
+      - disperse
+      - displace
+      - displacement
+      - display
+      - disposal
+      - dispose
+      - dispose of
+      - disposed
+      - disposition
+      - disproportionate
+      - dispute
+      - disregard
+      - disrepute
+      - disrespect
+      - disrupt
+      - disseminate
+      - dissent
+      - dissenter
+      - dissenting
+      - dissertation
+      - dissimilar
+      - dissolve
+      - distance
+      - distant
+      - distaste
+      - distasteful
+      - distend
+      - distent
+      - distill
+      - distillation
+      - distinct
+      - distinction
+      - distinctive
+      - distinctively
+      - distinctly
+      - distinguish
+      - distinguished
+      - distort
+      - distorted
+      - distortion
+      - distract
+      - distress
+      - distribute
+      - distribution
+      - district
+      - disturb
+      - disturbance
+      - disturbed
+      - diverge
+      - divergence
+      - divergent
+      - diversion
+      - diversity
+      - divert
+      - divide
+      - dividing line
+      - divorce
+      - indiscriminately
+      - indiscrimination
+      - indispensable
+      - two/three dimensional
+      - undifferentiated
+      - undistorted
+      - undisturbed
+      - disentangle
+      - disentangled
+      - disentanglement
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - de- -> device
+  - de- -> devise
+  - dif- -> different
+  - dif- -> differentiate
+  - dif- -> diffuse
+  - dif- -> diffusion
+  - di- -> digest
+  - di- -> digestion
+  - di- -> digestive
+  - di- -> digress
+  - di- -> digression
+  - di- -> dilate
+  - di- -> diligent
+  - di- -> diligently
+  - di- -> dilute
+  - di- -> dilution
+  - di- -> dimension
+  - di- -> dimensional
+  - dis- -> disadvantage
+  - dis- -> disagreeable
+  - dis- -> disappoint
+  - dis- -> disappointment
+  - dis- -> disapproval
+  - dis- -> disapprove
+  - dis- -> disaster
+  - dis- -> disastrous
+  - dis- -> discard
+  - dis- -> discern
+  - dis- -> discernible
+  - dis- -> discerning
+  - dis- -> discharge
+  - dis- -> discomfort
+  - dis- -> disconnect
+  - dis- -> discontent
+  - dis- -> discontented
+  - dis- -> discount
+  - dis- -> discourage
+  - dis- -> discouraging
+  - dis- -> discourse
+  - dis- -> discreet
+  - dis- -> discrete
+  - dis -> disgrace
+  - dis- -> disgust
+  - dis- -> disgusted
+  - dis- -> disillusion
+  - dis- -> disintegrate
+  - dis- -> disinterested
+  - dis- -> dismember
+  - dis- -> dismembered
+  - dis- -> dismiss
+  - dis- -> disorganize
+  - dis- -> dispatch
+  - dis- -> dispense
+  - dis- -> dispense with
+  - di- -> dispersal
+  - di- -> disperse
+  - dis- -> displace
+  - dis- -> displacement
+  - dis- -> display
+  - dis- -> disposal
+  - dis- -> dispose
+  - dis- -> dispose of
+  - dis- -> disposed
+  - dis- -> disposition
+  - dis- -> disproportionate
+  - dis- -> dispute
+  - dis- -> disregard
+  - dis- -> disrepute
+  - dis- -> disrespect
+  - dis- -> disrupt
+  - dis- -> disseminate
+  - dis- -> dissent
+  - dis- -> dissenter
+  - dis- -> dissenting
+  - dis- -> dissertation
+  - dis- -> dissimilar
+  - dis- -> dissolve
+  - di- -> distance
+  - di- -> distant
+  - dis- -> distaste
+  - dis- -> distasteful
+  - dis- -> distend
+  - dis- -> distent
+  - di- -> distill
+  - di- -> distillation
+  - di- -> distinct
+  - di- -> distinction
+  - di- -> distinctive
+  - di- -> distinctively
+  - di- -> distinctly
+  - di- -> distinguish
+  - di- -> distinguished
+  - dis- -> distort
+  - dis- -> distorted
+  - dis- -> distortion
+  - dis- -> distract
+  - di- -> distress
+  - dis- -> distribute
+  - dis- -> distribution
+  - di- -> district
+  - dis- -> disturb
+  - dis- -> disturbance
+  - dis- -> disturbed
+  - di- -> diverge
+  - di- -> divergence
+  - di- -> divergent
+  - di- -> diversion
+  - di- -> diversity
+  - di- -> divert
+  - di- -> divide
+  - di- -> dividing line
+  - di- -> divorce
+  - dis- -> indiscriminately
+  - dis- -> indiscrimination
+  - dis- -> indispensable
+  - di- -> two/three dimensional
+  - dif- -> undifferentiated
+  - dis- -> undistorted
+  - dis- -> undisturbed
+  - dis- -> disentangle
+  - dis- -> disentangled
+  - dis- -> disentanglement
+high_value_words:
+  - device
+  - devise
+  - different
+  - differentiate
+  - diffuse
+  - diffusion
+  - digest
+  - digestion
+  - digestive
+  - digress
+  - digression
+  - dilate
+  - diligent
+  - diligently
+  - dilute
+  - dilution
+  - dimension
+  - dimensional
+  - disadvantage
+  - disagreeable
+  - disappoint
+  - disappointment
+  - disapproval
+  - disapprove
+  - disaster
+  - disastrous
+  - discard
+  - discern
+  - discernible
+  - discerning
+  - discharge
+  - discomfort
+  - disconnect
+  - discontent
+  - discontented
+  - discount
+  - discourage
+  - discouraging
+  - discourse
+  - discreet
+  - discrete
+  - disgrace
+  - disgust
+  - disgusted
+  - disillusion
+  - disintegrate
+  - disinterested
+  - dismember
+  - dismembered
+  - dismiss
+  - disorganize
+  - dispatch
+  - dispense
+  - dispense with
+  - dispersal
+  - disperse
+  - displace
+  - displacement
+  - display
+  - disposal
+  - dispose
+  - dispose of
+  - disposed
+  - disposition
+  - disproportionate
+  - dispute
+  - disregard
+  - disrepute
+  - disrespect
+  - disrupt
+  - disseminate
+  - dissent
+  - dissenter
+  - dissenting
+  - dissertation
+  - dissimilar
+  - dissolve
+  - distance
+  - distant
+  - distaste
+  - distasteful
+  - distend
+  - distent
+  - distill
+  - distillation
+  - distinct
+  - distinction
+  - distinctive
+  - distinctively
+  - distinctly
+  - distinguish
+  - distinguished
+  - distort
+  - distorted
+  - distortion
+  - distract
+  - distress
+  - distribute
+  - distribution
+  - district
+  - disturb
+  - disturbance
+  - disturbed
+  - diverge
+  - divergence
+  - divergent
+  - diversion
+  - diversity
+  - divert
+  - divide
+  - dividing line
+  - divorce
+  - indiscriminately
+  - indiscrimination
+  - indispensable
+  - two/three dimensional
+  - undifferentiated
+  - undistorted
+  - undisturbed
+  - disentangle
+  - disentangled
+  - disentanglement
+confusable_words:
+  []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: overwhelm
+word: overwhelm
+pos: verb
+zh: 战胜；压倒；泛滥；使沉浸
+en: Means 战胜；压倒；泛滥；使沉浸; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: over
+    form: over-
+    meaning_in_word: above; too much / 在上；过度
+    zh: 超过；过度
+    role: prefix
+    is_core: false
+  - morpheme: whelm
+    form: whelm
+    meaning_in_word: cover; overwhelm / 覆盖；压倒
+    zh: 覆盖；压倒
+    role: root
+    is_core: true
+word_family:
+  - overwhelmingly
+word_family_details:
+  - word: overwhelmingly
+    en: Means 压倒性地；不可抵抗地; reviewed from the TOEFL source gloss for learner display.
+    zh: 压倒性地；不可抵抗地
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

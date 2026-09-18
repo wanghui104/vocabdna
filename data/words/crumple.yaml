@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crumple
+word: crumple
+pos: verb
+zh: 把……弄皱；起皱；倒下
+en: to crush or fold something into wrinkles, or collapse
+components:
+  - morpheme: crump
+    form: crump
+    meaning_in_word: bent; curl up / 弯曲；蜷曲
+    zh: 弯曲；蜷曲
+    role: root
+    is_core: true
+    note: crump- 弯曲 + 反复动作 -le；不要与 crumble 的 crumb- 碎屑混为一根。
+  - morpheme: le-frequentative
+    form: -le
+    meaning_in_word: repeated or small-scale action / 反复或细小动作
+    zh: 反复或细小动作
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: crumble
+    reason: 常用于 paper, clothes, body/person crumpled。
+    zh_reason: 常用于 paper, clothes, body/person crumpled。
+examples:
+  []
+why_confusing: 常用于 paper, clothes, body/person crumpled。

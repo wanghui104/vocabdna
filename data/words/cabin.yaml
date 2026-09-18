@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cabin
+word: cabin
+pos: noun
+zh: 小屋；船舱
+en: a small simple house, or a room on a ship or aircraft
+components:
+  - morpheme: cabin
+    form: cabin
+    meaning_in_word: hut, small room
+    zh: 小屋；橱柜；内阁
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: airplane cabin 指机舱。

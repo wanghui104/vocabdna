@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: found
+word: found
+pos: verb
+zh: 创立；建立
+en: to establish an organization or institution
+components:
+  - morpheme: fund
+    form: found
+    meaning_in_word: bottom, establish / 底；建立基础
+    zh: 底；建立基础
+    role: root
+    is_core: true
+    note: fund 钱款来自底、存量；found 建立来自 fundare，founder = found + er。fundamentum 深层 fund- + 动词连接元音 a + -mentum；不是 fundere 倒出。
+word_family:
+  - founder
+  - foundation
+word_family_details:
+  - word: founder
+    en: a person who establishes an organization or institution
+    zh: 创办者；奠基人
+  - word: foundation
+    en: the base on which something rests
+    zh: 基础；地基
+confusables:
+  []
+examples:
+  []
+why_confusing: 

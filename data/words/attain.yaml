@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: attain
+word: attain
+pos: verb
+zh: 达到；获得
+en: to reach or achieve a goal
+components:
+  - morpheme: ad
+    form: at-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: tang
+    form: tain
+    meaning_in_word: touch, reach
+    zh: 触碰；达到
+    role: root
+    is_core: true
+word_family:
+  - attainment
+word_family_details:
+  - word: attainment
+    en: an achievement or the act of reaching a goal
+    zh: 成就；达到
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

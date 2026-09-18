@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: simult
+display: simult
+type: root
+core_meaning: at the same time
+zh: 同时
+origin: Latin
+source_form: simult
+source_meaning: at the same time
+source_meaning_zh: 同时
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: at the same time
+    zh: 同时
+    examples:
+      - simultaneous
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - simult -> simultaneous
+high_value_words:
+  - simultaneous
+confusable_words:
+  []

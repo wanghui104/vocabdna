@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bachelor
+word: bachelor
+pos: noun
+zh: 单身汉；学士
+en: an unmarried man, or a person who has received a bachelor's degree
+components:
+  - morpheme: bachelor
+    form: bachelor
+    meaning_in_word: young man
+    zh: 单身汉；学士
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: bachelor's degree 中有所有格。

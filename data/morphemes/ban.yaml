@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ban
+display: ban
+type: root
+core_meaning: ban, prohibit
+zh: 禁止
+origin: Old English
+source_form: Old English bannan
+source_meaning: summon, proclaim; prohibit
+source_meaning_zh: 召集；宣布；禁止
+related_morphemes:
+  []
+senses:
+  - meaning: ban, prohibit
+    zh: 禁止
+    examples:
+      - ban
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ban -> ban
+high_value_words:
+  - ban
+confusable_words:
+  []

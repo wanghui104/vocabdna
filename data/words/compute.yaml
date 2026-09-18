@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compute
+word: compute
+pos: verb
+zh: 计算
+en: to calculate or work out by arithmetic or logic
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: count
+    form: pute
+    meaning_in_word: reckon
+    zh: 计算、说明
+    role: root
+    is_core: true
+    related_morphemes:
+      - com
+      - put-reckon
+word_family:
+  - computation
+word_family_details:
+  - word: computation
+    en: the act or result of calculating
+    zh: 计算；估算
+confusables:
+  []
+examples:
+  []
+why_confusing: 偏正式或技术语境；日常可用 calculate。

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ox
+display: ox
+type: root
+core_meaning: ox
+zh: 牛
+origin: teaching morphology
+source_form: ox
+source_meaning: ox
+source_meaning_zh: 牛
+related_morphemes:
+  []
+senses:
+  - meaning: ox
+    zh: 牛
+    examples:
+      - oxen
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ox -> oxen
+high_value_words:
+  - oxen
+confusable_words:
+  []

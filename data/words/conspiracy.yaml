@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conspiracy
+word: conspiracy
+pos: noun
+zh: 阴谋；共谋
+en: a secret plan by a group to do something harmful or illegal
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: spir
+    form: spir
+    meaning_in_word: breathe
+    zh: 呼吸；渴望向上
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -acy
+    meaning_in_word: state/action
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: conspiracy theory 是阴谋论。

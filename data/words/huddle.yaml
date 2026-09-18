@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: huddle
+word: huddle
+pos: noun/verb
+zh: 缩成一团；挤成一团 / 杂乱的一堆，拥挤
+en: Means 缩成一团；挤成一团 / 杂乱的一堆，拥挤; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: huddle
+    form: huddle
+    meaning_in_word: 缩成一团；挤成一团；杂乱的一堆，拥挤
+    zh: 缩成一团；挤成一团；杂乱的一堆，拥挤
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:huddle.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

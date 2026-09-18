@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: designate
+word: designate
+pos: verb
+zh: 指定；任命；标明
+en: to officially choose, appoint, or mark something for a particular purpose
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: formally, fully
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: sign
+    form: sign
+    meaning_in_word: mark
+    zh: 标记；符号
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or do
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: designate someone as/to be...

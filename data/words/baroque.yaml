@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: baroque
+word: baroque
+pos: adjective
+zh: 高度装饰的；过分雕琢的
+en: highly ornate, elaborate, or associated with the Baroque period
+components:
+  - morpheme: baroque
+    form: baroque
+    meaning_in_word: irregular pearl, ornate style
+    zh: 繁复装饰的
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可指艺术时期，也可泛指过度繁复。

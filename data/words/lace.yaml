@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lace
+word: lace
+pos: noun/verb
+zh: 饰带，花边 / 带子；鞋带 / 装饰，点缀
+en: Means 饰带，花边 / 带子；鞋带 / 装饰，点缀; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lace
+    form: lace
+    meaning_in_word: 套索；花边
+    zh: 套索；花边
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lace.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

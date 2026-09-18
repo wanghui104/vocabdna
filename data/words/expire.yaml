@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: expire
+word: expire
+pos: verb
+zh: 到期；失效；呼气；死亡
+en: to come to an end or become invalid; to breathe out or die
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: spir
+    form: pire
+    meaning_in_word: breathe, aspire / 呼吸；渴望向上
+    zh: 呼吸；渴望向上
+    role: root
+    is_core: true
+    note: ex- + pire；Latin exspirare = ex- + spirare 呼吸，x 后 s 省写。不是独立 pire 根。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

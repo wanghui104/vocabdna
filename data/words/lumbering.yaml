@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lumbering
+word: lumbering
+pos: noun
+zh: 采伐林木
+en: Means 采伐林木; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lumber
+    form: lumber
+    meaning_in_word: 木材
+    zh: 木材
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lumber.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ing.
+word_family:
+  - lumber
+  - timber
+  - slumber
+  - plumber
+word_family_details:
+  - word: lumber
+    en: Means 木材，木料; reviewed from the TOEFL source gloss for learner display.
+    zh: 木材，木料
+  - word: timber
+    en: Means 木材，木料; reviewed from the TOEFL source gloss for learner display.
+    zh: 木材，木料
+  - word: slumber
+    en: Means 睡眠; reviewed from the TOEFL source gloss for learner display.
+    zh: 睡眠
+  - word: plumber
+    en: Means 水管工人; reviewed from the TOEFL source gloss for learner display.
+    zh: 水管工人
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

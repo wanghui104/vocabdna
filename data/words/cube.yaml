@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cube
+word: cube
+pos: noun
+zh: 立方体；立方
+en: a solid with six equal square faces, or a number raised to the third power
+components:
+  - morpheme: cube
+    form: cube
+    meaning_in_word: six-sided block
+    zh: 立方体；立方
+    role: root
+    is_core: true
+word_family:
+  - cubic
+word_family_details:
+  - word: cubic
+    en: shaped like a cube or involving the third power
+    zh: 立方体的；立方的
+confusables:
+  []
+examples:
+  []
+why_confusing: 数学中 cube 也指三次方。

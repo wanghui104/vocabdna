@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: grateful
+word: grateful
+pos: adjective
+zh: 感激的，感谢的
+en: Means 感激的，感谢的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: grate
+    form: grate
+    meaning_in_word: grate
+    zh: grate
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:grate.
+  - morpheme: ful
+    form: -ful
+    meaning_in_word: 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+    note: Suffix layer from Old English -ful.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cargo
+word: cargo
+pos: noun
+zh: 货物
+en: goods carried by ship, plane, or truck
+components:
+  - morpheme: cargo
+    form: cargo
+    meaning_in_word: load
+    zh: 货物
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cargo 通常不可数或集合名词。

@@ -18,11 +18,9 @@ components:
     role: root
     is_core: true
 word_family:
-  - manufacturer
+  []
 word_family_details:
-  - word: manufacturer
-    en: related form of manufacturer
-    zh: manufacturer 的相关词
+  []
 confusables:
   - word: produce
     reason: manufacture 强调生产过程；produce 更宽泛。

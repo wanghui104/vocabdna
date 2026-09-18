@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: convenience
+word: convenience
+pos: noun
+zh: 便利；方便；便利设施
+en: the quality of being easy or useful, or something that makes life easier
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: ven-vent
+    form: ven
+    meaning_in_word: come
+    zh: 来到；出现
+    role: root
+    is_core: true
+  - morpheme: ence-ance
+    form: -ence
+    meaning_in_word: state
+    zh: 状态、性质
+    role: suffix
+    is_core: false
+word_family:
+  - convenient
+  - inconvenient
+word_family_details:
+  - word: convenient
+    en: easy, suitable, or useful for a particular purpose
+    zh: 方便的；近便的；容易到达的
+  - word: inconvenient
+    en: causing trouble, difficulty, or delay
+    zh: 不便的；有困难的
+confusables:
+  []
+examples:
+  []
+why_confusing: for convenience; convenience store.

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conflicting
+word: conflicting
+pos: adjective
+zh: 相冲突的；相矛盾的
+en: different in a way that cannot both be true or satisfied
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: flict
+    form: flict
+    meaning_in_word: strike
+    zh: 打击；折磨
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: having quality
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - conflict
+word_family_details:
+  - word: conflict
+    en: a serious disagreement or clash between ideas, people, or forces
+    zh: 冲突；争论；斗争
+confusables:
+  []
+examples:
+  []
+why_confusing: conflicting evidence/interests 常见。

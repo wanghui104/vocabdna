@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dilemma
+word: dilemma
+pos: noun
+zh: 困境；进退两难
+en: a situation requiring a difficult choice between options
+components:
+  - morpheme: di-two
+    form: di-
+    meaning_in_word: two
+    zh: 二；双
+    role: prefix
+    is_core: false
+  - morpheme: lemma
+    form: lemma
+    meaning_in_word: premise, thing taken
+    zh: 前提；被取用的论点
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dilemma 严格说是两难，但现代也泛指困境。

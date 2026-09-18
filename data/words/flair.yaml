@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flair
+word: flair
+pos: noun
+zh: 天赋；才能
+en: a natural talent
+components:
+  - morpheme: flair
+    form: flair
+    meaning_in_word: scent, smell / 嗅闻
+    zh: 嗅闻
+    role: root
+    is_core: true
+    note: 现代才能义来自敏锐嗅觉的比喻；保留 flair 表层，下探 fragrare 气味。
+    related_morphemes:
+      - fragr
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: flare
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

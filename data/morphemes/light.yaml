@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: light
+display: light
+type: root
+core_meaning: light, illumination
+zh: 光；照明
+origin: Old English
+source_form: Old English leoht
+source_meaning: light, illumination
+source_meaning_zh: 光；照明
+source_note: enlighten 把光照入，引申启迪；不是 Latin levis 轻。
+related_morphemes:
+  []
+senses:
+  - meaning: light, illumination
+    zh: 光；照明
+    examples:
+      - enlighten
+      - enlightenment
+      - flashlight
+      - highlight
+      - light bulb
+      - spotlight
+      - sunlight
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - light -> enlighten
+  - light -> enlightenment
+  - light -> flashlight
+  - light -> highlight
+  - light -> light bulb
+  - light -> spotlight
+  - light -> sunlight
+high_value_words:
+  - enlighten
+  - enlightenment
+  - flashlight
+  - highlight
+  - light bulb
+  - spotlight
+  - sunlight
+confusable_words:
+  []

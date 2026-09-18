@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: loosen
+word: loosen
+pos: verb
+zh: 解开，放松
+en: Means 解开，放松; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: loose
+    form: loose
+    meaning_in_word: 松的
+    zh: 松的
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:loose.
+  - morpheme: en
+    form: -en
+    meaning_in_word: 使成为；变得
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:en.
+word_family:
+  - loose
+word_family_details:
+  - word: loose
+    en: Means 宽松的；不牢固的; reviewed from the TOEFL source gloss for learner display.
+    zh: 宽松的；不牢固的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

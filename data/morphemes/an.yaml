@@ -1,0 +1,69 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: an
+display: an-
+type: prefix
+core_meaning: not, without
+zh: 不；无
+origin: Greek
+source_form: Greek an-, a-
+source_meaning: not, without
+source_meaning_zh: 不；无；没有
+related_morphemes:
+  []
+senses:
+  - meaning: not, without
+    zh: 不；无
+    examples:
+      - amnesia
+      - anarchist
+      - anecdotal
+      - anecdote
+      - anesthesia
+      - anesthetic
+      - announce
+      - anomaly
+      - anonymous
+      - atheist
+      - atrophy
+      - civilian
+      - Cuban
+      - metropolitan
+      - utopian
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - a- -> amnesia
+  - an- -> anarchist
+  - an- -> anecdotal
+  - an- -> anecdote
+  - an- -> anesthesia
+  - an- -> anesthetic
+  - -an -> announce
+  - an- -> anomaly
+  - an- -> anonymous
+  - a- -> atheist
+  - a- -> atrophy
+  - -ian -> civilian
+  - -an -> Cuban
+  - an- -> metropolitan
+  - -an -> utopian
+high_value_words:
+  - amnesia
+  - anarchist
+  - anecdotal
+  - anecdote
+  - anesthesia
+  - anesthetic
+  - announce
+  - anomaly
+  - anonymous
+  - atheist
+  - atrophy
+  - civilian
+  - Cuban
+  - metropolitan
+  - utopian
+confusable_words:
+  []

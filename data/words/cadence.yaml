@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cadence
+word: cadence
+pos: noun
+zh: 语调的抑扬顿挫；节奏
+en: the rhythm or rise and fall of speech, music, or movement
+components:
+  - morpheme: cad
+    form: cad
+    meaning_in_word: fall
+    zh: 节奏；抑扬
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于 speech/music/running cadence。

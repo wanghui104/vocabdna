@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: packed
+word: packed
+pos: adjective
+zh: 压紧的，压实的
+en: Means 压紧的，压实的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pack
+    form: pack
+    meaning_in_word: pack; bundle / 包；打包
+    zh: 包；打包
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having; past participle / 已…的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - pack
+  - packer
+word_family_details:
+  - word: pack
+    en: Means 装；将…挤入，塞满；一群; reviewed from the TOEFL source gloss for learner display.
+    zh: 装；将…挤入，塞满；一群
+  - word: packer
+    en: Means 包装工人，打包机; reviewed from the TOEFL source gloss for learner display.
+    zh: 包装工人，打包机
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

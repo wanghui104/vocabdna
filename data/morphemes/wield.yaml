@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: wield
+display: wield
+type: root
+core_meaning: handle; manage
+zh: 挥动；操控
+origin: teaching morphology
+source_form: wield
+source_meaning: handle; manage
+source_meaning_zh: 挥动；操控
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: handle; manage
+    zh: 挥动；操控
+    examples:
+      - unwieldy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - wield -> unwieldy
+high_value_words:
+  - unwieldy
+confusable_words:
+  []

@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hard
+display: hard
+type: root
+core_meaning: hard
+zh: 硬；困难
+origin: Old English
+source_form: Old English heard
+source_meaning: hard
+source_meaning_zh: 硬；困难
+related_morphemes:
+  []
+senses:
+  - meaning: hard
+    zh: 硬；困难
+    examples:
+      - harden
+      - hardware
+      - hardy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - hard -> harden
+  - hard -> hardware
+  - hard -> hardy
+high_value_words:
+  - harden
+  - hardware
+  - hardy
+confusable_words:
+  []

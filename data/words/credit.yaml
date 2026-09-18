@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: credit
+word: credit
+pos: noun/verb
+zh: 信用；荣誉；学分；贷方金额
+en: trust, public honor, money available in an account, or a unit earned for study
+components:
+  - morpheme: cred
+    form: credit
+    meaning_in_word: believe, trust / 相信、信用
+    zh: 相信、信用
+    role: root
+    is_core: true
+    note: 表层 cred-/credit- 信任；credit 来自 Latin creditum（credere 的分词名词），credit- 中 -it- 属历史分词词干，不是省略或英语后缀。credentials 的层级为 credent- 相信 + -ial 相关 + -s 复数；credent- 内为 cred- + -ent。
+word_family:
+  - creditor
+word_family_details:
+  - word: creditor
+    en: a person or organization to whom money is owed
+    zh: 债权人
+confusables:
+  []
+examples:
+  []
+why_confusing: credit 可指信誉、学分、存款，也可作动词表示归功于。

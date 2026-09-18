@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: carbon-dioxide
+word: carbon dioxide
+pos: noun
+zh: 二氧化碳
+en: a gas made of carbon and two oxygen atoms
+components:
+  - morpheme: carb
+    form: carbon
+    meaning_in_word: carbon
+    zh: 碳
+    role: root
+    is_core: true
+  - morpheme: di-two
+    form: di-
+    meaning_in_word: two
+    zh: 二；双
+    role: prefix
+    is_core: false
+  - morpheme: oxid
+    form: oxide
+    meaning_in_word: oxygen compound
+    zh: 氧化物
+    role: root
+    is_core: true
+    note: 表层 oxide/oxid- 氧化物；French oxyde 由 oxygen 的 oxy- 与化学结尾 -ide 形成。oxygen 名称更深为 Greek oxys 酸、尖锐 + -gen 产生，反映早期命名观念；氧化物不等于酸。
+    related_morphemes:
+      - gen
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: carbon dioxide 是具体化合物。

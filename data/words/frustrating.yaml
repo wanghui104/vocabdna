@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frustrating
+word: frustrating
+pos: adjective
+zh: 令人沮丧的
+en: causing disappointment or annoyance by preventing success
+components:
+  - morpheme: frustr
+    form: frustr
+    meaning_in_word: in vain; deception / 徒然；欺骗
+    zh: 徒然；欺骗
+    role: root
+    is_core: true
+    note: frustrate = frustr- + -ate；frustra 与 fraus 伤害/欺骗有关，更深不确定。不是 fruit 或 frugal 的果实根。
+  - morpheme: ate
+    form: -at
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - frustrate
+  - frustrated
+  - frustration
+word_family_details:
+  - word: frustrate
+    en: to prevent a plan from succeeding
+    zh: 挫败；阻挠
+  - word: frustrated
+    en: annoyed or disappointed by an obstacle to success
+    zh: 沮丧的；受挫的
+  - word: frustration
+    en: the feeling caused by being unable to achieve something
+    zh: 沮丧；挫折感
+confusables:
+  []
+examples:
+  []
+why_confusing: 

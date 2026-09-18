@@ -15,13 +15,34 @@ senses:
     zh: 与……有关的
     examples:
       - accessory
+      - inventory
+      - olfactory
+      - repertory
+      - satisfactory
+      - sensory
+      - unsatisfactory
+      - victory
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - -ory -> accessory
+  - -ory -> inventory
+  - -ory -> olfactory
+  - ory -> repertory
+  - -ory -> satisfactory
+  - -ory -> sensory
+  - -ory -> unsatisfactory
+  - -ory -> victory
 high_value_words:
   - accessory
+  - inventory
+  - olfactory
+  - repertory
+  - satisfactory
+  - sensory
+  - unsatisfactory
+  - victory
 confusable_words:
   []

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rudiment
+display: rudiment
+type: root
+core_meaning: rudiment; beginning
+zh: 雏形；基础
+origin: teaching morphology
+source_form: rudiment
+source_meaning: rudiment; beginning
+source_meaning_zh: 雏形；基础
+related_morphemes:
+  []
+senses:
+  - meaning: rudiment; beginning
+    zh: 雏形；基础
+    examples:
+      - rudimentary
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - rudiment -> rudimentary
+high_value_words:
+  - rudimentary
+confusable_words:
+  []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deck
+display: deck
+type: root
+core_meaning: deck, covering
+zh: 甲板；一副牌
+origin: Mixed
+source_form: Middle Dutch dec / decke
+source_meaning: covering, roof
+source_meaning_zh: 覆盖物；甲板
+related_morphemes:
+  []
+senses:
+  - meaning: deck, covering
+    zh: 甲板；一副牌
+    examples:
+      - deck
+      - shuffle the deck
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - deck -> deck
+  - deck -> shuffle the deck
+high_value_words:
+  - deck
+  - shuffle the deck
+confusable_words:
+  []

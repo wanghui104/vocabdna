@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: erratically
+word: erratically
+pos: adverb
+zh: 不规则地；反复无常地
+en: in an irregular or unpredictable manner
+components:
+  - morpheme: err
+    form: err
+    meaning_in_word: wander, go wrong / 游移；出错
+    zh: 游移；出错
+    role: root
+    is_core: true
+    note: erratic + -ally，再拆 err- + -atic + -al + -ly；-al 是副词派生桥接层。
+  - morpheme: atic
+    form: -atic
+    meaning_in_word: related to / 与……相关
+    zh: 与……相关
+    role: suffix
+    is_core: false
+    note: erratic 中为历史形容词后缀，不是 errat- 随意截断。
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - err
+  - erratic
+  - error
+word_family_details:
+  - word: err
+    en: to make a mistake
+    zh: 犯错
+  - word: erratic
+    en: irregular and difficult to predict
+    zh: 不规则的；反复无常的
+  - word: error
+    en: a mistake or a difference from a correct or expected value
+    zh: 错误；误差
+confusables:
+  []
+examples:
+  []
+why_confusing: 

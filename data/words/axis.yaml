@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: axis
+word: axis
+pos: noun
+zh: 轴；轴线；坐标轴
+en: an imaginary line around which something turns, or a reference line in a graph
+components:
+  - morpheme: axis
+    form: axis
+    meaning_in_word: axle, pivot
+    zh: 轴线；中心
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 复数 axes 读音和 axe 的复数不同。

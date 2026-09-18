@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: care
+word: care
+pos: noun/verb
+zh: 关心；照料；小心
+en: attention, concern, or careful treatment
+components:
+  - morpheme: care
+    form: care
+    meaning_in_word: concern
+    zh: 关心；小心
+    role: root
+    is_core: true
+word_family:
+  - careful
+  - careless
+  - carelessly
+word_family_details:
+  - word: careful
+    en: giving attention to avoid mistakes or danger
+    zh: 小心的；仔细的
+  - word: careless
+    en: not giving enough attention to avoid harm or mistakes
+    zh: 粗心的；疏忽的
+  - word: carelessly
+    en: without enough attention or concern
+    zh: 粗心地；不注意地
+confusables:
+  []
+examples:
+  []
+why_confusing: take care, care for, care about 搭配不同。

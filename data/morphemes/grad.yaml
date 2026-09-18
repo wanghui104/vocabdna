@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: grad
+display: grad
+type: root
+core_meaning: step, grade, go
+zh: 台阶；等级；行进
+origin: Latin
+source_form: Latin gradus / gradi
+source_meaning: step, walk, degree
+source_meaning_zh: 台阶；行走；等级
+related_morphemes:
+  []
+senses:
+  - meaning: step, grade, go
+    zh: 台阶；等级；行进
+    examples:
+      - degradation
+      - degrade
+      - graduate
+      - postgraduate
+      - undergraduate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - grad -> degradation
+  - grad -> degrade
+  - grad -> graduate
+  - grad -> postgraduate
+  - grad -> undergraduate
+high_value_words:
+  - degradation
+  - degrade
+  - graduate
+  - postgraduate
+  - undergraduate
+confusable_words:
+  []

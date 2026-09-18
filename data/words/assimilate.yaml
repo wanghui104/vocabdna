@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assimilate
+word: assimilate
+pos: verb
+zh: 吸收；同化；学习吸收
+en: to absorb information, food, or people into a larger whole so they become similar or integrated
+components:
+  - morpheme: ad
+    form: as-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: simil
+    form: simil
+    meaning_in_word: similar
+    zh: 相似
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or become
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

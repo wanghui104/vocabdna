@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: involuntary
+word: involuntary
+pos: adjective
+zh: 自然而然的，无意的
+en: Means 自然而然的，无意的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: in; not / 在内；不
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+  - morpheme: vol
+    form: vol
+    meaning_in_word: wish; will / 意愿
+    zh: 愿望、意志
+    role: root
+    is_core: true
+  - morpheme: unt
+    form: unt
+    meaning_in_word: will/wish stem / 意愿词干
+    zh: 意愿词干
+    role: root
+    is_core: true
+  - morpheme: ary
+    form: -ary
+    meaning_in_word: relating to / 与…有关
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - volunteer
+word_family_details:
+  - word: volunteer
+    en: Means 自愿者；自愿; reviewed from the TOEFL source gloss for learner display.
+    zh: 自愿者；自愿
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

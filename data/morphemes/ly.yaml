@@ -17,8 +17,158 @@ senses:
       - absolutely
       - abundantly
       - accidentally
-      - actually
       - actively
+      - actually
+      - admittedly
+      - adversely
+      - alternately
+      - annually
+      - approximately
+      - aptly
+      - assuredly
+      - awkwardly
+      - barely
+      - brilliantly
+      - carelessly
+      - cautiously
+      - comparatively
+      - consciously
+      - consequently
+      - considerably
+      - consistently
+      - constantly
+      - contingently
+      - conventionally
+      - courteously
+      - courtly
+      - currently
+      - customarily
+      - deadly
+      - definitely
+      - deliberately
+      - desperately
+      - diagonally
+      - diligently
+      - dimly
+      - distinctively
+      - distinctly
+      - dramatically
+      - dreadfully
+      - elaborately
+      - endlessly
+      - enthusiastically
+      - erratically
+      - ethically
+      - eventually
+      - exceptionally
+      - exclusively
+      - expressly
+      - fairly
+      - fervently
+      - fiercely
+      - financially
+      - firmly
+      - fittingly
+      - fleetingly
+      - flexibly
+      - fluently
+      - foolishly
+      - formally
+      - formerly
+      - fortuitously
+      - fortunately
+      - frankly
+      - freshly
+      - frugally
+      - fruitlessly
+      - functionally
+      - fundamentally
+      - furiously
+      - gallantly
+      - heavenly
+      - immediately
+      - impartially
+      - incidentally
+      - indefinitely
+      - indiscriminately
+      - inevitably
+      - inextricably
+      - informally
+      - ingeniously
+      - initially
+      - instinctively
+      - intentionally
+      - intricately
+      - invariably
+      - irregularly
+      - justly
+      - laboriously
+      - largely
+      - leisurely
+      - liberally
+      - literally
+      - lively
+      - locally
+      - manually
+      - markedly
+      - normally
+      - notably
+      - notoriously
+      - occasionally
+      - oddly
+      - organically
+      - overwhelmingly
+      - perennially
+      - phenomenally
+      - plainly
+      - practically
+      - predominantly
+      - presumably
+      - profoundly
+      - prohibitively
+      - quarterly
+      - radically
+      - rarely
+      - readily
+      - respectively
+      - reverently
+      - roughly
+      - routinely
+      - scarcely
+      - scholarly
+      - scrupulously
+      - securely
+      - seemingly
+      - seriously
+      - sharply
+      - slightly
+      - smoothly
+      - solely
+      - sparingly
+      - sparsely
+      - spectacularly
+      - spontaneously
+      - sporadically
+      - squarely
+      - stately
+      - strenuously
+      - strikingly
+      - subsequently
+      - substantially
+      - superficially
+      - supposedly
+      - supremely
+      - surpassingly
+      - threateningly
+      - undoubtedly
+      - unevenly
+      - unfortunately
+      - unquestionably
+      - unscrupulously
+      - utterly
+      - virtually
+      - woolly
+      - artificially
 similar_form:
   []
 similar_meaning:
@@ -27,13 +177,313 @@ patterns:
   - -ly -> absolutely
   - -ly -> abundantly
   - -ly -> accidentally
-  - -ly -> actually
   - -ly -> actively
+  - -ly -> actually
+  - -ly -> admittedly
+  - -ly -> adversely
+  - -ly -> alternately
+  - -ly -> annually
+  - -ly -> approximately
+  - -ly -> aptly
+  - -ly -> assuredly
+  - -ly -> awkwardly
+  - -ly -> barely
+  - -ly -> brilliantly
+  - -ly -> carelessly
+  - -ly -> cautiously
+  - -ly -> comparatively
+  - -ly -> consciously
+  - -ly -> consequently
+  - -ly -> considerably
+  - -ly -> consistently
+  - -ly -> constantly
+  - -ly -> contingently
+  - -ly -> conventionally
+  - -ly -> courteously
+  - -ly -> courtly
+  - -ly -> currently
+  - -ly -> customarily
+  - -ly -> deadly
+  - -ly -> definitely
+  - -ly -> deliberately
+  - -ly -> desperately
+  - -ly -> diagonally
+  - -ly -> diligently
+  - -ly -> dimly
+  - -ly -> distinctively
+  - -ly -> distinctly
+  - -ly -> dramatically
+  - -ly -> dreadfully
+  - -ly -> elaborately
+  - -ly -> endlessly
+  - -ly -> enthusiastically
+  - -ly -> erratically
+  - -ly -> ethically
+  - -ly -> eventually
+  - -ly -> exceptionally
+  - -ly -> exclusively
+  - -ly -> expressly
+  - -ly -> fairly
+  - -ly -> fervently
+  - -ly -> fiercely
+  - -ly -> financially
+  - -ly -> firmly
+  - -ly -> fittingly
+  - -ly -> fleetingly
+  - -y -> flexibly
+  - -ly -> fluently
+  - -ly -> foolishly
+  - -ly -> formally
+  - -ly -> formerly
+  - -ly -> fortuitously
+  - -ly -> fortunately
+  - -ly -> frankly
+  - -ly -> freshly
+  - -ly -> frugally
+  - -ly -> fruitlessly
+  - -ly -> functionally
+  - -ly -> fundamentally
+  - -ly -> furiously
+  - -ly -> gallantly
+  - -ly -> heavenly
+  - -ly -> immediately
+  - -ly -> impartially
+  - -ly -> incidentally
+  - -ly -> indefinitely
+  - -ly -> indiscriminately
+  - -ly -> inevitably
+  - -ly -> inextricably
+  - -ly -> informally
+  - -ly -> ingeniously
+  - -ly -> initially
+  - -ly -> instinctively
+  - -ly -> intentionally
+  - -ly -> intricately
+  - -ly -> invariably
+  - -ly -> irregularly
+  - -ly -> justly
+  - -ly -> laboriously
+  - -ly -> largely
+  - -ly -> leisurely
+  - -ly -> liberally
+  - -ly -> literally
+  - -ly -> lively
+  - -ly -> locally
+  - -ly -> manually
+  - -ly -> markedly
+  - -ly -> normally
+  - -ly -> notably
+  - -ly -> notoriously
+  - -ly -> occasionally
+  - -ly -> oddly
+  - -ly -> organically
+  - -ly -> overwhelmingly
+  - -ly -> perennially
+  - -ly -> phenomenally
+  - -ly -> plainly
+  - -ly -> practically
+  - -ly -> predominantly
+  - -ly -> presumably
+  - -ly -> profoundly
+  - -ly -> prohibitively
+  - -ly -> quarterly
+  - -ly -> radically
+  - -ly -> rarely
+  - -ly -> readily
+  - -ly -> respectively
+  - -ly -> reverently
+  - -ly -> roughly
+  - -ly -> routinely
+  - -ly -> scarcely
+  - -ly -> scholarly
+  - -ly -> scrupulously
+  - -ly -> securely
+  - -ly -> seemingly
+  - -ly -> seriously
+  - -ly -> sharply
+  - -ly -> slightly
+  - -ly -> smoothly
+  - -ly -> solely
+  - -ly -> sparingly
+  - -ly -> sparsely
+  - -ly -> spectacularly
+  - -ly -> spontaneously
+  - -ly -> sporadically
+  - -ly -> squarely
+  - -ly -> stately
+  - -ly -> strenuously
+  - -ly -> strikingly
+  - -ly -> subsequently
+  - -ly -> substantially
+  - -ly -> superficially
+  - -ly -> supposedly
+  - -ly -> supremely
+  - -ly -> surpassingly
+  - -ly -> threateningly
+  - -ly -> undoubtedly
+  - -ly -> unevenly
+  - -ly -> unfortunately
+  - -ly -> unquestionably
+  - -ly -> unscrupulously
+  - -ly -> utterly
+  - -ly -> virtually
+  - -ly -> woolly
+  - -ly -> artificially
 high_value_words:
   - absolutely
   - abundantly
   - accidentally
-  - actually
   - actively
+  - actually
+  - admittedly
+  - adversely
+  - alternately
+  - annually
+  - approximately
+  - aptly
+  - assuredly
+  - awkwardly
+  - barely
+  - brilliantly
+  - carelessly
+  - cautiously
+  - comparatively
+  - consciously
+  - consequently
+  - considerably
+  - consistently
+  - constantly
+  - contingently
+  - conventionally
+  - courteously
+  - courtly
+  - currently
+  - customarily
+  - deadly
+  - definitely
+  - deliberately
+  - desperately
+  - diagonally
+  - diligently
+  - dimly
+  - distinctively
+  - distinctly
+  - dramatically
+  - dreadfully
+  - elaborately
+  - endlessly
+  - enthusiastically
+  - erratically
+  - ethically
+  - eventually
+  - exceptionally
+  - exclusively
+  - expressly
+  - fairly
+  - fervently
+  - fiercely
+  - financially
+  - firmly
+  - fittingly
+  - fleetingly
+  - flexibly
+  - fluently
+  - foolishly
+  - formally
+  - formerly
+  - fortuitously
+  - fortunately
+  - frankly
+  - freshly
+  - frugally
+  - fruitlessly
+  - functionally
+  - fundamentally
+  - furiously
+  - gallantly
+  - heavenly
+  - immediately
+  - impartially
+  - incidentally
+  - indefinitely
+  - indiscriminately
+  - inevitably
+  - inextricably
+  - informally
+  - ingeniously
+  - initially
+  - instinctively
+  - intentionally
+  - intricately
+  - invariably
+  - irregularly
+  - justly
+  - laboriously
+  - largely
+  - leisurely
+  - liberally
+  - literally
+  - lively
+  - locally
+  - manually
+  - markedly
+  - normally
+  - notably
+  - notoriously
+  - occasionally
+  - oddly
+  - organically
+  - overwhelmingly
+  - perennially
+  - phenomenally
+  - plainly
+  - practically
+  - predominantly
+  - presumably
+  - profoundly
+  - prohibitively
+  - quarterly
+  - radically
+  - rarely
+  - readily
+  - respectively
+  - reverently
+  - roughly
+  - routinely
+  - scarcely
+  - scholarly
+  - scrupulously
+  - securely
+  - seemingly
+  - seriously
+  - sharply
+  - slightly
+  - smoothly
+  - solely
+  - sparingly
+  - sparsely
+  - spectacularly
+  - spontaneously
+  - sporadically
+  - squarely
+  - stately
+  - strenuously
+  - strikingly
+  - subsequently
+  - substantially
+  - superficially
+  - supposedly
+  - supremely
+  - surpassingly
+  - threateningly
+  - undoubtedly
+  - unevenly
+  - unfortunately
+  - unquestionably
+  - unscrupulously
+  - utterly
+  - virtually
+  - woolly
+  - artificially
 confusable_words:
   []

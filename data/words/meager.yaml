@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: meager
+word: meager
+pos: adjective
+zh: 缺乏的，不足的
+en: Means 缺乏的，不足的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: meager
+    form: meager
+    meaning_in_word: 瘦；不足
+    zh: 瘦；不足
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:meager.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

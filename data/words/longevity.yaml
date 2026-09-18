@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: longevity
+word: longevity
+pos: noun
+zh: 长寿
+en: Means 长寿; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: longev
+    form: longev
+    meaning_in_word: 长寿
+    zh: 长寿
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:longev.
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ity.
+word_family:
+  - long-range
+  - longitude
+word_family_details:
+  - word: long-range
+    en: Means 远程的; reviewed from the TOEFL source gloss for learner display.
+    zh: 远程的
+  - word: longitude
+    en: Means 经度，经线; reviewed from the TOEFL source gloss for learner display.
+    zh: 经度，经线
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

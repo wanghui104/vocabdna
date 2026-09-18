@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: snip
+display: snip
+type: root
+core_meaning: snip; small cut
+zh: 剪；小片
+origin: Dutch/Germanic
+source_form: snip
+source_meaning: snip; small cut
+source_meaning_zh: 剪；小片
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: snip; small cut
+    zh: 剪；小片
+    examples:
+      - snippet
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - snip -> snippet
+high_value_words:
+  - snippet
+confusable_words:
+  []

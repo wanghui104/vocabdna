@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sloop
+display: sloop
+type: root
+core_meaning: sloop boat
+zh: 单桅帆船
+origin: Dutch
+source_form: Dutch sloep
+source_meaning: sloop boat
+source_meaning_zh: 单桅帆船
+related_morphemes:
+  []
+senses:
+  - meaning: sloop boat
+    zh: 单桅帆船
+    examples:
+      - sloop
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sloop -> sloop
+high_value_words:
+  - sloop
+confusable_words:
+  []

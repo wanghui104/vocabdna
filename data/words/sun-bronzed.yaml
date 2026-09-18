@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sun-bronzed
+word: sun-bronzed
+pos: adjective
+zh: 被太阳晒成古铜色的
+en: darkened by the sun to a bronze-brown color
+components:
+  - morpheme: sun
+    form: sun
+    meaning_in_word: sun
+    zh: 太阳；日晒
+    role: root
+    is_core: true
+  - morpheme: bronze
+    form: bronze
+    meaning_in_word: bronze color
+    zh: 青铜；古铜色
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: made
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - bronze
+word_family_details:
+  - word: bronze
+    en: a brownish metal alloy, a statue made from it, or its color
+    zh: 青铜；铜像；古铜色
+confusables:
+  []
+examples:
+  []
+why_confusing: 通常形容皮肤。

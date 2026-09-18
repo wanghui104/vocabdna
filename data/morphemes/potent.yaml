@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: potent
+display: potent
+type: root
+core_meaning: power
+zh: 力量
+origin: teaching morphology
+source_form: potent
+source_meaning: power
+source_meaning_zh: 力量
+related_morphemes:
+  []
+senses:
+  - meaning: power
+    zh: 力量
+    examples:
+      - potential
+      - potentiality
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - potent -> potential
+  - potent -> potentiality
+high_value_words:
+  - potential
+  - potentiality
+confusable_words:
+  []

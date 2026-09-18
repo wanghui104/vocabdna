@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mock
+word: mock
+pos: verb
+zh: （模仿性的）嘲笑
+en: Means （模仿性的）嘲笑; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mock
+    form: mock
+    meaning_in_word: 嘲笑
+    zh: 嘲笑
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mock.
+word_family:
+  - mockingbird
+word_family_details:
+  - word: mockingbird
+    en: Means （动物）仿声鸟; reviewed from the TOEFL source gloss for learner display.
+    zh: （动物）仿声鸟
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

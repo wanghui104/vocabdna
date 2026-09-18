@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: custodian
+word: custodian
+pos: noun
+zh: 看守人；管理人
+en: a person who has responsibility for guarding, caring for, or maintaining something
+components:
+  - morpheme: cust
+    form: custod
+    meaning_in_word: guard, keeper / 守护；管理
+    zh: 守护；管理
+    role: root
+    is_core: true
+  - morpheme: ian
+    form: -ian
+    meaning_in_word: person connected with / 属于……的人
+    zh: 属于……的人
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 学校里 custodian 可指清洁/维护人员；法律中可指保管人。

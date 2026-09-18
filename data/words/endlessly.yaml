@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: endlessly
+word: endlessly
+pos: adverb
+zh: 无休止地
+en: continuously or without an apparent end
+components:
+  - morpheme: end
+    form: end
+    meaning_in_word: end / 结束；末端
+    zh: 结束；末端
+    role: root
+    is_core: true
+    note: endless = end + -less，不能把 en- 当这里的前缀。
+  - morpheme: less
+    form: -less
+    meaning_in_word: without / 无；没有
+    zh: 无；没有
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - endless
+word_family_details:
+  - word: endless
+    en: having or seeming to have no end
+    zh: 无止境的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

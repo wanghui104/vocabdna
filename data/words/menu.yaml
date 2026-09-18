@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: menu
+word: menu
+pos: noun
+zh: 菜单；选择单
+en: Means 菜单；选择单; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: menu
+    form: menu
+    meaning_in_word: 小项；菜单
+    zh: 小项；菜单
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:menu.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

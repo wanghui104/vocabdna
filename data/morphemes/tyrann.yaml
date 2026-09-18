@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tyrann
+display: tyrann
+type: root
+core_meaning: tyrant
+zh: 暴君
+origin: teaching morphology
+source_form: tyrann
+source_meaning: tyrant
+source_meaning_zh: 暴君
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: tyrant
+    zh: 暴君
+    examples:
+      - tyrannical
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tyrann -> tyrannical
+high_value_words:
+  - tyrannical
+confusable_words:
+  []

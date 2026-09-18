@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: auditorium
+word: auditorium
+pos: noun
+zh: 大礼堂；观众席
+en: a large hall or room where an audience listens or watches
+components:
+  - morpheme: aud
+    form: audit
+    meaning_in_word: hear
+    zh: 听
+    role: root
+    is_core: true
+  - morpheme: arium
+    form: -orium
+    meaning_in_word: place for
+    zh: 场所；容器
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

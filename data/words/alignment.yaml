@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: alignment
+word: alignment
+pos: noun
+zh: 排列；校准
+en: arrangement in a straight line or proper position
+components:
+  - morpheme: ad
+    form: al-
+    meaning_in_word: to, toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: line-lign
+    form: lign
+    meaning_in_word: line
+    zh: 线；排列成线
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result or state
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: alien
+    reason: alignment 可指物理排齐，也可指组织/观点一致。
+    zh_reason: alignment 可指物理排齐，也可指组织/观点一致。
+examples:
+  []
+why_confusing: alignment 可指物理排齐，也可指组织/观点一致。

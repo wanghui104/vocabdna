@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shadow
+display: shadow
+type: root
+core_meaning: shadow
+zh: 影子
+origin: Old English
+source_form: Old English sceadwe, sceaduwe (oblique forms of sceadu)
+source_meaning: shadow
+source_meaning_zh: 影子
+source_note: shadow 来自 sceadu 阴影的斜格形式 sceadwe/sceaduwe；现代保留 shadow 稳定词干。foreshadow = fore- 提前 + shadow 影子。
+related_morphemes:
+  []
+senses:
+  - meaning: shadow
+    zh: 影子
+    examples:
+      - foreshadow
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - shadow -> foreshadow
+high_value_words:
+  - foreshadow
+confusable_words:
+  []

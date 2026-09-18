@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elite
+display: elite
+type: root
+core_meaning: chosen group
+zh: 精选群体
+origin: Latin
+source_form: French élite, élire;  Latin eligere
+source_meaning: chosen group
+source_meaning_zh: 精选群体
+source_note: 深层 eligere = e- 出 + legere 选择，经法语收缩；保留现代 elite，非 el + ite。
+related_morphemes:
+  - e
+  - leg-choose
+senses:
+  - meaning: chosen group
+    zh: 精选群体
+    examples:
+      - elite
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - elite -> elite
+high_value_words:
+  - elite
+confusable_words:
+  []

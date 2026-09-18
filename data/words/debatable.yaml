@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: debatable
+word: debatable
+pos: adjective
+zh: 未决定的；有争议的
+en: not certain and open to argument or dispute
+components:
+  - morpheme: debate
+    form: debat
+    meaning_in_word: argue
+    zh: 辩论；争论
+    role: root
+    is_core: true
+    note: 表层 debate/debat-；深层 Old French debatre = de- 加强 + batre 打击（Latin battuere）。辩论像言语交锋。debatable = debat- + -able，去掉词尾 e。
+    related_morphemes:
+      - de
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - debate
+word_family_details:
+  - word: debate
+    en: a formal discussion or argument about a question
+    zh: 争论；辩论
+confusables:
+  []
+examples:
+  []
+why_confusing: That's debatable 常表示我不一定同意。

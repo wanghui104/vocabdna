@@ -1,0 +1,93 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tain
+display: tain
+type: root
+core_meaning: hold, contain
+zh: 持有；包含
+origin: Latin
+source_form: Latin tenere / tentus
+source_meaning: hold
+source_meaning_zh: 握住；保持
+related_morphemes:
+  []
+senses:
+  - meaning: hold, contain
+    zh: 持有；包含
+    examples:
+      - contain
+      - container
+      - content
+      - contented
+      - continent
+      - continental
+      - continuation
+      - continue
+      - continuity
+      - continuum
+      - discontent
+      - discontented
+      - entertain
+      - entertainer
+      - entertainment
+      - obtain
+      - obtainable
+      - retain
+      - supercontinent
+      - sustain
+      - sustained
+      - sustenance
+      - transcontinental
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tain -> contain
+  - contain -> container
+  - tent -> content
+  - content -> contented
+  - tin -> continent
+  - continent -> continental
+  - continu -> continuation
+  - tinu -> continue
+  - continu -> continuity
+  - continu -> continuum
+  - tent -> discontent
+  - tent -> discontented
+  - tain -> entertain
+  - tain -> entertainer
+  - tain -> entertainment
+  - tain -> obtain
+  - tain -> obtainable
+  - tain -> retain
+  - continent -> supercontinent
+  - tain -> sustain
+  - tain -> sustained
+  - tain -> sustenance
+  - continental -> transcontinental
+high_value_words:
+  - contain
+  - container
+  - content
+  - contented
+  - continent
+  - continental
+  - continuation
+  - continue
+  - continuity
+  - continuum
+  - discontent
+  - discontented
+  - entertain
+  - entertainer
+  - entertainment
+  - obtain
+  - obtainable
+  - retain
+  - supercontinent
+  - sustain
+  - sustained
+  - sustenance
+  - transcontinental
+confusable_words:
+  []

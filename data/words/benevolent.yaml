@@ -18,11 +18,9 @@ components:
     role: root
     is_core: true
 word_family:
-  - benevolence
+  []
 word_family_details:
-  - word: benevolence
-    en: related form of benevolence
-    zh: benevolence 的相关词
+  []
 confusables:
   - word: beneficial
     reason: benevolent 是态度仁慈；beneficial 是结果有益。

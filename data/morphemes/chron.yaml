@@ -11,6 +11,8 @@ senses:
   - meaning: time
     zh: 时间
     examples:
+      - chronic
+      - chronological
       - chronology
       - synchronize
 similar_form:
@@ -18,9 +20,13 @@ similar_form:
 similar_meaning:
   []
 patterns:
-  - chrono- -> chronology
-  - chron- -> synchronize
+  - chron -> chronic
+  - chron -> chronological
+  - chron -> chronology
+  - chron -> synchronize
 high_value_words:
+  - chronic
+  - chronological
   - chronology
   - synchronize
 confusable_words:

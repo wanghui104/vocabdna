@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: combust
+display: combust
+type: root
+core_meaning: combust
+zh: 燃烧
+origin: Latin
+source_form: Latin comburere / combustus
+source_meaning: burn up
+source_meaning_zh: 烧尽；燃烧
+related_morphemes:
+  []
+senses:
+  - meaning: combust
+    zh: 燃烧
+    examples:
+      - combustible
+      - combustion
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bust -> combustible
+  - bust -> combustion
+high_value_words:
+  - combustible
+  - combustion
+confusable_words:
+  []

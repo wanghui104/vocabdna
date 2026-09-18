@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: artefact
+word: artefact
+pos: noun
+zh: 人工制品；文物；文化产物；（实验、图像等的）伪象
+en: a human-made object, often from the past; a cultural product; or an effect introduced by observation or processing
+components:
+  - morpheme: art
+    form: arte
+    meaning_in_word: skill, craft / 技艺
+    zh: 技艺、技巧
+    role: root
+    is_core: true
+    note: 保留 Latin arte（凭技艺）的 e 形式。
+  - morpheme: fac
+    form: fact
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+    note: 对应 Latin factum / factus（做成的东西／被做成的），来自 facere。
+word_family:
+  - artifact
+  - artifactual
+  - artefactual
+word_family_details:
+  - word: artifact
+    en: a human-made object, often from the past; a cultural product; or an effect introduced by observation or processing
+    zh: 人工制品；文物；文化产物；（实验、图像等的）伪象
+  - word: artifactual
+    en: relating to human-made objects, or caused by the process of observation or measurement
+    zh: 人工制品的；文物的；伪象性的
+  - word: artefactual
+    en: relating to human-made objects, or caused by the process of observation or measurement
+    zh: 人工制品的；文物的；伪象性的
+confusables:
+  []
+examples:
+  - en: The museum displayed an ancient artifact.
+    zh: 博物馆展出了一件古代文物。
+  - en: The ceremony is an artifact of an older social order.
+    zh: 这个仪式是旧社会秩序的产物。
+  - en: The extra peak was an artifact of the recording method.
+    zh: 多出的峰是记录方法造成的伪象。
+  - en: Heavy compression left visible artifacts around the letters.
+    zh: 过度压缩使文字周围出现了明显的图像瑕疵。
+why_confusing: 英式英语常用 artefact；美式常用 artifact。两种拼写含义相同；相应形容词为 artefactual / artifactual。

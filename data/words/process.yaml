@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: process
+word: process
+pos: noun
+zh: 过程； vt. 加工
+en: Means 过程； vt. 加工; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: forward; forth / 向前；公开
+    zh: 向前、公开、代替
+    role: prefix
+    is_core: false
+  - morpheme: cess
+    form: cess
+    meaning_in_word: go; process / 走；过程
+    zh: 行走；停止
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

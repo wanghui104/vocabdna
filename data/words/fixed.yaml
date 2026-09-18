@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fixed
+word: fixed
+pos: adjective
+zh: 固定的
+en: securely placed
+components:
+  - morpheme: fix
+    form: fix
+    meaning_in_word: fasten / 固定
+    zh: 固定
+    role: root
+    is_core: true
+    note: fixus 是 figere 的分词；fixture 的 fixt- 保存历史分词 t，不是 fingere 塑造。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - fix
+  - fixture
+word_family_details:
+  - word: fix
+    en: to secure in place
+    zh: 固定
+  - word: fixture
+    en: an item attached in place as part of a building
+    zh: 固定装置
+confusables:
+  []
+examples:
+  []
+why_confusing: 

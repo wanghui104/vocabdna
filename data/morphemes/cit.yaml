@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cit
+display: cit
+type: root
+core_meaning: set in motion, summon
+zh: 激起；召唤
+origin: Latin
+source_form: Latin citare
+source_meaning: call, summon
+source_meaning_zh: 召唤；引用
+source_note: citare 是 ciere 使动、召唤的反复动词；excite 深层 ex- + citare。
+related_morphemes:
+  []
+senses:
+  - meaning: set in motion, summon
+    zh: 激起；召唤
+    examples:
+      - cite
+      - excite
+      - excited
+      - excitement
+      - exciting
+      - recital
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cite -> cite
+  - cite -> excite
+  - cit -> excited
+  - cite -> excitement
+  - cit -> exciting
+  - cit -> recital
+high_value_words:
+  - cite
+  - excite
+  - excited
+  - excitement
+  - exciting
+  - recital
+confusable_words:
+  []

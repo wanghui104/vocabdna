@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: talent
+word: talent
+pos: noun
+zh: 才能；天才
+en: Means 才能；天才; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: talent
+    form: talent
+    meaning_in_word: talent; ability / 才能
+    zh: 才能
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - talented
+word_family_details:
+  - word: talented
+    en: Means 有天才的，有才能的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有天才的，有才能的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

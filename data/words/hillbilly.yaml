@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hillbilly
+word: hillbilly
+pos: noun
+zh: 山里人；乡下人
+en: a person from a remote rural mountain area, often used as a stereotype
+components:
+  - morpheme: hill
+    form: hill
+    meaning_in_word: hill
+    zh: 山地；山丘
+    role: root
+    is_core: true
+  - morpheme: billy
+    form: billy
+    meaning_in_word: personal-name marker
+    zh: 乡下人称呼
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 这个词可能有贬义，使用时要谨慎。

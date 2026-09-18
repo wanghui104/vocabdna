@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flamboyance
+word: flamboyance
+pos: noun
+zh: 艳丽；炫耀
+en: a colorful or showy quality
+components:
+  - morpheme: flamboy
+    form: flamboy
+    meaning_in_word: flame, blaze / 燃烧；火焰
+    zh: 燃烧；火焰
+    role: root
+    is_core: true
+    note: flamboyant = flamboy- + -ant；内部 flamboyer = flambe 火焰 + 法语动词层 -oyer；flambe 来自 flammula = flamma 火焰 + -ula 小称。
+    related_morphemes:
+      - flamm
+      - ul
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: state, act, quality / 状态；行为；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - flamboyant
+word_family_details:
+  - word: flamboyant
+    en: very colorful, elaborate, or attention-seeking
+    zh: 艳丽的；炫耀的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

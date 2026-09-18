@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mermaid
+word: mermaid
+pos: noun
+zh: 美人鱼；上半身为女子、下半身为鱼尾的传说海中生物
+en: A legendary sea creature imagined with a woman's upper body and a fish tail.
+components:
+  - morpheme: mere
+    form: mer
+    meaning_in_word: sea, lake, water
+    zh: 海；湖；水域
+    role: root
+    is_core: true
+    note: Bound form of older mere 'sea/lake', not modern mere 'only'.
+  - morpheme: maid
+    form: maid
+    meaning_in_word: young woman
+    zh: 少女；女子；女仆
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The old sailors told a story about a mermaid singing near the rocks.
+    zh: 老水手们讲了一个美人鱼在礁石旁歌唱的故事。
+why_confusing: Do not confuse mer- here with modern mere meaning 'only', or with Latin mar-/mare in marine.

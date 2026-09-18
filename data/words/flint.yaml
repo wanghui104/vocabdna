@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flint
+word: flint
+pos: noun
+zh: 燧石；打火石
+en: a very hard stone that can produce sparks when struck
+components:
+  - morpheme: flint
+    form: flint
+    meaning_in_word: hard stone / 燧石
+    zh: 燧石
+    role: root
+    is_core: true
+    note: 本族简单词，没有可支持的英语小词缀拆解。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

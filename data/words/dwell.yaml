@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dwell
+word: dwell
+pos: verb
+zh: 居住；停留；反复思考
+en: to live in a place; to remain with a thought or subject
+components:
+  - morpheme: dwell
+    form: dwell
+    meaning_in_word: linger, reside / 停留；居住
+    zh: 停留；居住
+    role: root
+    is_core: true
+    note: 历史含误导、耽搁，后发展为停留与居住；现代不拆 dw + ell。
+word_family:
+  - dweller
+  - dwelling
+word_family_details:
+  - word: dweller
+    en: a person or animal living in a particular place
+    zh: 居民；栖居者
+  - word: dwelling
+    en: a house or other place in which someone lives
+    zh: 住所
+confusables:
+  []
+examples:
+  []
+why_confusing: 

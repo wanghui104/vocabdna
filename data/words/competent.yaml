@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: competent
+word: competent
+pos: adjective
+zh: 有能力的；胜任的
+en: having enough skill or ability to do something well
+components:
+  - morpheme: pet
+    form: compet
+    meaning_in_word: suitable, able
+    zh: 竞争；胜任
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ent
+    meaning_in_word: having quality
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - competence
+word_family_details:
+  - word: competence
+    en: the ability to do something well
+    zh: 能力；胜任
+confusables:
+  []
+examples:
+  []
+why_confusing: competent 不等于 competitive。

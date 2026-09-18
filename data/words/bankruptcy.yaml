@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bankruptcy
+word: bankruptcy
+pos: noun
+zh: 破产；破产状态
+en: the legal state of being unable to pay debts
+components:
+  - morpheme: bank
+    form: bank
+    meaning_in_word: money bench
+    zh: 银行；柜台
+    role: root
+    is_core: true
+  - morpheme: rupt
+    form: rupt
+    meaning_in_word: broken
+    zh: 破裂、打断
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -cy
+    meaning_in_word: state
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  - bankrupt
+word_family_details:
+  - word: bankrupt
+    en: unable to pay debts; to make someone unable to pay debts
+    zh: 破产的；使破产；破产者
+confusables:
+  []
+examples:
+  []
+why_confusing: personal/corporate bankruptcy 指个人/公司破产。

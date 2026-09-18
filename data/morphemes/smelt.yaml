@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: smelt
+display: smelt
+type: root
+core_meaning: smelt; melt ore
+zh: 冶炼
+origin: Germanic
+source_form: smelt
+source_meaning: smelt; melt ore
+source_meaning_zh: 冶炼
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: smelt; melt ore
+    zh: 冶炼
+    examples:
+      - smelting
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - smelt -> smelting
+high_value_words:
+  - smelting
+confusable_words:
+  []

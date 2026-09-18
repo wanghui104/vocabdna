@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rehabilitate
+word: rehabilitate
+pos: verb
+zh: 使(身体)康复；使复职；使复元
+en: Means 使(身体)康复；使复职；使复元; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: habil
+    form: habil
+    meaning_in_word: habil / habil
+    zh: habil
+    role: root
+    is_core: true
+  - morpheme: itate
+    form: itate
+    meaning_in_word: itate / itate
+    zh: 使……
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

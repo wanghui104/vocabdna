@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: horror
+word: horror
+pos: noun
+zh: 惊骇；恐怖
+en: Means 惊骇；恐怖; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: horr
+    form: horr
+    meaning_in_word: 毛发竖起；战栗
+    zh: 毛发竖起；战栗
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:horr.
+  - morpheme: or
+    form: -or
+    meaning_in_word: 做……的人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:or.
+word_family:
+  - horror-film-movie
+word_family_details:
+  - word: horror-film-movie
+    en: Means 恐怖电影; reviewed from the TOEFL source gloss for learner display.
+    zh: 恐怖电影
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

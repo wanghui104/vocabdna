@@ -1,0 +1,57 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: val
+display: val
+type: root
+core_meaning: be strong, be worth
+zh: 强；有价值
+origin: Latin
+source_form: Latin valere
+source_meaning: be strong, be worth
+source_meaning_zh: 强壮；有价值
+related_morphemes:
+  []
+senses:
+  - meaning: be strong, be worth
+    zh: 强；有价值
+    examples:
+      - ambivalence
+      - ambivalent
+      - avail
+      - availability
+      - available
+      - carnival
+      - equivalence
+      - equivalent
+      - evaluate
+      - evaluation
+      - interval
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - val -> ambivalence
+  - val -> ambivalent
+  - vail -> avail
+  - vail -> availability
+  - vail -> available
+  - val -> carnival
+  - val -> equivalence
+  - val -> equivalent
+  - valu -> evaluate
+  - valu -> evaluation
+  - val -> interval
+high_value_words:
+  - ambivalence
+  - ambivalent
+  - avail
+  - availability
+  - available
+  - carnival
+  - equivalence
+  - equivalent
+  - evaluate
+  - evaluation
+  - interval
+confusable_words:
+  []

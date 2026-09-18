@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: collective
+word: collective
+pos: adjective
+zh: 集体的；共同的
+en: shared by or involving all members of a group
+components:
+  - morpheme: collect
+    form: collective
+    meaning_in_word: gathered group
+    zh: 集体；共同
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

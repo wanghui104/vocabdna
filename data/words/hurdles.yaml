@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hurdles
+word: hurdles
+pos: noun/verb
+zh: 跨栏赛；栏架或障碍的复数；hurdle 的第三人称单数
+en: a race with barriers to jump over; plural barriers or difficulties; also the third-person singular form of the verb hurdle
+components:
+  - morpheme: hurdle
+    form: hurdle
+    meaning_in_word: barrier to cross / 待跨越的栏障
+    zh: 栏障；待跨越或克服的障碍
+    role: root
+    is_core: true
+    note: 现代英语以 hurdle 为整体基础词干；古英语 hyrdel 的历史小称结构在词源说明中展示。
+  - morpheme: s
+    form: -s
+    meaning_in_word: plural; third-person singular / 复数；动词第三人称单数
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+word_family:
+  - hurdle
+  - hurdler
+  - hurdling
+word_family_details:
+  - word: hurdle
+    en: a barrier in a race or a difficulty to overcome; to jump over a barrier or overcome a difficulty
+    zh: 栏架；障碍；跨越；克服
+  - word: hurdler
+    en: an athlete who competes in races involving jumps over barriers
+    zh: 跨栏运动员
+  - word: hurdling
+    en: the sport or action of jumping over barriers; also the present participle of hurdle
+    zh: 跨栏运动；正在跨越
+confusables:
+  []
+examples:
+  - en: She won the women’s 100-metre hurdles.
+    zh: 她赢得了女子100米跨栏赛。
+  - en: The project still faces several practical hurdles.
+    zh: 这个项目仍面临几个实际难题。
+  - en: He hurdles the fence on his way to the track.
+    zh: 他在前往跑道的路上跨过了围栏。
+why_confusing: 比赛项目用 hurdles；a hurdle 指一个栏架或一道难关。the hurdles 指一个项目时可接单数动词，而 several hurdles 指多个栏架／难关时接复数动词。

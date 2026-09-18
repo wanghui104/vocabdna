@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: burden
+word: burden
+pos: noun/verb
+zh: 负担；重担；使负担
+en: a heavy load or responsibility, or to load someone with difficulty
+components:
+  - morpheme: burden
+    form: burden
+    meaning_in_word: load carried
+    zh: 负担；重担
+    role: root
+    is_core: true
+word_family:
+  - burdensome
+word_family_details:
+  - word: burdensome
+    en: causing difficulty, worry, or hard work
+    zh: 繁重的；劳累的；麻烦的
+confusables:
+  []
+examples:
+  []
+why_confusing: burden of proof 指举证责任。

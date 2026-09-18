@@ -2,13 +2,25 @@
 id: take-into-account
 word: take into account
 pos: phrase
-zh: 重视；考虑
-en: to consider something as part of a decision
+zh: 考虑到
+en: Means 考虑到; reviewed from the TOEFL source gloss for learner display.
 components:
-  - morpheme: count
+  - morpheme: take
+    form: take
+    meaning_in_word: take / 拿；考虑
+    zh: 拿；接受
+    role: root
+    is_core: true
+  - morpheme: into
+    form: into
+    meaning_in_word: into / 到…里面
+    zh: 到…里面
+    role: root
+    is_core: true
+  - morpheme: account
     form: account
-    meaning_in_word: consideration
-    zh: 计算、说明
+    meaning_in_word: account; count / 账目；考虑
+    zh: 账目；考虑
     role: root
     is_core: true
 word_family:
@@ -18,6 +30,5 @@ word_family_details:
 confusables:
   []
 examples:
-  - en: We must take cost into account.
-    zh: 我们必须把成本考虑进去。
-why_confusing: 后接被考虑的因素。
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

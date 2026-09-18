@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: jud
+display: jud
+type: root
+core_meaning: judge
+zh: 判断；判决
+origin: Latin
+source_form: Latin judicare / judicium
+source_meaning: judge
+source_meaning_zh: 判断；判决
+related_morphemes:
+  []
+senses:
+  - meaning: judge
+    zh: 判断；判决
+    examples:
+      - judgement
+      - judicious
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - jud -> judgement
+  - jud -> judicious
+high_value_words:
+  - judgement
+  - judicious
+confusable_words:
+  []

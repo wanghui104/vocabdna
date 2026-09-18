@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: multiple
+word: multiple
+pos: noun/adjective
+zh: 多样的，多重的 / 倍数
+en: Means 多样的，多重的 / 倍数; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mult
+    form: mult
+    meaning_in_word: 多
+    zh: 多
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mult.
+  - morpheme: ple
+    form: ple
+    meaning_in_word: 补足；补充
+    zh: 补足；补充
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ple.
+word_family:
+  - multicellular
+  - multi-faceted
+  - multiply
+  - multistory
+  - multitude
+word_family_details:
+  - word: multicellular
+    en: Means 多细胞的; reviewed from the TOEFL source gloss for learner display.
+    zh: 多细胞的
+  - word: multi-faceted
+    en: Means 多方面的；多才多艺的; reviewed from the TOEFL source gloss for learner display.
+    zh: 多方面的；多才多艺的
+  - word: multiply
+    en: Means 繁殖，增加 / 乘（by）; reviewed from the TOEFL source gloss for learner display.
+    zh: 繁殖，增加 / 乘（by）
+  - word: multistory
+    en: Means 多层建筑; reviewed from the TOEFL source gloss for learner display.
+    zh: 多层建筑
+  - word: multitude
+    en: Means 大量，多数; reviewed from the TOEFL source gloss for learner display.
+    zh: 大量，多数
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

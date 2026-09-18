@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dim
+word: dim
+pos: adjective
+zh: 暗淡的；模糊的
+en: not bright, clear, or easy to see
+components:
+  - morpheme: dim
+    form: dim
+    meaning_in_word: dark, obscure
+    zh: 暗淡；模糊
+    role: root
+    is_core: true
+word_family:
+  - dimly
+word_family_details:
+  - word: dimly
+    en: in a way that is not bright or not clear
+    zh: 朦胧地；模糊地；暗淡地
+confusables:
+  []
+examples:
+  []
+why_confusing: dim 可指光暗，也可指记忆/希望微弱。

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clip
+word: clip
+pos: verb
+zh: 修剪；夹住
+en: to cut or trim quickly, or fasten with a clip
+components:
+  - morpheme: clip
+    form: clip
+    meaning_in_word: cut, trim
+    zh: 修剪
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: clip can also mean fasten with a clip。

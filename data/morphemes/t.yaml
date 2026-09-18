@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: t
+display: -t
+type: suffix
+core_meaning: t
+zh: t
+origin: teaching morphology
+source_form: t
+source_meaning: t
+source_meaning_zh: t
+related_morphemes:
+  []
+senses:
+  - meaning: t
+    zh: t
+    examples:
+      - constraint
+      - overt
+      - restraint
+      - sculpt
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -t -> constraint
+  - -t -> overt
+  - -t -> restraint
+  - -t -> sculpt
+high_value_words:
+  - constraint
+  - overt
+  - restraint
+  - sculpt
+confusable_words:
+  []

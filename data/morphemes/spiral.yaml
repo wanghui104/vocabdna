@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spiral
+display: spiral
+type: root
+core_meaning: coil; spiral
+zh: 螺旋
+origin: Greek/Latin
+source_form: spiral
+source_meaning: coil; spiral
+source_meaning_zh: 螺旋
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: coil; spiral
+    zh: 螺旋
+    examples:
+      - spiral
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - spiral -> spiral
+high_value_words:
+  - spiral
+confusable_words:
+  []

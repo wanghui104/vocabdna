@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hinder
+word: hinder
+pos: verb
+zh: 阻碍，妨碍
+en: Means 阻碍，妨碍; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hind
+    form: hind
+    meaning_in_word: 后方；后面
+    zh: 后方；后面
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:hind.
+  - morpheme: er
+    form: -er
+    meaning_in_word: 比较/动词构词层
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source shown on root:er.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: plight
+display: plight
+type: root
+core_meaning: condition; pledge
+zh: 困境；誓约
+origin: teaching morphology
+source_form: plight
+source_meaning: condition; pledge
+source_meaning_zh: 困境；誓约
+related_morphemes:
+  []
+senses:
+  - meaning: condition; pledge
+    zh: 困境；誓约
+    examples:
+      - plight
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - plight -> plight
+high_value_words:
+  - plight
+confusable_words:
+  []

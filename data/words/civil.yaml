@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: civil
+word: civil
+pos: adjective
+zh: 公民的；市民的；国内的；礼貌的
+en: related to citizens or ordinary society, or polite
+components:
+  - morpheme: civ
+    form: civil
+    meaning_in_word: citizen
+    zh: 公民；市民；文明
+    role: root
+    is_core: true
+word_family:
+  - civility
+  - civilization
+  - civilian
+word_family_details:
+  - word: civility
+    en: polite and respectful behavior
+    zh: 彬彬有礼；斯文
+  - word: civilization
+    en: a developed human society and its culture
+    zh: 文明；文化
+  - word: civilian
+    en: a person not in the armed forces, or related to ordinary citizens
+    zh: 平民的；民用的；平民
+confusables:
+  []
+examples:
+  []
+why_confusing: civil war 是内战；civil rights 是公民权。

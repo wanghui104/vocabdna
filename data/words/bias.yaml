@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bias
+word: bias
+pos: noun
+zh: 偏见；偏好
+en: a tendency to favor one side, often unfairly
+components:
+  - morpheme: bias
+    form: bias
+    meaning_in_word: slant
+    zh: 偏见；偏向
+    role: root
+    is_core: true
+word_family:
+  - unbiased
+word_family_details:
+  - word: unbiased
+    en: Means 没有偏见的; reviewed from the TOEFL source gloss for learner display.
+    zh: 没有偏见的
+confusables:
+  []
+examples:
+  []
+why_confusing: bias 可中性指偏向，也可负面指偏见。

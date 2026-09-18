@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: snake
+display: snake
+type: root
+core_meaning: snake
+zh: 蛇
+origin: teaching morphology
+source_form: snake
+source_meaning: snake
+source_meaning_zh: 蛇
+related_morphemes:
+  []
+senses:
+  - meaning: snake
+    zh: 蛇
+    examples:
+      - rattlesnake
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - snake -> rattlesnake
+high_value_words:
+  - rattlesnake
+confusable_words:
+  []

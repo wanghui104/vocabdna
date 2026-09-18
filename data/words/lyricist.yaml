@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lyricist
+word: lyricist
+pos: noun
+zh: 抒情诗人
+en: Means 抒情诗人; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lyr
+    form: lyr
+    meaning_in_word: 竖琴；抒情诗
+    zh: 竖琴；抒情诗
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lyr.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ic.
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: 从事……的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ist.
+word_family:
+  - lyric
+  - lyrically
+word_family_details:
+  - word: lyric
+    en: Means 抒情诗；歌词; reviewed from the TOEFL source gloss for learner display.
+    zh: 抒情诗；歌词
+  - word: lyrically
+    en: Means 抒情地; reviewed from the TOEFL source gloss for learner display.
+    zh: 抒情地
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ballet
+word: ballet
+pos: noun
+zh: 芭蕾舞；芭蕾舞剧
+en: a formal style of dance or a performance in that style
+components:
+  - morpheme: ballet
+    form: ballet
+    meaning_in_word: dance
+    zh: 芭蕾；舞蹈
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 末尾 t 通常不发音。

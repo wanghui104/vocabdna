@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dif
+display: dif
+type: root
+core_meaning: dif
+zh: dif
+origin: English
+source_form: English dif
+source_meaning: dif
+source_meaning_zh: dif
+related_morphemes:
+  []
+senses:
+  - meaning: dif
+    zh: dif
+    examples:
+      - indifference
+      - indifferent
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - dif -> indifference
+  - dif -> indifferent
+high_value_words:
+  - indifference
+  - indifferent
+confusable_words:
+  []

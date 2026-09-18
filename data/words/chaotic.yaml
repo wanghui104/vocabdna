@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chaotic
+word: chaotic
+pos: adjective
+zh: 混乱的
+en: completely confused or disordered
+components:
+  - morpheme: chaos
+    form: chaot
+    meaning_in_word: chaos
+    zh: 混乱
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: related to
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - chaos
+word_family_details:
+  - word: chaos
+    en: complete disorder and confusion
+    zh: 混乱
+confusables:
+  []
+examples:
+  []
+why_confusing: chaotic traffic/situation/system 常见。

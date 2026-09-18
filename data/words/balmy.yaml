@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: balmy
+word: balmy
+pos: adjective
+zh: 温和宜人的；芳香的
+en: pleasantly warm and gentle, especially of weather
+components:
+  - morpheme: balm
+    form: balm
+    meaning_in_word: soothing fragrance
+    zh: 香脂；宜人的空气
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: balmy weather 是温暖宜人的天气。

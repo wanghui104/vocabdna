@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dump
+display: dump
+type: root
+core_meaning: drop heavily
+zh: 重重倾倒
+origin: Mixed
+source_form: Middle English dumpen;  compare Danish dumpe
+source_meaning: drop heavily
+source_meaning_zh: 重重倾倒
+source_note: 可能来自北欧语言或拟声，来源不确定；保留简单词干。
+related_morphemes:
+  []
+senses:
+  - meaning: drop heavily
+    zh: 重重倾倒
+    examples:
+      - dump
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - dump -> dump
+high_value_words:
+  - dump
+confusable_words:
+  []

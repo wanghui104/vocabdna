@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: caution
+word: caution
+pos: noun/verb
+zh: 小心；谨慎；警告
+en: care taken to avoid danger, or a warning
+components:
+  - morpheme: caution
+    form: caut
+    meaning_in_word: beware
+    zh: 谨慎；警告
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: state
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - cautious
+  - cautiously
+word_family_details:
+  - word: cautious
+    en: careful to avoid danger or mistakes
+    zh: 小心的；谨慎的
+  - word: cautiously
+    en: in a careful way that avoids risk
+    zh: 小心地；谨慎地
+confusables:
+  []
+examples:
+  []
+why_confusing: with caution 指谨慎地。

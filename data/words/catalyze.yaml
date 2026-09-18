@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: catalyze
+word: catalyze
+pos: verb
+zh: 催化；促使；激励
+en: to cause or speed up a reaction or important change
+components:
+  - morpheme: cata
+    form: cata-
+    meaning_in_word: down, against
+    zh: 向下；反对
+    role: prefix
+    is_core: false
+  - morpheme: lys
+    form: lyze
+    meaning_in_word: loosen
+    zh: 释放；催化
+    role: root
+    is_core: true
+word_family:
+  - catalyst
+word_family_details:
+  - word: catalyst
+    en: a substance or person that causes change without being used up
+    zh: 催化剂；促成因素
+confusables:
+  []
+examples:
+  []
+why_confusing: 美式 -yze；英式也见 catalyse。

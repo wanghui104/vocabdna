@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: barbed-wire
+word: barbed wire
+pos: phrase
+zh: 带倒钩的铁丝；铁丝网
+en: wire with sharp barbs used for fencing
+components:
+  - morpheme: barb
+    form: barbed
+    meaning_in_word: with barbs
+    zh: 倒刺；胡须状物
+    role: root
+    is_core: true
+  - morpheme: wire
+    form: wire
+    meaning_in_word: metal thread
+    zh: 金属丝；铁丝
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: barbed 是 barb 的 -ed 形式，不是 bar。

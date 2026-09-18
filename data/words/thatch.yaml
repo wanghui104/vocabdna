@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: thatch
+word: thatch
+pos: verb
+zh: 用茅草覆盖屋顶
+en: Means 用茅草覆盖屋顶; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: thatch
+    form: thatch
+    meaning_in_word: 茅草覆盖
+    zh: 用茅草覆盖屋顶
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:thatch.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

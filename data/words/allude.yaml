@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: allude
+word: allude
+pos: verb
+zh: 暗指；影射；间接提到
+en: to refer to something indirectly
+components:
+  - morpheme: ad
+    form: al-
+    meaning_in_word: to, toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: lud
+    form: lude
+    meaning_in_word: play
+    zh: 玩；游戏
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: allude to 是固定搭配；不要漏掉介词 to。

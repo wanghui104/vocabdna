@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: arc
+word: arc
+pos: noun
+zh: 弧形；拱形
+en: part of a curved line or a curved path
+components:
+  - morpheme: arc
+    form: arc
+    meaning_in_word: bow, curve
+    zh: 弓；弧；拱
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

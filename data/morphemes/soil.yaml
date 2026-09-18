@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: soil
+display: soil
+type: root
+core_meaning: soil
+zh: 土壤
+origin: Latin/French
+source_form: soil
+source_meaning: soil
+source_meaning_zh: 土壤
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: soil
+    zh: 土壤
+    examples:
+      - topsoil
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - soil -> topsoil
+high_value_words:
+  - topsoil
+confusable_words:
+  []

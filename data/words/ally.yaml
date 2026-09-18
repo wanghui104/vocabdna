@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ally
+word: ally
+pos: noun/verb
+zh: 联盟；同盟者
+en: a person, group, or country that cooperates with another
+components:
+  - morpheme: ad
+    form: al-
+    meaning_in_word: to, toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: lig
+    form: ly
+    meaning_in_word: bind
+    zh: 连接；结盟
+    role: root
+    is_core: true
+    note: This is not the adverb suffix -ly.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: ally 作名词重音常在第一音节；作动词可读作 uh-LIE。

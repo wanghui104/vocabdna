@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crazy
+word: crazy
+pos: adjective
+zh: 疯狂的；狂热的
+en: wild, irrational, extremely enthusiastic, or impractical
+components:
+  - morpheme: craze
+    form: craz
+    meaning_in_word: crazy, cracked in mind / 疯狂；狂热
+    zh: 疯狂；狂热
+    role: root
+    is_core: true
+    note: craze + -y：加后缀前去掉末尾 e，呈现 craz-，不能写成 crazy + -y。
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of, state / 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 口语中很常见，正式写作避免用来指精神疾病。

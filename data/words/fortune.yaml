@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fortune
+word: fortune
+pos: noun
+zh: 运气；命运
+en: luck or the course of events
+components:
+  - morpheme: fortun
+    form: fortune
+    meaning_in_word: chance, fortune / 机遇；运气
+    zh: 机遇；运气
+    role: root
+    is_core: true
+    note: fortune/fortunate 的 fortun- 来自 Latin fortuna，属 fors/fortis 机会词族；历史 -un- 层涉及早期 u 词干等重构解释，细节未完全确定，不将 -una 当成可自由复用的后缀。不是 fort- 强壮。
+word_family:
+  - fortunate
+  - fortunately
+word_family_details:
+  - word: fortunate
+    en: favored by good luck
+    zh: 幸运的
+  - word: fortunately
+    en: by good luck
+    zh: 幸运地
+confusables:
+  []
+examples:
+  []
+why_confusing: 

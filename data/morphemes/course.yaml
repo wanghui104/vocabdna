@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: course
+display: course
+type: root
+core_meaning: course
+zh: 路线；水道
+origin: teaching morphology
+source_form: course
+source_meaning: course
+source_meaning_zh: 路线；水道
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: course
+    zh: 路线；水道
+    examples:
+      - watercourse
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - course -> watercourse
+high_value_words:
+  - watercourse
+confusable_words:
+  []

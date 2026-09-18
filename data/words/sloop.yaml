@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sloop
+word: sloop
+pos: noun
+zh: 单桅帆船
+en: Means 单桅帆船; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sloop
+    form: sloop
+    meaning_in_word: 单桅帆船
+    zh: 单桅帆船
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

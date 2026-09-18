@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confine
+word: confine
+pos: verb
+zh: 限制；禁闭
+en: to keep someone or something within limits or in a place
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together/intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: fin
+    form: fine
+    meaning_in_word: limit, boundary
+    zh: 边界；限制；终点
+    role: root
+    is_core: true
+word_family:
+  - confining
+  - confinement
+word_family_details:
+  - word: confining
+    en: making you feel restricted or trapped
+    zh: 狭窄的；限制性的
+  - word: confinement
+    en: the state of being confined or kept in a place
+    zh: 限制；禁闭；拘禁
+confusables:
+  []
+examples:
+  []
+why_confusing: be confined to bed/a wheelchair; confine remarks to a topic.

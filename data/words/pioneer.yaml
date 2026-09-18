@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pioneer
+word: pioneer
+pos: noun
+zh: 开拓者；开辟，倡导
+en: Means 开拓者；开辟，倡导; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pioneer
+    form: pioneer
+    meaning_in_word: pioneer / 开拓者
+    zh: 开拓者
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  - pioneering
+word_family_details:
+  - word: pioneering
+    en: Means 开创性的; reviewed from the TOEFL source gloss for learner display.
+    zh: 开创性的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

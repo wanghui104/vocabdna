@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clause
+word: clause
+pos: noun
+zh: 分句；条款
+en: a group of words with a subject and verb, or a section of a legal document
+components:
+  - morpheme: clause
+    form: clause
+    meaning_in_word: closed unit
+    zh: 分句；条款
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: relative clause 是关系从句。

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: asset
+word: asset
+pos: noun
+zh: 资产；财产；优势
+en: something valuable that a person or organization owns, or a useful quality
+components:
+  - morpheme: satis
+    form: asset
+    meaning_in_word: enough value to satisfy a debt
+    zh: 足够；满足
+    role: root
+    is_core: true
+    note: Historically from Anglo-French assetz, ultimately ad satis.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: assess
+    reason: asset 是有价值的资产或优点，不是 assess 评估。
+    zh_reason: asset 是有价值的资产或优点，不是 assess 评估。
+examples:
+  []
+why_confusing: asset 是有价值的资产或优点，不是 assess 评估。

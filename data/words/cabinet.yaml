@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cabinet
+word: cabinet
+pos: noun
+zh: 橱柜；内阁
+en: a cupboard with shelves or drawers, or a group of senior government advisers
+components:
+  - morpheme: cabin
+    form: cabin
+    meaning_in_word: small room
+    zh: 小屋；橱柜；内阁
+    role: root
+    is_core: true
+word_family:
+  - the-cabinet
+  - cabinetmaker
+word_family_details:
+  - word: the-cabinet
+    en: the group of senior ministers or advisers in a government
+    zh: 内阁
+  - word: cabinetmaker
+    en: a skilled person who makes cabinets and fine wooden furniture
+    zh: 家具师；细木工匠
+confusables:
+  []
+examples:
+  []
+why_confusing: cabinet 可指家具，也可指政府内阁。

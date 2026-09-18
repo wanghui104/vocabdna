@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cab
+display: cab
+type: root
+core_meaning: cab
+zh: 出租车；出租马车
+origin: French
+source_form: French cabriolet
+source_meaning: light carriage
+source_meaning_zh: 轻便马车
+related_morphemes:
+  []
+senses:
+  - meaning: cab
+    zh: 出租车；出租马车
+    examples:
+      - cab
+      - taxicab
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cab -> cab
+  - cab -> taxicab
+high_value_words:
+  - cab
+  - taxicab
+confusable_words:
+  []

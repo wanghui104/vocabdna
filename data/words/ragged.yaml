@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ragged
+word: ragged
+pos: adjective
+zh: 褴褛的，破烂的
+en: Means 褴褛的，破烂的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rag
+    form: rag
+    meaning_in_word: rag / 破布
+    zh: 破布
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having; past participle / 已…的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

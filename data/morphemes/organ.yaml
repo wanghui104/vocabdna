@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: organ
+display: organ
+type: root
+core_meaning: tool, instrument, organ
+zh: 工具；器官；组织
+origin: Greek
+source_form: Greek organon
+source_meaning: tool, instrument
+source_meaning_zh: 工具；器具
+related_morphemes:
+  []
+senses:
+  - meaning: tool, instrument, organ
+    zh: 工具；器官；组织
+    examples:
+      - disorganize
+      - inorganic chemical
+      - microorganism
+      - organic
+      - organically
+      - organism
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - organ -> disorganize
+  - organ -> inorganic chemical
+  - organ -> microorganism
+  - organ -> organic
+  - organ -> organically
+  - organ -> organism
+high_value_words:
+  - disorganize
+  - inorganic chemical
+  - microorganism
+  - organic
+  - organically
+  - organism
+confusable_words:
+  []

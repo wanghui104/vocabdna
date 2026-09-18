@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: invade
+word: invade
+pos: verb
+zh: 侵略，侵犯
+en: Means 侵略，侵犯; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: vad
+    form: vad
+    meaning_in_word: 走；入侵
+    zh: 走；入侵
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:vad.
+word_family:
+  - invasion
+  - invader
+word_family_details:
+  - word: invasion
+    en: Means 入侵; reviewed from the TOEFL source gloss for learner display.
+    zh: 入侵
+  - word: invader
+    en: Means 侵略者; reviewed from the TOEFL source gloss for learner display.
+    zh: 侵略者
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

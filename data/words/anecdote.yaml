@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: anecdote
+word: anecdote
+pos: noun
+zh: 短故事；轶事
+en: a short, often amusing or interesting story about a real incident
+components:
+  - morpheme: an
+    form: an-
+    meaning_in_word: not
+    zh: 不；无
+    role: prefix
+    is_core: false
+  - morpheme: ecdot
+    form: ecdote
+    meaning_in_word: published, given out
+    zh: 给出；发表
+    role: root
+    is_core: true
+word_family:
+  - anecdotal
+word_family_details:
+  - word: anecdotal
+    en: based on personal stories rather than systematic evidence
+    zh: 轶闻的；多趣闻的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

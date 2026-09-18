@@ -18,15 +18,11 @@ components:
     role: root
     is_core: true
 word_family:
-  - reversion
+  []
 word_family_details:
-  - word: reversion
-    en: related form of reversion
-    zh: reversion 的相关词
+  []
 confusables:
-  - word: reverse
-    reason: revert to 后接旧状态；reply 是回复消息。
-    zh_reason: revert to 后接旧状态；reply 是回复消息。
+  []
 examples:
   - en: The system reverted to its old settings.
     zh: 系统恢复到了旧设置。

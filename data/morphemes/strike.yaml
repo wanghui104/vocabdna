@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: strike
+display: strike
+type: root
+core_meaning: strike
+zh: 打击；罢工
+origin: Old English
+source_form: strike
+source_meaning: strike
+source_meaning_zh: 打击；罢工
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: strike
+    zh: 打击；罢工
+    examples:
+      - strike
+      - striking
+      - strikingly
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - strike -> strike
+  - strike -> striking
+  - strike -> strikingly
+high_value_words:
+  - strike
+  - striking
+  - strikingly
+confusable_words:
+  []

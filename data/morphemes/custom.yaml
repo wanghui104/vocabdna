@@ -8,20 +8,36 @@ origin: French
 source_form: Old French costume / custume
 source_meaning: custom, habit
 source_meaning_zh: 习惯、惯例
+source_note: 表层 custom；Old French costume ← Latin consuetudo 习惯 ← consuescere 习惯于。深层 com-/con- 加强 + suescere 习惯于；历史压缩后的 custom 不机械按现代字母切开。
 related_morphemes:
-  []
+  - com
 senses:
   - meaning: habit, custom
     zh: 习惯、惯例
     examples:
       - accustomed
+      - costume
+      - custom
+      - customarily
+      - customer
+      - customs
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - custom -> accustomed
+  - costume -> costume
+  - custom -> custom
+  - custom -> customarily
+  - custom -> customer
+  - custom -> customs
 high_value_words:
   - accustomed
+  - costume
+  - custom
+  - customarily
+  - customer
+  - customs
 confusable_words:
   []

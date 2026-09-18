@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: reconstruction
+word: reconstruction
+pos: noun
+zh: 复兴，改造，再建
+en: Means 复兴，改造，再建; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: construct
+    form: construct
+    meaning_in_word: construct / construct
+    zh: construct
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act or result / 动作或结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - reconstruct
+word_family_details:
+  - word: reconstruct
+    en: Means 重建，改进; reviewed from the TOEFL source gloss for learner display.
+    zh: 重建，改进
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

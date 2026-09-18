@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blessing
+word: blessing
+pos: noun
+zh: 祝福；恩赐
+en: a prayer, approval, or something good that helps you
+components:
+  - morpheme: bless
+    form: bless
+    meaning_in_word: bless
+    zh: 祝福；恩赐
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: result
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: a blessing in disguise 指因祸得福。

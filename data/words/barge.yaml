@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: barge
+word: barge
+pos: noun
+zh: 驳船
+en: a long flat boat used for carrying freight on rivers or canals
+components:
+  - morpheme: barge
+    form: barge
+    meaning_in_word: boat
+    zh: 驳船
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: barge into 表示鲁莽闯入，是动词搭配。

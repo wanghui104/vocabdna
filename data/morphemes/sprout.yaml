@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sprout
+display: sprout
+type: root
+core_meaning: sprout
+zh: 发芽
+origin: Old English
+source_form: sprout
+source_meaning: sprout
+source_meaning_zh: 发芽
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: sprout
+    zh: 发芽
+    examples:
+      - sprout
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sprout -> sprout
+high_value_words:
+  - sprout
+confusable_words:
+  []

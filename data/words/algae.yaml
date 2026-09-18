@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: algae
+word: algae
+pos: noun
+zh: 海藻；藻类
+en: simple plant-like organisms that live in water or damp places
+components:
+  - morpheme: alga
+    form: algae
+    meaning_in_word: algae, seaweed
+    zh: 海藻；藻类
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: Algae grew on the surface of the pond.
+    zh: 藻类长在池塘表面。
+why_confusing: algae 是复数或集合用法；单数是 alga，但日常多见 algae。

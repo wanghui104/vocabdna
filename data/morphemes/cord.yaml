@@ -15,13 +15,22 @@ senses:
     zh: 心、一致
     examples:
       - accordion
+      - in accord with
+      - nerve cord
+      - spinal cord
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - accord -> accordion
+  - cord -> in accord with
+  - cord -> nerve cord
+  - cord -> spinal cord
 high_value_words:
   - accordion
+  - in accord with
+  - nerve cord
+  - spinal cord
 confusable_words:
   []

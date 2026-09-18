@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: influential
+word: influential
+pos: adjective
+zh: 有影响的；有权势的
+en: Means 有影响的；有权势的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: flu
+    form: flu
+    meaning_in_word: 流动
+    zh: 流动
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:flu.
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: ……的人；具有……性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ent.
+  - morpheme: ial
+    form: -ial
+    meaning_in_word: 有关……的
+    zh: 有关……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ial.
+word_family:
+  - influenza
+  - influx
+word_family_details:
+  - word: influenza
+    en: Means 流行性感冒; reviewed from the TOEFL source gloss for learner display.
+    zh: 流行性感冒
+  - word: influx
+    en: Means 流入，汇集; reviewed from the TOEFL source gloss for learner display.
+    zh: 流入，汇集
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

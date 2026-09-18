@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: decadent
+word: decadent
+pos: adjective
+zh: 颓废的；衰落的；过度享乐的
+en: marked by decline, decay, or self-indulgent luxury
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: cad-cid-cas
+    form: cad
+    meaning_in_word: fall
+    zh: 落下、发生
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: being in a state
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 现代还可形容甜点等过度奢华。

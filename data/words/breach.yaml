@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: breach
+word: breach
+pos: verb/noun
+zh: 打破；突破；违背；破坏
+en: to break through or violate something; a break or gap
+components:
+  - morpheme: break
+    form: breach
+    meaning_in_word: break, gap
+    zh: 打破；破裂
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: breach of contract/security 常见。

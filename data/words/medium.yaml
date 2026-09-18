@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: medium
+word: medium
+pos: noun
+zh: 媒体，媒介；方法
+en: Means 媒体，媒介；方法; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: medi
+    form: medi
+    meaning_in_word: 中间
+    zh: 中间
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:medi.
+  - morpheme: um
+    form: -um
+    meaning_in_word: 单数词尾
+    zh: 单数词尾
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:um.
+word_family:
+  - mediate
+  - intermediate
+  - mediator
+word_family_details:
+  - word: mediate
+    en: Means 斡旋，调停; reviewed from the TOEFL source gloss for learner display.
+    zh: 斡旋，调停
+  - word: intermediate
+    en: Means 中间的；中级的; reviewed from the TOEFL source gloss for learner display.
+    zh: 中间的；中级的
+  - word: mediator
+    en: Means 调停者; reviewed from the TOEFL source gloss for learner display.
+    zh: 调停者
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

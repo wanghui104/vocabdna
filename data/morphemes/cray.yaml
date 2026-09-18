@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cray
+display: cray
+type: root
+core_meaning: cray
+zh: cray
+origin: teaching morphology
+source_form: cray
+source_meaning: cray
+source_meaning_zh: cray
+related_morphemes:
+  []
+senses:
+  - meaning: cray
+    zh: cray
+    examples:
+      - crayon
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cray -> crayon
+high_value_words:
+  - crayon
+confusable_words:
+  []

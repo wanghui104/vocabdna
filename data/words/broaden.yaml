@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: broaden
+word: broaden
+pos: verb
+zh: 放宽；变宽；扩大
+en: to become wider or make something wider in range
+components:
+  - morpheme: broad
+    form: broad
+    meaning_in_word: wide
+    zh: 宽；扩大
+    role: root
+    is_core: true
+  - morpheme: en
+    form: -en
+    meaning_in_word: make, become
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+word_family:
+  - broad
+word_family_details:
+  - word: broad
+    en: wide or covering a large range
+    zh: 宽的；广泛的
+confusables:
+  []
+examples:
+  []
+why_confusing: broaden horizons/appeal/knowledge 常见。

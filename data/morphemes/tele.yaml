@@ -2,23 +2,32 @@
 id: tele
 display: tele-
 type: combining form
-core_meaning: far
-zh: 远
+core_meaning: far, remote
+zh: 远程
 origin: Greek
+source_form: Greek tele
+source_meaning: far off
+source_meaning_zh: 远
 related_morphemes:
   []
 senses:
-  - meaning: far
-    zh: 远
+  - meaning: far, remote
+    zh: 远程
     examples:
+      - telecommuter
+      - telegraph
       - telescope
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - tele- -> telescope
+  - tele- -> telecommuter
+  - tele -> telegraph
+  - tele -> telescope
 high_value_words:
+  - telecommuter
+  - telegraph
   - telescope
 confusable_words:
   []

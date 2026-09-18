@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flag
+word: flag
+pos: noun/verb
+zh: 旗；标记
+en: a piece of cloth used as a symbol or signal; to mark for attention
+components:
+  - morpheme: flag
+    form: flag
+    meaning_in_word: flag; droop / 旗；低垂
+    zh: 旗；低垂
+    role: root
+    is_core: true
+    note: 旗帜名词与衰弱动词的具体来源未定；可能与拍动、低垂有关，不强认同一历史根。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

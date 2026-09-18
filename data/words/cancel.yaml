@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cancel
+word: cancel
+pos: verb
+zh: 取消
+en: to decide that something planned will not happen, or mark something as invalid
+components:
+  - morpheme: cancel
+    form: cancel
+    meaning_in_word: cross out
+    zh: 取消；划掉
+    role: root
+    is_core: true
+word_family:
+  - cancellation
+word_family_details:
+  - word: cancellation
+    en: the act of canceling something
+    zh: 取消
+confusables:
+  []
+examples:
+  []
+why_confusing: cancel a meeting/order/subscription 常见。

@@ -2,48 +2,51 @@
 id: competition
 word: competition
 pos: noun
-zh: 竞争；比赛；竞赛
-en: rivalry or a contest in which people try to win the same goal
+zh: 竞争，竞赛
+en: Means 竞争，竞赛; reviewed from the TOEFL source gloss for learner display.
 components:
-  - morpheme: con
+  - morpheme: com
     form: com-
-    meaning_in_word: together, with
-    zh: 共同、一起、加强
+    meaning_in_word: together / 共同
+    zh: 共同；一起；完全
     role: prefix
     is_core: false
-  - morpheme: pet
+  - morpheme: petit
     form: petit
-    meaning_in_word: seek, strive for
-    zh: 追求、寻求、冲向
+    meaning_in_word: seek; request / 寻求；请求
+    zh: 寻求；请求
     role: root
     is_core: true
   - morpheme: ion
     form: -ion
-    meaning_in_word: act, process, result
+    meaning_in_word: act or result / 动作或结果
     zh: 行为、过程、结果
     role: suffix
     is_core: false
 word_family:
   - compete
+  - competing
   - competitive
+  - competitiveness
   - competitor
 word_family_details:
   - word: compete
-    en: to strive against others for a goal, prize, market, or advantage
-    zh: 竞争；比赛
+    en: to try to win or be more successful than others
+    zh: 竞争；比得上
+  - word: competing
+    en: trying to win against each other, or rival
+    zh: 有竞争性的；不相上下的
   - word: competitive
     en: involving competition or rivalry
     zh: 竞争的；比赛的
+  - word: competitiveness
+    en: the ability to compete successfully
+    zh: 竞争能力
   - word: competitor
     en: a person, team, or company that competes
     zh: 竞争者；对手
 confusables:
-  - word: composition
-    reason: competition 是竞争；composition 是组成或作文，拼写相近但词根路径不同。
-    zh_reason: competition 是竞争；composition 是组成或作文，拼写相近但词根路径不同。
+  []
 examples:
-  - en: The competition attracted students from many schools.
-    zh: 这场比赛吸引了许多学校的学生。
-  - en: The company lowered prices to beat the competition.
-    zh: 公司降价以击败竞争对手。
-why_confusing: competition 是竞争；composition 是组成或作文，拼写相近但词根路径不同。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

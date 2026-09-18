@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: infectious
+word: infectious
+pos: adjective
+zh: 传染性的，易传染的
+en: Means 传染性的，易传染的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: fect
+    form: fect
+    meaning_in_word: 做；感染
+    zh: 做；感染
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:fect.
+  - morpheme: ious
+    form: -ious
+    meaning_in_word: ious
+    zh: ious
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ious.
+word_family:
+  - infection
+word_family_details:
+  - word: infection
+    en: Means 传染（病）; reviewed from the TOEFL source gloss for learner display.
+    zh: 传染（病）
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

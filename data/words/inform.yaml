@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inform
+word: inform
+pos: verb
+zh: 通知；告知
+en: to give information
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: form
+    form: form
+    meaning_in_word: form, shape / 形式；符合
+    zh: 形式；符合
+    role: root
+    is_core: true
+word_family:
+  - informative
+word_family_details:
+  - word: informative
+    en: providing useful information
+    zh: 提供有用信息的；增长见识的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

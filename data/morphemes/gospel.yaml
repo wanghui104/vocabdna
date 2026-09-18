@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gospel
+display: gospel
+type: root
+core_meaning: draft meaning for gospel
+zh: 福音
+origin: Unknown
+source_form: TOEFL draft opaque stem: gospel
+source_meaning: draft learner stem for gospel
+source_meaning_zh: 福音
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for gospel
+    zh: 福音
+    examples:
+      - gospel
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - gospel -> gospel
+high_value_words:
+  - gospel
+confusable_words:
+  []

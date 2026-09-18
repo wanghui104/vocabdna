@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ert
+display: ert
+type: root
+core_meaning: unskilled, inactive
+zh: 无技能；不活跃
+origin: Latin
+source_form: Latin ars / inert
+source_meaning: unskilled, inactive
+source_meaning_zh: 无技能；不活跃
+related_morphemes:
+  []
+senses:
+  - meaning: unskilled, inactive
+    zh: 无技能；不活跃
+    examples:
+      - inert
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ert -> inert
+high_value_words:
+  - inert
+confusable_words:
+  []

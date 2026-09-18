@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bland
+word: bland
+pos: adjective
+zh: 淡味的；无味的；平淡的
+en: not strong, interesting, or flavorful
+components:
+  - morpheme: bland
+    form: bland
+    meaning_in_word: mild, smooth
+    zh: 淡而无味；温和
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: bland food/comment/style 都可用。

@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: insurmountable
+word: insurmountable
+pos: adjective
+zh: 不能克服的, 不能超越的
+en: Means 不能克服的, 不能超越的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: in; not / 在内；不
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+  - morpheme: sur
+    form: sur-
+    meaning_in_word: over; above / 超过；在上
+    zh: 在上；超过
+    role: prefix
+    is_core: false
+  - morpheme: mount
+    form: mount
+    meaning_in_word: mount; climb / 山；攀登
+    zh: 山；攀登
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to; fit for / 能够；适合
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - surmount
+word_family_details:
+  - word: surmount
+    en: Means 克服；登上；越过; reviewed from the TOEFL source gloss for learner display.
+    zh: 克服；登上；越过
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

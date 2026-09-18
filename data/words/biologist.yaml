@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: biologist
+word: biologist
+pos: noun
+zh: 生物学家
+en: a scientist who studies living things
+components:
+  - morpheme: bio
+    form: bio-
+    meaning_in_word: life
+    zh: 生命
+    role: combining_form
+    is_core: true
+  - morpheme: log
+    form: log
+    meaning_in_word: study
+    zh: 原木；记录
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - biology
+word_family_details:
+  - word: biology
+    en: the scientific study of living things
+    zh: 生物学
+confusables:
+  []
+examples:
+  []
+why_confusing: biologist 是人；biology 是学科。

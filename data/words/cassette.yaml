@@ -1,0 +1,26 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cassette
+word: cassette
+pos: noun
+zh: 盒式磁带
+en: a small flat case containing tape, especially for audio recording
+components:
+  - morpheme: caps
+    form: cassette
+    meaning_in_word: small case or box
+    zh: 盒；箱；容器
+    role: root
+    is_core: true
+    related_morphemes:
+      - cap
+word_family:
+  - videocassette
+word_family_details:
+  - word: videocassette
+    en: a cassette containing videotape
+    zh: 录像带
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意 cassette 指盒式磁带或类似盒装结构。

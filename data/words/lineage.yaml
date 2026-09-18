@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lineage
+word: lineage
+pos: noun
+zh: 血统，世系
+en: Means 血统，世系; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: line
+    form: line
+    meaning_in_word: 线；血统
+    zh: 线；血统
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:line.
+  - morpheme: age
+    form: -age
+    meaning_in_word: 结果；集合
+    zh: 结果；集合
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:age.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: excuse
+word: excuse
+pos: verb/noun
+zh: 原谅；免除
+en: to forgive or release from an obligation
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: caus-cus
+    form: cuse
+    meaning_in_word: cause, accusation / 原因、控诉
+    zh: 原因、控诉
+    role: root
+    is_core: true
+    note: ex- 解除 + cuse-（Latin causa 案由、指控，经音变）；不是英语 use 使用。名词和动词词末辅音发音不同。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

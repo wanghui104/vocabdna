@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: budget
+word: budget
+pos: noun
+zh: 预算
+en: a plan for how money will be spent
+components:
+  - morpheme: budget
+    form: budget
+    meaning_in_word: money bag, plan
+    zh: 预算
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: on a budget 表示预算有限。

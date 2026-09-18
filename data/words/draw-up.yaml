@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: draw-up
+word: draw up
+pos: phrase
+zh: 起草；拟订
+en: to prepare a written document or plan
+components:
+  - morpheme: draw
+    form: draw
+    meaning_in_word: pull, draw / 拉；绘制
+    zh: 拉；绘制
+    role: root
+    is_core: true
+    note: draw 是 dragan 的英语演变形；drag 与 draft 同源相关，但是独立现代词族。
+  - morpheme: up
+    form: up
+    meaning_in_word: up, active/involved / 向上；从事
+    zh: 向上；从事
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adversely
+word: adversely
+pos: adverb
+zh: 不利地；相反地
+en: in a way that harms, opposes, or has a negative effect
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: toward, against
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: verse
+    meaning_in_word: turned
+    zh: 转、转向
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - adverse
+  - adversity
+word_family_details:
+  - word: adverse
+    en: Means 不利的；敌对的；相反地; reviewed from the TOEFL source gloss for learner display.
+    zh: 不利的；敌对的；相反地
+  - word: adversity
+    en: difficulty, misfortune, or hardship
+    zh: 不幸；逆境；灾难
+confusables:
+  - word: averse
+    reason: 常见搭配 adversely affect。
+    zh_reason: 常见搭配 adversely affect。
+examples:
+  - en: Noise can adversely affect sleep.
+    zh: 噪音会对睡眠产生不利影响。
+why_confusing: 常见搭配 adversely affect。

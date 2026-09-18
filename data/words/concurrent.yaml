@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: concurrent
+word: concurrent
+pos: adjective
+zh: 并发的；同时发生的；一致的
+en: happening at the same time or acting together
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: curr
+    form: curr
+    meaning_in_word: run
+    zh: 跑；流动；路线
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: ongoing quality
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: concurrent events 同时发生的事件；concurrent powers 共同权力。

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prior
+display: prior
+type: root
+core_meaning: prior
+zh: prior
+origin: teaching morphology
+source_form: prior
+source_meaning: prior
+source_meaning_zh: prior
+related_morphemes:
+  []
+senses:
+  - meaning: prior
+    zh: prior
+    examples:
+      - priority
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - prior -> priority
+high_value_words:
+  - priority
+confusable_words:
+  []

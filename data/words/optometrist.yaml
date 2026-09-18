@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: optometrist
+word: optometrist
+pos: noun
+zh: 验光师
+en: Means 验光师; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: opt
+    form: opt
+    meaning_in_word: eye; choose / 眼；选择
+    zh: 选择；希望
+    role: root
+    is_core: true
+  - morpheme: metr
+    form: metr
+    meaning_in_word: metr / metr
+    zh: 测量；尺度
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person; believer / 人；信奉者
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

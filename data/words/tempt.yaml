@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tempt
+word: tempt
+pos: verb
+zh: 诱使
+en: Means 诱使; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: tempt
+    form: tempt
+    meaning_in_word: try; lure / 尝试；诱惑
+    zh: 尝试；测试
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - tempting
+word_family_details:
+  - word: tempting
+    en: Means 诱惑人的; reviewed from the TOEFL source gloss for learner display.
+    zh: 诱惑人的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

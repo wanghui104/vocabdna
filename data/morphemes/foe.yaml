@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foe
+display: foe
+type: root
+core_meaning: enemy, hostile
+zh: 敌人；敌对
+origin: Old English
+source_form: Old English gefa; fah
+source_meaning: enemy, hostile
+source_meaning_zh: 敌人；敌对
+source_note: 来自本族敌对词；历史 ge- 已消失，不把现代 foe 强拆为 f + oe。
+related_morphemes:
+  []
+senses:
+  - meaning: enemy, hostile
+    zh: 敌人；敌对
+    examples:
+      - foe
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - foe -> foe
+high_value_words:
+  - foe
+confusable_words:
+  []

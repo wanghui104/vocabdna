@@ -20,7 +20,7 @@ components:
   - morpheme: ism
     form: -ism
     meaning_in_word: condition or practice
-    zh: 行为、制度、现象
+    zh: 行为；状态
     role: suffix
     is_core: false
 word_family:

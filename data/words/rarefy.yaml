@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rarefy
+word: rarefy
+pos: verb
+zh: 使稀少，使稀薄
+en: Means 使稀少，使稀薄; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: rare
+    form: rare
+    meaning_in_word: rare / 稀有
+    zh: 稀有
+    role: root
+    is_core: true
+  - morpheme: fy
+    form: -fy
+    meaning_in_word: make / 使
+    zh: 使
+    role: suffix
+    is_core: false
+word_family:
+  - rare
+  - rarely
+word_family_details:
+  - word: rare
+    en: Means 稀有的; reviewed from the TOEFL source gloss for learner display.
+    zh: 稀有的
+  - word: rarely
+    en: Means 很少地，罕有地; reviewed from the TOEFL source gloss for learner display.
+    zh: 很少地，罕有地
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

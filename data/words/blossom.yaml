@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blossom
+word: blossom
+pos: noun/verb
+zh: 花；开花；发展
+en: a flower, or to flower and develop well
+components:
+  - morpheme: flower
+    form: blossom
+    meaning_in_word: flower
+    zh: 花；开花
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: friendship/career can blossom。

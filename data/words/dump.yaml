@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dump
+word: dump
+pos: verb/noun
+zh: 倾倒；丢弃
+en: to unload or throw away carelessly
+components:
+  - morpheme: dump
+    form: dump
+    meaning_in_word: drop heavily / 重重倾倒
+    zh: 重重倾倒
+    role: root
+    is_core: true
+    note: 可能来自北欧语言或拟声，来源不确定；保留简单词干。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

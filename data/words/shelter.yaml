@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shelter
+word: shelter
+pos: noun
+zh: 掩蔽处；庇护所；掩蔽
+en: Means 掩蔽处；庇护所；掩蔽; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: shelter
+    form: shelter
+    meaning_in_word: shelter / 庇护
+    zh: 庇护
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  - sheltered
+word_family_details:
+  - word: sheltered
+    en: Means 遮蔽的; reviewed from the TOEFL source gloss for learner display.
+    zh: 遮蔽的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

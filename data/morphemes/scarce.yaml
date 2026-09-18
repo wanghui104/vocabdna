@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scarce
+display: scarce
+type: root
+core_meaning: scarce
+zh: 缺乏
+origin: teaching morphology
+source_form: scarce
+source_meaning: scarce
+source_meaning_zh: 缺乏
+related_morphemes:
+  []
+senses:
+  - meaning: scarce
+    zh: 缺乏
+    examples:
+      - scarce
+      - scarcely
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - scarce -> scarce
+  - scarce -> scarcely
+high_value_words:
+  - scarce
+  - scarcely
+confusable_words:
+  []

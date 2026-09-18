@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crust
+word: crust
+pos: noun
+zh: 地壳；外壳；硬皮
+en: a hard outer layer, especially the earth's outer layer
+components:
+  - morpheme: crust
+    form: crust
+    meaning_in_word: outer shell
+    zh: 外壳；地壳
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: earth's crust; bread crust.

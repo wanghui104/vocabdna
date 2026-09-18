@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hinterland
+word: hinterland
+pos: noun
+zh: 穷乡僻壤；腹地
+en: Means 穷乡僻壤；腹地; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hinter
+    form: hinter
+    meaning_in_word: hinter
+    zh: 后方
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hinter.
+  - morpheme: land
+    form: land
+    meaning_in_word: land
+    zh: 土地
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:land.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

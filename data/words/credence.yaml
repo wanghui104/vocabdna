@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: credence
+word: credence
+pos: noun
+zh: 信任；相信
+en: belief that something is true or deserves acceptance
+components:
+  - morpheme: cred
+    form: cred
+    meaning_in_word: believe, trust / 相信、信用
+    zh: 相信、信用
+    role: root
+    is_core: true
+    note: 表层 cred-/credit- 信任；credit 来自 Latin creditum（credere 的分词名词），credit- 中 -it- 属历史分词词干，不是省略或英语后缀。credentials 的层级为 credent- 相信 + -ial 相关 + -s 复数；credent- 内为 cred- + -ent。
+  - morpheme: ence
+    form: -ence
+    meaning_in_word: state, quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: give credence to = 认为有可信度。

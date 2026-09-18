@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: infant
+word: infant
+pos: noun/adjective
+zh: 婴儿；初期的
+en: a baby or very young child; at an early stage
+components:
+  - morpheme: in-not
+    form: in-
+    meaning_in_word: not / 不；否定
+    zh: 不；否定
+    role: prefix
+    is_core: false
+    note: 否定前缀 in-，不是在内、进入。
+  - morpheme: fa-speak
+    form: fa
+    meaning_in_word: speak, thing spoken / 说；说定之事
+    zh: 说；说定之事
+    role: root
+    is_core: true
+    note: in- 不 + fa- 说 + -nt 现在分词；来自 infans/infant-，原指不能说话者，现代指婴儿。
+  - morpheme: ant
+    form: -nt
+    meaning_in_word: having quality, doing / 具有…性质；正在…
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - infancy
+word_family_details:
+  - word: infancy
+    en: Means 幼年; reviewed from the TOEFL source gloss for learner display.
+    zh: 幼年
+confusables:
+  []
+examples:
+  []
+why_confusing: 

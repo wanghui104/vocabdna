@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: breathless
+word: breathless
+pos: adjective
+zh: 喘不过气的；无声息的
+en: unable to breathe easily, or very still and quiet
+components:
+  - morpheme: breath
+    form: breath
+    meaning_in_word: breath
+    zh: 呼吸；气息
+    role: root
+    is_core: true
+  - morpheme: less
+    form: -less
+    meaning_in_word: without
+    zh: 无；没有
+    role: suffix
+    is_core: false
+word_family:
+  - breath
+  - breathe
+  - breathing
+  - breathtaking
+word_family_details:
+  - word: breath
+    en: air taken into or sent out of the lungs
+    zh: 呼吸；气息
+  - word: breathe
+    en: to take air into and out of the lungs
+    zh: 呼吸；呼出
+  - word: breathing
+    en: the act or process of taking air into and out of the lungs
+    zh: 呼吸
+  - word: breathtaking
+    en: so beautiful, exciting, or surprising that it takes your breath away
+    zh: 令人激动的；惊人的
+confusables:
+  []
+examples:
+  []
+why_confusing: breathless excitement 可指激动得屏息。

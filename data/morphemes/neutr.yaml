@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: neutr
+display: neutr
+type: root
+core_meaning: neither one nor the other
+zh: 中性；中立
+origin: Latin
+source_form: Latin neuter
+source_meaning: neither one nor the other
+source_meaning_zh: 中性；中立
+related_morphemes:
+  []
+senses:
+  - meaning: neither one nor the other
+    zh: 中性；中立
+    examples:
+      - neutral
+      - neutralize
+      - neutron
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - neutr -> neutral
+  - neutr -> neutralize
+  - neutr -> neutron
+high_value_words:
+  - neutral
+  - neutralize
+  - neutron
+confusable_words:
+  []

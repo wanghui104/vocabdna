@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nox
+display: nox
+type: root
+core_meaning: harm
+zh: 伤害
+origin: teaching morphology
+source_form: nox
+source_meaning: harm
+source_meaning_zh: 伤害
+related_morphemes:
+  []
+senses:
+  - meaning: harm
+    zh: 伤害
+    examples:
+      - noxious
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - nox -> noxious
+high_value_words:
+  - noxious
+confusable_words:
+  []

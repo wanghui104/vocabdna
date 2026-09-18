@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ferment
+word: ferment
+pos: verb/noun
+zh: 发酵；酝酿动乱
+en: to undergo or cause a chemical change through microorganisms or enzymes; to stir up unrest
+components:
+  - morpheme: ferment
+    form: ferment
+    meaning_in_word: leaven, ferment / 酵母；发酵
+    zh: 酵母；发酵
+    role: root
+    is_core: true
+    note: 可能收缩自 *fervimentum：fervere 沸腾 + -mentum；解释仍有不确定性，不把 fer- 携带当这里的词根。
+word_family:
+  - fermentation
+word_family_details:
+  - word: fermentation
+    en: chemical change caused by microorganisms or enzymes, such as production of alcohol from sugar
+    zh: 发酵
+confusables:
+  []
+examples:
+  []
+why_confusing: 

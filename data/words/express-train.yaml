@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: express-train
+word: express train
+pos: noun
+zh: 特快列车；快车
+en: a train making relatively few stops to provide faster travel
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: press
+    form: press
+    meaning_in_word: press / 压
+    zh: 压
+    role: root
+    is_core: true
+  - morpheme: train
+    form: train
+    meaning_in_word: draw, pull / 牵引
+    zh: 牵引
+    role: root
+    is_core: true
+    note: 经法语发展为被牵引的行列，再到列车；不拆 tra + in。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

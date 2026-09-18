@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: timid
+display: timid
+type: root
+core_meaning: timid
+zh: 胆怯
+origin: Latin
+source_form: timid
+source_meaning: timid
+source_meaning_zh: 胆怯
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: timid
+    zh: 胆怯
+    examples:
+      - timid
+      - timidity
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - timid -> timid
+  - timid -> timidity
+high_value_words:
+  - timid
+  - timidity
+confusable_words:
+  []

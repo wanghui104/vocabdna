@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prehistoric
+word: prehistoric
+pos: adjective
+zh: 史前的
+en: Means 史前的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pre
+    form: pre-
+    meaning_in_word: before / 在前
+    zh: 预先、在前
+    role: prefix
+    is_core: false
+  - morpheme: histor
+    form: histor
+    meaning_in_word: history / 历史
+    zh: 历史
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: ic
+    meaning_in_word: ic / ic
+    zh: 与……有关
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

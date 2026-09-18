@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: folk
+display: folk
+type: root
+core_meaning: people, group
+zh: 人群；民族；群体
+origin: Old English
+source_form: Old English folc
+source_meaning: people, nation, tribe, multitude
+source_meaning_zh: 人民；民族；群体
+source_note: Modern folk often marks a people or traditional culture group.
+related_morphemes:
+  []
+senses:
+  - meaning: people, group
+    zh: 人群；民族；群体
+    examples:
+      - folklore
+      - merfolk
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - folk -> folklore
+  - folk -> merfolk
+high_value_words:
+  - folklore
+  - merfolk
+confusable_words:
+  []

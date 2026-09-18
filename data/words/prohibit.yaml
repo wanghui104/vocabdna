@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prohibit
+word: prohibit
+pos: verb
+zh: 禁止
+en: Means 禁止; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: forward; forth / 向前；公开
+    zh: 向前、公开、代替
+    role: prefix
+    is_core: false
+  - morpheme: hibit
+    form: hibit
+    meaning_in_word: hold / 持有；禁止
+    zh: 持有；抑制
+    role: root
+    is_core: true
+word_family:
+  - prohibitive
+  - prohibitively
+word_family_details:
+  - word: prohibitive
+    en: Means 禁止的，抑制的; reviewed from the TOEFL source gloss for learner display.
+    zh: 禁止的，抑制的
+  - word: prohibitively
+    en: Means 令人望而却步地；(价格)极高地; reviewed from the TOEFL source gloss for learner display.
+    zh: 令人望而却步地；(价格)极高地
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

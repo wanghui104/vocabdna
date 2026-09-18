@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fatigue
+word: fatigue
+pos: noun/verb
+zh: 疲劳；材料疲劳
+en: extreme tiredness; weakening of a material under repeated stress
+components:
+  - morpheme: fatigue
+    form: fatigue
+    meaning_in_word: weary, tire out / 疲惫
+    zh: 疲惫
+    role: root
+    is_core: true
+    note: 深层通常解释为 *fati- 崩解 + agere 驱动，但 *fatis 来源未定；保留 fatigue，不能接 fatal 的命运根。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

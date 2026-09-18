@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: wide
+display: -wide
+type: suffix
+core_meaning: wide; across
+zh: 广阔；遍及
+origin: teaching morphology
+source_form: wide
+source_meaning: wide; across
+source_meaning_zh: 广阔；遍及
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: wide; across
+    zh: 广阔；遍及
+    examples:
+      - worldwide
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -wide -> worldwide
+high_value_words:
+  - worldwide
+confusable_words:
+  []

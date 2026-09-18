@@ -18,15 +18,11 @@ components:
     role: root
     is_core: true
 word_family:
-  - inscribe
+  []
 word_family_details:
-  - word: inscribe
-    en: related form of inscribe
-    zh: inscribe 的相关词
+  []
 confusables:
-  - word: subscription
-    reason: inscription 是铭文；subscription 是订阅。
-    zh_reason: inscription 是铭文；subscription 是订阅。
+  []
 examples:
   - en: The ring has a short inscription inside.
     zh: 戒指内侧有一段短题词。

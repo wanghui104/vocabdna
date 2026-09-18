@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chalk
+word: chalk
+pos: noun
+zh: 粉笔；白垩
+en: a soft white limestone or a stick of it used for writing
+components:
+  - morpheme: chalk
+    form: chalk
+    meaning_in_word: limestone
+    zh: 粉笔
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: chalk up 可表示归因于或取得。

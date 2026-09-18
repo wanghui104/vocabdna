@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: alloy
+word: alloy
+pos: noun/verb
+zh: 合金
+en: a metal made by combining metallic elements
+components:
+  - morpheme: ad
+    form: al-
+    meaning_in_word: to, toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: lig
+    form: loy
+    meaning_in_word: bind, combine
+    zh: 连接；结盟
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: allocate
+    reason: alloy 是合金；ally 是盟友/结盟，词义不同但同根相邻。
+    zh_reason: alloy 是合金；ally 是盟友/结盟，词义不同但同根相邻。
+examples:
+  []
+why_confusing: alloy 是合金；ally 是盟友/结盟，词义不同但同根相邻。

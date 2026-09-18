@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ellipse
+word: ellipse
+pos: noun
+zh: 椭圆
+en: an oval curve whose points have a constant sum of distances from two fixed points
+components:
+  - morpheme: en-greek
+    form: el-
+    meaning_in_word: in, within / 在内
+    zh: 在内
+    role: prefix
+    is_core: false
+    note: 希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。
+  - morpheme: lip-leip
+    form: lip
+    meaning_in_word: leave, fall short / 留下；缺少
+    zh: 留下；缺少
+    role: root
+    is_core: true
+    note: lips- 含希腊动作名词 -sis 的历史 s；lipt- 为 -tik- 前的构词形。eclipse 用 ek-，ellipsis/ellipse 用 en-。
+  - morpheme: sis
+    form: -se
+    meaning_in_word: action, process / 动作；过程
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+    note: 历史 -sis 可通过借入变化显示为 -is/-se；具体依词说明。
+word_family:
+  - elliptical
+word_family_details:
+  - word: elliptical
+    en: oval in shape
+    zh: 椭圆的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

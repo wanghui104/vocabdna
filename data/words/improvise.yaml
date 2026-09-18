@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: improvise
+word: improvise
+pos: verb
+zh: 即席创作，即兴表演
+en: Means 即席创作，即兴表演; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: 向前、公开、代替
+    zh: 向前、公开、代替
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:pro.
+  - morpheme: vis
+    form: vis
+    meaning_in_word: 看、可见
+    zh: 看、可见
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:vis.
+  - morpheme: ise
+    form: ise
+    meaning_in_word: ise
+    zh: ise
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:ise.
+word_family:
+  - improvision
+  - improviser
+word_family_details:
+  - word: improvision
+    en: Means 即席创作; reviewed from the TOEFL source gloss for learner display.
+    zh: 即席创作
+  - word: improviser
+    en: Means 即席演奏者; reviewed from the TOEFL source gloss for learner display.
+    zh: 即席演奏者
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

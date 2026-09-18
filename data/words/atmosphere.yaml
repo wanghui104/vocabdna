@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: atmosphere
+word: atmosphere
+pos: noun
+zh: 大气；大气层；气氛
+en: the air surrounding Earth or a place, or the mood surrounding a situation
+components:
+  - morpheme: atmo
+    form: atmo-
+    meaning_in_word: vapor, air
+    zh: 蒸气；空气
+    role: combining_form
+    is_core: true
+  - morpheme: spher
+    form: sphere
+    meaning_in_word: sphere, surrounding layer
+    zh: 球体；范围
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

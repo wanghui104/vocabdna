@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: granite
+word: granite
+pos: noun
+zh: 花岗岩
+en: Means 花岗岩; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: gran
+    form: gran
+    meaning_in_word: 颗粒
+    zh: 颗粒
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:gran.
+  - morpheme: ite
+    form: -ite
+    meaning_in_word: 矿物；相关物
+    zh: 矿物；相关物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source shown on root:ite.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

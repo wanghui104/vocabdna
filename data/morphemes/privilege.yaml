@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: privilege
+display: privilege
+type: root
+core_meaning: privilege
+zh: privilege
+origin: teaching morphology
+source_form: privilege
+source_meaning: privilege
+source_meaning_zh: privilege
+related_morphemes:
+  []
+senses:
+  - meaning: privilege
+    zh: privilege
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

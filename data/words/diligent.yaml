@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diligent
+word: diligent
+pos: adjective
+zh: 勤勉的；尽职的
+en: careful, steady, and hardworking
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, carefully
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: leg-choose
+    form: lig
+    meaning_in_word: choose, value
+    zh: 选择；重视
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having quality
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - diligently
+word_family_details:
+  - word: diligently
+    en: in a careful, steady, and hardworking way
+    zh: 勤勉地；尽职地；小心翼翼地
+confusables:
+  []
+examples:
+  []
+why_confusing: diligent 强调持续认真，不只是 busy。

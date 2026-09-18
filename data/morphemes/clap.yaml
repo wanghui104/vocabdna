@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clap
+display: clap
+type: root
+core_meaning: clap
+zh: 拍手；轻拍
+origin: Old English
+source_form: Old English clappian
+source_meaning: beat, throb
+source_meaning_zh: 拍打
+related_morphemes:
+  []
+senses:
+  - meaning: clap
+    zh: 拍手；轻拍
+    examples:
+      - clap
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - clap -> clap
+high_value_words:
+  - clap
+confusable_words:
+  []

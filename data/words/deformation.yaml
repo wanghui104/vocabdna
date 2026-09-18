@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deformation
+word: deformation
+pos: noun
+zh: 变形；形变
+en: a change that distorts the shape of something
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, remove / 向下；去除
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: form
+    form: form
+    meaning_in_word: form, shape / 形式；符合
+    zh: 形式；符合
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: -ation 将动作名词化；其中 a 保留历史动词词干元音，-tion 对应 Latin -tio/-tion- 行为名词层。
+word_family:
+  - deform
+word_family_details:
+  - word: deform
+    en: to spoil or change the natural shape of something
+    zh: 使变形
+confusables:
+  []
+examples:
+  []
+why_confusing: 

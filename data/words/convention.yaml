@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: convention
+word: convention
+pos: noun
+zh: 会议；大会；传统；惯例
+en: a large formal meeting, or an accepted custom/rule
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: ven-vent
+    form: vent
+    meaning_in_word: come
+    zh: 来到；出现
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act/result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - conventional
+  - conventionally
+  - unconventional
+word_family_details:
+  - word: conventional
+    en: following accepted customs or usual ways
+    zh: 传统的；习俗的；常规的
+  - word: conventionally
+    en: in a traditional or usual way
+    zh: 按照惯例地；照常套地
+  - word: unconventional
+    en: Means 非传统的，与先前不同的; reviewed from the TOEFL source gloss for learner display.
+    zh: 非传统的，与先前不同的
+confusables:
+  []
+examples:
+  []
+why_confusing: convention 可指大会，也可指惯例。

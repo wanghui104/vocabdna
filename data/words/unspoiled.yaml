@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: unspoiled
+word: unspoiled
+pos: adjective
+zh: 未损坏的
+en: Means 未损坏的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: un
+    form: un-
+    meaning_in_word: not / 不
+    zh: 不；相反
+    role: prefix
+    is_core: false
+  - morpheme: spoil
+    form: spoil
+    meaning_in_word: spoil; plunder / 损坏；掠夺
+    zh: 掠夺；剥夺
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past participle; affected by / 过去分词；受到…的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - spoil
+  - spoilage
+word_family_details:
+  - word: spoil
+    en: Means 损坏；腐烂；宠爱，溺爱; reviewed from the TOEFL source gloss for learner display.
+    zh: 损坏；腐烂；宠爱，溺爱
+  - word: spoilage
+    en: Means （食物等）变质，损坏; reviewed from the TOEFL source gloss for learner display.
+    zh: （食物等）变质，损坏
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

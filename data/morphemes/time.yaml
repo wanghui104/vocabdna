@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: time
+display: time
+type: root
+core_meaning: time
+zh: 时间
+origin: teaching morphology
+source_form: time
+source_meaning: time
+source_meaning_zh: 时间
+related_morphemes:
+  []
+senses:
+  - meaning: time
+    zh: 时间
+    examples:
+      - overtime
+      - ragtime
+      - springtime
+      - time-consuming
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - time -> overtime
+  - time -> ragtime
+  - time -> springtime
+  - time -> time-consuming
+high_value_words:
+  - overtime
+  - ragtime
+  - springtime
+  - time-consuming
+confusable_words:
+  []

@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: draft-animal
+word: draft animal
+pos: noun
+zh: 役畜；拉车或牵引重物的动物
+en: an animal used to pull a vehicle or heavy load
+components:
+  - morpheme: draft
+    form: draft
+    meaning_in_word: draw, pull, draw off / 拉、抽、汲取
+    zh: 拉、抽、汲取
+    role: root
+    is_core: true
+    note: draft/draught 是 draw 的历史结果名词；gh/f 反映拼写音变，不拆 dra + ft。
+    related_morphemes:
+      - draw
+  - morpheme: anim
+    form: anim
+    meaning_in_word: life, spirit / 生命；活力
+    zh: 生命；活力
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

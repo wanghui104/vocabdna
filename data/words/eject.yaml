@@ -7,26 +7,22 @@ en: to force something or someone out
 components:
   - morpheme: e
     form: e-
-    meaning_in_word: out
-    zh: 出、向外
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
     role: prefix
     is_core: false
   - morpheme: ject
     form: ject
-    meaning_in_word: throw
-    zh: 投、扔
+    meaning_in_word: throw / 投射；猜想
+    zh: 投射；猜想
     role: root
     is_core: true
 word_family:
-  - ejection
+  []
 word_family_details:
-  - word: ejection
-    en: related form of ejection
-    zh: ejection 的相关词
+  []
 confusables:
-  - word: evict
-    reason: eject 可指弹出；evict 常指依法驱逐。
-    zh_reason: eject 可指弹出；evict 常指依法驱逐。
+  []
 examples:
   - en: The pilot ejected from the aircraft.
     zh: 飞行员从飞机中弹射出来。

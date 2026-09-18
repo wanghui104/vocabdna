@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: firmly
+word: firmly
+pos: adverb
+zh: 牢固地；坚定地
+en: in a strong, steady, or determined way
+components:
+  - morpheme: firm
+    form: firm
+    meaning_in_word: firm, strong / 坚定；坚固
+    zh: 坚定；坚固
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - firm
+  - firmness
+word_family_details:
+  - word: firm
+    en: solid or securely fixed
+    zh: 坚固的
+  - word: firmness
+    en: solidity or determination
+    zh: 坚固；坚定
+confusables:
+  []
+examples:
+  []
+why_confusing: 

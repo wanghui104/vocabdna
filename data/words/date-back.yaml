@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: date-back
+word: date back
+pos: phrase
+zh: 追溯到
+en: to have existed since a particular time in the past
+components:
+  - morpheme: date
+    form: date
+    meaning_in_word: date, time
+    zh: 日期；注明日期
+    role: root
+    is_core: true
+  - morpheme: back
+    form: back
+    meaning_in_word: backward in time
+    zh: 背；后部
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用 date back to + 时间。

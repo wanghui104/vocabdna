@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: banner
+word: banner
+pos: noun
+zh: 横幅；旗帜；大标题
+en: a flag, sign, or large headline used for display
+components:
+  - morpheme: banner
+    form: banner
+    meaning_in_word: identifying sign
+    zh: 横幅；旗帜
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: web banner 指网页横幅广告。

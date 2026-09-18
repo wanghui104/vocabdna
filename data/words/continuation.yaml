@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: continuation
+word: continuation
+pos: noun
+zh: 继续；延长；续篇
+en: the act of continuing or a part that extends something
+components:
+  - morpheme: tain
+    form: continu
+    meaning_in_word: keep going
+    zh: 持有；包含
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: process/result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - continue
+  - continuity
+  - continuum
+word_family_details:
+  - word: continue
+    en: to keep happening or doing something without stopping
+    zh: 继续；延续
+  - word: continuity
+    en: unbroken and consistent connection over time or space
+    zh: 连续性；连贯性
+  - word: continuum
+    en: a continuous range or whole with no clear divisions
+    zh: 连续统一体
+confusables:
+  []
+examples:
+  []
+why_confusing: continuation of a story/process.

@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adventurous
+word: adventurous
+pos: adjective
+zh: 喜欢冒险的；敢做敢为的
+en: willing to try new, difficult, or risky things
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: ven-vent
+    form: venture
+    meaning_in_word: risk, chance
+    zh: 来到；出现
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: full of
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - adventure
+  - adventurer
+word_family_details:
+  - word: adventure
+    en: Means 冒险，冒险的经历; reviewed from the TOEFL source gloss for learner display.
+    zh: 冒险，冒险的经历
+  - word: adventurer
+    en: a person who seeks exciting or risky experiences
+    zh: 冒险家
+confusables:
+  []
+examples:
+  - en: An adventurous scientist tested the new method.
+    zh: 一位敢于冒险的科学家测试了新方法。
+why_confusing: 可形容人，也可形容计划、旅行、选择。

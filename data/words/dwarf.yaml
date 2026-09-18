@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dwarf
+word: dwarf
+pos: noun/verb
+zh: 矮小生物；传说中的矮人
+en: an organism or imaginary being much smaller than usual
+components:
+  - morpheme: dwarf
+    form: dwarf
+    meaning_in_word: very small being / 矮小的生物
+    zh: 矮小的生物
+    role: root
+    is_core: true
+    note: 本族简单词，深层来源不定；指人时注意用法。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

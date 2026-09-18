@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: commodity
+display: commodity
+type: root
+core_meaning: commodity
+zh: 商品；日用品
+origin: Latin
+source_form: Latin commodus
+source_meaning: convenient, suitable
+source_meaning_zh: 合适；便利
+related_morphemes:
+  []
+senses:
+  - meaning: commodity
+    zh: 商品；日用品
+    examples:
+      - commodity
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - commodity -> commodity
+high_value_words:
+  - commodity
+confusable_words:
+  []

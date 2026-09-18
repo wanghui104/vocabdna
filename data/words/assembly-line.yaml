@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assembly-line
+word: assembly line
+pos: phrase
+zh: 装配线；流水线
+en: a line of workers or machines that assemble a product step by step
+components:
+  - morpheme: simil
+    form: assembly
+    meaning_in_word: putting parts together
+    zh: 相似
+    role: root
+    is_core: true
+  - morpheme: line-lign
+    form: line
+    meaning_in_word: line, sequence
+    zh: 线；排列成线
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

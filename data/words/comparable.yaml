@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: comparable
+word: comparable
+pos: adjective
+zh: 可比的；类似的
+en: similar enough to be compared
+components:
+  - morpheme: par
+    form: compar
+    meaning_in_word: compare
+    zh: 比较；相当
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - compare
+word_family_details:
+  - word: compare
+    en: to examine how things are similar or different
+    zh: 比较
+confusables:
+  []
+examples:
+  []
+why_confusing: comparable to/with。

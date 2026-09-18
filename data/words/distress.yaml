@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distress
+word: distress
+pos: noun/verb
+zh: 痛苦；忧虑；使苦恼
+en: severe suffering or anxiety; to cause suffering or anxiety
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: strict
+    form: stress
+    meaning_in_word: tighten, constrict / 收缩；约束
+    zh: 收缩；约束
+    role: root
+    is_core: true
+    note: 历史词来自 French destresse ← Latin districtus/distringere 紧勒、约束；Word DNA di- + stress 保留法语变体，深层是 dis- + stringere 拉紧。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 历史词来自 French destresse ← Latin districtus/distringere 紧勒、约束；Word DNA di- + stress 保留法语变体，深层是 dis- + stringere 拉紧。

@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fatal
+word: fatal
+pos: adjective
+zh: 致命的；灾难性的
+en: causing death or disastrous failure
+components:
+  - morpheme: fa-speak
+    form: fat
+    meaning_in_word: speak, thing spoken / 说；说定之事
+    zh: 说；说定之事
+    role: root
+    is_core: true
+    note: infant 的 fans/fant- 为 fari 现在分词；fate/fatal 的 fatum 是过去分词名词化，说定的命运。不是 fanum 神庙。
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - fate
+  - fateful
+word_family_details:
+  - word: fate
+    en: a course of events believed to be predetermined; an eventual outcome
+    zh: 命运；结局
+  - word: fateful
+    en: having important and often disastrous consequences
+    zh: 影响重大的；预示灾祸的
+confusables:
+  - word: fateful
+    reason: fatal 致命；fateful 对未来有重大影响，不一定致命。
+    zh_reason: fatal 致命；fateful 对未来有重大影响，不一定致命。
+examples:
+  []
+why_confusing: fatal 致命；fateful 对未来有重大影响，不一定致命。

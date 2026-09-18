@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: catastrophe
+word: catastrophe
+pos: noun
+zh: 异常灾祸；大灾难
+en: a sudden great disaster
+components:
+  - morpheme: cata
+    form: cata-
+    meaning_in_word: down
+    zh: 向下；反对
+    role: prefix
+    is_core: false
+  - morpheme: strophe
+    form: strophe
+    meaning_in_word: turn
+    zh: 转向；倾覆
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 比 disaster 更强调巨大、突发的灾祸。

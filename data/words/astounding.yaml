@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: astounding
+word: astounding
+pos: adjective
+zh: 令人吃惊的
+en: extremely surprising or impressive
+components:
+  - morpheme: ton
+    form: astound
+    meaning_in_word: shock with surprise
+    zh: 雷鸣；震惊
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: causing
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - astound
+word_family_details:
+  - word: astound
+    en: to shock or amaze someone greatly
+    zh: 使惊异
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

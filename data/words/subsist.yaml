@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: subsist
+word: subsist
+pos: verb
+zh: 生存，存在，供养
+en: Means 生存，存在，供养; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sub
+    form: sub-
+    meaning_in_word: under; below / 下；亚
+    zh: 在下、靠近、从属
+    role: prefix
+    is_core: false
+  - morpheme: sist
+    form: sist
+    meaning_in_word: stand; exist / 站立；存在
+    zh: 站立；放置
+    role: root
+    is_core: true
+    related_morphemes:
+      - sta
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exaggerate
+word: exaggerate
+pos: verb
+zh: 夸大；夸张
+en: to describe or represent something as greater than it really is
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out or thoroughly (intensive here) / 加强；彻底
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: agger
+    form: agger
+    meaning_in_word: heap, bring toward / 堆；搬来
+    zh: 堆；搬来
+    role: root
+    is_core: true
+    note: 深层 ad- 向（同化 ag-）+ gerere 搬运 → agger 堆；exaggerate 保留 agger- 表层，再显示内部层。
+    related_morphemes:
+      - ad
+      - gest
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - exaggeration
+word_family_details:
+  - word: exaggeration
+    en: an overstatement of size, importance, or degree
+    zh: 夸大；夸张
+confusables:
+  []
+examples:
+  []
+why_confusing: 

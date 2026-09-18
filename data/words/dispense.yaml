@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dispense
+word: dispense
+pos: verb
+zh: 分配；分发；配给
+en: to distribute, give out, or administer
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: pens
+    form: pense
+    meaning_in_word: compensate / 补偿；赔偿
+    zh: 补偿；赔偿
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dispense with 是固定短语，意思转为“省去”。

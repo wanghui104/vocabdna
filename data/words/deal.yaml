@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deal
+word: deal
+pos: noun/verb
+zh: 交易；协议；份量
+en: an agreement, arrangement, or amount
+components:
+  - morpheme: deal
+    form: deal
+    meaning_in_word: share, divide, handle
+    zh: 交易；份量；处理
+    role: root
+    is_core: true
+word_family:
+  - a-great-deal
+  - a-good-deal
+  - big-deal
+  - deal-with
+word_family_details:
+  - word: a-great-deal
+    en: a large amount or extent
+    zh: 大量；许多
+  - word: a-good-deal
+    en: a fairly large amount
+    zh: 许多；相当多
+  - word: big-deal
+    en: something or someone important, often used ironically
+    zh: 重大事情；重要人物
+  - word: deal-with
+    en: to handle, manage, or cope with a situation or person
+    zh: 处理；应付
+confusables:
+  []
+examples:
+  []
+why_confusing: deal with 是处理；a great deal 是大量。

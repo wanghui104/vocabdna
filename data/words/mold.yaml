@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mold
+word: mold
+pos: noun/verb
+zh: 塑造 / 模子；铸型 / 霉菌
+en: Means 塑造 / 模子；铸型 / 霉菌; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mold
+    form: mold
+    meaning_in_word: 模具；霉/土
+    zh: 模具；霉/土
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mold.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

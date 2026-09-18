@@ -1,0 +1,163 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ance
+display: -ance
+type: suffix
+core_meaning: state; quality
+zh: 状态；性质
+origin: Latin/French
+source_form: ance
+source_meaning: state; quality
+source_meaning_zh: 状态；性质
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: state; quality
+    zh: 状态；性质
+    examples:
+      - acquaintance
+      - appliance
+      - assistance
+      - assistant
+      - attendance
+      - attendant
+      - audience
+      - avoidance
+      - brilliance
+      - circumference
+      - coalescence
+      - coherence
+      - competence
+      - complacence
+      - elegance
+      - eloquence
+      - eminence
+      - endurance
+      - equivalence
+      - essence
+      - evidence
+      - excellence
+      - exuberance
+      - finance
+      - financial
+      - financially
+      - financing
+      - flamboyance
+      - fragrance
+      - ignorance
+      - inheritance
+      - maintenance
+      - performance
+      - perseverance
+      - preponderance
+      - relevance
+      - reliance
+      - renaissance
+      - resemblance
+      - resistance
+      - resonance
+      - significance
+      - temperance
+      - tolerance
+      - utterance
+      - vigilance
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ance -> acquaintance
+  - -ance -> appliance
+  - -ance -> assistance
+  - -ant -> assistant
+  - -ance -> attendance
+  - -ant -> attendant
+  - -ence -> audience
+  - -ance -> avoidance
+  - -ance -> brilliance
+  - -ence -> circumference
+  - -ence -> coalescence
+  - -ence -> coherence
+  - -ence -> competence
+  - -ence -> complacence
+  - -ance -> elegance
+  - -ence -> eloquence
+  - -ence -> eminence
+  - -ance -> endurance
+  - -ence -> equivalence
+  - -ence -> essence
+  - -ence -> evidence
+  - -ence -> excellence
+  - -ance -> exuberance
+  - -ance -> finance
+  - -anc -> financial
+  - -anc -> financially
+  - -anc -> financing
+  - -ance -> flamboyance
+  - -ance -> fragrance
+  - -ance -> ignorance
+  - -ance -> inheritance
+  - -ance -> maintenance
+  - -ance -> performance
+  - -ance -> perseverance
+  - ance -> preponderance
+  - -ance -> relevance
+  - -ance -> reliance
+  - -ance -> renaissance
+  - -ance -> resemblance
+  - -ance -> resistance
+  - -ance -> resonance
+  - -ance -> significance
+  - -ance -> temperance
+  - -ance -> tolerance
+  - -ance -> utterance
+  - -ance -> vigilance
+high_value_words:
+  - acquaintance
+  - appliance
+  - assistance
+  - assistant
+  - attendance
+  - attendant
+  - audience
+  - avoidance
+  - brilliance
+  - circumference
+  - coalescence
+  - coherence
+  - competence
+  - complacence
+  - elegance
+  - eloquence
+  - eminence
+  - endurance
+  - equivalence
+  - essence
+  - evidence
+  - excellence
+  - exuberance
+  - finance
+  - financial
+  - financially
+  - financing
+  - flamboyance
+  - fragrance
+  - ignorance
+  - inheritance
+  - maintenance
+  - performance
+  - perseverance
+  - preponderance
+  - relevance
+  - reliance
+  - renaissance
+  - resemblance
+  - resistance
+  - resonance
+  - significance
+  - temperance
+  - tolerance
+  - utterance
+  - vigilance
+confusable_words:
+  []

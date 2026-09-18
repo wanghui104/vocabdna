@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: style
+display: style
+type: root
+core_meaning: style
+zh: 风格
+origin: Latin/Greek
+source_form: style
+source_meaning: style
+source_meaning_zh: 风格
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: style
+    zh: 风格
+    examples:
+      - stylized
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - style -> stylized
+high_value_words:
+  - stylized
+confusable_words:
+  []

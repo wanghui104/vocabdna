@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coincide
+word: coincide
+pos: verb
+zh: 同时发生；相符合；巧合
+en: to happen at the same time or match exactly
+components:
+  - morpheme: com
+    form: co-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: cid
+    form: incide
+    meaning_in_word: fall, happen
+    zh: 同时发生；巧合
+    role: root
+    is_core: true
+word_family:
+  - coincident
+  - coincidence
+word_family_details:
+  - word: coincident
+    en: Means 一致的，符合的；巧合的; reviewed from the TOEFL source gloss for learner display.
+    zh: 一致的，符合的；巧合的
+  - word: coincidence
+    en: Means 一致；同时发生或同时存在的事; reviewed from the TOEFL source gloss for learner display.
+    zh: 一致；同时发生或同时存在的事
+confusables:
+  []
+examples:
+  []
+why_confusing: coincide with 常见。

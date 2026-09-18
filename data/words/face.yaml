@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: face
+word: face
+pos: verb/noun
+zh: 面对；朝向
+en: to confront or be turned toward
+components:
+  - morpheme: face
+    form: face
+    meaning_in_word: face, appearance / 脸；外表
+    zh: 脸；外表
+    role: root
+    is_core: true
+    note: facies 可能与 facere 做、形成有关，但直接词源为脸、形状；facade/facet 的 fac- 不直接释为做。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

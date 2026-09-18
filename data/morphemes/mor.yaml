@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mor
+display: mor
+type: root
+core_meaning: custom, morale
+zh: 风俗；士气
+origin: Latin
+source_form: Latin moralis / mos
+source_meaning: custom, morale
+source_meaning_zh: 风俗；士气
+related_morphemes:
+  []
+senses:
+  - meaning: custom, morale
+    zh: 风俗；士气
+    examples:
+      - morale
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - mor -> morale
+high_value_words:
+  - morale
+confusable_words:
+  []

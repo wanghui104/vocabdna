@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: colony
+word: colony
+pos: noun
+zh: 殖民地；群体
+en: a settlement controlled by another country, or a group living together
+components:
+  - morpheme: colony
+    form: colony
+    meaning_in_word: settlement
+    zh: 殖民地；群体
+    role: root
+    is_core: true
+word_family:
+  - colonize
+  - colonial
+word_family_details:
+  - word: colonize
+    en: to settle in and take control of a place
+    zh: 建立殖民地；拓殖；定居
+  - word: colonial
+    en: related to a colony or colonial period
+    zh: 殖民的；殖民地的
+confusables:
+  []
+examples:
+  []
+why_confusing: animal colony 指动物群体。

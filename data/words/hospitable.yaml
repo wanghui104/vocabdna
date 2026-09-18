@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hospitable
+word: hospitable
+pos: adjective
+zh: 好客的
+en: Means 好客的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: hospit
+    form: hospit
+    meaning_in_word: 客人；主人
+    zh: 客人；主人
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hospit.
+  - morpheme: able
+    form: -able
+    meaning_in_word: 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:able.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

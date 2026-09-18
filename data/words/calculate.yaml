@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: calculate
+word: calculate
+pos: verb
+zh: 计算；估计
+en: to find a number by math, or estimate carefully
+components:
+  - morpheme: calc
+    form: calcul
+    meaning_in_word: counting pebble
+    zh: 计算；估计
+    role: root
+    is_core: true
+word_family:
+  - calculation
+  - calculator
+word_family_details:
+  - word: calculation
+    en: a mathematical process or careful planning
+    zh: 计算；考虑
+  - word: calculator
+    en: a device or person that calculates numbers
+    zh: 计算器
+confusables:
+  []
+examples:
+  []
+why_confusing: calculate 可指数学计算，也可指权衡估计。

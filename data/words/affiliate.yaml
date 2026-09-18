@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: affiliate
+word: affiliate
+pos: verb
+zh: 使隶属；接纳为成员
+en: to connect a person or organization officially with a larger group
+components:
+  - morpheme: ad
+    form: af-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: fili
+    form: fili
+    meaning_in_word: child, member
+    zh: 孩子；成员
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The clinic is affiliated with the university.
+    zh: 这家诊所隶属于该大学。
+why_confusing: 常用被动 be affiliated with。

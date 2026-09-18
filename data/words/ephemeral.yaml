@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ephemeral
+word: ephemeral
+pos: adjective
+zh: 短暂的
+en: lasting for only a short time
+components:
+  - morpheme: epi
+    form: ep-
+    meaning_in_word: on, upon, in addition / 在上；另外
+    zh: 在上；另外
+    role: prefix
+    is_core: false
+    note: ep- 为元音前变体；ephemeral 中 ph 跨边界反映历史送气变化。
+  - morpheme: hemer
+    form: hemer
+    meaning_in_word: day / 日；天
+    zh: 日；天
+    role: root
+    is_core: true
+    note: 表层 ep- + hemer- + -al。拼写 ph 横跨边界，反映 epi 遇 hemera 的送气 h 后的历史变化；ph 不是独立词根。
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

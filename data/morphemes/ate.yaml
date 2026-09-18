@@ -21,10 +21,217 @@ senses:
       - accommodate
       - accumulate
       - accurate
-      - actuate
       - activate
+      - actuate
+      - adequate
+      - advocate
+      - affectionate
+      - affiliate
+      - aggravate
+      - aggravating
+      - aggregate
+      - allocate
+      - alternate
+      - alternately
+      - animated
+      - annihilate
+      - anticipate
+      - antiquate
+      - antiquated
+      - appreciate
+      - appropriate
+      - approximate
+      - approximately
+      - articulate
+      - assimilate
+      - associate
+      - authenticate
+      - automate
+      - candidate
+      - celebrate
+      - circulate
+      - collaborate
+      - commemorate
+      - communicate
+      - comparative
+      - comparatively
+      - compensate
+      - complicated
+      - confederate
+      - conglomerate
+      - congregate
+      - considerate
+      - constitute
+      - contaminate
+      - contemplate
+      - cooperate
+      - coordinate
+      - culminate
+      - cultivate
+      - decorate
+      - defecate
+      - dehydrate
+      - dehydrated
+      - delegate
+      - deliberate
+      - deliberately
+      - delicate
+      - demonstrate
+      - designate
+      - desolate
+      - desperate
+      - desperately
+      - deteriorate
+      - devastate
+      - devastating
+      - dictate
+      - differentiate
+      - disintegrate
+      - disproportionate
+      - disseminate
+      - dissipate
+      - dissipated
+      - domesticate
+      - domesticated
+      - dominate
+      - donate
+      - duplicate
+      - edentate
+      - educate
+      - educated
+      - elaborate
+      - elaborately
+      - elevate
+      - elevator
+      - eliminate
+      - elongate
+      - emancipate
+      - emigrate
+      - eradicate
+      - escalate
+      - estimate
+      - evaluate
+      - evaporate
+      - eviscerate
+      - exaggerate
+      - excavate
+      - exhilarate
+      - exhilarating
+      - exterminate
+      - fascinate
+      - fascinating
+      - fluctuate
+      - format
+      - formative
+      - formulate
+      - fortunate
+      - fortunately
+      - frustrate
+      - frustrated
+      - frustrating
+      - fumigate
+      - generate
+      - hesitate
+      - hibernate
+      - illiterate
+      - illuminate
+      - illustrate
+      - imitate
+      - immediate
+      - immediately
+      - imperative
+      - impersonate
+      - inactivate
+      - inadequate
+      - inanimate
+      - inappropriate
+      - inaugurate
+      - incapacitate
+      - incorpoarate
+      - indicate
+      - indiscriminately
+      - infiltrate
+      - inflate
+      - informative
+      - integrate
+      - integrated
+      - intermediate
+      - intimate
+      - intricate
+      - intricately
       - inundate
+      - invertebrate
+      - investigate
+      - irradiate
+      - irrigate
+      - irritate
+      - isolate
+      - isolated
+      - iterate
+      - legislate
+      - liberate
+      - literate
+      - locate
+      - mandate
+      - manipulate
+      - mediate
+      - migrate
+      - mitigate
+      - moderate
+      - motivate
+      - navigate
+      - negate
+      - nominate
+      - notate
+      - obligated
+      - obliterate
+      - originate
+      - overestimate
+      - particulate
+      - passionate
+      - penetrate
+      - penetrating
+      - percolate
+      - permeate
+      - perpetuate
+      - pollinate
+      - postulate
+      - precipitate
+      - predominate
+      - prefabricated
+      - primate
+      - proliferate
+      - propagate
+      - radiate
+      - refrigerate
+      - regenerate
+      - regulate
+      - reiterate
+      - rejuvenate
+      - renovate
+      - replicate
+      - rotate
+      - saturate
+      - segregate
+      - semiliterate
+      - silicate
+      - simulate
+      - stimulate
+      - stipulate
+      - temperate
+      - terminate
+      - tolerate
+      - ultimate
+      - undifferentiated
       - undulate
+      - unfortunate
+      - unfortunately
+      - vacate
+      - vaccinate
+      - validate
+      - ventilate
+      - vertebrate
+      - vibrate
 similar_form:
   []
 similar_meaning:
@@ -37,10 +244,217 @@ patterns:
   - -ate -> accommodate
   - -ate -> accumulate
   - -ate -> accurate
-  - -uate -> actuate
   - -ate -> activate
+  - -uate -> actuate
+  - -ate -> adequate
+  - -ate -> advocate
+  - -ate -> affectionate
+  - -ate -> affiliate
+  - -ate -> aggravate
+  - -ate -> aggravating
+  - -ate -> aggregate
+  - -ate -> allocate
+  - -ate -> alternate
+  - -ate -> alternately
+  - -ate -> animated
+  - -ate -> annihilate
+  - -ate -> anticipate
+  - -ate -> antiquate
+  - -ate -> antiquated
+  - -ate -> appreciate
+  - -ate -> appropriate
+  - -ate -> approximate
+  - -ate -> approximately
+  - -ate -> articulate
+  - -ate -> assimilate
+  - -ate -> associate
+  - -icate -> authenticate
+  - -ate -> automate
+  - -ate -> candidate
+  - -ate -> celebrate
+  - -ate -> circulate
+  - -ate -> collaborate
+  - -ate -> commemorate
+  - -icate -> communicate
+  - -ative -> comparative
+  - -ative -> comparatively
+  - -ate -> compensate
+  - -ated -> complicated
+  - -ate -> confederate
+  - -ate -> conglomerate
+  - -ate -> congregate
+  - -ate -> considerate
+  - -ate -> constitute
+  - -ate -> contaminate
+  - -ate -> contemplate
+  - -ate -> cooperate
+  - -ate -> coordinate
+  - -ate -> culminate
+  - -ate -> cultivate
+  - -ate -> decorate
+  - -ate -> defecate
+  - -ate -> dehydrate
+  - -ate -> dehydrated
+  - -ate -> delegate
+  - -ate -> deliberate
+  - -ate -> deliberately
+  - -ate -> delicate
+  - -ate -> demonstrate
+  - -ate -> designate
+  - -ate -> desolate
+  - -ate -> desperate
+  - -ate -> desperately
+  - -ate -> deteriorate
+  - -ate -> devastate
+  - -at -> devastating
+  - -ate -> dictate
+  - -iate -> differentiate
+  - -ate -> disintegrate
+  - -ate -> disproportionate
+  - -ate -> disseminate
+  - -ate -> dissipate
+  - -at -> dissipated
+  - -ate -> domesticate
+  - -at -> domesticated
+  - -ate -> dominate
+  - -ate -> donate
+  - -ate -> duplicate
+  - -ate -> edentate
+  - -ate -> educate
+  - -at -> educated
+  - -ate -> elaborate
+  - -ate -> elaborately
+  - -ate -> elevate
+  - -at -> elevator
+  - -ate -> eliminate
+  - -ate -> elongate
+  - -ate -> emancipate
+  - -ate -> emigrate
+  - -ate -> eradicate
+  - -ate -> escalate
+  - -ate -> estimate
+  - -ate -> evaluate
+  - -ate -> evaporate
+  - -ate -> eviscerate
+  - -ate -> exaggerate
+  - -ate -> excavate
+  - -ate -> exhilarate
+  - -at -> exhilarating
+  - -ate -> exterminate
+  - -ate -> fascinate
+  - -at -> fascinating
+  - -ate -> fluctuate
+  - -at -> format
+  - -at -> formative
+  - -ate -> formulate
+  - -ate -> fortunate
+  - -ate -> fortunately
+  - -ate -> frustrate
+  - -at -> frustrated
+  - -at -> frustrating
+  - -ate -> fumigate
+  - -ate -> generate
+  - -ate -> hesitate
+  - -ate -> hibernate
+  - -ate -> illiterate
+  - -ate -> illuminate
+  - -ate -> illustrate
+  - -ate -> imitate
+  - -ate -> immediate
+  - -ate -> immediately
+  - -ate -> imperative
+  - -ate -> impersonate
+  - -ate -> inactivate
+  - -ate -> inadequate
+  - -ate -> inanimate
+  - -ate -> inappropriate
+  - -ate -> inaugurate
+  - -ate -> incapacitate
+  - -ate -> incorpoarate
+  - -ate -> indicate
+  - -ate -> indiscriminately
+  - -ate -> infiltrate
+  - -ate -> inflate
+  - -at -> informative
+  - -ate -> integrate
+  - -ate -> integrated
+  - -ate -> intermediate
+  - -ate -> intimate
+  - -ate -> intricate
+  - -ate -> intricately
   - -ate -> inundate
+  - -ate -> invertebrate
+  - -ate -> investigate
+  - -ate -> irradiate
+  - -ate -> irrigate
+  - -ate -> irritate
+  - -ate -> isolate
+  - -ate -> isolated
+  - -ate -> iterate
+  - -ate -> legislate
+  - -ate -> liberate
+  - -ate -> literate
+  - -ate -> locate
+  - -ate -> mandate
+  - -ate -> manipulate
+  - -ate -> mediate
+  - -ate -> migrate
+  - -ate -> mitigate
+  - -ate -> moderate
+  - -ate -> motivate
+  - -ate -> navigate
+  - -ate -> negate
+  - -ate -> nominate
+  - -ate -> notate
+  - -ate -> obligated
+  - -ate -> obliterate
+  - -ate -> originate
+  - -ate -> overestimate
+  - -ate -> particulate
+  - -ate -> passionate
+  - -ate -> penetrate
+  - -ate -> penetrating
+  - -ate -> percolate
+  - -ate -> permeate
+  - -ate -> perpetuate
+  - -ate -> pollinate
+  - -ate -> postulate
+  - -ate -> precipitate
+  - -ate -> predominate
+  - -ate -> prefabricated
+  - -ate -> primate
+  - -ate -> proliferate
+  - -ate -> propagate
+  - -ate -> radiate
+  - -ate -> refrigerate
+  - -ate -> regenerate
+  - -ate -> regulate
+  - -ate -> reiterate
+  - -ate -> rejuvenate
+  - -ate -> renovate
+  - -ate -> replicate
+  - -ate -> rotate
+  - -ate -> saturate
+  - -ate -> segregate
+  - -ate -> semiliterate
+  - -ate -> silicate
+  - -ate -> simulate
+  - -ate -> stimulate
+  - -ate -> stipulate
+  - -ate -> temperate
+  - -ate -> terminate
+  - -ate -> tolerate
+  - -ate -> ultimate
+  - -iat -> undifferentiated
   - -ate -> undulate
+  - -ate -> unfortunate
+  - -ate -> unfortunately
+  - -ate -> vacate
+  - -ate -> vaccinate
+  - -ate -> validate
+  - -ate -> ventilate
+  - -ate -> vertebrate
+  - -ate -> vibrate
 high_value_words:
   - abbreviate
   - accelerate
@@ -49,9 +463,216 @@ high_value_words:
   - accommodate
   - accumulate
   - accurate
-  - actuate
   - activate
+  - actuate
+  - adequate
+  - advocate
+  - affectionate
+  - affiliate
+  - aggravate
+  - aggravating
+  - aggregate
+  - allocate
+  - alternate
+  - alternately
+  - animated
+  - annihilate
+  - anticipate
+  - antiquate
+  - antiquated
+  - appreciate
+  - appropriate
+  - approximate
+  - approximately
+  - articulate
+  - assimilate
+  - associate
+  - authenticate
+  - automate
+  - candidate
+  - celebrate
+  - circulate
+  - collaborate
+  - commemorate
+  - communicate
+  - comparative
+  - comparatively
+  - compensate
+  - complicated
+  - confederate
+  - conglomerate
+  - congregate
+  - considerate
+  - constitute
+  - contaminate
+  - contemplate
+  - cooperate
+  - coordinate
+  - culminate
+  - cultivate
+  - decorate
+  - defecate
+  - dehydrate
+  - dehydrated
+  - delegate
+  - deliberate
+  - deliberately
+  - delicate
+  - demonstrate
+  - designate
+  - desolate
+  - desperate
+  - desperately
+  - deteriorate
+  - devastate
+  - devastating
+  - dictate
+  - differentiate
+  - disintegrate
+  - disproportionate
+  - disseminate
+  - dissipate
+  - dissipated
+  - domesticate
+  - domesticated
+  - dominate
+  - donate
+  - duplicate
+  - edentate
+  - educate
+  - educated
+  - elaborate
+  - elaborately
+  - elevate
+  - elevator
+  - eliminate
+  - elongate
+  - emancipate
+  - emigrate
+  - eradicate
+  - escalate
+  - estimate
+  - evaluate
+  - evaporate
+  - eviscerate
+  - exaggerate
+  - excavate
+  - exhilarate
+  - exhilarating
+  - exterminate
+  - fascinate
+  - fascinating
+  - fluctuate
+  - format
+  - formative
+  - formulate
+  - fortunate
+  - fortunately
+  - frustrate
+  - frustrated
+  - frustrating
+  - fumigate
+  - generate
+  - hesitate
+  - hibernate
+  - illiterate
+  - illuminate
+  - illustrate
+  - imitate
+  - immediate
+  - immediately
+  - imperative
+  - impersonate
+  - inactivate
+  - inadequate
+  - inanimate
+  - inappropriate
+  - inaugurate
+  - incapacitate
+  - incorpoarate
+  - indicate
+  - indiscriminately
+  - infiltrate
+  - inflate
+  - informative
+  - integrate
+  - integrated
+  - intermediate
+  - intimate
+  - intricate
+  - intricately
   - inundate
+  - invertebrate
+  - investigate
+  - irradiate
+  - irrigate
+  - irritate
+  - isolate
+  - isolated
+  - iterate
+  - legislate
+  - liberate
+  - literate
+  - locate
+  - mandate
+  - manipulate
+  - mediate
+  - migrate
+  - mitigate
+  - moderate
+  - motivate
+  - navigate
+  - negate
+  - nominate
+  - notate
+  - obligated
+  - obliterate
+  - originate
+  - overestimate
+  - particulate
+  - passionate
+  - penetrate
+  - penetrating
+  - percolate
+  - permeate
+  - perpetuate
+  - pollinate
+  - postulate
+  - precipitate
+  - predominate
+  - prefabricated
+  - primate
+  - proliferate
+  - propagate
+  - radiate
+  - refrigerate
+  - regenerate
+  - regulate
+  - reiterate
+  - rejuvenate
+  - renovate
+  - replicate
+  - rotate
+  - saturate
+  - segregate
+  - semiliterate
+  - silicate
+  - simulate
+  - stimulate
+  - stipulate
+  - temperate
+  - terminate
+  - tolerate
+  - ultimate
+  - undifferentiated
   - undulate
+  - unfortunate
+  - unfortunately
+  - vacate
+  - vaccinate
+  - validate
+  - ventilate
+  - vertebrate
+  - vibrate
 confusable_words:
   []

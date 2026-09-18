@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chronological
+word: chronological
+pos: adjective
+zh: 按年代顺序排列的
+en: arranged in the order in which events happened
+components:
+  - morpheme: chron
+    form: chron
+    meaning_in_word: time
+    zh: 时间
+    role: root
+    is_core: true
+  - morpheme: log
+    form: log
+    meaning_in_word: study/order
+    zh: 原木；记录
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ical
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - chronology
+word_family_details:
+  - word: chronology
+    en: the order in which events happened, or a timeline
+    zh: 年代学；年表
+confusables:
+  []
+examples:
+  []
+why_confusing: chronological order 是按时间顺序。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dumb
+word: dumb
+pos: adjective
+zh: 不能说话的（指人时有冒犯风险）；缄默的
+en: unable to speak; unwilling to speak
+components:
+  - morpheme: dumb
+    form: dumb
+    meaning_in_word: unable or unwilling to speak / 不能或不愿说话
+    zh: 不能或不愿说话
+    role: root
+    is_core: true
+    note: 本族简单词，b 不发音；现代指人不能说话时可能冒犯，释义标注用法。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

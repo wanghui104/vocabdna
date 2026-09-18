@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: heal
+display: heal
+type: root
+core_meaning: draft meaning for heal
+zh: 康复，治愈
+origin: Unknown
+source_form: TOEFL draft opaque stem: heal
+source_meaning: draft learner stem for heal
+source_meaning_zh: 康复，治愈
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for heal
+    zh: 康复，治愈
+    examples:
+      - heal
+      - healing
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - heal -> heal
+  - heal -> healing
+high_value_words:
+  - heal
+  - healing
+confusable_words:
+  []

@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forestall
+word: forestall
+pos: verb
+zh: 预先阻止；抢先防止
+en: to prevent or delay by acting in advance
+components:
+  - morpheme: fore
+    form: fore-
+    meaning_in_word: before, ancestor / 在前；祖先
+    zh: 在前；祖先
+    role: prefix
+    is_core: false
+  - morpheme: stall
+    form: stall
+    meaning_in_word: standing place, position / 站立位置；摊位
+    zh: 站立位置；摊位
+    role: root
+    is_core: true
+    note: forestall 是提前占位以阻止；不是 forest 森林 + all。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

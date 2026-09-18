@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: commonplace
+word: commonplace
+pos: adjective
+zh: 平凡的；普通的
+en: ordinary and not interesting
+components:
+  - morpheme: common
+    form: common
+    meaning_in_word: ordinary
+    zh: 共同；公共；社区
+    role: root
+    is_core: true
+  - morpheme: place
+    form: place
+    meaning_in_word: place
+    zh: 地方；场所
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: commonplace idea/event/object 常见。

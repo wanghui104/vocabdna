@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dinosaur
+word: dinosaur
+pos: noun
+zh: 恐龙
+en: a large extinct reptile of the Mesozoic era
+components:
+  - morpheme: deino
+    form: dino-
+    meaning_in_word: terrible, huge
+    zh: 可怕的；巨大惊人的
+    role: combining_form
+    is_core: true
+  - morpheme: saur
+    form: saur-
+    meaning_in_word: lizard
+    zh: 蜥蜴
+    role: combining_form
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dinosaur 也可比喻过时的人或制度。

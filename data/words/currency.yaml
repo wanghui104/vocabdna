@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: currency
+word: currency
+pos: noun
+zh: 通货；货币
+en: money that is used and accepted in a country or system
+components:
+  - morpheme: curr
+    form: curr
+    meaning_in_word: run, flow, course / 跑；流动；路线
+    zh: 跑；流动；路线
+    role: root
+    is_core: true
+    note: 表层 current → currency；Word DNA curr- 跑、流通 + -ency 状态，-ent 与 -ency 为相应派生结尾。
+  - morpheme: cy
+    form: -ency
+    meaning_in_word: quality, state / 性质、状态
+    zh: 状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: current 表示当前的或水流；currency 表示货币或流通性。

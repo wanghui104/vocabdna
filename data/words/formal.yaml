@@ -1,0 +1,55 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: formal
+word: formal
+pos: adjective
+zh: 正式的；合乎礼仪的
+en: following established rules or conventions
+components:
+  - morpheme: form
+    form: form
+    meaning_in_word: form, shape / 形式；符合
+    zh: 形式；符合
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - formalized
+  - formalize
+  - formalization
+  - formally
+  - formality
+word_family_details:
+  - word: formalized
+    en: given an official or definite structure
+    zh: 正式化的；规范化的
+  - word: formalize
+    en: to give an official or definite form to
+    zh: 使正式化；使规范化
+  - word: formalization
+    en: the process of giving an official structure
+    zh: 正式化；形式化
+  - word: formally
+    en: in an official or conventional manner
+    zh: 正式地
+  - word: formality
+    en: a required procedure or observance of convention
+    zh: 正式手续；拘谨
+confusables:
+  - word: former
+    reason: 
+    zh_reason: 
+  - word: form
+    reason: 
+    zh_reason: 
+  - word: formidable
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

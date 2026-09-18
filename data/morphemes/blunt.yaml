@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blunt
+display: blunt
+type: root
+core_meaning: blunt, dull
+zh: 钝；直率
+origin: Unknown
+source_form: Middle English blunt
+source_meaning: dull, not sharp
+source_meaning_zh: 钝的
+related_morphemes:
+  []
+senses:
+  - meaning: blunt, dull
+    zh: 钝；直率
+    examples:
+      - blunt
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - blunt -> blunt
+high_value_words:
+  - blunt
+confusable_words:
+  []

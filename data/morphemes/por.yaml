@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: por
+display: por
+type: root
+core_meaning: pore; passage
+zh: 孔；通道
+origin: teaching morphology
+source_form: por
+source_meaning: pore; passage
+source_meaning_zh: 孔；通道
+related_morphemes:
+  []
+senses:
+  - meaning: pore; passage
+    zh: 孔；通道
+    examples:
+      - porous
+      - portray
+      - portrayal
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - por -> porous
+  - por -> portray
+  - por -> portrayal
+high_value_words:
+  - porous
+  - portray
+  - portrayal
+confusable_words:
+  []

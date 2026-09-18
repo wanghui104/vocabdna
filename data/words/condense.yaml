@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: condense
+word: condense
+pos: verb
+zh: 使浓缩；使冷凝；精简
+en: to make denser, change vapor to liquid, or make writing shorter
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: dense
+    form: dense
+    meaning_in_word: thick, close
+    zh: 浓缩；冷凝
+    role: root
+    is_core: true
+word_family:
+  - condenser
+word_family_details:
+  - word: condenser
+    en: a device that condenses vapor, concentrates light, or stores electric charge
+    zh: 冷凝器；电容器
+confusables:
+  []
+examples:
+  []
+why_confusing: condense text；water vapor condenses。

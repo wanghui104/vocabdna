@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compromise
+word: compromise
+pos: verb/noun
+zh: 妥协，折衷
+en: Means 妥协，折衷; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together / 共同
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: promise
+    form: promise
+    meaning_in_word: promise / promise
+    zh: promise
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: comprise
+    reason: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+    zh_reason: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: congested
+word: congested
+pos: adjective
+zh: 堵塞的；拥挤的
+en: too crowded or blocked
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: gest
+    form: gest
+    meaning_in_word: pile up
+    zh: 承载；拥塞
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having been
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - congestion
+word_family_details:
+  - word: congestion
+    en: a crowded or blocked condition, especially traffic or nasal passages
+    zh: 拥挤；拥塞；堵塞
+confusables:
+  []
+examples:
+  []
+why_confusing: congested roads/city/nose 常见。

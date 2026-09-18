@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dentistry
+word: dentistry
+pos: noun
+zh: 牙科
+en: the profession or science of caring for teeth
+components:
+  - morpheme: dent
+    form: dent
+    meaning_in_word: tooth, dent, indentation / 牙；凹痕；齿状缺口
+    zh: 牙齿；齿状切口
+    role: root
+    is_core: true
+    note: 表层 dentist + -ry；内部 dent- 牙齿 + -ist 从业者 + -ry 行业。
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person concerned with / 从事……的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+  - morpheme: ry
+    form: -ry
+    meaning_in_word: practice, occupation, collective state / 行业；技艺；集合状态
+    zh: 行业；技艺；集合状态
+    role: suffix
+    is_core: false
+word_family:
+  - dentist
+word_family_details:
+  - word: dentist
+    en: a doctor who treats teeth and gums
+    zh: 牙科医生
+confusables:
+  []
+examples:
+  []
+why_confusing: dentistry 是牙科学/牙科行业；dentist 是牙医。

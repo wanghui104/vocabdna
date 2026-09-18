@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: plain
+display: plain
+type: root
+core_meaning: complain
+zh: 抱怨；怨言
+origin: Latin
+source_form: Latin plangere / planctus
+source_meaning: strike, lament
+source_meaning_zh: 哀叹；抱怨
+related_morphemes:
+  []
+senses:
+  - meaning: complain
+    zh: 抱怨；怨言
+    examples:
+      - complain
+      - complaint
+      - floodplain
+      - plain
+      - plainly
+      - plainspoken
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - plain -> complain
+  - plaint -> complaint
+  - plain -> floodplain
+  - plain -> plain
+  - plain -> plainly
+  - plain -> plainspoken
+high_value_words:
+  - complain
+  - complaint
+  - floodplain
+  - plain
+  - plainly
+  - plainspoken
+confusable_words:
+  []

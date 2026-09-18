@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: betray
+word: betray
+pos: verb
+zh: 出卖，背叛
+en: Means 出卖，背叛; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: be
+    form: be-
+    meaning_in_word: by; away / 在旁；离开
+    zh: 使成为、加强
+    role: prefix
+    is_core: false
+  - morpheme: tray
+    form: tray
+    meaning_in_word: tray / 托盘
+    zh: 背叛；暴露
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: untouched
+word: untouched
+pos: adjective
+zh: 未触及的
+en: Means 未触及的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: un
+    form: un-
+    meaning_in_word: not; reverse / 不；反向
+    zh: 不；相反
+    role: prefix
+    is_core: false
+  - morpheme: touch
+    form: touch
+    meaning_in_word: touch / 触及
+    zh: 触摸；感动
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past participle / 过去分词
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: premium
+word: premium
+pos: noun
+zh: 保险金；奖金；高级的，高价的
+en: Means 保险金；奖金；高级的，高价的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: premium
+    form: premium
+    meaning_in_word: premium / premium
+    zh: premium
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

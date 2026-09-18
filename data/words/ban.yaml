@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ban
+word: ban
+pos: verb/noun
+zh: 禁止；禁令
+en: to officially forbid something, or an official prohibition
+components:
+  - morpheme: ban
+    form: ban
+    meaning_in_word: proclaim, prohibit
+    zh: 禁止
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: ban 可作动词也可作名词。

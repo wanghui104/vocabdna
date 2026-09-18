@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: surrender
+word: surrender
+pos: verb
+zh: 交出，放弃；投降
+en: Means 交出，放弃；投降; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sur
+    form: sur-
+    meaning_in_word: over; above / 在上；交出
+    zh: 在上；超过
+    role: prefix
+    is_core: false
+  - morpheme: render
+    form: render
+    meaning_in_word: render / render
+    zh: render
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

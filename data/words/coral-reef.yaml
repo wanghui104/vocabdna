@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coral-reef
+word: coral reef
+pos: noun
+zh: 珊瑚礁
+en: a reef formed from coral structures in warm seas
+components:
+  - morpheme: coral
+    form: coral
+    meaning_in_word: coral
+    zh: 珊瑚
+    role: root
+    is_core: true
+  - morpheme: reef
+    form: reef
+    meaning_in_word: reef
+    zh: 礁；暗礁
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: source gloss says corals; canonical term is coral reef.

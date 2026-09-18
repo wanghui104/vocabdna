@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: instrumental
+word: instrumental
+pos: adjective
+zh: 有帮助的，可作为手段的 / 器具的
+en: Means 有帮助的，可作为手段的 / 器具的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: stru
+    form: stru
+    meaning_in_word: 建造；安排
+    zh: 建造；安排
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:stru.
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ment.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+word_family:
+  - instrument
+  - instrumentalist
+word_family_details:
+  - word: instrument
+    en: Means 仪器；工具；乐器; reviewed from the TOEFL source gloss for learner display.
+    zh: 仪器；工具；乐器
+  - word: instrumentalist
+    en: Means 器乐家，器乐演奏者; reviewed from the TOEFL source gloss for learner display.
+    zh: 器乐家，器乐演奏者
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

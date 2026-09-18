@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foster
+word: foster
+pos: verb/adjective
+zh: 促进；培养
+en: to encourage development
+components:
+  - morpheme: foster
+    form: foster
+    meaning_in_word: nourishment, food / 养育；食物
+    zh: 养育；食物
+    role: root
+    is_core: true
+    note: 与 food/feed 的本族食物词族相连；现代 foster 不拆成 fost + 施事 -er。
+    related_morphemes:
+      - feed
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

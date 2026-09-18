@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intimacy
+word: intimacy
+pos: noun
+zh: 亲密，熟悉
+en: Means 亲密，熟悉; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: intim
+    form: intim
+    meaning_in_word: intim
+    zh: intim
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:intim.
+  - morpheme: acy
+    form: acy
+    meaning_in_word: acy
+    zh: acy
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:acy.
+word_family:
+  - intimate
+word_family_details:
+  - word: intimate
+    en: Means 亲密的 / （知识）渊博的; reviewed from the TOEFL source gloss for learner display.
+    zh: 亲密的 / （知识）渊博的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

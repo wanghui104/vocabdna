@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frame
+word: frame
+pos: noun/verb
+zh: 框；架
+en: a structure surrounding or supporting something
+components:
+  - morpheme: frame
+    form: frame
+    meaning_in_word: advance, make ready / 推进；做成
+    zh: 推进；做成
+    role: root
+    is_core: true
+    note: 现代框架义从组织、构造发展；不是 Latin forma 的直接借词。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

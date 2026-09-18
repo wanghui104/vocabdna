@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: autonomous
+word: autonomous
+pos: adjective
+zh: 自治的；独立的
+en: able to govern itself or act independently
+components:
+  - morpheme: auto
+    form: auto-
+    meaning_in_word: self
+    zh: 自己；自身
+    role: combining_form
+    is_core: true
+  - morpheme: nom
+    form: nom
+    meaning_in_word: law, rule
+    zh: 安排；规律；法则
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: having
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - autonomy
+word_family_details:
+  - word: autonomy
+    en: the right or ability to govern oneself or act independently
+    zh: 自治；自治权；自主
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

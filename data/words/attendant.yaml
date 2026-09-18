@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: attendant
+word: attendant
+pos: noun/adjective
+zh: 侍者；护理人员；伴随的
+en: a person who serves or something that accompanies another thing
+components:
+  - morpheme: ad
+    form: at-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: tend
+    form: tend
+    meaning_in_word: stretch, serve
+    zh: 伸展；指向
+    role: root
+    is_core: true
+  - morpheme: ance
+    form: -ant
+    meaning_in_word: person or quality
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - attend
+  - attendance
+word_family_details:
+  - word: attend
+    en: to be present at an event or institution, or to care for someone
+    zh: 参加；入学；照顾
+  - word: attendance
+    en: the act of being present, or the number of people present
+    zh: 出席；出席人数
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

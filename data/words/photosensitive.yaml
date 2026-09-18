@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: photosensitive
+word: photosensitive
+pos: adjective
+zh: [物] 感光性的
+en: Means [物] 感光性的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: photo
+    form: photo
+    meaning_in_word: light / 光
+    zh: 光
+    role: combining
+    is_core: false
+  - morpheme: sens
+    form: sens
+    meaning_in_word: feel / 感觉
+    zh: 感觉；感知
+    role: root
+    is_core: true
+  - morpheme: itive
+    form: itive
+    meaning_in_word: itive / itive
+    zh: itive
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

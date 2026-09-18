@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dom
+display: -dom
+type: suffix
+core_meaning: state
+zh: 状态；领域
+origin: Old English
+source_form: Old English -dom
+source_meaning: state, condition, domain
+source_meaning_zh: 状态；领域
+related_morphemes:
+  []
+senses:
+  - meaning: state
+    zh: 状态；领域
+    examples:
+      - boredom
+      - kingdom
+      - stardom
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -dom -> boredom
+  - -dom -> kingdom
+  - -dom -> stardom
+high_value_words:
+  - boredom
+  - kingdom
+  - stardom
+confusable_words:
+  []

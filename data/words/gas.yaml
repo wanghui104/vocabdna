@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gas
+word: gas
+pos: noun
+zh: 气体
+en: a substance that expands to fill its container
+components:
+  - morpheme: gas
+    form: gas
+    meaning_in_word: gas / 气体
+    zh: 气体
+    role: root
+    is_core: true
+    note: Van Helmont 创词，通常认为受 Greek chaos 启发；保留 gas，注明词源联系的可能性，不切成 g + as。
+word_family:
+  - gaseous
+word_family_details:
+  - word: gaseous
+    en: in the form of a gas; relating to gas
+    zh: 气态的；气体的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

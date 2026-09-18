@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fur
+word: fur
+pos: noun
+zh: 软毛
+en: the thick soft hair of certain animals
+components:
+  - morpheme: fur
+    form: fur
+    meaning_in_word: line a garment, lining / 衣里；毛皮
+    zh: 衣里；毛皮
+    role: root
+    is_core: true
+    note: fur 来自为衣物衬里，furry = furr- + -y，双 r 是拼写规则；不是 furious。
+word_family:
+  - furry
+word_family_details:
+  - word: furry
+    en: covered with or resembling fur
+    zh: 毛茸茸的；有毛皮的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

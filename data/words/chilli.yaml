@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chilli
+word: chilli
+pos: noun
+zh: 红辣椒
+en: a hot pepper used in cooking
+components:
+  - morpheme: chilli
+    form: chilli
+    meaning_in_word: hot pepper
+    zh: 红辣椒
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: chill
+    reason: chilli/chili/chile 拼法因地区不同；和 chill 不同源。
+    zh_reason: chilli/chili/chile 拼法因地区不同；和 chill 不同源。
+  - word: chilly
+    reason: chilli/chili/chile 拼法因地区不同；和 chill 不同源。
+    zh_reason: chilli/chili/chile 拼法因地区不同；和 chill 不同源。
+examples:
+  []
+why_confusing: chilli/chili/chile 拼法因地区不同；和 chill 不同源。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assert
+word: assert
+pos: verb
+zh: 声称；坚持
+en: to state or defend something firmly as true
+components:
+  - morpheme: ad
+    form: as-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: ser
+    form: sert
+    meaning_in_word: join, put into position
+    zh: 连接；排成一列
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: assess
+    reason: assert 是坚定声称；assess 是评估判断。
+    zh_reason: assert 是坚定声称；assess 是评估判断。
+examples:
+  []
+why_confusing: assert 是坚定声称；assess 是评估判断。

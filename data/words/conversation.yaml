@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conversation
+word: conversation
+pos: noun
+zh: 会话；非正式会谈
+en: informal spoken exchange between people
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: vers
+    meaning_in_word: turn
+    zh: 转、转向
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: process
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - converse
+  - conversational
+  - conversant
+word_family_details:
+  - word: converse
+    en: Means 谈话，交谈; reviewed from the TOEFL source gloss for learner display.
+    zh: 谈话，交谈
+  - word: conversational
+    en: related to conversation or informal speech
+    zh: 对话的；会话的；口语化的
+  - word: conversant
+    en: familiar with or knowledgeable about something
+    zh: 熟悉的；通晓的
+confusables:
+  []
+examples:
+  []
+why_confusing: have a conversation with someone.

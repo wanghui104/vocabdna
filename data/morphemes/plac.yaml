@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: plac
+display: plac
+type: root
+core_meaning: complacence
+zh: 自满
+origin: Latin
+source_form: Latin placere
+source_meaning: please
+source_meaning_zh: 使满意
+related_morphemes:
+  []
+senses:
+  - meaning: complacence
+    zh: 自满
+    examples:
+      - complacence
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - plac -> complacence
+high_value_words:
+  - complacence
+confusable_words:
+  []

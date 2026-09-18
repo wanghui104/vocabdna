@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: concomitant
+word: concomitant
+pos: adjective/noun
+zh: 伴随的；伴随物
+en: happening with something else, or something that accompanies it
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: comit
+    form: comitant
+    meaning_in_word: accompanying
+    zh: 伴随
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having quality
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 偏正式，常见 concomitant effect/change。

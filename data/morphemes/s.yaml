@@ -1,0 +1,106 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: s
+display: -s
+type: suffix
+core_meaning: plural or institutional form
+zh: 复数；机构化形式
+origin: Old English
+source_form: Old English -s / -es
+source_meaning: plural or possessive ending
+source_meaning_zh: 复数或所有格后缀
+source_note: Plural/possessive suffix; corrected during TOEFL 5400 batch 4801-5000 root-type audit.
+related_morphemes:
+  []
+senses:
+  - meaning: plural or institutional form
+    zh: 复数；机构化形式
+    examples:
+      - credentials
+      - crossbones
+      - customs
+      - dues
+      - ethics
+      - furnishings
+      - genetics
+      - graphics
+      - gymnastics
+      - hands-on
+      - headquarters
+      - in terms of
+      - laurels
+      - living quarters
+      - measures
+      - nowadays
+      - outdoors
+      - pincers
+      - proceeds
+      - ruins
+      - savings
+      - scissors
+      - sideways
+      - slip one's mind
+      - strings
+      - woods
+      - hurdles
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -s -> credentials
+  - -s -> crossbones
+  - -s -> customs
+  - -s -> dues
+  - -s -> ethics
+  - -s -> furnishings
+  - -s -> genetics
+  - -s -> graphics
+  - -s -> gymnastics
+  - -s -> hands-on
+  - s -> headquarters
+  - -s -> in terms of
+  - -s -> laurels
+  - -s -> living quarters
+  - -s -> measures
+  - s -> nowadays
+  - -s -> outdoors
+  - -s -> pincers
+  - s -> proceeds
+  - -s -> ruins
+  - -s -> savings
+  - -s -> scissors
+  - -s -> sideways
+  - -s -> slip one's mind
+  - -s -> strings
+  - -s -> woods
+  - -s -> hurdles
+high_value_words:
+  - credentials
+  - crossbones
+  - customs
+  - dues
+  - ethics
+  - furnishings
+  - genetics
+  - graphics
+  - gymnastics
+  - hands-on
+  - headquarters
+  - in terms of
+  - laurels
+  - living quarters
+  - measures
+  - nowadays
+  - outdoors
+  - pincers
+  - proceeds
+  - ruins
+  - savings
+  - scissors
+  - sideways
+  - slip one's mind
+  - strings
+  - woods
+  - hurdles
+confusable_words:
+  []

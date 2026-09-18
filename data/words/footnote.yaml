@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: footnote
+word: footnote
+pos: noun/verb
+zh: 脚注；加脚注
+en: a note at the bottom of a page; to add such a note
+components:
+  - morpheme: foot
+    form: foot
+    meaning_in_word: foot, bottom / 脚；底部
+    zh: 脚；底部
+    role: root
+    is_core: true
+    note: footnote = foot 页底 + note 注释。
+  - morpheme: note
+    form: note
+    meaning_in_word: mark, note / 记号；注释
+    zh: 记号；注释
+    role: root
+    is_core: true
+    note: 经法语借入的简单词干；footnote 不是一个不可分词根。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

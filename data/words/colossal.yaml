@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: colossal
+word: colossal
+pos: adjective
+zh: 巨大的
+en: extremely large
+components:
+  - morpheme: coloss
+    form: colossal
+    meaning_in_word: giant
+    zh: 巨大的
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

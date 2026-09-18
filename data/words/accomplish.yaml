@@ -34,9 +34,7 @@ word_family_details:
     en: something successfully completed or achieved
     zh: 成就
 confusables:
-  - word: complete
-    reason: accomplish 强调完成结果；complete 更普通。
-    zh_reason: accomplish 强调完成结果；complete 更普通。
+  []
 examples:
   - en: We accomplished our goal.
     zh: 我们实现了目标。

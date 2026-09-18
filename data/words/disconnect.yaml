@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disconnect
+word: disconnect
+pos: verb
+zh: 断开；分离
+en: to break a connection or separate from a supply or network
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: nex
+    form: connect
+    meaning_in_word: join
+    zh: 连接；附加
+    role: root
+    is_core: true
+word_family:
+  - connect
+  - connection
+word_family_details:
+  - word: connect
+    en: to join, link, or associate things
+    zh: 连接；联系；联合
+  - word: connection
+    en: a link or relationship between people or things
+    zh: 连接；联系；关系
+confusables:
+  []
+examples:
+  []
+why_confusing: disconnect from Wi-Fi/power; emotional disconnect 可作名词。

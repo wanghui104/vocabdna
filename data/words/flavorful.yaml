@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flavorful
+word: flavorful
+pos: adjective
+zh: 味道浓郁的；美味的
+en: having a rich or pleasant taste
+components:
+  - morpheme: flavor
+    form: flavor
+    meaning_in_word: smell, blow / 气味；吹
+    zh: 气味；吹
+    role: root
+    is_core: true
+    note: flavor 经法语来自 flator，深层 flare 吹 + -or 名词层；中间 v 为历史音变/类推，不等于 flare 闪耀。
+    related_morphemes:
+      - or-state
+  - morpheme: ful
+    form: -ful
+    meaning_in_word: full of / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - flavor
+  - flavoring
+word_family_details:
+  - word: flavor
+    en: the distinctive taste of something; to give something a particular taste
+    zh: 风味；味道；调味
+  - word: flavoring
+    en: a substance added to give food or drink a particular taste
+    zh: 调味料
+confusables:
+  []
+examples:
+  []
+why_confusing: 

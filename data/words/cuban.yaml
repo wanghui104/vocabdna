@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cuban
+word: Cuban
+pos: adjective/noun
+zh: 古巴的；古巴人
+en: from or related to Cuba, or a person from Cuba
+components:
+  - morpheme: cuba
+    form: Cuba
+    meaning_in_word: Cuba
+    zh: 古巴；古巴的
+    role: root
+    is_core: true
+  - morpheme: an
+    form: -an
+    meaning_in_word: person or adjective
+    zh: 不；无
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 首字母通常大写。

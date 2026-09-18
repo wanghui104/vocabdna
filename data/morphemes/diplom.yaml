@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diplom
+display: diplom
+type: root
+core_meaning: folded document, official paper
+zh: 折叠文书；官方文件
+origin: Greek
+source_form: Greek diploma
+source_meaning: folded paper, official document
+source_meaning_zh: 折叠文书；官方文件
+source_note: 表层 diplom-/diplomat- 官方文书；Greek diploma 是 diploun 折成两层的结果名词：diplo- 双层 + -ma 结果。diplomat- 为 diploma 的斜格词干；diplomatic = diplomat- + -ic。diplomacy 经法语 diplomatie，名词构词涉及 t/c 变化。
+related_morphemes:
+  - di-two
+senses:
+  - meaning: folded document, official paper
+    zh: 折叠文书；官方文件
+    examples:
+      - diplomacy
+      - diplomatic
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - diplom -> diplomacy
+  - diplomat -> diplomatic
+high_value_words:
+  - diplomacy
+  - diplomatic
+confusable_words:
+  []

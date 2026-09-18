@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: unify
+word: unify
+pos: verb
+zh: 统一，使成一体
+en: Means 统一，使成一体; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: uni
+    form: uni
+    meaning_in_word: one / 一
+    zh: 一
+    role: root
+    is_core: true
+  - morpheme: ify
+    form: -ify
+    meaning_in_word: make; represent / 使成；代表
+    zh: 使成为
+    role: suffix
+    is_core: false
+    related_morphemes:
+      - fac
+word_family:
+  - uniform
+  - uniformity
+  - unique
+  - unity
+  - universal
+  - universe
+word_family_details:
+  - word: uniform
+    en: Means 制服；统一的；始终如一的; reviewed from the TOEFL source gloss for learner display.
+    zh: 制服；统一的；始终如一的
+  - word: uniformity
+    en: Means 同样，一式; reviewed from the TOEFL source gloss for learner display.
+    zh: 同样，一式
+  - word: unique
+    en: Means 独一无二的；独特的; reviewed from the TOEFL source gloss for learner display.
+    zh: 独一无二的；独特的
+  - word: unity
+    en: Means 结合，一致; reviewed from the TOEFL source gloss for learner display.
+    zh: 结合，一致
+  - word: universal
+    en: Means 宇宙的；普遍的；共同的; reviewed from the TOEFL source gloss for learner display.
+    zh: 宇宙的；普遍的；共同的
+  - word: universe
+    en: Means 宇宙，世界; reviewed from the TOEFL source gloss for learner display.
+    zh: 宇宙，世界
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

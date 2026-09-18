@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cry
+display: cry
+type: root
+core_meaning: cry out
+zh: 呼喊
+origin: teaching morphology
+source_form: cry
+source_meaning: cry out
+source_meaning_zh: 呼喊
+related_morphemes:
+  []
+senses:
+  - meaning: cry out
+    zh: 呼喊
+    examples:
+      - outcry
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - cry -> outcry
+high_value_words:
+  - outcry
+confusable_words:
+  []

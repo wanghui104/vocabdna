@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: concrete
+word: concrete
+pos: noun/adjective
+zh: 混凝土；水泥
+en: a hard building material made from cement, sand, stone, and water
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: cresc
+    form: crete
+    meaning_in_word: grow/harden together
+    zh: 凝结；具体化
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: abstract
+    reason: concrete idea/evidence 和 concrete material 两个常见义。
+    zh_reason: concrete idea/evidence 和 concrete material 两个常见义。
+examples:
+  []
+why_confusing: concrete idea/evidence 和 concrete material 两个常见义。

@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: edge
+display: edge
+type: root
+core_meaning: edge, border, leading side
+zh: 边缘；前沿
+origin: Old English
+source_form: Old English ecg
+source_meaning: edge, blade
+source_meaning_zh: 边缘；刀刃
+source_note: Old English ecg 刀刃、边缘；简单本族词，现代不拆为 ed- + -ge。
+related_morphemes:
+  []
+senses:
+  - meaning: edge, border, leading side
+    zh: 边缘；前沿
+    examples:
+      - at the cutting edge of
+      - edge
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - edge -> at the cutting edge of
+  - edge -> edge
+high_value_words:
+  - at the cutting edge of
+  - edge
+confusable_words:
+  []

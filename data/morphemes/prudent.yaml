@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prudent
+display: prudent
+type: root
+core_meaning: prudent
+zh: prudent
+origin: teaching morphology
+source_form: prudent
+source_meaning: prudent
+source_meaning_zh: prudent
+related_morphemes:
+  []
+senses:
+  - meaning: prudent
+    zh: prudent
+    examples:
+      - prudent
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - prudent -> prudent
+high_value_words:
+  - prudent
+confusable_words:
+  []

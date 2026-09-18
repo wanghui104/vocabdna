@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deny
+word: deny
+pos: verb
+zh: 否认；否定；拒绝；剥夺
+en: to say something is not true, refuse a request, or withhold something
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away, completely
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: neg
+    form: ny
+    meaning_in_word: deny, say no
+    zh: 否认；拒绝
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: deny doing something；deny someone something 表示拒绝给某人某物。

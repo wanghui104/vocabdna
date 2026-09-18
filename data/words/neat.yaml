@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: neat
+word: neat
+pos: adjective
+zh: 整洁的；整齐的
+en: Means 整洁的；整齐的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: neat
+    form: neat
+    meaning_in_word: 整洁；明亮
+    zh: 整洁；明亮
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:neat.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

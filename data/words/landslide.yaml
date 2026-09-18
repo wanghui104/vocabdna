@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: landslide
+word: landslide
+pos: noun
+zh: [地]山崩
+en: Means [地]山崩; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: land
+    form: land
+    meaning_in_word: land / 土地
+    zh: 土地
+    role: root
+    is_core: true
+  - morpheme: slide
+    form: slide
+    meaning_in_word: slide / 滑动
+    zh: 滑动
+    role: root
+    is_core: true
+word_family:
+  - landing
+  - landmass
+  - landscape
+  - slide
+word_family_details:
+  - word: landing
+    en: Means 着陆，降落; reviewed from the TOEFL source gloss for learner display.
+    zh: 着陆，降落
+  - word: landmass
+    en: Means 大片陆地; reviewed from the TOEFL source gloss for learner display.
+    zh: 大片陆地
+  - word: landscape
+    en: Means 风景，山水；风景画; reviewed from the TOEFL source gloss for learner display.
+    zh: 风景，山水；风景画
+  - word: slide
+    en: Means （使）滑动，（使）滑行；幻灯片；滑，滑动; reviewed from the TOEFL source gloss for learner display.
+    zh: （使）滑动，（使）滑行；幻灯片；滑，滑动
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rational
+word: rational
+pos: adjective
+zh: 理性的，合理的
+en: Means 理性的，合理的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ration
+    form: ration
+    meaning_in_word: reason; portion / 理性；配给
+    zh: 理性；配给
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 相关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - ration
+  - rationing
+word_family_details:
+  - word: ration
+    en: Means 定量，配给量；定量配给; reviewed from the TOEFL source gloss for learner display.
+    zh: 定量，配给量；定量配给
+  - word: rationing
+    en: Means （食物等的）配给; reviewed from the TOEFL source gloss for learner display.
+    zh: （食物等的）配给
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

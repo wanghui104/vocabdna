@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: simil
+display: simil
+type: root
+core_meaning: similar
+zh: 相似
+origin: Latin
+source_form: Latin similis, simile
+source_meaning: similar
+source_meaning_zh: 相似
+source_note: fac simile 是 Latin facere 的命令式 fac 做 + simile 相似的事物；不是 fac- + 英语 smile。
+related_morphemes:
+  []
+senses:
+  - meaning: similar
+    zh: 相似
+    examples:
+      - assemblage
+      - assemble
+      - assembly
+      - assembly line
+      - assimilate
+      - dissimilar
+      - facsimile
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sembl -> assemblage
+  - semble -> assemble
+  - sembl -> assembly
+  - assembly -> assembly line
+  - simil -> assimilate
+  - simil -> dissimilar
+  - simile -> facsimile
+high_value_words:
+  - assemblage
+  - assemble
+  - assembly
+  - assembly line
+  - assimilate
+  - dissimilar
+  - facsimile
+confusable_words:
+  []

@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: impersonate
+word: impersonate
+pos: verb
+zh: 模仿，扮演
+en: Means 模仿，扮演; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
+  - morpheme: person
+    form: person
+    meaning_in_word: 人；面具
+    zh: 人；面具
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:person.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ate.
+word_family:
+  - impersonation
+  - impersonal
+word_family_details:
+  - word: impersonation
+    en: Means 模仿，扮演; reviewed from the TOEFL source gloss for learner display.
+    zh: 模仿，扮演
+  - word: impersonal
+    en: Means 不受个人感情支配的，客观的，无私的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不受个人感情支配的，客观的，无私的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

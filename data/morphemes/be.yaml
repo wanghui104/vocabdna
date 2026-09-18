@@ -5,20 +5,74 @@ type: prefix
 core_meaning: make, intensify
 zh: 使成为、加强
 origin: Old English
+source_form: Old English be-
+source_meaning: about, around, make
+source_meaning_zh: 使；关于
 related_morphemes:
   []
 senses:
   - meaning: make, intensify
     zh: 使成为、加强
     examples:
-      []
+      - be characterized by
+      - be composed of
+      - be informed about
+      - be reserved to
+      - be taken by
+      - be up to
+      - behalf
+      - behave
+      - behavior
+      - belie
+      - below
+      - beneath
+      - bequest
+      - besides
+      - besiege
+      - bestow
+      - betray
+      - microbe
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  []
+  - be -> be characterized by
+  - be -> be composed of
+  - be- -> be informed about
+  - be -> be reserved to
+  - be -> be taken by
+  - be -> be up to
+  - be -> behalf
+  - be- -> behave
+  - be- -> behavior
+  - be- -> belie
+  - be- -> below
+  - be- -> beneath
+  - be- -> bequest
+  - be- -> besides
+  - be- -> besiege
+  - be- -> bestow
+  - be- -> betray
+  - be- -> microbe
 high_value_words:
-  []
+  - be characterized by
+  - be composed of
+  - be informed about
+  - be reserved to
+  - be taken by
+  - be up to
+  - behalf
+  - behave
+  - behavior
+  - belie
+  - below
+  - beneath
+  - bequest
+  - besides
+  - besiege
+  - bestow
+  - betray
+  - microbe
 confusable_words:
   []

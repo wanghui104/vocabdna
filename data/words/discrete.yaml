@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discrete
+word: discrete
+pos: adjective
+zh: 独立的；离散的；不连续的
+en: separate, distinct, and not continuous
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: cern
+    form: crete
+    meaning_in_word: separate, distinguish / 分辨；区分
+    zh: 分辨；区分
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: discreet
+    reason: discrete 是“分离的”；discreet 是“谨慎的”。
+    zh_reason: discrete 是“分离的”；discreet 是“谨慎的”。
+examples:
+  []
+why_confusing: discrete 是“分离的”；discreet 是“谨慎的”。

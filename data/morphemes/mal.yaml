@@ -5,20 +5,38 @@ type: root
 core_meaning: bad, evil
 zh: 坏、恶
 origin: Latin
+source_form: Latin malus, male
+source_meaning: bad, badly
+source_meaning_zh: 坏；恶
 related_morphemes:
   []
 senses:
   - meaning: bad, evil
     zh: 坏、恶
     examples:
+      - dismal
       - malevolent
+      - malfunction
+      - malfunctional
+      - malfunctioning
+      - malnutrition
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - mal -> dismal
   - male -> malevolent
+  - mal -> malfunction
+  - mal -> malfunctional
+  - mal -> malfunctioning
+  - mal -> malnutrition
 high_value_words:
+  - dismal
   - malevolent
+  - malfunction
+  - malfunctional
+  - malfunctioning
+  - malnutrition
 confusable_words:
   []

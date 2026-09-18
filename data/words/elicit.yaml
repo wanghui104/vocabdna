@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elicit
+word: elicit
+pos: verb
+zh: 引出；探得
+en: to bring out a response, answer, or information
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: lac-lure
+    form: licit
+    meaning_in_word: entice, draw forth / 引诱；引出
+    zh: 引诱；引出
+    role: root
+    is_core: true
+    note: licit 为 elicitus 中的分词词干，深层 lacere；不是 illicit 的 licere 被允许。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

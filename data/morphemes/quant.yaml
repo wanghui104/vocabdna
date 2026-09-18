@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: quant
+display: quant
+type: root
+core_meaning: amount
+zh: 数量
+origin: teaching morphology
+source_form: quant
+source_meaning: amount
+source_meaning_zh: 数量
+related_morphemes:
+  []
+senses:
+  - meaning: amount
+    zh: 数量
+    examples:
+      - quantitative
+      - quantum theory
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - quant -> quantitative
+  - quant -> quantum theory
+high_value_words:
+  - quantitative
+  - quantum theory
+confusable_words:
+  []

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: penetrating
+word: penetrating
+pos: adjective
+zh: （声音）响亮的，尖锐的；（气味）刺激的；（思想）敏锐的，有洞察力的
+en: Means （声音）响亮的，尖锐的；（气味）刺激的；（思想）敏锐的，有洞察力的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: penetr
+    form: penetr
+    meaning_in_word: enter; pierce / 进入；穿透
+    zh: 进入；穿透
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make; act / 使；做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: action; ongoing / 动作；进行中
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - penetrate
+word_family_details:
+  - word: penetrate
+    en: Means 穿透；渗透; reviewed from the TOEFL source gloss for learner display.
+    zh: 穿透；渗透
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

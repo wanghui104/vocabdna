@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: is
+display: -is
+type: suffix
+core_meaning: is
+zh: is
+origin: English
+source_form: English is
+source_meaning: is
+source_meaning_zh: is
+related_morphemes:
+  []
+senses:
+  - meaning: is
+    zh: is
+    examples:
+      - genesis
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -is -> genesis
+high_value_words:
+  - genesis
+confusable_words:
+  []

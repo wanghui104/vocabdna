@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: administer
+word: administer
+pos: verb
+zh: 管理；执行；施用
+en: to manage, direct, or give something officially
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: minist
+    form: minister
+    meaning_in_word: serve, manage
+    zh: 服务；管理
+    role: root
+    is_core: true
+word_family:
+  - administration
+  - administrative
+  - administrator
+word_family_details:
+  - word: administration
+    en: the act or system of managing an organization, program, or rule
+    zh: 经营；管理；行政
+  - word: administrative
+    en: relating to the work of managing an organization or office
+    zh: 管理的；行政的
+  - word: administrator
+    en: a person who manages an organization, system, or program
+    zh: 管理者；行政官
+confusables:
+  []
+examples:
+  - en: Nurses administer the vaccine carefully.
+    zh: 护士小心施用疫苗。
+why_confusing: administer medicine 是给药；administer a program 是管理项目。

@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: leak
+word: leak
+pos: verb
+zh: 漏；渗 / 泄露
+en: Means 漏；渗 / 泄露; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: leak
+    form: leak
+    meaning_in_word: 漏
+    zh: 漏
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  - leaky
+word_family_details:
+  - word: leaky
+    en: Means 漏的; reviewed from the TOEFL source gloss for learner display.
+    zh: 漏的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

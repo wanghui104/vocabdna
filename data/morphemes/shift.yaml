@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shift
+display: shift
+type: root
+core_meaning: shift
+zh: 移动
+origin: teaching morphology
+source_form: shift
+source_meaning: shift
+source_meaning_zh: 移动
+related_morphemes:
+  []
+senses:
+  - meaning: shift
+    zh: 移动
+    examples:
+      - shift
+      - shifting
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - shift -> shift
+  - shift -> shifting
+high_value_words:
+  - shift
+  - shifting
+confusable_words:
+  []

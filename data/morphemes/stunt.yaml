@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stunt
+display: stunt
+type: root
+core_meaning: stunt
+zh: 特技；阻碍生长
+origin: unknown
+source_form: stunt
+source_meaning: stunt
+source_meaning_zh: 特技；阻碍生长
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: stunt
+    zh: 特技；阻碍生长
+    examples:
+      - stunt
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - stunt -> stunt
+high_value_words:
+  - stunt
+confusable_words:
+  []

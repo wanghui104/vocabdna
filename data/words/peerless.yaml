@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: peerless
+word: peerless
+pos: adjective
+zh: 出类拔萃的, 无可匹敌的
+en: Means 出类拔萃的, 无可匹敌的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: peer
+    form: peer
+    meaning_in_word: equal; look closely / 同等；凝视
+    zh: 同等；凝视
+    role: root
+    is_core: true
+  - morpheme: less
+    form: -less
+    meaning_in_word: without / 无
+    zh: 无；没有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

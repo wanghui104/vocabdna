@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: doctrine
+word: doctrine
+pos: noun
+zh: 学说；教义；信条
+en: a principle or set of beliefs taught or officially supported by a group
+components:
+  - morpheme: doc
+    form: doctr
+    meaning_in_word: teach, show / 教；显示
+    zh: 教；显示
+    role: root
+    is_core: true
+    note: doctr- 教导 + -ine；Latin doctrina ← doctor 教师 ← docere 教。-r- 属历史名词词干层。不是 doctr 整词根已到底层。
+  - morpheme: ine
+    form: -ine
+    meaning_in_word: of, like, made of / 属于；像；由……组成
+    zh: 属于；像；由……组成
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: doctr- 教导 + -ine；Latin doctrina ← doctor 教师 ← docere 教。-r- 属历史名词词干层。不是 doctr 整词根已到底层。

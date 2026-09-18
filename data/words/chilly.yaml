@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chilly
+word: chilly
+pos: adjective
+zh: 寒冷的
+en: Means 寒冷的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: chill
+    form: chill
+    meaning_in_word: 寒冷
+    zh: 冷；寒意
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:chill.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 具有……性质
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source shown on root:y.
+word_family:
+  - chill
+word_family_details:
+  - word: chill
+    en: to make or become cold, or a cold feeling
+    zh: 使冷；变冷；寒意；寒战
+confusables:
+  - word: chilli
+    reason: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.
+    zh_reason: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

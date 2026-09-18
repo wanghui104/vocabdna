@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: livestock
+word: livestock
+pos: noun
+zh: 家畜，牲畜
+en: Means 家畜，牲畜; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: live
+    form: live
+    meaning_in_word: 生活
+    zh: 生活
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:live.
+  - morpheme: stock
+    form: stock
+    meaning_in_word: 存货；牲畜
+    zh: 存货；牲畜
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:stock.
+word_family:
+  - livelihood
+  - lively
+  - living-quarters
+word_family_details:
+  - word: livelihood
+    en: Means 生计，谋生; reviewed from the TOEFL source gloss for learner display.
+    zh: 生计，谋生
+  - word: lively
+    en: Means 活泼的，活跃的；栩栩如生的; reviewed from the TOEFL source gloss for learner display.
+    zh: 活泼的，活跃的；栩栩如生的
+  - word: living-quarters
+    en: Means 住房，住处; reviewed from the TOEFL source gloss for learner display.
+    zh: 住房，住处
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

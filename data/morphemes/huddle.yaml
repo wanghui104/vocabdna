@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: huddle
+display: huddle
+type: root
+core_meaning: draft meaning for huddle
+zh: 缩成一团；挤成一团；杂乱的一堆，拥挤
+origin: Unknown
+source_form: TOEFL draft opaque stem: huddle
+source_meaning: draft learner stem for huddle
+source_meaning_zh: 缩成一团；挤成一团；杂乱的一堆，拥挤
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for huddle
+    zh: 缩成一团；挤成一团；杂乱的一堆，拥挤
+    examples:
+      - huddle
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - huddle -> huddle
+high_value_words:
+  - huddle
+confusable_words:
+  []

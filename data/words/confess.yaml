@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confess
+word: confess
+pos: verb
+zh: 坦白承认；供认
+en: to admit something, especially something wrong or private
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: fully, together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: fess
+    form: fess
+    meaning_in_word: admit
+    zh: 承认；坦白
+    role: root
+    is_core: true
+word_family:
+  - confession
+word_family_details:
+  - word: confession
+    en: an admission of something, especially wrongdoing or belief
+    zh: 承认；供认；忏悔
+confusables:
+  []
+examples:
+  []
+why_confusing: confess to a crime/mistake; confess that...

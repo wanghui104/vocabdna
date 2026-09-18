@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: authenticate
+word: authenticate
+pos: verb
+zh: 证明...为真
+en: to prove that something is genuine or valid
+components:
+  - morpheme: authent
+    form: authent
+    meaning_in_word: genuine, original
+    zh: 真实；原始；可信
+    role: root
+    is_core: true
+    related_morphemes:
+      - auto
+  - morpheme: ate
+    form: -icate
+    meaning_in_word: make or prove
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - authentic
+word_family_details:
+  - word: authentic
+    en: real, genuine, and reliable rather than copied or false
+    zh: 真的；可靠的；确实的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discourage
+word: discourage
+pos: verb
+zh: 使气馁；阻碍
+en: to make someone lose confidence or to prevent an action
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: away, opposite
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: courage
+    form: courage
+    meaning_in_word: heart, courage
+    zh: 心；勇气
+    role: root
+    is_core: true
+    note: 表层 courage/courag- 勇气；Old French corage ← cor 心 + -age 状态。discourage = dis- + courage；discouraging 去末尾 e 后加 -ing。
+    related_morphemes:
+      - cord
+      - age
+word_family:
+  - discouraging
+word_family_details:
+  - word: discouraging
+    en: making someone feel less confident or hopeful
+    zh: 令人气馁的
+confusables:
+  []
+examples:
+  []
+why_confusing: discourage from doing 是常见搭配。

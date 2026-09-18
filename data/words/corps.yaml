@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: corps
+word: corps
+pos: noun
+zh: 军团；兵团；专业队伍
+en: an organized body of people, especially in the military
+components:
+  - morpheme: corp
+    form: corps
+    meaning_in_word: body, group
+    zh: 身体；团体
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: corps 拼写有 ps，发音常像 core。

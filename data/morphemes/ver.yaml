@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ver
+display: ver
+type: root
+core_meaning: awe; revere
+zh: 敬畏
+origin: teaching morphology
+source_form: ver
+source_meaning: awe; revere
+source_meaning_zh: 敬畏
+related_morphemes:
+  []
+senses:
+  - meaning: awe; revere
+    zh: 敬畏
+    examples:
+      - irreverence
+      - irreverent
+      - revered
+      - reverently
+      - verify
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ver -> irreverence
+  - ver -> irreverent
+  - ver -> revered
+  - ver -> reverently
+  - ver -> verify
+high_value_words:
+  - irreverence
+  - irreverent
+  - revered
+  - reverently
+  - verify
+confusable_words:
+  []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: thousandfold
+word: thousandfold
+pos: adjective/adverb
+zh: 千倍的；千倍地
+en: one thousand times as much or as many
+components:
+  - morpheme: thousand
+    form: thousand
+    meaning_in_word: thousand / 千
+    zh: 千
+    role: root
+    is_core: true
+    note: 历史日耳曼复合常重构为大/膨胀的百，细节属重构；现代不拆为 thous + and。
+  - morpheme: fold-multiple
+    form: -fold
+    meaning_in_word: multiplied by / 倍
+    zh: 倍
+    role: suffix
+    is_core: false
+    note: thousandfold 的 -fold 为倍数后缀，不是围栏。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

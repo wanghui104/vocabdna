@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flea
+word: flea
+pos: noun
+zh: 跳蚤
+en: a small wingless jumping insect that feeds on blood
+components:
+  - morpheme: flea
+    form: flea
+    meaning_in_word: flea / 跳蚤
+    zh: 跳蚤
+    role: root
+    is_core: true
+    note: 本族简单词；与跳、逃的更深联系有争议，不硬拆。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: appraise
+word: appraise
+pos: verb
+zh: 评价；估价
+en: to estimate the value or quality of something
+components:
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: preci
+    form: praise
+    meaning_in_word: price, value
+    zh: 价格；价值
+    role: root
+    is_core: true
+word_family:
+  - appraisal
+word_family_details:
+  - word: appraisal
+    en: an estimate of the value or quality of something
+    zh: 评价；估价
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

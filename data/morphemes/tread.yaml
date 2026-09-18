@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tread
+display: tread
+type: root
+core_meaning: step
+zh: 踏
+origin: teaching morphology
+source_form: tread
+source_meaning: step
+source_meaning_zh: 踏
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: step
+    zh: 踏
+    examples:
+      - tread
+      - treadmill
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tread -> tread
+  - tread -> treadmill
+high_value_words:
+  - tread
+  - treadmill
+confusable_words:
+  []

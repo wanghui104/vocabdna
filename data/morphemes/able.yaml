@@ -2,51 +2,300 @@
 id: able
 display: -able
 type: suffix
-core_meaning: able to be
-zh: 能够被……的
-origin: Latin
-source_form: Latin -abilis
-source_meaning: able to be
-source_meaning_zh: 能够被……的
-source_note: English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.
+core_meaning: able to; suitable for
+zh: 能够；适合
+origin: Latin/French
+source_form: able
+source_meaning: able to; suitable for
+source_meaning_zh: 能够；适合
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
 related_morphemes:
   []
 senses:
-  - meaning: able to be
-    zh: 能够被……的
+  - meaning: able to; suitable for
+    zh: 能够；适合
     examples:
-      - conceivable
-      - deductible
       - ability
-      - inability
-      - capability
-      - viability
-      - variability
-      - accessible
       - accessibility
+      - accessible
+      - adaptable
+      - affordable
+      - agile
+      - agreeable
+      - amenable
+      - appreciable
+      - audible
+      - available
+      - avoidable
+      - capability
+      - capable
+      - charitable
+      - combustible
+      - comparable
+      - compatible
+      - comprehensible
+      - conceivable
+      - considerable
+      - debatable
+      - deductible
+      - delectable
+      - dependable
+      - desirable
+      - detectable
+      - disagreeable
+      - discernible
+      - durable
+      - edible
+      - educable
+      - eligible
+      - equitable
+      - fashionable
+      - favorable
+      - feasible
+      - flexibility
+      - flexible
+      - flexibly
+      - formidable
+      - hospitable
+      - impermeable
+      - improbable
+      - inability
+      - indispensable
+      - inevitably
+      - inextricably
+      - innumerable
+      - insurmountable
+      - invariably
+      - irreparable
+      - irrevocable
+      - irritable
+      - malleable
+      - memorable
+      - miserable
+      - notable
+      - notably
+      - obtainable
+      - palatable
+      - perishable
+      - permeable
+      - pliable
+      - portable
+      - practicable
+      - predictability
+      - predictable
+      - preferable
+      - presumably
+      - questionable
+      - reliability
+      - remarkable
+      - renewable
+      - rentable
+      - sociable
+      - stabilize
+      - stable
+      - suitable
+      - unbearable
+      - unbridgeable
+      - unfavorable
+      - unimaginable
+      - unpalatable
+      - unpredictable
+      - unquestionably
+      - unstable
+      - vegetable
+      - venerable
+      - viable
+      - vulnerable
+      - warrantable
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - -able -> conceivable
-  - -ible -> deductible
   - abil -> ability
-  - abil -> inability
-  - -able -> capability
-  - -able -> viability
-  - -able -> variability
-  - -ible -> accessible
   - -ibil -> accessibility
+  - -ible -> accessible
+  - -able -> adaptable
+  - -able -> affordable
+  - -ile -> agile
+  - -able -> agreeable
+  - -able -> amenable
+  - -able -> appreciable
+  - -ible -> audible
+  - -able -> available
+  - -able -> avoidable
+  - -ability -> capability
+  - -able -> capable
+  - -able -> charitable
+  - -ible -> combustible
+  - -able -> comparable
+  - -ible -> compatible
+  - -ible -> comprehensible
+  - -able -> conceivable
+  - -able -> considerable
+  - -able -> debatable
+  - -ible -> deductible
+  - -able -> delectable
+  - -able -> dependable
+  - -able -> desirable
+  - -able -> detectable
+  - -able -> disagreeable
+  - -ible -> discernible
+  - -able -> durable
+  - -ible -> edible
+  - -able -> educable
+  - -ible -> eligible
+  - -able -> equitable
+  - -able -> fashionable
+  - -able -> favorable
+  - -ible -> feasible
+  - -ibil -> flexibility
+  - -ible -> flexible
+  - -ibl -> flexibly
+  - -able -> formidable
+  - -able -> hospitable
+  - -able -> impermeable
+  - -able -> improbable
+  - abil -> inability
+  - -able -> indispensable
+  - -able -> inevitably
+  - -able -> inextricably
+  - -able -> innumerable
+  - -able -> insurmountable
+  - -able -> invariably
+  - -able -> irreparable
+  - -able -> irrevocable
+  - -able -> irritable
+  - -able -> malleable
+  - -able -> memorable
+  - -able -> miserable
+  - -able -> notable
+  - -able -> notably
+  - -able -> obtainable
+  - -able -> palatable
+  - -able -> perishable
+  - -able -> permeable
+  - -able -> pliable
+  - -able -> portable
+  - -able -> practicable
+  - -able -> predictability
+  - -able -> predictable
+  - -able -> preferable
+  - -able -> presumably
+  - -able -> questionable
+  - -able -> reliability
+  - -able -> remarkable
+  - -able -> renewable
+  - -able -> rentable
+  - -able -> sociable
+  - -able -> stabilize
+  - -able -> stable
+  - -able -> suitable
+  - -able -> unbearable
+  - -able -> unbridgeable
+  - -able -> unfavorable
+  - -able -> unimaginable
+  - -able -> unpalatable
+  - -able -> unpredictable
+  - -able -> unquestionably
+  - -able -> unstable
+  - -able -> vegetable
+  - -able -> venerable
+  - -able -> viable
+  - -able -> vulnerable
+  - -able -> warrantable
 high_value_words:
-  - conceivable
-  - deductible
   - ability
-  - inability
-  - capability
-  - viability
-  - variability
-  - accessible
   - accessibility
+  - accessible
+  - adaptable
+  - affordable
+  - agile
+  - agreeable
+  - amenable
+  - appreciable
+  - audible
+  - available
+  - avoidable
+  - capability
+  - capable
+  - charitable
+  - combustible
+  - comparable
+  - compatible
+  - comprehensible
+  - conceivable
+  - considerable
+  - debatable
+  - deductible
+  - delectable
+  - dependable
+  - desirable
+  - detectable
+  - disagreeable
+  - discernible
+  - durable
+  - edible
+  - educable
+  - eligible
+  - equitable
+  - fashionable
+  - favorable
+  - feasible
+  - flexibility
+  - flexible
+  - flexibly
+  - formidable
+  - hospitable
+  - impermeable
+  - improbable
+  - inability
+  - indispensable
+  - inevitably
+  - inextricably
+  - innumerable
+  - insurmountable
+  - invariably
+  - irreparable
+  - irrevocable
+  - irritable
+  - malleable
+  - memorable
+  - miserable
+  - notable
+  - notably
+  - obtainable
+  - palatable
+  - perishable
+  - permeable
+  - pliable
+  - portable
+  - practicable
+  - predictability
+  - predictable
+  - preferable
+  - presumably
+  - questionable
+  - reliability
+  - remarkable
+  - renewable
+  - rentable
+  - sociable
+  - stabilize
+  - stable
+  - suitable
+  - unbearable
+  - unbridgeable
+  - unfavorable
+  - unimaginable
+  - unpalatable
+  - unpredictable
+  - unquestionably
+  - unstable
+  - vegetable
+  - venerable
+  - viable
+  - vulnerable
+  - warrantable
 confusable_words:
   []

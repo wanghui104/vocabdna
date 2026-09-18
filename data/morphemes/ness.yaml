@@ -1,0 +1,117 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ness
+display: -ness
+type: suffix
+core_meaning: state, quality
+zh: 状态；性质
+origin: Old English
+source_form: Old English -nes, -ness
+source_meaning: state, quality
+source_meaning_zh: 状态；性质
+related_morphemes:
+  []
+senses:
+  - meaning: state, quality
+    zh: 状态；性质
+    examples:
+      - aggressiveness
+      - airsickness
+      - awareness
+      - awkwardness
+      - barrenness
+      - bitterness
+      - briskness
+      - competitiveness
+      - conciseness
+      - consciousness
+      - dizziness
+      - effectiveness
+      - faithfulness
+      - fierceness
+      - firmness
+      - fitness
+      - foolishness
+      - frankness
+      - freshness
+      - fruitfulness
+      - harshness
+      - saltiness
+      - shyness
+      - sickness
+      - stubbornness
+      - swiftness
+      - tardiness
+      - tenderness
+      - uniqueness
+      - vastness
+      - weariness
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ness -> aggressiveness
+  - -ness -> airsickness
+  - -ness -> awareness
+  - -ness -> awkwardness
+  - -ness -> barrenness
+  - -ness -> bitterness
+  - ness -> briskness
+  - -ness -> competitiveness
+  - -ness -> conciseness
+  - -ness -> consciousness
+  - -ness -> dizziness
+  - -ness -> effectiveness
+  - -ness -> faithfulness
+  - -ness -> fierceness
+  - -ness -> firmness
+  - -ness -> fitness
+  - -ness -> foolishness
+  - -ness -> frankness
+  - -ness -> freshness
+  - -ness -> fruitfulness
+  - -ness -> harshness
+  - -ness -> saltiness
+  - -ness -> shyness
+  - -ness -> sickness
+  - -ness -> stubbornness
+  - -ness -> swiftness
+  - -ness -> tardiness
+  - -ness -> tenderness
+  - -ness -> uniqueness
+  - -ness -> vastness
+  - -ness -> weariness
+high_value_words:
+  - aggressiveness
+  - airsickness
+  - awareness
+  - awkwardness
+  - barrenness
+  - bitterness
+  - briskness
+  - competitiveness
+  - conciseness
+  - consciousness
+  - dizziness
+  - effectiveness
+  - faithfulness
+  - fierceness
+  - firmness
+  - fitness
+  - foolishness
+  - frankness
+  - freshness
+  - fruitfulness
+  - harshness
+  - saltiness
+  - shyness
+  - sickness
+  - stubbornness
+  - swiftness
+  - tardiness
+  - tenderness
+  - uniqueness
+  - vastness
+  - weariness
+confusable_words:
+  []

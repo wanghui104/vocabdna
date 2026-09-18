@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: le
+display: -le
+type: suffix
+core_meaning: small thing
+zh: 小物；小的
+origin: Latin
+source_form: Latin diminutive -culus / -cula
+source_meaning: small
+source_meaning_zh: 小的
+related_morphemes:
+  []
+senses:
+  - meaning: small thing
+    zh: 小物；小的
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

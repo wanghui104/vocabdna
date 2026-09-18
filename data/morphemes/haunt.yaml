@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: haunt
+display: haunt
+type: root
+core_meaning: draft meaning for haunt
+zh: （思想、回忆等）萦绕心头；常去的地方
+origin: Unknown
+source_form: TOEFL draft opaque stem: haunt
+source_meaning: draft learner stem for haunt
+source_meaning_zh: （思想、回忆等）萦绕心头；常去的地方
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for haunt
+    zh: （思想、回忆等）萦绕心头；常去的地方
+    examples:
+      - haunt
+      - haunted
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - haunt -> haunt
+  - haunt -> haunted
+high_value_words:
+  - haunt
+  - haunted
+confusable_words:
+  []

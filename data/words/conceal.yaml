@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conceal
+word: conceal
+pos: verb
+zh: 隐藏；隐瞒
+en: to hide something or keep it secret
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: completely/intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: cel
+    form: ceal
+    meaning_in_word: hide
+    zh: 隐藏；隐瞒
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: conceal information/evidence/identity 常见。

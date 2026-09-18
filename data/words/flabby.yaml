@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flabby
+word: flabby
+pos: adjective
+zh: 松软的；松弛的
+en: soft and loose rather than firm
+components:
+  - morpheme: flabb
+    form: flabb
+    meaning_in_word: flap loosely / 松软垂动
+    zh: 松软垂动
+    role: root
+    is_core: true
+    note: flabby = flabb- + -y；与 flappy/flap 的音变联系，细节不确定，不发明更深词根。
+  - morpheme: y
+    form: -y
+    meaning_in_word: full of, state / 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

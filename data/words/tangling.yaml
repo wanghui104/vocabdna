@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tangling
+word: tangling
+pos: verb/noun
+zh: 正在缠绕；缠结过程
+en: the ongoing action or process of twisting or catching things together
+components:
+  - morpheme: tangle
+    form: tangl
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: tangle 去掉词尾不发音 e 的词干，用于加 -ed/-ing。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing action / 正在进行的动作
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - tangle
+  - tangled
+word_family_details:
+  - word: tangle
+    en: to become or make things twisted together; a knotted mass or a complicated situation
+    zh: （使）缠结；乱团；混乱局面
+  - word: tangled
+    en: twisted together so separation is difficult, or confusingly complicated; also the past form of tangle
+    zh: 缠结的；错综复杂的；tangle 的过去式及过去分词
+confusables:
+  []
+examples:
+  - en: Separate the cords to prevent tangling.
+    zh: 把线分开放，防止缠结。
+why_confusing: tangle 去 e 加 -ing，写作 tangling；tangled 常表示已经缠住的状态。

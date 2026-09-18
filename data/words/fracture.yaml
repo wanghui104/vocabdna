@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fracture
+word: fracture
+pos: noun/verb
+zh: 断裂；骨折；使断裂
+en: a crack or break, especially in a bone; to crack or break
+components:
+  - morpheme: frag-fract
+    form: fract
+    meaning_in_word: break, fragile / 破裂；易碎
+    zh: 破裂；易碎
+    role: root
+    is_core: true
+  - morpheme: ure
+    form: -ure
+    meaning_in_word: act or result / 行为；结果
+    zh: 行为；结果
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

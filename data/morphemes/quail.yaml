@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: quail
+display: quail
+type: root
+core_meaning: quail; shrink
+zh: 鹌鹑；畏缩
+origin: teaching morphology
+source_form: quail
+source_meaning: quail; shrink
+source_meaning_zh: 鹌鹑；畏缩
+related_morphemes:
+  []
+senses:
+  - meaning: quail; shrink
+    zh: 鹌鹑；畏缩
+    examples:
+      - quail
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - quail -> quail
+high_value_words:
+  - quail
+confusable_words:
+  []

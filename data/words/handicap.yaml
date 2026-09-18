@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: handicap
+word: handicap
+pos: noun/verb
+zh: 残疾 / 严重妨碍，削弱
+en: Means 残疾 / 严重妨碍，削弱; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hand
+    form: hand
+    meaning_in_word: hand
+    zh: 手；工人
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hand.
+  - morpheme: cap
+    form: cap
+    meaning_in_word: cap
+    zh: 拿；抓；容纳
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:cap.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

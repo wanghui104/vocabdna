@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rebroadcast
+word: rebroadcast
+pos: verb
+zh: 重播
+en: to broadcast again
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: again
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: cast
+    form: broadcast
+    meaning_in_word: broadcast
+    zh: 投；铸造；传播
+    role: root
+    is_core: true
+word_family:
+  - broadcast
+word_family_details:
+  - word: broadcast
+    en: to transmit a program or spread information widely
+    zh: 广播；传播
+confusables:
+  []
+examples:
+  []
+why_confusing: 可作名词或动词，本批按动词。

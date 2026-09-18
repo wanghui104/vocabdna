@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: continental
+word: continental
+pos: adjective
+zh: 大陆的；大陆性的
+en: related to a continent or its climate/culture
+components:
+  - morpheme: tain
+    form: continent
+    meaning_in_word: large landmass
+    zh: 持有；包含
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - continent
+  - supercontinent
+  - transcontinental
+word_family_details:
+  - word: continent
+    en: one of the earth's very large landmasses
+    zh: 大陆；洲
+  - word: supercontinent
+    en: a very large landmass made of multiple continents joined together
+    zh: 超大陆
+  - word: transcontinental
+    en: crossing or extending across a continent
+    zh: 横贯大陆的；大陆那边的
+confusables:
+  []
+examples:
+  []
+why_confusing: continental climate/breakfast/shelf 需按语境判断。

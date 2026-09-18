@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deferential
+word: deferential
+pos: adjective
+zh: 恭敬的；恭顺的
+en: showing respectful submission to another person's judgment or authority
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, toward another
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: fer
+    form: fer
+    meaning_in_word: carry, yield
+    zh: 携带、带来
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having quality
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -ial
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - defer
+  - deference
+word_family_details:
+  - word: defer
+    en: to delay or put off until later
+    zh: 延期；推迟
+  - word: deference
+    en: respectful yielding to another person's wishes, judgment, or authority
+    zh: 尊重；顺从；敬意
+confusables:
+  []
+examples:
+  []
+why_confusing: deferential to authority 表示对权威恭顺。

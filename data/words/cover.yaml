@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cover
+word: cover
+pos: verb/noun
+zh: 覆盖；包括；报道；封面
+en: to put something over, include, travel over, or report on something
+components:
+  - morpheme: cover
+    form: cover
+    meaning_in_word: cover
+    zh: 覆盖；包括
+    role: root
+    is_core: true
+word_family:
+  - coverage
+word_family_details:
+  - word: coverage
+    en: Means 覆盖; reviewed from the TOEFL source gloss for learner display.
+    zh: 覆盖
+confusables:
+  []
+examples:
+  []
+why_confusing: cover a topic/event/cost.

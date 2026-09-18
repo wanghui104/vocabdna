@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chisel
+display: chisel
+type: root
+core_meaning: chisel
+zh: 凿子；凿刻
+origin: French
+source_form: Old French cisel
+source_meaning: cutting tool
+source_meaning_zh: 切削工具；凿子
+related_morphemes:
+  []
+senses:
+  - meaning: chisel
+    zh: 凿子；凿刻
+    examples:
+      - chisel
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - chisel -> chisel
+high_value_words:
+  - chisel
+confusable_words:
+  []

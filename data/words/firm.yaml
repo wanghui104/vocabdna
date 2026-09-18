@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: firm
+word: firm
+pos: adjective/noun
+zh: 坚固的
+en: solid or securely fixed
+components:
+  - morpheme: firm
+    form: firm
+    meaning_in_word: firm, strong / 坚定；坚固
+    zh: 坚定；坚固
+    role: root
+    is_core: true
+    note: 坚固、坚定来自 Latin firmus；公司名词经 Italian firma 签名、German Firma 商号，最终也与 firmare 确认、使稳固有关，保留义项分支。
+word_family:
+  - firmly
+  - firmness
+word_family_details:
+  - word: firmly
+    en: in a strong, steady, or determined way
+    zh: 牢固地；坚定地
+  - word: firmness
+    en: solidity or determination
+    zh: 坚固；坚定
+confusables:
+  []
+examples:
+  []
+why_confusing: 

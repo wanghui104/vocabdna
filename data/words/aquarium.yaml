@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aquarium
+word: aquarium
+pos: noun
+zh: 水族馆；水族箱
+en: a glass tank or public place for keeping and displaying aquatic animals or plants
+components:
+  - morpheme: aqua
+    form: aqua
+    meaning_in_word: water
+    zh: 水
+    role: root
+    is_core: true
+  - morpheme: arium
+    form: -arium
+    meaning_in_word: place or container
+    zh: 场所；容器
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

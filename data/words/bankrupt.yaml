@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bankrupt
+word: bankrupt
+pos: adjective/verb/noun
+zh: 破产的；使破产；破产者
+en: unable to pay debts; to make someone unable to pay debts
+components:
+  - morpheme: bank
+    form: bank
+    meaning_in_word: money bench
+    zh: 银行；柜台
+    role: root
+    is_core: true
+  - morpheme: rupt
+    form: rupt
+    meaning_in_word: broken
+    zh: 破裂、打断
+    role: root
+    is_core: true
+word_family:
+  - bankruptcy
+word_family_details:
+  - word: bankruptcy
+    en: the legal state of being unable to pay debts
+    zh: 破产；破产状态
+confusables:
+  []
+examples:
+  []
+why_confusing: bankrupt 可作形容词、动词或名词。

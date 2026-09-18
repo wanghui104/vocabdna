@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exterior
+word: exterior
+pos: noun/adjective
+zh: 外部；外表
+en: the outside or outer surface
+components:
+  - morpheme: exter
+    form: exter
+    meaning_in_word: outer, outside / 外部
+    zh: 外部
+    role: root
+    is_core: true
+    note: 深层 ex 出 + 比较/方位扩展形成 exterus；exterior 为比较级，externus 为外在，extremus 为最高级。保留各稳定词干，不能把 extremity 的 rem 当独立根。
+    related_morphemes:
+      - e
+  - morpheme: ior
+    form: -ior
+    meaning_in_word: more, comparative / 更；比较级
+    zh: 更；比较级
+    role: suffix
+    is_core: false
+    note: exterior 是 Latin exterus 外部的比较级。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: external
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

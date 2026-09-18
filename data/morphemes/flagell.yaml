@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flagell
+display: flagell
+type: root
+core_meaning: little whip
+zh: 小鞭
+origin: Latin
+source_form: Latin flagellum, flagrum
+source_meaning: little whip
+source_meaning_zh: 小鞭
+source_note: flagellum 深层 flag-（flagrum 鞭）+ -ell- 小称 + -um 中性结尾；flagella 的 -a 是拉丁中性复数，不是 flag 旗帜。
+related_morphemes:
+  []
+senses:
+  - meaning: little whip
+    zh: 小鞭
+    examples:
+      - flagella
+      - flagellum
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - flagell -> flagella
+  - flagell -> flagellum
+high_value_words:
+  - flagella
+  - flagellum
+confusable_words:
+  []

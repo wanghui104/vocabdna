@@ -5,41 +5,170 @@ type: prefix
 core_meaning: in, into; not
 zh: 进入、向内；不、否定
 origin: Latin
+source_form: Latin in-
+source_meaning: in, into; not
+source_meaning_zh: 进入；不、否定
 related_morphemes:
   []
 senses:
   - meaning: in, into; not
     zh: 进入、向内；不、否定
     examples:
+      - believe in
+      - imbalance
+      - imbibe
+      - immediate
+      - immediately
+      - immense
+      - immigrant
+      - immigration
+      - immobile
+      - immobilize
+      - immune
+      - immune system
+      - immunity
+      - impact
+      - impair
+      - impart
+      - impartial
+      - impartially
+      - impede
+      - impediment
+      - impending
+      - imperative
+      - impermeable
+      - impersonal
+      - impersonate
+      - impersonation
+      - impetus
+      - implement
+      - implication
+      - implicit
+      - imply
       - import
-      - inspect
-      - inject
-      - inscription
+      - impose
+      - imposing
+      - impracticality
+      - impressive
+      - imprint
+      - imprisonment
+      - improbable
+      - improvise
+      - improviser
+      - improvision
+      - impulse
+      - inability
+      - independent
       - induct
       - induction
       - inductive
-      - inability
+      - inelastic
+      - inscription
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - in- -> believe in
+  - im- -> imbalance
+  - im- -> imbibe
+  - im- -> immediate
+  - im- -> immediately
+  - im- -> immense
+  - im- -> immigrant
+  - im- -> immigration
+  - im- -> immobile
+  - im- -> immobilize
+  - im- -> immune
+  - im- -> immune system
+  - im- -> immunity
+  - im- -> impact
+  - im- -> impair
+  - im- -> impart
+  - im- -> impartial
+  - im- -> impartially
+  - im- -> impede
+  - im- -> impediment
+  - im- -> impending
+  - im- -> imperative
+  - im- -> impermeable
+  - im- -> impersonal
+  - im- -> impersonate
+  - im- -> impersonation
+  - im- -> impetus
+  - im- -> implement
+  - im- -> implication
+  - im- -> implicit
+  - im- -> imply
   - im- -> import
-  - in- -> inspect
-  - in- -> inject
-  - in- -> inscription
+  - im- -> impose
+  - im- -> imposing
+  - im- -> impracticality
+  - im- -> impressive
+  - im- -> imprint
+  - im- -> imprisonment
+  - im- -> improbable
+  - im- -> improvise
+  - im- -> improviser
+  - im- -> improvision
+  - im -> impulse
+  - in- -> inability
+  - in- -> independent
   - in- -> induct
   - in- -> induction
   - in- -> inductive
-  - in- -> inability
+  - in- -> inelastic
+  - in- -> inscription
 high_value_words:
+  - believe in
+  - imbalance
+  - imbibe
+  - immediate
+  - immediately
+  - immense
+  - immigrant
+  - immigration
+  - immobile
+  - immobilize
+  - immune
+  - immune system
+  - immunity
+  - impact
+  - impair
+  - impart
+  - impartial
+  - impartially
+  - impede
+  - impediment
+  - impending
+  - imperative
+  - impermeable
+  - impersonal
+  - impersonate
+  - impersonation
+  - impetus
+  - implement
+  - implication
+  - implicit
+  - imply
   - import
-  - inspect
-  - inject
-  - inscription
+  - impose
+  - imposing
+  - impracticality
+  - impressive
+  - imprint
+  - imprisonment
+  - improbable
+  - improvise
+  - improviser
+  - improvision
+  - impulse
+  - inability
+  - independent
   - induct
   - induction
   - inductive
-  - inability
+  - inelastic
+  - inscription
 confusable_words:
   []

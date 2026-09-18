@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vivid
+display: vivid
+type: root
+core_meaning: alive; vivid
+zh: 生动
+origin: teaching morphology
+source_form: vivid
+source_meaning: alive; vivid
+source_meaning_zh: 生动
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: alive; vivid
+    zh: 生动
+    examples:
+      - vivid
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - vivid -> vivid
+high_value_words:
+  - vivid
+confusable_words:
+  []

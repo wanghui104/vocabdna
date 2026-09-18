@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: due
+display: due
+type: root
+core_meaning: owed
+zh: 应给的；欠着的
+origin: Latin
+source_form: Old French deu;  Latin debere
+source_meaning: owed
+source_meaning_zh: 应给的；欠着的
+source_note: debere 更深 de- 离开 + habere 持有；due 为法语分词收缩形，与 subdue/residue 不同根。
+related_morphemes:
+  - de
+senses:
+  - meaning: owed
+    zh: 应给的；欠着的
+    examples:
+      - due
+      - due to
+      - dues
+      - overdue
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - due -> due
+  - due -> due to
+  - due -> dues
+  - due -> overdue
+high_value_words:
+  - due
+  - due to
+  - dues
+  - overdue
+confusable_words:
+  []

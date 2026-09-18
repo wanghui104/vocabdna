@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distasteful
+word: distasteful
+pos: adjective
+zh: （令人）不愉快的，讨厌的
+en: Means （令人）不愉快的，讨厌的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart; not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: taste
+    form: taste
+    meaning_in_word: taste / 味道；品味
+    zh: 触摸；试尝
+    role: root
+    is_core: true
+  - morpheme: ful
+    form: -ful
+    meaning_in_word: full of / 充满
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - distaste
+  - taste
+  - tasteless
+  - tasty
+word_family_details:
+  - word: distaste
+    en: a feeling of dislike or disgust
+    zh: 厌恶；反感
+  - word: taste
+    en: Means 品尝，辨味；味道，味觉；品味，兴趣; reviewed from the TOEFL source gloss for learner display.
+    zh: 品尝，辨味；味道，味觉；品味，兴趣
+  - word: tasteless
+    en: Means 没味道的; reviewed from the TOEFL source gloss for learner display.
+    zh: 没味道的
+  - word: tasty
+    en: Means 美味的，可口的; reviewed from the TOEFL source gloss for learner display.
+    zh: 美味的，可口的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

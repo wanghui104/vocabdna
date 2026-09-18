@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chef
+word: chef
+pos: noun
+zh: 厨师；主厨
+en: a professional cook, especially the chief cook in a restaurant
+components:
+  - morpheme: chef
+    form: chef
+    meaning_in_word: chief/head
+    zh: 厨师；主厨
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: chef 比 cook 更职业化。

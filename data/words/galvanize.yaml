@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: galvanize
+word: galvanize
+pos: verb
+zh: 激起；促使行动
+en: to shock or stimulate into action
+components:
+  - morpheme: galvan
+    form: galvan
+    meaning_in_word: Galvani, electricity / 伽伐尼；电
+    zh: 伽伐尼；电
+    role: root
+    is_core: true
+    note: galvanize = galvan- 人名去尾 i + -ize；galvanization 再名词化。电刺激义发展出激励，也有镀锌义；不是泛指所有电镀。
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make or do / 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - galvanization
+word_family_details:
+  - word: galvanization
+    en: the process of coating iron or steel with zinc
+    zh: 镀锌
+confusables:
+  []
+examples:
+  []
+why_confusing: 

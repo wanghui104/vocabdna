@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: arduous
+word: arduous
+pos: adjective
+zh: 费力的；艰难的
+en: difficult and requiring much effort
+components:
+  - morpheme: ardu
+    form: ardu
+    meaning_in_word: steep, difficult
+    zh: 高陡；艰难
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: full of
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: ardent
+    reason: 不要和 ardent 热烈混淆。
+    zh_reason: 不要和 ardent 热烈混淆。
+examples:
+  []
+why_confusing: 不要和 ardent 热烈混淆。

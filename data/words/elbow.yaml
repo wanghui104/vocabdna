@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elbow
+word: elbow
+pos: noun
+zh: 肘
+en: the joint where the arm bends
+components:
+  - morpheme: elbow
+    form: elbow
+    meaning_in_word: arm-bow
+    zh: 肘
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: elbow 也可作动词，表示用肘推挤。

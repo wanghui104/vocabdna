@@ -1,0 +1,68 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: superior-to
+word: superior to
+pos: phrase
+zh: 高于，优于
+en: Means 高于，优于; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: super
+    form: super-
+    meaning_in_word: above; over / 在上；超过
+    zh: 超过；在上
+    role: prefix
+    is_core: false
+  - morpheme: ior
+    form: -ior
+    meaning_in_word: comparative / 比较级
+    zh: 更；比较级
+    role: suffix
+    is_core: false
+  - morpheme: to
+    form: to
+    meaning_in_word: to / 到；向
+    zh: 向；到
+    role: root
+    is_core: true
+word_family:
+  - superb
+  - superficial
+  - superficially
+  - superintendent
+  - superior
+  - supernatural
+  - supervise
+  - supervision
+  - supervisor
+word_family_details:
+  - word: superb
+    en: Means 极好的，超级的; reviewed from the TOEFL source gloss for learner display.
+    zh: 极好的，超级的
+  - word: superficial
+    en: Means 肤浅的，表面（上）的; reviewed from the TOEFL source gloss for learner display.
+    zh: 肤浅的，表面（上）的
+  - word: superficially
+    en: Means 浅薄地; reviewed from the TOEFL source gloss for learner display.
+    zh: 浅薄地
+  - word: superintendent
+    en: Means 主管，负责人; reviewed from the TOEFL source gloss for learner display.
+    zh: 主管，负责人
+  - word: superior
+    en: Means 级别或地位更高的；质量或价值更好的; reviewed from the TOEFL source gloss for learner display.
+    zh: 级别或地位更高的；质量或价值更好的
+  - word: supernatural
+    en: Means 超自然的，神奇的; reviewed from the TOEFL source gloss for learner display.
+    zh: 超自然的，神奇的
+  - word: supervise
+    en: Means 监督，指导; reviewed from the TOEFL source gloss for learner display.
+    zh: 监督，指导
+  - word: supervision
+    en: Means 监督，管理; reviewed from the TOEFL source gloss for learner display.
+    zh: 监督，管理
+  - word: supervisor
+    en: Means 主管，管理人; reviewed from the TOEFL source gloss for learner display.
+    zh: 主管，管理人
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

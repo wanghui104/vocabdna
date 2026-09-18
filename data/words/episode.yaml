@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: episode
+word: episode
+pos: noun
+zh: 一集；片段；事件
+en: one part of a series or a distinct event within a larger story
+components:
+  - morpheme: epi
+    form: ep-
+    meaning_in_word: on, upon, in addition / 在上；另外
+    zh: 在上；另外
+    role: prefix
+    is_core: false
+    note: ep- 为元音前变体；ephemeral 中 ph 跨边界反映历史送气变化。
+  - morpheme: eisode
+    form: isode
+    meaning_in_word: entrance / 进入
+    zh: 进入
+    role: root
+    is_core: true
+    note: episode 表层 ep- + isode；isode 深层 eis 进入 + hodos 道路，经过借入缩略，不能直接贴成普通英语 ode 颂歌。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

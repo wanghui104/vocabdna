@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deposit
+word: deposit
+pos: verb/noun
+zh: 放置；寄存；存款；押金
+en: to put or store something somewhere, especially money
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: pon
+    form: posit
+    meaning_in_word: put, place
+    zh: 放置
+    role: root
+    is_core: true
+word_family:
+  - depositor
+word_family_details:
+  - word: depositor
+    en: a person who deposits money in a bank
+    zh: 存款人
+confusables:
+  []
+examples:
+  []
+why_confusing: deposit money 是存款；deposit sediment 是沉积。

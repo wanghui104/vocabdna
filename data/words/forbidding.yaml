@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forbidding
+word: forbidding
+pos: adjective
+zh: 令人生畏的；难以接近的
+en: seeming unfriendly, threatening, or difficult to approach
+components:
+  - morpheme: for-against
+    form: for-
+    meaning_in_word: against, prohibit / 反对；禁止
+    zh: 反对；禁止
+    role: prefix
+    is_core: false
+    note: forbid 的前缀不是介词 for 为了。
+  - morpheme: bid-command
+    form: bidd
+    meaning_in_word: command / 命令
+    zh: 命令
+    role: root
+    is_core: true
+    note: forbid 的 bid 来自 beodan 命令；与出价、邀请的现代拼写关系复杂，本处只标命令义。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - forbid
+  - forbidden
+word_family_details:
+  - word: forbid
+    en: to order that something must not be done
+    zh: 禁止
+  - word: forbidden
+    en: not allowed
+    zh: 被禁止的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

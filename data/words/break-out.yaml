@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: break-out
+word: break out
+pos: phrase
+zh: 爆发；发生
+en: to start suddenly, especially a fire, war, disease, or disorder
+components:
+  - morpheme: break
+    form: break
+    meaning_in_word: burst
+    zh: 打破；破裂
+    role: root
+    is_core: true
+  - morpheme: out
+    form: out
+    meaning_in_word: outward
+    zh: 向外；爆发
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常搭配 war/fire/disease breaks out。

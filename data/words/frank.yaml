@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frank
+word: frank
+pos: adjective
+zh: 坦率的；直言不讳的
+en: open and honest in expressing thoughts
+components:
+  - morpheme: frank
+    form: frank
+    meaning_in_word: free, open / 自由；坦率
+    zh: 自由；坦率
+    role: root
+    is_core: true
+    note: 由法兰克族名到自由，再到坦率；族名更深起源有争议，不硬拆。
+word_family:
+  - frankly
+  - frankness
+word_family_details:
+  - word: frankly
+    en: openly and honestly
+    zh: 坦率地
+  - word: frankness
+    en: honesty and openness
+    zh: 坦率；直率
+confusables:
+  []
+examples:
+  []
+why_confusing: 

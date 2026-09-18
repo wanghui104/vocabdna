@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conflict
+word: conflict
+pos: noun/verb
+zh: 冲突；争论；斗争
+en: a serious disagreement or clash between ideas, people, or forces
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: flict
+    form: flict
+    meaning_in_word: strike
+    zh: 打击；折磨
+    role: root
+    is_core: true
+word_family:
+  - conflicting
+word_family_details:
+  - word: conflicting
+    en: different in a way that cannot both be true or satisfied
+    zh: 相冲突的；相矛盾的
+confusables:
+  []
+examples:
+  []
+why_confusing: 名词重音常在第一音节，动词常在第二音节。

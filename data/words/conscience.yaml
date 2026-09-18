@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conscience
+word: conscience
+pos: noun
+zh: 良心；良知
+en: the inner sense of right and wrong
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: with
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: sci
+    form: sci
+    meaning_in_word: know
+    zh: 知道；有意识
+    role: root
+    is_core: true
+  - morpheme: ence-ance
+    form: -ence
+    meaning_in_word: state
+    zh: 状态、性质
+    role: suffix
+    is_core: false
+word_family:
+  - conscientious
+word_family_details:
+  - word: conscientious
+    en: careful to do what is right and responsible
+    zh: 尽责的；一丝不苟的
+confusables:
+  []
+examples:
+  []
+why_confusing: conscience 是良心；conscious 是有意识的。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ethn
+display: ethn
+type: root
+core_meaning: people, nation
+zh: 民族；族群
+origin: Greek
+source_form: Greek ἔθνος (ethnos)
+source_meaning: people, nation
+source_meaning_zh: 民族；族群
+source_note: ethnic = ethn- + -ic；与 ethos 有历史关联，但 ethnos 族群和 ethos 品格的直接词源要区分。
+related_morphemes:
+  []
+senses:
+  - meaning: people, nation
+    zh: 民族；族群
+    examples:
+      - ethnic
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ethn -> ethnic
+high_value_words:
+  - ethnic
+confusable_words:
+  []

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tilt
+display: tilt
+type: root
+core_meaning: tilt
+zh: 倾斜
+origin: Old English
+source_form: tilt
+source_meaning: tilt
+source_meaning_zh: 倾斜
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: tilt
+    zh: 倾斜
+    examples:
+      - tilt
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tilt -> tilt
+high_value_words:
+  - tilt
+confusable_words:
+  []

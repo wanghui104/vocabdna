@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: amateur
+word: amateur
+pos: adjective/noun
+zh: 业余的
+en: done for interest rather than as a paid profession
+components:
+  - morpheme: am
+    form: amat
+    meaning_in_word: love, enjoy
+    zh: 爱；喜爱
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -eur
+    meaning_in_word: person associated with
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+    note: French agent ending, mapped to the existing person suffix root.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: amateur 可中性表示业余者，也可贬义表示不专业，语境要看清。

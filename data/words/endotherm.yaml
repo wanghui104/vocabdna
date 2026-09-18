@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: endotherm
+word: endotherm
+pos: noun
+zh: 主要依靠体内代谢产热的动物
+en: an animal that produces most of its body heat internally through metabolism
+components:
+  - morpheme: endo
+    form: endo-
+    meaning_in_word: within / 内部
+    zh: 内部
+    role: prefix
+    is_core: false
+    note: endon 来自 en 在内及历史副词扩展，现代 endo- 作为完整组合成分保留。
+  - morpheme: therm
+    form: therm
+    meaning_in_word: heat / 热
+    zh: 热
+    role: root
+    is_core: true
+    note: endo- 内部 + therm- 热；按体内产热分类，不等同于所有时候都保持恒温。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dawning
+word: dawning
+pos: noun
+zh: 拂晓；黎明；开端
+en: the first appearance of light or the beginning of awareness
+components:
+  - morpheme: dawn
+    form: dawn
+    meaning_in_word: daybreak
+    zh: 黎明；开端
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: process or state
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - dawn
+word_family_details:
+  - word: dawn
+    en: the first light of day, or the beginning of something
+    zh: 黎明；开端；开始显现
+confusables:
+  []
+examples:
+  []
+why_confusing: the dawning of an era 可指时代开端。

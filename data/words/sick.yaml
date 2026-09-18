@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sick
+word: sick
+pos: adjective
+zh: 不舒服的，有病的；恶心的
+en: Means 不舒服的，有病的；恶心的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sick
+    form: sick
+    meaning_in_word: ill / 生病
+    zh: 生病
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - airsickness
+  - homesick
+  - sickness
+word_family_details:
+  - word: airsickness
+    en: Means 晕机; reviewed from the TOEFL source gloss for learner display.
+    zh: 晕机
+  - word: homesick
+    en: Means 思家的，思乡病的; reviewed from the TOEFL source gloss for learner display.
+    zh: 思家的，思乡病的
+  - word: sickness
+    en: Means 疾病；呕吐; reviewed from the TOEFL source gloss for learner display.
+    zh: 疾病；呕吐
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

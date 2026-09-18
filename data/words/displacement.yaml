@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: displacement
+word: displacement
+pos: noun
+zh: 移置；转移；取代
+en: movement from a usual place, or replacement by something else
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: away
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: place
+    form: place
+    meaning_in_word: place
+    zh: 地方；场所
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - displace
+word_family_details:
+  - word: displace
+    en: to move from the usual place or replace someone or something
+    zh: 移置；转移；取代
+confusables:
+  []
+examples:
+  []
+why_confusing: displacement 在物理、心理、人口迁移中都有专门用法。

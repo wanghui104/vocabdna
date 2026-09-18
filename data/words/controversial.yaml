@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: controversial
+word: controversial
+pos: adjective
+zh: 有争议的；引起争论的
+en: likely to cause disagreement or argument
+components:
+  - morpheme: vert
+    form: controvers
+    meaning_in_word: debate
+    zh: 转、转向
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ial
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - controversy
+word_family_details:
+  - word: controversy
+    en: public disagreement or argument about something
+    zh: 争论；辩论
+confusables:
+  []
+examples:
+  []
+why_confusing: controversial issue/decision 常见。

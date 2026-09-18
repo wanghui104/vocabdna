@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: appropriate
+word: appropriate
+pos: verb/adjective
+zh: 适当的 / 拨款；占用
+en: Means 适当的 / 拨款；占用; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ap
+    form: ap-
+    meaning_in_word: 向；到
+    zh: 向；到
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ap.
+  - morpheme: propri
+    form: propri
+    meaning_in_word: propri
+    zh: propri
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:propri.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ate.
+word_family:
+  - appropriation
+word_family_details:
+  - word: appropriation
+    en: money set aside for a purpose, or the act of taking something for one's own use
+    zh: 拨款；拨用；挪用
+confusables:
+  - word: approximate
+    reason: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.
+    zh_reason: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

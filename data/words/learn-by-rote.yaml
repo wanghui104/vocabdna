@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: learn-by-rote
+word: learn by rote
+pos: noun
+zh: 死记硬背学习
+en: Means 死记硬背学习; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: learn
+    form: learn
+    meaning_in_word: learn
+    zh: learn
+    role: root
+    is_core: true
+    note: Second-pass reviewed piece; source/deeper layer shown on root root:learn.
+  - morpheme: by
+    form: by
+    meaning_in_word: 由；被；靠
+    zh: 由；被；靠
+    role: root
+    is_core: true
+    note: Second-pass reviewed piece; source/deeper layer shown on root root:by.
+  - morpheme: rote
+    form: rote
+    meaning_in_word: 机械记忆
+    zh: 机械记忆
+    role: root
+    is_core: true
+    note: Second-pass reviewed piece; source/deeper layer shown on root root:rote.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

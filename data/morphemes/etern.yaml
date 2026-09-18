@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: etern
+display: etern
+type: root
+core_meaning: lasting for an age
+zh: 长久；永恒
+origin: Latin
+source_form: Latin aeternus, aeviternus, aevum
+source_meaning: lasting for an age
+source_meaning_zh: 长久；永恒
+source_note: aeternus 为 aeviternus 收缩形，深层 aevum 年代、生命 + 历史形容词构词层；表层 etern- + -al。
+related_morphemes:
+  []
+senses:
+  - meaning: lasting for an age
+    zh: 长久；永恒
+    examples:
+      - eternal
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - etern -> eternal
+high_value_words:
+  - eternal
+confusable_words:
+  []

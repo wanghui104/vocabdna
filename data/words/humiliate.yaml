@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: humiliate
+word: humiliate
+pos: verb
+zh: 羞辱，使丢脸
+en: Means 羞辱，使丢脸; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: hum
+    form: hum
+    meaning_in_word: 土地；低下
+    zh: 土地；低下
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hum.
+  - morpheme: iliate
+    form: iliate
+    meaning_in_word: iliate
+    zh: iliate
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:iliate.
+word_family:
+  - humble
+  - humility
+word_family_details:
+  - word: humble
+    en: Means 卑贱的；谦逊的; reviewed from the TOEFL source gloss for learner display.
+    zh: 卑贱的；谦逊的
+  - word: humility
+    en: Means 谦卑; reviewed from the TOEFL source gloss for learner display.
+    zh: 谦卑
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

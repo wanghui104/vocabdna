@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coherent
+word: coherent
+pos: adjective
+zh: 粘在一起的；连贯的；有条理的
+en: clear, logical, and connected
+components:
+  - morpheme: com
+    form: co-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: haer
+    form: her
+    meaning_in_word: stick
+    zh: 连贯；凝聚
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ent
+    meaning_in_word: having quality
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - cohere
+  - coherence
+  - cohesion
+  - cohesive
+word_family_details:
+  - word: cohere
+    en: to stick together or form a logical whole
+    zh: 连贯；粘合
+  - word: coherence
+    en: the quality of being logical and connected
+    zh: 一致；连贯性
+  - word: cohesion
+    en: the force or quality of sticking together
+    zh: 附着力；凝聚力
+  - word: cohesive
+    en: sticking together well or forming a united whole
+    zh: 粘着的；有凝聚力的
+confusables:
+  []
+examples:
+  []
+why_confusing: coherent argument/explanation 常见。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: toxin
+word: toxin
+pos: noun
+zh: 生物毒素
+en: a poison produced by a living organism
+components:
+  - morpheme: tox
+    form: tox
+    meaning_in_word: poison / 毒
+    zh: 毒
+    role: root
+    is_core: true
+    note: toxikon 原为箭毒，关联 toxon 弓；更深来源有争议，不强拆。
+  - morpheme: in-substance
+    form: -in
+    meaning_in_word: substance / 物质
+    zh: 物质
+    role: suffix
+    is_core: false
+    note: toxin 的 -in 是物质名词后缀，不是前缀 in-。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

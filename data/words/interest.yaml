@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: interest
+word: interest
+pos: noun
+zh: 兴趣；利息
+en: Means 兴趣；利息; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: inter
+    form: inter-
+    meaning_in_word: 在……之间；相互
+    zh: 在……之间；相互
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:inter.
+  - morpheme: est
+    form: est
+    meaning_in_word: 处于其间；关涉
+    zh: 处于其间；关涉
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:est.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

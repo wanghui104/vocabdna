@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hibernate
+word: hibernate
+pos: verb
+zh: 冬眠
+en: Means 冬眠; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hibern
+    form: hibern
+    meaning_in_word: hibern
+    zh: 冬季；越冬
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hibern.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Suffix layer from Latin -atus / -are.
+word_family:
+  - hibernation
+word_family_details:
+  - word: hibernation
+    en: Means 冬眠; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 冬眠
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

@@ -5,6 +5,9 @@ type: root
 core_meaning: build, arrange
 zh: 建造、排列
 origin: Latin
+source_form: Latin struere, structus
+source_meaning: build, arrange
+source_meaning_zh: 建造；排列
 related_morphemes:
   []
 senses:
@@ -12,16 +15,46 @@ senses:
     zh: 建造、排列
     examples:
       - construct
+      - construction
+      - destroy
       - destruct
+      - destruction
+      - destructive
+      - instruct
+      - instruction
+      - instructive
+      - obstruct
+      - obstruction
+      - unobstructed
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - struct -> construct
+  - struct -> construction
+  - stroy -> destroy
   - struct -> destruct
+  - struct -> destruction
+  - struct -> destructive
+  - struct -> instruct
+  - struct -> instruction
+  - struct -> instructive
+  - struct -> obstruct
+  - struct -> obstruction
+  - struct -> unobstructed
 high_value_words:
   - construct
+  - construction
+  - destroy
   - destruct
+  - destruction
+  - destructive
+  - instruct
+  - instruction
+  - instructive
+  - obstruct
+  - obstruction
+  - unobstructed
 confusable_words:
   []

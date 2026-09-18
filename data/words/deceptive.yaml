@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deceptive
+word: deceptive
+pos: adjective
+zh: 欺骗的；导致误解的
+en: likely to make someone believe something false
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away, wrong
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: cap
+    form: cept
+    meaning_in_word: take
+    zh: 拿；抓；容纳
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: tending to
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - deceive
+  - deception
+word_family_details:
+  - word: deceive
+    en: to make someone believe something false
+    zh: 欺骗；行骗
+  - word: deception
+    en: the act of deceiving or a trick that deceives
+    zh: 欺骗；诡计
+confusables:
+  []
+examples:
+  []
+why_confusing: deceptive appearance/advertising 常见。

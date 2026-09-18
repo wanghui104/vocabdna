@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: larvae
+word: larvae
+pos: noun
+zh: 幼虫
+en: Means 幼虫; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: larv
+    form: larv
+    meaning_in_word: 幼虫；面具
+    zh: 幼虫；面具
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:larv.
+  - morpheme: ae
+    form: ae
+    meaning_in_word: ae
+    zh: ae
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ae.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

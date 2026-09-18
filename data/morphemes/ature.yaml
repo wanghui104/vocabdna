@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ature
+display: ature
+type: root
+core_meaning: ature
+zh: ature
+origin: English
+source_form: English ature
+source_meaning: ature
+source_meaning_zh: ature
+related_morphemes:
+  []
+senses:
+  - meaning: ature
+    zh: ature
+    examples:
+      - legislature
+      - miniature
+      - temperature
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ature -> legislature
+  - ature -> miniature
+  - -ature -> temperature
+high_value_words:
+  - legislature
+  - miniature
+  - temperature
+confusable_words:
+  []

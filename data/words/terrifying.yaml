@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: terrifying
+word: terrifying
+pos: adjective
+zh: 恐怖的
+en: Means 恐怖的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: terrify
+    form: terrify
+    meaning_in_word: frighten / 使恐惧
+    zh: 使恐惧
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: forming adjective or gerund / 形成形容词或动名词
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - terrify
+word_family_details:
+  - word: terrify
+    en: Means 使恐怖，使惊吓; reviewed from the TOEFL source gloss for learner display.
+    zh: 使恐怖，使惊吓
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

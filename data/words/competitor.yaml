@@ -14,7 +14,7 @@ components:
   - morpheme: pet
     form: petit
     meaning_in_word: seek, strive for
-    zh: 追求、寻求、冲向
+    zh: 竞争；胜任
     role: root
     is_core: true
   - morpheme: or
@@ -25,18 +25,26 @@ components:
     is_core: false
 word_family:
   - compete
+  - competing
   - competition
   - competitive
+  - competitiveness
 word_family_details:
   - word: compete
-    en: to strive against others for a goal, prize, market, or advantage
-    zh: 竞争；比赛
+    en: to try to win or be more successful than others
+    zh: 竞争；比得上
+  - word: competing
+    en: trying to win against each other, or rival
+    zh: 有竞争性的；不相上下的
   - word: competition
-    en: rivalry or a contest in which people try to win the same goal
-    zh: 竞争；比赛；竞赛
+    en: Means 竞争，竞赛; reviewed from the TOEFL source gloss for learner display.
+    zh: 竞争，竞赛
   - word: competitive
     en: involving competition or rivalry
     zh: 竞争的；比赛的
+  - word: competitiveness
+    en: the ability to compete successfully
+    zh: 竞争能力
 confusables:
   - word: competent
     reason: competitor 是竞争者；competent 是有能力的。

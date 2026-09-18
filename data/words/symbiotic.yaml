@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: symbiotic
+word: symbiotic
+pos: adjective
+zh: 共栖的，共生的
+en: Means 共栖的，共生的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sym
+    form: sym-
+    meaning_in_word: together / 共同
+    zh: 共同
+    role: prefix
+    is_core: false
+  - morpheme: bio
+    form: bio
+    meaning_in_word: life / 生命
+    zh: 生命
+    role: root
+    is_core: true
+  - morpheme: otic
+    form: -otic
+    meaning_in_word: relating to / 与…有关
+    zh: otic
+    role: suffix
+    is_core: false
+word_family:
+  - symbiosis
+word_family_details:
+  - word: symbiosis
+    en: Means 共生（关系），共栖; reviewed from the TOEFL source gloss for learner display.
+    zh: 共生（关系），共栖
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

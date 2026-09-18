@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dessert
+word: dessert
+pos: noun
+zh: 餐后甜点
+en: sweet food served at the end of a meal
+components:
+  - morpheme: dessert
+    form: dessert
+    meaning_in_word: final sweet course
+    zh: 餐后甜点
+    role: root
+    is_core: true
+    note: 表层 dessert；French desservir 清理餐桌 = des- 撤去 + servir 上菜、服务。词尾 -sert 来自法语历史变化，不是 desert 的 serere。
+    related_morphemes:
+      - dis
+      - serve
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: desert
+    reason: dessert 是甜点；desert 是沙漠或抛弃。
+    zh_reason: dessert 是甜点；desert 是沙漠或抛弃。
+examples:
+  []
+why_confusing: dessert 是甜点；desert 是沙漠或抛弃。

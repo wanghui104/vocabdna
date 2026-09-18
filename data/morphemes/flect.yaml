@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flect
+display: flect
+type: root
+core_meaning: bend
+zh: 弯曲
+origin: Latin
+source_form: Latin flectere
+source_meaning: bend
+source_meaning_zh: 弯曲
+related_morphemes:
+  []
+senses:
+  - meaning: bend
+    zh: 弯曲
+    examples:
+      - inflexible
+      - reflection
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - flect -> inflexible
+  - flect -> reflection
+high_value_words:
+  - inflexible
+  - reflection
+confusable_words:
+  []

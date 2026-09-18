@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: buckle
+word: buckle
+pos: noun/verb
+zh: 扣环；扣紧；弯曲
+en: a clasp for fastening, or to fasten or bend under pressure
+components:
+  - morpheme: buckle
+    form: buckle
+    meaning_in_word: clasp, bend
+    zh: 扣环；扣紧；弯曲
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: buckle up 指系安全带。

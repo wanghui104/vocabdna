@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: debris
+word: debris
+pos: noun
+zh: 废墟；残骸；碎片
+en: broken pieces or remains left after destruction
+components:
+  - morpheme: debris
+    form: debris
+    meaning_in_word: broken remains
+    zh: 碎片；残骸
+    role: root
+    is_core: true
+    note: 表层 debris；深层 French débris ← débriser = de- 分解、加强 + briser 打破（Late Latin brisare）。词尾 s 不是英语复数，英语通常作不可数名词。
+    related_morphemes:
+      - de
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: debris 通常不可数，s 不发音。

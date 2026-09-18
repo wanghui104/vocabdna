@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: oxy
+display: oxy
+type: root
+core_meaning: acid/sharp; oxygen combining form
+zh: 酸/尖；oxygen 构词成分
+origin: teaching morphology
+source_form: oxy
+source_meaning: acid/sharp; oxygen combining form
+source_meaning_zh: 酸/尖；oxygen 构词成分
+related_morphemes:
+  []
+senses:
+  - meaning: acid/sharp; oxygen combining form
+    zh: 酸/尖；oxygen 构词成分
+    examples:
+      - oxygen
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - oxy -> oxygen
+high_value_words:
+  - oxygen
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contagious
+word: contagious
+pos: adjective
+zh: 传染性的；有感染力的
+en: able to spread by contact or influence
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tamin
+    form: tag
+    meaning_in_word: touch
+    zh: 接触；污染
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ious
+    meaning_in_word: having quality
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: contagious disease/laughter 常见。

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: soph
+display: soph
+type: root
+core_meaning: soph
+zh: soph
+origin: teaching morphology
+source_form: soph
+source_meaning: soph
+source_meaning_zh: soph
+related_morphemes:
+  []
+senses:
+  - meaning: soph
+    zh: soph
+    examples:
+      - philosophy
+      - sophisticated
+      - sophistication
+      - unsophisticated
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - soph -> philosophy
+  - soph -> sophisticated
+  - soph -> sophistication
+  - soph -> unsophisticated
+high_value_words:
+  - philosophy
+  - sophisticated
+  - sophistication
+  - unsophisticated
+confusable_words:
+  []

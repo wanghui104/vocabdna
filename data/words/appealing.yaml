@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: appealing
+word: appealing
+pos: adjective
+zh: 动人的；有吸引力的
+en: attractive or pleasing
+components:
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: pell
+    form: peal
+    meaning_in_word: call upon
+    zh: 推动；召唤；诉诸
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: causing
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - appeal
+word_family_details:
+  - word: appeal
+    en: the power to attract or interest someone
+    zh: 吸引力；吸引
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fume
+word: fume
+pos: noun/verb
+zh: 烟；烟气
+en: smoke or irritating vapor
+components:
+  - morpheme: fum
+    form: fume
+    meaning_in_word: smoke / 烟
+    zh: 烟
+    role: root
+    is_core: true
+    note: fume = 烟；perfume 为 per- 贯穿 + fum- 烟；fumigate 的 fum- 烟 + ig-（agere 驱动的变体）+ -ate。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

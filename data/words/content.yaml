@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: content
+word: content
+pos: noun/adjective
+zh: 内容；容量；所含之物
+en: what is contained in something
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tain
+    form: tent
+    meaning_in_word: hold
+    zh: 持有；包含
+    role: root
+    is_core: true
+word_family:
+  - contented
+word_family_details:
+  - word: contented
+    en: happy and satisfied with what one has
+    zh: 满足的；心安的
+confusables:
+  []
+examples:
+  []
+why_confusing: content 内容重音常在第一音节；content 满足的重音常在第二音节。

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bond
+word: bond
+pos: noun
+zh: 联结；联系；化学键；公债
+en: a connection, an adhesive link, a chemical link, or a debt security
+components:
+  - morpheme: bond
+    form: bond
+    meaning_in_word: binding tie
+    zh: 联结；债券；化学键
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: bond 作金融词是债券，作关系词是纽带。

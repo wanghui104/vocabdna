@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fiber
+word: fiber
+pos: noun
+zh: 纤维；纤维丝
+en: a thin threadlike strand of material
+components:
+  - morpheme: fiber
+    form: fiber
+    meaning_in_word: fiber, filament / 纤维
+    zh: 纤维
+    role: root
+    is_core: true
+    note: fibra 更深来源不确定；不硬拆 fi- 或 -ber。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

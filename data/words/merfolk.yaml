@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: merfolk
+word: merfolk
+pos: noun
+zh: 人鱼族；传说中的海中人形族群
+en: Legendary people of the sea imagined with human bodies and fish-like tails.
+components:
+  - morpheme: mere
+    form: mer
+    meaning_in_word: sea, lake, water
+    zh: 海；湖；水域
+    role: root
+    is_core: true
+  - morpheme: folk
+    form: folk
+    meaning_in_word: people, group
+    zh: 人群；民族；群体
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: In the tale, the merfolk guarded a city under the sea.
+    zh: 故事里，人鱼族守护着海底城市。
+why_confusing: Merfolk is usually collective; for one female figure use mermaid, and for one male figure use merman.

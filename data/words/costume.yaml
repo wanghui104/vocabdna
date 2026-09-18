@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: costume
+word: costume
+pos: noun/verb
+zh: 服装；戏装；给……穿上服装
+en: clothes worn for a role, period, or activity, or to dress someone in them
+components:
+  - morpheme: custom
+    form: costume
+    meaning_in_word: custom, dress
+    zh: 习惯、惯例
+    role: root
+    is_core: true
+    related_morphemes:
+      - com
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: costume 不等于 ordinary clothes in all contexts.

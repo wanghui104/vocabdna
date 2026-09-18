@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: calm
+word: calm
+pos: adjective/verb
+zh: 平静的；镇定的；使平静
+en: still and peaceful, or to make someone or something peaceful
+components:
+  - morpheme: calm
+    form: calm
+    meaning_in_word: stillness
+    zh: 平静；镇定
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: calm down 是使/变平静。

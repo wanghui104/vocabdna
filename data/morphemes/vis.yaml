@@ -5,23 +5,74 @@ type: root
 core_meaning: see
 zh: 看、可见
 origin: Latin
+source_form: Latin videre / video
+source_meaning: to see / I see
+source_meaning_zh: 看见
 related_morphemes:
   []
 senses:
   - meaning: see
     zh: 看、可见
     examples:
-      - visible
+      - division
+      - envision
+      - evidence
+      - evident
+      - improvise
+      - improviser
+      - improvision
+      - provision
       - revise
+      - revision
+      - subdivision
+      - supervise
+      - supervision
+      - supervisor
+      - videocassette
+      - visibility
+      - visible
+      - vision
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - vis / -ible -> visible
+  - vis -> division
+  - vis -> envision
+  - vid -> evidence
+  - vid -> evident
+  - vis -> improvise
+  - vis -> improviser
+  - vis -> improvision
+  - vis -> provision
   - vis -> revise
+  - vis -> revision
+  - vis -> subdivision
+  - vis -> supervise
+  - vis -> supervision
+  - vis -> supervisor
+  - video -> videocassette
+  - vis -> visibility
+  - vis / -ible -> visible
+  - vis -> vision
 high_value_words:
-  - visible
+  - division
+  - envision
+  - evidence
+  - evident
+  - improvise
+  - improviser
+  - improvision
+  - provision
   - revise
+  - revision
+  - subdivision
+  - supervise
+  - supervision
+  - supervisor
+  - videocassette
+  - visibility
+  - visible
+  - vision
 confusable_words:
   []

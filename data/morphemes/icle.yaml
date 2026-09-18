@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: icle
+display: icle
+type: root
+core_meaning: icle
+zh: icle
+origin: teaching morphology
+source_form: icle
+source_meaning: icle
+source_meaning_zh: icle
+related_morphemes:
+  []
+senses:
+  - meaning: icle
+    zh: icle
+    examples:
+      - particle
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - icle -> particle
+high_value_words:
+  - particle
+confusable_words:
+  []

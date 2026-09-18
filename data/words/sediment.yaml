@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sediment
+word: sediment
+pos: noun
+zh: 沉积物，沉淀物
+en: Means 沉积物，沉淀物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sed
+    form: sed
+    meaning_in_word: sit; settle / 坐；沉积
+    zh: 坐；安置
+    role: root
+    is_core: true
+  - morpheme: iment
+    form: iment
+    meaning_in_word: iment / iment
+    zh: iment
+    role: root
+    is_core: true
+word_family:
+  - sedimentary
+word_family_details:
+  - word: sedimentary
+    en: Means 沉积的，沉淀性的; reviewed from the TOEFL source gloss for learner display.
+    zh: 沉积的，沉淀性的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gallery
+word: gallery
+pos: noun
+zh: 画廊；美术馆
+en: a room or building for displaying art
+components:
+  - morpheme: gallery
+    form: gallery
+    meaning_in_word: gallery, passage / 长廊
+    zh: 长廊
+    role: root
+    is_core: true
+    note: 更深起源不确定；不是 gallant + -ery，保留借词。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: galaxy
+    reason: 
+    zh_reason: 
+  - word: gallant
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

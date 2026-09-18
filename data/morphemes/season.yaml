@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: season
+display: season
+type: root
+core_meaning: season
+zh: 季节；调味
+origin: teaching morphology
+source_form: season
+source_meaning: season
+source_meaning_zh: 季节；调味
+related_morphemes:
+  []
+senses:
+  - meaning: season
+    zh: 季节；调味
+    examples:
+      - seasonal
+      - seasoning
+      - unseasonably
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - season -> seasonal
+  - season -> seasoning
+  - season -> unseasonably
+high_value_words:
+  - seasonal
+  - seasoning
+  - unseasonably
+confusable_words:
+  []

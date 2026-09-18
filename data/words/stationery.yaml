@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stationery
+word: stationery
+pos: noun
+zh: 文具
+en: Means 文具; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: station
+    form: station
+    meaning_in_word: standing place; station / 站点；固定位置
+    zh: 站点；固定位置
+    role: root
+    is_core: true
+  - morpheme: ery
+    form: -ery
+    meaning_in_word: place or collection / 场所；集合
+    zh: 场所；活动
+    role: suffix
+    is_core: false
+word_family:
+  - stationary
+word_family_details:
+  - word: stationary
+    en: Means 固定的；静止的; reviewed from the TOEFL source gloss for learner display.
+    zh: 固定的；静止的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

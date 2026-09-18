@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: paucity
+display: paucity
+type: root
+core_meaning: paucity
+zh: paucity
+origin: teaching morphology
+source_form: paucity
+source_meaning: paucity
+source_meaning_zh: paucity
+related_morphemes:
+  []
+senses:
+  - meaning: paucity
+    zh: paucity
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

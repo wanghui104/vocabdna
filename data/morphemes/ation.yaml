@@ -1,0 +1,258 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ation
+display: -ation
+type: suffix
+core_meaning: act or process
+zh: 动作；过程
+origin: Latin
+source_form: Latin -atio
+source_meaning: act or process
+source_meaning_zh: 动作；过程
+related_morphemes:
+  []
+senses:
+  - meaning: act or process
+    zh: 动作；过程
+    examples:
+      - avocation
+      - depredation
+      - desalination
+      - evaporation
+      - gyration
+      - hibernation
+      - illumination
+      - illustration
+      - imitation
+      - immigration
+      - impersonation
+      - implication
+      - inclination
+      - incorporation
+      - indiscrimination
+      - innovation
+      - inspiration
+      - insulation
+      - interpretation
+      - investigation
+      - irrigation
+      - isolation
+      - legislation
+      - location
+      - manifestation
+      - migration
+      - motivation
+      - navigation
+      - notation
+      - obligation
+      - occupation
+      - orientation
+      - ornamentation
+      - perspiration
+      - plantation
+      - pollination
+      - precipitation
+      - preoccupation
+      - preservation
+      - proliferation
+      - provocation
+      - purification
+      - qualification
+      - quotation
+      - radiation
+      - realization
+      - recommendation
+      - refrigeration
+      - regeneration
+      - regimentation
+      - regulation
+      - reinterpretation
+      - relaxation
+      - renovation
+      - representation
+      - respiration
+      - restoration
+      - revitalization
+      - sanitation
+      - sensation
+      - sensational
+      - starvation
+      - stimulation
+      - stipulation
+      - suburbanization
+      - supplementation
+      - termination
+      - transformation
+      - urbanization
+      - utilization
+      - vacation
+      - vaporization
+      - vegetation
+      - veneration
+      - ventilation
+      - vibration
+      - vocation
+      - vocational
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ation -> avocation
+  - -ation -> depredation
+  - -ation -> desalination
+  - -ation -> evaporation
+  - -ation -> gyration
+  - -ation -> hibernation
+  - -ation -> illumination
+  - -ation -> illustration
+  - -ation -> imitation
+  - -ation -> immigration
+  - -ation -> impersonation
+  - -ation -> implication
+  - -ation -> inclination
+  - -ation -> incorporation
+  - -ation -> indiscrimination
+  - -ation -> innovation
+  - -ation -> inspiration
+  - -ation -> insulation
+  - -ation -> interpretation
+  - -ation -> investigation
+  - -ation -> irrigation
+  - -ation -> isolation
+  - -ation -> legislation
+  - -ation -> location
+  - -ation -> manifestation
+  - -ation -> migration
+  - -ation -> motivation
+  - -ation -> navigation
+  - -ation -> notation
+  - -ation -> obligation
+  - -ation -> occupation
+  - -ation -> orientation
+  - -ation -> ornamentation
+  - -ation -> perspiration
+  - -ation -> plantation
+  - -ation -> pollination
+  - -ation -> precipitation
+  - -ation -> preoccupation
+  - -ation -> preservation
+  - -ation -> proliferation
+  - -ation -> provocation
+  - -ation -> purification
+  - -ation -> qualification
+  - -ation -> quotation
+  - -ation -> radiation
+  - -ation -> realization
+  - -ation -> recommendation
+  - -ation -> refrigeration
+  - -ation -> regeneration
+  - -ation -> regimentation
+  - -ation -> regulation
+  - -ation -> reinterpretation
+  - -ation -> relaxation
+  - -ation -> renovation
+  - -ation -> representation
+  - -ation -> respiration
+  - -ation -> restoration
+  - -ation -> revitalization
+  - -ation -> sanitation
+  - -ation -> sensation
+  - -ation -> sensational
+  - -ation -> starvation
+  - -ation -> stimulation
+  - -ation -> stipulation
+  - -ation -> suburbanization
+  - -ation -> supplementation
+  - -ation -> termination
+  - -ation -> transformation
+  - -ation -> urbanization
+  - -ation -> utilization
+  - -ation -> vacation
+  - -ation -> vaporization
+  - -ation -> vegetation
+  - -ation -> veneration
+  - -ation -> ventilation
+  - -ation -> vibration
+  - -ation -> vocation
+  - -ation -> vocational
+high_value_words:
+  - avocation
+  - depredation
+  - desalination
+  - evaporation
+  - gyration
+  - hibernation
+  - illumination
+  - illustration
+  - imitation
+  - immigration
+  - impersonation
+  - implication
+  - inclination
+  - incorporation
+  - indiscrimination
+  - innovation
+  - inspiration
+  - insulation
+  - interpretation
+  - investigation
+  - irrigation
+  - isolation
+  - legislation
+  - location
+  - manifestation
+  - migration
+  - motivation
+  - navigation
+  - notation
+  - obligation
+  - occupation
+  - orientation
+  - ornamentation
+  - perspiration
+  - plantation
+  - pollination
+  - precipitation
+  - preoccupation
+  - preservation
+  - proliferation
+  - provocation
+  - purification
+  - qualification
+  - quotation
+  - radiation
+  - realization
+  - recommendation
+  - refrigeration
+  - regeneration
+  - regimentation
+  - regulation
+  - reinterpretation
+  - relaxation
+  - renovation
+  - representation
+  - respiration
+  - restoration
+  - revitalization
+  - sanitation
+  - sensation
+  - sensational
+  - starvation
+  - stimulation
+  - stipulation
+  - suburbanization
+  - supplementation
+  - termination
+  - transformation
+  - urbanization
+  - utilization
+  - vacation
+  - vaporization
+  - vegetation
+  - veneration
+  - ventilation
+  - vibration
+  - vocation
+  - vocational
+confusable_words:
+  []

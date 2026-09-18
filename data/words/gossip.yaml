@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gossip
+word: gossip
+pos: noun
+zh: 社会新闻，小道传闻
+en: Means 社会新闻，小道传闻; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: gossip
+    form: gossip
+    meaning_in_word: 社会新闻，小道传闻
+    zh: 社会新闻，小道传闻
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

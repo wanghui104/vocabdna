@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: water
+display: water
+type: root
+core_meaning: water
+zh: 水
+origin: teaching morphology
+source_form: water
+source_meaning: water
+source_meaning_zh: 水
+related_morphemes:
+  []
+senses:
+  - meaning: water
+    zh: 水
+    examples:
+      - springwater
+      - underwater
+      - watercourse
+      - waterproof
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - water -> springwater
+  - water -> underwater
+  - water -> watercourse
+  - water -> waterproof
+high_value_words:
+  - springwater
+  - underwater
+  - watercourse
+  - waterproof
+confusable_words:
+  []

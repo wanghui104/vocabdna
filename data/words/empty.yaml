@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: empty
+word: empty
+pos: adjective/verb
+zh: 空的；空洞的
+en: containing nothing or lacking substance
+components:
+  - morpheme: empty
+    form: empty
+    meaning_in_word: unoccupied, leisure / 空着的；闲暇
+    zh: 空着的；闲暇
+    role: root
+    is_core: true
+    note: æmettig 含 æmetta 闲暇 + -ig 性质，p 为后来的插音；更深前缀来源不明，保留 empty。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

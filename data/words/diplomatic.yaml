@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diplomatic
+word: diplomatic
+pos: adjective
+zh: 外交的；老练圆滑的
+en: related to diplomacy, or tactful in dealing with people
+components:
+  - morpheme: diplom
+    form: diplomat
+    meaning_in_word: folded document, official paper / 折叠文书；官方文件
+    zh: 折叠文书；官方文件
+    role: root
+    is_core: true
+    note: 表层 diplom-/diplomat- 官方文书；Greek diploma 是 diploun 折成两层的结果名词：diplo- 双层 + -ma 结果。diplomat- 为 diploma 的斜格词干；diplomatic = diplomat- + -ic。diplomacy 经法语 diplomatie，名词构词涉及 t/c 变化。
+    related_morphemes:
+      - di-two
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - diplomacy
+word_family_details:
+  - word: diplomacy
+    en: the management of relations by tactful negotiation
+    zh: 外交；交际手腕
+confusables:
+  []
+examples:
+  []
+why_confusing: diplomatic 可指外交，也可指说话圆滑。

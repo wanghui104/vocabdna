@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tally
+display: tally
+type: root
+core_meaning: tally; count
+zh: 记录；符合
+origin: Latin/French
+source_form: tally
+source_meaning: tally; count
+source_meaning_zh: 记录；符合
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: tally; count
+    zh: 记录；符合
+    examples:
+      - tally
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tally -> tally
+high_value_words:
+  - tally
+confusable_words:
+  []

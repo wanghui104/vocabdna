@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: citizenship
+word: citizenship
+pos: noun
+zh: 公民身份
+en: the legal status or duties of being a citizen
+components:
+  - morpheme: civ
+    form: citizen
+    meaning_in_word: citizen
+    zh: 公民；市民；文明
+    role: root
+    is_core: true
+  - morpheme: ship
+    form: -ship
+    meaning_in_word: status
+    zh: 状态；资格
+    role: suffix
+    is_core: false
+word_family:
+  - citizen
+word_family_details:
+  - word: citizen
+    en: a legally recognized member of a country or city
+    zh: 公民；市民
+confusables:
+  []
+examples:
+  []
+why_confusing: dual citizenship 指双重国籍。

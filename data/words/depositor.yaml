@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: depositor
+word: depositor
+pos: noun
+zh: 存款人
+en: a person who deposits money in a bank
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: pon
+    form: posit
+    meaning_in_word: put, place
+    zh: 放置
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - deposit
+word_family_details:
+  - word: deposit
+    en: to put or store something somewhere, especially money
+    zh: 放置；寄存；存款；押金
+confusables:
+  []
+examples:
+  []
+why_confusing: depositor 是存款人；depositary/depository 是保管处或受托保管者。

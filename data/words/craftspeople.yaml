@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: craftspeople
+word: craftspeople
+pos: noun
+zh: 手工艺人
+en: people who make things skillfully by hand
+components:
+  - morpheme: craft
+    form: craft
+    meaning_in_word: skill
+    zh: 手艺；工艺
+    role: root
+    is_core: true
+  - morpheme: people
+    form: people
+    meaning_in_word: people
+    zh: 人们
+    role: root
+    is_core: true
+word_family:
+  - craft
+word_family_details:
+  - word: craft
+    en: Means 工艺，手艺; reviewed from the TOEFL source gloss for learner display.
+    zh: 工艺，手艺
+confusables:
+  []
+examples:
+  []
+why_confusing: craftspeople is gender-neutral; craftsman/craftswoman are alternatives.

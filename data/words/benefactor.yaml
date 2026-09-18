@@ -25,15 +25,11 @@ components:
     is_core: false
     note: agent suffix placeholder until suffix catalog is expanded
 word_family:
-  - benefaction
+  []
 word_family_details:
-  - word: benefaction
-    en: related form of benefaction
-    zh: benefaction 的相关词
+  []
 confusables:
-  - word: beneficiary
-    reason: benefactor 给帮助；beneficiary 接受好处。
-    zh_reason: benefactor 给帮助；beneficiary 接受好处。
+  []
 examples:
   - en: The school thanked its benefactor publicly.
     zh: 学校公开感谢了它的捐助者。

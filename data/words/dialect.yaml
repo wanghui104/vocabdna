@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dialect
+word: dialect
+pos: noun
+zh: 方言；土话
+en: a form of a language used by a particular region or group
+components:
+  - morpheme: dia
+    form: dia-
+    meaning_in_word: between
+    zh: 穿过；横跨
+    role: prefix
+    is_core: false
+  - morpheme: leg-speak
+    form: lect
+    meaning_in_word: speak, words
+    zh: 说话；论述
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: dialect 指语言变体；accent 更偏发音口音。

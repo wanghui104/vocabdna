@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tectonics
+word: tectonics
+pos: noun
+zh: [地]构造地质学
+en: Means [地]构造地质学; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: tecton
+    form: tecton
+    meaning_in_word: builder; structure / 建造；构造
+    zh: 建造；构造
+    role: root
+    is_core: true
+  - morpheme: ics
+    form: -ics
+    meaning_in_word: art; science / 学科；术
+    zh: 学科；实践领域
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

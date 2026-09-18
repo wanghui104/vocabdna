@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exempt
+word: exempt
+pos: verb/adjective
+zh: 免除
+en: to free from an obligation or rule
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: em-empt
+    form: empt
+    meaning_in_word: take, buy / 取；买
+    zh: 取；买
+    role: root
+    is_core: true
+    note: exempt 的 empt- 是 emere 的分词词干；不等于 empty 空。
+word_family:
+  - exemption
+word_family_details:
+  - word: exemption
+    en: freedom from an obligation or rule
+    zh: 豁免；免除
+confusables:
+  []
+examples:
+  []
+why_confusing: 

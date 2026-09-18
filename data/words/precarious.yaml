@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: precarious
+word: precarious
+pos: adjective
+zh: 不稳定的；危险的
+en: Means 不稳定的；危险的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: precar
+    form: precar
+    meaning_in_word: uncertain; obtained by prayer / 不稳；祈求得来
+    zh: 不稳；祈求得来
+    role: root
+    is_core: true
+  - morpheme: ious
+    form: -ious
+    meaning_in_word: full of; having / 有…的
+    zh: ious
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

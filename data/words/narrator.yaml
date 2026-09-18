@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: narrator
+word: narrator
+pos: noun
+zh: 讲述者
+en: Means 讲述者; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: narr
+    form: narr
+    meaning_in_word: 讲述
+    zh: 讲述
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:narr.
+  - morpheme: ator
+    form: ator
+    meaning_in_word: ator
+    zh: ator
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ator.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

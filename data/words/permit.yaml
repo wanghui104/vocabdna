@@ -14,19 +14,15 @@ components:
   - morpheme: mit
     form: mit
     meaning_in_word: send
-    zh: 送、放出
+    zh: 送；提交
     role: root
     is_core: true
 word_family:
-  - permission
+  []
 word_family_details:
-  - word: permission
-    en: related form of permission
-    zh: permission 的相关词
+  []
 confusables:
-  - word: allow
-    reason: permit 作名词和动词重音可能不同。
-    zh_reason: permit 作名词和动词重音可能不同。
+  []
 examples:
   - en: The city issued a parking permit.
     zh: 市政府签发了一张停车许可证。

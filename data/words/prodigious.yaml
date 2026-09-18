@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prodigious
+word: prodigious
+pos: adjective
+zh: 巨大的，惊人的；挥霍的
+en: Means 巨大的，惊人的；挥霍的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: forward; forth / 向前；公开
+    zh: 向前、公开、代替
+    role: prefix
+    is_core: false
+  - morpheme: dig
+    form: dig
+    meaning_in_word: drive; prodigy / 推动；奇异
+    zh: 推动；奇异
+    role: root
+    is_core: true
+  - morpheme: ious
+    form: ious
+    meaning_in_word: ious / ious
+    zh: ious
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

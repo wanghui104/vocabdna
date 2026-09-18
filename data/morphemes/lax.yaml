@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lax
+display: lax
+type: root
+core_meaning: loose
+zh: 松
+origin: teaching morphology
+source_form: lax
+source_meaning: loose
+source_meaning_zh: 松
+related_morphemes:
+  []
+senses:
+  - meaning: loose
+    zh: 松
+    examples:
+      - relax
+      - relaxation
+      - relaxed
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - lax -> relax
+  - lax -> relaxation
+  - lax -> relaxed
+high_value_words:
+  - relax
+  - relaxation
+  - relaxed
+confusable_words:
+  []

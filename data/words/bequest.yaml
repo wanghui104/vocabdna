@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bequest
+word: bequest
+pos: noun
+zh: 遗产，遗赠
+en: Means 遗产，遗赠; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: be
+    form: be-
+    meaning_in_word: by; away / 在旁；离开
+    zh: 使成为、加强
+    role: prefix
+    is_core: false
+  - morpheme: quest
+    form: quest
+    meaning_in_word: seek; ask / 寻求；问题
+    zh: 寻求；问题
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

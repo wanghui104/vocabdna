@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inferior
+word: inferior
+pos: adjective
+zh: （等级、社会地位、质量等）差的；（较）低的
+en: Means （等级、社会地位、质量等）差的；（较）低的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: ferior
+    form: ferior
+    meaning_in_word: 较低
+    zh: 较低
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:ferior.
+word_family:
+  - inferiority
+word_family_details:
+  - word: inferiority
+    en: Means 自卑感; reviewed from the TOEFL source gloss for learner display.
+    zh: 自卑感
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

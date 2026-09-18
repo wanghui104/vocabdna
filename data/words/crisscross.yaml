@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crisscross
+word: crisscross
+pos: verb
+zh: 交叉往来；纵横交错
+en: to move or form a pattern by crossing back and forth
+components:
+  - morpheme: christ
+    form: criss
+    meaning_in_word: the anointed one; Christ / 受膏者；基督
+    zh: 受膏者；基督
+    role: root
+    is_core: true
+    note: 现代意为纵横交错；历史来自 Christ’s cross（Middle English Cristes-cros），criss- 不是 cross 的同源重复。
+  - morpheme: cross
+    form: cross
+    meaning_in_word: cross / 交叉；杂交
+    zh: 交叉；杂交
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可作动词，也可形容交错图案。

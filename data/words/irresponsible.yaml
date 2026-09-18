@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: irresponsible
+word: irresponsible
+pos: adjective
+zh: 不负责任的，不可靠的
+en: Means 不负责任的，不可靠的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ir
+    form: ir-
+    meaning_in_word: not; into / 不；进入
+    zh: 不；入
+    role: prefix
+    is_core: false
+  - morpheme: respons
+    form: respons
+    meaning_in_word: answer; responsibility / 回应；责任
+    zh: 回应；责任
+    role: root
+    is_core: true
+  - morpheme: ible
+    form: -ible
+    meaning_in_word: able to be / 可…的
+    zh: 可……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

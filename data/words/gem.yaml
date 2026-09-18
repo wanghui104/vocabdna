@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gem
+word: gem
+pos: noun
+zh: 宝石
+en: a precious or semiprecious stone
+components:
+  - morpheme: gem
+    form: gem
+    meaning_in_word: bud, precious stone / 芽；宝石
+    zh: 芽；宝石
+    role: root
+    is_core: true
+    note: 由形状比喻联系芽与宝石，更深来源未定；gemstone = gem + stone。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

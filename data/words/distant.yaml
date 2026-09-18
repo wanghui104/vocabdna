@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distant
+word: distant
+pos: adjective
+zh: 远离的；遥远的；疏远的
+en: far away in space, time, or relationship
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: stand
+    form: st
+    meaning_in_word: stand, state / 站立；状态
+    zh: 站立；状态
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having quality, doing / 具有…性质；正在…
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - distance
+word_family_details:
+  - word: distance
+    en: the amount of space or time between things
+    zh: 距离；远处
+confusables:
+  - word: distent
+    reason: distant 可指距离、时间或情感疏远。
+    zh_reason: distant 可指距离、时间或情感疏远。
+examples:
+  []
+why_confusing: distant 可指距离、时间或情感疏远。

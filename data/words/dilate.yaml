@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dilate
+word: dilate
+pos: verb
+zh: 使膨胀；使扩大
+en: to become wider or make something wider
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: lat
+    form: late
+    meaning_in_word: broad, wide / 宽阔
+    zh: 宽阔
+    role: root
+    is_core: true
+    note: 来自 Latin dilatare，dis- 向外 + latus 宽；当前用 di- + late 展示历史宽阔词干，-ate 不可再重复接一次而拼成 dilatate。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 瞳孔扩大常用 pupils dilate。

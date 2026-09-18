@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: condor
+word: condor
+pos: noun
+zh: 秃鹰；神鹰
+en: a very large vulture of the Americas
+components:
+  - morpheme: condor
+    form: condor
+    meaning_in_word: condor
+    zh: 秃鹰
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: condor 不是一般 eagle。

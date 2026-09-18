@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: convex
+word: convex
+pos: adjective
+zh: 凸出的；凸面的
+en: curving outward like the outside of a sphere
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: veh-vex
+    form: vex
+    meaning_in_word: carry together, arch
+    zh: 拱起；凸出
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: concave
+    reason: convex 与 concave 凹的相对。
+    zh_reason: convex 与 concave 凹的相对。
+examples:
+  []
+why_confusing: convex 与 concave 凹的相对。

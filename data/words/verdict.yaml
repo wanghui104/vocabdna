@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: verdict
+word: verdict
+pos: noun
+zh: [律](陪审团的)裁决
+en: Means [律](陪审团的)裁决; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: verdict
+    form: verdict
+    meaning_in_word: 真实裁决
+    zh: 真实裁决
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:verdict.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

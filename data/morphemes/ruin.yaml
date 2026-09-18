@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ruin
+display: ruin
+type: root
+core_meaning: ruin
+zh: 毁坏
+origin: teaching morphology
+source_form: ruin
+source_meaning: ruin
+source_meaning_zh: 毁坏
+related_morphemes:
+  []
+senses:
+  - meaning: ruin
+    zh: 毁坏
+    examples:
+      - ruin
+      - ruins
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ruin -> ruin
+  - ruin -> ruins
+high_value_words:
+  - ruin
+  - ruins
+confusable_words:
+  []

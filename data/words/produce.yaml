@@ -1,37 +1,34 @@
 # Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: produce
 word: produce
-pos: verb/noun
-zh: 生产；产生；农产品
-en: to make or bring something forth
+pos: verb
+zh: 生产 n. 农副产品
+en: Means 生产 n. 农副产品; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: pro
     form: pro-
-    meaning_in_word: forth
+    meaning_in_word: forward; forth / 向前；公开
     zh: 向前、公开、代替
     role: prefix
     is_core: false
   - morpheme: duc
-    form: duce
-    meaning_in_word: lead
-    zh: 引导、带领
+    form: duc
+    meaning_in_word: lead; produce / 引导；生产
+    zh: 引导；传导
+    role: root
+    is_core: true
+  - morpheme: e
+    form: e
+    meaning_in_word: e / e
+    zh: 出；离开；加强
     role: root
     is_core: true
 word_family:
-  - production
-  - producer
+  []
 word_family_details:
-  - word: production
-    en: related form of production
-    zh: production 的相关词
-  - word: producer
-    en: related form of producer
-    zh: producer 的相关词
+  []
 confusables:
-  - word: product
-    reason: produce 作名词可指农产品，重音不同。
-    zh_reason: produce 作名词可指农产品，重音不同。
+  []
 examples:
-  - en: The process produces less waste.
-    zh: 这个过程产生更少废料。
-why_confusing: produce 作名词可指农产品，重音不同。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

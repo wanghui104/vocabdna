@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hurdling
+word: hurdling
+pos: noun/verb
+zh: 跨栏运动；正在跨越
+en: the sport or action of jumping over barriers; also the present participle of hurdle
+components:
+  - morpheme: hurdle
+    form: hurdl
+    meaning_in_word: barrier to cross / 待跨越的栏障
+    zh: 栏障；待跨越或克服的障碍
+    role: root
+    is_core: true
+    note: hurdle 去掉词尾不发音 e 的词干形式，用于 hurdler、hurdling。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: action, activity, or ongoing process / 动作、活动或持续过程
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - hurdle
+  - hurdler
+  - hurdles
+word_family_details:
+  - word: hurdle
+    en: a barrier in a race or a difficulty to overcome; to jump over a barrier or overcome a difficulty
+    zh: 栏架；障碍；跨越；克服
+  - word: hurdler
+    en: an athlete who competes in races involving jumps over barriers
+    zh: 跨栏运动员
+  - word: hurdles
+    en: a race with barriers to jump over; plural barriers or difficulties; also the third-person singular form of the verb hurdle
+    zh: 跨栏赛；栏架或障碍的复数；hurdle 的第三人称单数
+confusables:
+  []
+examples:
+  - en: Good hurdling depends on rhythm as well as speed.
+    zh: 出色的跨栏表现既依靠速度，也依靠节奏。
+  - en: The runners were hurdling the barriers in quick succession.
+    zh: 跑者们正接连跨越栏架。
+why_confusing: 去掉 hurdle 末尾的 e 后加 -ing，写作 hurdling。hurtling 指疾驰，hurling 可指投掷或爱尔兰曲棍球运动；三个词不要混写。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: herald
+word: herald
+pos: verb
+zh: 宣布…的消息；预示…的来临
+en: Means 宣布…的消息；预示…的来临; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: herald
+    form: herald
+    meaning_in_word: 传令官；预告者
+    zh: 宣布…的消息；预示…的来临
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:herald.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

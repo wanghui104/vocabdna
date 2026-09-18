@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brim
+word: brim
+pos: noun
+zh: 边；边缘
+en: the edge of a cup, hat, or container
+components:
+  - morpheme: brim
+    form: brim
+    meaning_in_word: edge
+    zh: 边；边缘
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: to the brim 表示满到边缘。

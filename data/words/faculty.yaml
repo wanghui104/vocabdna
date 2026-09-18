@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: faculty
+word: faculty
+pos: noun
+zh: 能力；全体教师；院系
+en: an ability; the teaching staff or a division of a university
+components:
+  - morpheme: facil
+    form: facult
+    meaning_in_word: easy to do, ability / 易做；能力
+    zh: 易做；能力
+    role: root
+    is_core: true
+    note: facult- + -y；深层 facultas 是 facilis（facere 做 + -ilis）加 -tas 状态并经收缩音变，不把 faculty 留成不可解释整词。
+    related_morphemes:
+      - fac
+      - ile
+  - morpheme: y-noun
+    form: -y
+    meaning_in_word: state, activity, result / 状态；活动；结果
+    zh: 状态；活动；结果
+    role: suffix
+    is_core: false
+    note: 名词 -y 与形容词 -y（古英语 -ig）分开。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fascinating
+word: fascinating
+pos: adjective
+zh: 迷人的；极有吸引力的
+en: extremely interesting
+components:
+  - morpheme: fascin
+    form: fascin
+    meaning_in_word: bewitch, charm / 施魔法；迷住
+    zh: 施魔法；迷住
+    role: root
+    is_core: true
+    note: fascin- 来自 fascinare、fascinum 魔咒；更深起源有争议，不能按 fas + cin 臆拆。
+  - morpheme: ate
+    form: -at
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - fascinate
+  - fascination
+word_family_details:
+  - word: fascinate
+    en: to attract and hold attention strongly
+    zh: 使着迷
+  - word: fascination
+    en: intense interest or the power to attract it
+    zh: 着迷；吸引力
+confusables:
+  []
+examples:
+  []
+why_confusing: 

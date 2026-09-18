@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ice-cream-cone
+word: ice cream cone
+pos: noun
+zh: 冰淇淋蛋卷
+en: Means 冰淇淋蛋卷; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ice
+    form: ice
+    meaning_in_word: 冰
+    zh: 冰
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:ice.
+  - morpheme: cream
+    form: cream
+    meaning_in_word: 奶油
+    zh: 奶油
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:cream.
+  - morpheme: cone
+    form: cone
+    meaning_in_word: 圆锥；松果
+    zh: 圆锥；松果
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:cone.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cast-iron
+word: cast-iron
+pos: adjective
+zh: 铸铁的；坚固的
+en: made of cast iron, or very strong and certain
+components:
+  - morpheme: cast
+    form: cast
+    meaning_in_word: cast metal
+    zh: 投；铸造；传播
+    role: root
+    is_core: true
+  - morpheme: iron
+    form: iron
+    meaning_in_word: iron
+    zh: 铁
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cast-iron guarantee 指铁定保证。

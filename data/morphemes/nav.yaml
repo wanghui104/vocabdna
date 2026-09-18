@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nav
+display: nav
+type: root
+core_meaning: ship
+zh: 船；航行
+origin: Latin
+source_form: Latin navis
+source_meaning: ship
+source_meaning_zh: 船；航行
+related_morphemes:
+  []
+senses:
+  - meaning: ship
+    zh: 船；航行
+    examples:
+      - naval
+      - navigate
+      - navigation
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - nav -> naval
+  - nav -> navigate
+  - nav -> navigation
+high_value_words:
+  - naval
+  - navigate
+  - navigation
+confusable_words:
+  []

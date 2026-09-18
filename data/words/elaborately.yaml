@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elaborately
+word: elaborately
+pos: adverb
+zh: 精细地；详尽地
+en: with much detail or careful preparation
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: labor
+    form: labor
+    meaning_in_word: work, toil / 劳动
+    zh: 劳动
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - elaborate
+word_family_details:
+  - word: elaborate
+    en: having many carefully arranged details
+    zh: 精心制作的；详尽的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

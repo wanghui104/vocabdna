@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mushroom
+word: mushroom
+pos: noun/verb
+zh: 蘑菇 / 迅速生长
+en: Means 蘑菇 / 迅速生长; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mushroom
+    form: mushroom
+    meaning_in_word: 蘑菇
+    zh: 蘑菇
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mushroom.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

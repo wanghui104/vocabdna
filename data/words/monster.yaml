@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: monster
+word: monster
+pos: noun
+zh: 怪物，巨兽
+en: Means 怪物，巨兽; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: monster
+    form: monster
+    meaning_in_word: 怪物；预兆
+    zh: 怪物；预兆
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:monster.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

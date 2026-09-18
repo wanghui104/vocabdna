@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contiguous
+word: contiguous
+pos: adjective
+zh: 接近的；接壤的；连续相邻的
+en: touching or next to something without a gap
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tang
+    form: tigu
+    meaning_in_word: touch
+    zh: 触碰；达到
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: having quality
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: contingent
+    reason: contiguous states/areas 常见。
+    zh_reason: contiguous states/areas 常见。
+examples:
+  []
+why_confusing: contiguous states/areas 常见。

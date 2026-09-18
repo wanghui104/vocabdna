@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adornment
+word: adornment
+pos: noun
+zh: 装饰；装饰品
+en: decoration, or something used for decoration
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: orn-order
+    form: orn
+    meaning_in_word: decorate
+    zh: 装饰；安排
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: thing or result
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - adorn
+  - unadorned
+word_family_details:
+  - word: adorn
+    en: to decorate or add beauty to something
+    zh: 装饰
+  - word: unadorned
+    en: Means 未装饰的,朴实的; reviewed from the TOEFL source gloss for learner display.
+    zh: 未装饰的,朴实的
+confusables:
+  []
+examples:
+  - en: The vase needed no adornment.
+    zh: 这个花瓶无需装饰。
+why_confusing: 可以抽象指装饰，也可以具体指装饰品。

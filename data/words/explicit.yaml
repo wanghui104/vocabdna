@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: explicit
+word: explicit
+pos: adjective
+zh: 明确的；详尽直白的
+en: stated clearly and fully; showing detail directly
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: plic
+    form: plic
+    meaning_in_word: fold, attach, apply / 折叠；贴合；应用
+    zh: 折叠；贴合；应用
+    role: root
+    is_core: true
+    note: ex- 出 + plic- 折 + -it（Latin -itus 分词结尾），展开而明示；it 不是英语代词。
+  - morpheme: it-participle
+    form: -it
+    meaning_in_word: participial formation / 分词构词层
+    zh: 分词构词层
+    role: suffix
+    is_core: false
+    note: explicit/implicit 的 -it 对应 Latin -itus；expenditure 的 it 来自 Medieval Latin expenditus。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: implicit
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

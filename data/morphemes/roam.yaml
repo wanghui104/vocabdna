@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: roam
+display: roam
+type: root
+core_meaning: roam
+zh: 漫游
+origin: teaching morphology
+source_form: roam
+source_meaning: roam
+source_meaning_zh: 漫游
+related_morphemes:
+  []
+senses:
+  - meaning: roam
+    zh: 漫游
+    examples:
+      - roam
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - roam -> roam
+high_value_words:
+  - roam
+confusable_words:
+  []

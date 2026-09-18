@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: currently
+word: currently
+pos: adverb
+zh: 现在；当前
+en: at the present time
+components:
+  - morpheme: curr
+    form: curr
+    meaning_in_word: run, flow, course / 跑；流动；路线
+    zh: 跑；流动；路线
+    role: root
+    is_core: true
+    note: 表层 current + -ly；current 内层 curr- 流动 + -ent 性质，不能把 current 全部标成 curr 词根。
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: one who, that which, having the quality of / ……的人；具有……性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - current
+word_family_details:
+  - word: current
+    en: a flow of water, air, electricity, or opinion
+    zh: 水流；气流；电流；趋势
+confusables:
+  []
+examples:
+  []
+why_confusing: currently 通常放句首或动词前后。

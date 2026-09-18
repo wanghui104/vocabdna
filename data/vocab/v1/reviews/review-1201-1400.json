@@ -1,0 +1,2048 @@
+{
+  "range": [
+    1201,
+    1400
+  ],
+  "sheet": "1001-2000",
+  "startRow": 219,
+  "endRow": 447,
+  "reviewed": 200,
+  "changedWords": [
+    "a-cushion-of",
+    "a-good-deal",
+    "a-great-deal",
+    "accustomed",
+    "adept",
+    "agriculture",
+    "air-cushion-vehicle",
+    "condenser",
+    "crazy",
+    "credence",
+    "credentials",
+    "credit",
+    "creditor",
+    "crevice",
+    "crew",
+    "cripple",
+    "crippling",
+    "crisscross",
+    "critical",
+    "critical-point",
+    "critique",
+    "crossbones",
+    "crumble",
+    "crumple",
+    "crustacean",
+    "crystalline",
+    "cube",
+    "cubic",
+    "culinary",
+    "cultivate",
+    "cultivation",
+    "culture",
+    "curator",
+    "curiosity",
+    "currency",
+    "currently",
+    "curriculum",
+    "cushion",
+    "custodian",
+    "custom",
+    "customarily",
+    "customer",
+    "customs",
+    "cuticle",
+    "daisy",
+    "dangerous",
+    "debatable",
+    "debate",
+    "debris",
+    "debt",
+    "debtor",
+    "decomposition",
+    "defer",
+    "deference",
+    "deficiency",
+    "deficit",
+    "definite",
+    "definitely",
+    "definition",
+    "definitive",
+    "deft",
+    "deity",
+    "delay",
+    "delectable",
+    "delegate",
+    "deliberate",
+    "deliberately",
+    "delicate",
+    "delicious",
+    "delirium",
+    "demobilize",
+    "dent",
+    "dental",
+    "dentist",
+    "dentistry",
+    "dependence",
+    "dependent",
+    "depot",
+    "derivative",
+    "derive",
+    "derive-from",
+    "desalination",
+    "edentate",
+    "horticulture",
+    "immobilize",
+    "indent",
+    "indenture",
+    "independent",
+    "interdependent",
+    "rodent",
+    "screwdriver",
+    "the-red-cross",
+    "under-the-depressor",
+    "validate"
+  ],
+  "changedRoots": [
+    "root:a-article",
+    "root:al",
+    "root:an-member",
+    "root:apt",
+    "root:ary",
+    "root:cad-cid-cas",
+    "root:cap",
+    "root:christ",
+    "root:cracy",
+    "root:craze",
+    "root:cred",
+    "root:cresc",
+    "root:crev",
+    "root:crew",
+    "root:crip",
+    "root:crit",
+    "root:crum",
+    "root:crump",
+    "root:crustacea",
+    "root:crystal",
+    "root:cube",
+    "root:cule",
+    "root:cult",
+    "root:cushion",
+    "root:custom",
+    "root:cutis",
+    "root:cy",
+    "root:cyl",
+    "root:danger",
+    "root:dare",
+    "root:debate",
+    "root:debris",
+    "root:debt",
+    "root:decem",
+    "root:delay",
+    "root:demo",
+    "root:dent",
+    "root:dent-blow",
+    "root:depot",
+    "root:deus",
+    "root:drive",
+    "root:e",
+    "root:fac",
+    "root:fin",
+    "root:hort",
+    "root:hydr",
+    "root:ine",
+    "root:ion",
+    "root:ium",
+    "root:ize",
+    "root:le-frequentative",
+    "root:lect-delight",
+    "root:liber",
+    "root:mob",
+    "root:neg",
+    "root:or",
+    "root:ous",
+    "root:ple",
+    "root:riv",
+    "root:ry",
+    "root:the-article",
+    "root:valid",
+    "root:veh"
+  ],
+  "newRoots": [
+    "root:ine",
+    "root:ry",
+    "root:le-frequentative",
+    "root:crump",
+    "root:valid",
+    "root:deus",
+    "root:dent-blow",
+    "root:a-article",
+    "root:the-article",
+    "root:christ",
+    "root:crustacea",
+    "root:an-member",
+    "root:ium"
+  ],
+  "uncertainties": [
+    "cushion: deeper origin alternatives",
+    "delay: deeper laier origin disputed",
+    "under-the-depressor: source phrase unverified"
+  ],
+  "entries": [
+    {
+      "no": 1201,
+      "term": "crazy",
+      "slug": "crazy",
+      "action": "corrected",
+      "before": "crazy + y",
+      "after": "craz + y",
+      "notes": "craze + -y：加后缀前去掉末尾 e，呈现 craz-，不能写成 crazy + -y。"
+    },
+    {
+      "no": 1202,
+      "term": "credence",
+      "slug": "credence",
+      "action": "corrected",
+      "before": "cred",
+      "after": "cred + ence",
+      "notes": "表层 cred-/credit- 信任；credit 来自 Latin creditum（credere 的分词名词），credit- 中 -it- 属历史分词词干，不是省略或英语后缀。credentials 的层级为 credent- 相信 + -ial 相关 + -s 复数；credent- 内为 cred- + -ent。"
+    },
+    {
+      "no": 1203,
+      "term": "credentials",
+      "slug": "credentials",
+      "action": "corrected",
+      "before": "cred",
+      "after": "cred + ent + ial + s",
+      "notes": "表层 cred-/credit- 信任；credit 来自 Latin creditum（credere 的分词名词），credit- 中 -it- 属历史分词词干，不是省略或英语后缀。credentials 的层级为 credent- 相信 + -ial 相关 + -s 复数；credent- 内为 cred- + -ent。"
+    },
+    {
+      "no": 1204,
+      "term": "credit",
+      "slug": "credit",
+      "action": "corrected",
+      "before": "cred",
+      "after": "credit",
+      "notes": "表层 cred-/credit- 信任；credit 来自 Latin creditum（credere 的分词名词），credit- 中 -it- 属历史分词词干，不是省略或英语后缀。credentials 的层级为 credent- 相信 + -ial 相关 + -s 复数；credent- 内为 cred- + -ent。"
+    },
+    {
+      "no": 1205,
+      "term": "creditor",
+      "slug": "creditor",
+      "action": "corrected",
+      "before": "cred + or",
+      "after": "credit + or",
+      "notes": "表层 cred-/credit- 信任；credit 来自 Latin creditum（credere 的分词名词），credit- 中 -it- 属历史分词词干，不是省略或英语后缀。credentials 的层级为 credent- 相信 + -ial 相关 + -s 复数；credent- 内为 cred- + -ent。"
+    },
+    {
+      "no": 1206,
+      "term": "creek",
+      "slug": "creek",
+      "action": "retained",
+      "before": "creek",
+      "after": "creek",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1207,
+      "term": "creep",
+      "slug": "creep",
+      "action": "retained",
+      "before": "creep",
+      "after": "creep",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1208,
+      "term": "crevice",
+      "slug": "crevice",
+      "action": "corrected",
+      "before": "crev",
+      "after": "crevice",
+      "notes": "表层 crevice；Old French crevace 来自 crever 裂开，历史词干 crev-，名词结尾 -ace 演变为 -ice；此 -ice 不作为现代通用后缀。"
+    },
+    {
+      "no": 1209,
+      "term": "crew",
+      "slug": "crew",
+      "action": "corrected",
+      "before": "crew",
+      "after": "crew",
+      "notes": "表层 crew；Old French creue 增援，是 croistre 生长的阴性分词名词，最终来自 Latin crescere；深层连接 cresc- 生长。"
+    },
+    {
+      "no": 1210,
+      "term": "screw",
+      "slug": "screw",
+      "action": "retained",
+      "before": "screw",
+      "after": "screw",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1211,
+      "term": "screwdriver",
+      "slug": "screwdriver",
+      "action": "corrected",
+      "before": "screw + driver",
+      "after": "screw + driv + er",
+      "notes": "表层 screw + driver；driver 内层 drive + -er，去掉末尾 e。Word DNA 显示 screw + driv- + -er。"
+    },
+    {
+      "no": 1212,
+      "term": "crimson",
+      "slug": "crimson",
+      "action": "retained",
+      "before": "crimson",
+      "after": "crimson",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1213,
+      "term": "cripple",
+      "slug": "cripple",
+      "action": "corrected",
+      "before": "crip",
+      "after": "cripple",
+      "notes": "表层 cripple，派生 crippl- + -ing；Old English crypel 与 creopan 爬行相关。不要把 crip- 后全部字母省掉或强接拉丁小称 -le。"
+    },
+    {
+      "no": 1214,
+      "term": "crippling",
+      "slug": "crippling",
+      "action": "corrected",
+      "before": "crip + ing",
+      "after": "crippl + ing",
+      "notes": "表层 cripple，派生 crippl- + -ing；Old English crypel 与 creopan 爬行相关。不要把 crip- 后全部字母省掉或强接拉丁小称 -le。"
+    },
+    {
+      "no": 1215,
+      "term": "crisscross",
+      "slug": "crisscross",
+      "action": "corrected",
+      "before": "criss + cross",
+      "after": "criss + cross",
+      "notes": "现代意为纵横交错；历史来自 Christ’s cross（Middle English Cristes-cros），criss- 不是 cross 的同源重复。"
+    },
+    {
+      "no": 1216,
+      "term": "the Red Cross",
+      "slug": "the-red-cross",
+      "action": "corrected",
+      "before": "red + cross",
+      "after": "the + red + cross",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1217,
+      "term": "crossbones",
+      "slug": "crossbones",
+      "action": "corrected",
+      "before": "cross + bones",
+      "after": "cross + bone + s",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1218,
+      "term": "crosscut",
+      "slug": "crosscut",
+      "action": "retained",
+      "before": "cross + cut",
+      "after": "cross + cut",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1219,
+      "term": "crossing",
+      "slug": "crossing",
+      "action": "retained",
+      "before": "cross + ing",
+      "after": "cross + ing",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1220,
+      "term": "crossbreeding",
+      "slug": "crossbreeding",
+      "action": "retained",
+      "before": "cross + breed + ing",
+      "after": "cross + breed + ing",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1221,
+      "term": "critical",
+      "slug": "critical",
+      "action": "corrected",
+      "before": "crit + ical",
+      "after": "crit + ic + al",
+      "notes": "表层 crit- 判断 + -ic + -al；Greek kritikos = krit- 判断 + -ikos 性质后缀。critique 经法语借入，保留完整词形；-ique 与希腊 -ikos 相关。"
+    },
+    {
+      "no": 1222,
+      "term": "critical point",
+      "slug": "critical-point",
+      "action": "corrected",
+      "before": "crit + point",
+      "after": "crit + ic + al + point",
+      "notes": "表层 crit- 判断 + -ic + -al；Greek kritikos = krit- 判断 + -ikos 性质后缀。critique 经法语借入，保留完整词形；-ique 与希腊 -ikos 相关。"
+    },
+    {
+      "no": 1223,
+      "term": "critique",
+      "slug": "critique",
+      "action": "corrected",
+      "before": "crit",
+      "after": "critique",
+      "notes": "表层 crit- 判断 + -ic + -al；Greek kritikos = krit- 判断 + -ikos 性质后缀。critique 经法语借入，保留完整词形；-ique 与希腊 -ikos 相关。"
+    },
+    {
+      "no": 1224,
+      "term": "crooked",
+      "slug": "crooked",
+      "action": "retained",
+      "before": "crook + ed",
+      "after": "crook + ed",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1225,
+      "term": "crow",
+      "slug": "crow",
+      "action": "retained",
+      "before": "crow",
+      "after": "crow",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1226,
+      "term": "crude",
+      "slug": "crude",
+      "action": "retained",
+      "before": "crude",
+      "after": "crude",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1227,
+      "term": "crumple",
+      "slug": "crumple",
+      "action": "corrected",
+      "before": "crum",
+      "after": "crump + le",
+      "notes": "crump- 弯曲 + 反复动作 -le；不要与 crumble 的 crumb- 碎屑混为一根。"
+    },
+    {
+      "no": 1228,
+      "term": "crumble",
+      "slug": "crumble",
+      "action": "corrected",
+      "before": "crum",
+      "after": "crumb + le",
+      "notes": "crumb- 碎屑 + 反复动作 -le；末尾不是 Latin -culus 小称词缀。"
+    },
+    {
+      "no": 1229,
+      "term": "crush",
+      "slug": "crush",
+      "action": "retained",
+      "before": "crush",
+      "after": "crush",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1230,
+      "term": "crust",
+      "slug": "crust",
+      "action": "retained",
+      "before": "crust",
+      "after": "crust",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1231,
+      "term": "crustacean",
+      "slug": "crustacean",
+      "action": "corrected",
+      "before": "crust",
+      "after": "crustace + an",
+      "notes": "表层分类名称；深层 crust- 壳 + -acea，来自 crustaceus 有壳的的中性复数；crustacean 再加 -an。"
+    },
+    {
+      "no": 1232,
+      "term": "crystal",
+      "slug": "crystal",
+      "action": "root-enriched",
+      "before": "crystal",
+      "after": "crystal",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1233,
+      "term": "crystalline",
+      "slug": "crystalline",
+      "action": "corrected",
+      "before": "crystall + ine",
+      "after": "crystall + ine",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1234,
+      "term": "crystallize",
+      "slug": "crystallize",
+      "action": "root-enriched",
+      "before": "crystall + ize",
+      "after": "crystall + ize",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1235,
+      "term": "crystallized",
+      "slug": "crystallized",
+      "action": "root-enriched",
+      "before": "crystall + ize + ed",
+      "after": "crystall + ize + ed",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1236,
+      "term": "crystallization",
+      "slug": "crystallization",
+      "action": "root-enriched",
+      "before": "crystall + iz + ation",
+      "after": "crystall + iz + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1237,
+      "term": "cubism",
+      "slug": "cubism",
+      "action": "root-enriched",
+      "before": "cub + ism",
+      "after": "cub + ism",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1238,
+      "term": "cube",
+      "slug": "cube",
+      "action": "corrected",
+      "before": "cube",
+      "after": "cube",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1239,
+      "term": "cubic",
+      "slug": "cubic",
+      "action": "corrected",
+      "before": "cub + ic",
+      "after": "cub + ic",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1240,
+      "term": "cue",
+      "slug": "cue",
+      "action": "retained",
+      "before": "cue",
+      "after": "cue",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1241,
+      "term": "barbecue",
+      "slug": "barbecue",
+      "action": "retained",
+      "before": "barbecue",
+      "after": "barbecue",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1242,
+      "term": "culinary",
+      "slug": "culinary",
+      "action": "corrected",
+      "before": "culin + ary",
+      "after": "culin + ary",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1243,
+      "term": "culminate",
+      "slug": "culminate",
+      "action": "retained",
+      "before": "culmin + ate",
+      "after": "culmin + ate",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1244,
+      "term": "cultivate",
+      "slug": "cultivate",
+      "action": "corrected",
+      "before": "cultiv + ate",
+      "after": "cultiv + ate",
+      "notes": "表层 cult-/cultiv-；Latin colere 耕作、照料的分词 cultus 提供 cult-。culture = cult- + -ure；cultivate 的 cultiv- 来自 Medieval Latin cultivare，关联 Late Latin cultivus 耕作的，较深层 cult- + 形容词 -iv-。"
+    },
+    {
+      "no": 1245,
+      "term": "cultivation",
+      "slug": "cultivation",
+      "action": "corrected",
+      "before": "cultiv + ation",
+      "after": "cultiv + ation",
+      "notes": "表层 cult-/cultiv-；Latin colere 耕作、照料的分词 cultus 提供 cult-。culture = cult- + -ure；cultivate 的 cultiv- 来自 Medieval Latin cultivare，关联 Late Latin cultivus 耕作的，较深层 cult- + 形容词 -iv-。"
+    },
+    {
+      "no": 1246,
+      "term": "culture",
+      "slug": "culture",
+      "action": "corrected",
+      "before": "cult",
+      "after": "cult + ure",
+      "notes": "表层 cult-/cultiv-；Latin colere 耕作、照料的分词 cultus 提供 cult-。culture = cult- + -ure；cultivate 的 cultiv- 来自 Medieval Latin cultivare，关联 Late Latin cultivus 耕作的，较深层 cult- + 形容词 -iv-。"
+    },
+    {
+      "no": 1247,
+      "term": "horticulture",
+      "slug": "horticulture",
+      "action": "corrected",
+      "before": "hort + culture",
+      "after": "horti + cult + ure",
+      "notes": "表层 cult-/cultiv-；Latin colere 耕作、照料的分词 cultus 提供 cult-。culture = cult- + -ure；cultivate 的 cultiv- 来自 Medieval Latin cultivare，关联 Late Latin cultivus 耕作的，较深层 cult- + 形容词 -iv-。"
+    },
+    {
+      "no": 1248,
+      "term": "agriculture",
+      "slug": "agriculture",
+      "action": "corrected",
+      "before": "agri + culture",
+      "after": "agri + cult + ure",
+      "notes": "表层 cult-/cultiv-；Latin colere 耕作、照料的分词 cultus 提供 cult-。culture = cult- + -ure；cultivate 的 cultiv- 来自 Medieval Latin cultivare，关联 Late Latin cultivus 耕作的，较深层 cult- + 形容词 -iv-。"
+    },
+    {
+      "no": 1249,
+      "term": "cumbersome",
+      "slug": "cumbersome",
+      "action": "retained",
+      "before": "cumber + some",
+      "after": "cumber + some",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1250,
+      "term": "curator",
+      "slug": "curator",
+      "action": "corrected",
+      "before": "cur + ator",
+      "after": "cur + ator",
+      "notes": "表层 cur- 照料 + -ator 执行者；深层 Latin curare 照料 → curat- 分词词干 + -or 人，-ator 不表示一个不可拆词根。"
+    },
+    {
+      "no": 1251,
+      "term": "curious",
+      "slug": "curious",
+      "action": "root-enriched",
+      "before": "cur + ious",
+      "after": "cur + ious",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1252,
+      "term": "curiosity",
+      "slug": "curiosity",
+      "action": "corrected",
+      "before": "cur + iosity",
+      "after": "cur + ios + ity",
+      "notes": "表层 curious + -ity；Word DNA cur- 照料 + -ios-（-ious 的拉丁词干形）+ -ity 性质。不是 cur + 不透明的 -iosity，也不是形容词 -y。"
+    },
+    {
+      "no": 1253,
+      "term": "currency",
+      "slug": "currency",
+      "action": "corrected",
+      "before": "curr + ency",
+      "after": "curr + ency",
+      "notes": "表层 current → currency；Word DNA curr- 跑、流通 + -ency 状态，-ent 与 -ency 为相应派生结尾。"
+    },
+    {
+      "no": 1254,
+      "term": "current",
+      "slug": "current",
+      "action": "retained",
+      "before": "curr + ent",
+      "after": "curr + ent",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1255,
+      "term": "currently",
+      "slug": "currently",
+      "action": "corrected",
+      "before": "current + ly",
+      "after": "curr + ent + ly",
+      "notes": "表层 current + -ly；current 内层 curr- 流动 + -ent 性质，不能把 current 全部标成 curr 词根。"
+    },
+    {
+      "no": 1256,
+      "term": "concurrent",
+      "slug": "concurrent",
+      "action": "retained",
+      "before": "con + curr + ent",
+      "after": "con + curr + ent",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1257,
+      "term": "curriculum",
+      "slug": "curriculum",
+      "action": "corrected",
+      "before": "curr",
+      "after": "curr + iculum",
+      "notes": "curr- 跑 + Latin -iculum 名词结尾 → 跑过的路线 → 课程路线。不是漏写结尾的 curr 单词；-iculum 的历史构词不意味着现代“小课程”。"
+    },
+    {
+      "no": 1258,
+      "term": "cushion",
+      "slug": "cushion",
+      "action": "corrected",
+      "before": "cushion",
+      "after": "cushion",
+      "notes": "表层 cushion；Old French coissin 座垫。更深层可能来自 Latin coxa 臀部，也有 culcita 床垫解释，尚不唯一；不强拆 cush- + -ion。"
+    },
+    {
+      "no": 1259,
+      "term": "a cushion of",
+      "slug": "a-cushion-of",
+      "action": "corrected",
+      "before": "a + cushion + of",
+      "after": "a + cushion + of",
+      "notes": "表层 cushion；Old French coissin 座垫。更深层可能来自 Latin coxa 臀部，也有 culcita 床垫解释，尚不唯一；不强拆 cush- + -ion。"
+    },
+    {
+      "no": 1260,
+      "term": "air-cushion vehicle",
+      "slug": "air-cushion-vehicle",
+      "action": "corrected",
+      "before": "air + cushion + vehicle",
+      "after": "air + cushion + vehicle",
+      "notes": "表层 cushion；Old French coissin 座垫。更深层可能来自 Latin coxa 臀部，也有 culcita 床垫解释，尚不唯一；不强拆 cush- + -ion。\n表层 vehicle；Latin vehiculum 运输工具 ← vehere 运载 + 工具名词结尾 -culum。短语 air-cushion vehicle 内保留 vehicle，但同时解释 veh- 运载与 -icle 历史工具结尾。"
+    },
+    {
+      "no": 1261,
+      "term": "custodian",
+      "slug": "custodian",
+      "action": "corrected",
+      "before": "custod + ian",
+      "after": "custod + ian",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1262,
+      "term": "custom",
+      "slug": "custom",
+      "action": "corrected",
+      "before": "custom",
+      "after": "custom",
+      "notes": "表层 custom；Old French costume ← Latin consuetudo 习惯 ← consuescere 习惯于。深层 com-/con- 加强 + suescere 习惯于；历史压缩后的 custom 不机械按现代字母切开。"
+    },
+    {
+      "no": 1263,
+      "term": "customs",
+      "slug": "customs",
+      "action": "corrected",
+      "before": "custom + s",
+      "after": "custom + s",
+      "notes": "表层 custom；Old French costume ← Latin consuetudo 习惯 ← consuescere 习惯于。深层 com-/con- 加强 + suescere 习惯于；历史压缩后的 custom 不机械按现代字母切开。"
+    },
+    {
+      "no": 1264,
+      "term": "customer",
+      "slug": "customer",
+      "action": "corrected",
+      "before": "custom + er",
+      "after": "custom + er",
+      "notes": "表层 custom；Old French costume ← Latin consuetudo 习惯 ← consuescere 习惯于。深层 com-/con- 加强 + suescere 习惯于；历史压缩后的 custom 不机械按现代字母切开。"
+    },
+    {
+      "no": 1265,
+      "term": "customarily",
+      "slug": "customarily",
+      "action": "corrected",
+      "before": "custom + ary + ly",
+      "after": "custom + ari + ly",
+      "notes": "表层 custom；Old French costume ← Latin consuetudo 习惯 ← consuescere 习惯于。深层 com-/con- 加强 + suescere 习惯于；历史压缩后的 custom 不机械按现代字母切开。"
+    },
+    {
+      "no": 1266,
+      "term": "accustomed",
+      "slug": "accustomed",
+      "action": "corrected",
+      "before": "ac + custom + ed",
+      "after": "ac + custom + ed",
+      "notes": "表层 custom；Old French costume ← Latin consuetudo 习惯 ← consuescere 习惯于。深层 com-/con- 加强 + suescere 习惯于；历史压缩后的 custom 不机械按现代字母切开。"
+    },
+    {
+      "no": 1267,
+      "term": "cuticle",
+      "slug": "cuticle",
+      "action": "corrected",
+      "before": "cutic + le",
+      "after": "cuti + cle",
+      "notes": "cuti-（Latin cutis 皮肤的构词形）+ -cle（Latin -cula 小称）：cuticula 小皮；c 属于后缀，不应写 cutic- + -le。"
+    },
+    {
+      "no": 1268,
+      "term": "cylinder",
+      "slug": "cylinder",
+      "action": "root-enriched",
+      "before": "cylinder",
+      "after": "cylinder",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1269,
+      "term": "dagger",
+      "slug": "dagger",
+      "action": "retained",
+      "before": "dagger",
+      "after": "dagger",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1270,
+      "term": "daisy",
+      "slug": "daisy",
+      "action": "corrected",
+      "before": "day + eye",
+      "after": "day + eye",
+      "notes": "历史复合词 Old English dæges eage = day’s eye：day + 所有格 -s + eye，经语音收缩成为 daisy。现有 day/eye 为历史解释，不是现代逐字相加。"
+    },
+    {
+      "no": 1271,
+      "term": "damp",
+      "slug": "damp",
+      "action": "retained",
+      "before": "damp",
+      "after": "damp",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1272,
+      "term": "dampen",
+      "slug": "dampen",
+      "action": "retained",
+      "before": "damp + en",
+      "after": "damp + en",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1273,
+      "term": "dangerous",
+      "slug": "dangerous",
+      "action": "corrected",
+      "before": "danger + ous",
+      "after": "danger + ous",
+      "notes": "表层 danger，dangerous = danger + -ous。深层 Old French dangier ← *dominarium 主人的权力 ← Latin dominus 主人 ← domus 房屋；从受人控制发展为危险。此来源不是英语后缀 -dom。"
+    },
+    {
+      "no": 1274,
+      "term": "daring",
+      "slug": "daring",
+      "action": "root-enriched",
+      "before": "dar + ing",
+      "after": "dar + ing",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1275,
+      "term": "dart",
+      "slug": "dart",
+      "action": "retained",
+      "before": "dart",
+      "after": "dart",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1276,
+      "term": "dash off",
+      "slug": "dash-off",
+      "action": "retained",
+      "before": "dash + off",
+      "after": "dash + off",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1277,
+      "term": "date",
+      "slug": "date",
+      "action": "retained",
+      "before": "date",
+      "after": "date",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1278,
+      "term": "date back",
+      "slug": "date-back",
+      "action": "retained",
+      "before": "date + back",
+      "after": "date + back",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1279,
+      "term": "dated",
+      "slug": "dated",
+      "action": "retained",
+      "before": "date + ed",
+      "after": "date + ed",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1280,
+      "term": "outdated",
+      "slug": "outdated",
+      "action": "retained",
+      "before": "out + date + ed",
+      "after": "out + date + ed",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1281,
+      "term": "validate",
+      "slug": "validate",
+      "action": "corrected",
+      "before": "val + id + ate",
+      "after": "valid + ate",
+      "notes": "表层 valid；深层 val- 强 + Latin -idus 形容词结尾；不是英语过去式 -ed。 表层 valid + -ate。"
+    },
+    {
+      "no": 1282,
+      "term": "inundate",
+      "slug": "inundate",
+      "action": "retained",
+      "before": "in + unda + ate",
+      "after": "in + unda + ate",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1283,
+      "term": "daunting",
+      "slug": "daunting",
+      "action": "retained",
+      "before": "daunt + ing",
+      "after": "daunt + ing",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1284,
+      "term": "dawn",
+      "slug": "dawn",
+      "action": "retained",
+      "before": "dawn",
+      "after": "dawn",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1285,
+      "term": "dawning",
+      "slug": "dawning",
+      "action": "retained",
+      "before": "dawn + ing",
+      "after": "dawn + ing",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1286,
+      "term": "dazzling",
+      "slug": "dazzling",
+      "action": "retained",
+      "before": "dazzl + ing",
+      "after": "dazzl + ing",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1287,
+      "term": "deadly",
+      "slug": "deadly",
+      "action": "retained",
+      "before": "dead + ly",
+      "after": "dead + ly",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1288,
+      "term": "deal",
+      "slug": "deal",
+      "action": "retained",
+      "before": "deal",
+      "after": "deal",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1289,
+      "term": "a great deal",
+      "slug": "a-great-deal",
+      "action": "corrected",
+      "before": "a + great + deal",
+      "after": "a + great + deal",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1290,
+      "term": "a good deal",
+      "slug": "a-good-deal",
+      "action": "corrected",
+      "before": "a + good + deal",
+      "after": "a + good + deal",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1291,
+      "term": "big deal",
+      "slug": "big-deal",
+      "action": "retained",
+      "before": "big + deal",
+      "after": "big + deal",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1292,
+      "term": "deal with",
+      "slug": "deal-with",
+      "action": "retained",
+      "before": "deal + with",
+      "after": "deal + with",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1293,
+      "term": "debatable",
+      "slug": "debatable",
+      "action": "corrected",
+      "before": "debat + able",
+      "after": "debat + able",
+      "notes": "表层 debate/debat-；深层 Old French debatre = de- 加强 + batre 打击（Latin battuere）。辩论像言语交锋。debatable = debat- + -able，去掉词尾 e。"
+    },
+    {
+      "no": 1294,
+      "term": "debate",
+      "slug": "debate",
+      "action": "corrected",
+      "before": "debat",
+      "after": "debate",
+      "notes": "表层 debate/debat-；深层 Old French debatre = de- 加强 + batre 打击（Latin battuere）。辩论像言语交锋。debatable = debat- + -able，去掉词尾 e。"
+    },
+    {
+      "no": 1295,
+      "term": "debris",
+      "slug": "debris",
+      "action": "corrected",
+      "before": "debris",
+      "after": "debris",
+      "notes": "表层 debris；深层 French débris ← débriser = de- 分解、加强 + briser 打破（Late Latin brisare）。词尾 s 不是英语复数，英语通常作不可数名词。"
+    },
+    {
+      "no": 1296,
+      "term": "debt",
+      "slug": "debt",
+      "action": "corrected",
+      "before": "debt",
+      "after": "debt",
+      "notes": "表层 debt；Latin debitum 所欠之物 ← debere 欠 = de- 离开 + habere 持有。深层意象是扣留别人应有之物；字母 b 是后期恢复的词源拼写，现代不发音。"
+    },
+    {
+      "no": 1297,
+      "term": "debtor",
+      "slug": "debtor",
+      "action": "corrected",
+      "before": "debt + or",
+      "after": "debt + or",
+      "notes": "表层 debt；Latin debitum 所欠之物 ← debere 欠 = de- 离开 + habere 持有。深层意象是扣留别人应有之物；字母 b 是后期恢复的词源拼写，现代不发音。"
+    },
+    {
+      "no": 1298,
+      "term": "decadent",
+      "slug": "decadent",
+      "action": "root-enriched",
+      "before": "de + cad + ent",
+      "after": "de + cad + ent",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1299,
+      "term": "decay",
+      "slug": "decay",
+      "action": "root-enriched",
+      "before": "de + cay",
+      "after": "de + cay",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1300,
+      "term": "deceive",
+      "slug": "deceive",
+      "action": "root-enriched",
+      "before": "de + ceive",
+      "after": "de + ceive",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1301,
+      "term": "decent",
+      "slug": "decent",
+      "action": "retained",
+      "before": "dec + ent",
+      "after": "dec + ent",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1302,
+      "term": "deceptive",
+      "slug": "deceptive",
+      "action": "root-enriched",
+      "before": "de + cept + ive",
+      "after": "de + cept + ive",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1303,
+      "term": "deception",
+      "slug": "deception",
+      "action": "root-enriched",
+      "before": "de + cept + ion",
+      "after": "de + cept + ion",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1304,
+      "term": "deciduous",
+      "slug": "deciduous",
+      "action": "root-enriched",
+      "before": "de + cid + uous",
+      "after": "de + cid + uous",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1305,
+      "term": "decimal",
+      "slug": "decimal",
+      "action": "root-enriched",
+      "before": "decim + al",
+      "after": "decim + al",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1306,
+      "term": "deck",
+      "slug": "deck",
+      "action": "retained",
+      "before": "deck",
+      "after": "deck",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1307,
+      "term": "declaration",
+      "slug": "declaration",
+      "action": "root-enriched",
+      "before": "de + clar + ation",
+      "after": "de + clar + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1308,
+      "term": "declare",
+      "slug": "declare",
+      "action": "retained",
+      "before": "de + clar",
+      "after": "de + clar",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1309,
+      "term": "decline",
+      "slug": "decline",
+      "action": "retained",
+      "before": "de + cline",
+      "after": "de + cline",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1310,
+      "term": "decomposition",
+      "slug": "decomposition",
+      "action": "corrected",
+      "before": "de + com + pos + ition",
+      "after": "de + com + posit + ion",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1311,
+      "term": "decompose",
+      "slug": "decompose",
+      "action": "retained",
+      "before": "de + com + pose",
+      "after": "de + com + pose",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1312,
+      "term": "decorate",
+      "slug": "decorate",
+      "action": "retained",
+      "before": "decor + ate",
+      "after": "decor + ate",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1313,
+      "term": "decoration",
+      "slug": "decoration",
+      "action": "root-enriched",
+      "before": "decor + ation",
+      "after": "decor + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1314,
+      "term": "decorative",
+      "slug": "decorative",
+      "action": "retained",
+      "before": "decor + ative",
+      "after": "decor + ative",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1315,
+      "term": "decrease",
+      "slug": "decrease",
+      "action": "root-enriched",
+      "before": "de + crease",
+      "after": "de + crease",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1316,
+      "term": "defecate",
+      "slug": "defecate",
+      "action": "retained",
+      "before": "de + fec + ate",
+      "after": "de + fec + ate",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1317,
+      "term": "defect",
+      "slug": "defect",
+      "action": "root-enriched",
+      "before": "de + fect",
+      "after": "de + fect",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1318,
+      "term": "defective",
+      "slug": "defective",
+      "action": "root-enriched",
+      "before": "de + fect + ive",
+      "after": "de + fect + ive",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1319,
+      "term": "defend",
+      "slug": "defend",
+      "action": "retained",
+      "before": "de + fend",
+      "after": "de + fend",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1320,
+      "term": "defense",
+      "slug": "defense",
+      "action": "retained",
+      "before": "de + fens",
+      "after": "de + fens",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1321,
+      "term": "defensive",
+      "slug": "defensive",
+      "action": "retained",
+      "before": "de + fens + ive",
+      "after": "de + fens + ive",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1322,
+      "term": "defer",
+      "slug": "defer",
+      "action": "corrected",
+      "before": "de + fer",
+      "after": "de + fer",
+      "notes": "同形异源须区分：推迟 defer 来自 differre = dis- 分开 + ferre 搬运；服从 defer to 来自 deferre = de- 向下/交付 + ferre。当前 de- + fer- 仅表示服从分支；deference/deferential 也只属于此分支。"
+    },
+    {
+      "no": 1323,
+      "term": "deferential",
+      "slug": "deferential",
+      "action": "root-enriched",
+      "before": "de + fer + ent + ial",
+      "after": "de + fer + ent + ial",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1324,
+      "term": "deference",
+      "slug": "deference",
+      "action": "corrected",
+      "before": "de + fer + ence",
+      "after": "de + fer + ence",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1325,
+      "term": "deficiency",
+      "slug": "deficiency",
+      "action": "corrected",
+      "before": "de + fic + ency",
+      "after": "de + fic + iency",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1326,
+      "term": "deficient",
+      "slug": "deficient",
+      "action": "root-enriched",
+      "before": "de + fic + ent",
+      "after": "de + fic + ent",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1327,
+      "term": "deficit",
+      "slug": "deficit",
+      "action": "corrected",
+      "before": "de + ficit",
+      "after": "de + ficit",
+      "notes": "Latin deficit 意为“它缺少”，来自 deficere = de- 离开 + facere 做。ficit 包含 facere 的变形 fic- 及拉丁第三人称单数结尾 -it；不是现代英语可生产后缀。"
+    },
+    {
+      "no": 1328,
+      "term": "definite",
+      "slug": "definite",
+      "action": "corrected",
+      "before": "de + fin + ite",
+      "after": "de + finite",
+      "notes": "fin-/finit- 来自 Latin finis 边界 → finire 限定 → finitus 已限定。definite = de- + finite；finite 内的 -it- 为拉丁分词词干层，不是 -ive 后缀。definition = de- + finit- + -ion。"
+    },
+    {
+      "no": 1329,
+      "term": "definitely",
+      "slug": "definitely",
+      "action": "corrected",
+      "before": "de + fin + ite + ly",
+      "after": "de + finite + ly",
+      "notes": "fin-/finit- 来自 Latin finis 边界 → finire 限定 → finitus 已限定。definite = de- + finite；finite 内的 -it- 为拉丁分词词干层，不是 -ive 后缀。definition = de- + finit- + -ion。"
+    },
+    {
+      "no": 1330,
+      "term": "definitive",
+      "slug": "definitive",
+      "action": "corrected",
+      "before": "de + finit + ive",
+      "after": "de + finit + ive",
+      "notes": "fin-/finit- 来自 Latin finis 边界 → finire 限定 → finitus 已限定。definite = de- + finite；finite 内的 -it- 为拉丁分词词干层，不是 -ive 后缀。definition = de- + finit- + -ion。"
+    },
+    {
+      "no": 1331,
+      "term": "definition",
+      "slug": "definition",
+      "action": "corrected",
+      "before": "de + fin + ition",
+      "after": "de + finit + ion",
+      "notes": "fin-/finit- 来自 Latin finis 边界 → finire 限定 → finitus 已限定。definite = de- + finite；finite 内的 -it- 为拉丁分词词干层，不是 -ive 后缀。definition = de- + finit- + -ion。"
+    },
+    {
+      "no": 1332,
+      "term": "deform",
+      "slug": "deform",
+      "action": "retained",
+      "before": "de + form",
+      "after": "de + form",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1333,
+      "term": "deformation",
+      "slug": "deformation",
+      "action": "root-enriched",
+      "before": "de + form + ation",
+      "after": "de + form + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1334,
+      "term": "deft",
+      "slug": "deft",
+      "action": "corrected",
+      "before": "deft",
+      "after": "deft",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1335,
+      "term": "adept",
+      "slug": "adept",
+      "action": "corrected",
+      "before": "ad + ept",
+      "after": "ad + ept",
+      "notes": "保留 apt 与 ept 的历史相关性但区分路径：adapt 来自 aptare 使适合；adept = ad- + ept-，来自 adipisci 的分词 adeptus，底层 apisci 抓住、达到。不能把 adept 解释成给适合加前缀。"
+    },
+    {
+      "no": 1336,
+      "term": "degrade",
+      "slug": "degrade",
+      "action": "retained",
+      "before": "de + grad",
+      "after": "de + grad",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1337,
+      "term": "degradation",
+      "slug": "degradation",
+      "action": "root-enriched",
+      "before": "de + grad + ation",
+      "after": "de + grad + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1338,
+      "term": "dehydrate",
+      "slug": "dehydrate",
+      "action": "root-enriched",
+      "before": "de + hydr + ate",
+      "after": "de + hydr + ate",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1339,
+      "term": "dehydrated",
+      "slug": "dehydrated",
+      "action": "root-enriched",
+      "before": "de + hydr + ate + ed",
+      "after": "de + hydr + ate + ed",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1340,
+      "term": "dehydration",
+      "slug": "dehydration",
+      "action": "root-enriched",
+      "before": "de + hydr + ation",
+      "after": "de + hydr + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1341,
+      "term": "deign",
+      "slug": "deign",
+      "action": "retained",
+      "before": "deign",
+      "after": "deign",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1342,
+      "term": "deity",
+      "slug": "deity",
+      "action": "corrected",
+      "before": "deity",
+      "after": "de + ity",
+      "notes": "de- 来自 Latin deus 神 + -ity 神性/状态；不能把此 de- 连到去除前缀。"
+    },
+    {
+      "no": 1343,
+      "term": "delay",
+      "slug": "delay",
+      "action": "corrected",
+      "before": "delay",
+      "after": "delay",
+      "notes": "表层 delay；深层 Old French delaier = de- 离开 + laier 留下。laier 更深来源有 Latin laxare 松开与日耳曼来源两种解释，保留不确定；不能当作英语 lay 的确定派生。"
+    },
+    {
+      "no": 1344,
+      "term": "delectable",
+      "slug": "delectable",
+      "action": "corrected",
+      "before": "delect + able",
+      "after": "delect + able",
+      "notes": "表层 delect-/delic- 引诱、使愉悦；Latin delectare 为 delicere 的反复式，深层 de- 离开 + lacere 引诱。不是 legere 读、选择。delectable 保留 delect- + -able；delicate/delicious 保留 delic-。"
+    },
+    {
+      "no": 1345,
+      "term": "delegate",
+      "slug": "delegate",
+      "action": "corrected",
+      "before": "de + legat + ate",
+      "after": "de + leg + ate",
+      "notes": "表层 de- + leg- 委派 + -ate；Latin delegare → delegatus。用 legat- 再接 -ate 会把分词 t 重复计算。"
+    },
+    {
+      "no": 1346,
+      "term": "deliberate",
+      "slug": "deliberate",
+      "action": "corrected",
+      "before": "de + liber",
+      "after": "de + liber + ate",
+      "notes": "liber-/libr- 在这里来自 Latin libra 天平；deliberare = de- 充分 + librare 权衡。deliberate 的 -ate 是动词或分词形容词结尾；不是 liber 自由、书。"
+    },
+    {
+      "no": 1347,
+      "term": "deliberately",
+      "slug": "deliberately",
+      "action": "corrected",
+      "before": "de + liber + ate + ly",
+      "after": "de + liber + ate + ly",
+      "notes": "liber-/libr- 在这里来自 Latin libra 天平；deliberare = de- 充分 + librare 权衡。deliberate 的 -ate 是动词或分词形容词结尾；不是 liber 自由、书。"
+    },
+    {
+      "no": 1348,
+      "term": "delicate",
+      "slug": "delicate",
+      "action": "corrected",
+      "before": "delic + ate",
+      "after": "delic + ate",
+      "notes": "表层 delect-/delic- 引诱、使愉悦；Latin delectare 为 delicere 的反复式，深层 de- 离开 + lacere 引诱。不是 legere 读、选择。delectable 保留 delect- + -able；delicate/delicious 保留 delic-。"
+    },
+    {
+      "no": 1349,
+      "term": "delicious",
+      "slug": "delicious",
+      "action": "corrected",
+      "before": "delic + ious",
+      "after": "delic + ious",
+      "notes": "表层 delect-/delic- 引诱、使愉悦；Latin delectare 为 delicere 的反复式，深层 de- 离开 + lacere 引诱。不是 legere 读、选择。delectable 保留 delect- + -able；delicate/delicious 保留 delic-。"
+    },
+    {
+      "no": 1350,
+      "term": "delirium",
+      "slug": "delirium",
+      "action": "corrected",
+      "before": "de + lir + ium",
+      "after": "de + lir + ium",
+      "notes": "de- 离开 + lir- 犁沟 + -ium 名词结尾，来自 Latin delirare 离开犁沟、思路错乱。-ium 不应连到 -ion。"
+    },
+    {
+      "no": 1351,
+      "term": "delta",
+      "slug": "delta",
+      "action": "retained",
+      "before": "delta",
+      "after": "delta",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1352,
+      "term": "demobilize",
+      "slug": "demobilize",
+      "action": "corrected",
+      "before": "de + mobil + ize",
+      "after": "de + mobil + ize",
+      "notes": "表层 mobil- 可移动；Latin mobilis 关联 movere 移动，历史形容词层为移动词干 + -bilis 可……的。demobilize = de- 解除 + mobil- + -ize；immobilize 的 im- 是否定。"
+    },
+    {
+      "no": 1353,
+      "term": "immobilize",
+      "slug": "immobilize",
+      "action": "corrected",
+      "before": "im + mobil + ize",
+      "after": "im + mobil + ize",
+      "notes": "表层 mobil- 可移动；Latin mobilis 关联 movere 移动，历史形容词层为移动词干 + -bilis 可……的。demobilize = de- 解除 + mobil- + -ize；immobilize 的 im- 是否定。"
+    },
+    {
+      "no": 1354,
+      "term": "democracy",
+      "slug": "democracy",
+      "action": "root-enriched",
+      "before": "demo + cracy",
+      "after": "demo + cracy",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1355,
+      "term": "demolish",
+      "slug": "demolish",
+      "action": "retained",
+      "before": "de + molish",
+      "after": "de + molish",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1356,
+      "term": "demolition",
+      "slug": "demolition",
+      "action": "root-enriched",
+      "before": "de + mol + ition",
+      "after": "de + mol + ition",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1357,
+      "term": "demonstrate",
+      "slug": "demonstrate",
+      "action": "retained",
+      "before": "de + monstr + ate",
+      "after": "de + monstr + ate",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1358,
+      "term": "demonstration",
+      "slug": "demonstration",
+      "action": "root-enriched",
+      "before": "de + monstr + ation",
+      "after": "de + monstr + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1359,
+      "term": "denomination",
+      "slug": "denomination",
+      "action": "root-enriched",
+      "before": "de + nomin + ation",
+      "after": "de + nomin + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1360,
+      "term": "denote",
+      "slug": "denote",
+      "action": "retained",
+      "before": "de + note",
+      "after": "de + note",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1361,
+      "term": "denounce",
+      "slug": "denounce",
+      "action": "retained",
+      "before": "de + nounce",
+      "after": "de + nounce",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1362,
+      "term": "dense",
+      "slug": "dense",
+      "action": "retained",
+      "before": "dense",
+      "after": "dense",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1363,
+      "term": "condense",
+      "slug": "condense",
+      "action": "retained",
+      "before": "con + dense",
+      "after": "con + dense",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1364,
+      "term": "condenser",
+      "slug": "condenser",
+      "action": "corrected",
+      "before": "con + dens + er",
+      "after": "con + dens + er",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1365,
+      "term": "density",
+      "slug": "density",
+      "action": "retained",
+      "before": "dens + ity",
+      "after": "dens + ity",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1366,
+      "term": "dent",
+      "slug": "dent",
+      "action": "corrected",
+      "before": "dent",
+      "after": "dent",
+      "notes": "英语 dent 凹痕来自 dint/Old English dynt 打击。与 Latin dent- 牙齿在此分开建根；indent 是另一条齿状切口路径，不是 dent 的同页派生。"
+    },
+    {
+      "no": 1367,
+      "term": "indent",
+      "slug": "indent",
+      "action": "corrected",
+      "before": "in + dent",
+      "after": "in + dent",
+      "notes": "in- 进入 + dent- 牙齿；从切成齿状的边缘发展为缩进。不要与英语 dent 凹痕直接合并为同页词族。"
+    },
+    {
+      "no": 1368,
+      "term": "indenture",
+      "slug": "indenture",
+      "action": "corrected",
+      "before": "in + dent + ure",
+      "after": "in + dent + ure",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1369,
+      "term": "rodent",
+      "slug": "rodent",
+      "action": "corrected",
+      "before": "rod + ent",
+      "after": "rod + ent",
+      "notes": "rod- 啮咬 + -ent 做此动作的；不是含有 dent- 牙齿，牙科词只能作意义比较，不能冒充同根。"
+    },
+    {
+      "no": 1370,
+      "term": "edentate",
+      "slug": "edentate",
+      "action": "corrected",
+      "before": "e + dent + ate",
+      "after": "e + dent + ate",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1371,
+      "term": "dentistry",
+      "slug": "dentistry",
+      "action": "corrected",
+      "before": "dent + ist + ry",
+      "after": "dent + ist + ry",
+      "notes": "表层 dentist + -ry；内部 dent- 牙齿 + -ist 从业者 + -ry 行业。"
+    },
+    {
+      "no": 1372,
+      "term": "dental",
+      "slug": "dental",
+      "action": "corrected",
+      "before": "dent + al",
+      "after": "dent + al",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1373,
+      "term": "dentist",
+      "slug": "dentist",
+      "action": "corrected",
+      "before": "dent + ist",
+      "after": "dent + ist",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1374,
+      "term": "deny",
+      "slug": "deny",
+      "action": "root-enriched",
+      "before": "de + ny",
+      "after": "de + ny",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1375,
+      "term": "depart",
+      "slug": "depart",
+      "action": "retained",
+      "before": "de + part",
+      "after": "de + part",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1376,
+      "term": "departure",
+      "slug": "departure",
+      "action": "retained",
+      "before": "de + part + ure",
+      "after": "de + part + ure",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1377,
+      "term": "dependent",
+      "slug": "dependent",
+      "action": "corrected",
+      "before": "de + pend + ent",
+      "after": "de + pend + ent",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1378,
+      "term": "depend on",
+      "slug": "depend-on",
+      "action": "retained",
+      "before": "de + pend + on",
+      "after": "de + pend + on",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1379,
+      "term": "dependence",
+      "slug": "dependence",
+      "action": "corrected",
+      "before": "de + pend + ence",
+      "after": "de + pend + ence",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1380,
+      "term": "dependable",
+      "slug": "dependable",
+      "action": "retained",
+      "before": "de + pend + able",
+      "after": "de + pend + able",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1381,
+      "term": "independent",
+      "slug": "independent",
+      "action": "corrected",
+      "before": "in + de + pend + ent",
+      "after": "in + de + pend + ent",
+      "notes": "in- 在这里表示“不”，不是 in/into 进入；表层 in- + dependent；内部 de- + pend- 悬挂 + -ent。"
+    },
+    {
+      "no": 1382,
+      "term": "interdependent",
+      "slug": "interdependent",
+      "action": "corrected",
+      "before": "inter + de + pend + ent",
+      "after": "inter + de + pend + ent",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1383,
+      "term": "depict",
+      "slug": "depict",
+      "action": "retained",
+      "before": "de + pict",
+      "after": "de + pict",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1384,
+      "term": "deplete",
+      "slug": "deplete",
+      "action": "root-enriched",
+      "before": "de + plete",
+      "after": "de + plete",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1385,
+      "term": "deposit",
+      "slug": "deposit",
+      "action": "retained",
+      "before": "de + posit",
+      "after": "de + posit",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1386,
+      "term": "depositor",
+      "slug": "depositor",
+      "action": "root-enriched",
+      "before": "de + posit + or",
+      "after": "de + posit + or",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1387,
+      "term": "depot",
+      "slug": "depot",
+      "action": "corrected",
+      "before": "depot",
+      "after": "depot",
+      "notes": "表层 depot；French dépôt ← Latin depositum 放下之物 ← deponere = de- 向下 + ponere 放置，分词词干 posit-。与 deposit 深层同源，现代保留法语借词形。"
+    },
+    {
+      "no": 1388,
+      "term": "depreciation",
+      "slug": "depreciation",
+      "action": "root-enriched",
+      "before": "de + preci + ation",
+      "after": "de + preci + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1389,
+      "term": "depredation",
+      "slug": "depredation",
+      "action": "root-enriched",
+      "before": "de + pred + ation",
+      "after": "de + pred + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1390,
+      "term": "depress",
+      "slug": "depress",
+      "action": "retained",
+      "before": "de + press",
+      "after": "de + press",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1391,
+      "term": "depressed",
+      "slug": "depressed",
+      "action": "retained",
+      "before": "de + press + ed",
+      "after": "de + press + ed",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1392,
+      "term": "under the depressor",
+      "slug": "under-the-depressor",
+      "action": "corrected",
+      "before": "under + de + pressor",
+      "after": "under + the + de + press + or",
+      "notes": "原表疑似误录短语，暂保留 draft 待核原书，不能确认为“被强制”的固定表达。只能逐字分析 under + the + depressor；depressor 内层 de- 向下 + press- 压 + -or 物/肌肉。"
+    },
+    {
+      "no": 1393,
+      "term": "depression",
+      "slug": "depression",
+      "action": "root-enriched",
+      "before": "de + press + ion",
+      "after": "de + press + ion",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1394,
+      "term": "deprive",
+      "slug": "deprive",
+      "action": "retained",
+      "before": "de + priv",
+      "after": "de + priv",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1395,
+      "term": "deprivation",
+      "slug": "deprivation",
+      "action": "root-enriched",
+      "before": "de + priv + ation",
+      "after": "de + priv + ation",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1396,
+      "term": "derive",
+      "slug": "derive",
+      "action": "corrected",
+      "before": "de + rive",
+      "after": "de + rive",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1397,
+      "term": "derive from",
+      "slug": "derive-from",
+      "action": "corrected",
+      "before": "de + rive + from",
+      "after": "de + rive + from",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1398,
+      "term": "derivative",
+      "slug": "derivative",
+      "action": "corrected",
+      "before": "de + riv + ative",
+      "after": "de + riv + ative",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    },
+    {
+      "no": 1399,
+      "term": "desalination",
+      "slug": "desalination",
+      "action": "corrected",
+      "before": "de + sal + ation",
+      "after": "de + sal + in + ation",
+      "notes": "表层 de- 去除 + salination；内层 sal- 盐 + -in-（saline 的 -ine）+ -ation 过程。完整显示 de + sal + in + ation。"
+    },
+    {
+      "no": 1400,
+      "term": "descend",
+      "slug": "descend",
+      "action": "retained",
+      "before": "de + scend",
+      "after": "de + scend",
+      "notes": "现有拆解可保留；完整词干不作无依据的强拆。"
+    }
+  ],
+  "sourceRows": 229,
+  "validation": {
+    "canonicalIssues": 0,
+    "canonicalWarnings": 0,
+    "batchIssues": 0,
+    "batchWarnings": 0,
+    "staticWordsVerified": 200,
+    "staticRootsVerified": 169,
+    "typescript": "passed",
+    "productionBuild": "passed; vinext route classification warning",
+    "ingestProgress": "unchanged; next No.2434",
+    "layerRepresentation": "source.note + visible morpheme.note; relatedRootIds where appropriate"
+  },
+  "references": [
+    "https://www.etymonline.com/word/crumple",
+    "https://www.etymonline.com/word/crumble",
+    "https://www.etymonline.com/word/credential",
+    "https://www.etymonline.com/word/credit",
+    "https://www.etymonline.com/word/curriculum",
+    "https://www.etymonline.com/word/cuticle",
+    "https://www.etymonline.com/word/delicate",
+    "https://www.etymonline.com/word/defer",
+    "https://www.etymonline.com/word/debt",
+    "https://www.etymonline.com/word/debate",
+    "https://www.etymonline.com/word/debris",
+    "https://www.etymonline.com/word/delay",
+    "https://www.etymonline.com/word/dent",
+    "https://www.etymonline.com/word/adept",
+    "https://www.etymonline.com/word/deity",
+    "https://www.etymonline.com/word/crisscross",
+    "https://www.etymonline.com/word/custom",
+    "https://www.etymonline.com/word/cushion",
+    "https://www.etymonline.com/word/danger",
+    "https://www.etymonline.com/word/desalination",
+    "https://www.etymonline.com/word/valid",
+    "https://www.etymonline.com/word/-ine",
+    "https://www.etymonline.com/word/-ry",
+    "https://www.etymonline.com/word/Crustacea",
+    "https://www.merriam-webster.com/dictionary/crumple",
+    "https://www.merriam-webster.com/dictionary/debate",
+    "https://www.merriam-webster.com/dictionary/debris",
+    "https://www.merriam-webster.com/dictionary/debt",
+    "https://www.merriam-webster.com/dictionary/dent",
+    "https://www.merriam-webster.com/dictionary/adept",
+    "https://www.merriam-webster.com/dictionary/delicious",
+    "https://www.merriam-webster.com/dictionary/valid",
+    "https://www.merriam-webster.com/dictionary/delay",
+    "https://www.merriam-webster.com/dictionary/cuticle",
+    "https://www.merriam-webster.com/dictionary/deity",
+    "https://www.merriam-webster.com/dictionary/christcross",
+    "https://www.merriam-webster.com/dictionary/-ine",
+    "https://www.merriam-webster.com/dictionary/-ry",
+    "https://www.merriam-webster.com/dictionary/-ery",
+    "https://www.merriam-webster.com/dictionary/crustacea"
+  ]
+}

@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crystallized
+word: crystallized
+pos: adjective
+zh: 变成晶体的；明确成形的
+en: formed into crystals or made clear and fixed
+components:
+  - morpheme: crystal
+    form: crystall
+    meaning_in_word: crystal
+    zh: 水晶；晶体
+    role: root
+    is_core: true
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make or become
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: completed state
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - crystal
+  - crystalline
+  - crystallize
+  - crystallization
+word_family_details:
+  - word: crystal
+    en: a clear mineral solid with regular structure, or clear like crystal
+    zh: 水晶；晶体；清澈的；结晶状的
+  - word: crystalline
+    en: made of crystals or clear like crystal
+    zh: 水晶的；透明的；晶体状的
+  - word: crystallize
+    en: to become clear and definite, or to form crystals
+    zh: 明确；使结晶化
+  - word: crystallization
+    en: the process of forming crystals or becoming clear and definite
+    zh: 结晶化；明确化
+confusables:
+  []
+examples:
+  []
+why_confusing: crystallized sugar 是结晶糖；crystallized idea 是成形的想法。

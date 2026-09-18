@@ -5,24 +5,27 @@ type: prefix
 core_meaning: to, toward
 zh: 去、向、靠近
 origin: Latin
+source_form: Latin ad
+source_meaning: to, toward
+source_meaning_zh: 向；朝向
 related_morphemes:
   []
 senses:
   - meaning: to, toward
     zh: 去、向、靠近
     examples:
-      - avert
+      - aboard
       - abut
       - accelerate
       - accelerated
       - accelerating
       - acceleration
       - access
-      - accessible
       - accessibility
+      - accessible
       - accessory
-      - accidental
       - accident
+      - accidental
       - acclaim
       - acclaimed
       - accommodate
@@ -36,32 +39,173 @@ senses:
       - accredit
       - accumulate
       - accumulation
-      - accurate
       - accuracy
-      - accuse
+      - accurate
       - accusation
+      - accuse
       - accustomed
       - achieve
-      - acquaint
-      - acquisition
       - acquire
+      - acquisition
+      - adapt
+      - adept
+      - adequate
+      - adhere
+      - adhesive
+      - adjacent
+      - adjoin
+      - adjoining
+      - adjunct
+      - adjust
+      - adjustment
+      - administer
+      - administration
+      - administrative
+      - administrator
+      - admiration
+      - admire
+      - admit
+      - admittedly
+      - adopt
+      - adoption
+      - adorn
+      - adornment
+      - advent
+      - adventure
+      - adventurer
+      - adventurous
+      - adverse
+      - adversely
+      - adversity
+      - advocate
+      - affect
+      - affected
+      - affection
+      - affectionate
+      - affective
+      - affiliate
+      - affinity
+      - affirm
+      - affliction
+      - affluent
+      - aggravate
+      - aggravating
+      - aggregate
+      - aggregation
+      - aggressive
+      - aggressiveness
+      - agreeable
+      - alert
+      - alignment
+      - allegation
+      - alliteration
+      - allocate
+      - alloy
+      - allude
+      - ally
+      - amount
+      - annex
+      - annihilate
+      - announcement
+      - announcer
+      - apart from
+      - appeal
+      - appealing
+      - appetite
+      - applaud
+      - appliance
+      - applicant
+      - application
+      - apply
+      - appoint
+      - appointment
+      - apportion
+      - appraisal
+      - appraise
+      - appreciable
+      - appreciate
+      - appreciation
+      - apprentice
+      - approach
+      - approaching
+      - appropriation
+      - approval
+      - approve
+      - approximate
+      - approximately
+      - arrange
+      - arrangement
+      - ascend
+      - ascending
+      - ascribe
+      - aspiration
+      - aspire
+      - aspiring
+      - assault
+      - assemblage
+      - assemble
+      - assembly
+      - assert
+      - assess
+      - assessment
+      - assign
+      - assignment
+      - assimilate
+      - assist
+      - assistance
+      - assistant
+      - associate
+      - association
+      - assort
+      - assorted
+      - assortment
+      - assume
+      - assumption
+      - assure
+      - assured
+      - astonish
+      - astound
+      - attach
+      - attached
+      - attachment
+      - attain
+      - attainment
+      - attempt
+      - attend
+      - attendance
+      - attendant
+      - attention
+      - attire
+      - attorney
+      - attract
+      - attraction
+      - attractive
+      - attribute
+      - avail
+      - availability
+      - available
+      - disapproval
+      - disapprove
+      - in addition to
+      - inadequate
+      - readjust
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - a- -> avert
+  - a- -> aboard
   - a- -> abut
   - ac- -> accelerate
   - ac- -> accelerated
   - ac- -> accelerating
   - ac- -> acceleration
   - ac- -> access
-  - ac- -> accessible
   - ac- -> accessibility
+  - ac- -> accessible
   - ac- -> accessory
-  - ac- -> accidental
   - ac- -> accident
+  - ac- -> accidental
   - ac- -> acclaim
   - ac- -> acclaimed
   - ac- -> accommodate
@@ -75,28 +219,169 @@ patterns:
   - ac- -> accredit
   - ac- -> accumulate
   - ac- -> accumulation
-  - ac- -> accurate
   - ac- -> accuracy
-  - ac- -> accuse
+  - ac- -> accurate
   - ac- -> accusation
+  - ac- -> accuse
   - ac- -> accustomed
   - a- -> achieve
-  - ac- -> acquaint
-  - ac- -> acquisition
   - ac- -> acquire
+  - ac- -> acquisition
+  - ad- -> adapt
+  - ad- -> adept
+  - ad- -> adequate
+  - ad- -> adhere
+  - ad- -> adhesive
+  - ad- -> adjacent
+  - ad- -> adjoin
+  - ad- -> adjoining
+  - ad- -> adjunct
+  - ad- -> adjust
+  - ad- -> adjustment
+  - ad- -> administer
+  - ad- -> administration
+  - ad- -> administrative
+  - ad- -> administrator
+  - ad- -> admiration
+  - ad- -> admire
+  - ad- -> admit
+  - ad- -> admittedly
+  - ad- -> adopt
+  - ad- -> adoption
+  - ad- -> adorn
+  - ad- -> adornment
+  - ad- -> advent
+  - ad- -> adventure
+  - ad- -> adventurer
+  - ad- -> adventurous
+  - ad- -> adverse
+  - ad- -> adversely
+  - ad- -> adversity
+  - ad- -> advocate
+  - af- -> affect
+  - af- -> affected
+  - af- -> affection
+  - af- -> affectionate
+  - af- -> affective
+  - af- -> affiliate
+  - af- -> affinity
+  - af- -> affirm
+  - af- -> affliction
+  - af- -> affluent
+  - ag- -> aggravate
+  - ag- -> aggravating
+  - ag- -> aggregate
+  - ag- -> aggregation
+  - ag- -> aggressive
+  - ag- -> aggressiveness
+  - a- -> agreeable
+  - al- -> alert
+  - al- -> alignment
+  - al- -> allegation
+  - al- -> alliteration
+  - al- -> allocate
+  - al- -> alloy
+  - al- -> allude
+  - al- -> ally
+  - a- -> amount
+  - an- -> annex
+  - an- -> annihilate
+  - an- -> announcement
+  - an- -> announcer
+  - a- -> apart from
+  - ap- -> appeal
+  - ap- -> appealing
+  - ap- -> appetite
+  - ap- -> applaud
+  - ap- -> appliance
+  - ap- -> applicant
+  - ap- -> application
+  - ap- -> apply
+  - ap- -> appoint
+  - ap- -> appointment
+  - ap- -> apportion
+  - ap- -> appraisal
+  - ap- -> appraise
+  - ap- -> appreciable
+  - ap- -> appreciate
+  - ap- -> appreciation
+  - ap- -> apprentice
+  - ap- -> approach
+  - ap- -> approaching
+  - ap- -> appropriation
+  - ap- -> approval
+  - ap- -> approve
+  - ap- -> approximate
+  - ap- -> approximately
+  - ar- -> arrange
+  - ar- -> arrangement
+  - a- -> ascend
+  - a- -> ascending
+  - a- -> ascribe
+  - a- -> aspiration
+  - a- -> aspire
+  - a- -> aspiring
+  - as- -> assault
+  - as- -> assemblage
+  - as- -> assemble
+  - as- -> assembly
+  - as- -> assert
+  - as- -> assess
+  - as- -> assessment
+  - as- -> assign
+  - as- -> assignment
+  - as- -> assimilate
+  - as- -> assist
+  - as- -> assistance
+  - as- -> assistant
+  - as- -> associate
+  - as- -> association
+  - as- -> assort
+  - as- -> assorted
+  - as- -> assortment
+  - as- -> assume
+  - as- -> assumption
+  - as- -> assure
+  - as- -> assured
+  - a- -> astonish
+  - a- -> astound
+  - at- -> attach
+  - at- -> attached
+  - at- -> attachment
+  - at- -> attain
+  - at- -> attainment
+  - at- -> attempt
+  - at- -> attend
+  - at- -> attendance
+  - at- -> attendant
+  - at- -> attention
+  - at- -> attire
+  - at- -> attorney
+  - at- -> attract
+  - at- -> attraction
+  - at- -> attractive
+  - at- -> attribute
+  - a- -> avail
+  - a- -> availability
+  - a- -> available
+  - ap- -> disapproval
+  - ap- -> disapprove
+  - to -> in addition to
+  - ad- -> inadequate
+  - ad -> readjust
 high_value_words:
-  - avert
+  - aboard
   - abut
   - accelerate
   - accelerated
   - accelerating
   - acceleration
   - access
-  - accessible
   - accessibility
+  - accessible
   - accessory
-  - accidental
   - accident
+  - accidental
   - acclaim
   - acclaimed
   - accommodate
@@ -110,14 +395,155 @@ high_value_words:
   - accredit
   - accumulate
   - accumulation
-  - accurate
   - accuracy
-  - accuse
+  - accurate
   - accusation
+  - accuse
   - accustomed
   - achieve
-  - acquaint
-  - acquisition
   - acquire
+  - acquisition
+  - adapt
+  - adept
+  - adequate
+  - adhere
+  - adhesive
+  - adjacent
+  - adjoin
+  - adjoining
+  - adjunct
+  - adjust
+  - adjustment
+  - administer
+  - administration
+  - administrative
+  - administrator
+  - admiration
+  - admire
+  - admit
+  - admittedly
+  - adopt
+  - adoption
+  - adorn
+  - adornment
+  - advent
+  - adventure
+  - adventurer
+  - adventurous
+  - adverse
+  - adversely
+  - adversity
+  - advocate
+  - affect
+  - affected
+  - affection
+  - affectionate
+  - affective
+  - affiliate
+  - affinity
+  - affirm
+  - affliction
+  - affluent
+  - aggravate
+  - aggravating
+  - aggregate
+  - aggregation
+  - aggressive
+  - aggressiveness
+  - agreeable
+  - alert
+  - alignment
+  - allegation
+  - alliteration
+  - allocate
+  - alloy
+  - allude
+  - ally
+  - amount
+  - annex
+  - annihilate
+  - announcement
+  - announcer
+  - apart from
+  - appeal
+  - appealing
+  - appetite
+  - applaud
+  - appliance
+  - applicant
+  - application
+  - apply
+  - appoint
+  - appointment
+  - apportion
+  - appraisal
+  - appraise
+  - appreciable
+  - appreciate
+  - appreciation
+  - apprentice
+  - approach
+  - approaching
+  - appropriation
+  - approval
+  - approve
+  - approximate
+  - approximately
+  - arrange
+  - arrangement
+  - ascend
+  - ascending
+  - ascribe
+  - aspiration
+  - aspire
+  - aspiring
+  - assault
+  - assemblage
+  - assemble
+  - assembly
+  - assert
+  - assess
+  - assessment
+  - assign
+  - assignment
+  - assimilate
+  - assist
+  - assistance
+  - assistant
+  - associate
+  - association
+  - assort
+  - assorted
+  - assortment
+  - assume
+  - assumption
+  - assure
+  - assured
+  - astonish
+  - astound
+  - attach
+  - attached
+  - attachment
+  - attain
+  - attainment
+  - attempt
+  - attend
+  - attendance
+  - attendant
+  - attention
+  - attire
+  - attorney
+  - attract
+  - attraction
+  - attractive
+  - attribute
+  - avail
+  - availability
+  - available
+  - disapproval
+  - disapprove
+  - in addition to
+  - inadequate
+  - readjust
 confusable_words:
   []

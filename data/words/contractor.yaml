@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contractor
+word: contractor
+pos: noun
+zh: 承包人；订约人
+en: a person or company hired under a contract to do work
+components:
+  - morpheme: tract
+    form: contract
+    meaning_in_word: agreement
+    zh: 拉、抽出
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -or
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - contract
+  - contraction
+word_family_details:
+  - word: contract
+    en: to become smaller or draw together
+    zh: 收缩；缩短
+  - word: contraction
+    en: the act of becoming smaller or a shortened form of a word
+    zh: 缩短；收缩；缩约形式
+confusables:
+  []
+examples:
+  []
+why_confusing: independent contractor 是独立承包人。

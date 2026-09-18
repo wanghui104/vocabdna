@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disperse
+word: disperse
+pos: verb
+zh: 分散；散开；驱散
+en: to scatter or spread over a wide area
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: The prefix dis- appears as di- before the s of the scatter stem.
+  - morpheme: spars
+    form: sperse
+    meaning_in_word: scatter
+    zh: 散布；分散
+    role: root
+    is_core: true
+word_family:
+  - dispersal
+word_family_details:
+  - word: dispersal
+    en: the act or process of dispersing
+    zh: 疏散；散布；散开
+confusables:
+  []
+examples:
+  []
+why_confusing: disperse 可及物也可不及物。

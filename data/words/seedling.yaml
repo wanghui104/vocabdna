@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: seedling
+word: seedling
+pos: noun
+zh: 秧苗, 树苗
+en: Means 秧苗, 树苗; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: seed
+    form: seed
+    meaning_in_word: seed / 种子
+    zh: 种子
+    role: root
+    is_core: true
+  - morpheme: ling
+    form: ling
+    meaning_in_word: ling / ling
+    zh: 小的；幼体
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

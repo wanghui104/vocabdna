@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: documentary
+word: documentary
+pos: adjective/noun
+zh: 文献的；纪实的
+en: based on documents or factual records
+components:
+  - morpheme: doc
+    form: docu
+    meaning_in_word: teach, show / 教；显示
+    zh: 教；显示
+    role: root
+    is_core: true
+    note: docu- 为 documentum 的构词形；doctr- 为 doctrina 的词干层，含 doct- 已教的及 r 扩展，不另造现代后缀 -tr。
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result, state / 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+  - morpheme: ary
+    form: -ary
+    meaning_in_word: relating to / 与……有关的
+    zh: 与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - document
+  - documentation
+word_family_details:
+  - word: document
+    en: a written or electronic record that provides information or evidence
+    zh: 文件；文档
+  - word: documentation
+    en: written records or evidence; the process of recording information
+    zh: 文件资料；书面证据；记录过程
+confusables:
+  []
+examples:
+  []
+why_confusing: docu- 为 documentum 的构词形；doctr- 为 doctrina 的词干层，含 doct- 已教的及 r 扩展，不另造现代后缀 -tr。

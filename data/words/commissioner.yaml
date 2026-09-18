@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: commissioner
+word: commissioner
+pos: noun
+zh: 委员；专员
+en: an official appointed to a commission or public role
+components:
+  - morpheme: miss
+    form: commission
+    meaning_in_word: authorized office
+    zh: 委托；提交；承担
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - commission
+word_family_details:
+  - word: commission
+    en: to authorize work, or a payment/official group for doing work
+    zh: 委任；委托；佣金
+confusables:
+  []
+examples:
+  []
+why_confusing: police/league commissioner 等搭配常见。

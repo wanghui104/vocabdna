@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disgusted
+word: disgusted
+pos: adjective
+zh: 厌烦的；厌恶的
+en: feeling strong dislike or revulsion
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: opposite of
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: gust
+    form: gust
+    meaning_in_word: taste
+    zh: 品尝；味道
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: feeling
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - disgust
+word_family_details:
+  - word: disgust
+    en: a strong feeling of dislike or revulsion
+    zh: 厌恶；嫌恶
+confusables:
+  []
+examples:
+  []
+why_confusing: disgusted with/by 后接对象。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: antique
+word: antique
+pos: noun/adjective
+zh: 古董
+en: an old object valued because of its age, beauty, or rarity
+components:
+  - morpheme: antiqu
+    form: antique
+    meaning_in_word: ancient, old
+    zh: 古老；过时
+    role: root
+    is_core: true
+word_family:
+  - antiquate
+  - antiquated
+  - antiquity
+word_family_details:
+  - word: antiquate
+    en: to make something old-fashioned or obsolete
+    zh: 使古旧；使过时；废弃
+  - word: antiquated
+    en: too old-fashioned to be useful or suitable
+    zh: 陈旧的；过时的
+  - word: antiquity
+    en: an object, building, or relic from ancient times
+    zh: 古迹；古物
+confusables:
+  - word: anticipate
+    reason: antique 作名词常指古董；作形容词指古旧或古风。
+    zh_reason: antique 作名词常指古董；作形容词指古旧或古风。
+examples:
+  []
+why_confusing: antique 作名词常指古董；作形容词指古旧或古风。

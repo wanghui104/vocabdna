@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lect-delight
+display: lect
+type: root
+core_meaning: delight, pleasing quality
+zh: 愉悦；美味；精致
+origin: Latin
+source_form: Latin delectare / delicere
+source_meaning: delight, allure, please
+source_meaning_zh: 使高兴；诱引
+source_note: 表层 delect-/delic- 引诱、使愉悦；Latin delectare 为 delicere 的反复式，深层 de- 离开 + lacere 引诱。不是 legere 读、选择。delectable 保留 delect- + -able；delicate/delicious 保留 delic-。
+related_morphemes:
+  - de
+senses:
+  - meaning: delight, pleasing quality
+    zh: 愉悦；美味；精致
+    examples:
+      - delectable
+      - delicate
+      - delicious
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - delect -> delectable
+  - delic -> delicate
+  - delic -> delicious
+high_value_words:
+  - delectable
+  - delicate
+  - delicious
+confusable_words:
+  []

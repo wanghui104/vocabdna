@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bicameral
+word: bicameral
+pos: adjective
+zh: 两院制的；有两个议院的
+en: having two legislative chambers
+components:
+  - morpheme: bi
+    form: bi-
+    meaning_in_word: two
+    zh: 二；双
+    role: prefix
+    is_core: false
+  - morpheme: camer
+    form: camer
+    meaning_in_word: chamber
+    zh: 议院；房间
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 美国国会就是 bicameral legislature。

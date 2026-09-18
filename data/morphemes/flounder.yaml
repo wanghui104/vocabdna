@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flounder
+display: flounder
+type: root
+core_meaning: struggle; flatfish
+zh: 挣扎；比目鱼
+origin: Unknown
+source_form: English flounder (verb); Old Norse flydhra (fish)
+source_meaning: struggle; flatfish
+source_meaning_zh: 挣扎；比目鱼
+source_note: 同形异源：挣扎动词来源未定，可能受 founder 影响；鱼名来自北欧语并经法语变化。保留 draft 双分支，不造共同 -er 根。
+related_morphemes:
+  []
+senses:
+  - meaning: struggle; flatfish
+    zh: 挣扎；比目鱼
+    examples:
+      - flounder
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - flounder -> flounder
+high_value_words:
+  - flounder
+confusable_words:
+  []

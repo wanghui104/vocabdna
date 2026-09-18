@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: board
+word: board
+pos: noun/verb
+zh: 木板；委员会；膳食费用；登上交通工具
+en: a plank, a committee, meals/lodging, or to get onto a vehicle
+components:
+  - morpheme: board
+    form: board
+    meaning_in_word: plank, table, ship side
+    zh: 木板；委员会；膳食；登上交通工具
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: board 的多义可从 table/side/enter 线索区分。

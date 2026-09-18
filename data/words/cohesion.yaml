@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cohesion
+word: cohesion
+pos: noun
+zh: 附着力；凝聚力
+en: the force or quality of sticking together
+components:
+  - morpheme: com
+    form: co-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: haer
+    form: hes
+    meaning_in_word: stick
+    zh: 连贯；凝聚
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: state
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - cohere
+  - coherent
+  - coherence
+  - cohesive
+word_family_details:
+  - word: cohere
+    en: to stick together or form a logical whole
+    zh: 连贯；粘合
+  - word: coherent
+    en: clear, logical, and connected
+    zh: 粘在一起的；连贯的；有条理的
+  - word: coherence
+    en: the quality of being logical and connected
+    zh: 一致；连贯性
+  - word: cohesive
+    en: sticking together well or forming a united whole
+    zh: 粘着的；有凝聚力的
+confusables:
+  []
+examples:
+  []
+why_confusing: team/social/text cohesion 都常见。

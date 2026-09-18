@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tender
+display: tender
+type: root
+core_meaning: soft; offer
+zh: 柔软；提出
+origin: Latin/French
+source_form: tender
+source_meaning: soft; offer
+source_meaning_zh: 柔软；提出
+source_note: Added during TOEFL 5400 batch 4801-5000 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: soft; offer
+    zh: 柔软；提出
+    examples:
+      - tender
+      - tenderness
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tender -> tender
+  - tender -> tenderness
+high_value_words:
+  - tender
+  - tenderness
+confusable_words:
+  []

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: yelp
+display: yelp
+type: root
+core_meaning: yelp
+zh: 狗吠
+origin: teaching morphology
+source_form: yelp
+source_meaning: yelp
+source_meaning_zh: 狗吠
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: yelp
+    zh: 狗吠
+    examples:
+      - yelp
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - yelp -> yelp
+high_value_words:
+  - yelp
+confusable_words:
+  []

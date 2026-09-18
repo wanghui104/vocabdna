@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dull
+word: dull
+pos: adjective
+zh: 钝的；暗淡的；乏味的；迟钝的
+en: not sharp, bright, interesting, or quick to understand
+components:
+  - morpheme: dull
+    form: dull
+    meaning_in_word: not sharp or lively / 钝；沉闷
+    zh: 钝；沉闷
+    role: root
+    is_core: true
+    note: 本族简单词，具体传入路径存在不同解释，不强拆。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

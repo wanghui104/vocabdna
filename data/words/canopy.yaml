@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: canopy
+word: canopy
+pos: noun
+zh: 天篷；遮篷
+en: a covering above a bed, seat, path, or forest layer
+components:
+  - morpheme: canopy
+    form: canopy
+    meaning_in_word: overhead cover
+    zh: 天篷；遮篷
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: forest canopy 指森林冠层。

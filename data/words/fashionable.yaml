@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fashionable
+word: fashionable
+pos: adjective
+zh: 时髦的；流行的
+en: following current popular style or custom
+components:
+  - morpheme: fashion
+    form: fashion
+    meaning_in_word: making, form / 制作；形式
+    zh: 制作；形式
+    role: root
+    is_core: true
+    note: 深层 facere 做 + -tio/-tion 动作名词 → factio → façon → fashion；保留现代 fashion。与 faction 同源但不合并同页。
+    related_morphemes:
+      - fac
+      - ion
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to be / 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.
+word_family:
+  - fashion
+word_family_details:
+  - word: fashion
+    en: a popular style; a manner of doing something
+    zh: 时尚；方式
+confusables:
+  []
+examples:
+  []
+why_confusing: 

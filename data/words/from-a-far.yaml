@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: from-a-far
+word: from afar
+pos: adverb
+zh: 从远处
+en: from a great distance
+components:
+  - morpheme: from
+    form: from
+    meaning_in_word: from, source / 从；来源
+    zh: 从；来源
+    role: root
+    is_core: true
+    note: 源表 from a far 应为 from afar。afar = a-（历史 on/of 的弱化形式）+ far；a 不是不定冠词。为保持旧链接，slug 保留 from-a-far，页面显示正确短语。
+  - morpheme: a
+    form: a-
+    meaning_in_word: on, in, of; completive / 在；属于；完成性
+    zh: 在；属于；完成性
+    role: prefix
+    is_core: false
+    note: Used for native or reduced a- in words such as akin and afford; kept separate from Latin ad-.
+  - morpheme: far
+    form: far
+    meaning_in_word: far / 远
+    zh: 远
+    role: root
+    is_core: true
+    note: far-reaching 为 far + reach + -ing，表示影响范围远。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

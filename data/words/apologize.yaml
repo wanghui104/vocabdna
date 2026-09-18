@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: apologize
+word: apologize
+pos: verb
+zh: 道歉
+en: to say that one is sorry for a fault or offense
+components:
+  - morpheme: apo
+    form: apo-
+    meaning_in_word: away, in defense
+    zh: 离开；脱离
+    role: prefix
+    is_core: false
+  - morpheme: log
+    form: log
+    meaning_in_word: speech
+    zh: 原木；记录
+    role: root
+    is_core: true
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make/do
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - apology
+word_family_details:
+  - word: apology
+    en: a statement saying that one is sorry
+    zh: 道歉；歉意
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

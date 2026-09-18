@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: evergreen
+word: evergreen
+pos: adjective/noun
+zh: 常绿的；经久不衰的
+en: having green leaves throughout the year; remaining relevant
+components:
+  - morpheme: ever
+    form: ever
+    meaning_in_word: always / 总是
+    zh: 总是
+    role: root
+    is_core: true
+    note: 简单本族副词，evergreen = ever + green。
+  - morpheme: green
+    form: green
+    meaning_in_word: green / 绿色
+    zh: 绿色
+    role: root
+    is_core: true
+    note: 常绿不是永远保持同一片叶，而是全年有绿叶。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

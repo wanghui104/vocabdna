@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: consternation
+word: consternation
+pos: noun
+zh: 惊愕；惊慌失措
+en: a feeling of shock, worry, or confusion
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: stern
+    form: stern
+    meaning_in_word: throw down
+    zh: 压倒；惊愕
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: state
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: to someone's consternation 常见。

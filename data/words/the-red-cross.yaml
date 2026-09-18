@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: the-red-cross
+word: the Red Cross
+pos: phrase
+zh: 红十字会
+en: an international humanitarian organization associated with a red cross symbol
+components:
+  - morpheme: the-article
+    form: the
+    meaning_in_word: the; definite article / 定冠词
+    zh: 定冠词
+    role: connector
+    is_core: false
+  - morpheme: red
+    form: red
+    meaning_in_word: red / 红色
+    zh: 红色
+    role: root
+    is_core: true
+  - morpheme: cross
+    form: cross
+    meaning_in_word: cross / 交叉；杂交
+    zh: 交叉；杂交
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 作为专名通常大写；slug 保留 the-red-cross。

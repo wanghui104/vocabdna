@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cooperate
+word: cooperate
+pos: verb
+zh: 合作；协作
+en: to work together toward a shared goal
+components:
+  - morpheme: con
+    form: co-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: oper
+    form: oper
+    meaning_in_word: work
+    zh: 工作；合作
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: act
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - cooperation
+  - cooperative
+word_family_details:
+  - word: cooperation
+    en: the act of working together
+    zh: 合作；协作
+  - word: cooperative
+    en: willing to work together, or an organization owned by members
+    zh: 合作的；协力的；合作社
+confusables:
+  []
+examples:
+  []
+why_confusing: cooperate with someone; cooperate in/on a project.

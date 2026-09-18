@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: camouflage
+word: camouflage
+pos: noun/verb
+zh: 伪装；掩饰
+en: concealment by blending with surroundings; to disguise in this way
+components:
+  - morpheme: camoufl
+    form: camoufl
+    meaning_in_word: disguise / 伪装
+    zh: 伪装
+    role: root
+    is_core: true
+    note: camouflage = camoufl- + -age；camoufler 更深可能涉及意大利语，但证据不足，不强拆 camo/moufl。
+  - morpheme: age
+    form: -age
+    meaning_in_word: result or collection / 结果；集合
+    zh: 结果；集合
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

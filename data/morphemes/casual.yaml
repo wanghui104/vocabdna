@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: casual
+display: casual
+type: root
+core_meaning: casual, by chance
+zh: 偶然的；随便的
+origin: Latin
+source_form: Latin casus, cadere
+source_meaning: fall, chance, case
+source_meaning_zh: 落下；偶然；情形
+related_morphemes:
+  []
+senses:
+  - meaning: casual, by chance
+    zh: 偶然的；随便的
+    examples:
+      - casual
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - casual -> casual
+high_value_words:
+  - casual
+confusable_words:
+  []

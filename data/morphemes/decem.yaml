@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: decem
+display: dec
+type: root
+core_meaning: ten, tenth
+zh: 十；十分之一
+origin: Latin
+source_form: Latin decem
+source_meaning: ten
+source_meaning_zh: 十
+related_morphemes:
+  []
+senses:
+  - meaning: ten, tenth
+    zh: 十；十分之一
+    examples:
+      - decimal
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - decim -> decimal
+high_value_words:
+  - decimal
+confusable_words:
+  []

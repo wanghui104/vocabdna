@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: longitude
+word: longitude
+pos: noun
+zh: 经度，经线
+en: Means 经度，经线; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: long
+    form: long
+    meaning_in_word: 长
+    zh: 长
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:long.
+  - morpheme: itude
+    form: itude
+    meaning_in_word: itude
+    zh: itude
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:itude.
+word_family:
+  - long-range
+  - longevity
+word_family_details:
+  - word: long-range
+    en: Means 远程的; reviewed from the TOEFL source gloss for learner display.
+    zh: 远程的
+  - word: longevity
+    en: Means 长寿; reviewed from the TOEFL source gloss for learner display.
+    zh: 长寿
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

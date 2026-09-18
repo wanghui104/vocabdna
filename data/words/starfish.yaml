@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: starfish
+word: starfish
+pos: noun
+zh: 海星
+en: Means 海星; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: star
+    form: star
+    meaning_in_word: star / 星；明星
+    zh: 星；明星
+    role: root
+    is_core: true
+  - morpheme: fish
+    form: fish
+    meaning_in_word: fish / 鱼
+    zh: 鱼
+    role: root
+    is_core: true
+word_family:
+  - stardom
+word_family_details:
+  - word: stardom
+    en: Means 明星的身份或地位; reviewed from the TOEFL source gloss for learner display.
+    zh: 明星的身份或地位
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

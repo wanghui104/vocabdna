@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: milieu
+word: milieu
+pos: noun
+zh: 环境；出身背景
+en: Means 环境；出身背景; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: milieu
+    form: milieu
+    meaning_in_word: milieu
+    zh: milieu
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:milieu.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

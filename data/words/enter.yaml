@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: enter
+word: enter
+pos: verb
+zh: 进入；登记；参加
+en: to go in; to record information or join an activity
+components:
+  - morpheme: enter
+    form: enter
+    meaning_in_word: go inside / 进入
+    zh: 进入
+    role: root
+    is_core: true
+    note: 深层 intrare 来自 intra 在内，关联 in；entry 的 entr- 为历史词干缩略，不是前缀 entre- 之间。
+word_family:
+  - entry
+word_family_details:
+  - word: entry
+    en: the act or right of entering; an entrance
+    zh: 进入；进入权；入口
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: additional
+word: additional
+pos: adjective
+zh: 另外的；附加的；额外的
+en: more than what already exists or has been mentioned
+components:
+  - morpheme: add-put
+    form: add
+    meaning_in_word: put in
+    zh: 添加；放置；连接
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ition
+    meaning_in_word: act or result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  - en: The project needs additional funding.
+    zh: 这个项目需要额外资金。
+why_confusing: additional 是形容词；in addition to 是介词短语。

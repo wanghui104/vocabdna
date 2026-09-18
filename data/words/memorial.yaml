@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: memorial
+word: memorial
+pos: noun
+zh: 纪念物
+en: Means 纪念物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: memor
+    form: memor
+    meaning_in_word: 纪念
+    zh: 纪念
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:memor.
+  - morpheme: ial
+    form: -ial
+    meaning_in_word: 有关……的
+    zh: 有关……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ial.
+word_family:
+  - memory
+  - memorize
+  - memorable
+  - commemorate
+  - memorandum
+word_family_details:
+  - word: memory
+    en: Means 记忆，记忆力；回忆; reviewed from the TOEFL source gloss for learner display.
+    zh: 记忆，记忆力；回忆
+  - word: memorize
+    en: Means 纪念; reviewed from the TOEFL source gloss for learner display.
+    zh: 纪念
+  - word: memorable
+    en: Means 难忘的; reviewed from the TOEFL source gloss for learner display.
+    zh: 难忘的
+  - word: commemorate
+    en: Means 纪念; reviewed from the TOEFL source gloss for learner display.
+    zh: 纪念
+  - word: memorandum
+    en: Means 备忘录, 便笺; reviewed from the TOEFL source gloss for learner display.
+    zh: 备忘录, 便笺
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

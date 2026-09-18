@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: methodology
+word: methodology
+pos: noun
+zh: 方法论，方法学
+en: Means 方法论，方法学; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: method
+    form: method
+    meaning_in_word: 方法
+    zh: 方法
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:method.
+  - morpheme: log
+    form: log
+    meaning_in_word: 原木；记录
+    zh: 原木；记录
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:log.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:y.
+word_family:
+  - methodically
+word_family_details:
+  - word: methodically
+    en: Means 有条理地；井然地; reviewed from the TOEFL source gloss for learner display.
+    zh: 有条理地；井然地
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

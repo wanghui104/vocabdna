@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: decorate
+word: decorate
+pos: verb
+zh: 装饰；装潢；修饰
+en: to make something more attractive by adding ornament
+components:
+  - morpheme: dec-decor
+    form: decor
+    meaning_in_word: ornament, grace
+    zh: 得体；合宜；装饰
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make or do
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - decoration
+  - decorative
+word_family_details:
+  - word: decoration
+    en: the act of decorating or something used as ornament
+    zh: 装饰；装饰品
+  - word: decorative
+    en: intended to make something look attractive
+    zh: 装饰的；可作装饰的
+confusables:
+  []
+examples:
+  []
+why_confusing: decorate 也可指授勋。

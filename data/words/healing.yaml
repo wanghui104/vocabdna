@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: healing
+word: healing
+pos: adjective
+zh: 有治疗作用的
+en: Means 有治疗作用的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: heal
+    form: heal
+    meaning_in_word: heal
+    zh: 康复，治愈
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:heal.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Suffix layer from Old English -ing.
+word_family:
+  - heal
+  - healthful
+word_family_details:
+  - word: heal
+    en: Means 康复，治愈; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 康复，治愈
+  - word: healthful
+    en: Means 有益健康的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 有益健康的
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

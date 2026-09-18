@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coupled-with
+word: coupled with
+pos: phrase
+zh: 加之；连同；与……结合
+en: together with something else, often adding to its effect
+components:
+  - morpheme: couple
+    form: coupled
+    meaning_in_word: joined
+    zh: 一对；连接
+    role: root
+    is_core: true
+  - morpheme: with
+    form: with
+    meaning_in_word: with
+    zh: 与；相对
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于说明多个原因共同作用。

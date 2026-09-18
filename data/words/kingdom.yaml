@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: kingdom
+word: kingdom
+pos: noun
+zh: 王国
+en: Means 王国; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: king
+    form: king
+    meaning_in_word: 国王
+    zh: 国王
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:king.
+  - morpheme: dom
+    form: -dom
+    meaning_in_word: 状态；领域
+    zh: 状态；领域
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:dom.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

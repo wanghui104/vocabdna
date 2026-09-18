@@ -8,13 +8,13 @@ components:
   - morpheme: de
     form: de-
     meaning_in_word: down, away
-    zh: 向下、离开、取消
+    zh: 向下；去除
     role: prefix
     is_core: false
   - morpheme: duc
     form: duct
     meaning_in_word: lead
-    zh: 引导、带领
+    zh: 引导；传导
     role: root
     is_core: true
 word_family:
@@ -28,9 +28,7 @@ word_family_details:
     en: able to be subtracted, or the amount paid before insurance covers costs
     zh: 可扣除的；免赔额
 confusables:
-  - word: deduce
-    reason: deduct 是扣除；deduce 是推论。
-    zh_reason: deduct 是扣除；deduce 是推论。
+  []
 examples:
   - en: The fee will be deducted from your account.
     zh: 这笔费用将从你的账户中扣除。

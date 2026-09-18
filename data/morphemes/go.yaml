@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: go
+display: go
+type: root
+core_meaning: go
+zh: go
+origin: English
+source_form: English go
+source_meaning: go
+source_meaning_zh: go
+related_morphemes:
+  []
+senses:
+  - meaning: go
+    zh: go
+    examples:
+      - go broke
+      - ongoing
+      - outgoing
+      - undergo
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - go -> go broke
+  - go -> ongoing
+  - go -> outgoing
+  - go -> undergo
+high_value_words:
+  - go broke
+  - ongoing
+  - outgoing
+  - undergo
+confusable_words:
+  []

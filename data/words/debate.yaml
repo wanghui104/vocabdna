@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: debate
+word: debate
+pos: noun/verb
+zh: 争论；辩论
+en: a formal discussion or argument about a question
+components:
+  - morpheme: debate
+    form: debate
+    meaning_in_word: debate, argue / 辩论；争论
+    zh: 辩论；争论
+    role: root
+    is_core: true
+    note: 表层 debate/debat-；深层 Old French debatre = de- 加强 + batre 打击（Latin battuere）。辩论像言语交锋。debatable = debat- + -able，去掉词尾 e。
+    related_morphemes:
+      - de
+word_family:
+  - debatable
+word_family_details:
+  - word: debatable
+    en: not certain and open to argument or dispute
+    zh: 未决定的；有争议的
+confusables:
+  []
+examples:
+  []
+why_confusing: debate 可作名词或动词；本行源词性为名词。

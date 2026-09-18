@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cardinal
+word: cardinal
+pos: adjective/noun
+zh: 首要的；主要的；红衣凤头鸟
+en: most important, or a North American red bird
+components:
+  - morpheme: cardinal
+    form: cardinal
+    meaning_in_word: hinge, principal
+    zh: 主要的；枢要的
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cardinal number 是基数；cardinal bird 是红鸟。

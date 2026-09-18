@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: devastate
+word: devastate
+pos: verb
+zh: 毁坏；使极为震惊
+en: to destroy badly or make someone feel extreme shock and sadness
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: completely
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: vast
+    form: vast
+    meaning_in_word: lay waste
+    zh: 毁坏；荒废
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - devastation
+  - devastating
+word_family_details:
+  - word: devastation
+    en: severe destruction or emotional shock
+    zh: 毁坏；破坏；极度震惊
+  - word: devastating
+    en: causing great damage or emotional shock
+    zh: 破坏性的；毁灭性的；令人震惊的
+confusables:
+  []
+examples:
+  []
+why_confusing: devastate 可指物理毁坏，也可指情感打击。

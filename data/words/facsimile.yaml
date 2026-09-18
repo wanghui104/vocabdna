@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: facsimile
+word: facsimile
+pos: noun
+zh: 精确复制品；传真
+en: an exact copy, especially of a document; a fax
+components:
+  - morpheme: fac
+    form: fac
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+    note: 来自拉丁短语 fac simile：“做一个相似的”。fac 是 facere 的命令式，simile 为 similis 的中性形式。
+  - morpheme: simil
+    form: simile
+    meaning_in_word: similar / 相似
+    zh: 相似
+    role: root
+    is_core: true
+    note: fac simile 是 Latin facere 的命令式 fac 做 + simile 相似的事物；不是 fac- + 英语 smile。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: complacence
+word: complacence
+pos: noun
+zh: 自满；自以为是
+en: a feeling of calm self-satisfaction that may ignore danger or flaws
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: thoroughly
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: plac
+    form: plac
+    meaning_in_word: please
+    zh: 自满
+    role: root
+    is_core: true
+  - morpheme: ance
+    form: -ence
+    meaning_in_word: state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常见形式 complacency 也很常用。

@@ -38,9 +38,7 @@ word_family_details:
     en: frequent absence from school or work
     zh: 旷课；旷工
 confusables:
-  - word: presence
-    reason: absence 可指人不在，也可指某物缺乏。
-    zh_reason: absence 可指人不在，也可指某物缺乏。
+  []
 examples:
   - en: Her absence was noticed immediately.
     zh: 她的缺席立刻被注意到了。

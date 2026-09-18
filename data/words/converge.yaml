@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: converge
+word: converge
+pos: verb
+zh: 会聚；聚合；集中于一点
+en: to move toward and meet at a point or become similar
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: verge
+    form: verge
+    meaning_in_word: bend toward
+    zh: 趋向；会聚
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: opposite: diverge.

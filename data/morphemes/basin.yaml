@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: basin
+display: basin
+type: root
+core_meaning: basin, bowl-shaped area
+zh: 盆；盆地
+origin: French
+source_form: Old French bacin
+source_meaning: basin, bowl
+source_meaning_zh: 盆；碗
+related_morphemes:
+  []
+senses:
+  - meaning: basin, bowl-shaped area
+    zh: 盆；盆地
+    examples:
+      - basin
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - basin -> basin
+high_value_words:
+  - basin
+confusable_words:
+  []

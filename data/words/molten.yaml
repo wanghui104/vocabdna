@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: molten
+word: molten
+pos: adjective
+zh: 熔融的，熔化的
+en: Means 熔融的，熔化的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: molt
+    form: molt
+    meaning_in_word: 熔化
+    zh: 熔化
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:molt.
+  - morpheme: en
+    form: -en
+    meaning_in_word: 使成为；变得
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:en.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

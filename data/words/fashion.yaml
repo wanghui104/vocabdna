@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fashion
+word: fashion
+pos: noun/verb
+zh: 时尚；方式
+en: a popular style; a manner of doing something
+components:
+  - morpheme: fashion
+    form: fashion
+    meaning_in_word: making, form / 制作；形式
+    zh: 制作；形式
+    role: root
+    is_core: true
+    note: 深层 facere 做 + -tio/-tion 动作名词 → factio → façon → fashion；保留现代 fashion。与 faction 同源但不合并同页。
+    related_morphemes:
+      - fac
+      - ion
+word_family:
+  - fashionable
+word_family_details:
+  - word: fashionable
+    en: following current popular style or custom
+    zh: 时髦的；流行的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

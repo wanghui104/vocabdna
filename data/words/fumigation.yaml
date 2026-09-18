@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fumigation
+word: fumigation
+pos: noun
+zh: 熏蒸
+en: treatment with fumes or gas, especially to destroy pests
+components:
+  - morpheme: fum
+    form: fum
+    meaning_in_word: smoke / 烟
+    zh: 烟
+    role: root
+    is_core: true
+    note: fume = 烟；perfume 为 per- 贯穿 + fum- 烟；fumigate 的 fum- 烟 + ig-（agere 驱动的变体）+ -ate。
+  - morpheme: act
+    form: ig
+    meaning_in_word: do, drive, act / 做、驱动
+    zh: 做、驱动
+    role: root
+    is_core: true
+    note: ig- 为 agere 驱动、做在 fumigare 复合词中的历史变体；不是独立的英语 -ig 后缀。
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: -ation 将动作名词化；其中 a 保留历史动词词干元音，-tion 对应 Latin -tio/-tion- 行为名词层。
+word_family:
+  - fumigate
+word_family_details:
+  - word: fumigate
+    en: to treat a space or material with fumes or gas, especially to destroy pests
+    zh: 熏蒸；用烟气或气体除虫
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scholarly
+word: scholarly
+pos: adjective
+zh: 学者气质的，学术的
+en: Means 学者气质的，学术的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: scholar
+    form: scholar
+    meaning_in_word: scholar / 学者
+    zh: 学者
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in that manner / 以…方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - scholar
+  - scholarship
+word_family_details:
+  - word: scholar
+    en: Means 学者; reviewed from the TOEFL source gloss for learner display.
+    zh: 学者
+  - word: scholarship
+    en: Means 奖学金; reviewed from the TOEFL source gloss for learner display.
+    zh: 奖学金
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

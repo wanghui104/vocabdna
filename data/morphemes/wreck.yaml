@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: wreck
+display: wreck
+type: root
+core_meaning: wreck
+zh: 失事
+origin: teaching morphology
+source_form: wreck
+source_meaning: wreck
+source_meaning_zh: 失事
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: wreck
+    zh: 失事
+    examples:
+      - shipwreck
+      - wreck
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - wreck -> shipwreck
+  - wreck -> wreck
+high_value_words:
+  - shipwreck
+  - wreck
+confusable_words:
+  []

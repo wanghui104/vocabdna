@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: magical
+word: magical
+pos: adjective
+zh: 魔术的，不可思议的
+en: Means 魔术的，不可思议的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: magic
+    form: magic
+    meaning_in_word: 魔法
+    zh: 魔法
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:magic.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+word_family:
+  - magic
+  - magician
+word_family_details:
+  - word: magic
+    en: Means 魔法，魔力；魔术; reviewed from the TOEFL source gloss for learner display.
+    zh: 魔法，魔力；魔术
+  - word: magician
+    en: Means 魔术师，变戏法的人; reviewed from the TOEFL source gloss for learner display.
+    zh: 魔术师，变戏法的人
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

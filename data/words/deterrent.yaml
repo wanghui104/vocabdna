@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deterrent
+word: deterrent
+pos: noun/adjective
+zh: 制止物；威慑力量；威慑的
+en: something that discourages or prevents action
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: terr
+    form: terr
+    meaning_in_word: frighten
+    zh: 恐惧；吓阻
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: causing
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - deter
+word_family_details:
+  - word: deter
+    en: to prevent someone from doing something by fear or discouragement
+    zh: 阻碍；制止；威慑
+confusables:
+  []
+examples:
+  []
+why_confusing: deterrent 可作名词，也可作形容词。

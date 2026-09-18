@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discreet
+word: discreet
+pos: adjective
+zh: 小心的；谨慎的；得体的
+en: careful in speech or behavior to avoid trouble or embarrassment
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: cern
+    form: creet
+    meaning_in_word: distinguish, judge
+    zh: 分辨；区分
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: discrete
+    reason: discreet 是谨慎；discrete 是离散。
+    zh_reason: discreet 是谨慎；discrete 是离散。
+examples:
+  []
+why_confusing: discreet 是谨慎；discrete 是离散。

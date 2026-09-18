@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ium
+display: -ium
+type: suffix
+core_meaning: state or substance
+zh: 状态；物质
+origin: Latin
+source_form: Latin -ium
+source_meaning: state or substance
+source_meaning_zh: 状态；物质
+source_note: equilibrium 中为名词结尾。
+related_morphemes:
+  []
+senses:
+  - meaning: state or substance
+    zh: 状态；物质
+    examples:
+      - delirium
+      - equilibrium
+      - magnesium
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ium -> delirium
+  - -ium -> equilibrium
+  - -ium -> magnesium
+high_value_words:
+  - delirium
+  - equilibrium
+  - magnesium
+confusable_words:
+  []

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rush
+display: rush
+type: root
+core_meaning: rush, rapid movement
+zh: 冲；热潮
+origin: Old English
+source_form: Old English rysan / rush
+source_meaning: rush, rapid movement
+source_meaning_zh: 冲；热潮
+related_morphemes:
+  []
+senses:
+  - meaning: rush, rapid movement
+    zh: 冲；热潮
+    examples:
+      - gold rush
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - rush -> gold rush
+high_value_words:
+  - gold rush
+confusable_words:
+  []

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cue
+word: cue
+pos: noun
+zh: 提示；暗示；信号
+en: a signal, hint, or prompt for action
+components:
+  - morpheme: cue
+    form: cue
+    meaning_in_word: prompt
+    zh: 提示；暗示
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cue 作名词是提示；queue 是队列，发音相同。

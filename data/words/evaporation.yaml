@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: evaporation
+word: evaporation
+pos: noun
+zh: 蒸发（作用）
+en: Means 蒸发（作用）; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out / 出
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: vapor
+    form: vapor
+    meaning_in_word: vapor / 水汽
+    zh: 蒸气
+    role: root
+    is_core: true
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: act; process; result / 行为；过程；结果
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+word_family:
+  - evaporate
+  - vapor
+  - vaporization
+  - vaporize
+word_family_details:
+  - word: evaporate
+    en: Means （使）蒸发，消失; reviewed from the TOEFL source gloss for learner display.
+    zh: （使）蒸发，消失
+  - word: vapor
+    en: Means 水汽，水蒸气; reviewed from the TOEFL source gloss for learner display.
+    zh: 水汽，水蒸气
+  - word: vaporization
+    en: Means 蒸发; reviewed from the TOEFL source gloss for learner display.
+    zh: 蒸发
+  - word: vaporize
+    en: Means （使）蒸发; reviewed from the TOEFL source gloss for learner display.
+    zh: （使）蒸发
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

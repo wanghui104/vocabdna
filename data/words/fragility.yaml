@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fragility
+word: fragility
+pos: noun
+zh: 易碎性；脆弱性
+en: the quality of being easily broken or harmed
+components:
+  - morpheme: frag-fract
+    form: frag
+    meaning_in_word: break, fragile / 破裂；易碎
+    zh: 破裂；易碎
+    role: root
+    is_core: true
+  - morpheme: ile
+    form: -il
+    meaning_in_word: capable of being / 能够……的
+    zh: 能够……的
+    role: suffix
+    is_core: false
+    note: ductile 对应 Latin ductilis，可被拉伸；后缀不是 tile 砖。
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: state or quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: -ty/-ity 是名词构词结尾。
+word_family:
+  - fragile
+word_family_details:
+  - word: fragile
+    en: easily broken or damaged
+    zh: 易碎的；脆弱的
+confusables:
+  []
+examples:
+  - en: The experiment revealed the fragility of the material.
+    zh: 实验揭示了这种材料的脆弱性。
+why_confusing: 

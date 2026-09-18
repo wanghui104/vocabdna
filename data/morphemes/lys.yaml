@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lys
+display: lys
+type: root
+core_meaning: loosen, catalyze
+zh: 释放；催化
+origin: Greek
+source_form: Greek lyein
+source_meaning: loosen, release
+source_meaning_zh: 松开；释放
+related_morphemes:
+  []
+senses:
+  - meaning: loosen, catalyze
+    zh: 释放；催化
+    examples:
+      - analysis
+      - analyze
+      - catalyst
+      - catalyze
+      - psychoanalysis
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - lysis -> analysis
+  - lyze -> analyze
+  - lys -> catalyst
+  - lyze -> catalyze
+  - lysis -> psychoanalysis
+high_value_words:
+  - analysis
+  - analyze
+  - catalyst
+  - catalyze
+  - psychoanalysis
+confusable_words:
+  []

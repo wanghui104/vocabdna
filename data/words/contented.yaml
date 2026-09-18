@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contented
+word: contented
+pos: adjective
+zh: 满足的；心安的
+en: happy and satisfied with what one has
+components:
+  - morpheme: tain
+    form: content
+    meaning_in_word: satisfied
+    zh: 持有；包含
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having quality
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - content
+word_family_details:
+  - word: content
+    en: what is contained in something
+    zh: 内容；容量；所含之物
+confusables:
+  []
+examples:
+  []
+why_confusing: contented smile/life 常见。

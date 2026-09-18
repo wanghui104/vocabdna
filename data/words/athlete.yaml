@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: athlete
+word: athlete
+pos: noun
+zh: 运动员
+en: a person trained for sports or physical contests
+components:
+  - morpheme: athl
+    form: athl
+    meaning_in_word: contest
+    zh: 竞赛；奖项比赛
+    role: root
+    is_core: true
+  - morpheme: ist
+    form: -ete
+    meaning_in_word: person
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - athletic
+word_family_details:
+  - word: athletic
+    en: related to athletes, sports, or physical strength
+    zh: 运动的；健壮的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

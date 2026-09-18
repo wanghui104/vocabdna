@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chore
+word: chore
+pos: noun
+zh: 家务杂事
+en: a routine job, especially around the house
+components:
+  - morpheme: chore
+    form: chore
+    meaning_in_word: turn of work
+    zh: 家务杂事
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 不要和 choreography 的 choreo- 混淆。

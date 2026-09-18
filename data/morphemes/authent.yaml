@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: authent
+display: authent
+type: root
+core_meaning: genuine, original, authoritative
+zh: 真实；原始；可信
+origin: Greek
+source_form: Greek authentikos / authentes
+source_meaning: original, genuine; one acting on one's own authority
+source_meaning_zh: 原始真实；自行主事者
+related_morphemes:
+  - auto
+senses:
+  - meaning: genuine, original, authoritative
+    zh: 真实；原始；可信
+    examples:
+      - authentic
+      - authenticate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - authent -> authentic
+  - authent -> authenticate
+high_value_words:
+  - authentic
+  - authenticate
+confusable_words:
+  []

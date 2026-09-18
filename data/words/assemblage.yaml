@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assemblage
+word: assemblage
+pos: noun
+zh: 集合；组合
+en: a collection or group of things gathered together
+components:
+  - morpheme: ad
+    form: as-
+    meaning_in_word: to, together
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: simil
+    form: sembl
+    meaning_in_word: bring together
+    zh: 相似
+    role: root
+    is_core: true
+  - morpheme: ia
+    form: -age
+    meaning_in_word: result or collection
+    zh: 状态；状况
+    role: suffix
+    is_core: false
+word_family:
+  - assemble
+  - assembly
+word_family_details:
+  - word: assemble
+    en: to bring people or parts together in one place or structure
+    zh: 集合；装配；聚集
+  - word: assembly
+    en: a gathering of people or the act of putting parts together
+    zh: 集会；与会者；装配
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

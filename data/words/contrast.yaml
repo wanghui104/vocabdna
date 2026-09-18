@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contrast
+word: contrast
+pos: noun/verb
+zh: 差异；对比；对照
+en: a difference shown by comparing things, or to compare in order to show differences
+components:
+  - morpheme: contra
+    form: contra-
+    meaning_in_word: against
+    zh: 反对、相反
+    role: prefix
+    is_core: false
+  - morpheme: stand
+    form: st
+    meaning_in_word: stand
+    zh: 站立；状态
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: in contrast to/with 常见。

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: choke
+word: choke
+pos: verb
+zh: 使窒息
+en: to stop or partly stop someone from breathing
+components:
+  - morpheme: choke
+    form: choke
+    meaning_in_word: suffocate
+    zh: 使窒息
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: choke on food 指被食物噎住。

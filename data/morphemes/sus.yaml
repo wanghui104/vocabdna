@@ -1,0 +1,58 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sus
+display: sus-
+type: prefix
+core_meaning: up from below; under
+zh: 从下支撑；在下
+origin: Latin
+source_form: sus
+source_meaning: up from below; under
+source_meaning_zh: 从下支撑；在下
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: up from below; under
+    zh: 从下支撑；在下
+    examples:
+      - susceptible
+      - susceptible to
+      - suspect
+      - suspend
+      - suspender
+      - suspense
+      - suspicion
+      - suspicious
+      - sustain
+      - sustained
+      - sustenance
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sus- -> susceptible
+  - sus- -> susceptible to
+  - sus- -> suspect
+  - sus- -> suspend
+  - sus- -> suspender
+  - sus- -> suspense
+  - sus- -> suspicion
+  - sus- -> suspicious
+  - sus- -> sustain
+  - sus- -> sustained
+  - sus- -> sustenance
+high_value_words:
+  - susceptible
+  - susceptible to
+  - suspect
+  - suspend
+  - suspender
+  - suspense
+  - suspicion
+  - suspicious
+  - sustain
+  - sustained
+  - sustenance
+confusable_words:
+  []

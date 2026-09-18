@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: donor
+word: donor
+pos: noun
+zh: 捐赠者
+en: a person or organization that gives something without payment
+components:
+  - morpheme: don
+    form: don
+    meaning_in_word: gift, give / 礼物；赠与
+    zh: 礼物；赠与
+    role: root
+    is_core: true
+    note: don- 礼物 → donare 赠与；donation 先进入英语，donate 后由其逆构。现代学习可比较 don + -ate/-ation/-or。
+  - morpheme: or
+    form: -or
+    meaning_in_word: person or thing that does / 做……的人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - donate
+  - donation
+word_family_details:
+  - word: donate
+    en: to give money, goods, or something useful without payment
+    zh: 捐赠；捐献
+  - word: donation
+    en: a gift given without payment, especially to support a cause; the act of giving it
+    zh: 捐赠物；捐款；捐赠行为
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: counsel
+word: counsel
+pos: noun/verb
+zh: 劝告；建议；法律顾问；提供建议
+en: advice, a legal adviser, or to advise someone
+components:
+  - morpheme: counsel
+    form: counsel
+    meaning_in_word: advice
+    zh: 劝告；咨询
+    role: root
+    is_core: true
+word_family:
+  - counseling
+  - counselor
+word_family_details:
+  - word: counseling
+    en: professional help and advice about personal, educational, or psychological problems
+    zh: 咨询服务；辅导
+  - word: counselor
+    en: a person trained to give advice, guidance, or legal help
+    zh: 顾问；法律顾问；辅导员
+confusables:
+  []
+examples:
+  []
+why_confusing: legal counsel 可指律师或法律意见。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: essential
+word: essential
+pos: adjective/noun
+zh: 必不可少的；本质的
+en: necessary or fundamental
+components:
+  - morpheme: essent
+    form: essent
+    meaning_in_word: being, existence / 存在；本质
+    zh: 存在；本质
+    role: root
+    is_core: true
+    note: essent- 为 esse 存在的拟造分词词干（ess- + -ent-）；essential 再加 -ial。不是前缀 es-。
+    related_morphemes:
+      - ent
+  - morpheme: al
+    form: -ial
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。
+word_family:
+  - essence
+word_family_details:
+  - word: essence
+    en: the fundamental nature of something; a concentrated extract
+    zh: 本质；精华
+confusables:
+  []
+examples:
+  []
+why_confusing: 

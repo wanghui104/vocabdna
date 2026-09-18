@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: emancipate
+word: emancipate
+pos: verb
+zh: 解放；使摆脱控制
+en: to free from another person or institution's control
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: manu
+    form: man
+    meaning_in_word: hand / 手
+    zh: 手
+    role: root
+    is_core: true
+    note: e- 解除 + mancip- 所有权 + -ate；mancip- 在此进一步拆为 man- 手 + cip- 取得（capere）。
+  - morpheme: cap
+    form: cip
+    meaning_in_word: take, hold, contain / 拿；抓；容纳
+    zh: 拿；抓；容纳
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - emancipation
+word_family_details:
+  - word: emancipation
+    en: the act or process of freeing from control or restriction
+    zh: 解放；解除束缚
+confusables:
+  []
+examples:
+  []
+why_confusing: 

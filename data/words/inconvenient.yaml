@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inconvenient
+word: inconvenient
+pos: adjective
+zh: 不便的；有困难的
+en: causing trouble, difficulty, or delay
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: not
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+  - morpheme: ven-vent
+    form: convenient
+    meaning_in_word: suitable
+    zh: 来到；出现
+    role: root
+    is_core: true
+word_family:
+  - convenient
+  - convenience
+word_family_details:
+  - word: convenient
+    en: easy, suitable, or useful for a particular purpose
+    zh: 方便的；近便的；容易到达的
+  - word: convenience
+    en: the quality of being easy or useful, or something that makes life easier
+    zh: 便利；方便；便利设施
+confusables:
+  []
+examples:
+  []
+why_confusing: It is inconvenient to/for...

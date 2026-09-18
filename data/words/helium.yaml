@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: helium
+word: helium
+pos: noun
+zh: 氦
+en: Means 氦; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: heli
+    form: heli
+    meaning_in_word: 太阳
+    zh: 太阳
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:heli.
+  - morpheme: um
+    form: -um
+    meaning_in_word: 元素名后缀
+    zh: 单数词尾
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source shown on root:um.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

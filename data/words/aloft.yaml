@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aloft
+word: aloft
+pos: adverb
+zh: 在高处；在空中
+en: high up in the air
+components:
+  - morpheme: a
+    form: a-
+    meaning_in_word: on, in
+    zh: 在；属于；完成性
+    role: prefix
+    is_core: false
+  - morpheme: loft
+    form: loft
+    meaning_in_word: air, high place
+    zh: 空中；高处
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: aloof
+    reason: aloft 是副词，常见于文学或正式描写。
+    zh_reason: aloft 是副词，常见于文学或正式描写。
+examples:
+  []
+why_confusing: aloft 是副词，常见于文学或正式描写。

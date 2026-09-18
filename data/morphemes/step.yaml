@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: step
+display: step
+type: root
+core_meaning: step
+zh: 步
+origin: Old English
+source_form: step
+source_meaning: step
+source_meaning_zh: 步
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: step
+    zh: 步
+    examples:
+      - sidestep
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - step -> sidestep
+high_value_words:
+  - sidestep
+confusable_words:
+  []

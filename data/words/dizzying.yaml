@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dizzying
+word: dizzying
+pos: adjective
+zh: 令人眩晕的；令人目不暇接的
+en: causing dizziness or an overwhelming sense of speed, height, or complexity
+components:
+  - morpheme: dizzy
+    form: dizzy
+    meaning_in_word: foolish, confused; dizzy / 愚笨；迷乱；眩晕
+    zh: 愚笨；迷乱；眩晕
+    role: root
+    is_core: true
+    note: 现代无独立可用的 dizz 基词；保留 dizzy，历史 -ig 对应英语 -y，但更深底层不确定。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - dizzy
+  - dizziness
+word_family_details:
+  - word: dizzy
+    en: feeling as if you or your surroundings are spinning and you may lose balance
+    zh: 眩晕的；头昏眼花的
+  - word: dizziness
+    en: the feeling of spinning, light-headedness, or loss of balance
+    zh: 眩晕；头昏
+confusables:
+  []
+examples:
+  []
+why_confusing: 现代无独立可用的 dizz 基词；保留 dizzy，历史 -ig 对应英语 -y，但更深底层不确定。

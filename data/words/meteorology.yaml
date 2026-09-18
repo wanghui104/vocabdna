@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: meteorology
+word: meteorology
+pos: noun
+zh: 气象学
+en: Means 气象学; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: meteor
+    form: meteor
+    meaning_in_word: 空中现象
+    zh: 空中现象
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:meteor.
+  - morpheme: log
+    form: log
+    meaning_in_word: 原木；记录
+    zh: 原木；记录
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:log.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:y.
+word_family:
+  - meteor
+  - meteorite
+  - meteorologist
+word_family_details:
+  - word: meteor
+    en: Means 流星; reviewed from the TOEFL source gloss for learner display.
+    zh: 流星
+  - word: meteorite
+    en: Means 陨星，陨石; reviewed from the TOEFL source gloss for learner display.
+    zh: 陨星，陨石
+  - word: meteorologist
+    en: Means 气象学者; reviewed from the TOEFL source gloss for learner display.
+    zh: 气象学者
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

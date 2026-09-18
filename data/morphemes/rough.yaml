@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rough
+display: rough
+type: root
+core_meaning: rough
+zh: 粗糙
+origin: teaching morphology
+source_form: rough
+source_meaning: rough
+source_meaning_zh: 粗糙
+related_morphemes:
+  []
+senses:
+  - meaning: rough
+    zh: 粗糙
+    examples:
+      - rough
+      - roughly
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - rough -> rough
+  - rough -> roughly
+high_value_words:
+  - rough
+  - roughly
+confusable_words:
+  []

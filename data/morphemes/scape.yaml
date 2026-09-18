@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scape
+display: scape
+type: root
+core_meaning: scene, view
+zh: 景观
+origin: English
+source_form: English -scape
+source_meaning: scene, view
+source_meaning_zh: 景观
+related_morphemes:
+  []
+senses:
+  - meaning: scene, view
+    zh: 景观
+    examples:
+      - landscape
+      - scapegoat
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - scape -> landscape
+  - scape -> scapegoat
+high_value_words:
+  - landscape
+  - scapegoat
+confusable_words:
+  []

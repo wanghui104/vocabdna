@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: circumscribe
+word: circumscribe
+pos: verb
+zh: 划界限；限制
+en: to limit something, originally by drawing a line around it
+components:
+  - morpheme: circ
+    form: circum-
+    meaning_in_word: around
+    zh: 圆；周围
+    role: prefix
+    is_core: false
+  - morpheme: scribe
+    form: scribe
+    meaning_in_word: write, draw
+    zh: 书写；划线
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于权力、行动、自由被限制。

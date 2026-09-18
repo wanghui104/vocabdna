@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: carat
+display: carat
+type: root
+core_meaning: carat
+zh: 克拉
+origin: Mixed
+source_form: Italian carato, Arabic qirat, Greek keration
+source_meaning: carob seed, small weight
+source_meaning_zh: 角豆种子；小重量
+related_morphemes:
+  []
+senses:
+  - meaning: carat
+    zh: 克拉
+    examples:
+      - carat
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - carat -> carat
+high_value_words:
+  - carat
+confusable_words:
+  []

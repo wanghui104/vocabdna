@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aria
+word: aria
+pos: noun
+zh: 独唱曲；咏叹调
+en: a long solo song in an opera or oratorio
+components:
+  - morpheme: aria
+    form: aria
+    meaning_in_word: air, tune
+    zh: 曲调；独唱曲
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

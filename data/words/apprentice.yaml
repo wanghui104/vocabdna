@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: apprentice
+word: apprentice
+pos: noun/verb
+zh: 学徒；当学徒
+en: a person learning a trade from a skilled employer, or to train as such
+components:
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: prehend
+    form: prent
+    meaning_in_word: grasp, learn
+    zh: 抓住；取得
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

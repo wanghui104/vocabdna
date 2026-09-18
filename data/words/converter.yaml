@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: converter
+word: converter
+pos: noun
+zh: 转换器；转炉
+en: a device or vessel that changes one form or material into another
+components:
+  - morpheme: vert
+    form: convert
+    meaning_in_word: change
+    zh: 转、转向
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: thing that does
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - convert
+  - conversion
+word_family_details:
+  - word: convert
+    en: to change something into another form
+    zh: 转换；改变信仰者
+  - word: conversion
+    en: Means 变换，转化; reviewed from the TOEFL source gloss for learner display.
+    zh: 变换，转化
+confusables:
+  []
+examples:
+  []
+why_confusing: steel converter 是炼钢转炉；power converter 是电源转换器。

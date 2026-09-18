@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eyewitness
+word: eyewitness
+pos: noun
+zh: 目击者, 见证人
+en: Means 目击者, 见证人; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: eye
+    form: eye
+    meaning_in_word: eye / 眼
+    zh: 眼睛；视觉
+    role: root
+    is_core: true
+  - morpheme: witness
+    form: witness
+    meaning_in_word: witness / 证人；目击
+    zh: 见证；知识
+    role: root
+    is_core: true
+    note: Conservative bottom root inside this learner-visible analysis; deeper source is uncertain or not productive for TOEFL study.
+word_family:
+  - witness
+word_family_details:
+  - word: witness
+    en: Means 目击；为…作证；证人; reviewed from the TOEFL source gloss for learner display.
+    zh: 目击；为…作证；证人
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

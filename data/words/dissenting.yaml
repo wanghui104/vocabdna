@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dissenting
+word: dissenting
+pos: adjective
+zh: 不同意的；持异议的
+en: expressing disagreement with a majority or official view
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: differently
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: sense
+    form: sent
+    meaning_in_word: feel, think
+    zh: 感觉；常识
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: having quality
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - dissent
+  - dissenter
+word_family_details:
+  - word: dissent
+    en: to disagree, especially formally; an expression of disagreement
+    zh: 不同意；异议；反对
+  - word: dissenter
+    en: a person who dissents or refuses to accept an official view
+    zh: 不同意者；反对者
+confusables:
+  []
+examples:
+  []
+why_confusing: dissenting opinion 是法律和学术语境常见搭配。

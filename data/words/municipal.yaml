@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: municipal
+word: municipal
+pos: adjective
+zh: 市的，市政的
+en: Means 市的，市政的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: munic
+    form: munic
+    meaning_in_word: 市镇
+    zh: 市镇
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:munic.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distinct
+display: distinct
+type: root
+core_meaning: draft meaning for distinct
+zh: 明确的，确实的；不同的
+origin: Unknown
+source_form: TOEFL draft opaque stem: distinct
+source_meaning: draft learner stem for distinct
+source_meaning_zh: 明确的，确实的；不同的
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for distinct
+    zh: 明确的，确实的；不同的
+    examples:
+      - social distinction
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - distinct -> social distinction
+high_value_words:
+  - social distinction
+confusable_words:
+  []

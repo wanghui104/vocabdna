@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tutor
+word: tutor
+pos: verb
+zh: 辅导；当…的家庭教师；家庭教师
+en: Means 辅导；当…的家庭教师；家庭教师; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: tutor
+    form: tutor
+    meaning_in_word: guard; teach / 辅导
+    zh: 辅导
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain, opaque, or not useful for TOEFL study.
+word_family:
+  - tutorial
+word_family_details:
+  - word: tutorial
+    en: Means 个别指导; reviewed from the TOEFL source gloss for learner display.
+    zh: 个别指导
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

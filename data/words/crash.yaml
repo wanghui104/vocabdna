@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crash
+word: crash
+pos: noun/verb
+zh: 碰撞；坠毁；崩溃
+en: a violent collision, fall, or sudden collapse
+components:
+  - morpheme: crash
+    form: crash
+    meaning_in_word: violent impact
+    zh: 碰撞；崩溃
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可用于交通事故、电脑崩溃、市场暴跌。

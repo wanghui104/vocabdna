@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: juvenile
+word: juvenile
+pos: noun/adjective
+zh: 青少年（的）
+en: Means 青少年（的）; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: juven
+    form: juven
+    meaning_in_word: 年轻
+    zh: 年轻
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:juven.
+  - morpheme: ile
+    form: -ile
+    meaning_in_word: 能够……的
+    zh: 能够……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ile.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: insulin
+word: insulin
+pos: noun
+zh: 胰岛素
+en: Means 胰岛素; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: insulin
+    form: insulin
+    meaning_in_word: 胰岛
+    zh: 胰岛
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:insulin.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: derive-from
+word: derive from
+pos: phrase
+zh: 来源于
+en: to come from or originate in a source
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: from
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: riv
+    form: rive
+    meaning_in_word: stream/source
+    zh: 源出；取得
+    role: root
+    is_core: true
+  - morpheme: from
+    form: from
+    meaning_in_word: source
+    zh: 从；来源
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常用于词源、成分来源或利益来源。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gap
+word: gap
+pos: noun
+zh: 缺口；间隙
+en: an opening or empty space
+components:
+  - morpheme: gap
+    form: gap
+    meaning_in_word: opening, gape / 张口；缺口
+    zh: 张口；缺口
+    role: root
+    is_core: true
+    note: 来自北欧语开口词；不硬拆。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

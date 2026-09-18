@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cuticle
+word: cuticle
+pos: noun
+zh: 表皮；角质层
+en: a thin outer layer of skin, especially around a fingernail
+components:
+  - morpheme: cutis
+    form: cuti
+    meaning_in_word: skin, outer layer / 皮肤；表皮
+    zh: 皮肤；表皮
+    role: root
+    is_core: true
+    note: cuti-（Latin cutis 皮肤的构词形）+ -cle（Latin -cula 小称）：cuticula 小皮；c 属于后缀，不应写 cutic- + -le。
+  - morpheme: cule
+    form: -cle
+    meaning_in_word: small / 小
+    zh: 小
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 不是 cut 的派生词；来自 Latin cutis, skin。

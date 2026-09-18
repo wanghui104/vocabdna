@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stant
+display: stant
+type: root
+core_meaning: stand; press upon
+zh: 站立；临近
+origin: Latin
+source_form: Latin stare / instant-
+source_meaning: stand; press upon
+source_meaning_zh: 站立；临近
+related_morphemes:
+  []
+senses:
+  - meaning: stand; press upon
+    zh: 站立；临近
+    examples:
+      - instantaneous
+      - unsubstantiated
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - stant -> instantaneous
+  - stant -> unsubstantiated
+high_value_words:
+  - instantaneous
+  - unsubstantiated
+confusable_words:
+  []

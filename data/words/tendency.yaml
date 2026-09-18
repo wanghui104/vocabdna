@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tendency
+word: tendency
+pos: noun
+zh: 趋势，倾向
+en: Means 趋势，倾向; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: tend
+    form: tend
+    meaning_in_word: stretch; incline / 伸展；倾向
+    zh: 伸展；指向
+    role: root
+    is_core: true
+  - morpheme: ency
+    form: -ency
+    meaning_in_word: state; tendency / 状态；倾向
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - contender
+word_family_details:
+  - word: contender
+    en: Means 竞争者，斗争者; reviewed from the TOEFL source gloss for learner display.
+    zh: 竞争者，斗争者
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

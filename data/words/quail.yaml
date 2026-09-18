@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: quail
+word: quail
+pos: noun
+zh: 鹌鹑
+en: Means 鹌鹑; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: quail
+    form: quail
+    meaning_in_word: quail; shrink / 鹌鹑；畏缩
+    zh: 鹌鹑；畏缩
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

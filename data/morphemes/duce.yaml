@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: duce
+display: duce
+type: root
+core_meaning: lead
+zh: 引导
+origin: teaching morphology
+source_form: duce
+source_meaning: lead
+source_meaning_zh: 引导
+related_morphemes:
+  []
+senses:
+  - meaning: lead
+    zh: 引导
+    examples:
+      - seduce
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - duce -> seduce
+high_value_words:
+  - seduce
+confusable_words:
+  []

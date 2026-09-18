@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: celebrate
+word: celebrate
+pos: verb
+zh: 庆祝；祝贺；表扬；赞美
+en: to mark an event with joy, or praise publicly
+components:
+  - morpheme: celebr
+    form: celebr
+    meaning_in_word: honor publicly
+    zh: 庆祝；著名
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: act
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - celebrated
+  - celebrity
+word_family_details:
+  - word: celebrated
+    en: famous and admired
+    zh: 有名的；大名鼎鼎的
+  - word: celebrity
+    en: a famous person, or the state of being famous
+    zh: 名人
+confusables:
+  []
+examples:
+  []
+why_confusing: celebrate 可庆祝事件，也可赞颂人物。

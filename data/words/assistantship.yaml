@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assistantship
+word: assistantship
+pos: noun
+zh: 助教职位；研究生助教奖学金
+en: a position or financial award for serving as an assistant, especially in graduate study
+components:
+  - morpheme: sist
+    form: assistant
+    meaning_in_word: assistant role
+    zh: 站立；放置
+    role: root
+    is_core: true
+    related_morphemes:
+      - sta
+  - morpheme: ship
+    form: -ship
+    meaning_in_word: office or status
+    zh: 状态；资格
+    role: suffix
+    is_core: false
+word_family:
+  - assist
+  - assistant
+  - assistance
+word_family_details:
+  - word: assist
+    en: to help someone do something
+    zh: 援助；帮助
+  - word: assistant
+    en: a person who helps, or a role that helps another position
+    zh: 助手；助教；辅助的
+  - word: assistance
+    en: help or support
+    zh: 协助；援助
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

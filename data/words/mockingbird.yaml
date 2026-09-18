@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mockingbird
+word: mockingbird
+pos: noun
+zh: （动物）仿声鸟
+en: Means （动物）仿声鸟; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mock
+    form: mock
+    meaning_in_word: 嘲笑
+    zh: 嘲笑
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mock.
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ing.
+  - morpheme: bird
+    form: bird
+    meaning_in_word: 鸟
+    zh: 鸟
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:bird.
+word_family:
+  - mock
+word_family_details:
+  - word: mock
+    en: Means （模仿性的）嘲笑; reviewed from the TOEFL source gloss for learner display.
+    zh: （模仿性的）嘲笑
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

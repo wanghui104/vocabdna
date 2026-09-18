@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: recur
+word: recur
+pos: verb
+zh: 重现，再来；复发
+en: Means 重现，再来；复发; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: cur
+    form: cur
+    meaning_in_word: run; occur / 跑；发生
+    zh: 跑；发生
+    role: root
+    is_core: true
+word_family:
+  - recurring
+word_family_details:
+  - word: recurring
+    en: Means 往复的，再次发生的; reviewed from the TOEFL source gloss for learner display.
+    zh: 往复的，再次发生的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

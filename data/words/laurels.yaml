@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: laurels
+word: laurels
+pos: noun
+zh: 桂冠，荣誉
+en: Means 桂冠，荣誉; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: laurel
+    form: laurel
+    meaning_in_word: 桂冠；月桂
+    zh: 桂冠；月桂
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:laurel.
+  - morpheme: s
+    form: -s
+    meaning_in_word: 复数；机构化形式
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:s.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

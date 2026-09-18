@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: surface
+word: surface
+pos: adjective/noun
+zh: 表面（的）；浮现出来，暴露
+en: Means 表面（的）；浮现出来，暴露; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sur
+    form: sur-
+    meaning_in_word: over; above / 超过；在上
+    zh: 在上；超过
+    role: prefix
+    is_core: false
+  - morpheme: face
+    form: face
+    meaning_in_word: face; surface / 面；表面
+    zh: 脸；外表
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

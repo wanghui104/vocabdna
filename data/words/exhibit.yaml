@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exhibit
+word: exhibit
+pos: verb/noun
+zh: 展示；表现出
+en: to display or show a quality
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: hab-hold
+    form: hibit
+    meaning_in_word: hold, have / 持有
+    zh: 持有
+    role: root
+    is_core: true
+    note: exhibit 的 hibit- 来自 exhibere（ex- + habere）的分词词干；不是直接来自 Old English have。
+word_family:
+  - exhibition
+word_family_details:
+  - word: exhibition
+    en: a public display or a showing of a quality or skill
+    zh: 展览；展示
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: oxygen
+word: oxygen
+pos: noun
+zh: 氧气
+en: Means 氧气; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: oxy
+    form: oxy
+    meaning_in_word: acid/sharp; oxygen combining form / 酸/尖；oxygen 构词成分
+    zh: 酸/尖；oxygen 构词成分
+    role: root
+    is_core: true
+  - morpheme: gen
+    form: gen
+    meaning_in_word: produce; generate / 产生
+    zh: 出生；种类
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

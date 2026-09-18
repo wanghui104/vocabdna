@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: feud
+word: feud
+pos: noun/verb
+zh: 世仇；长期争斗
+en: a long bitter quarrel between families or groups; to maintain such a quarrel
+components:
+  - morpheme: feud
+    form: feud
+    meaning_in_word: hostility, feud / 敌对；世仇
+    zh: 敌对；世仇
+    role: root
+    is_core: true
+    note: 与日耳曼 fah 敌对有关；不是 feudal 的土地封授词干。
+word_family:
+  - feudal
+word_family_details:
+  - word: feudal
+    en: relating to a system of landholding in return for service
+    zh: 封建的；封地制度的
+confusables:
+  - word: feudal
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

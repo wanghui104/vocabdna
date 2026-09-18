@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fabric
+word: fabric
+pos: noun
+zh: 织物；结构
+en: cloth; the structure or underlying organization of something
+components:
+  - morpheme: fabr
+    form: fabr
+    meaning_in_word: craftsman / 工匠
+    zh: 工匠
+    role: root
+    is_core: true
+    note: fabric 为 fabr- 工匠 + -ic（Latin fabrica 的形容词构词层名词化）；不是 fab- 说话。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

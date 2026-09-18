@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: celestial
+word: celestial
+pos: adjective
+zh: 天体的；天上的
+en: related to the sky, heaven, or outer space
+components:
+  - morpheme: celest
+    form: celest
+    meaning_in_word: sky, heaven
+    zh: 天体的；天上的
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -ial
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: celestial body 指天体。

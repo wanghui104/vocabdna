@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: catch-on
+word: catch on
+pos: phrase
+zh: 理解；领会；流行起来
+en: to understand, or to become popular
+components:
+  - morpheme: catch
+    form: catch
+    meaning_in_word: grasp
+    zh: 抓住；感染；理解
+    role: root
+    is_core: true
+  - morpheme: on
+    form: on
+    meaning_in_word: onto, continuing
+    zh: 在上；继续
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: She caught on quickly 是她很快理解。

@@ -1,0 +1,1641 @@
+{
+  "checks": [
+    {
+      "path": "app/page.tsx",
+      "allWordPages": 2685,
+      "pagesWithFamilyTabs": 1501,
+      "tabLabelsVerified": 5345,
+      "canonicalFocusedFamilies": 286,
+      "fordHomographIsolation": true,
+      "baseLabelAndNonprefixFallback": true
+    },
+    {
+      "path": "scripts/build-static-page.mjs",
+      "allWordPages": 2685,
+      "pagesWithFamilyTabs": 1501,
+      "tabLabelsVerified": 5345,
+      "canonicalFocusedFamilies": 286,
+      "fordHomographIsolation": true,
+      "baseLabelAndNonprefixFallback": true
+    }
+  ],
+  "originalInvalidLabels": [
+    {
+      "word": "deal",
+      "familyStem": "deal-",
+      "label": "-al",
+      "rebuilt": "dealal",
+      "focused": false
+    },
+    {
+      "word": "a good deal",
+      "familyStem": "deal-",
+      "label": "-al",
+      "rebuilt": "dealal",
+      "focused": false
+    },
+    {
+      "word": "a great deal",
+      "familyStem": "deal-",
+      "label": "-al",
+      "rebuilt": "dealal",
+      "focused": false
+    },
+    {
+      "word": "inability",
+      "familyStem": "abil-",
+      "label": "-y",
+      "rebuilt": "abily",
+      "focused": false
+    },
+    {
+      "word": "blazing",
+      "familyStem": "blaze-",
+      "label": "-ing",
+      "rebuilt": "blazeing",
+      "focused": false
+    },
+    {
+      "word": "abnormal",
+      "familyStem": "norm-",
+      "label": "-al",
+      "rebuilt": "normal",
+      "focused": false
+    },
+    {
+      "word": "absolute",
+      "familyStem": "absolute-",
+      "label": "solut",
+      "rebuilt": "solut",
+      "focused": false
+    },
+    {
+      "word": "academic",
+      "familyStem": "academic-",
+      "label": "-ic",
+      "rebuilt": "academicic",
+      "focused": false
+    },
+    {
+      "word": "access",
+      "familyStem": "access-",
+      "label": "cess",
+      "rebuilt": "cess",
+      "focused": false
+    },
+    {
+      "word": "accident",
+      "familyStem": "accident-",
+      "label": "cid",
+      "rebuilt": "cid",
+      "focused": false
+    },
+    {
+      "word": "acclaim",
+      "familyStem": "acclaim-",
+      "label": "claim",
+      "rebuilt": "claim",
+      "focused": false
+    },
+    {
+      "word": "accomplish",
+      "familyStem": "accomplish-",
+      "label": "plish",
+      "rebuilt": "plish",
+      "focused": false
+    },
+    {
+      "word": "account",
+      "familyStem": "account-",
+      "label": "count",
+      "rebuilt": "count",
+      "focused": false
+    },
+    {
+      "word": "achieve",
+      "familyStem": "achieve-",
+      "label": "chiev",
+      "rebuilt": "chiev",
+      "focused": false
+    },
+    {
+      "word": "acquaint",
+      "familyStem": "acquaint-",
+      "label": "quaint",
+      "rebuilt": "quaint",
+      "focused": false
+    },
+    {
+      "word": "actual",
+      "familyStem": "actual-",
+      "label": "-al",
+      "rebuilt": "actualal",
+      "focused": false
+    },
+    {
+      "word": "adapt",
+      "familyStem": "adapt-",
+      "label": "apt",
+      "rebuilt": "apt",
+      "focused": false
+    },
+    {
+      "word": "adjust",
+      "familyStem": "adjust-",
+      "label": "just",
+      "rebuilt": "just",
+      "focused": false
+    },
+    {
+      "word": "admit",
+      "familyStem": "admit-",
+      "label": "mit",
+      "rebuilt": "mit",
+      "focused": false
+    },
+    {
+      "word": "adopt",
+      "familyStem": "adopt-",
+      "label": "opt",
+      "rebuilt": "opt",
+      "focused": false
+    },
+    {
+      "word": "unadorned",
+      "familyStem": "ad-",
+      "label": "-ed",
+      "rebuilt": "aded",
+      "focused": false
+    },
+    {
+      "word": "affect",
+      "familyStem": "affect-",
+      "label": "fect",
+      "rebuilt": "fect",
+      "focused": false
+    },
+    {
+      "word": "afflict",
+      "familyStem": "afflict-",
+      "label": "flict",
+      "rebuilt": "flict",
+      "focused": false
+    },
+    {
+      "word": "afford",
+      "familyStem": "afford-",
+      "label": "ford",
+      "rebuilt": "ford",
+      "focused": false
+    },
+    {
+      "word": "aggressive",
+      "familyStem": "aggressive-",
+      "label": "-ive",
+      "rebuilt": "aggressiveive",
+      "focused": false
+    },
+    {
+      "word": "disagreeable",
+      "familyStem": "a-",
+      "label": "-able",
+      "rebuilt": "aable",
+      "focused": false
+    },
+    {
+      "word": "announce",
+      "familyStem": "announce-",
+      "label": "nounce",
+      "rebuilt": "nounce",
+      "focused": false
+    },
+    {
+      "word": "annoy",
+      "familyStem": "annoy-",
+      "label": "-y",
+      "rebuilt": "annoyy",
+      "focused": false
+    },
+    {
+      "word": "annual",
+      "familyStem": "annual-",
+      "label": "-al",
+      "rebuilt": "annualal",
+      "focused": false
+    },
+    {
+      "word": "appeal",
+      "familyStem": "appeal-",
+      "label": "-al",
+      "rebuilt": "appealal",
+      "focused": false
+    },
+    {
+      "word": "appoint",
+      "familyStem": "appoint-",
+      "label": "point",
+      "rebuilt": "point",
+      "focused": false
+    },
+    {
+      "word": "approach",
+      "familyStem": "approach-",
+      "label": "proach",
+      "rebuilt": "proach",
+      "focused": false
+    },
+    {
+      "word": "approximate",
+      "familyStem": "approximate-",
+      "label": "-ate",
+      "rebuilt": "approximateate",
+      "focused": false
+    },
+    {
+      "word": "architect",
+      "familyStem": "architect-",
+      "label": "tect",
+      "rebuilt": "tect",
+      "focused": false
+    },
+    {
+      "word": "semiarid",
+      "familyStem": "arid-",
+      "label": "arid",
+      "rebuilt": "arid",
+      "focused": false
+    },
+    {
+      "word": "arrange",
+      "familyStem": "arrange-",
+      "label": "range",
+      "rebuilt": "range",
+      "focused": false
+    },
+    {
+      "word": "assess",
+      "familyStem": "assess-",
+      "label": "sess",
+      "rebuilt": "sess",
+      "focused": false
+    },
+    {
+      "word": "assign",
+      "familyStem": "assign-",
+      "label": "sign",
+      "rebuilt": "sign",
+      "focused": false
+    },
+    {
+      "word": "assist",
+      "familyStem": "assist-",
+      "label": "-ist",
+      "rebuilt": "assistist",
+      "focused": false
+    },
+    {
+      "word": "assort",
+      "familyStem": "assort-",
+      "label": "sort",
+      "rebuilt": "sort",
+      "focused": false
+    },
+    {
+      "word": "assure",
+      "familyStem": "assure-",
+      "label": "-ure",
+      "rebuilt": "assureure",
+      "focused": false
+    },
+    {
+      "word": "astonish",
+      "familyStem": "astonish-",
+      "label": "ston",
+      "rebuilt": "ston",
+      "focused": false
+    },
+    {
+      "word": "astound",
+      "familyStem": "astound-",
+      "label": "stound",
+      "rebuilt": "stound",
+      "focused": false
+    },
+    {
+      "word": "asymmetrical",
+      "familyStem": "sym-",
+      "label": "-ical",
+      "rebuilt": "symical",
+      "focused": false
+    },
+    {
+      "word": "attach",
+      "familyStem": "attach-",
+      "label": "tach",
+      "rebuilt": "tach",
+      "focused": false
+    },
+    {
+      "word": "attain",
+      "familyStem": "attain-",
+      "label": "tain",
+      "rebuilt": "tain",
+      "focused": false
+    },
+    {
+      "word": "attend",
+      "familyStem": "attend-",
+      "label": "tend",
+      "rebuilt": "tend",
+      "focused": false
+    },
+    {
+      "word": "attract",
+      "familyStem": "attract-",
+      "label": "tract",
+      "rebuilt": "tract",
+      "focused": false
+    },
+    {
+      "word": "aurora",
+      "familyStem": "aurora-",
+      "label": "auror",
+      "rebuilt": "auror",
+      "focused": false
+    },
+    {
+      "word": "authentic",
+      "familyStem": "authentic-",
+      "label": "-ic",
+      "rebuilt": "authenticic",
+      "focused": false
+    },
+    {
+      "word": "avail",
+      "familyStem": "avail-",
+      "label": "vail",
+      "rebuilt": "vail",
+      "focused": false
+    },
+    {
+      "word": "avocation",
+      "familyStem": "avocation-",
+      "label": "-tion",
+      "rebuilt": "avocationtion",
+      "focused": false
+    },
+    {
+      "word": "avoid",
+      "familyStem": "avoid-",
+      "label": "void",
+      "rebuilt": "void",
+      "focused": false
+    },
+    {
+      "word": "awkward",
+      "familyStem": "awkward-",
+      "label": "-ward",
+      "rebuilt": "awkwardward",
+      "focused": false
+    },
+    {
+      "word": "bankrupt",
+      "familyStem": "bankrupt-",
+      "label": "rupt",
+      "rebuilt": "rupt",
+      "focused": false
+    },
+    {
+      "word": "unbearable",
+      "familyStem": "bear-",
+      "label": "-able",
+      "rebuilt": "bearable",
+      "focused": false
+    },
+    {
+      "word": "unbiased",
+      "familyStem": "bias-",
+      "label": "-ed",
+      "rebuilt": "biased",
+      "focused": false
+    },
+    {
+      "word": "big deal",
+      "familyStem": "deal-",
+      "label": "-al",
+      "rebuilt": "dealal",
+      "focused": false
+    },
+    {
+      "word": "ablaze",
+      "familyStem": "blaze-",
+      "label": "blaze",
+      "rebuilt": "blaze",
+      "focused": false
+    },
+    {
+      "word": "crossbreeding",
+      "familyStem": "breed-",
+      "label": "-ing",
+      "rebuilt": "breeding",
+      "focused": false
+    },
+    {
+      "word": "rebroadcast",
+      "familyStem": "broad-",
+      "label": "broadcast",
+      "rebuilt": "broadcast",
+      "focused": false
+    },
+    {
+      "word": "sun-bronzed",
+      "familyStem": "bronze-",
+      "label": "-ed",
+      "rebuilt": "bronzeed",
+      "focused": false
+    },
+    {
+      "word": "taxicab",
+      "familyStem": "cab-",
+      "label": "cab",
+      "rebuilt": "cab",
+      "focused": false
+    },
+    {
+      "word": "the Cabinet",
+      "familyStem": "cabin-",
+      "label": "cabinet",
+      "rebuilt": "cabinet",
+      "focused": false
+    },
+    {
+      "word": "cabinet",
+      "familyStem": "cabinet-",
+      "label": "cabin",
+      "rebuilt": "cabin",
+      "focused": false
+    },
+    {
+      "word": "videocassette",
+      "familyStem": "cassette-",
+      "label": "cassette",
+      "rebuilt": "cassette",
+      "focused": false
+    },
+    {
+      "word": "champion",
+      "familyStem": "champion-",
+      "label": "champ",
+      "rebuilt": "champ",
+      "focused": false
+    },
+    {
+      "word": "choreograph",
+      "familyStem": "choreograph-",
+      "label": "graph",
+      "rebuilt": "graph",
+      "focused": false
+    },
+    {
+      "word": "clergy",
+      "familyStem": "clergy-",
+      "label": "-y",
+      "rebuilt": "clergyy",
+      "focused": false
+    },
+    {
+      "word": "clinic",
+      "familyStem": "clinic-",
+      "label": "-ic",
+      "rebuilt": "clinicic",
+      "focused": false
+    },
+    {
+      "word": "coalesce",
+      "familyStem": "coalesce-",
+      "label": "alesce",
+      "rebuilt": "alesce",
+      "focused": false
+    },
+    {
+      "word": "coincide",
+      "familyStem": "coincide-",
+      "label": "incide",
+      "rebuilt": "incide",
+      "focused": false
+    },
+    {
+      "word": "colloquial",
+      "familyStem": "colloquial-",
+      "label": "-al",
+      "rebuilt": "colloquialal",
+      "focused": false
+    },
+    {
+      "word": "comic",
+      "familyStem": "comic-",
+      "label": "-ic",
+      "rebuilt": "comicic",
+      "focused": false
+    },
+    {
+      "word": "command",
+      "familyStem": "command-",
+      "label": "mand",
+      "rebuilt": "mand",
+      "focused": false
+    },
+    {
+      "word": "commission",
+      "familyStem": "commission-",
+      "label": "-ion",
+      "rebuilt": "commissionion",
+      "focused": false
+    },
+    {
+      "word": "commit",
+      "familyStem": "commit-",
+      "label": "mit",
+      "rebuilt": "mit",
+      "focused": false
+    },
+    {
+      "word": "telecommuter",
+      "familyStem": "com-",
+      "label": "-er",
+      "rebuilt": "comer",
+      "focused": false
+    },
+    {
+      "word": "compact",
+      "familyStem": "compact-",
+      "label": "pact",
+      "rebuilt": "pact",
+      "focused": false
+    },
+    {
+      "word": "incompatible",
+      "familyStem": "com-",
+      "label": "compatible",
+      "rebuilt": "compatible",
+      "focused": false
+    },
+    {
+      "word": "complain",
+      "familyStem": "complain-",
+      "label": "plain",
+      "rebuilt": "plain",
+      "focused": false
+    },
+    {
+      "word": "complement",
+      "familyStem": "complement-",
+      "label": "ple",
+      "rebuilt": "ple",
+      "focused": false
+    },
+    {
+      "word": "complex",
+      "familyStem": "complex-",
+      "label": "plex",
+      "rebuilt": "plex",
+      "focused": false
+    },
+    {
+      "word": "recompose",
+      "familyStem": "com-",
+      "label": "compose",
+      "rebuilt": "compose",
+      "focused": false
+    },
+    {
+      "word": "compress",
+      "familyStem": "compress-",
+      "label": "press",
+      "rebuilt": "press",
+      "focused": false
+    },
+    {
+      "word": "concept",
+      "familyStem": "concept-",
+      "label": "cept",
+      "rebuilt": "cept",
+      "focused": false
+    },
+    {
+      "word": "concert",
+      "familyStem": "concert-",
+      "label": "cert",
+      "rebuilt": "cert",
+      "focused": false
+    },
+    {
+      "word": "concise",
+      "familyStem": "concise-",
+      "label": "cise",
+      "rebuilt": "cise",
+      "focused": false
+    },
+    {
+      "word": "inconclusive",
+      "familyStem": "con-",
+      "label": "-ive",
+      "rebuilt": "conive",
+      "focused": false
+    },
+    {
+      "word": "condemn",
+      "familyStem": "condemn-",
+      "label": "demn",
+      "rebuilt": "demn",
+      "focused": false
+    },
+    {
+      "word": "condition",
+      "familyStem": "condition-",
+      "label": "-tion",
+      "rebuilt": "conditiontion",
+      "focused": false
+    },
+    {
+      "word": "conduct",
+      "familyStem": "conduct-",
+      "label": "duct",
+      "rebuilt": "duct",
+      "focused": false
+    },
+    {
+      "word": "confer",
+      "familyStem": "confer-",
+      "label": "fer",
+      "rebuilt": "fer",
+      "focused": false
+    },
+    {
+      "word": "confess",
+      "familyStem": "confess-",
+      "label": "fess",
+      "rebuilt": "fess",
+      "focused": false
+    },
+    {
+      "word": "overconfident",
+      "familyStem": "con-",
+      "label": "confident",
+      "rebuilt": "confident",
+      "focused": false
+    },
+    {
+      "word": "confirm",
+      "familyStem": "confirm-",
+      "label": "firm",
+      "rebuilt": "firm",
+      "focused": false
+    },
+    {
+      "word": "conflict",
+      "familyStem": "conflict-",
+      "label": "flict",
+      "rebuilt": "flict",
+      "focused": false
+    },
+    {
+      "word": "nonconformist",
+      "familyStem": "con-",
+      "label": "-ist",
+      "rebuilt": "conist",
+      "focused": false
+    },
+    {
+      "word": "nonconformity",
+      "familyStem": "con-",
+      "label": "-y",
+      "rebuilt": "cony",
+      "focused": false
+    },
+    {
+      "word": "congress",
+      "familyStem": "congress-",
+      "label": "gress",
+      "rebuilt": "gress",
+      "focused": false
+    },
+    {
+      "word": "disconnect",
+      "familyStem": "con-",
+      "label": "connect",
+      "rebuilt": "connect",
+      "focused": false
+    },
+    {
+      "word": "unconscious",
+      "familyStem": "con-",
+      "label": "-ous",
+      "rebuilt": "conous",
+      "focused": false
+    },
+    {
+      "word": "consider",
+      "familyStem": "consider-",
+      "label": "sider",
+      "rebuilt": "sider",
+      "focused": false
+    },
+    {
+      "word": "consist",
+      "familyStem": "consist-",
+      "label": "-ist",
+      "rebuilt": "consistist",
+      "focused": false
+    },
+    {
+      "word": "constant",
+      "familyStem": "constant-",
+      "label": "-ant",
+      "rebuilt": "constantant",
+      "focused": false
+    },
+    {
+      "word": "constrain",
+      "familyStem": "constrain-",
+      "label": "strain",
+      "rebuilt": "strain",
+      "focused": false
+    },
+    {
+      "word": "constrict",
+      "familyStem": "constrict-",
+      "label": "strict",
+      "rebuilt": "strict",
+      "focused": false
+    },
+    {
+      "word": "construct",
+      "familyStem": "construct-",
+      "label": "struct",
+      "rebuilt": "struct",
+      "focused": false
+    },
+    {
+      "word": "consult",
+      "familyStem": "consult-",
+      "label": "sult",
+      "rebuilt": "sult",
+      "focused": false
+    },
+    {
+      "word": "contain",
+      "familyStem": "contain-",
+      "label": "tain",
+      "rebuilt": "tain",
+      "focused": false
+    },
+    {
+      "word": "content",
+      "familyStem": "content-",
+      "label": "tent",
+      "rebuilt": "tent",
+      "focused": false
+    },
+    {
+      "word": "supercontinent",
+      "familyStem": "con-",
+      "label": "continent",
+      "rebuilt": "continent",
+      "focused": false
+    },
+    {
+      "word": "transcontinental",
+      "familyStem": "con-",
+      "label": "-al",
+      "rebuilt": "conal",
+      "focused": false
+    },
+    {
+      "word": "contract",
+      "familyStem": "contract-",
+      "label": "tract",
+      "rebuilt": "tract",
+      "focused": false
+    },
+    {
+      "word": "contradict",
+      "familyStem": "contradict-",
+      "label": "dict",
+      "rebuilt": "dict",
+      "focused": false
+    },
+    {
+      "word": "inconvenient",
+      "familyStem": "con-",
+      "label": "convenient",
+      "rebuilt": "convenient",
+      "focused": false
+    },
+    {
+      "word": "unconventional",
+      "familyStem": "con-",
+      "label": "-al",
+      "rebuilt": "conal",
+      "focused": false
+    },
+    {
+      "word": "unconvincing",
+      "familyStem": "con-",
+      "label": "convincing",
+      "rebuilt": "convincing",
+      "focused": false
+    },
+    {
+      "word": "correlate",
+      "familyStem": "correlate-",
+      "label": "relate",
+      "rebuilt": "relate",
+      "focused": false
+    },
+    {
+      "word": "crystal",
+      "familyStem": "crystal-",
+      "label": "-al",
+      "rebuilt": "crystalal",
+      "focused": false
+    },
+    {
+      "word": "current",
+      "familyStem": "current-",
+      "label": "-ent",
+      "rebuilt": "currentent",
+      "focused": false
+    },
+    {
+      "word": "outdated",
+      "familyStem": "date-",
+      "label": "-ed",
+      "rebuilt": "dateed",
+      "focused": false
+    },
+    {
+      "word": "deduct",
+      "familyStem": "deduct-",
+      "label": "duct",
+      "rebuilt": "duct",
+      "focused": false
+    },
+    {
+      "word": "defect",
+      "familyStem": "defect-",
+      "label": "fect",
+      "rebuilt": "fect",
+      "focused": false
+    },
+    {
+      "word": "defer",
+      "familyStem": "defer-",
+      "label": "fer",
+      "rebuilt": "fer",
+      "focused": false
+    },
+    {
+      "word": "deform",
+      "familyStem": "deform-",
+      "label": "form",
+      "rebuilt": "form",
+      "focused": false
+    },
+    {
+      "word": "deliberate",
+      "familyStem": "deliberate-",
+      "label": "-ate",
+      "rebuilt": "deliberateate",
+      "focused": false
+    },
+    {
+      "word": "dentist",
+      "familyStem": "dentist-",
+      "label": "-ist",
+      "rebuilt": "dentistist",
+      "focused": false
+    },
+    {
+      "word": "depart",
+      "familyStem": "depart-",
+      "label": "part",
+      "rebuilt": "part",
+      "focused": false
+    },
+    {
+      "word": "deposit",
+      "familyStem": "deposit-",
+      "label": "posit",
+      "rebuilt": "posit",
+      "focused": false
+    },
+    {
+      "word": "depress",
+      "familyStem": "depress-",
+      "label": "press",
+      "rebuilt": "press",
+      "focused": false
+    },
+    {
+      "word": "desert",
+      "familyStem": "desert-",
+      "label": "sert",
+      "rebuilt": "sert",
+      "focused": false
+    },
+    {
+      "word": "undeserved",
+      "familyStem": "de-",
+      "label": "-ed",
+      "rebuilt": "deed",
+      "focused": false
+    },
+    {
+      "word": "desperate",
+      "familyStem": "desperate-",
+      "label": "-ate",
+      "rebuilt": "desperateate",
+      "focused": false
+    },
+    {
+      "word": "despoil",
+      "familyStem": "despoil-",
+      "label": "spoil",
+      "rebuilt": "spoil",
+      "focused": false
+    },
+    {
+      "word": "destruct",
+      "familyStem": "destruct-",
+      "label": "struct",
+      "rebuilt": "struct",
+      "focused": false
+    },
+    {
+      "word": "detect",
+      "familyStem": "detect-",
+      "label": "tect",
+      "rebuilt": "tect",
+      "focused": false
+    },
+    {
+      "word": "deter",
+      "familyStem": "deter-",
+      "label": "ter",
+      "rebuilt": "ter",
+      "focused": false
+    },
+    {
+      "word": "detriment",
+      "familyStem": "detriment-",
+      "label": "-ment",
+      "rebuilt": "detrimentment",
+      "focused": false
+    },
+    {
+      "word": "diagonal",
+      "familyStem": "diagonal-",
+      "label": "-al",
+      "rebuilt": "diagonalal",
+      "focused": false
+    },
+    {
+      "word": "undifferentiated",
+      "familyStem": "dif-",
+      "label": "-ed",
+      "rebuilt": "difed",
+      "focused": false
+    },
+    {
+      "word": "digest",
+      "familyStem": "digest-",
+      "label": "gest",
+      "rebuilt": "gest",
+      "focused": false
+    },
+    {
+      "word": "digress",
+      "familyStem": "digress-",
+      "label": "gress",
+      "rebuilt": "gress",
+      "focused": false
+    },
+    {
+      "word": "diligent",
+      "familyStem": "diligent-",
+      "label": "-ent",
+      "rebuilt": "diligentent",
+      "focused": false
+    },
+    {
+      "word": "dimension",
+      "familyStem": "dimension-",
+      "label": "-ion",
+      "rebuilt": "dimensionion",
+      "focused": false
+    },
+    {
+      "word": "disappoint",
+      "familyStem": "disappoint-",
+      "label": "appoint",
+      "rebuilt": "appoint",
+      "focused": false
+    },
+    {
+      "word": "discern",
+      "familyStem": "discern-",
+      "label": "cern",
+      "rebuilt": "cern",
+      "focused": false
+    },
+    {
+      "word": "discontent",
+      "familyStem": "discontent-",
+      "label": "tent",
+      "rebuilt": "tent",
+      "focused": false
+    },
+    {
+      "word": "disgust",
+      "familyStem": "disgust-",
+      "label": "gust",
+      "rebuilt": "gust",
+      "focused": false
+    },
+    {
+      "word": "dismember",
+      "familyStem": "dismember-",
+      "label": "member",
+      "rebuilt": "member",
+      "focused": false
+    },
+    {
+      "word": "displace",
+      "familyStem": "displace-",
+      "label": "place",
+      "rebuilt": "place",
+      "focused": false
+    },
+    {
+      "word": "dissent",
+      "familyStem": "dissent-",
+      "label": "sent",
+      "rebuilt": "sent",
+      "focused": false
+    },
+    {
+      "word": "dissipate",
+      "familyStem": "dissipate-",
+      "label": "-ate",
+      "rebuilt": "dissipateate",
+      "focused": false
+    },
+    {
+      "word": "distaste",
+      "familyStem": "distaste-",
+      "label": "taste",
+      "rebuilt": "taste",
+      "focused": false
+    },
+    {
+      "word": "distill",
+      "familyStem": "distill-",
+      "label": "still",
+      "rebuilt": "still",
+      "focused": false
+    },
+    {
+      "word": "distinct",
+      "familyStem": "distinct-",
+      "label": "stinct",
+      "rebuilt": "stinct",
+      "focused": false
+    },
+    {
+      "word": "distinguish",
+      "familyStem": "distinguish-",
+      "label": "-ish",
+      "rebuilt": "distinguishish",
+      "focused": false
+    },
+    {
+      "word": "distort",
+      "familyStem": "distort-",
+      "label": "tort",
+      "rebuilt": "tort",
+      "focused": false
+    },
+    {
+      "word": "disturb",
+      "familyStem": "disturb-",
+      "label": "turb",
+      "rebuilt": "turb",
+      "focused": false
+    },
+    {
+      "word": "diverge",
+      "familyStem": "diverge-",
+      "label": "verge",
+      "rebuilt": "verge",
+      "focused": false
+    },
+    {
+      "word": "document",
+      "familyStem": "document-",
+      "label": "-ment",
+      "rebuilt": "documentment",
+      "focused": false
+    },
+    {
+      "word": "domestic",
+      "familyStem": "domestic-",
+      "label": "-ic",
+      "rebuilt": "domesticic",
+      "focused": false
+    },
+    {
+      "word": "dynamic",
+      "familyStem": "dynamic-",
+      "label": "-ic",
+      "rebuilt": "dynamicic",
+      "focused": false
+    },
+    {
+      "word": "eccentric",
+      "familyStem": "eccentric-",
+      "label": "-ic",
+      "rebuilt": "eccentricic",
+      "focused": false
+    },
+    {
+      "word": "eclectic",
+      "familyStem": "eclectic-",
+      "label": "-ic",
+      "rebuilt": "eclecticic",
+      "focused": false
+    },
+    {
+      "word": "effect",
+      "familyStem": "effect-",
+      "label": "fect",
+      "rebuilt": "fect",
+      "focused": false
+    },
+    {
+      "word": "elaborate",
+      "familyStem": "elaborate-",
+      "label": "-ate",
+      "rebuilt": "elaborateate",
+      "focused": false
+    },
+    {
+      "word": "elastic",
+      "familyStem": "elastic-",
+      "label": "-ic",
+      "rebuilt": "elasticic",
+      "focused": false
+    },
+    {
+      "word": "elect",
+      "familyStem": "elect-",
+      "label": "lect",
+      "rebuilt": "lect",
+      "focused": false
+    },
+    {
+      "word": "embellish",
+      "familyStem": "embellish-",
+      "label": "-ish",
+      "rebuilt": "embellishish",
+      "focused": false
+    },
+    {
+      "word": "embroider",
+      "familyStem": "embroider-",
+      "label": "broider",
+      "rebuilt": "broider",
+      "focused": false
+    },
+    {
+      "word": "emotion",
+      "familyStem": "emotion-",
+      "label": "-tion",
+      "rebuilt": "emotiontion",
+      "focused": false
+    },
+    {
+      "word": "employ",
+      "familyStem": "employ-",
+      "label": "-y",
+      "rebuilt": "employy",
+      "focused": false
+    },
+    {
+      "word": "enact",
+      "familyStem": "enact-",
+      "label": "act",
+      "rebuilt": "act",
+      "focused": false
+    },
+    {
+      "word": "endanger",
+      "familyStem": "endanger-",
+      "label": "danger",
+      "rebuilt": "danger",
+      "focused": false
+    },
+    {
+      "word": "endless",
+      "familyStem": "endless-",
+      "label": "-less",
+      "rebuilt": "endlessless",
+      "focused": false
+    },
+    {
+      "word": "endow",
+      "familyStem": "endow-",
+      "label": "dow",
+      "rebuilt": "dow",
+      "focused": false
+    },
+    {
+      "word": "enlighten",
+      "familyStem": "enlighten-",
+      "label": "-en",
+      "rebuilt": "enlightenen",
+      "focused": false
+    },
+    {
+      "word": "entangle",
+      "familyStem": "entangle-",
+      "label": "tangle",
+      "rebuilt": "tangle",
+      "focused": false
+    },
+    {
+      "word": "entertain",
+      "familyStem": "entertain-",
+      "label": "tain",
+      "rebuilt": "tain",
+      "focused": false
+    },
+    {
+      "word": "entitle",
+      "familyStem": "entitle-",
+      "label": "title",
+      "rebuilt": "title",
+      "focused": false
+    },
+    {
+      "word": "entrench",
+      "familyStem": "entrench-",
+      "label": "trench",
+      "rebuilt": "trench",
+      "focused": false
+    },
+    {
+      "word": "envelop",
+      "familyStem": "envelop-",
+      "label": "velop",
+      "rebuilt": "velop",
+      "focused": false
+    },
+    {
+      "word": "equal",
+      "familyStem": "equal-",
+      "label": "-al",
+      "rebuilt": "equalal",
+      "focused": false
+    },
+    {
+      "word": "erupt",
+      "familyStem": "erupt-",
+      "label": "rupt",
+      "rebuilt": "rupt",
+      "focused": false
+    },
+    {
+      "word": "ethic",
+      "familyStem": "ethic-",
+      "label": "-ic",
+      "rebuilt": "ethicic",
+      "focused": false
+    },
+    {
+      "word": "event",
+      "familyStem": "event-",
+      "label": "vent",
+      "rebuilt": "vent",
+      "focused": false
+    },
+    {
+      "word": "exact",
+      "familyStem": "exact-",
+      "label": "act",
+      "rebuilt": "act",
+      "focused": false
+    },
+    {
+      "word": "exalt",
+      "familyStem": "exalt-",
+      "label": "alt",
+      "rebuilt": "alt",
+      "focused": false
+    },
+    {
+      "word": "excel",
+      "familyStem": "excel-",
+      "label": "cel",
+      "rebuilt": "cel",
+      "focused": false
+    },
+    {
+      "word": "except",
+      "familyStem": "except-",
+      "label": "cept",
+      "rebuilt": "cept",
+      "focused": false
+    },
+    {
+      "word": "excess",
+      "familyStem": "excess-",
+      "label": "cess",
+      "rebuilt": "cess",
+      "focused": false
+    },
+    {
+      "word": "exempt",
+      "familyStem": "exempt-",
+      "label": "empt",
+      "rebuilt": "empt",
+      "focused": false
+    },
+    {
+      "word": "exert",
+      "familyStem": "exert-",
+      "label": "ert",
+      "rebuilt": "ert",
+      "focused": false
+    },
+    {
+      "word": "exhaust",
+      "familyStem": "exhaust-",
+      "label": "haust",
+      "rebuilt": "haust",
+      "focused": false
+    },
+    {
+      "word": "exhibit",
+      "familyStem": "exhibit-",
+      "label": "hibit",
+      "rebuilt": "hibit",
+      "focused": false
+    },
+    {
+      "word": "expert",
+      "familyStem": "expert-",
+      "label": "pert",
+      "rebuilt": "pert",
+      "focused": false
+    },
+    {
+      "word": "exploit",
+      "familyStem": "exploit-",
+      "label": "ploit",
+      "rebuilt": "ploit",
+      "focused": false
+    },
+    {
+      "word": "exponent",
+      "familyStem": "exponent-",
+      "label": "-ent",
+      "rebuilt": "exponentent",
+      "focused": false
+    },
+    {
+      "word": "express",
+      "familyStem": "express-",
+      "label": "press",
+      "rebuilt": "press",
+      "focused": false
+    },
+    {
+      "word": "extract",
+      "familyStem": "extract-",
+      "label": "tract",
+      "rebuilt": "tract",
+      "focused": false
+    },
+    {
+      "word": "fanatic",
+      "familyStem": "fanatic-",
+      "label": "-ic",
+      "rebuilt": "fanaticic",
+      "focused": false
+    },
+    {
+      "word": "fervent",
+      "familyStem": "fervent-",
+      "label": "-ent",
+      "rebuilt": "ferventent",
+      "focused": true
+    },
+    {
+      "word": "feudal",
+      "familyStem": "feudal-",
+      "label": "-al",
+      "rebuilt": "feudalal",
+      "focused": true
+    },
+    {
+      "word": "fiction",
+      "familyStem": "fiction-",
+      "label": "-tion",
+      "rebuilt": "fictiontion",
+      "focused": true
+    },
+    {
+      "word": "flora",
+      "familyStem": "flora-",
+      "label": "-a",
+      "rebuilt": "floraa",
+      "focused": true
+    },
+    {
+      "word": "flourish",
+      "familyStem": "flourish-",
+      "label": "-ish",
+      "rebuilt": "flourishish",
+      "focused": true
+    },
+    {
+      "word": "forbid",
+      "familyStem": "forbid-",
+      "label": "bid",
+      "rebuilt": "bid",
+      "focused": true
+    },
+    {
+      "word": "formal",
+      "familyStem": "formal-",
+      "label": "-al",
+      "rebuilt": "formalal",
+      "focused": true
+    },
+    {
+      "word": "former",
+      "familyStem": "former-",
+      "label": "-er",
+      "rebuilt": "formerer",
+      "focused": true
+    },
+    {
+      "word": "formula",
+      "familyStem": "formula-",
+      "label": "-ula",
+      "rebuilt": "formulaula",
+      "focused": true
+    },
+    {
+      "word": "fortuitous",
+      "familyStem": "fortuitous-",
+      "label": "-ous",
+      "rebuilt": "fortuitousous",
+      "focused": true
+    },
+    {
+      "word": "fossil",
+      "familyStem": "fossil-",
+      "label": "-il",
+      "rebuilt": "fossilil",
+      "focused": true
+    },
+    {
+      "word": "fraction",
+      "familyStem": "fraction-",
+      "label": "-tion",
+      "rebuilt": "fractiontion",
+      "focused": true
+    },
+    {
+      "word": "fragment",
+      "familyStem": "fragment-",
+      "label": "-ment",
+      "rebuilt": "fragmentment",
+      "focused": true
+    },
+    {
+      "word": "frighten",
+      "familyStem": "frighten-",
+      "label": "-en",
+      "rebuilt": "frightenen",
+      "focused": true
+    },
+    {
+      "word": "frugal",
+      "familyStem": "frugal-",
+      "label": "-al",
+      "rebuilt": "frugalal",
+      "focused": true
+    },
+    {
+      "word": "function",
+      "familyStem": "function-",
+      "label": "-tion",
+      "rebuilt": "functiontion",
+      "focused": true
+    },
+    {
+      "word": "fundamental",
+      "familyStem": "fundamental-",
+      "label": "-al",
+      "rebuilt": "fundamentalal",
+      "focused": true
+    },
+    {
+      "word": "gallant",
+      "familyStem": "gallant-",
+      "label": "-ant",
+      "rebuilt": "gallantant",
+      "focused": true
+    },
+    {
+      "word": "gravitation",
+      "familyStem": "gravitation-",
+      "label": "-tion",
+      "rebuilt": "gravitationtion",
+      "focused": false
+    },
+    {
+      "word": "heal",
+      "familyStem": "heal-",
+      "label": "-al",
+      "rebuilt": "healal",
+      "focused": false
+    },
+    {
+      "word": "induct",
+      "familyStem": "induct-",
+      "label": "duct",
+      "rebuilt": "duct",
+      "focused": false
+    },
+    {
+      "word": "inform",
+      "familyStem": "inform-",
+      "label": "form",
+      "rebuilt": "form",
+      "focused": true
+    },
+    {
+      "word": "informal",
+      "familyStem": "informal-",
+      "label": "-al",
+      "rebuilt": "informalal",
+      "focused": true
+    },
+    {
+      "word": "malfunction",
+      "familyStem": "malfunction-",
+      "label": "-tion",
+      "rebuilt": "malfunctiontion",
+      "focused": true
+    },
+    {
+      "word": "predict",
+      "familyStem": "predict-",
+      "label": "dict",
+      "rebuilt": "dict",
+      "focused": false
+    },
+    {
+      "word": "refract",
+      "familyStem": "refract-",
+      "label": "fract",
+      "rebuilt": "fract",
+      "focused": true
+    },
+    {
+      "word": "select",
+      "familyStem": "select-",
+      "label": "lect",
+      "rebuilt": "lect",
+      "focused": false
+    },
+    {
+      "word": "transform",
+      "familyStem": "transform-",
+      "label": "form",
+      "rebuilt": "form",
+      "focused": true
+    },
+    {
+      "word": "unfortunate",
+      "familyStem": "unfortunate-",
+      "label": "-ate",
+      "rebuilt": "unfortunateate",
+      "focused": true
+    }
+  ]
+}

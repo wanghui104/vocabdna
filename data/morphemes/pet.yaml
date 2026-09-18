@@ -2,36 +2,53 @@
 id: pet
 display: pet
 type: root
-core_meaning: seek, strive for, rush toward
-zh: 追求、寻求、冲向
+core_meaning: compete, competent
+zh: 竞争；胜任
 origin: Latin
-source_form: Latin petere
-source_meaning: seek, strive for, rush toward
-source_meaning_zh: 追求、寻求、冲向
-source_note: compete comes from Latin competere = com- + petere; petit- is the participial stem seen in petition/petitionary patterns.
+source_form: Latin competere
+source_meaning: seek together, be suitable
+source_meaning_zh: 共同追求；适合
 related_morphemes:
   []
 senses:
-  - meaning: seek, strive for, rush toward
-    zh: 追求、寻求、冲向
+  - meaning: compete, competent
+    zh: 竞争；胜任
     examples:
+      - appetite
       - compete
-      - competition
+      - competence
+      - competent
+      - competing
       - competitive
+      - competitiveness
       - competitor
+      - impetus
+      - pet
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - petite -> appetite
   - pete -> compete
-  - petit -> competition
+  - compet -> competence
+  - compet -> competent
+  - compete -> competing
   - petit -> competitive
+  - compet -> competitiveness
   - petit -> competitor
+  - pet -> impetus
+  - pet -> pet
 high_value_words:
+  - appetite
   - compete
-  - competition
+  - competence
+  - competent
+  - competing
   - competitive
+  - competitiveness
   - competitor
+  - impetus
+  - pet
 confusable_words:
   []

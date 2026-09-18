@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: enrage
+word: enrage
+pos: verb
+zh: 激怒
+en: Means 激怒; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: en
+    form: en-
+    meaning_in_word: make; put into / 使；进入
+    zh: 使成为；变得
+    role: prefix
+    is_core: false
+  - morpheme: rage
+    form: rage
+    meaning_in_word: rage / 愤怒；风靡
+    zh: 狂怒
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

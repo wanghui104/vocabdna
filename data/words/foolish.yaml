@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: foolish
+word: foolish
+pos: adjective
+zh: 愚蠢的；不明智的
+en: showing poor judgment or lack of sense
+components:
+  - morpheme: fool
+    form: fool
+    meaning_in_word: bellows, empty-headed person / 风箱；愚人
+    zh: 风箱；愚人
+    role: root
+    is_core: true
+    note: folly = foll- + 名词 -y，foolish = fool + -ish；follis 风箱到空脑袋是历史比喻，不把 -ool 当后缀。
+  - morpheme: ish
+    form: -ish
+    meaning_in_word: make, somewhat like / 使成、带有……性质
+    zh: 使成、带有……性质
+    role: suffix
+    is_core: false
+    note: 本条归组两条来源：形容词 -ish 为 Old English -isc；动词 abolish/extinguish 等的 -ish 经法语 -iss-，历史关联 Latin -iscere 动词扩展。
+word_family:
+  - fool
+  - foolishly
+  - foolishness
+  - folly
+word_family_details:
+  - word: fool
+    en: a person who acts unwisely
+    zh: 傻瓜
+  - word: foolishly
+    en: without good judgment
+    zh: 愚蠢地
+  - word: foolishness
+    en: unwise behavior or lack of good sense
+    zh: 愚蠢；愚行
+  - word: folly
+    en: foolish behavior or an unwise action
+    zh: 愚蠢；荒唐行为
+confusables:
+  []
+examples:
+  []
+why_confusing: 

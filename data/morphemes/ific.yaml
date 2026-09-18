@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ific
+display: -ific
+type: suffix
+core_meaning: ific
+zh: ific
+origin: teaching morphology
+source_form: ific
+source_meaning: ific
+source_meaning_zh: ific
+related_morphemes:
+  []
+senses:
+  - meaning: ific
+    zh: ific
+    examples:
+      - purification
+      - qualification
+      - terrific
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ific -> purification
+  - ific -> qualification
+  - -ific -> terrific
+high_value_words:
+  - purification
+  - qualification
+  - terrific
+confusable_words:
+  []

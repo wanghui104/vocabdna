@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: communicate
+word: communicate
+pos: verb
+zh: 传达；沟通；通信
+en: to share information, feelings, or messages
+components:
+  - morpheme: common
+    form: commun
+    meaning_in_word: share
+    zh: 共同；公共；社区
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -icate
+    meaning_in_word: act
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - communication
+word_family_details:
+  - word: communication
+    en: the act or system of sharing information
+    zh: 沟通；通讯
+confusables:
+  []
+examples:
+  []
+why_confusing: communicate with/to 含义略不同。

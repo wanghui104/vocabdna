@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blizzard
+word: blizzard
+pos: noun
+zh: 暴风雪
+en: a severe snowstorm with strong winds
+components:
+  - morpheme: blizzard
+    form: blizzard
+    meaning_in_word: violent snowstorm
+    zh: 暴风雪
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 比 snowstorm 更强调强风和能见度低。

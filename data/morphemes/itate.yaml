@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: itate
+display: -itate
+type: suffix
+core_meaning: make or cause
+zh: 使……
+origin: Latin
+source_form: Latin -itas, -itatis; French -iter, English -itate
+source_meaning: make or cause
+source_meaning_zh: 使……
+source_note: facilitate 的 -itate 反映 facility/facilitas 名词层与动词化；不把 it 当独立实义根。
+related_morphemes:
+  []
+senses:
+  - meaning: make or cause
+    zh: 使……
+    examples:
+      - facilitate
+      - facilitation
+      - rehabilitate
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -itate -> facilitate
+  - -it -> facilitation
+  - itate -> rehabilitate
+high_value_words:
+  - facilitate
+  - facilitation
+  - rehabilitate
+confusable_words:
+  []

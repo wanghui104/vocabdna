@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: faithfulness
+word: faithfulness
+pos: noun
+zh: 忠诚；忠实
+en: loyalty or accuracy to an original
+components:
+  - morpheme: faith
+    form: faith
+    meaning_in_word: trust, belief / 信任；信仰
+    zh: 信任；信仰
+    role: root
+    is_core: true
+    note: faith 经法语音变来自 fides，末尾 th 受英语抽象名词影响；不当作 fai + 可自由派生的 -th。
+    related_morphemes:
+      - fid
+  - morpheme: ful
+    form: -ful
+    meaning_in_word: full of / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: state, quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - faith
+  - faithful
+word_family_details:
+  - word: faith
+    en: trust, belief, or a religious conviction
+    zh: 信任；信念；信仰
+  - word: faithful
+    en: loyal, reliable, or accurate to an original
+    zh: 忠诚的；忠实的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fairly
+word: fairly
+pos: adverb
+zh: 相当地；公平地
+en: to a moderate degree; in a just or impartial manner
+components:
+  - morpheme: fair
+    form: fair
+    meaning_in_word: pleasing, fair / 美好；公正
+    zh: 美好；公正
+    role: root
+    is_core: true
+    note: fairly 的 fair 是公正、美好的形容词来源；集市 fair 来自另一条拉丁词源。
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

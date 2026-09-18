@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contaminate
+word: contaminate
+pos: verb
+zh: 弄脏；污染；感染
+en: to make something impure, dirty, or harmful by contact
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tamin
+    form: tamin
+    meaning_in_word: pollute by contact
+    zh: 接触；污染
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - contamination
+word_family_details:
+  - word: contamination
+    en: the process or result of making something impure or harmful
+    zh: 污染；玷污
+confusables:
+  []
+examples:
+  []
+why_confusing: contaminate water/food/evidence.

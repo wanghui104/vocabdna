@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: blush
+word: blush
+pos: verb
+zh: 脸红；羞愧
+en: to become red in the face from shame or emotion
+components:
+  - morpheme: blush
+    form: blush
+    meaning_in_word: glow red
+    zh: 脸红
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: blush at/with embarrassment 常见。

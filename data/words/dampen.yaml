@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dampen
+word: dampen
+pos: verb
+zh: 使潮湿；减弱；抑制
+en: to make something damp, or to make a feeling, sound, or effect less strong
+components:
+  - morpheme: damp
+    form: damp
+    meaning_in_word: moist or reduce force
+    zh: 潮湿；湿气
+    role: root
+    is_core: true
+  - morpheme: en
+    form: -en
+    meaning_in_word: make or become
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+word_family:
+  - damp
+word_family_details:
+  - word: damp
+    en: slightly wet, often in an unpleasant way
+    zh: 潮湿的；有湿气的
+confusables:
+  []
+examples:
+  []
+why_confusing: dampen enthusiasm 表示打击热情。

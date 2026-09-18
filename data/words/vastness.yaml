@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: vastness
+word: vastness
+pos: noun
+zh: 巨大
+en: Means 巨大; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: vast
+    form: vast
+    meaning_in_word: vast / 巨大
+    zh: 毁坏；荒废
+    role: root
+    is_core: true
+    note: Conservative bottom root inside this learner-visible analysis; deeper source is uncertain or not productive for TOEFL study.
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: state; quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - vast
+word_family_details:
+  - word: vast
+    en: Means 巨大的，大量的；范围广的; reviewed from the TOEFL source gloss for learner display.
+    zh: 巨大的，大量的；范围广的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

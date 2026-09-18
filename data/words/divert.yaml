@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: divert
+word: divert
+pos: verb
+zh: 使转向；转移；使娱乐
+en: to turn aside or redirect; to entertain
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: vert
+    meaning_in_word: turn / 转、转向
+    zh: 转、转向
+    role: root
+    is_core: true
+word_family:
+  - diversion
+word_family_details:
+  - word: diversion
+    en: a change in direction, attention, or use
+    zh: 转向；转移
+confusables:
+  []
+examples:
+  []
+why_confusing: 结合例句理解词义，不把词源意象当成全部现代释义。

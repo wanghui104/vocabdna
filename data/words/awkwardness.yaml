@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: awkwardness
+word: awkwardness
+pos: noun
+zh: 笨拙；尴尬；别扭
+en: the quality of being clumsy, uncomfortable, or hard to manage
+components:
+  - morpheme: awk
+    form: awk
+    meaning_in_word: wrong way
+    zh: 别扭；笨拙
+    role: root
+    is_core: true
+  - morpheme: ward
+    form: -ward
+    meaning_in_word: direction
+    zh: 朝向；方向
+    role: suffix
+    is_core: false
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - awkward
+word_family_details:
+  - word: awkward
+    en: clumsy, uncomfortable, or difficult to handle
+    zh: 笨拙的；尴尬的；难处理的
+confusables:
+  []
+examples:
+  []
+why_confusing: 用于补全 awkward 词族标签。

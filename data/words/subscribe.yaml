@@ -18,19 +18,11 @@ components:
     role: root
     is_core: true
 word_family:
-  - subscription
-  - subscriber
+  []
 word_family_details:
-  - word: subscription
-    en: related form of subscription
-    zh: subscription 的相关词
-  - word: subscriber
-    en: related form of subscriber
-    zh: subscriber 的相关词
+  []
 confusables:
-  - word: prescribe
-    reason: subscribe to 可表示订阅，也可表示赞同观点。
-    zh_reason: subscribe to 可表示订阅，也可表示赞同观点。
+  []
 examples:
   - en: Many readers subscribe to the newsletter.
     zh: 许多读者订阅这份通讯。

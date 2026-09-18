@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: semiarid
+word: semiarid
+pos: adjective
+zh: 半干旱的；雨量很少的
+en: having little rainfall, but not as dry as a desert
+components:
+  - morpheme: semi
+    form: semi-
+    meaning_in_word: half, partly
+    zh: 半；部分
+    role: prefix
+    is_core: false
+  - morpheme: arid
+    form: arid
+    meaning_in_word: dry
+    zh: 干旱；贫瘠
+    role: root
+    is_core: true
+word_family:
+  - arid
+word_family_details:
+  - word: arid
+    en: very dry and often unable to support much life
+    zh: 干旱的；贫瘠的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bridge
+display: bridge
+type: root
+core_meaning: bridge
+zh: 桥
+origin: teaching morphology
+source_form: bridge
+source_meaning: bridge
+source_meaning_zh: 桥
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: bridge
+    zh: 桥
+    examples:
+      - unbridgeable
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bridge -> unbridgeable
+high_value_words:
+  - unbridgeable
+confusable_words:
+  []

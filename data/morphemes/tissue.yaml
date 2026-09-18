@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tissue
+display: tissue
+type: root
+core_meaning: woven thing; tissue
+zh: 织物；组织
+origin: French/Latin
+source_form: tissue
+source_meaning: woven thing; tissue
+source_meaning_zh: 织物；组织
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: woven thing; tissue
+    zh: 织物；组织
+    examples:
+      - tissue
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tissue -> tissue
+high_value_words:
+  - tissue
+confusable_words:
+  []

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ken
+word: ken
+pos: noun
+zh: 视野，知识领域
+en: Means 视野，知识领域; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ken
+    form: ken
+    meaning_in_word: 知道
+    zh: 知道
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:ken.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

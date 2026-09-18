@@ -1,0 +1,51 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: inorganic-chemical
+word: inorganic chemical
+pos: noun
+zh: 无机化合物
+en: Means 无机化合物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: organ
+    form: organ
+    meaning_in_word: 工具；器官；组织
+    zh: 工具；器官；组织
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:organ.
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ic.
+  - morpheme: chem
+    form: chem
+    meaning_in_word: 炼金术；化学
+    zh: 炼金术；化学
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:chem.
+  - morpheme: ical
+    form: -ical
+    meaning_in_word: 有关……的
+    zh: 有关……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ical.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

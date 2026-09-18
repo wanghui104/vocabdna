@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: plainspoken
+word: plainspoken
+pos: adjective
+zh: 直言不讳的
+en: Means 直言不讳的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: plain
+    form: plain
+    meaning_in_word: flat; clear / 平；清楚
+    zh: 抱怨；怨言
+    role: root
+    is_core: true
+  - morpheme: speak
+    form: speak
+    meaning_in_word: speak / 说
+    zh: 说
+    role: root
+    is_core: true
+  - morpheme: en
+    form: en
+    meaning_in_word: en / en
+    zh: 使成为；变得
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

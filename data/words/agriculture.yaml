@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: agriculture
+word: agriculture
+pos: noun
+zh: 农业；农艺；农学
+en: the science or practice of farming and cultivating land
+components:
+  - morpheme: agri
+    form: agri
+    meaning_in_word: field, farming / 田地；农业
+    zh: 田地；农业
+    role: root
+    is_core: true
+    note: 表层 cult-/cultiv-；Latin colere 耕作、照料的分词 cultus 提供 cult-。culture = cult- + -ure；cultivate 的 cultiv- 来自 Medieval Latin cultivare，关联 Late Latin cultivus 耕作的，较深层 cult- + 形容词 -iv-。
+  - morpheme: cult
+    form: cult
+    meaning_in_word: cultivate, care, culture / 耕作；培养；文化
+    zh: 耕作；培养；文化
+    role: root
+    is_core: true
+    related_morphemes:
+      - ive
+      - ure
+  - morpheme: ure
+    form: -ure
+    meaning_in_word: act or result / 行为；结果
+    zh: 行为；结果
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: agriculture 是广义农业。

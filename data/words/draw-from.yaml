@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: draw-from
+word: draw from
+pos: phrase
+zh: 从……汲取；获得
+en: to obtain ideas, information, or support from a source
+components:
+  - morpheme: draw
+    form: draw
+    meaning_in_word: pull, draw / 拉；绘制
+    zh: 拉；绘制
+    role: root
+    is_core: true
+    note: draw 是 dragan 的英语演变形；drag 与 draft 同源相关，但是独立现代词族。
+  - morpheme: from
+    form: from
+    meaning_in_word: from, source / 从；来源
+    zh: 从；来源
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

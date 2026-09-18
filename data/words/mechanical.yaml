@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mechanical
+word: mechanical
+pos: adjective
+zh: 机械的；机械性的，呆板的
+en: Means 机械的；机械性的，呆板的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mechan
+    form: mechan
+    meaning_in_word: 机器；机制
+    zh: 机器；机制
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mechan.
+  - morpheme: ical
+    form: -ical
+    meaning_in_word: 有关……的
+    zh: 有关……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ical.
+word_family:
+  - mechanics
+  - mechanized
+  - mechanism
+word_family_details:
+  - word: mechanics
+    en: Means 机械学，力学; reviewed from the TOEFL source gloss for learner display.
+    zh: 机械学，力学
+  - word: mechanized
+    en: Means 机械化的; reviewed from the TOEFL source gloss for learner display.
+    zh: 机械化的
+  - word: mechanism
+    en: Means 机械；机理，运作机制; reviewed from the TOEFL source gloss for learner display.
+    zh: 机械；机理，运作机制
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

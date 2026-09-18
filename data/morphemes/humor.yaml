@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: humor
+display: humor
+type: root
+core_meaning: fluid; mood; humor
+zh: 体液；心情；幽默
+origin: Latin
+source_form: Latin humor
+source_meaning: fluid; mood; humor
+source_meaning_zh: 体液；心情；幽默
+related_morphemes:
+  []
+senses:
+  - meaning: fluid; mood; humor
+    zh: 体液；心情；幽默
+    examples:
+      - humorous
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - humor -> humorous
+high_value_words:
+  - humorous
+confusable_words:
+  []

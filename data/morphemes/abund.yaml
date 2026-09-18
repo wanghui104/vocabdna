@@ -17,22 +17,22 @@ senses:
     zh: 涌出、丰富
     examples:
       - abound
+      - abundance
       - abundant
       - abundantly
-      - abundance
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - abund -> abound
+  - abund -> abundance
   - abund -> abundant
   - abund -> abundantly
-  - abund -> abundance
 high_value_words:
   - abound
+  - abundance
   - abundant
   - abundantly
-  - abundance
 confusable_words:
   []

@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fertilizer
+word: fertilizer
+pos: noun
+zh: 肥料
+en: a substance added to supply nutrients for plant growth
+components:
+  - morpheme: fertil
+    form: fertil
+    meaning_in_word: fruitful, bear / 多产；承载
+    zh: 多产；承载
+    role: root
+    is_core: true
+    note: 深层 ferre 承载、孕育 + -tilis 形容词构词层；fertil- 为稳定词干。fertilizer 表层 fertil- + -iz(e) + -er。
+    related_morphemes:
+      - fer
+  - morpheme: ize
+    form: -iz
+    meaning_in_word: make or do / 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+  - morpheme: er
+    form: -er
+    meaning_in_word: one who does / ……者；……物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.
+word_family:
+  - fertile
+  - fertility
+  - fertilize
+  - fertilization
+word_family_details:
+  - word: fertile
+    en: able to produce crops, offspring, or ideas
+    zh: 肥沃的；能生育的；多产的
+  - word: fertility
+    en: the ability to produce offspring, crops, or ideas
+    zh: 生育能力；肥沃；多产
+  - word: fertilize
+    en: to cause an egg to unite with sperm; to add nutrients to soil
+    zh: 使受精；施肥
+  - word: fertilization
+    en: the union of sperm and egg; adding nutrients to soil
+    zh: 受精；施肥
+confusables:
+  []
+examples:
+  []
+why_confusing: 

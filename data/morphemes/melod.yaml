@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: melod
+display: melod
+type: root
+core_meaning: song, tune
+zh: 旋律
+origin: Greek
+source_form: Greek melodia
+source_meaning: song, tune
+source_meaning_zh: 旋律
+related_morphemes:
+  []
+senses:
+  - meaning: song, tune
+    zh: 旋律
+    examples:
+      - melodic
+      - melodious
+      - melodrama
+      - melody
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - melod -> melodic
+  - melod -> melodious
+  - melod -> melodrama
+  - melod -> melody
+high_value_words:
+  - melodic
+  - melodious
+  - melodrama
+  - melody
+confusable_words:
+  []

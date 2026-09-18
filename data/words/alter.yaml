@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: alter
+word: alter
+pos: verb
+zh: 改变；修改
+en: to change something in some way
+components:
+  - morpheme: al-other
+    form: alter
+    meaning_in_word: other, different
+    zh: 其他；另一边
+    role: root
+    is_core: true
+word_family:
+  - alteration
+word_family_details:
+  - word: alteration
+    en: a change made to something
+    zh: 变更；改造；修改
+confusables:
+  []
+examples:
+  []
+why_confusing: alter 通常指局部修改；change 更宽泛。

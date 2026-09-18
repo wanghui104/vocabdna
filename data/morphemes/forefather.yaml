@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forefather
+display: forefather
+type: root
+core_meaning: draft meaning for forefather
+zh: 祖先，祖宗
+origin: Unknown
+source_form: TOEFL draft opaque stem: forefather
+source_meaning: draft learner stem for forefather
+source_meaning_zh: 祖先，祖宗
+source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+related_morphemes:
+  []
+senses:
+  - meaning: draft meaning for forefather
+    zh: 祖先，祖宗
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

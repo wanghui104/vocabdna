@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dominate
+word: dominate
+pos: verb
+zh: 统治；支配；占优势
+en: to control or have the strongest influence; to be most prominent
+components:
+  - morpheme: domin
+    form: domin
+    meaning_in_word: master, rule / 主人；统治
+    zh: 主人；统治
+    role: root
+    is_core: true
+    note: 表层 domin- 主人、控制；深层 dominus 是与 domus 房屋相关的家主称谓。
+    related_morphemes:
+      - domus
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - dominant
+word_family_details:
+  - word: dominant
+    en: having the greatest influence, power, or importance
+    zh: 占主导地位的；优势的
+confusables:
+  []
+examples:
+  []
+why_confusing: 表层 domin- 主人、控制；深层 dominus 是与 domus 房屋相关的家主称谓。

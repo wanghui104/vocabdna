@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: plement
+display: plement
+type: root
+core_meaning: fill; complete
+zh: 填满；补足
+origin: Latin
+source_form: plement
+source_meaning: fill; complete
+source_meaning_zh: 填满；补足
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: fill; complete
+    zh: 填满；补足
+    examples:
+      - supplement
+      - supplementary
+      - supplementation
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - plement -> supplement
+  - plement -> supplementary
+  - plement -> supplementation
+high_value_words:
+  - supplement
+  - supplementary
+  - supplementation
+confusable_words:
+  []

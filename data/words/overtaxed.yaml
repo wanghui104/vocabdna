@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: overtaxed
+word: overtaxed
+pos: adjective
+zh: 课税过重的，负担过重的
+en: Means 课税过重的，负担过重的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: over
+    form: over-
+    meaning_in_word: above; too much / 在上；过度
+    zh: 超过；过度
+    role: prefix
+    is_core: false
+  - morpheme: tax
+    form: tax
+    meaning_in_word: tax; burden / 税；负担
+    zh: 税；负担
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having; past participle / 已…的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - overtax
+word_family_details:
+  - word: overtax
+    en: Means 课税过重; reviewed from the TOEFL source gloss for learner display.
+    zh: 课税过重
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

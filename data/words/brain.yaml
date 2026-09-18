@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brain
+word: brain
+pos: noun
+zh: 脑；大脑；头脑；智力
+en: the organ in the head used for thought, or intelligence
+components:
+  - morpheme: brain
+    form: brain
+    meaning_in_word: brain
+    zh: 脑；智力
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: brainstorm/brainchild 等后续可接这个 root。

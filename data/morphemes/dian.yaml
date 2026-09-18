@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dian
+display: dian
+type: root
+core_meaning: dian
+zh: dian
+origin: English
+source_form: English dian
+source_meaning: dian
+source_meaning_zh: dian
+related_morphemes:
+  []
+senses:
+  - meaning: dian
+    zh: dian
+    examples:
+      - meridian
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - dian -> meridian
+high_value_words:
+  - meridian
+confusable_words:
+  []

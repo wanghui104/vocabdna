@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eligible
+word: eligible
+pos: adjective
+zh: 合格的；有资格的
+en: meeting the conditions required to be chosen or to receive something
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: leg-choose
+    form: lig
+    meaning_in_word: choose, gather, value / 选择；重视
+    zh: 选择；重视
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -ible
+    meaning_in_word: able to be / 能够被……的
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+    note: English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

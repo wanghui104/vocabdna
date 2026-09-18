@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fittingly
+word: fittingly
+pos: adverb
+zh: 恰当地；合宜地
+en: in a suitable or appropriate way
+components:
+  - morpheme: fit
+    form: fitt
+    meaning_in_word: suitable, in good condition / 合适；健康
+    zh: 合适；健康
+    role: root
+    is_core: true
+    note: 形容词 fit 更深来源未定；fitness = fit + -ness，fittingly 双写 t 后加 -ing + -ly。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of / 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - fit
+  - fitness
+  - fitting
+word_family_details:
+  - word: fit
+    en: suitable or physically healthy
+    zh: 合适的；健康的
+  - word: fitness
+    en: physical health and strength
+    zh: 健康；体能
+  - word: fitting
+    en: appropriate or suitable
+    zh: 合适的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

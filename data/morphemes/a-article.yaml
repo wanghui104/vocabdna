@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: a-article
+display: a
+type: connector
+core_meaning: one; indefinite article
+zh: 一个；不定冠词
+origin: Old English
+source_form: Old English an
+source_meaning: one; indefinite article
+source_meaning_zh: 一个；不定冠词
+source_note: 短语中的独立冠词 a，不是前缀 a-。
+related_morphemes:
+  []
+senses:
+  - meaning: one; indefinite article
+    zh: 一个；不定冠词
+    examples:
+      - a cushion of
+      - a good deal
+      - a great deal
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - a -> a cushion of
+  - a -> a good deal
+  - a -> a great deal
+high_value_words:
+  - a cushion of
+  - a good deal
+  - a great deal
+confusable_words:
+  []

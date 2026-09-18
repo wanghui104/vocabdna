@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: provincialism
+word: provincialism
+pos: noun
+zh: 地方主义，心胸狭窄
+en: Means 地方主义，心胸狭窄; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: provinc
+    form: provinc
+    meaning_in_word: province / 省；地方
+    zh: 省；地方
+    role: root
+    is_core: true
+  - morpheme: ial
+    form: ial
+    meaning_in_word: ial / ial
+    zh: 有关……的
+    role: root
+    is_core: true
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: practice; doctrine / 行为；主义
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

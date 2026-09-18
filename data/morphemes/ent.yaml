@@ -2,38 +2,297 @@
 id: ent
 display: -ent
 type: suffix
-core_meaning: one who, that which, having the quality of
-zh: ……的人；具有……性质的
+core_meaning: having quality
+zh: 具有…性质
 origin: Latin
-source_form: Latin -ens / -ent-
-source_meaning: one who, having the quality of
-source_meaning_zh: ……的人；具有……性质的
+source_form: ent
+source_meaning: having quality
+source_meaning_zh: 具有…性质
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
 related_morphemes:
   []
 senses:
-  - meaning: one who, that which, having the quality of
-    zh: ……的人；具有……性质的
+  - meaning: having quality
+    zh: 具有…性质
     examples:
-      - recipient
       - abundant
       - abundantly
       - accidental
       - accountant
+      - adolescent
+      - affluent
+      - agenda
+      - alien
+      - ambivalent
+      - applicant
+      - ardent
+      - coincident
+      - concurrent
+      - contingent
+      - contingently
+      - credentials
+      - current
+      - currently
+      - decadent
+      - decent
+      - deferential
+      - deficient
+      - dependent
+      - detergent
+      - deterrent
+      - different
+      - differentiate
+      - diligent
+      - diligently
+      - divergent
+      - efficient
+      - effluent
+      - eloquent
+      - eminent
+      - equivalent
+      - evident
+      - excellent
+      - exponent
+      - exponential
+      - fervent
+      - fervently
+      - flamboyant
+      - fluent
+      - fluently
+      - fluorescent
+      - fragrant
+      - gallant
+      - gallantly
+      - gallantry
+      - incandescent
+      - incident
+      - incidentally
+      - independent
+      - indifferent
+      - influential
+      - inherent
+      - innocent
+      - intelligent
+      - interdependent
+      - intermittent
+      - irreverent
+      - latent
+      - magnificent
+      - negligent
+      - nutrient
+      - opponent
+      - patent
+      - permanent
+      - persistent
+      - pertinent
+      - pestilential
+      - potent
+      - preeminent
+      - prevalent
+      - prominent
+      - pungent
+      - quiescent
+      - resident
+      - residential
+      - reverently
+      - rodent
+      - sedentary
+      - stringent
+      - subsequent
+      - subsequently
+      - translucent
+      - transparent
+      - undifferentiated
+      - unprecedented
+      - urgent
+      - violent
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - -ient -> recipient
   - -ant -> abundant
   - -ant -> abundantly
   - -ent -> accidental
   - -ant -> accountant
+  - -ent -> adolescent
+  - -ent -> affluent
+  - -enda -> agenda
+  - -en -> alien
+  - -ent -> ambivalent
+  - -ant -> applicant
+  - -ent -> ardent
+  - -ent -> coincident
+  - -ent -> concurrent
+  - -ent -> contingent
+  - -ent -> contingently
+  - -ent -> credentials
+  - -ent -> current
+  - -ent -> currently
+  - -ent -> decadent
+  - -ent -> decent
+  - -ent -> deferential
+  - -ent -> deficient
+  - -ent -> dependent
+  - -ent -> detergent
+  - -ent -> deterrent
+  - -ent -> different
+  - -ent -> differentiate
+  - -ent -> diligent
+  - -ent -> diligently
+  - -ent -> divergent
+  - -ient -> efficient
+  - -ent -> effluent
+  - -ent -> eloquent
+  - -ent -> eminent
+  - -ent -> equivalent
+  - -ent -> evident
+  - -ent -> excellent
+  - -ent -> exponent
+  - -ent -> exponential
+  - -ent -> fervent
+  - -ent -> fervently
+  - -ant -> flamboyant
+  - -ent -> fluent
+  - -ent -> fluently
+  - -ent -> fluorescent
+  - -ant -> fragrant
+  - -ant -> gallant
+  - -ant -> gallantly
+  - -ant -> gallantry
+  - -ent -> incandescent
+  - -ent -> incident
+  - -ent -> incidentally
+  - -ent -> independent
+  - -ent -> indifferent
+  - -ent -> influential
+  - -ent -> inherent
+  - -ent -> innocent
+  - -ent -> intelligent
+  - -ent -> interdependent
+  - -ent -> intermittent
+  - -ent -> irreverent
+  - -ent -> latent
+  - -ent -> magnificent
+  - -ent -> negligent
+  - -ent -> nutrient
+  - -ent -> opponent
+  - -ent -> patent
+  - -ent -> permanent
+  - -ent -> persistent
+  - -ent -> pertinent
+  - -ent -> pestilential
+  - -ent -> potent
+  - -ent -> preeminent
+  - -ent -> prevalent
+  - -ent -> prominent
+  - -ent -> pungent
+  - -ent -> quiescent
+  - -ent -> resident
+  - -ent -> residential
+  - -ent -> reverently
+  - -ent -> rodent
+  - -ent -> sedentary
+  - -ent -> stringent
+  - -ent -> subsequent
+  - -ent -> subsequently
+  - -ent -> translucent
+  - -ent -> transparent
+  - -ent -> undifferentiated
+  - -ent -> unprecedented
+  - -ent -> urgent
+  - -ent -> violent
 high_value_words:
-  - recipient
   - abundant
   - abundantly
   - accidental
   - accountant
+  - adolescent
+  - affluent
+  - agenda
+  - alien
+  - ambivalent
+  - applicant
+  - ardent
+  - coincident
+  - concurrent
+  - contingent
+  - contingently
+  - credentials
+  - current
+  - currently
+  - decadent
+  - decent
+  - deferential
+  - deficient
+  - dependent
+  - detergent
+  - deterrent
+  - different
+  - differentiate
+  - diligent
+  - diligently
+  - divergent
+  - efficient
+  - effluent
+  - eloquent
+  - eminent
+  - equivalent
+  - evident
+  - excellent
+  - exponent
+  - exponential
+  - fervent
+  - fervently
+  - flamboyant
+  - fluent
+  - fluently
+  - fluorescent
+  - fragrant
+  - gallant
+  - gallantly
+  - gallantry
+  - incandescent
+  - incident
+  - incidentally
+  - independent
+  - indifferent
+  - influential
+  - inherent
+  - innocent
+  - intelligent
+  - interdependent
+  - intermittent
+  - irreverent
+  - latent
+  - magnificent
+  - negligent
+  - nutrient
+  - opponent
+  - patent
+  - permanent
+  - persistent
+  - pertinent
+  - pestilential
+  - potent
+  - preeminent
+  - prevalent
+  - prominent
+  - pungent
+  - quiescent
+  - resident
+  - residential
+  - reverently
+  - rodent
+  - sedentary
+  - stringent
+  - subsequent
+  - subsequently
+  - translucent
+  - transparent
+  - undifferentiated
+  - unprecedented
+  - urgent
+  - violent
 confusable_words:
   []

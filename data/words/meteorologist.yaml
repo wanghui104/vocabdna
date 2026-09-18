@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: meteorologist
+word: meteorologist
+pos: noun
+zh: 气象学者
+en: Means 气象学者; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: meteor
+    form: meteor
+    meaning_in_word: 空中现象
+    zh: 空中现象
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:meteor.
+  - morpheme: log
+    form: log
+    meaning_in_word: 原木；记录
+    zh: 原木；记录
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:log.
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: 从事……的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ist.
+word_family:
+  - meteor
+  - meteorite
+  - meteorology
+word_family_details:
+  - word: meteor
+    en: Means 流星; reviewed from the TOEFL source gloss for learner display.
+    zh: 流星
+  - word: meteorite
+    en: Means 陨星，陨石; reviewed from the TOEFL source gloss for learner display.
+    zh: 陨星，陨石
+  - word: meteorology
+    en: Means 气象学; reviewed from the TOEFL source gloss for learner display.
+    zh: 气象学
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

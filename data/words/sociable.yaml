@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sociable
+word: sociable
+pos: adjective
+zh: 好交际的，友善的
+en: Means 好交际的，友善的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: soci
+    form: soci
+    meaning_in_word: companion; society / 伙伴；社会
+    zh: 伙伴；联合
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to; suitable for / 能够；适合
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - social-distinction
+word_family_details:
+  - word: social-distinction
+    en: Means 具有明显的社会身分或地位; reviewed from the TOEFL source gloss for learner display.
+    zh: 具有明显的社会身分或地位
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

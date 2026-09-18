@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: definite
+word: definite
+pos: adjective
+zh: 清楚的；明确的；确切的
+en: clear, fixed, certain, or precisely limited
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, remove / 向下；去除
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: fin
+    form: finite
+    meaning_in_word: border, limit, end / 边界；限制；终点
+    zh: 边界；限制；终点
+    role: root
+    is_core: true
+    note: fin-/finit- 来自 Latin finis 边界 → finire 限定 → finitus 已限定。definite = de- + finite；finite 内的 -it- 为拉丁分词词干层，不是 -ive 后缀。definition = de- + finit- + -ion。
+word_family:
+  - definitely
+  - definitive
+  - definition
+word_family_details:
+  - word: definitely
+    en: certainly, clearly, or without doubt
+    zh: 明确地；肯定地
+  - word: definitive
+    en: final, conclusive, or providing an authoritative answer
+    zh: 决定性的；最后的；权威的
+  - word: definition
+    en: a statement of the meaning of a word or the exact nature of something
+    zh: 定义
+confusables:
+  []
+examples:
+  []
+why_confusing: definite 是明确的；definitive 更强调最终权威。

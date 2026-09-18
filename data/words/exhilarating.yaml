@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exhilarating
+word: exhilarating
+pos: adjective
+zh: 使人兴奋的；令人振奋的
+en: making someone feel very happy, lively, or excited
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out or thoroughly (intensive here) / 加强；彻底
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: hilar
+    form: hilar
+    meaning_in_word: cheerful / 欢快
+    zh: 欢快
+    role: root
+    is_core: true
+    note: exhilarate = ex- 加强 + hilar- 欢快 + -ate。
+  - morpheme: ate
+    form: -at
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - exhilarate
+  - exhilaration
+word_family_details:
+  - word: exhilarate
+    en: to make someone feel very happy and energetic
+    zh: 使振奋；使兴奋
+  - word: exhilaration
+    en: a feeling of great happiness and energy
+    zh: 兴奋；振奋
+confusables:
+  []
+examples:
+  []
+why_confusing: 

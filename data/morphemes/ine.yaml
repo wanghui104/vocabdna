@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ine
+display: -ine
+type: suffix
+core_meaning: of, like, made of
+zh: 属于；像；由……组成
+origin: Latin / Greek
+source_form: Latin -inus; Greek -inos
+source_meaning: of, like, made of
+source_meaning_zh: 属于；像；由……组成
+source_note: 形容词后缀；不与 -al 混为同一来源。
+related_morphemes:
+  []
+senses:
+  - meaning: of, like, made of
+    zh: 属于；像；由……组成
+    examples:
+      - aquamarine
+      - crystalline
+      - doctrine
+      - gasoline
+      - genuine
+      - marine
+      - saline
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - -ine -> aquamarine
+  - -ine -> crystalline
+  - -ine -> doctrine
+  - -ine -> gasoline
+  - -ine -> genuine
+  - -ine -> marine
+  - ine -> saline
+high_value_words:
+  - aquamarine
+  - crystalline
+  - doctrine
+  - gasoline
+  - genuine
+  - marine
+  - saline
+confusable_words:
+  []

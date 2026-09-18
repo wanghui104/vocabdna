@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: evaluate
+word: evaluate
+pos: verb
+zh: 评价；评估
+en: to assess the quality, value, or significance of something
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: val
+    form: valu
+    meaning_in_word: be strong, be worth / 强；有价值
+    zh: 强；有价值
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - evaluation
+word_family_details:
+  - word: evaluation
+    en: an assessment of value, quality, or significance
+    zh: 评价；评估
+confusables:
+  []
+examples:
+  []
+why_confusing: 

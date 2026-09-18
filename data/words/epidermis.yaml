@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: epidermis
+word: epidermis
+pos: noun
+zh: 表皮
+en: the outermost layer of skin, or the outer covering of a plant
+components:
+  - morpheme: epi
+    form: epi-
+    meaning_in_word: on, upon, in addition / 在上；另外
+    zh: 在上；另外
+    role: prefix
+    is_core: false
+    note: ep- 为元音前变体；ephemeral 中 ph 跨边界反映历史送气变化。
+  - morpheme: derm
+    form: dermis
+    meaning_in_word: skin / 皮肤
+    zh: 皮肤
+    role: root
+    is_core: true
+    note: derma 为皮肤名词，-ma 结果层历史关联剥皮；epidermis 中 dermis 是希腊名词构词形，-is 非英语复数。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

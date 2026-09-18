@@ -1,0 +1,60 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: of
+display: of
+type: root
+core_meaning: of, from
+zh: 属于；关于
+origin: Old English
+source_form: Old English of
+source_meaning: from, of
+source_meaning_zh: 从；属于
+related_morphemes:
+  []
+senses:
+  - meaning: of, from
+    zh: 属于；关于
+    examples:
+      - a cushion of
+      - a range of
+      - be composed of
+      - by a factor of
+      - code of laws
+      - dispose of
+      - in terms of
+      - liable of
+      - mistrustful of
+      - of scale
+      - regardless of
+      - stand in the way of
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - of -> a cushion of
+  - of -> a range of
+  - of -> be composed of
+  - of -> by a factor of
+  - of -> code of laws
+  - of -> dispose of
+  - of -> in terms of
+  - of -> liable of
+  - of -> mistrustful of
+  - of -> of scale
+  - of -> regardless of
+  - of -> stand in the way of
+high_value_words:
+  - a cushion of
+  - a range of
+  - be composed of
+  - by a factor of
+  - code of laws
+  - dispose of
+  - in terms of
+  - liable of
+  - mistrustful of
+  - of scale
+  - regardless of
+  - stand in the way of
+confusable_words:
+  []

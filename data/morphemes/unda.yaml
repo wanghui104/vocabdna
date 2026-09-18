@@ -16,10 +16,9 @@ senses:
     zh: 波浪、水波
     examples:
       - abound
+      - abundance
       - abundant
       - abundantly
-      - abundance
-      - inundate
       - inundation
       - undulate
       - undulation
@@ -29,19 +28,17 @@ similar_meaning:
   []
 patterns:
   - unda -> abound
+  - unda -> abundance
   - unda -> abundant
   - unda -> abundantly
-  - unda -> abundance
-  - unda -> inundate
   - unda -> inundation
   - und -> undulate
   - und -> undulation
 high_value_words:
   - abound
+  - abundance
   - abundant
   - abundantly
-  - abundance
-  - inundate
   - inundation
   - undulate
   - undulation

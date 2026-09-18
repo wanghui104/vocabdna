@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: enlightenment
+word: enlightenment
+pos: noun
+zh: 启迪；开悟
+en: the gaining of understanding or spiritual insight
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: light
+    form: light
+    meaning_in_word: light, illumination / 光；照明
+    zh: 光；照明
+    role: root
+    is_core: true
+    note: 开头 en- 为法语/拉丁来源的使进入；中间 -en 为英语使变得后缀；light 为光，-ment 名词化。
+  - morpheme: en
+    form: -en
+    meaning_in_word: make, become / 使成为；变得
+    zh: 使成为；变得
+    role: suffix
+    is_core: false
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: result, state / 结果；状态
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - enlighten
+word_family_details:
+  - word: enlighten
+    en: to give clearer understanding
+    zh: 启迪
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: lunar
+word: lunar
+pos: adjective
+zh: 月的
+en: Means 月的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: lun
+    form: lun
+    meaning_in_word: 月
+    zh: 月
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lun.
+  - morpheme: ar
+    form: -ar
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ar.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

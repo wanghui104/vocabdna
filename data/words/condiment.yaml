@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: condiment
+word: condiment
+pos: noun
+zh: 调味品
+en: a substance such as salt, mustard, or sauce added to food for flavor
+components:
+  - morpheme: condi
+    form: condi
+    meaning_in_word: season
+    zh: 调味
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: thing/result
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: condiment 是调味品，不是 condimented food。

@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: predominant
+word: predominant
+pos: adjective
+zh: 支配的，主要的
+en: Means 支配的，主要的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pre
+    form: pre-
+    meaning_in_word: before / 在前
+    zh: 预先、在前
+    role: prefix
+    is_core: false
+  - morpheme: domin
+    form: domin
+    meaning_in_word: rule; master / 统治；主导
+    zh: 主人；统治
+    role: root
+    is_core: true
+    related_morphemes:
+      - domus
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: person/thing doing / 做…者/物
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - predominate
+  - predominantly
+word_family_details:
+  - word: predominate
+    en: Means 统治，成为主流; reviewed from the TOEFL source gloss for learner display.
+    zh: 统治，成为主流
+  - word: predominantly
+    en: Means 主要地; reviewed from the TOEFL source gloss for learner display.
+    zh: 主要地
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

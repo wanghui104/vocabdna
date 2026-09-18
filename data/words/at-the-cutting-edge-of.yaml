@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: at-the-cutting-edge-of
+word: at the cutting edge of
+pos: phrase
+zh: 处于前沿；处在最先进的位置
+en: at the most advanced or important position in a field
+components:
+  - morpheme: at-word
+    form: at
+    meaning_in_word: at a point
+    zh: 在；靠近；朝向
+    role: root
+    is_core: true
+  - morpheme: cut
+    form: cutting
+    meaning_in_word: sharp, cutting
+    zh: 切割；锋利分界
+    role: root
+    is_core: true
+  - morpheme: edge
+    form: edge
+    meaning_in_word: front edge
+    zh: 边缘；前沿
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

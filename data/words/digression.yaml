@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: digression
+word: digression
+pos: noun
+zh: 离题；枝节话
+en: a temporary movement away from the main subject
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: away
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: grad-gress
+    form: gress
+    meaning_in_word: step, go
+    zh: 迈步；前进
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: act
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - digress
+word_family_details:
+  - word: digress
+    en: to move away from the main subject
+    zh: 离题
+confusables:
+  []
+examples:
+  []
+why_confusing: digression 是离题，不是 regression 倒退。

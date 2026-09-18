@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: encourage
+word: encourage
+pos: verb
+zh: 鼓励；促进
+en: to give support, confidence, or hope; to promote
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: courage
+    form: courage
+    meaning_in_word: heart, courage / 心；勇气
+    zh: 心；勇气
+    role: root
+    is_core: true
+    note: 表层 courage/courag- 勇气；Old French corage ← cor 心 + -age 状态。discourage = dis- + courage；discouraging 去末尾 e 后加 -ing。
+    related_morphemes:
+      - cord
+      - age
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

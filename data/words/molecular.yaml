@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: molecular
+word: molecular
+pos: adjective
+zh: 分子的
+en: Means 分子的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: molecul
+    form: molecul
+    meaning_in_word: 小块；分子
+    zh: 小块；分子
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:molecul.
+  - morpheme: ar
+    form: -ar
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ar.
+word_family:
+  - molecule
+word_family_details:
+  - word: molecule
+    en: Means 分子; reviewed from the TOEFL source gloss for learner display.
+    zh: 分子
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

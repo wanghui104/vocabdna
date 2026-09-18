@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: capacity
+word: capacity
+pos: noun
+zh: 容量；能力
+en: the amount something can hold, or the ability to do something
+components:
+  - morpheme: cap
+    form: capac
+    meaning_in_word: able to hold
+    zh: 拿；抓；容纳
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: capacity for work/volume/production 含义随搭配变化。

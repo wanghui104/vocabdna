@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deadly
+word: deadly
+pos: adjective
+zh: 致命的；极度的
+en: able to cause death, or extremely serious or effective
+components:
+  - morpheme: dead
+    form: dead
+    meaning_in_word: dead, fatal
+    zh: 死亡；致命
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: having the quality of
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: deadly serious 表示极其严肃。

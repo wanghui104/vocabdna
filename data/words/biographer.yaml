@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: biographer
+word: biographer
+pos: noun
+zh: 传记作家
+en: a person who writes biographies
+components:
+  - morpheme: bio
+    form: bio-
+    meaning_in_word: life
+    zh: 生命
+    role: combining_form
+    is_core: true
+  - morpheme: graph
+    form: graph
+    meaning_in_word: write
+    zh: 写、记录
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - biography
+word_family_details:
+  - word: biography
+    en: the story of a person's life written by someone else
+    zh: 传记
+confusables:
+  []
+examples:
+  []
+why_confusing: biographer 写 biography，不是 autobiography。

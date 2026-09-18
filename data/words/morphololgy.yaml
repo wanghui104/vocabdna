@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: morphololgy
+word: morphololgy
+pos: noun
+zh: 形态学，形态论
+en: Means 形态学，形态论; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: morph
+    form: morph
+    meaning_in_word: 形态
+    zh: 形态
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:morph.
+  - morpheme: log
+    form: log
+    meaning_in_word: 原木；记录
+    zh: 原木；记录
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:log.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:y.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

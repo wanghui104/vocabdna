@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prototypical
+word: prototypical
+pos: adjective
+zh: 原型的
+en: Means 原型的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: proto
+    form: proto-
+    meaning_in_word: first; original / 最初；原型
+    zh: 原始；第一
+    role: prefix
+    is_core: false
+  - morpheme: type
+    form: type
+    meaning_in_word: type; model / 类型；典型
+    zh: 模型；类型
+    role: root
+    is_core: true
+  - morpheme: ical
+    form: -ical
+    meaning_in_word: relating to / 与…有关
+    zh: 有关……的
+    role: suffix
+    is_core: false
+word_family:
+  - typical
+  - typify
+word_family_details:
+  - word: typical
+    en: Means 典型的；有代表性的; reviewed from the TOEFL source gloss for learner display.
+    zh: 典型的；有代表性的
+  - word: typify
+    en: Means 代表，为…之典型; reviewed from the TOEFL source gloss for learner display.
+    zh: 代表，为…之典型
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

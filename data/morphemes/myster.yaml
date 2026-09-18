@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: myster
+display: myster
+type: root
+core_meaning: secret rite
+zh: 神秘
+origin: Greek
+source_form: Greek mysterion
+source_meaning: secret rite
+source_meaning_zh: 神秘
+related_morphemes:
+  []
+senses:
+  - meaning: secret rite
+    zh: 神秘
+    examples:
+      - mysterious
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - myster -> mysterious
+high_value_words:
+  - mysterious
+confusable_words:
+  []

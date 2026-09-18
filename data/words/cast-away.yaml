@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cast-away
+word: cast away
+pos: phrase
+zh: 使失事；使漂流；抛弃
+en: to abandon or leave someone stranded, especially after shipwreck
+components:
+  - morpheme: cast
+    form: cast
+    meaning_in_word: throw
+    zh: 投；铸造；传播
+    role: root
+    is_core: true
+  - morpheme: away
+    form: away
+    meaning_in_word: away
+    zh: 离开；漂流
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: castaway 是漂流者/被抛弃者。

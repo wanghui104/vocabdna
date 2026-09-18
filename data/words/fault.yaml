@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fault
+word: fault
+pos: noun/verb
+zh: 缺点；过错；地质断层
+en: a defect or responsibility for a mistake; a fracture in rock with displacement
+components:
+  - morpheme: fault
+    form: fault
+    meaning_in_word: failure, deceive / 失误；欺骗
+    zh: 失误；欺骗
+    role: root
+    is_core: true
+    note: fault 来自法语名词及 Latin fallere 相关分词，l 为后来的复古拼写；不是英语 fall 掉落。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

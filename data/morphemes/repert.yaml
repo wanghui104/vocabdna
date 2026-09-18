@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: repert
+display: repert
+type: root
+core_meaning: found; repertoire
+zh: 发现；剧目储备
+origin: teaching morphology
+source_form: repert
+source_meaning: found; repertoire
+source_meaning_zh: 发现；剧目储备
+related_morphemes:
+  []
+senses:
+  - meaning: found; repertoire
+    zh: 发现；剧目储备
+    examples:
+      - repertory
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - repert -> repertory
+high_value_words:
+  - repertory
+confusable_words:
+  []

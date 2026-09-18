@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: instinct
+word: instinct
+pos: noun
+zh: 本能，直觉
+en: Means 本能，直觉; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: stinct
+    form: stinct
+    meaning_in_word: 刺激；本能
+    zh: 刺激；本能
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:stinct.
+word_family:
+  - instinctive
+  - instinctively
+word_family_details:
+  - word: instinctive
+    en: Means 天生的，本能的; reviewed from the TOEFL source gloss for learner display.
+    zh: 天生的，本能的
+  - word: instinctively
+    en: Means 本能地；凭直觉地; reviewed from the TOEFL source gloss for learner display.
+    zh: 本能地；凭直觉地
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

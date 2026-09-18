@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: artifactual
+word: artifactual
+pos: adjective
+zh: 人工制品的；文物的；伪象性的
+en: relating to human-made objects, or caused by the process of observation or measurement
+components:
+  - morpheme: art
+    form: arti
+    meaning_in_word: skill, craft / 技艺
+    zh: 技艺、技巧
+    role: root
+    is_core: true
+    note: arti- 是 art- 的复合词形式；i 是构词连接元音，无独立词义。
+  - morpheme: fac
+    form: fact
+    meaning_in_word: make, do / 做、制造
+    zh: 做、制造
+    role: root
+    is_core: true
+    note: 对应 Latin factum / factus（做成的东西／被做成的），来自 facere。
+  - morpheme: al
+    form: -ual
+    meaning_in_word: relating to / 与……有关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: artifact / artefact + -ual；复用 -al 词缀下的 -ual 变体。
+word_family:
+  - artifact
+  - artefact
+  - artefactual
+word_family_details:
+  - word: artifact
+    en: a human-made object, often from the past; a cultural product; or an effect introduced by observation or processing
+    zh: 人工制品；文物；文化产物；（实验、图像等的）伪象
+  - word: artefact
+    en: a human-made object, often from the past; a cultural product; or an effect introduced by observation or processing
+    zh: 人工制品；文物；文化产物；（实验、图像等的）伪象
+  - word: artefactual
+    en: relating to human-made objects, or caused by the process of observation or measurement
+    zh: 人工制品的；文物的；伪象性的
+confusables:
+  []
+examples:
+  - en: The apparent difference proved to be artifactual.
+    zh: 表面上的差异后来被证实是测量过程造成的伪象。
+  - en: The report compares artifactual evidence from two settlements.
+    zh: 报告比较了两个聚落的人工遗物证据。
+why_confusing: artifactual / artefactual 是美式、英式常见对应拼写。在科研语境中不等于人为造假；artificial 的含义更宽泛。

@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dive
+display: dive
+type: root
+core_meaning: plunge, submerge
+zh: 潜入；浸入
+origin: Old English
+source_form: Old English dufan, dyfan
+source_meaning: plunge, submerge
+source_meaning_zh: 潜入；浸入
+source_note: 由古英语两个相关动词合流而来；现代 dive 保留整体，diver 为 div- + -er，勿误连拉丁分开前缀。
+related_morphemes:
+  []
+senses:
+  - meaning: plunge, submerge
+    zh: 潜入；浸入
+    examples:
+      - dive
+      - diver
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - dive -> dive
+  - div -> diver
+high_value_words:
+  - dive
+  - diver
+confusable_words:
+  []

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: endure
+word: endure
+pos: verb
+zh: 忍受
+en: to suffer patiently
+components:
+  - morpheme: in
+    form: en-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: dur
+    form: dure
+    meaning_in_word: hard, last / 坚硬；持续
+    zh: 坚硬；持续
+    role: root
+    is_core: true
+    note: durare 从变硬发展到持久；endure 的 en- 为历史加强，非单纯方位。
+word_family:
+  - enduring
+  - endurance
+word_family_details:
+  - word: enduring
+    en: lasting for a long time
+    zh: 持久的
+  - word: endurance
+    en: the ability to withstand hardship or continue over time
+    zh: 忍耐力；耐力
+confusables:
+  []
+examples:
+  []
+why_confusing: 

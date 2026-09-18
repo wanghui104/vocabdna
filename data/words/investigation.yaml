@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: investigation
+word: investigation
+pos: noun
+zh: 调查
+en: Means 调查; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: vestig
+    form: vestig
+    meaning_in_word: 追踪；调查
+    zh: 追踪；调查
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:vestig.
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: 动作；过程
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ation.
+word_family:
+  - investigate
+word_family_details:
+  - word: investigate
+    en: Means 调查，研究; reviewed from the TOEFL source gloss for learner display.
+    zh: 调查，研究
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

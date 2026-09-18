@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adjustment
+word: adjustment
+pos: noun
+zh: 调整
+en: a small change made so something fits or works better
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: toward
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: juxta
+    form: just
+    meaning_in_word: near, fit
+    zh: 靠近；相邻
+    role: root
+    is_core: true
+  - morpheme: ment
+    form: -ment
+    meaning_in_word: act or result
+    zh: 结果；状态
+    role: suffix
+    is_core: false
+word_family:
+  - adjust
+word_family_details:
+  - word: adjust
+    en: to change something slightly so it works better or fits a situation
+    zh: 调整；使适于
+confusables:
+  []
+examples:
+  - en: A minor adjustment improved the results.
+    zh: 一次小调整改善了结果。
+why_confusing: 可数时指一次具体调整；不可数时可指适应过程。

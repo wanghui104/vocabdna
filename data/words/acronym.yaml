@@ -22,9 +22,7 @@ word_family:
 word_family_details:
   []
 confusables:
-  - word: initialism
-    reason: acronym 常可读成词；initialism 通常逐字母读。
-    zh_reason: acronym 常可读成词；initialism 通常逐字母读。
+  []
 examples:
   - en: NASA is a famous acronym.
     zh: NASA 是一个著名的首字母缩写词。

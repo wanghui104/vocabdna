@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: excellent
+word: excellent
+pos: adjective
+zh: 极好的；优秀的
+en: extremely good
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: cell-rise
+    form: cell
+    meaning_in_word: rise, project / 升起；突出
+    zh: 升起；突出
+    role: root
+    is_core: true
+    note: excel = ex- + cel-，excellent 保留双 l 的 cell- + -ent；不同于 celare 隐藏或 cella 小室。
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: one who, that which, having the quality of / ……的人；具有……性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - excel
+  - excellence
+word_family_details:
+  - word: excel
+    en: to perform very well or surpass others
+    zh: 擅长；胜过
+  - word: excellence
+    en: outstanding quality
+    zh: 优秀；卓越
+confusables:
+  []
+examples:
+  []
+why_confusing: 

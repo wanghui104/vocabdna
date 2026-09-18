@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intense
+word: intense
+pos: adjective
+zh: 强烈的，剧烈的
+en: Means 强烈的，剧烈的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: in; not / 在内；不
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+  - morpheme: tense
+    form: tense
+    meaning_in_word: stretch; tense / 拉紧；紧张
+    zh: 拉紧；紧张
+    role: root
+    is_core: true
+word_family:
+  - intensify
+  - intensive
+  - tense
+word_family_details:
+  - word: intensify
+    en: Means 加强；扩大; reviewed from the TOEFL source gloss for learner display.
+    zh: 加强；扩大
+  - word: intensive
+    en: Means 加强的；集中的，密集的; reviewed from the TOEFL source gloss for learner display.
+    zh: 加强的；集中的，密集的
+  - word: tense
+    en: Means 紧张的，拉紧的; reviewed from the TOEFL source gloss for learner display.
+    zh: 紧张的，拉紧的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

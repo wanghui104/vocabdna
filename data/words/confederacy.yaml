@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: confederacy
+word: confederacy
+pos: noun
+zh: 联盟；同盟
+en: a union or alliance of people, groups, or states
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: fed
+    form: feder
+    meaning_in_word: treaty, league
+    zh: 联盟；同盟
+    role: root
+    is_core: true
+  - morpheme: y
+    form: -acy
+    meaning_in_word: state
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+word_family:
+  - confederate
+word_family_details:
+  - word: confederate
+    en: a person, group, or state joined in an alliance
+    zh: 同盟者；盟友；联盟的
+confusables:
+  []
+examples:
+  []
+why_confusing: Confederacy 大写时常指美国南部邦联。

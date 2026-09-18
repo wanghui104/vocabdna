@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: burgeon
+word: burgeon
+pos: verb
+zh: 迅速成长；发展
+en: to grow or develop quickly
+components:
+  - morpheme: burgeon
+    form: burgeon
+    meaning_in_word: bud, sprout
+    zh: 迅速成长
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: burgeoning industry/population 常见。

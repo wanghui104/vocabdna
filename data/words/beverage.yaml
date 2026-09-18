@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: beverage
+word: beverage
+pos: noun
+zh: 饮料
+en: a drink, especially one other than water
+components:
+  - morpheme: beverage
+    form: beverage
+    meaning_in_word: drink
+    zh: 饮料
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 比 drink 更正式，常见 food and beverage。

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: approaching
+word: approaching
+pos: adjective
+zh: 接近的；逼近的
+en: coming nearer in time, place, or amount
+components:
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: proxim
+    form: proach
+    meaning_in_word: near
+    zh: 接近
+    role: root
+    is_core: true
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - approach
+word_family_details:
+  - word: approach
+    en: a way of dealing with something
+    zh: 方法；途径
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

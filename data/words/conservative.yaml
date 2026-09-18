@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conservative
+word: conservative
+pos: adjective/noun
+zh: 保守的；谨慎的；守旧者
+en: cautious about change or favoring traditional values
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together/intensive
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: serv
+    form: serv
+    meaning_in_word: keep
+    zh: 保存；保护
+    role: root
+    is_core: true
+  - morpheme: ive
+    form: -ative
+    meaning_in_word: having tendency
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+word_family:
+  - conserve
+  - conservation
+  - conservationist
+  - conservatism
+word_family_details:
+  - word: conserve
+    en: to protect from loss or waste; also a preserved food
+    zh: 保存；保护；节约；蜜饯
+  - word: conservation
+    en: the protection and careful use of natural resources or things of value
+    zh: 保存；保护；保持
+  - word: conservationist
+    en: a person who works to protect nature or resources
+    zh: 自然资源保护者；保护主义者
+  - word: conservatism
+    en: a political or social tendency to preserve tradition and limit change
+    zh: 保守主义；守旧性
+confusables:
+  []
+examples:
+  []
+why_confusing: political conservative 和 conservative estimate 含义不同。

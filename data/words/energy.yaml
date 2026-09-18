@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: energy
+word: energy
+pos: noun
+zh: 能量；精力
+en: the capacity to do work; vigor
+components:
+  - morpheme: en-greek
+    form: en-
+    meaning_in_word: in, within / 在内
+    zh: 在内
+    role: prefix
+    is_core: false
+    note: 希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。
+  - morpheme: erg-work
+    form: erg
+    meaning_in_word: work / 工作；作用
+    zh: 工作；作用
+    role: root
+    is_core: true
+    note: energy 来自 en- 在、处于 + ergon 工作；与 Latin erg-reg 举起分开。
+  - morpheme: y-noun
+    form: -y
+    meaning_in_word: state, activity, result / 状态；活动；结果
+    zh: 状态；活动；结果
+    role: suffix
+    is_core: false
+    note: 名词 -y 与形容词 -y（古英语 -ig）分开。
+word_family:
+  - energetic
+word_family_details:
+  - word: energetic
+    en: full of energy and activity
+    zh: 精力充沛的；积极的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

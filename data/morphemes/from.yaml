@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: from
+display: from
+type: root
+core_meaning: from, source
+zh: 从；来源
+origin: Old English
+source_form: Old English fram / from
+source_meaning: from, away
+source_meaning_zh: 从；离开
+related_morphemes:
+  []
+senses:
+  - meaning: from, source
+    zh: 从；来源
+    examples:
+      - derive from
+      - draw from
+      - from afar
+      - range from…to…
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - from -> derive from
+  - from -> draw from
+  - from -> from afar
+  - from -> range from…to…
+high_value_words:
+  - derive from
+  - draw from
+  - from afar
+  - range from…to…
+confusable_words:
+  []

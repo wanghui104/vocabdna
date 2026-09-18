@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: congregate
+word: congregate
+pos: verb
+zh: 聚集
+en: to gather together in a group
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: greg
+    form: greg
+    meaning_in_word: flock, group
+    zh: 群；聚集
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: act
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: people congregate in/around a place.

@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: emphasize
+word: emphasize
+pos: verb
+zh: 强调
+en: to give special importance or stress to
+components:
+  - morpheme: en-greek
+    form: em-
+    meaning_in_word: in, within / 在内
+    zh: 在内
+    role: prefix
+    is_core: false
+    note: 希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。
+  - morpheme: phas
+    form: phas
+    meaning_in_word: show, make visible / 显示；显现
+    zh: 显示；显现
+    role: root
+    is_core: true
+    note: emphasis 深层 em-/en- 在内 + phainein 显示 + -sis 动作名词；emphasize 去除 -is 后加 -ize。
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make or do / 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - emphasis
+word_family_details:
+  - word: emphasis
+    en: special importance or force given to something
+    zh: 强调；重点
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bustle
+display: bustle
+type: root
+core_meaning: bustle
+zh: 喧闹；忙碌
+origin: Unknown
+source_form: English bustle
+source_meaning: move busily, noisy activity
+source_meaning_zh: 忙乱；喧闹
+related_morphemes:
+  []
+senses:
+  - meaning: bustle
+    zh: 喧闹；忙碌
+    examples:
+      - bustle
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bustle -> bustle
+high_value_words:
+  - bustle
+confusable_words:
+  []

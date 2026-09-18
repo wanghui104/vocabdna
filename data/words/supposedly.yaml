@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: supposedly
+word: supposedly
+pos: adverb/verb
+zh: 按说，应该i
+en: Means 按说，应该i; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sub
+    form: sub-
+    meaning_in_word: under; below / 下；亚
+    zh: 在下、靠近、从属
+    role: prefix
+    is_core: false
+  - morpheme: pose
+    form: pose
+    meaning_in_word: put; place / 放置；假设
+    zh: 放置；姿态
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past participle; affected by / 过去分词；受…的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner / 以…方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - suppose
+word_family_details:
+  - word: suppose
+    en: Means 推想，假设; reviewed from the TOEFL source gloss for learner display.
+    zh: 推想，假设
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

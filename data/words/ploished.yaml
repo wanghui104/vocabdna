@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ploished
+word: ploished
+pos: adjective
+zh: 擦亮的
+en: Means 擦亮的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: polish
+    form: polish
+    meaning_in_word: polish; smooth / 擦亮
+    zh: 擦亮
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having; past participle / 已…的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - polish
+word_family_details:
+  - word: polish
+    en: Means 擦亮；光泽；上光剂; reviewed from the TOEFL source gloss for learner display.
+    zh: 擦亮；光泽；上光剂
+confusables:
+  []
+examples:
+  []
+why_confusing: 源表拼写为 `ploished`，疑为 polished；按源表 slug 保留，并用 polish + -ed 解释。

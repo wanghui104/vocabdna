@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: occur
+word: occur
+pos: verb
+zh: 发生，出现；想到
+en: Means 发生，出现；想到; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: oc
+    form: -oc
+    meaning_in_word: oc / oc
+    zh: oc
+    role: suffix
+    is_core: false
+  - morpheme: curr
+    form: curr
+    meaning_in_word: run; happen / 跑；发生
+    zh: 跑；流动；路线
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

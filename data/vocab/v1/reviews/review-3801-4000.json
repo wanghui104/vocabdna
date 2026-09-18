@@ -1,0 +1,464 @@
+{
+  "batch": "3801-4000",
+  "sheet": "3001-4000",
+  "startNo": 3801,
+  "endNo": 4000,
+  "startRow": 880,
+  "endRow": 1098,
+  "logicalWords": 200,
+  "uniqueCanonicalSlugs": 199,
+  "duplicateSourceSlugs": [
+    "quail"
+  ],
+  "existingBeforeReview": 32,
+  "missingBeforeReview": 168,
+  "newCanonicalWords": 167,
+  "verifiedWordSlugs": [
+    "prosper",
+    "prosperity",
+    "prosperous",
+    "protagonist",
+    "protectionist",
+    "protein",
+    "protest",
+    "prototype",
+    "protruding",
+    "provincialism",
+    "provision",
+    "provoke",
+    "provocative",
+    "provocation",
+    "prudent",
+    "pry-open",
+    "psychology",
+    "parapsychology",
+    "publicize",
+    "publicity",
+    "puddle",
+    "pueblo",
+    "pulp",
+    "pulse",
+    "impulse",
+    "pump",
+    "pumpkin",
+    "punch",
+    "puncture",
+    "acupuncture",
+    "pungent",
+    "pupil",
+    "purple",
+    "purify",
+    "purified",
+    "purification",
+    "puzzle",
+    "puzzling",
+    "pyramid",
+    "quail",
+    "quaint",
+    "acquaint",
+    "acquaintance",
+    "acquainted",
+    "qualified",
+    "qualification",
+    "quantitative",
+    "quantum-theory",
+    "quarry",
+    "quarter",
+    "quarterly",
+    "headquarters",
+    "quartz",
+    "quench",
+    "quest",
+    "questionable",
+    "questionnaire",
+    "unquestioning",
+    "unquestionably",
+    "request",
+    "bequest",
+    "sequester",
+    "equestrian",
+    "quiescent",
+    "quilt",
+    "quilter",
+    "quota",
+    "quotation",
+    "radar",
+    "radiant",
+    "radiate",
+    "irradiate",
+    "radiation",
+    "radical",
+    "radically",
+    "sporadically",
+    "raft",
+    "graft",
+    "craft",
+    "aircraft",
+    "spacecraft",
+    "hovercraft",
+    "rage",
+    "coverage",
+    "news-coverage",
+    "outrage",
+    "enrage",
+    "mirage",
+    "sewerage",
+    "forage",
+    "ragged",
+    "ragtime",
+    "raid",
+    "braid",
+    "rainfall",
+    "rally",
+    "rampant",
+    "ranch",
+    "ranching",
+    "rancher",
+    "range",
+    "a-range-of",
+    "range-from-to",
+    "rank",
+    "rare",
+    "rarefy",
+    "rarely",
+    "ratify",
+    "ration",
+    "rationing",
+    "rational",
+    "rattle",
+    "rattlesnake",
+    "raucous",
+    "raven",
+    "ravine",
+    "ray",
+    "rayon",
+    "crayon",
+    "fray",
+    "foray",
+    "tray",
+    "array",
+    "betray",
+    "spray",
+    "raze",
+    "graze",
+    "craze",
+    "readily",
+    "readjust",
+    "realization",
+    "realm",
+    "reap",
+    "rear",
+    "rebel",
+    "rebellion",
+    "rebellious",
+    "rebuke",
+    "recall",
+    "receptacle",
+    "reception",
+    "receptionist",
+    "receptive",
+    "receptor",
+    "recession",
+    "recipe",
+    "recipient",
+    "recital",
+    "reckless",
+    "reckon",
+    "reclaim",
+    "recognize",
+    "recognition",
+    "recoil",
+    "recollection",
+    "recommend",
+    "recommendation",
+    "reconstruct",
+    "reconstruction",
+    "recount",
+    "recreation",
+    "recreational",
+    "recruit",
+    "rectangle",
+    "rectangular",
+    "rectify",
+    "recur",
+    "recurring",
+    "recycle",
+    "redirect",
+    "reed",
+    "refine",
+    "refined",
+    "refinement",
+    "reflection",
+    "reform",
+    "reformer",
+    "reformism",
+    "refraction",
+    "refreshing",
+    "refreshment",
+    "refrigerate",
+    "refrigerator",
+    "refrigeration",
+    "refrigerant",
+    "refurbish",
+    "refute",
+    "regardless",
+    "regardless-of",
+    "regenerate",
+    "regeneration",
+    "regime",
+    "regimentation",
+    "register",
+    "regulate",
+    "regulatory",
+    "regulation",
+    "rehabilitate",
+    "rehabilitation"
+  ],
+  "multiMorphemeOrCompoundAfterReview": 149,
+  "intentionalBottomRootsAfterReview": 50,
+  "intentionalBottomRootSlugs": [
+    "protein",
+    "prudent",
+    "puddle",
+    "pueblo",
+    "pulp",
+    "pump",
+    "pumpkin",
+    "punch",
+    "pupil",
+    "purple",
+    "puzzle",
+    "pyramid",
+    "quail",
+    "quaint",
+    "quarry",
+    "quartz",
+    "quench",
+    "quest",
+    "quilt",
+    "radar",
+    "raft",
+    "graft",
+    "craft",
+    "rage",
+    "mirage",
+    "forage",
+    "raid",
+    "braid",
+    "rally",
+    "ranch",
+    "range",
+    "rank",
+    "rare",
+    "rattle",
+    "raucous",
+    "raven",
+    "ravine",
+    "ray",
+    "fray",
+    "tray",
+    "array",
+    "raze",
+    "graze",
+    "craze",
+    "realm",
+    "reap",
+    "rear",
+    "rebuke",
+    "recipe",
+    "reed"
+  ],
+  "weakRootWordsAfterReview": 0,
+  "templateResidueCount": 0,
+  "templateResidueSlugs": [],
+  "representativeSplits": [
+    {
+      "slug": "prosper",
+      "split": [
+        "pro",
+        "sper"
+      ]
+    },
+    {
+      "slug": "prosperity",
+      "split": [
+        "pro",
+        "sper",
+        "ity"
+      ]
+    },
+    {
+      "slug": "prosperous",
+      "split": [
+        "pro",
+        "sper",
+        "ous"
+      ]
+    },
+    {
+      "slug": "protagonist",
+      "split": [
+        "pro",
+        "tagon",
+        "ist"
+      ]
+    },
+    {
+      "slug": "protectionist",
+      "split": [
+        "protect",
+        "ion",
+        "ist"
+      ]
+    },
+    {
+      "slug": "protest",
+      "split": [
+        "pro",
+        "test"
+      ]
+    },
+    {
+      "slug": "prototype",
+      "split": [
+        "proto",
+        "type"
+      ]
+    },
+    {
+      "slug": "protruding",
+      "split": [
+        "pro",
+        "trud",
+        "ing"
+      ]
+    },
+    {
+      "slug": "provincialism",
+      "split": [
+        "provinc",
+        "ial",
+        "ism"
+      ]
+    },
+    {
+      "slug": "provision",
+      "split": [
+        "pro",
+        "vis",
+        "ion"
+      ]
+    },
+    {
+      "slug": "provoke",
+      "split": [
+        "pro",
+        "vok",
+        "e"
+      ]
+    },
+    {
+      "slug": "provocative",
+      "split": [
+        "pro",
+        "vok",
+        "ative"
+      ]
+    },
+    {
+      "slug": "provocation",
+      "split": [
+        "pro",
+        "vok",
+        "ation"
+      ]
+    },
+    {
+      "slug": "pry-open",
+      "split": [
+        "pry",
+        "open"
+      ]
+    },
+    {
+      "slug": "psychology",
+      "split": [
+        "psych",
+        "logy"
+      ]
+    },
+    {
+      "slug": "parapsychology",
+      "split": [
+        "para",
+        "psych",
+        "logy"
+      ]
+    },
+    {
+      "slug": "publicize",
+      "split": [
+        "public",
+        "ize"
+      ]
+    },
+    {
+      "slug": "publicity",
+      "split": [
+        "public",
+        "ity"
+      ]
+    },
+    {
+      "slug": "pulse",
+      "split": [
+        "puls",
+        "e"
+      ]
+    },
+    {
+      "slug": "impulse",
+      "split": [
+        "im",
+        "pulse"
+      ]
+    },
+    {
+      "slug": "puncture",
+      "split": [
+        "punct",
+        "ure"
+      ]
+    },
+    {
+      "slug": "acupuncture",
+      "split": [
+        "acu",
+        "punct",
+        "ure"
+      ]
+    },
+    {
+      "slug": "pungent",
+      "split": [
+        "pung",
+        "ent"
+      ]
+    },
+    {
+      "slug": "purify",
+      "split": [
+        "pur",
+        "ify"
+      ]
+    }
+  ],
+  "validation": {
+    "validate:vocab": "passed",
+    "generate:vocab": "passed",
+    "build:static": "passed",
+    "tsc --noEmit": "passed",
+    "audit-current-toefl-batch": "passed"
+  },
+  "mainIssue": "Primary work was adding missing canonical entries and drilling learner-visible morphology. After second-pass review, no unresolved root-breakdown defects or template residues remain; remaining one-part entries are intentional bottom roots or opaque common/loan/animal/material bases. Source repeats quail, so 200 source records map to 199 unique slugs."
+}

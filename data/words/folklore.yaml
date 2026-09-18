@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: folklore
+word: folklore
+pos: noun
+zh: 民间传说；民俗
+en: traditional stories, beliefs, and customs of a community
+components:
+  - morpheme: folk
+    form: folk
+    meaning_in_word: people, group / 人群；民族；群体
+    zh: 人群；民族；群体
+    role: root
+    is_core: true
+    note: Modern folk often marks a people or traditional culture group.
+  - morpheme: lore
+    form: lore
+    meaning_in_word: learning, knowledge / 知识；学问
+    zh: 知识；学问
+    role: root
+    is_core: true
+    note: folklore = folk 民众 + lore 传承知识；不是法语后缀 -ore。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

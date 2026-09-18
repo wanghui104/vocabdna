@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: role
+display: role
+type: root
+core_meaning: roll; role
+zh: 卷轴；角色
+origin: teaching morphology
+source_form: role
+source_meaning: roll; role
+source_meaning_zh: 卷轴；角色
+related_morphemes:
+  []
+senses:
+  - meaning: roll; role
+    zh: 卷轴；角色
+    examples:
+      - role
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - role -> role
+high_value_words:
+  - role
+confusable_words:
+  []

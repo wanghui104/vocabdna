@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: copper
+display: copper
+type: root
+core_meaning: copper
+zh: 铜
+origin: Latin
+source_form: Latin cuprum / aes Cyprium
+source_meaning: copper, Cyprian metal
+source_meaning_zh: 铜；塞浦路斯之金属
+related_morphemes:
+  []
+senses:
+  - meaning: copper
+    zh: 铜
+    examples:
+      - copper
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - copper -> copper
+high_value_words:
+  - copper
+confusable_words:
+  []

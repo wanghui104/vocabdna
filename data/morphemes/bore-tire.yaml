@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bore-tire
+display: bore
+type: root
+core_meaning: bore, boredom
+zh: 令人厌烦；无聊
+origin: Unknown
+source_form: English bore, perhaps from dull repetition
+source_meaning: weary, tire
+source_meaning_zh: 使厌烦
+related_morphemes:
+  []
+senses:
+  - meaning: bore, boredom
+    zh: 令人厌烦；无聊
+    examples:
+      - bore
+      - bored
+      - boredom
+      - boring
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - bore -> bore
+  - bor -> bored
+  - bore -> boredom
+  - bor -> boring
+high_value_words:
+  - bore
+  - bored
+  - boredom
+  - boring
+confusable_words:
+  []

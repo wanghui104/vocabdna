@@ -15,16 +15,25 @@ senses:
     zh: 标准、规则
     examples:
       - abnormal
+      - enormous
+      - norm
       - normal
+      - normally
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - norm -> abnormal
+  - norm -> enormous
+  - norm -> norm
   - norm -> normal
+  - norm -> normally
 high_value_words:
   - abnormal
+  - enormous
+  - norm
   - normal
+  - normally
 confusable_words:
   []

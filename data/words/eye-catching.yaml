@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: eye-catching
+word: eye-catching
+pos: adjective
+zh: 引人注目的；耀眼的
+en: attracting attention immediately
+components:
+  - morpheme: eye
+    form: eye
+    meaning_in_word: eye
+    zh: 眼睛；视觉
+    role: root
+    is_core: true
+  - morpheme: catch
+    form: catching
+    meaning_in_word: catching attention
+    zh: 抓住；感染；理解
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 常修饰 design/display/color。

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bouquet
+word: bouquet
+pos: noun
+zh: 花束；香气
+en: a bunch of flowers, or the smell of wine
+components:
+  - morpheme: bouquet
+    form: bouquet
+    meaning_in_word: bunch of flowers
+    zh: 花束；香气
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 发音接近 /buːˈkeɪ/。

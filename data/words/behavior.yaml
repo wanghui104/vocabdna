@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: behavior
+word: behavior
+pos: noun
+zh: 举止；行为
+en: the way a person, animal, or thing acts
+components:
+  - morpheme: be
+    form: be-
+    meaning_in_word: intensive
+    zh: 使成为、加强
+    role: prefix
+    is_core: false
+  - morpheme: have
+    form: hav
+    meaning_in_word: hold oneself
+    zh: 有；持有
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -ior
+    meaning_in_word: result or manner
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - behave
+word_family_details:
+  - word: behave
+    en: to act or conduct oneself in a particular way
+    zh: 举止；表现
+confusables:
+  []
+examples:
+  []
+why_confusing: 美式 behavior；英式 behaviour。

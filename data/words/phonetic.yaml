@@ -12,15 +12,11 @@ components:
     role: combining_form
     is_core: true
 word_family:
-  - phonetics
+  []
 word_family_details:
-  - word: phonetics
-    en: related form of phonetics
-    zh: phonetics 的相关词
+  []
 confusables:
-  - word: phonics
-    reason: phonetic 偏语音学；phonics 偏自然拼读教学。
-    zh_reason: phonetic 偏语音学；phonics 偏自然拼读教学。
+  []
 examples:
   - en: The dictionary includes phonetic symbols.
     zh: 这本词典包含音标。

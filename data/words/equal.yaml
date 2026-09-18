@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: equal
+word: equal
+pos: adjective/verb
+zh: 相等的；平等的
+en: the same in amount, value, or status
+components:
+  - morpheme: equ
+    form: equ
+    meaning_in_word: equal, level / 相等；平衡
+    zh: 相等；平衡
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - equality
+word_family_details:
+  - word: equality
+    en: the state of being equal in rights, status, or amount
+    zh: 平等；相等
+confusables:
+  []
+examples:
+  []
+why_confusing: 

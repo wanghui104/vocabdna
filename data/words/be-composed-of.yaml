@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: be-composed-of
+word: be composed of
+pos: phrase
+zh: 由…组成
+en: to be made up of parts or materials
+components:
+  - morpheme: be
+    form: be
+    meaning_in_word: be
+    zh: 使成为、加强
+    role: root
+    is_core: true
+  - morpheme: pon
+    form: composed
+    meaning_in_word: put together
+    zh: 放置
+    role: root
+    is_core: true
+  - morpheme: of
+    form: of
+    meaning_in_word: of
+    zh: 属于；关于
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 主语是整体，of 后是组成部分。

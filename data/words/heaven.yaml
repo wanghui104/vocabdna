@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: heaven
+word: heaven
+pos: noun
+zh: 天，天堂
+en: Means 天，天堂; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: heaven
+    form: heaven
+    meaning_in_word: 天，天堂
+    zh: 天，天堂
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  - heavenly
+word_family_details:
+  - word: heavenly
+    en: Means 天空的，天上的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 天空的，天上的
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

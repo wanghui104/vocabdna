@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fanciful
+word: fanciful
+pos: adjective
+zh: 富于想象的；不切实际的；奇特的
+en: imaginative, unrealistic, or elaborately decorative
+components:
+  - morpheme: fancy
+    form: fanci
+    meaning_in_word: imagination, appear / 想象；显现
+    zh: 想象；显现
+    role: root
+    is_core: true
+    note: fancy 为 fantasy 的收缩，深层 phantasia 来自 phantazesthai 想象、phantos 可见、phainein 显示；fanciful 中 y 改 i。
+    related_morphemes:
+      - fantas
+  - morpheme: ful
+    form: -ful
+    meaning_in_word: full of / 充满；具有
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - fancy
+word_family_details:
+  - word: fancy
+    en: elaborate or decorative
+    zh: 花哨的；精致的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

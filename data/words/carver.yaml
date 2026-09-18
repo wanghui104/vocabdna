@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: carver
+word: carver
+pos: noun
+zh: 雕刻匠；雕工
+en: a person who carves wood, stone, or other material
+components:
+  - morpheme: carve
+    form: carv
+    meaning_in_word: cut, carve
+    zh: 切开；雕刻
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -er
+    meaning_in_word: person
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - carve
+  - carving
+word_family_details:
+  - word: carve
+    en: to cut material into a shape or slice it
+    zh: 切开；雕刻
+  - word: carving
+    en: an object or pattern made by carving
+    zh: 雕刻品；雕花
+confusables:
+  []
+examples:
+  []
+why_confusing: woodcarver 可更具体。

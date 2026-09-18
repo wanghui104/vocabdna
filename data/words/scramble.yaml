@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scramble
+word: scramble
+pos: verb
+zh: 搅乱，使混杂；攀爬
+en: Means 搅乱，使混杂；攀爬; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: scramble
+    form: scramble
+    meaning_in_word: scramble / 混杂；攀爬
+    zh: 攀爬；搅乱
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: amble
+    reason: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+    zh_reason: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

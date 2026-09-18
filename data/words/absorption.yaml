@@ -30,9 +30,7 @@ word_family_details:
     en: to take in liquid, energy, information, or attention
     zh: 吸收液体或知识
 confusables:
-  - word: adsorption
-    reason: 注意 absorption 和 adsorption 拼写及含义不同。
-    zh_reason: 注意 absorption 和 adsorption 拼写及含义不同。
+  []
 examples:
   - en: The material improves sound absorption.
     zh: 这种材料改善吸音效果。

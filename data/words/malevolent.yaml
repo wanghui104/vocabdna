@@ -18,15 +18,11 @@ components:
     role: root
     is_core: true
 word_family:
-  - malevolence
+  []
 word_family_details:
-  - word: malevolence
-    en: related form of malevolence
-    zh: malevolence 的相关词
+  []
 confusables:
-  - word: malignant
-    reason: malevolent 强调意图；malignant 常用于恶性或有害性质。
-    zh_reason: malevolent 强调意图；malignant 常用于恶性或有害性质。
+  []
 examples:
   - en: The rumor had a malevolent purpose.
     zh: 这个谣言带有恶意目的。

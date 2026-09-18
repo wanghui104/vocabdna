@@ -3,7 +3,7 @@ id: audience
 word: audience
 pos: noun
 zh: 观众；听众；受众
-en: the people who listen to or watch something
+en: the people who listen to, watch, or receive a performance or message
 components:
   - morpheme: aud
     form: aud
@@ -11,15 +11,20 @@ components:
     zh: 听
     role: root
     is_core: true
+  - morpheme: ance
+    form: -ence
+    meaning_in_word: group/state
+    zh: 状态；性质
+    role: suffix
+    is_core: false
 word_family:
   []
 word_family_details:
   []
 confusables:
   - word: audition
-    reason: audience 是受众；audition 是试镜/试听。
-    zh_reason: audience 是受众；audition 是试镜/试听。
+    reason: audience 是受众；audition 是试演/试听。
+    zh_reason: audience 是受众；audition 是试演/试听。
 examples:
-  - en: The speaker knew her audience well.
-    zh: 演讲者很了解她的听众。
-why_confusing: audience 是受众；audition 是试镜/试听。
+  []
+why_confusing: audience 是受众；audition 是试演/试听。

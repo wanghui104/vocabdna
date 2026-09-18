@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: breed
+word: breed
+pos: verb
+zh: 养育；繁殖
+en: to produce young animals or plants, or raise them in a controlled way
+components:
+  - morpheme: breed
+    form: breed
+    meaning_in_word: bring young
+    zh: 繁殖；培育
+    role: root
+    is_core: true
+word_family:
+  - crossbreeding
+word_family_details:
+  - word: crossbreeding
+    en: breeding between different varieties or species
+    zh: 异种交配；杂交
+confusables:
+  []
+examples:
+  []
+why_confusing: breed 可指繁殖，也可指产生某种结果。

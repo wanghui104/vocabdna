@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: barrier
+word: barrier
+pos: noun
+zh: 屏障；障碍；栅栏
+en: something that blocks, separates, or prevents movement or progress
+components:
+  - morpheme: bar
+    form: bar
+    meaning_in_word: barrier
+    zh: 条；栅栏；障碍
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: hurdle
+    reason: barrier 可指实体屏障，也可指 language/cultural barrier。
+    zh_reason: barrier 可指实体屏障，也可指 language/cultural barrier。
+examples:
+  []
+why_confusing: barrier 可指实体屏障，也可指 language/cultural barrier。

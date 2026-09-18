@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: essence
+word: essence
+pos: noun
+zh: 本质；精华
+en: the fundamental nature of something; a concentrated extract
+components:
+  - morpheme: essent
+    form: ess
+    meaning_in_word: being, existence / 存在；本质
+    zh: 存在；本质
+    role: root
+    is_core: true
+    note: ess- 存在 + -ence；Latin essentia 由 esse 存在构成，含拟造分词 essent- 和抽象名词层；不要把末尾 ent 同时重复计入两个部件。
+    related_morphemes:
+      - ent
+  - morpheme: ance
+    form: -ence
+    meaning_in_word: state, act, quality / 状态；行为；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - essential
+word_family_details:
+  - word: essential
+    en: necessary or fundamental
+    zh: 必不可少的；本质的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

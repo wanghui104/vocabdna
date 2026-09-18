@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: descendant
+word: descendant
+pos: noun
+zh: 子孙；后裔
+en: a person, animal, or thing that comes from a particular ancestor or source
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: scend
+    form: scend
+    meaning_in_word: move down lineage
+    zh: 攀登；上升
+    role: root
+    is_core: true
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: person/thing
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+word_family:
+  - descend
+  - descent
+word_family_details:
+  - word: descend
+    en: to move downward, or pass from an ancestor to later generations
+    zh: 下降；传下；遗传
+  - word: descent
+    en: Means 降下，降落；世系，血统; reviewed from the TOEFL source gloss for learner display.
+    zh: 降下，降落；世系，血统
+confusables:
+  []
+examples:
+  []
+why_confusing: descendant of/from 都可见。

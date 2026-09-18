@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: band
+word: band
+pos: noun/verb
+zh: 带子；乐队；一群；联合
+en: a group, strip, or ring; to join or bind together
+components:
+  - morpheme: band
+    form: band
+    meaning_in_word: bind, tie
+    zh: 带子；乐队；群体
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: band 可指乐队、带状物、频段等。

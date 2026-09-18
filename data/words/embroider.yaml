@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: embroider
+word: embroider
+pos: verb
+zh: 刺绣；润饰故事
+en: to decorate fabric with sewn designs; to embellish a story
+components:
+  - morpheme: in
+    form: em-
+    meaning_in_word: in, into, on, onto / 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。
+  - morpheme: broider
+    form: broider
+    meaning_in_word: embroider / 刺绣
+    zh: 刺绣
+    role: root
+    is_core: true
+    note: broider 是历史刺绣动词；-er 不是施事后缀；与 braid 的拼写影响不等于同一直接来源。
+word_family:
+  - embroidery
+word_family_details:
+  - word: embroidery
+    en: the craft or product of decorating fabric with stitches
+    zh: 刺绣；绣品
+confusables:
+  []
+examples:
+  []
+why_confusing: 

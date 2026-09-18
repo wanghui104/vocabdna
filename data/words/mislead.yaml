@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mislead
+word: mislead
+pos: verb
+zh: 使误入歧途，误导
+en: Means 使误入歧途，误导; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mis
+    form: mis-
+    meaning_in_word: 错误地；不当地
+    zh: 错误地；不当地
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:mis.
+  - morpheme: lead
+    form: lead
+    meaning_in_word: 领导；引导
+    zh: 领导；引导
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:lead.
+word_family:
+  - leading
+  - leadership
+  - misleading
+word_family_details:
+  - word: leading
+    en: Means 最主要的 / 主演的; reviewed from the TOEFL source gloss for learner display.
+    zh: 最主要的 / 主演的
+  - word: leadership
+    en: Means 领导能力，领导阶层; reviewed from the TOEFL source gloss for learner display.
+    zh: 领导能力，领导阶层
+  - word: misleading
+    en: Means 使人误解的；骗人的; reviewed from the TOEFL source gloss for learner display.
+    zh: 使人误解的；骗人的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

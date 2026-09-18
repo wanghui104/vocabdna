@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: combine
+word: combine
+pos: verb
+zh: 联合；结合
+en: to join two or more things together
+components:
+  - morpheme: combine
+    form: combine
+    meaning_in_word: join
+    zh: 联合；组合
+    role: root
+    is_core: true
+word_family:
+  - combination
+word_family_details:
+  - word: combination
+    en: a set or mixture formed by combining things
+    zh: 组合；结合
+confusables:
+  []
+examples:
+  []
+why_confusing: combine A with B。

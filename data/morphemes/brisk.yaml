@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brisk
+display: brisk
+type: root
+core_meaning: brisk
+zh: 活泼；轻快
+origin: Unknown
+source_form: Brisk, perhaps French/Italian bruscus
+source_meaning: lively, sharp
+source_meaning_zh: 活泼；轻快
+related_morphemes:
+  []
+senses:
+  - meaning: brisk
+    zh: 活泼；轻快
+    examples:
+      - brisk
+      - briskness
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - brisk -> brisk
+  - brisk -> briskness
+high_value_words:
+  - brisk
+  - briskness
+confusable_words:
+  []

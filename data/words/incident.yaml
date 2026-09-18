@@ -1,0 +1,51 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: incident
+word: incident
+pos: noun
+zh: 事件
+en: Means 事件; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: cid
+    form: cid
+    meaning_in_word: 同时发生；巧合
+    zh: 同时发生；巧合
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:cid.
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: ……的人；具有……性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ent.
+word_family:
+  - incidentally
+  - incidence
+  - coincident
+  - coincidence
+word_family_details:
+  - word: incidentally
+    en: Means 附带地，偶然地; reviewed from the TOEFL source gloss for learner display.
+    zh: 附带地，偶然地
+  - word: incidence
+    en: Means 发生，出现；发生频率; reviewed from the TOEFL source gloss for learner display.
+    zh: 发生，出现；发生频率
+  - word: coincident
+    en: Means 一致的，符合的；巧合的; reviewed from the TOEFL source gloss for learner display.
+    zh: 一致的，符合的；巧合的
+  - word: coincidence
+    en: Means 一致；同时发生或同时存在的事; reviewed from the TOEFL source gloss for learner display.
+    zh: 一致；同时发生或同时存在的事
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: block
+word: block
+pos: noun/verb
+zh: 块；街区；阻碍；阻止
+en: a solid piece, city area, or something that prevents movement; to obstruct
+components:
+  - morpheme: block
+    form: block
+    meaning_in_word: solid piece, obstruct
+    zh: 块；阻碍
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: city block 指街区；writer's block 指写作障碍。

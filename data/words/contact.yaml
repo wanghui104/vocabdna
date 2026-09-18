@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: contact
+word: contact
+pos: verb/noun
+zh: 接触；联系；与……联系
+en: to touch, meet, or communicate with someone
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tang
+    form: tact
+    meaning_in_word: touch
+    zh: 触碰；达到
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: contact someone; be in contact with.

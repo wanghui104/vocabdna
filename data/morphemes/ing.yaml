@@ -15,28 +15,556 @@ senses:
     zh: 正在……的、与……有关的
     examples:
       - abiding
-      - blazing
       - accelerating
       - accommodating
       - accompanying
       - accounting
+      - adjoining
+      - aggravating
+      - amazing
+      - annoying
+      - appealing
+      - approaching
+      - ascending
+      - aspiring
+      - astonishing
+      - astounding
+      - blazing
+      - blessing
+      - boring
+      - brawling
+      - breathing
+      - burning
+      - carving
+      - casting
+      - catching
+      - competing
+      - conditioning
+      - confining
+      - conflicting
+      - confusing
+      - convincing
+      - corresponding
+      - counseling
+      - crippling
+      - crossbreeding
+      - crossing
+      - daring
+      - daunting
+      - dawning
+      - dazzling
+      - devastating
+      - discerning
+      - discouraging
+      - dissenting
+      - dividing line
+      - dizzying
+      - drawing
+      - dwelling
+      - emerging
+      - enduring
+      - engaging
+      - engraving
+      - enterprising
+      - everlasting
+      - exacting
+      - exciting
+      - exhausting
+      - exhilarating
+      - expanding
+      - far-reaching
+      - fascinating
+      - fencing
+      - financing
+      - fitting
+      - fittingly
+      - flavoring
+      - fleeting
+      - fleetingly
+      - flickering
+      - flourishing
+      - folding
+      - forbidding
+      - frightening
+      - frustrating
+      - functioning
+      - funding
+      - furnishing
+      - furnishings
+      - gilding
+      - glowing
+      - grazing land
+      - healing
+      - impending
+      - imposing
+      - inspiring
+      - insulting
+      - interconnecting
+      - interlocking
+      - intriguing
+      - intruding
+      - inviting
+      - jolting
+      - landing
+      - lasting
+      - layering
+      - leading
+      - living quarters
+      - lodging
+      - long-lasting
+      - long-standing
+      - lumbering
+      - malfunctioning
+      - matching
+      - meaningful
+      - mingling
+      - misleading
+      - mockingbird
+      - mourning
+      - nourishing
+      - ongoing
+      - opposing
+      - outgoing
+      - outlying
+      - outstanding
+      - overlapping
+      - overwhelmingly
+      - owing to
+      - packaging
+      - painstaking
+      - painting
+      - patronizing
+      - penetrating
+      - perplexing
+      - pinching
+      - pioneering
+      - pleasing
+      - plumbing
+      - preceding
+      - prevailing
+      - proceeding
+      - projecting
+      - promising
+      - prospecting
+      - protruding
+      - puzzling
+      - ranching
+      - rationing
+      - recurring
+      - refreshing
+      - reigning
+      - remaining
+      - rendering
+      - savings
+      - scaffolding
+      - scraping
+      - seasoning
+      - seemingly
+      - shifting
+      - shining
+      - shocking
+      - sloping
+      - slow breeding
+      - smelting
+      - spanking
+      - sparingly
+      - spinning
+      - staggering
+      - standing
+      - stock car racing
+      - striking
+      - strikingly
+      - stunning
+      - surging
+      - surpassingly
+      - sweeping
+      - swelling
+      - tapering
+      - tempting
+      - terrifying
+      - time-consuming
+      - touching
+      - towering
+      - troubling
+      - underlying
+      - undertaking
+      - unpromising
+      - unquestioning
+      - veining
+      - weathering
+      - wedding
+      - wrestling
+      - hurdling
+      - tangling
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - -ing -> abiding
-  - -ing -> blazing
   - -ing -> accelerating
   - -ating -> accommodating
   - -ing -> accompanying
   - -ing -> accounting
+  - -ing -> adjoining
+  - -ing -> aggravating
+  - -ing -> amazing
+  - -ing -> annoying
+  - -ing -> appealing
+  - -ing -> approaching
+  - -ing -> ascending
+  - -ing -> aspiring
+  - -ing -> astonishing
+  - -ing -> astounding
+  - -ing -> blazing
+  - -ing -> blessing
+  - -ing -> boring
+  - -ing -> brawling
+  - -ing -> breathing
+  - -ing -> burning
+  - -ing -> carving
+  - -ing -> casting
+  - -ing -> catching
+  - -ing -> competing
+  - -ing -> conditioning
+  - -ing -> confining
+  - -ing -> conflicting
+  - -ing -> confusing
+  - -ing -> convincing
+  - -ing -> corresponding
+  - -ing -> counseling
+  - -ing -> crippling
+  - -ing -> crossbreeding
+  - -ing -> crossing
+  - -ing -> daring
+  - -ing -> daunting
+  - -ing -> dawning
+  - -ing -> dazzling
+  - -ing -> devastating
+  - -ing -> discerning
+  - -ing -> discouraging
+  - -ing -> dissenting
+  - -ing -> dividing line
+  - -ing -> dizzying
+  - -ing -> drawing
+  - -ing -> dwelling
+  - -ing -> emerging
+  - -ing -> enduring
+  - -ing -> engaging
+  - -ing -> engraving
+  - -ing -> enterprising
+  - -ing -> everlasting
+  - -ing -> exacting
+  - -ing -> exciting
+  - -ing -> exhausting
+  - -ing -> exhilarating
+  - -ing -> expanding
+  - -ing -> far-reaching
+  - -ing -> fascinating
+  - -ing -> fencing
+  - -ing -> financing
+  - -ing -> fitting
+  - -ing -> fittingly
+  - -ing -> flavoring
+  - -ing -> fleeting
+  - -ing -> fleetingly
+  - -ing -> flickering
+  - -ing -> flourishing
+  - -ing -> folding
+  - -ing -> forbidding
+  - -ing -> frightening
+  - -ing -> frustrating
+  - -ing -> functioning
+  - -ing -> funding
+  - -ing -> furnishing
+  - -ing -> furnishings
+  - -ing -> gilding
+  - -ing -> glowing
+  - -ing -> grazing land
+  - -ing -> healing
+  - -ing -> impending
+  - -ing -> imposing
+  - -ing -> inspiring
+  - -ing -> insulting
+  - -ing -> interconnecting
+  - -ing -> interlocking
+  - -ing -> intriguing
+  - -ing -> intruding
+  - -ing -> inviting
+  - -ing -> jolting
+  - -ing -> landing
+  - -ing -> lasting
+  - -ing -> layering
+  - -ing -> leading
+  - -ing -> living quarters
+  - -ing -> lodging
+  - -ing -> long-lasting
+  - -ing -> long-standing
+  - -ing -> lumbering
+  - -ing -> malfunctioning
+  - -ing -> matching
+  - -ing -> meaningful
+  - -ing -> mingling
+  - -ing -> misleading
+  - -ing -> mockingbird
+  - -ing -> mourning
+  - -ing -> nourishing
+  - -ing -> ongoing
+  - -ing -> opposing
+  - -ing -> outgoing
+  - -ing -> outlying
+  - -ing -> outstanding
+  - -ing -> overlapping
+  - -ing -> overwhelmingly
+  - -ing -> owing to
+  - -ing -> packaging
+  - -ing -> painstaking
+  - -ing -> painting
+  - -ing -> patronizing
+  - -ing -> penetrating
+  - -ing -> perplexing
+  - -ing -> pinching
+  - -ing -> pioneering
+  - -ing -> pleasing
+  - -ing -> plumbing
+  - -ing -> preceding
+  - -ing -> prevailing
+  - -ing -> proceeding
+  - -ing -> projecting
+  - -ing -> promising
+  - -ing -> prospecting
+  - -ing -> protruding
+  - -ing -> puzzling
+  - -ing -> ranching
+  - -ing -> rationing
+  - -ing -> recurring
+  - -ing -> refreshing
+  - -ing -> reigning
+  - -ing -> remaining
+  - -ing -> rendering
+  - -ing -> savings
+  - -ing -> scaffolding
+  - -ing -> scraping
+  - -ing -> seasoning
+  - -ing -> seemingly
+  - -ing -> shifting
+  - -ing -> shining
+  - -ing -> shocking
+  - -ing -> sloping
+  - -ing -> slow breeding
+  - -ing -> smelting
+  - -ing -> spanking
+  - -ing -> sparingly
+  - -ing -> spinning
+  - -ing -> staggering
+  - -ing -> standing
+  - -ing -> stock car racing
+  - -ing -> striking
+  - -ing -> strikingly
+  - -ing -> stunning
+  - -ing -> surging
+  - -ing -> surpassingly
+  - -ing -> sweeping
+  - -ing -> swelling
+  - -ing -> tapering
+  - -ing -> tempting
+  - -ing -> terrifying
+  - -ing -> time-consuming
+  - -ing -> touching
+  - -ing -> towering
+  - -ing -> troubling
+  - -ing -> underlying
+  - -ing -> undertaking
+  - -ing -> unpromising
+  - -ing -> unquestioning
+  - -ing -> veining
+  - -ing -> weathering
+  - -ing -> wedding
+  - -ing -> wrestling
+  - -ing -> hurdling
+  - -ing -> tangling
 high_value_words:
   - abiding
-  - blazing
   - accelerating
   - accommodating
   - accompanying
   - accounting
+  - adjoining
+  - aggravating
+  - amazing
+  - annoying
+  - appealing
+  - approaching
+  - ascending
+  - aspiring
+  - astonishing
+  - astounding
+  - blazing
+  - blessing
+  - boring
+  - brawling
+  - breathing
+  - burning
+  - carving
+  - casting
+  - catching
+  - competing
+  - conditioning
+  - confining
+  - conflicting
+  - confusing
+  - convincing
+  - corresponding
+  - counseling
+  - crippling
+  - crossbreeding
+  - crossing
+  - daring
+  - daunting
+  - dawning
+  - dazzling
+  - devastating
+  - discerning
+  - discouraging
+  - dissenting
+  - dividing line
+  - dizzying
+  - drawing
+  - dwelling
+  - emerging
+  - enduring
+  - engaging
+  - engraving
+  - enterprising
+  - everlasting
+  - exacting
+  - exciting
+  - exhausting
+  - exhilarating
+  - expanding
+  - far-reaching
+  - fascinating
+  - fencing
+  - financing
+  - fitting
+  - fittingly
+  - flavoring
+  - fleeting
+  - fleetingly
+  - flickering
+  - flourishing
+  - folding
+  - forbidding
+  - frightening
+  - frustrating
+  - functioning
+  - funding
+  - furnishing
+  - furnishings
+  - gilding
+  - glowing
+  - grazing land
+  - healing
+  - impending
+  - imposing
+  - inspiring
+  - insulting
+  - interconnecting
+  - interlocking
+  - intriguing
+  - intruding
+  - inviting
+  - jolting
+  - landing
+  - lasting
+  - layering
+  - leading
+  - living quarters
+  - lodging
+  - long-lasting
+  - long-standing
+  - lumbering
+  - malfunctioning
+  - matching
+  - meaningful
+  - mingling
+  - misleading
+  - mockingbird
+  - mourning
+  - nourishing
+  - ongoing
+  - opposing
+  - outgoing
+  - outlying
+  - outstanding
+  - overlapping
+  - overwhelmingly
+  - owing to
+  - packaging
+  - painstaking
+  - painting
+  - patronizing
+  - penetrating
+  - perplexing
+  - pinching
+  - pioneering
+  - pleasing
+  - plumbing
+  - preceding
+  - prevailing
+  - proceeding
+  - projecting
+  - promising
+  - prospecting
+  - protruding
+  - puzzling
+  - ranching
+  - rationing
+  - recurring
+  - refreshing
+  - reigning
+  - remaining
+  - rendering
+  - savings
+  - scaffolding
+  - scraping
+  - seasoning
+  - seemingly
+  - shifting
+  - shining
+  - shocking
+  - sloping
+  - slow breeding
+  - smelting
+  - spanking
+  - sparingly
+  - spinning
+  - staggering
+  - standing
+  - stock car racing
+  - striking
+  - strikingly
+  - stunning
+  - surging
+  - surpassingly
+  - sweeping
+  - swelling
+  - tapering
+  - tempting
+  - terrifying
+  - time-consuming
+  - touching
+  - towering
+  - troubling
+  - underlying
+  - undertaking
+  - unpromising
+  - unquestioning
+  - veining
+  - weathering
+  - wedding
+  - wrestling
+  - hurdling
+  - tangling
 confusable_words:
   []

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mania
+word: mania
+pos: noun
+zh: 狂热
+en: Means 狂热; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mani
+    form: mani
+    meaning_in_word: 狂热
+    zh: 狂热
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mani.
+  - morpheme: a
+    form: a-
+    meaning_in_word: 在；属于；完成性
+    zh: 在；属于；完成性
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:a.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

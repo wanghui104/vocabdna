@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tube
+display: tube
+type: root
+core_meaning: tube
+zh: 管
+origin: teaching morphology
+source_form: tube
+source_meaning: tube
+source_meaning_zh: 管
+source_note: Added during TOEFL 5400 batch 5001-5200 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: tube
+    zh: 管
+    examples:
+      - tube
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - tube -> tube
+high_value_words:
+  - tube
+confusable_words:
+  []

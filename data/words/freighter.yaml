@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: freighter
+word: freighter
+pos: noun
+zh: 货船；货机；承运人
+en: a ship or aircraft used mainly for cargo; a carrier of freight
+components:
+  - morpheme: freight
+    form: freight
+    meaning_in_word: cargo, transport / 货物；货运
+    zh: 货物；货运
+    role: root
+    is_core: true
+    note: freight + -er；常见为货船或货机，也可指承运人。原表只写货车过窄，已修正。
+  - morpheme: er
+    form: -er
+    meaning_in_word: one who does / ……者；……物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.
+word_family:
+  - freight
+word_family_details:
+  - word: freight
+    en: goods carried in bulk, or their transport; to carry as cargo
+    zh: 货物；货运；运送
+confusables:
+  []
+examples:
+  []
+why_confusing: 

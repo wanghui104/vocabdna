@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: drainage
+word: drainage
+pos: noun
+zh: 排水；排液
+en: the removal or flow of excess water or other liquid
+components:
+  - morpheme: drain
+    form: drain
+    meaning_in_word: draw off liquid / 排去液体
+    zh: 排去液体
+    role: root
+    is_core: true
+    note: 历史关联 dry/drought 的干燥词族，现代 drain 为稳定词干。
+  - morpheme: age
+    form: -age
+    meaning_in_word: result or collection / 结果；集合
+    zh: 结果；集合
+    role: suffix
+    is_core: false
+word_family:
+  - drain
+word_family_details:
+  - word: drain
+    en: to remove liquid or let it flow away; to use up resources
+    zh: 排液；耗尽
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: perfect
+word: perfect
+pos: adjective
+zh: 完美的，理想的；使完美；使熟练
+en: Means 完美的，理想的；使完美；使熟练; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: per
+    form: per-
+    meaning_in_word: through; thoroughly / 穿过；彻底
+    zh: 穿过、完全
+    role: prefix
+    is_core: false
+  - morpheme: fect
+    form: fect
+    meaning_in_word: make; do / 做；完成
+    zh: 做；感染
+    role: root
+    is_core: true
+word_family:
+  - perfection
+word_family_details:
+  - word: perfection
+    en: Means 尽善尽美，完美; reviewed from the TOEFL source gloss for learner display.
+    zh: 尽善尽美，完美
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

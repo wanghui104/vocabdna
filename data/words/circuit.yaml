@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: circuit
+word: circuit
+pos: noun
+zh: 电路；环路
+en: a closed path for electricity or movement
+components:
+  - morpheme: circ
+    form: circ
+    meaning_in_word: around
+    zh: 圆；周围
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: electric circuit 指电路。

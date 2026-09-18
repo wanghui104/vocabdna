@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ledge
+word: ledge
+pos: noun
+zh: 壁架, 架状突出物, 暗礁, 矿层
+en: Means 壁架, 架状突出物, 暗礁, 矿层; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ledge
+    form: ledge
+    meaning_in_word: 壁架
+    zh: 壁架
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root in this pass; no reliable smaller learner-useful breakdown is forced.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

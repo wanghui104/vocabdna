@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ceive
+display: ceive
+type: root
+core_meaning: take; receive/perceive
+zh: 取；感知
+origin: teaching morphology
+source_form: ceive
+source_meaning: take; receive/perceive
+source_meaning_zh: 取；感知
+related_morphemes:
+  []
+senses:
+  - meaning: take; receive/perceive
+    zh: 取；感知
+    examples:
+      - perceive
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - ceive -> perceive
+high_value_words:
+  - perceive
+confusable_words:
+  []

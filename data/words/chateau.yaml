@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chateau
+word: chateau
+pos: noun
+zh: 城堡；高级旅馆
+en: a castle or large country house, especially in France
+components:
+  - morpheme: chateau
+    form: chateau
+    meaning_in_word: castle
+    zh: 城堡；高级旅馆
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 复数可作 chateaux。

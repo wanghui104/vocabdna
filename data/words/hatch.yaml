@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hatch
+word: hatch
+pos: verb
+zh: 孵化
+en: Means 孵化; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: hatch
+    form: hatch
+    meaning_in_word: 孵化
+    zh: 孵化
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  - hatchling
+  - hatchery
+  - hatchet
+word_family_details:
+  - word: hatchling
+    en: Means 人工孵化的鱼苗或小鸟; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 人工孵化的鱼苗或小鸟
+  - word: hatchery
+    en: Means 孵卵所; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 孵卵所
+  - word: hatchet
+    en: Means 短柄斧; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 短柄斧
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

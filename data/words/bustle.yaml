@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bustle
+word: bustle
+pos: noun
+zh: 喧闹；匆忙忙碌
+en: busy noisy activity
+components:
+  - morpheme: bustle
+    form: bustle
+    meaning_in_word: busy noise
+    zh: 喧闹；忙碌
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: hustle and bustle 是固定搭配。

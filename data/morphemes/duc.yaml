@@ -2,50 +2,71 @@
 id: duc
 display: duc
 type: root
-core_meaning: lead
-zh: 引导、带领
+core_meaning: lead, conduct
+zh: 引导；传导
 origin: Latin
+source_form: Latin ducere / ductus
+source_meaning: lead
+source_meaning_zh: 引导；带领
 related_morphemes:
   []
 senses:
-  - meaning: lead
-    zh: 引导、带领
+  - meaning: lead, conduct
+    zh: 引导；传导
     examples:
       - conduct
-      - induct
-      - produce
-      - reduce
+      - conduction
+      - conductivity
+      - conductor
       - deduct
+      - deductible
+      - deduction
+      - ductile
+      - induce
+      - inducible
+      - induct
       - induction
       - inductive
+      - produce
+      - reduce
       - reduction
-      - deduction
-      - deductible
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - duct -> conduct
-  - duct -> induct
-  - duce -> produce
-  - duce -> reduce
+  - duct -> conduction
+  - duct -> conductivity
+  - duct -> conductor
   - duct -> deduct
+  - duct -> deductible
+  - duct -> deduction
+  - duct -> ductile
+  - duc -> induce
+  - duc -> inducible
+  - duct -> induct
   - duct -> induction
   - duct -> inductive
+  - duc -> produce
+  - duce -> reduce
   - duct -> reduction
-  - duct -> deduction
-  - duct -> deductible
 high_value_words:
   - conduct
-  - induct
-  - produce
-  - reduce
+  - conduction
+  - conductivity
+  - conductor
   - deduct
+  - deductible
+  - deduction
+  - ductile
+  - induce
+  - inducible
+  - induct
   - induction
   - inductive
+  - produce
+  - reduce
   - reduction
-  - deduction
-  - deductible
 confusable_words:
   []

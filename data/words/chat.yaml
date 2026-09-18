@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chat
+word: chat
+pos: verb
+zh: 闲谈
+en: to talk in a friendly informal way
+components:
+  - morpheme: chat
+    form: chat
+    meaning_in_word: light talk
+    zh: 闲谈
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: chat with/to someone。

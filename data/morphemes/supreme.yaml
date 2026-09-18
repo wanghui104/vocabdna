@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: supreme
+display: supreme
+type: root
+core_meaning: highest
+zh: 最高
+origin: Latin
+source_form: supreme
+source_meaning: highest
+source_meaning_zh: 最高
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: highest
+    zh: 最高
+    examples:
+      - supremacy
+      - supreme
+      - supremely
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - supreme -> supremacy
+  - supreme -> supreme
+  - supreme -> supremely
+high_value_words:
+  - supremacy
+  - supreme
+  - supremely
+confusable_words:
+  []

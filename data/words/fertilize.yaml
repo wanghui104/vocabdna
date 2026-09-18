@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fertilize
+word: fertilize
+pos: verb
+zh: 使受精；施肥
+en: to cause an egg to unite with sperm; to add nutrients to soil
+components:
+  - morpheme: fertil
+    form: fertil
+    meaning_in_word: fruitful, bear / 多产；承载
+    zh: 多产；承载
+    role: root
+    is_core: true
+    note: fertil- + -ize，fertil- 内部 ferre 承载、孕育 + -tilis；施肥和受精是同一词的不同现代义项。
+    related_morphemes:
+      - fer
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make or do / 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - fertile
+  - fertility
+  - fertilization
+  - fertilizer
+word_family_details:
+  - word: fertile
+    en: able to produce crops, offspring, or ideas
+    zh: 肥沃的；能生育的；多产的
+  - word: fertility
+    en: the ability to produce offspring, crops, or ideas
+    zh: 生育能力；肥沃；多产
+  - word: fertilization
+    en: the union of sperm and egg; adding nutrients to soil
+    zh: 受精；施肥
+  - word: fertilizer
+    en: a substance added to supply nutrients for plant growth
+    zh: 肥料
+confusables:
+  []
+examples:
+  []
+why_confusing: 

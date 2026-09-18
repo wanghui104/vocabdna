@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: funding
+word: funding
+pos: noun
+zh: 资金；拨款
+en: money provided for a purpose
+components:
+  - morpheme: fund
+    form: fund
+    meaning_in_word: bottom, establish / 底；建立基础
+    zh: 底；建立基础
+    role: root
+    is_core: true
+    note: fund 钱款来自底、存量；found 建立来自 fundare，founder = found + er。fundamentum 深层 fund- + 动词连接元音 a + -mentum；不是 fundere 倒出。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing, related to / 正在……的、与……有关的
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - fund
+word_family_details:
+  - word: fund
+    en: money kept for a particular purpose; to provide money for something
+    zh: 基金；资金；资助
+confusables:
+  []
+examples:
+  []
+why_confusing: 

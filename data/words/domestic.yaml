@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: domestic
+word: domestic
+pos: adjective
+zh: 家庭的
+en: relating to home or family life
+components:
+  - morpheme: domus
+    form: domest
+    meaning_in_word: house, household / 房屋；家庭
+    zh: 房屋；家庭
+    role: root
+    is_core: true
+    note: domest- 是 domesticus 的家庭词干层，domus + 历史扩展 -est-；不是最高级 -est。与英语 -dom 后缀分开。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - domesticate
+  - domesticated
+  - domestication
+word_family_details:
+  - word: domesticate
+    en: to adapt an animal or plant over generations for human use or life with humans
+    zh: 驯化；驯养
+  - word: domesticated
+    en: adapted through breeding to live with or be used by humans
+    zh: 驯化的；家养的
+  - word: domestication
+    en: the process of adapting plants or animals for human use
+    zh: 驯化
+confusables:
+  []
+examples:
+  []
+why_confusing: domest- 是 domesticus 的家庭词干层，domus + 历史扩展 -est-；不是最高级 -est。与英语 -dom 后缀分开。

@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: distribute
+word: distribute
+pos: verb
+zh: 分发；分配；散布
+en: to give or spread something among people or across an area
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: tribut
+    form: tribute
+    meaning_in_word: allot, assign, give / 分配；给予
+    zh: 分配；给予
+    role: root
+    is_core: true
+    note: 更深层关联 tribus 部族：按群体分配；tribus 的更深来源不强拆成 tri- 三。
+word_family:
+  - distribution
+word_family_details:
+  - word: distribution
+    en: the act of giving out; the way things are spread over an area or among groups
+    zh: 分配；分发；分布
+confusables:
+  []
+examples:
+  []
+why_confusing: 更深层关联 tribus 部族：按群体分配；tribus 的更深来源不强拆成 tri- 三。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: media
+word: media
+pos: noun
+zh: 媒体
+en: Means 媒体; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: media
+    form: media
+    meaning_in_word: 媒介；中间物
+    zh: 媒介；中间物
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:media.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

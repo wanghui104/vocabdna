@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adjoin
+word: adjoin
+pos: verb
+zh: 毗连；邻接
+en: to be next to and usually touching another place or thing
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: junct-join
+    form: join
+    meaning_in_word: connect
+    zh: 连接；结合
+    role: root
+    is_core: true
+word_family:
+  - adjoining
+  - adjunct
+word_family_details:
+  - word: adjoining
+    en: next to and connected with something
+    zh: 毗邻的；相连的
+  - word: adjunct
+    en: something added to another thing but not an essential part of it
+    zh: 附件；附属物；附属的
+confusables:
+  - word: adjacent
+    reason: adjoin 常表示地块、房间、建筑相接。
+    zh_reason: adjoin 常表示地块、房间、建筑相接。
+examples:
+  - en: The garden adjoins the museum.
+    zh: 花园与博物馆相邻。
+why_confusing: adjoin 常表示地块、房间、建筑相接。

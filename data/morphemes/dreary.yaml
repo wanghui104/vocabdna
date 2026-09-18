@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dreary
+display: dreary
+type: root
+core_meaning: sad, gloomy
+zh: 悲伤；阴郁
+origin: Old English
+source_form: Old English dreorig, dreor
+source_meaning: sad, gloomy
+source_meaning_zh: 悲伤；阴郁
+source_note: 深层 dreor 血 + -ig 性质后缀（对应 -y）；dreor 又关联 dreosan 下落，现代不强造 drear 自由词。
+related_morphemes:
+  []
+senses:
+  - meaning: sad, gloomy
+    zh: 悲伤；阴郁
+    examples:
+      - dreary
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - dreary -> dreary
+high_value_words:
+  - dreary
+confusable_words:
+  []

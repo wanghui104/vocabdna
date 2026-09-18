@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ultimatum
+word: ultimatum
+pos: noun
+zh: 最后通牒
+en: Means 最后通牒; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ultim
+    form: ultim
+    meaning_in_word: last / 最终
+    zh: 最终
+    role: root
+    is_core: true
+    note: Conservative bottom root inside this learner-visible analysis; deeper source is uncertain or not productive for TOEFL study.
+  - morpheme: atum
+    form: atum
+    meaning_in_word: thing given / 给出的事物
+    zh: 给出的事物
+    role: root
+    is_core: true
+word_family:
+  - ultimate
+word_family_details:
+  - word: ultimate
+    en: Means 最终的，最后的; reviewed from the TOEFL source gloss for learner display.
+    zh: 最终的，最后的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

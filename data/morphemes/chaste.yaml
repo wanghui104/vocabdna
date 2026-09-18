@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chaste
+display: chaste
+type: root
+core_meaning: chaste
+zh: 贞洁；朴素
+origin: Latin
+source_form: Latin castus
+source_meaning: pure, morally clean
+source_meaning_zh: 纯洁；贞洁
+related_morphemes:
+  []
+senses:
+  - meaning: chaste
+    zh: 贞洁；朴素
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

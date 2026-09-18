@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: status
+display: status
+type: root
+core_meaning: standing; condition
+zh: 地位；状态
+origin: Latin
+source_form: status
+source_meaning: standing; condition
+source_meaning_zh: 地位；状态
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: standing; condition
+    zh: 地位；状态
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

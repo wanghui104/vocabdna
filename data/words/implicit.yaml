@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: implicit
+word: implicit
+pos: adjective
+zh: 不明确的，含蓄的
+en: Means 不明确的，含蓄的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
+  - morpheme: plic
+    form: plic
+    meaning_in_word: 折叠；贴合；应用
+    zh: 折叠；贴合；应用
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:plic.
+  - morpheme: it
+    form: it
+    meaning_in_word: it
+    zh: it
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:it.
+word_family:
+  - imply
+  - implication
+word_family_details:
+  - word: imply
+    en: Means 暗示，意味; reviewed from the TOEFL source gloss for learner display.
+    zh: 暗示，意味
+  - word: implication
+    en: Means 暗示，意义 / 牵连; reviewed from the TOEFL source gloss for learner display.
+    zh: 暗示，意义 / 牵连
+confusables:
+  - word: explicit
+    reason: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.
+    zh_reason: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

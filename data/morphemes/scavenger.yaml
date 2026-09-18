@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scavenger
+display: scavenger
+type: root
+core_meaning: scavenger
+zh: scavenger
+origin: teaching morphology
+source_form: scavenger
+source_meaning: scavenger
+source_meaning_zh: scavenger
+related_morphemes:
+  []
+senses:
+  - meaning: scavenger
+    zh: scavenger
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

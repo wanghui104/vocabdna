@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: by-product
+word: by-product
+pos: noun
+zh: 副产品
+en: something produced as a secondary result of a process
+components:
+  - morpheme: by
+    form: by-
+    meaning_in_word: secondary, side
+    zh: 由；被；靠
+    role: prefix
+    is_core: false
+  - morpheme: product
+    form: product
+    meaning_in_word: thing produced
+    zh: 产品；产物
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 也可比喻副作用或附带结果。

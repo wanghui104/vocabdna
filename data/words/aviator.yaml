@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aviator
+word: aviator
+pos: noun
+zh: 飞行员
+en: a pilot or a person who flies aircraft
+components:
+  - morpheme: avi
+    form: avi-
+    meaning_in_word: bird, flight
+    zh: 鸟；飞行
+    role: combining_form
+    is_core: true
+  - morpheme: or
+    form: -ator
+    meaning_in_word: person who does
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 比 pilot 更书面或复古。

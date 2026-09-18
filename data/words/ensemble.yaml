@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ensemble
+word: ensemble
+pos: noun
+zh: 合奏或表演团体；整体；套装
+en: a group performing together; a coordinated set of parts or clothes
+components:
+  - morpheme: ensemble
+    form: ensemble
+    meaning_in_word: together / 一起
+    zh: 一起
+    role: root
+    is_core: true
+    note: 深层 in- 加强 + simul 同时，与 similis 相似相关；保留法语借词整体，不能按英语 seem 拆。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

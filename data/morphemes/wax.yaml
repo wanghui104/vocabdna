@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: wax
+display: wax
+type: root
+core_meaning: wax
+zh: 蜡
+origin: teaching morphology
+source_form: wax
+source_meaning: wax
+source_meaning_zh: 蜡
+source_note: Added during TOEFL 5400 batch 5201-5400 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: wax
+    zh: 蜡
+    examples:
+      - wax
+      - waxy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - wax -> wax
+  - wax -> waxy
+high_value_words:
+  - wax
+  - waxy
+confusable_words:
+  []

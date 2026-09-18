@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: chaste
+word: chaste
+pos: adjective
+zh: 贞洁的，朴素的
+en: Means 贞洁的，朴素的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: chast
+    form: chast
+    meaning_in_word: 纯洁；节制
+    zh: 纯洁；节制
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:chast.
+  - morpheme: e
+    form: -e
+    meaning_in_word: 词尾拼写标记
+    zh: 出；离开；加强
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source shown on root:e.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

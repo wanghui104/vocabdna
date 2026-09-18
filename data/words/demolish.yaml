@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: demolish
+word: demolish
+pos: verb
+zh: 破坏；摧毁；拆除
+en: to destroy a building or structure, or defeat completely
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, apart
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: mol
+    form: molish
+    meaning_in_word: build/work mass; tear down
+    zh: 拆毁；摧毁
+    role: root
+    is_core: true
+word_family:
+  - demolition
+word_family_details:
+  - word: demolition
+    en: the act or process of demolishing something
+    zh: 破坏；拆除
+confusables:
+  []
+examples:
+  []
+why_confusing: demolish 可指拆建筑，也可指彻底击败论点。

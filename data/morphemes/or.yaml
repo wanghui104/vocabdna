@@ -8,23 +8,222 @@ origin: Latin
 source_form: Latin -or
 source_meaning: person or thing that does
 source_meaning_zh: 做……的人或物
+source_note: -or 为 Latin 施事/工具名词后缀；-ator 包含 -at- 动词分词构词层 + -or。不是 error/favor 的抽象 -or。
 related_morphemes:
   []
 senses:
   - meaning: person or thing that does
     zh: 做……的人或物
     examples:
+      - administrator
+      - adventurer
+      - air conditioner
+      - amateur
+      - ancestor
+      - announcer
+      - astronomer
+      - aviator
+      - banker
+      - barber
+      - behavior
+      - biographer
+      - boarder
+      - buzzer
+      - calculator
+      - carver
+      - choreographer
+      - commander
+      - commentator
+      - commissioner
+      - commuter
+      - compensatory
       - competitor
+      - compulsory
+      - conductor
+      - connoisseur
+      - consumer
+      - container
+      - contractor
+      - contradictory
+      - converter
+      - counselor
+      - creditor
+      - curator
+      - debtor
+      - depositor
+      - donor
+      - elevator
+      - escalator
+      - factor
+      - governor
+      - horror
+      - horror film/movie
+      - incorpoarate
+      - incorporation
+      - inspector
+      - minority
+      - oral
+      - oratorio
+      - precursor
+      - predecessor
+      - projector
+      - proprietor
+      - proprietorship
+      - prospector
       - receiver
+      - receptor
+      - sculptor
+      - sector
+      - smoke detector
+      - solicitor
+      - supervisor
+      - survivor
+      - telecommuter
+      - tractor
+      - under the depressor
+      - victor
+      - victorious
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - -ator -> administrator
+  - -er -> adventurer
+  - -er -> air conditioner
+  - -eur -> amateur
+  - -or -> ancestor
+  - -er -> announcer
+  - -er -> astronomer
+  - -ator -> aviator
+  - -er -> banker
+  - -er -> barber
+  - -ior -> behavior
+  - -er -> biographer
+  - -er -> boarder
+  - -er -> buzzer
+  - -ator -> calculator
+  - -er -> carver
+  - -er -> choreographer
+  - -er -> commander
+  - -ator -> commentator
+  - -er -> commissioner
+  - -er -> commuter
+  - -atory -> compensatory
   - -or -> competitor
+  - -ory -> compulsory
+  - -or -> conductor
+  - -eur -> connoisseur
+  - -er -> consumer
+  - -er -> container
+  - -or -> contractor
+  - -ory -> contradictory
+  - -er -> converter
+  - -or -> counselor
+  - -or -> creditor
+  - -ator -> curator
+  - -or -> debtor
+  - -or -> depositor
+  - -or -> donor
+  - -or -> elevator
+  - -ator -> escalator
+  - -or -> factor
+  - -or -> governor
+  - -or -> horror
+  - -or -> horror film/movie
+  - -or -> incorpoarate
+  - -or -> incorporation
+  - -or -> inspector
+  - -or -> minority
+  - or -> oral
+  - or -> oratorio
+  - -or -> precursor
+  - -or -> predecessor
+  - -or -> projector
+  - -or -> proprietor
+  - -or -> proprietorship
+  - -or -> prospector
   - -er -> receiver
+  - -or -> receptor
+  - -or -> sculptor
+  - -or -> sector
+  - -or -> smoke detector
+  - -or -> solicitor
+  - -or -> supervisor
+  - -or -> survivor
+  - -er -> telecommuter
+  - -or -> tractor
+  - -or -> under the depressor
+  - -or -> victor
+  - -or -> victorious
 high_value_words:
+  - administrator
+  - adventurer
+  - air conditioner
+  - amateur
+  - ancestor
+  - announcer
+  - astronomer
+  - aviator
+  - banker
+  - barber
+  - behavior
+  - biographer
+  - boarder
+  - buzzer
+  - calculator
+  - carver
+  - choreographer
+  - commander
+  - commentator
+  - commissioner
+  - commuter
+  - compensatory
   - competitor
+  - compulsory
+  - conductor
+  - connoisseur
+  - consumer
+  - container
+  - contractor
+  - contradictory
+  - converter
+  - counselor
+  - creditor
+  - curator
+  - debtor
+  - depositor
+  - donor
+  - elevator
+  - escalator
+  - factor
+  - governor
+  - horror
+  - horror film/movie
+  - incorpoarate
+  - incorporation
+  - inspector
+  - minority
+  - oral
+  - oratorio
+  - precursor
+  - predecessor
+  - projector
+  - proprietor
+  - proprietorship
+  - prospector
   - receiver
+  - receptor
+  - sculptor
+  - sector
+  - smoke detector
+  - solicitor
+  - supervisor
+  - survivor
+  - telecommuter
+  - tractor
+  - under the depressor
+  - victor
+  - victorious
 confusable_words:
   []

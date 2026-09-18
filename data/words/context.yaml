@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: context
+word: context
+pos: noun
+zh: 上下文；语境；背景
+en: the words or situation around something that help explain its meaning
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: text
+    form: text
+    meaning_in_word: woven words
+    zh: 编织；文本
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: in context / out of context 常见。

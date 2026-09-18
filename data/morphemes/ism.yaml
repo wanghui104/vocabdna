@@ -1,25 +1,108 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: ism
 display: -ism
 type: suffix
-core_meaning: doctrine / practice / condition
-zh: 主义；做法；状态
-origin: Greek -ismos through Latin
+core_meaning: practice, condition
+zh: 行为；状态
+origin: Greek
+source_form: Greek -ismos
+source_meaning: practice, doctrine, condition
+source_meaning_zh: 行为；主义；状态
+related_morphemes:
+  []
 senses:
-  - meaning: doctrine / practice
-    zh: 主义；实践
+  - meaning: practice, condition
+    zh: 行为；状态
     examples:
-      - realism
-      - archaism
+      - absenteeism
+      - cannibalism
+      - careerism
+      - colloquialism
+      - conservatism
+      - cubism
+      - eclecticism
+      - escapism
+      - fanaticism
+      - feminism
+      - feudalism
+      - heroism
+      - individualism
+      - journalism
+      - magnetism
+      - mannerism
       - mechanism
+      - metabolism
+      - microorganism
+      - organism
+      - plagiarism
+      - professionalism
+      - provincialism
+      - reformism
+      - sentimentalism
+      - symbolism
+      - urbanism
+      - vitalism
 similar_form:
-  - ist
+  []
 similar_meaning:
-  - doctrine
+  []
 patterns:
-  - root + -ism = system, doctrine, practice, or condition
+  - -ism -> absenteeism
+  - -ism -> cannibalism
+  - -ism -> careerism
+  - -ism -> colloquialism
+  - -ism -> conservatism
+  - -ism -> cubism
+  - -ism -> eclecticism
+  - -ism -> escapism
+  - -ism -> fanaticism
+  - -ism -> feminism
+  - -ism -> feudalism
+  - -ism -> heroism
+  - -ism -> individualism
+  - -ism -> journalism
+  - -ism -> magnetism
+  - -ism -> mannerism
+  - -ism -> mechanism
+  - -ism -> metabolism
+  - -ism -> microorganism
+  - -ism -> organism
+  - -ism -> plagiarism
+  - ism -> professionalism
+  - -ism -> provincialism
+  - -ism -> reformism
+  - -ism -> sentimentalism
+  - -ism -> symbolism
+  - -ism -> urbanism
+  - -ism -> vitalism
 high_value_words:
-  - realism
-  - archaism
+  - absenteeism
+  - cannibalism
+  - careerism
+  - colloquialism
+  - conservatism
+  - cubism
+  - eclecticism
+  - escapism
+  - fanaticism
+  - feminism
+  - feudalism
+  - heroism
+  - individualism
+  - journalism
+  - magnetism
+  - mannerism
   - mechanism
+  - metabolism
+  - microorganism
+  - organism
+  - plagiarism
+  - professionalism
+  - provincialism
+  - reformism
+  - sentimentalism
+  - symbolism
+  - urbanism
+  - vitalism
 confusable_words:
-  - -ism doctrine vs -ist person
+  []

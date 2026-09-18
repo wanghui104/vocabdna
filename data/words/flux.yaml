@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flux
+word: flux
+pos: noun
+zh: 不断变动
+en: continuous movement or change
+components:
+  - morpheme: flu
+    form: flux
+    meaning_in_word: flow / 流动
+    zh: 流动
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

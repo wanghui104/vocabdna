@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: constellation
+word: constellation
+pos: noun
+zh: 星座；灿烂的一群
+en: a group of stars forming a pattern, or an impressive group of people/things
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: stell
+    form: stell
+    meaning_in_word: star
+    zh: 星
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: group/result
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可比喻一群杰出人物或事物。

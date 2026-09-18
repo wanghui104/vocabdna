@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: exemplify
+word: exemplify
+pos: verb
+zh: 举例说明；典型地体现
+en: to illustrate by example or be a typical example of
+components:
+  - morpheme: exempl
+    form: exempl
+    meaning_in_word: sample taken out / 取出的样本
+    zh: 取出的样本
+    role: root
+    is_core: true
+    note: 深层 ex- 出 + emere 取 → exemplum 样本；-pl- 属历史名词构词扩展，不能漏掉并称现代 ex+em 拼合。保留 exempl-/example 表层。
+    related_morphemes:
+      - e
+      - em-empt
+  - morpheme: ify
+    form: -ify
+    meaning_in_word: make, cause to become / 使成为
+    zh: 使成为
+    role: suffix
+    is_core: false
+    note: -ify 更深来自 Latin facere 做的复合构词形；不是不可解释的整块。
+    related_morphemes:
+      - fac
+word_family:
+  - example
+  - exemplary
+word_family_details:
+  - word: example
+    en: a representative instance or model
+    zh: 例子；榜样
+  - word: exemplary
+    en: serving as an excellent model or a warning
+    zh: 可作榜样的；示范性的；惩戒性的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

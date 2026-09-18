@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: demonstrate
+word: demonstrate
+pos: verb
+zh: 演示；论证；证明
+en: to show clearly, explain by example, or prove with evidence
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: completely
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: monstr
+    form: monstr
+    meaning_in_word: show, point out
+    zh: 展示；论证
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: do
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+word_family:
+  - demonstration
+word_family_details:
+  - word: demonstration
+    en: an act of showing how something works, proving something, or publicly expressing a view
+    zh: 实证；示范；演示；示威
+confusables:
+  []
+examples:
+  []
+why_confusing: demonstrate skill/evidence/product 都常见。

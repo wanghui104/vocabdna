@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cylinder
+word: cylinder
+pos: noun
+zh: 圆筒；圆柱体
+en: a solid or object with circular ends and straight parallel sides
+components:
+  - morpheme: cyl
+    form: cylinder
+    meaning_in_word: roller, cylinder
+    zh: 圆筒；圆柱
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: engine cylinder 发动机气缸；cylindrical 是形容词。

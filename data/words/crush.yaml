@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crush
+word: crush
+pos: verb
+zh: 压垮；粉碎；使变形
+en: to press something so hard that it breaks or loses shape, or to defeat completely
+components:
+  - morpheme: crush
+    form: crush
+    meaning_in_word: press hard
+    zh: 压垮；粉碎
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: crush 可指物理压碎，也可指彻底击败。

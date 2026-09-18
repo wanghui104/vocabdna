@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dated
+word: dated
+pos: adjective
+zh: 陈旧的；过时的
+en: no longer modern or fashionable
+components:
+  - morpheme: date
+    form: date
+    meaning_in_word: date, age
+    zh: 日期；注明日期
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having a state
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - date
+  - outdated
+word_family_details:
+  - word: date
+    en: to write or mark the date on something
+    zh: 注明日期
+  - word: outdated
+    en: Means 过时的; reviewed from the TOEFL source gloss for learner display.
+    zh: 过时的
+confusables:
+  []
+examples:
+  []
+why_confusing: dated 可指设计、语言或观点过时。

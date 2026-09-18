@@ -3,28 +3,67 @@ id: ject
 display: ject
 type: root
 core_meaning: throw
-zh: 投、扔
+zh: 投射；猜想
 origin: Latin
+source_form: Latin iacere / iactus
+source_meaning: throw
+source_meaning_zh: 投；抛
 related_morphemes:
   []
 senses:
   - meaning: throw
-    zh: 投、扔
+    zh: 投射；猜想
     examples:
+      - conjectural
+      - conjecture
       - eject
       - inject
+      - objection
+      - objective
       - project
+      - projecting
+      - projection
+      - projectionist
+      - projector
+      - reject
+      - rejection
+      - subject to
+      - subjected
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - ject -> conjectural
+  - ject -> conjecture
   - ject -> eject
   - ject -> inject
+  - ject -> objection
+  - ject -> objective
   - ject -> project
+  - ject -> projecting
+  - ject -> projection
+  - ject -> projectionist
+  - ject -> projector
+  - ject -> reject
+  - ject -> rejection
+  - ject -> subject to
+  - ject -> subjected
 high_value_words:
+  - conjectural
+  - conjecture
   - eject
   - inject
+  - objection
+  - objective
   - project
+  - projecting
+  - projection
+  - projectionist
+  - projector
+  - reject
+  - rejection
+  - subject to
+  - subjected
 confusable_words:
   []

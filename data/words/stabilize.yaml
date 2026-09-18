@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: stabilize
+word: stabilize
+pos: verb
+zh: 使稳定，使坚固
+en: Means 使稳定，使坚固; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: st
+    form: st
+    meaning_in_word: stand; be firm / 站立；稳定
+    zh: 站立；稳定
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -able
+    meaning_in_word: able to; fit for / 能够；适合
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+  - morpheme: ize
+    form: -ize
+    meaning_in_word: make; become / 使成；变成
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - stability
+  - stable
+word_family_details:
+  - word: stability
+    en: Means 稳定性; reviewed from the TOEFL source gloss for learner display.
+    zh: 稳定性
+  - word: stable
+    en: Means 稳定的，相对固定的; reviewed from the TOEFL source gloss for learner display.
+    zh: 稳定的，相对固定的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

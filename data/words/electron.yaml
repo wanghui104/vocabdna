@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: electron
+word: electron
+pos: noun
+zh: 电子
+en: a subatomic particle carrying a negative electric charge
+components:
+  - morpheme: electr
+    form: electr
+    meaning_in_word: amber / 琥珀
+    zh: 琥珀
+    role: root
+    is_core: true
+    note: electric 与琥珀摩擦产生电的现象相关；electron 为 electr- + 粒子后缀 -on，不是 elect 选举。
+  - morpheme: on-particle
+    form: -on
+    meaning_in_word: particle / 粒子
+    zh: 粒子
+    role: suffix
+    is_core: false
+    note: electron 的 -on 是近代粒子命名后缀，非介词 on。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

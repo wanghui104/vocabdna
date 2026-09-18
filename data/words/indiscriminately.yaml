@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: indiscriminately
+word: indiscriminately
+pos: verb/adverb
+zh: 随意地；不加区别地
+en: Means 随意地；不加区别地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:dis.
+  - morpheme: crimin
+    form: crimin
+    meaning_in_word: 判断；区分
+    zh: 判断；区分
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:crimin.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ate.
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ly.
+word_family:
+  - indiscrimination
+word_family_details:
+  - word: indiscrimination
+    en: Means 歧视; reviewed from the TOEFL source gloss for learner display.
+    zh: 歧视
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

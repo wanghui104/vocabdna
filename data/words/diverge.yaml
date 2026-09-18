@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diverge
+word: diverge
+pos: verb
+zh: 分叉；分歧
+en: to move apart or develop in different directions
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: verge
+    form: verge
+    meaning_in_word: bend toward, converge / 趋向；会聚
+    zh: 趋向；会聚
+    role: root
+    is_core: true
+word_family:
+  - divergent
+  - divergence
+word_family_details:
+  - word: divergent
+    en: moving apart or becoming different
+    zh: 分开的；有分歧的
+  - word: divergence
+    en: a movement apart or a difference between views or developments
+    zh: 分歧；分离；差异
+confusables:
+  []
+examples:
+  []
+why_confusing: 

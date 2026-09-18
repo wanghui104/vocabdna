@@ -2,36 +2,35 @@
 id: inspect
 word: inspect
 pos: verb
-zh: 检查；视察
-en: to look at something carefully
+zh: 检查；审查
+en: Means 检查；审查; reviewed from the TOEFL source gloss for learner display.
 components:
-  - morpheme: im
+  - morpheme: in
     form: in-
-    meaning_in_word: into
-    zh: 进入、向内；不、否定
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
     role: prefix
     is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
   - morpheme: spect
     form: spect
-    meaning_in_word: look
+    meaning_in_word: 看
     zh: 看
     role: root
     is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:spect.
 word_family:
   - inspection
   - inspector
 word_family_details:
   - word: inspection
-    en: related form of inspection
-    zh: inspection 的相关词
+    en: Means 检查，细看; reviewed from the TOEFL source gloss for learner display.
+    zh: 检查，细看
   - word: inspector
-    en: related form of inspector
-    zh: inspector 的相关词
+    en: Means 检查员，巡视员; reviewed from the TOEFL source gloss for learner display.
+    zh: 检查员，巡视员
 confusables:
-  - word: expect
-    reason: inspect 是检查；expect 是期待。
-    zh_reason: inspect 是检查；expect 是期待。
+  []
 examples:
-  - en: The technician inspected the engine.
-    zh: 技术员检查了发动机。
-why_confusing: inspect 是检查；expect 是期待。
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fog
+display: fog
+type: root
+core_meaning: mist
+zh: 雾
+origin: Unknown
+source_form: English fog; possible Scandinavian origin
+source_meaning: mist
+source_meaning_zh: 雾
+source_note: 借入或由 foggy 逆构的路径未定；foggy/fogged 的双 g 是拼写规则。
+related_morphemes:
+  []
+senses:
+  - meaning: mist
+    zh: 雾
+    examples:
+      - fog
+      - fogged
+      - foggy
+      - foghorn
+      - smog
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - fog -> fog
+  - fogg -> fogged
+  - fogg -> foggy
+  - fog -> foghorn
+  - fog -> smog
+high_value_words:
+  - fog
+  - fogged
+  - foggy
+  - foghorn
+  - smog
+confusable_words:
+  []

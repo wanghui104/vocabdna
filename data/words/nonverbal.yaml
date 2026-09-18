@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: nonverbal
+word: nonverbal
+pos: adjective
+zh: 不用语言的
+en: Means 不用语言的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: non
+    form: non-
+    meaning_in_word: not / 不
+    zh: 非；不
+    role: prefix
+    is_core: false
+  - morpheme: verb
+    form: verb
+    meaning_in_word: word / 词；语言
+    zh: 词；语言
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 与…有关
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - verbal
+word_family_details:
+  - word: verbal
+    en: Means 口头的; reviewed from the TOEFL source gloss for learner display.
+    zh: 口头的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

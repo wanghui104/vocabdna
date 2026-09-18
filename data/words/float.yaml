@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: float
+word: float
+pos: verb/noun
+zh: 漂浮；飘动
+en: to remain on the surface of a liquid or drift in air
+components:
+  - morpheme: float
+    form: float
+    meaning_in_word: float / 漂浮
+    zh: 漂浮
+    role: root
+    is_core: true
+    note: 来自本族浮动词族；不是从 Latin fluere 直接借入。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

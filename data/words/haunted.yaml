@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: haunted
+word: haunted
+pos: adjective
+zh: 闹鬼的,鬼魂出没的,受到折磨的
+en: Means 闹鬼的,鬼魂出没的,受到折磨的; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: haunt
+    form: haunt
+    meaning_in_word: haunt
+    zh: （思想、回忆等）萦绕心头；常去的地方
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:haunt.
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+    note: Suffix layer from Old English -ed.
+word_family:
+  - haunt
+word_family_details:
+  - word: haunt
+    en: Means （思想、回忆等）萦绕心头 / 常去的地方; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: （思想、回忆等）萦绕心头 / 常去的地方
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

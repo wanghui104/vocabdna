@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: frenetic
+word: frenetic
+pos: adjective
+zh: 狂乱的；疯狂忙碌的
+en: wildly excited or hurried
+components:
+  - morpheme: frenet
+    form: frenet
+    meaning_in_word: mind, mental frenzy / 心智；狂乱
+    zh: 心智；狂乱
+    role: root
+    is_core: true
+    note: frenetic = frenet- + -ic；内部 phrenit- 来自 phren 心智/膈 + -itis 病症层，传入后拼写变化，不是 free。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

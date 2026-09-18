@@ -14,23 +14,25 @@ components:
   - morpheme: duc
     form: duct
     meaning_in_word: lead
-    zh: 引导、带领
+    zh: 引导；传导
     role: root
     is_core: true
 word_family:
   - conduction
   - conductor
+  - conductivity
 word_family_details:
   - word: conduction
-    en: related form of conduction
-    zh: conduction 的相关词
+    en: the process by which heat, electricity, or sound is carried through a material
+    zh: 传导；传导作用
   - word: conductor
-    en: related form of conductor
-    zh: conductor 的相关词
+    en: a material that carries energy, or a person who leads music or passengers
+    zh: 导体；指挥；售票员
+  - word: conductivity
+    en: the ability of a material to conduct heat, electricity, or sound
+    zh: 导电率；传导率
 confusables:
-  - word: conductive
-    reason: conduct 作名词可指行为，作动词可指实施。
-    zh_reason: conduct 作名词可指行为，作动词可指实施。
+  []
 examples:
   - en: Researchers conducted a survey.
     zh: 研究人员开展了一项调查。

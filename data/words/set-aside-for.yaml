@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: set-aside-for
+word: set aside for
+pos: phrase
+zh: 专门留出时间做…
+en: Means 专门留出时间做…; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: set
+    form: set
+    meaning_in_word: set / 放置；背景
+    zh: 放置；开始
+    role: root
+    is_core: true
+  - morpheme: aside
+    form: aside
+    meaning_in_word: aside / 在旁
+    zh: 在旁
+    role: root
+    is_core: true
+  - morpheme: for
+    form: for
+    meaning_in_word: for / 为了
+    zh: 为
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

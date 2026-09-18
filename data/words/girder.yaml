@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: girder
+word: girder
+pos: noun
+zh: 钢结构大梁
+en: Means 钢结构大梁; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: gird
+    form: gird
+    meaning_in_word: 束住；支撑
+    zh: 钢梁；支撑梁
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source shown on root:gird.
+  - morpheme: er
+    form: -er
+    meaning_in_word: 做……的物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source shown on root:er.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: beam
+    reason: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.
+    zh_reason: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

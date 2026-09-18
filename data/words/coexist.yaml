@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: coexist
+word: coexist
+pos: verb
+zh: 同时存在；共存
+en: to exist at the same time or in the same place
+components:
+  - morpheme: com
+    form: co-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: exist
+    form: exist
+    meaning_in_word: exist
+    zh: 存在
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: coexist with 可指和平共处或同时存在。

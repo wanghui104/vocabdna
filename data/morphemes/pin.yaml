@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pin
+display: pin
+type: root
+core_meaning: pin
+zh: 针
+origin: teaching morphology
+source_form: pin
+source_meaning: pin
+source_meaning_zh: 针
+related_morphemes:
+  []
+senses:
+  - meaning: pin
+    zh: 针
+    examples:
+      - pinpoint
+      - stickpin
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pin -> pinpoint
+  - pin -> stickpin
+high_value_words:
+  - pinpoint
+  - stickpin
+confusable_words:
+  []

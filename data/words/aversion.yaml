@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aversion
+word: aversion
+pos: noun
+zh: 厌恶；反感
+en: a strong dislike or unwillingness
+components:
+  - morpheme: ab
+    form: a-
+    meaning_in_word: away
+    zh: 离开、偏离
+    role: prefix
+    is_core: false
+  - morpheme: vert
+    form: vers
+    meaning_in_word: turned
+    zh: 转、转向
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: state
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  - averse
+word_family_details:
+  - word: averse
+    en: strongly disliking or unwilling to do something
+    zh: 反对的；不愿意的
+confusables:
+  - word: adverse
+    reason: aversion 常接 to/toward。
+    zh_reason: aversion 常接 to/toward。
+examples:
+  []
+why_confusing: aversion 常接 to/toward。

@@ -2,36 +2,33 @@
 id: respect
 word: respect
 pos: verb/noun
-zh: 尊重；方面
-en: to regard someone or something with care or honor
+zh: 尊敬，敬重；方面
+en: Means 尊敬，敬重；方面; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: re
     form: re-
-    meaning_in_word: back
+    meaning_in_word: back; again / 回；再
     zh: 回、再、反向
     role: prefix
     is_core: false
   - morpheme: spect
     form: spect
-    meaning_in_word: look
+    meaning_in_word: look / 看
     zh: 看
     role: root
     is_core: true
 word_family:
-  - respectful
   - respective
+  - respectively
 word_family_details:
-  - word: respectful
-    en: related form of respectful
-    zh: respectful 的相关词
   - word: respective
-    en: related form of respective
-    zh: respective 的相关词
+    en: Means 分别的，各自的; reviewed from the TOEFL source gloss for learner display.
+    zh: 分别的，各自的
+  - word: respectively
+    en: Means 分别地，各个地; reviewed from the TOEFL source gloss for learner display.
+    zh: 分别地，各个地
 confusables:
-  - word: respective
-    reason: respectful 是恭敬的；respective 是各自的。
-    zh_reason: respectful 是恭敬的；respective 是各自的。
+  []
 examples:
-  - en: Good teams respect different opinions.
-    zh: 好的团队尊重不同意见。
-why_confusing: respectful 是恭敬的；respective 是各自的。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

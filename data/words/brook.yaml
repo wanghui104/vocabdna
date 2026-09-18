@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: brook
+word: brook
+pos: noun
+zh: 小河；溪流
+en: a small stream
+components:
+  - morpheme: brook
+    form: brook
+    meaning_in_word: stream
+    zh: 小河；溪流
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: brook 作动词还可表示容忍，但本批是名词。

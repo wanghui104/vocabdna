@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: impart
+word: impart
+pos: verb
+zh: 传授；传递，传达
+en: Means 传授；传递，传达; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: im
+    form: im-
+    meaning_in_word: 进入、向内；不、否定
+    zh: 进入、向内；不、否定
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:im.
+  - morpheme: part
+    form: part
+    meaning_in_word: 分开；离开
+    zh: 分开；离开
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:part.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

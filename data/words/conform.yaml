@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: conform
+word: conform
+pos: verb
+zh: 遵守；顺从；符合
+en: to behave according to rules or fit a pattern
+components:
+  - morpheme: con
+    form: con-
+    meaning_in_word: together
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: form
+    form: form
+    meaning_in_word: form, pattern
+    zh: 形式；符合
+    role: root
+    is_core: true
+word_family:
+  - conformity
+  - nonconformity
+  - nonconformist
+word_family_details:
+  - word: conformity
+    en: behavior or a state that follows accepted rules or patterns
+    zh: 一致；符合；顺从
+  - word: nonconformity
+    en: failure or refusal to follow accepted rules or patterns
+    zh: 不一致；不墨守成规
+  - word: nonconformist
+    en: Means 不遵照传统生活的（人）; reviewed from the TOEFL source gloss for learner display.
+    zh: 不遵照传统生活的（人）
+confusables:
+  []
+examples:
+  []
+why_confusing: conform to/with rules or expectations.

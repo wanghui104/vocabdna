@@ -1,0 +1,33 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sculpt
+display: sculpt
+type: root
+core_meaning: carve
+zh: 雕刻
+origin: teaching morphology
+source_form: sculpt
+source_meaning: carve
+source_meaning_zh: 雕刻
+related_morphemes:
+  []
+senses:
+  - meaning: carve
+    zh: 雕刻
+    examples:
+      - sculptor
+      - sculptural
+      - sculpture
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - sculpt -> sculptor
+  - sculpt -> sculptural
+  - sculpt -> sculpture
+high_value_words:
+  - sculptor
+  - sculptural
+  - sculpture
+confusable_words:
+  []

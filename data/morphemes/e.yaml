@@ -2,29 +2,624 @@
 id: e
 display: e-
 type: prefix
-core_meaning: out, from
-zh: 出、向外
+core_meaning: out, from; thoroughly
+zh: 出；离开；加强
 origin: Latin
+source_form: Latin ex-/e-
+source_meaning: out, from; thoroughly
+source_meaning_zh: 出；离开；加强
+source_note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
 related_morphemes:
   []
 senses:
-  - meaning: out, from
-    zh: 出、向外
+  - meaning: out, from; thoroughly
+    zh: 出；离开；加强
     examples:
-      - export
+      - chaste
+      - edentate
+      - effect
+      - effective
+      - effectiveness
+      - efficiency
+      - efficient
+      - effluent
       - eject
+      - elaborate
+      - elaborately
+      - elect
+      - election
+      - elegance
+      - elegant
+      - elevate
+      - elevation
+      - elevator
+      - elicit
+      - eligible
+      - eliminate
+      - elimination
+      - elongate
+      - eloquence
+      - eloquent
+      - elude
+      - elusive
+      - emancipate
+      - emancipation
+      - emerge
+      - emergence
+      - emerging
+      - emigrant
+      - emigrate
+      - emigration
+      - eminence
+      - eminent
+      - emission
+      - emit
+      - emotion
+      - emotional
+      - enormous
+      - eradicate
+      - erect
+      - erode
+      - erosion
+      - erupt
+      - eruption
+      - evaluate
+      - evaluation
+      - evaporate
+      - evaporation
+      - event
+      - eventful
+      - eventual
+      - eventually
+      - evidence
+      - evident
+      - eviscerate
+      - evocation
+      - evoke
+      - evolution
+      - evolutionary
+      - evolve
+      - exact
+      - exacting
+      - exaggerate
+      - exaggeration
+      - exalt
+      - exalted
+      - excavate
+      - excavation
       - exceed
+      - excel
+      - excellence
+      - excellent
+      - except
+      - exception
+      - exceptional
+      - exceptionally
+      - excess
+      - excessive
+      - exchange
+      - excite
+      - excited
+      - excitement
+      - exciting
+      - exclaim
+      - exclamation
+      - exclude
+      - exclusion
+      - exclusive
+      - exclusively
+      - excursion
+      - excuse
+      - execute
+      - execution
+      - executive
+      - exempt
+      - exemption
+      - exert
+      - exertion
+      - exhale
+      - exhaust
+      - exhausted
+      - exhausting
+      - exhaustion
+      - exhibit
+      - exhibition
+      - exhilarate
+      - exhilarating
+      - exhilaration
+      - exit
+      - exorbitant
+      - expand
+      - expanding
+      - expanse
+      - expansion
+      - expedition
+      - expel
+      - expenditure
+      - expert
+      - expertise
+      - expire
+      - explicit
+      - explode
+      - exploit
+      - exploitation
+      - exploration
+      - explore
+      - explorer
+      - explosion
+      - explosive
+      - exponent
+      - exponential
+      - export
+      - expose
+      - exposition
+      - exposure
+      - express
+      - express business
+      - express train
+      - expression
+      - expressive
+      - expressly
+      - extend
+      - extended
+      - extension
+      - extensive
+      - extermination
+      - extinct
+      - extinction
+      - extinguish
+      - extol
+      - extract
+      - extraction
+      - exuberance
+      - exuberant
+      - locomote
+      - oblige
+      - obscure
+      - opposite
+      - persevere
+      - perspire
+      - persuade
+      - pollute
+      - pose
+      - preeminent
+      - premature
+      - prescribe
+      - preserve
+      - preside over
+      - prime
+      - produce
+      - prosecute
+      - provoke
+      - pulse
+      - refine
+      - refute
+      - rehearse
+      - relieve
+      - reproduce
+      - reserve
+      - reside
+      - resolve
+      - restore
+      - retire
+      - retrieve
+      - reverse
+      - revise
+      - revive
+      - ridicule
+      - sample
+      - scale
+      - seclude
+      - secrete
+      - secure
+      - supervise
+      - universe
+      - vaccine
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - ex- -> export
+  - -e -> chaste
+  - e- -> edentate
+  - ef- -> effect
+  - ef- -> effective
+  - ef- -> effectiveness
+  - ef- -> efficiency
+  - ef- -> efficient
+  - ef- -> effluent
   - e- -> eject
+  - e- -> elaborate
+  - e- -> elaborately
+  - e- -> elect
+  - e- -> election
+  - e- -> elegance
+  - e- -> elegant
+  - e- -> elevate
+  - e- -> elevation
+  - e- -> elevator
+  - e- -> elicit
+  - e- -> eligible
+  - e- -> eliminate
+  - e- -> elimination
+  - e- -> elongate
+  - e- -> eloquence
+  - e- -> eloquent
+  - e- -> elude
+  - e- -> elusive
+  - e- -> emancipate
+  - e- -> emancipation
+  - e- -> emerge
+  - e- -> emergence
+  - e- -> emerging
+  - e- -> emigrant
+  - e- -> emigrate
+  - e- -> emigration
+  - e- -> eminence
+  - e -> eminent
+  - e- -> emission
+  - e- -> emit
+  - e- -> emotion
+  - e- -> emotional
+  - e- -> enormous
+  - e- -> eradicate
+  - e- -> erect
+  - e- -> erode
+  - e- -> erosion
+  - e- -> erupt
+  - e- -> eruption
+  - e- -> evaluate
+  - e- -> evaluation
+  - e- -> evaporate
+  - e- -> evaporation
+  - e- -> event
+  - e- -> eventful
+  - e- -> eventual
+  - e- -> eventually
+  - e- -> evidence
+  - e- -> evident
+  - e- -> eviscerate
+  - e- -> evocation
+  - e- -> evoke
+  - e- -> evolution
+  - e- -> evolutionary
+  - e- -> evolve
+  - ex- -> exact
+  - ex- -> exacting
+  - ex- -> exaggerate
+  - ex- -> exaggeration
+  - ex- -> exalt
+  - ex- -> exalted
+  - ex- -> excavate
+  - ex- -> excavation
   - ex- -> exceed
+  - ex- -> excel
+  - ex- -> excellence
+  - ex- -> excellent
+  - ex- -> except
+  - ex- -> exception
+  - ex- -> exceptional
+  - ex- -> exceptionally
+  - ex- -> excess
+  - ex- -> excessive
+  - ex- -> exchange
+  - ex- -> excite
+  - ex- -> excited
+  - ex- -> excitement
+  - ex- -> exciting
+  - ex- -> exclaim
+  - ex- -> exclamation
+  - ex- -> exclude
+  - ex- -> exclusion
+  - ex- -> exclusive
+  - ex- -> exclusively
+  - ex- -> excursion
+  - ex- -> excuse
+  - ex- -> execute
+  - ex- -> execution
+  - ex- -> executive
+  - ex- -> exempt
+  - ex- -> exemption
+  - ex- -> exert
+  - ex- -> exertion
+  - ex- -> exhale
+  - ex- -> exhaust
+  - ex- -> exhausted
+  - ex- -> exhausting
+  - ex- -> exhaustion
+  - ex- -> exhibit
+  - ex- -> exhibition
+  - ex- -> exhilarate
+  - ex- -> exhilarating
+  - ex- -> exhilaration
+  - ex- -> exit
+  - ex- -> exorbitant
+  - ex- -> expand
+  - ex- -> expanding
+  - ex- -> expanse
+  - ex- -> expansion
+  - ex- -> expedition
+  - ex- -> expel
+  - ex- -> expenditure
+  - ex- -> expert
+  - ex- -> expertise
+  - ex- -> expire
+  - ex- -> explicit
+  - ex- -> explode
+  - ex- -> exploit
+  - ex- -> exploitation
+  - ex- -> exploration
+  - ex- -> explore
+  - ex- -> explorer
+  - ex- -> explosion
+  - ex- -> explosive
+  - ex- -> exponent
+  - ex- -> exponential
+  - ex- -> export
+  - ex- -> expose
+  - ex- -> exposition
+  - ex- -> exposure
+  - ex- -> express
+  - ex- -> express business
+  - ex- -> express train
+  - ex- -> expression
+  - ex- -> expressive
+  - ex- -> expressly
+  - ex- -> extend
+  - ex- -> extended
+  - ex- -> extension
+  - ex- -> extensive
+  - ex- -> extermination
+  - ex- -> extinct
+  - ex- -> extinction
+  - ex- -> extinguish
+  - ex- -> extol
+  - ex- -> extract
+  - ex- -> extraction
+  - ex- -> exuberance
+  - ex- -> exuberant
+  - e- -> locomote
+  - -e -> oblige
+  - -e -> obscure
+  - -e -> opposite
+  - e -> persevere
+  - e -> perspire
+  - e -> persuade
+  - e -> pollute
+  - -e -> pose
+  - e -> preeminent
+  - e -> premature
+  - e -> prescribe
+  - e -> preserve
+  - e -> preside over
+  - -e -> prime
+  - e -> produce
+  - e -> prosecute
+  - e -> provoke
+  - -e -> pulse
+  - -e -> refine
+  - e -> refute
+  - e -> rehearse
+  - e -> relieve
+  - e -> reproduce
+  - e -> reserve
+  - e -> reside
+  - e -> resolve
+  - e -> restore
+  - e -> retire
+  - e -> retrieve
+  - e- -> reverse
+  - e -> revise
+  - e -> revive
+  - e -> ridicule
+  - -e -> sample
+  - -e -> scale
+  - e -> seclude
+  - e -> secrete
+  - -e -> secure
+  - -e -> supervise
+  - e- -> universe
+  - e- -> vaccine
 high_value_words:
-  - export
+  - chaste
+  - edentate
+  - effect
+  - effective
+  - effectiveness
+  - efficiency
+  - efficient
+  - effluent
   - eject
+  - elaborate
+  - elaborately
+  - elect
+  - election
+  - elegance
+  - elegant
+  - elevate
+  - elevation
+  - elevator
+  - elicit
+  - eligible
+  - eliminate
+  - elimination
+  - elongate
+  - eloquence
+  - eloquent
+  - elude
+  - elusive
+  - emancipate
+  - emancipation
+  - emerge
+  - emergence
+  - emerging
+  - emigrant
+  - emigrate
+  - emigration
+  - eminence
+  - eminent
+  - emission
+  - emit
+  - emotion
+  - emotional
+  - enormous
+  - eradicate
+  - erect
+  - erode
+  - erosion
+  - erupt
+  - eruption
+  - evaluate
+  - evaluation
+  - evaporate
+  - evaporation
+  - event
+  - eventful
+  - eventual
+  - eventually
+  - evidence
+  - evident
+  - eviscerate
+  - evocation
+  - evoke
+  - evolution
+  - evolutionary
+  - evolve
+  - exact
+  - exacting
+  - exaggerate
+  - exaggeration
+  - exalt
+  - exalted
+  - excavate
+  - excavation
   - exceed
+  - excel
+  - excellence
+  - excellent
+  - except
+  - exception
+  - exceptional
+  - exceptionally
+  - excess
+  - excessive
+  - exchange
+  - excite
+  - excited
+  - excitement
+  - exciting
+  - exclaim
+  - exclamation
+  - exclude
+  - exclusion
+  - exclusive
+  - exclusively
+  - excursion
+  - excuse
+  - execute
+  - execution
+  - executive
+  - exempt
+  - exemption
+  - exert
+  - exertion
+  - exhale
+  - exhaust
+  - exhausted
+  - exhausting
+  - exhaustion
+  - exhibit
+  - exhibition
+  - exhilarate
+  - exhilarating
+  - exhilaration
+  - exit
+  - exorbitant
+  - expand
+  - expanding
+  - expanse
+  - expansion
+  - expedition
+  - expel
+  - expenditure
+  - expert
+  - expertise
+  - expire
+  - explicit
+  - explode
+  - exploit
+  - exploitation
+  - exploration
+  - explore
+  - explorer
+  - explosion
+  - explosive
+  - exponent
+  - exponential
+  - export
+  - expose
+  - exposition
+  - exposure
+  - express
+  - express business
+  - express train
+  - expression
+  - expressive
+  - expressly
+  - extend
+  - extended
+  - extension
+  - extensive
+  - extermination
+  - extinct
+  - extinction
+  - extinguish
+  - extol
+  - extract
+  - extraction
+  - exuberance
+  - exuberant
+  - locomote
+  - oblige
+  - obscure
+  - opposite
+  - persevere
+  - perspire
+  - persuade
+  - pollute
+  - pose
+  - preeminent
+  - premature
+  - prescribe
+  - preserve
+  - preside over
+  - prime
+  - produce
+  - prosecute
+  - provoke
+  - pulse
+  - refine
+  - refute
+  - rehearse
+  - relieve
+  - reproduce
+  - reserve
+  - reside
+  - resolve
+  - restore
+  - retire
+  - retrieve
+  - reverse
+  - revise
+  - revive
+  - ridicule
+  - sample
+  - scale
+  - seclude
+  - secrete
+  - secure
+  - supervise
+  - universe
+  - vaccine
 confusable_words:
   []

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: interval
+display: interval
+type: root
+core_meaning: space between
+zh: 间隔；中间距离
+origin: Latin
+source_form: Latin intervallum
+source_meaning: space between
+source_meaning_zh: 间隔；中间距离
+related_morphemes:
+  []
+senses:
+  - meaning: space between
+    zh: 间隔；中间距离
+    examples:
+      - at intervals
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - intervals -> at intervals
+high_value_words:
+  - at intervals
+confusable_words:
+  []

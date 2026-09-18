@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: shift
+word: shift
+pos: verb
+zh: 移动，改变位置或方向；轮班；转移；改变
+en: Means 移动，改变位置或方向；轮班；转移；改变; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: shift
+    form: shift
+    meaning_in_word: shift / 移动
+    zh: 移动
+    role: root
+    is_core: true
+    note: Kept as a bottom teaching root for this word; further historical segmentation is uncertain or not useful for TOEFL study.
+word_family:
+  - shifting
+word_family_details:
+  - word: shifting
+    en: Means 变动的；运动的; reviewed from the TOEFL source gloss for learner display.
+    zh: 变动的；运动的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

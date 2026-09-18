@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: salinity
+word: salinity
+pos: noun
+zh: 盐分，盐度
+en: Means 盐分，盐度; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sal
+    form: sal
+    meaning_in_word: salt / 盐
+    zh: 盐
+    role: root
+    is_core: true
+  - morpheme: in
+    form: in-
+    meaning_in_word: in; not / 在内；不
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: state or quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

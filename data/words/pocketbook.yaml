@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pocketbook
+word: pocketbook
+pos: noun
+zh: 钱袋，皮夹
+en: Means 钱袋，皮夹; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pocket
+    form: pocket
+    meaning_in_word: pocket / 口袋
+    zh: 口袋
+    role: root
+    is_core: true
+  - morpheme: book
+    form: book
+    meaning_in_word: book / 书；账簿
+    zh: 书；账簿
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

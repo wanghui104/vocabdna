@@ -2,28 +2,30 @@
 id: inundate
 word: inundate
 pos: verb
-zh: 淹没；泛滥
-en: to cover a place with floodwater
+zh: 淹没
+en: Means 淹没; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: in
     form: in-
-    meaning_in_word: onto, over
+    meaning_in_word: 在内、进入、到……上
     zh: 在内、进入、到……上
     role: prefix
     is_core: false
-  - morpheme: unda
-    form: unda
-    meaning_in_word: wave, flow in waves
-    zh: 波浪、水波
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: und
+    form: und
+    meaning_in_word: 波；淹没
+    zh: 波；淹没
     role: root
     is_core: true
-    note: From Latin inundare = in- (onto/over) + undare, from unda meaning wave.
+    note: Reviewed surface piece; source/deeper layer shown on root root:und.
   - morpheme: ate
     form: -ate
-    meaning_in_word: make or cause to be
+    meaning_in_word: 使成为、使做
     zh: 使成为、使做
     role: suffix
     is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ate.
 word_family:
   - inundation
 word_family_details:
@@ -32,11 +34,8 @@ word_family_details:
     zh: 洪水；泛滥；大量涌入
 confusables:
   - word: undulate
-    reason: inundate 常用被动 be inundated with 表示被大量信息、请求、电话等压过来；这里的 in- 不是否定前缀。
-    zh_reason: inundate 常用被动 be inundated with 表示被大量信息、请求、电话等压过来；这里的 in- 不是否定前缀。
+    reason: Potential source spelling issues and conservative etymology choices are documented in the batch report.
+    zh_reason: Potential source spelling issues and conservative etymology choices are documented in the batch report.
 examples:
-  - en: Heavy rain inundated the low-lying fields.
-    zh: 暴雨淹没了低洼的田地。
-  - en: The office was inundated with calls after the announcement.
-    zh: 公告发布后，办公室被电话淹没了。
-why_confusing: inundate 常用被动 be inundated with 表示被大量信息、请求、电话等压过来；这里的 in- 不是否定前缀。
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

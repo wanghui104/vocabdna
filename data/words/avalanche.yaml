@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: avalanche
+word: avalanche
+pos: noun
+zh: 雪崩；大量涌来
+en: a mass of snow, rock, or things rushing down or arriving suddenly
+components:
+  - morpheme: aval
+    form: avalanche
+    meaning_in_word: downward slide
+    zh: 向下滑落
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 可比喻信息、投诉等大量涌来。

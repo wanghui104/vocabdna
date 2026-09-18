@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: defect
+word: defect
+pos: noun/verb
+zh: 缺点；瑕疵；背离
+en: a fault or lack, or to abandon one's group or duty
+components:
+  - morpheme: de
+    form: de-
+    meaning_in_word: down, away
+    zh: 向下；去除
+    role: prefix
+    is_core: false
+  - morpheme: fac
+    form: fect
+    meaning_in_word: make, do
+    zh: 做、制造
+    role: root
+    is_core: true
+word_family:
+  - defective
+word_family_details:
+  - word: defective
+    en: having a defect or not working correctly
+    zh: 有缺陷的
+confusables:
+  []
+examples:
+  []
+why_confusing: defect noun 重音常在前；verb 重音常在后。

@@ -1,0 +1,44 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: emancipation
+word: emancipation
+pos: noun
+zh: 解放；解除束缚
+en: the act or process of freeing from control or restriction
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: manu
+    form: man
+    meaning_in_word: hand / 手
+    zh: 手
+    role: root
+    is_core: true
+    note: e- 解除 + man- 手 + cip- 取得 + -ation；mancip- 为所有权词干，进一步来源是“以手取得”。
+  - morpheme: cap
+    form: cip
+    meaning_in_word: take, hold, contain / 拿；抓；容纳
+    zh: 拿；抓；容纳
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: act, process, result / 行为、过程、结果
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: English -ion reflects Latin noun-forming -io with oblique stem -ion-.
+word_family:
+  - emancipate
+word_family_details:
+  - word: emancipate
+    en: to free from another person or institution's control
+    zh: 解放；使摆脱控制
+confusables:
+  []
+examples:
+  []
+why_confusing: 

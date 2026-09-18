@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: analogous
+word: analogous
+pos: adjective
+zh: 类似的；可类比的
+en: similar or comparable in certain respects
+components:
+  - morpheme: ana
+    form: ana-
+    meaning_in_word: according to
+    zh: 向上；返回；贯穿
+    role: prefix
+    is_core: false
+  - morpheme: log
+    form: log
+    meaning_in_word: proportion, relation
+    zh: 原木；记录
+    role: root
+    is_core: true
+  - morpheme: ous
+    form: -ous
+    meaning_in_word: having
+    zh: 充满；具有
+    role: suffix
+    is_core: false
+word_family:
+  - analogy
+word_family_details:
+  - word: analogy
+    en: a comparison between things that are similar in some way
+    zh: 类比；类推
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

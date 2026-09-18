@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: factor
+display: factor
+type: root
+core_meaning: factor
+zh: 因子；倍数
+origin: Latin
+source_form: Latin factor, facere
+source_meaning: maker, doer, multiplier
+source_meaning_zh: 造成者；因子
+related_morphemes:
+  []
+senses:
+  - meaning: factor
+    zh: 因子；倍数
+    examples:
+      - by a factor of
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - factor -> by a factor of
+high_value_words:
+  - by a factor of
+confusable_words:
+  []

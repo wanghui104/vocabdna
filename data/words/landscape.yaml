@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: landscape
+word: landscape
+pos: noun
+zh: 风景，山水；风景画
+en: Means 风景，山水；风景画; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: land
+    form: land
+    meaning_in_word: 土地
+    zh: 土地
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:land.
+  - morpheme: scape
+    form: scape
+    meaning_in_word: 景观
+    zh: 景观
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:scape.
+word_family:
+  - landing
+  - landmass
+  - landslide
+word_family_details:
+  - word: landing
+    en: Means 着陆，降落; reviewed from the TOEFL source gloss for learner display.
+    zh: 着陆，降落
+  - word: landmass
+    en: Means 大片陆地; reviewed from the TOEFL source gloss for learner display.
+    zh: 大片陆地
+  - word: landslide
+    en: Means [地]山崩; reviewed from the TOEFL source gloss for learner display.
+    zh: [地]山崩
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

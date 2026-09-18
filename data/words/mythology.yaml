@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mythology
+word: mythology
+pos: noun
+zh: （总称）神话
+en: Means （总称）神话; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: myth
+    form: myth
+    meaning_in_word: 神话
+    zh: 神话
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:myth.
+  - morpheme: log
+    form: log
+    meaning_in_word: 原木；记录
+    zh: 原木；记录
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:log.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:y.
+word_family:
+  - myth
+  - mythical
+word_family_details:
+  - word: myth
+    en: Means 神话，神话故事; reviewed from the TOEFL source gloss for learner display.
+    zh: 神话，神话故事
+  - word: mythical
+    en: Means 神话的，虚构的; reviewed from the TOEFL source gloss for learner display.
+    zh: 神话的，虚构的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

@@ -22,9 +22,7 @@ word_family:
 word_family_details:
   []
 confusables:
-  - word: about
-    reason: abut 是正式词；about 是介词/副词，拼写相近但不同。
-    zh_reason: abut 是正式词；about 是介词/副词，拼写相近但不同。
+  []
 examples:
   - en: The garden abuts the river.
     zh: 花园紧邻河流。

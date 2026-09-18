@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: humility
+word: humility
+pos: noun
+zh: 谦卑
+en: Means 谦卑; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: hum
+    form: hum
+    meaning_in_word: 土地；低下
+    zh: 土地；低下
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:hum.
+  - morpheme: ility
+    form: ility
+    meaning_in_word: ility
+    zh: ility
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:ility.
+word_family:
+  - humble
+  - humiliate
+word_family_details:
+  - word: humble
+    en: Means 卑贱的；谦逊的; reviewed from the TOEFL source gloss for learner display.
+    zh: 卑贱的；谦逊的
+  - word: humiliate
+    en: Means 羞辱，使丢脸; reviewed from the TOEFL source gloss for learner display.
+    zh: 羞辱，使丢脸
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

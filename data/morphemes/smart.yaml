@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: smart
+display: smart
+type: root
+core_meaning: smart; clever
+zh: 聪明；机敏
+origin: Old English
+source_form: smart
+source_meaning: smart; clever
+source_meaning_zh: 聪明；机敏
+source_note: Added during TOEFL 5400 batch 4401-4600 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: smart; clever
+    zh: 聪明；机敏
+    examples:
+      - smart
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - smart -> smart
+high_value_words:
+  - smart
+confusable_words:
+  []

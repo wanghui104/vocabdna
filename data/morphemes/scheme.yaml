@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: scheme
+display: scheme
+type: root
+core_meaning: scheme
+zh: 方案
+origin: teaching morphology
+source_form: scheme
+source_meaning: scheme
+source_meaning_zh: 方案
+related_morphemes:
+  []
+senses:
+  - meaning: scheme
+    zh: 方案
+    examples:
+      - scheme
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - scheme -> scheme
+high_value_words:
+  - scheme
+confusable_words:
+  []

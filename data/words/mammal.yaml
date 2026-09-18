@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mammal
+word: mammal
+pos: noun
+zh: 哺乳动物
+en: Means 哺乳动物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mamm
+    form: mamm
+    meaning_in_word: 乳房；哺乳
+    zh: 乳房；哺乳
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mamm.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

@@ -1,0 +1,32 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: flagellum
+word: flagellum
+pos: noun
+zh: 鞭毛
+en: a long thin structure used for movement by certain cells
+components:
+  - morpheme: flagell
+    form: flagell
+    meaning_in_word: little whip / 小鞭
+    zh: 小鞭
+    role: root
+    is_core: true
+    note: flagellum 深层 flag-（flagrum 鞭）+ -ell- 小称 + -um 中性结尾；flagella 的 -a 是拉丁中性复数，不是 flag 旗帜。
+  - morpheme: um
+    form: -um
+    meaning_in_word: singular noun ending / 单数词尾
+    zh: 单数词尾
+    role: suffix
+    is_core: false
+    note: flagellum 的中性单数结尾。
+word_family:
+  - flagella
+word_family_details:
+  - word: flagella
+    en: long thin structures that help some cells move; plural of flagellum
+    zh: 鞭毛（flagellum 的复数）
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -14,20 +14,29 @@ senses:
   - meaning: fall, happen
     zh: 落下、发生
     examples:
+      - accident
       - accidental
       - accidentally
-      - accident
+      - decadent
+      - decay
+      - deciduous
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - cid -> accident
   - cid -> accidental
   - accidental -> accidentally
-  - cid -> accident
+  - cad -> decadent
+  - cay -> decay
+  - cid -> deciduous
 high_value_words:
+  - accident
   - accidental
   - accidentally
-  - accident
+  - decadent
+  - decay
+  - deciduous
 confusable_words:
   []

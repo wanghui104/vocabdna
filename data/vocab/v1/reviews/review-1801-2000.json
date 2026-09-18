@@ -1,0 +1,6866 @@
+{
+  "range": [
+    1801,
+    2000
+  ],
+  "sheet": "1001-2000",
+  "rows": [
+    891,
+    1113
+  ],
+  "logicalWords": 200,
+  "entries": [
+    {
+      "no": 1801,
+      "term": "equality",
+      "slug": "equality",
+      "sourceRows": [
+        891,
+        891
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "同等，平等"
+        ]
+      ],
+      "changed": true,
+      "before": "equ + al + ity",
+      "after": "equ + al + ity",
+      "notes": "-al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。 -ty/-ity 是名词构词结尾。",
+      "definitions": [
+        {
+          "sense": "the state of being equal in rights, status, or amount",
+          "en": "the state of being equal in rights, status, or amount",
+          "zh": "平等；相等"
+        }
+      ],
+      "derivatives": [
+        "equal"
+      ]
+    },
+    {
+      "no": 1802,
+      "term": "equilibrium",
+      "slug": "equilibrium",
+      "sourceRows": [
+        892,
+        892
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "平衡，均衡"
+        ]
+      ],
+      "changed": true,
+      "before": "equilibrium",
+      "after": "equi + libr + ium",
+      "notes": "equilibrium = equi- 相等 + libr- 天平 + -ium 状态。 equilibrium 中为名词结尾。",
+      "definitions": [
+        {
+          "sense": "a balanced state in which opposing forces or influences offset one another",
+          "en": "a balanced state in which opposing forces or influences offset one another",
+          "zh": "平衡；均衡"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1803,
+      "term": "equipment",
+      "slug": "equipment",
+      "sourceRows": [
+        893,
+        893
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "设备"
+        ]
+      ],
+      "changed": true,
+      "before": "equipment",
+      "after": "equip + ment",
+      "notes": "深层经法语，可能来自 Old Norse skipa 装备船、安排，skip 船；MW 给出日耳曼来源。不能拆为 equ- 相等 + ip。",
+      "definitions": [
+        {
+          "sense": "the tools and other items needed for an activity",
+          "en": "the tools and other items needed for an activity",
+          "zh": "设备；装备"
+        }
+      ],
+      "derivatives": [
+        "equip"
+      ]
+    },
+    {
+      "no": 1804,
+      "term": "equitable",
+      "slug": "equitable",
+      "sourceRows": [
+        894,
+        894
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "公平的，公正的"
+        ]
+      ],
+      "changed": true,
+      "before": "equitable",
+      "after": "equit + able",
+      "notes": "equity 去 y 后 + -able；equit- 内部 aequ- 相等 + -itas 性质，t 保留在派生词干。不是马的 equit-。 English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.",
+      "definitions": [
+        {
+          "sense": "fair and impartial",
+          "en": "fair and impartial",
+          "zh": "公平的；公正的"
+        }
+      ],
+      "derivatives": [
+        "equity"
+      ]
+    },
+    {
+      "no": 1805,
+      "term": "equivalent",
+      "slug": "equivalent",
+      "sourceRows": [
+        895,
+        896
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "等同品"
+        ],
+        [
+          "adj.",
+          "相等的，等同的；等值的"
+        ]
+      ],
+      "changed": true,
+      "before": "equivalent",
+      "after": "equi + val + ent",
+      "notes": "已核对表层构词、具体来源、释义与词族；复用已支持的词根。",
+      "definitions": [
+        {
+          "sense": "equal in value, function, or effect",
+          "en": "equal in value, function, or effect",
+          "zh": "等值的；相当的"
+        },
+        {
+          "sense": "a person or thing of corresponding value or function",
+          "en": "a person or thing of corresponding value or function",
+          "zh": "对应的人或事物"
+        }
+      ],
+      "derivatives": [
+        "equivalence"
+      ]
+    },
+    {
+      "no": 1806,
+      "term": "eradicate",
+      "slug": "eradicate",
+      "sourceRows": [
+        897,
+        897
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "根除，杜绝"
+        ]
+      ],
+      "changed": true,
+      "before": "eradicate",
+      "after": "e + radic + ate",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 eradicate 的 radic- 为 radix 的斜格词干，e- 表移除。",
+      "definitions": [
+        {
+          "sense": "to remove or destroy completely",
+          "en": "to remove or destroy completely",
+          "zh": "根除；消灭"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1807,
+      "term": "erect",
+      "slug": "erect",
+      "sourceRows": [
+        898,
+        898
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "使树立；建立，创立"
+        ]
+      ],
+      "changed": true,
+      "before": "erect",
+      "after": "e + rect",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 rectus 是 regere 引导、使直的过去分词；erect 为 e- + rect-。",
+      "definitions": [
+        {
+          "sense": "to build or set upright",
+          "en": "to build or set upright",
+          "zh": "建立；竖起"
+        },
+        {
+          "sense": "upright or standing straight",
+          "en": "upright or standing straight",
+          "zh": "直立的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1808,
+      "term": "erode",
+      "slug": "erode",
+      "sourceRows": [
+        899,
+        899
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "腐蚀，侵蚀"
+        ]
+      ],
+      "changed": true,
+      "before": "erode",
+      "after": "e + rode",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "to wear away gradually or reduce by stages",
+          "en": "to wear away gradually or reduce by stages",
+          "zh": "侵蚀；逐渐削弱"
+        }
+      ],
+      "derivatives": [
+        "erosion"
+      ]
+    },
+    {
+      "no": 1809,
+      "term": "erosion",
+      "slug": "erosion",
+      "sourceRows": [
+        900,
+        900
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "腐蚀，侵蚀"
+        ]
+      ],
+      "changed": true,
+      "before": "erosion",
+      "after": "e + ros + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the gradual wearing away of material or weakening of something",
+          "en": "the gradual wearing away of material or weakening of something",
+          "zh": "侵蚀；逐渐削弱"
+        }
+      ],
+      "derivatives": [
+        "erode"
+      ]
+    },
+    {
+      "no": 1810,
+      "term": "erratic",
+      "slug": "erratic",
+      "sourceRows": [
+        901,
+        901
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "古怪的，反复无常的"
+        ]
+      ],
+      "changed": true,
+      "before": "erratic",
+      "after": "err + atic",
+      "notes": "erratic = err- + -atic（Latin -aticus）；error 的 -or 是状态名词结尾，不是施事者。 erratic 中为历史形容词后缀，不是 errat- 随意截断。",
+      "definitions": [
+        {
+          "sense": "irregular and difficult to predict",
+          "en": "irregular and difficult to predict",
+          "zh": "不规则的；反复无常的"
+        }
+      ],
+      "derivatives": [
+        "err",
+        "erratically",
+        "error"
+      ]
+    },
+    {
+      "no": 1811,
+      "term": "erratically",
+      "slug": "erratically",
+      "sourceRows": [
+        902,
+        902
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "不规则地"
+        ]
+      ],
+      "changed": true,
+      "before": "erratically",
+      "after": "err + atic + al + ly",
+      "notes": "erratic + -ally，再拆 err- + -atic + -al + -ly；-al 是副词派生桥接层。 erratic 中为历史形容词后缀，不是 errat- 随意截断。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "in an irregular or unpredictable manner",
+          "en": "in an irregular or unpredictable manner",
+          "zh": "不规则地；反复无常地"
+        }
+      ],
+      "derivatives": [
+        "err",
+        "erratic",
+        "error"
+      ]
+    },
+    {
+      "no": 1812,
+      "term": "error",
+      "slug": "error",
+      "sourceRows": [
+        903,
+        903
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "做错，出差错"
+        ]
+      ],
+      "changed": true,
+      "before": "error",
+      "after": "err + or",
+      "notes": "原表把 error 标成 vt. 做错；常用标准英语 error 为名词“错误、误差”，动词锚点应是 err。err- + -or，-or 是抽象名词层。 error 中为抽象名词后缀，不是施事者 -or。",
+      "definitions": [
+        {
+          "sense": "a mistake or a difference from a correct or expected value",
+          "en": "a mistake or a difference from a correct or expected value",
+          "zh": "错误；误差"
+        }
+      ],
+      "derivatives": [
+        "err",
+        "erratic",
+        "erratically"
+      ]
+    },
+    {
+      "no": 1813,
+      "term": "eruption",
+      "slug": "eruption",
+      "sourceRows": [
+        904,
+        904
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "爆发，喷发"
+        ]
+      ],
+      "changed": true,
+      "before": "eruption",
+      "after": "e + rupt + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "a sudden outbreak, especially the discharge of material from a volcano",
+          "en": "a sudden outbreak, especially the discharge of material from a volcano",
+          "zh": "爆发；喷发"
+        }
+      ],
+      "derivatives": [
+        "erupt"
+      ]
+    },
+    {
+      "no": 1814,
+      "term": "erupt",
+      "slug": "erupt",
+      "sourceRows": [
+        905,
+        905
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "喷出，爆发"
+        ]
+      ],
+      "changed": true,
+      "before": "erupt",
+      "after": "e + rupt",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "to burst out suddenly or discharge volcanic material",
+          "en": "to burst out suddenly or discharge volcanic material",
+          "zh": "爆发；喷发"
+        }
+      ],
+      "derivatives": [
+        "eruption"
+      ]
+    },
+    {
+      "no": 1815,
+      "term": "escalate",
+      "slug": "escalate",
+      "sourceRows": [
+        906,
+        907
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "逐步升高, 逐步增强"
+        ],
+        [
+          "vt.",
+          "使逐步上升"
+        ]
+      ],
+      "changed": true,
+      "before": "escalate",
+      "after": "escal + ate",
+      "notes": "escalator 原为商标，结合 scala 阶梯与 elevator 的造词模式；escalate 后由 escalator 逆构。初始 e 不是可独立释为 out 的前缀。",
+      "definitions": [
+        {
+          "sense": "to increase or cause an increase in intensity, size, or seriousness",
+          "en": "to increase or cause an increase in intensity, size, or seriousness",
+          "zh": "升级；加剧"
+        }
+      ],
+      "derivatives": [
+        "escalator",
+        "escalation"
+      ]
+    },
+    {
+      "no": 1816,
+      "term": "escalator",
+      "slug": "escalator",
+      "sourceRows": [
+        908,
+        908
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "电动扶梯"
+        ]
+      ],
+      "changed": true,
+      "before": "escalator",
+      "after": "escal + ator",
+      "notes": "escal- + -ator 为现代造词模式；源自商标 Escalator，scala 楼梯与 elevator 模式结合，-ator 含 -at- 动词层 + -or 工具/施事层。escalate 后由它逆构。 -or 为 Latin 施事/工具名词后缀；-ator 包含 -at- 动词分词构词层 + -or。不是 error/favor 的抽象 -or。",
+      "definitions": [
+        {
+          "sense": "a moving staircase",
+          "en": "a moving staircase",
+          "zh": "自动扶梯"
+        }
+      ],
+      "derivatives": [
+        "escalate",
+        "escalation"
+      ]
+    },
+    {
+      "no": 1817,
+      "term": "escape",
+      "slug": "escape",
+      "sourceRows": [
+        909,
+        909
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "逃脱，逃走；避开，避免"
+        ]
+      ],
+      "changed": true,
+      "before": "escape",
+      "after": "escape",
+      "notes": "深层 ex- 出 + cappa 披风，指摆脱被抓住的披风；经法语音变形成 escape，保留稳定词干，cape 不是海角。",
+      "definitions": [
+        {
+          "sense": "to get free or avoid harm, notice, or control",
+          "en": "to get free or avoid harm, notice, or control",
+          "zh": "逃脱；避开"
+        },
+        {
+          "sense": "the act or means of getting free",
+          "en": "the act or means of getting free",
+          "zh": "逃脱；逃生途径"
+        }
+      ],
+      "derivatives": [
+        "escapist",
+        "escapism"
+      ]
+    },
+    {
+      "no": 1818,
+      "term": "escapist",
+      "slug": "escapist",
+      "sourceRows": [
+        910,
+        910
+      ],
+      "sourceSenses": [
+        [
+          "adj./n.",
+          "逃避现实的（人）"
+        ]
+      ],
+      "changed": true,
+      "before": "escapist",
+      "after": "escap + ist",
+      "notes": "深层 ex- 出 + cappa 披风，指摆脱被抓住的披风；经法语音变形成 escape，保留稳定词干，cape 不是海角。",
+      "definitions": [
+        {
+          "sense": "seeking distraction from unpleasant realities",
+          "en": "seeking distraction from unpleasant realities",
+          "zh": "逃避现实的"
+        },
+        {
+          "sense": "a person who seeks such distraction",
+          "en": "a person who seeks such distraction",
+          "zh": "逃避现实者"
+        }
+      ],
+      "derivatives": [
+        "escape",
+        "escapism"
+      ]
+    },
+    {
+      "no": 1819,
+      "term": "essential",
+      "slug": "essential",
+      "sourceRows": [
+        911,
+        911
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "绝对必要的；本质的，根本的"
+        ]
+      ],
+      "changed": true,
+      "before": "essential",
+      "after": "essent + ial",
+      "notes": "essent- 为 esse 存在的拟造分词词干（ess- + -ent-）；essential 再加 -ial。不是前缀 es-。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "necessary or fundamental",
+          "en": "necessary or fundamental",
+          "zh": "必不可少的；本质的"
+        },
+        {
+          "sense": "a basic necessity",
+          "en": "a basic necessity",
+          "zh": "必需品"
+        }
+      ],
+      "derivatives": [
+        "essence"
+      ]
+    },
+    {
+      "no": 1820,
+      "term": "estate",
+      "slug": "estate",
+      "sourceRows": [
+        912,
+        912
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "财产；不动产"
+        ]
+      ],
+      "changed": true,
+      "before": "estate",
+      "after": "estate",
+      "notes": "深层 status 是 stare 站立的状态名词；法语起首 e 是增音，不是 e-/ex- 出。房地产义从财产、身份发展而来。",
+      "definitions": [
+        {
+          "sense": "land and buildings belonging to someone; all the property someone owns, especially at death",
+          "en": "land and buildings belonging to someone; all the property someone owns, especially at death",
+          "zh": "地产；财产；遗产"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1821,
+      "term": "real estate",
+      "slug": "real-estate",
+      "sourceRows": [
+        913,
+        913
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "房地产"
+        ]
+      ],
+      "changed": true,
+      "before": "real estate",
+      "after": "re + al + estate",
+      "notes": "real = re-（res 事物）+ -al；不是 re- 再次。real estate 的 real 为不动产用法。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。 深层 status 是 stare 站立的状态名词；法语起首 e 是增音，不是 e-/ex- 出。房地产义从财产、身份发展而来。",
+      "definitions": [
+        {
+          "sense": "land and the buildings on it",
+          "en": "land and the buildings on it",
+          "zh": "房地产；不动产"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1822,
+      "term": "estimate",
+      "slug": "estimate",
+      "sourceRows": [
+        914,
+        914
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "估计"
+        ]
+      ],
+      "changed": true,
+      "before": "estimate",
+      "after": "estim + ate",
+      "notes": "estimate = estim- + -ate；aestimare 更深来源有争议，“铜 + 切”解释不确定，不写作确证。",
+      "definitions": [
+        {
+          "sense": "to judge an approximate amount, value, or size",
+          "en": "to judge an approximate amount, value, or size",
+          "zh": "估计；估价"
+        },
+        {
+          "sense": "an approximate calculation or judgment",
+          "en": "an approximate calculation or judgment",
+          "zh": "估算；估价"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1823,
+      "term": "underestimate",
+      "slug": "underestimate",
+      "sourceRows": [
+        915,
+        915
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "低估，看轻"
+        ]
+      ],
+      "changed": true,
+      "before": "underestimate",
+      "after": "under + estim + ate",
+      "notes": "estimate = estim- + -ate；aestimare 更深来源有争议，“铜 + 切”解释不确定，不写作确证。",
+      "definitions": [
+        {
+          "sense": "to judge an amount, ability, or importance as less than it is",
+          "en": "to judge an amount, ability, or importance as less than it is",
+          "zh": "低估"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1824,
+      "term": "overestimate",
+      "slug": "overestimate",
+      "sourceRows": [
+        916,
+        916
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "评价过高"
+        ]
+      ],
+      "changed": true,
+      "before": "overestimate",
+      "after": "over + estim + ate",
+      "notes": "estimate = estim- + -ate；aestimare 更深来源有争议，“铜 + 切”解释不确定，不写作确证。",
+      "definitions": [
+        {
+          "sense": "to judge an amount, ability, or importance as greater than it is",
+          "en": "to judge an amount, ability, or importance as greater than it is",
+          "zh": "高估"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1825,
+      "term": "eternal",
+      "slug": "eternal",
+      "sourceRows": [
+        917,
+        917
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "永恒的；永远的"
+        ]
+      ],
+      "changed": true,
+      "before": "eternal",
+      "after": "etern + al",
+      "notes": "aeternus 为 aeviternus 收缩形，深层 aevum 年代、生命 + 历史形容词构词层；表层 etern- + -al。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "lasting forever or seeming to have no end",
+          "en": "lasting forever or seeming to have no end",
+          "zh": "永恒的；无休止的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1826,
+      "term": "ethics",
+      "slug": "ethics",
+      "sourceRows": [
+        918,
+        918
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "伦理学；道德规范"
+        ]
+      ],
+      "changed": true,
+      "before": "ethics",
+      "after": "eth + ic + s",
+      "notes": "ethic = eth- + -ic，ethical 再加 -al；ethics 的 s 表伦理学或道德准则，不当作普通可数复数。",
+      "definitions": [
+        {
+          "sense": "moral principles; the study of right and wrong conduct",
+          "en": "moral principles; the study of right and wrong conduct",
+          "zh": "道德准则；伦理学"
+        }
+      ],
+      "derivatives": [
+        "ethic",
+        "ethical",
+        "ethically"
+      ]
+    },
+    {
+      "no": 1827,
+      "term": "ethically",
+      "slug": "ethically",
+      "sourceRows": [
+        919,
+        919
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "在伦理上，道德上"
+        ]
+      ],
+      "changed": true,
+      "before": "ethically",
+      "after": "eth + ic + al + ly",
+      "notes": "ethic = eth- + -ic，ethical 再加 -al；ethics 的 s 表伦理学或道德准则，不当作普通可数复数。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "in a way consistent with moral principles; from a moral standpoint",
+          "en": "in a way consistent with moral principles; from a moral standpoint",
+          "zh": "合乎道德地；从伦理角度"
+        }
+      ],
+      "derivatives": [
+        "ethic",
+        "ethics",
+        "ethical"
+      ]
+    },
+    {
+      "no": 1828,
+      "term": "ethnic",
+      "slug": "ethnic",
+      "sourceRows": [
+        920,
+        920
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "种族的"
+        ]
+      ],
+      "changed": true,
+      "before": "ethnic",
+      "after": "ethn + ic",
+      "notes": "ethnic = ethn- + -ic；与 ethos 有历史关联，但 ethnos 族群和 ethos 品格的直接词源要区分。",
+      "definitions": [
+        {
+          "sense": "relating to a group sharing cultural traditions, ancestry, or language",
+          "en": "relating to a group sharing cultural traditions, ancestry, or language",
+          "zh": "民族的；族群的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1829,
+      "term": "etiquette",
+      "slug": "etiquette",
+      "sourceRows": [
+        921,
+        921
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "礼仪，礼节"
+        ]
+      ],
+      "changed": true,
+      "before": "etiquette",
+      "after": "etiquette",
+      "notes": "表层保留借词；深层 estiquette 小标签 = estiqu-（estiquer 贴上）+ -ette 小称，经日耳曼 stick 相关词源；从标示礼节的标签发展为礼仪。",
+      "definitions": [
+        {
+          "sense": "customary rules of polite behavior in a particular setting",
+          "en": "customary rules of polite behavior in a particular setting",
+          "zh": "礼仪；礼节"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1830,
+      "term": "evaluate",
+      "slug": "evaluate",
+      "sourceRows": [
+        922,
+        922
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "评价，估价"
+        ]
+      ],
+      "changed": true,
+      "before": "evaluate",
+      "after": "e + valu + ate",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "to assess the quality, value, or significance of something",
+          "en": "to assess the quality, value, or significance of something",
+          "zh": "评价；评估"
+        }
+      ],
+      "derivatives": [
+        "evaluation"
+      ]
+    },
+    {
+      "no": 1831,
+      "term": "evaporate",
+      "slug": "evaporate",
+      "sourceRows": [
+        923,
+        923
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "（使）蒸发；消失"
+        ]
+      ],
+      "changed": true,
+      "before": "evaporate",
+      "after": "e + vapor + ate",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 evaporate = e- 向外 + vapor- 蒸气 + -ate。",
+      "definitions": [
+        {
+          "sense": "to change from liquid into vapor; to disappear gradually",
+          "en": "to change from liquid into vapor; to disappear gradually",
+          "zh": "蒸发；逐渐消失"
+        }
+      ],
+      "derivatives": [
+        "evaporation"
+      ]
+    },
+    {
+      "no": 1832,
+      "term": "evaporation",
+      "slug": "evaporation",
+      "sourceRows": [
+        924,
+        924
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "蒸发；消失"
+        ]
+      ],
+      "changed": true,
+      "before": "evaporation",
+      "after": "e + vapor + ation",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 evaporate = e- 向外 + vapor- 蒸气 + -ate。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the process by which a liquid becomes vapor",
+          "en": "the process by which a liquid becomes vapor",
+          "zh": "蒸发"
+        }
+      ],
+      "derivatives": [
+        "evaporate"
+      ]
+    },
+    {
+      "no": 1833,
+      "term": "eventful",
+      "slug": "eventful",
+      "sourceRows": [
+        925,
+        925
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "多事的,充满大事的;意义重大的"
+        ]
+      ],
+      "changed": true,
+      "before": "eventful",
+      "after": "e + vent + ful",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 event + -ful，Word DNA 再拆 e- + vent- + -ful；event 深层 e- + venire 来。",
+      "definitions": [
+        {
+          "sense": "full of important or interesting events",
+          "en": "full of important or interesting events",
+          "zh": "多重大事件的；多事的"
+        }
+      ],
+      "derivatives": [
+        "event",
+        "eventual",
+        "eventually"
+      ]
+    },
+    {
+      "no": 1834,
+      "term": "eventual",
+      "slug": "eventual",
+      "sourceRows": [
+        926,
+        926
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "最终的"
+        ]
+      ],
+      "changed": true,
+      "before": "eventual",
+      "after": "e + vent + ual",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 event + -ual；event 深层 e- + venire 来，vent- 为词干；-ual 含历史连接 u 与形容词层。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "happening at the end of a process or period",
+          "en": "happening at the end of a process or period",
+          "zh": "最终的"
+        }
+      ],
+      "derivatives": [
+        "eventually",
+        "event",
+        "eventful"
+      ]
+    },
+    {
+      "no": 1835,
+      "term": "eventually",
+      "slug": "eventually",
+      "sourceRows": [
+        927,
+        927
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "终于"
+        ]
+      ],
+      "changed": true,
+      "before": "eventually",
+      "after": "e + vent + ual + ly",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 eventual + -ly，再拆 e- + vent- + -ual + -ly；event 深层 e- + venire 来，最终发生。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "in the end, after some time or difficulties",
+          "en": "in the end, after some time or difficulties",
+          "zh": "最终；终于"
+        }
+      ],
+      "derivatives": [
+        "eventual",
+        "event",
+        "eventful"
+      ]
+    },
+    {
+      "no": 1836,
+      "term": "evergreen",
+      "slug": "evergreen",
+      "sourceRows": [
+        928,
+        929
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "常绿的"
+        ],
+        [
+          "n.",
+          "常绿树；常绿植物"
+        ]
+      ],
+      "changed": true,
+      "before": "evergreen",
+      "after": "ever + green",
+      "notes": "简单本族副词，evergreen = ever + green。 常绿不是永远保持同一片叶，而是全年有绿叶。",
+      "definitions": [
+        {
+          "sense": "having green leaves throughout the year; remaining relevant",
+          "en": "having green leaves throughout the year; remaining relevant",
+          "zh": "常绿的；经久不衰的"
+        },
+        {
+          "sense": "a plant that has green leaves throughout the year",
+          "en": "a plant that has green leaves throughout the year",
+          "zh": "常绿植物"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1837,
+      "term": "evidence",
+      "slug": "evidence",
+      "sourceRows": [
+        930,
+        931
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "证据"
+        ],
+        [
+          "vt.",
+          "证明；表明，显示"
+        ]
+      ],
+      "changed": true,
+      "before": "evidence",
+      "after": "e + vid + ence",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "facts or information supporting a conclusion",
+          "en": "facts or information supporting a conclusion",
+          "zh": "证据；迹象"
+        },
+        {
+          "sense": "to indicate or provide evidence of",
+          "en": "to indicate or provide evidence of",
+          "zh": "表明；证明"
+        }
+      ],
+      "derivatives": [
+        "evident"
+      ]
+    },
+    {
+      "no": 1838,
+      "term": "evident",
+      "slug": "evident",
+      "sourceRows": [
+        932,
+        932
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "明显的"
+        ]
+      ],
+      "changed": true,
+      "before": "evident",
+      "after": "e + vid + ent",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "clear and easy to recognize",
+          "en": "clear and easy to recognize",
+          "zh": "明显的"
+        }
+      ],
+      "derivatives": [
+        "evidence"
+      ]
+    },
+    {
+      "no": 1839,
+      "term": "eviscerate",
+      "slug": "eviscerate",
+      "sourceRows": [
+        933,
+        933
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "取出内脏；除去主要部分"
+        ]
+      ],
+      "changed": true,
+      "before": "eviscerate",
+      "after": "e + viscer + ate",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 viscera 是 viscus 的复数，viscer- 为词干；不是 visc- 黏（viscum）。",
+      "definitions": [
+        {
+          "sense": "to remove internal organs; to deprive of essential content or force",
+          "en": "to remove internal organs; to deprive of essential content or force",
+          "zh": "取出内脏；使失去实质或力量"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1840,
+      "term": "evoke",
+      "slug": "evoke",
+      "sourceRows": [
+        934,
+        934
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "引起，激起，唤起"
+        ]
+      ],
+      "changed": true,
+      "before": "evoke",
+      "after": "e + voke",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "to bring a feeling, memory, or image to mind",
+          "en": "to bring a feeling, memory, or image to mind",
+          "zh": "唤起；引起"
+        }
+      ],
+      "derivatives": [
+        "evocation"
+      ]
+    },
+    {
+      "no": 1841,
+      "term": "evolution",
+      "slug": "evolution",
+      "sourceRows": [
+        935,
+        935
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "发展，演变"
+        ]
+      ],
+      "changed": true,
+      "before": "evolution",
+      "after": "e + volut + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 evolve 深层 e- 出 + volvere 卷，evolution 的 volut- 为分词词干；不是 vol- 愿望或飞。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "gradual development; change in heritable traits of populations over generations",
+          "en": "gradual development; change in heritable traits of populations over generations",
+          "zh": "演变；生物进化"
+        }
+      ],
+      "derivatives": [
+        "evolve",
+        "evolutionary"
+      ]
+    },
+    {
+      "no": 1842,
+      "term": "evolve",
+      "slug": "evolve",
+      "sourceRows": [
+        936,
+        936
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "进化，发展"
+        ]
+      ],
+      "changed": true,
+      "before": "evolve",
+      "after": "e + volve",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 evolve 深层 e- 出 + volvere 卷，evolution 的 volut- 为分词词干；不是 vol- 愿望或飞。",
+      "definitions": [
+        {
+          "sense": "to develop gradually or change over successive generations",
+          "en": "to develop gradually or change over successive generations",
+          "zh": "逐步发展；进化"
+        }
+      ],
+      "derivatives": [
+        "evolution",
+        "evolutionary"
+      ]
+    },
+    {
+      "no": 1843,
+      "term": "evolutionary",
+      "slug": "evolutionary",
+      "sourceRows": [
+        937,
+        937
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "发展的，进化的"
+        ]
+      ],
+      "changed": true,
+      "before": "evolutionary",
+      "after": "e + volut + ion + ary",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 evolve 深层 e- 出 + volvere 卷，evolution 的 volut- 为分词词干；不是 vol- 愿望或飞。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "relating to gradual development or biological evolution",
+          "en": "relating to gradual development or biological evolution",
+          "zh": "演变的；进化的"
+        }
+      ],
+      "derivatives": [
+        "evolve",
+        "evolution"
+      ]
+    },
+    {
+      "no": 1844,
+      "term": "exact",
+      "slug": "exact",
+      "sourceRows": [
+        938,
+        938
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "精确的，准确地"
+        ]
+      ],
+      "changed": true,
+      "before": "exact",
+      "after": "ex + act",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "completely accurate or precise",
+          "en": "completely accurate or precise",
+          "zh": "准确的；确切的"
+        },
+        {
+          "sense": "to demand and obtain something, sometimes by force",
+          "en": "to demand and obtain something, sometimes by force",
+          "zh": "索取；强求"
+        }
+      ],
+      "derivatives": [
+        "exacting"
+      ]
+    },
+    {
+      "no": 1845,
+      "term": "exacting",
+      "slug": "exacting",
+      "sourceRows": [
+        939,
+        939
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "苛求的，要求严格的"
+        ]
+      ],
+      "changed": true,
+      "before": "exacting",
+      "after": "ex + act + ing",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 来自动词 exact 索取、强求 + -ing，表示要求严格；不能只解释为“正在准确”。",
+      "definitions": [
+        {
+          "sense": "requiring much effort, skill, care, or attention",
+          "en": "requiring much effort, skill, care, or attention",
+          "zh": "要求严格的；费力的"
+        }
+      ],
+      "derivatives": [
+        "exact"
+      ]
+    },
+    {
+      "no": 1846,
+      "term": "exaggerate",
+      "slug": "exaggerate",
+      "sourceRows": [
+        940,
+        940
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "夸大，夸张"
+        ]
+      ],
+      "changed": true,
+      "before": "exaggerate",
+      "after": "ex + agger + ate",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 深层 ad- 向（同化 ag-）+ gerere 搬运 → agger 堆；exaggerate 保留 agger- 表层，再显示内部层。",
+      "definitions": [
+        {
+          "sense": "to describe or represent something as greater than it really is",
+          "en": "to describe or represent something as greater than it really is",
+          "zh": "夸大；夸张"
+        }
+      ],
+      "derivatives": [
+        "exaggeration"
+      ]
+    },
+    {
+      "no": 1847,
+      "term": "exaggeration",
+      "slug": "exaggeration",
+      "sourceRows": [
+        941,
+        941
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "夸张"
+        ]
+      ],
+      "changed": true,
+      "before": "exaggeration",
+      "after": "ex + agger + ation",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 深层 ad- 向（同化 ag-）+ gerere 搬运 → agger 堆；exaggerate 保留 agger- 表层，再显示内部层。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "an overstatement of size, importance, or degree",
+          "en": "an overstatement of size, importance, or degree",
+          "zh": "夸大；夸张"
+        }
+      ],
+      "derivatives": [
+        "exaggerate"
+      ]
+    },
+    {
+      "no": 1848,
+      "term": "exalted",
+      "slug": "exalted",
+      "sourceRows": [
+        942,
+        942
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "崇高的，高贵的"
+        ]
+      ],
+      "changed": true,
+      "before": "exalted",
+      "after": "ex + alt + ed",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "of high rank or standing; filled with great joy",
+          "en": "of high rank or standing; filled with great joy",
+          "zh": "地位崇高的；兴奋的"
+        }
+      ],
+      "derivatives": [
+        "exalt"
+      ]
+    },
+    {
+      "no": 1849,
+      "term": "excavate",
+      "slug": "excavate",
+      "sourceRows": [
+        943,
+        943
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "挖掘，挖出"
+        ]
+      ],
+      "changed": true,
+      "before": "excavate",
+      "after": "ex + cav + ate",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "to dig out earth or uncover something by digging",
+          "en": "to dig out earth or uncover something by digging",
+          "zh": "挖掘；发掘"
+        }
+      ],
+      "derivatives": [
+        "excavation"
+      ]
+    },
+    {
+      "no": 1850,
+      "term": "excavation",
+      "slug": "excavation",
+      "sourceRows": [
+        944,
+        944
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "挖掘"
+        ]
+      ],
+      "changed": true,
+      "before": "excavation",
+      "after": "ex + cav + ation",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the act of digging out or the site produced by it",
+          "en": "the act of digging out or the site produced by it",
+          "zh": "挖掘；发掘；挖掘处"
+        }
+      ],
+      "derivatives": [
+        "excavate"
+      ]
+    },
+    {
+      "no": 1851,
+      "term": "exceed",
+      "slug": "exceed",
+      "sourceRows": [
+        945,
+        945
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "超越，胜过"
+        ]
+      ],
+      "changed": true,
+      "before": "ex + ceed",
+      "after": "ex + ceed",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ceed/cess 为 cedere 的英语表层和分词变体，exceed/excess 深层 ex- 超出 + cedere。",
+      "definitions": [
+        {
+          "sense": "to be greater than a number, limit, or expectation",
+          "en": "to be greater than a number, limit, or expectation",
+          "zh": "超过；超出"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1852,
+      "term": "excel",
+      "slug": "excel",
+      "sourceRows": [
+        946,
+        946
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "胜过，杰出"
+        ]
+      ],
+      "changed": true,
+      "before": "excel",
+      "after": "ex + cel",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 excel = ex- + cel-，excellent 保留双 l 的 cell- + -ent；不同于 celare 隐藏或 cella 小室。",
+      "definitions": [
+        {
+          "sense": "to perform very well or surpass others",
+          "en": "to perform very well or surpass others",
+          "zh": "擅长；胜过"
+        }
+      ],
+      "derivatives": [
+        "excellent",
+        "excellence"
+      ]
+    },
+    {
+      "no": 1853,
+      "term": "excellent",
+      "slug": "excellent",
+      "sourceRows": [
+        947,
+        947
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "优良的，杰出的"
+        ]
+      ],
+      "changed": true,
+      "before": "excellent",
+      "after": "ex + cell + ent",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 excel = ex- + cel-，excellent 保留双 l 的 cell- + -ent；不同于 celare 隐藏或 cella 小室。",
+      "definitions": [
+        {
+          "sense": "extremely good",
+          "en": "extremely good",
+          "zh": "极好的；优秀的"
+        }
+      ],
+      "derivatives": [
+        "excel",
+        "excellence"
+      ]
+    },
+    {
+      "no": 1854,
+      "term": "exception",
+      "slug": "exception",
+      "sourceRows": [
+        948,
+        948
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "例外"
+        ]
+      ],
+      "changed": true,
+      "before": "exception",
+      "after": "ex + cept + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "a person or thing outside a general rule; an instance where a rule does not apply",
+          "en": "a person or thing outside a general rule; an instance where a rule does not apply",
+          "zh": "例外"
+        }
+      ],
+      "derivatives": [
+        "exceptional",
+        "exceptionally",
+        "except"
+      ]
+    },
+    {
+      "no": 1855,
+      "term": "exceptional",
+      "slug": "exceptional",
+      "sourceRows": [
+        949,
+        949
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "异常的，杰出的"
+        ]
+      ],
+      "changed": true,
+      "before": "exceptional",
+      "after": "ex + cept + ion + al",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 English -ion reflects Latin noun-forming -io with oblique stem -ion-. -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "unusual, often because of outstanding quality",
+          "en": "unusual, often because of outstanding quality",
+          "zh": "特殊的；杰出的"
+        }
+      ],
+      "derivatives": [
+        "exception",
+        "exceptionally",
+        "except"
+      ]
+    },
+    {
+      "no": 1856,
+      "term": "exceptionally",
+      "slug": "exceptionally",
+      "sourceRows": [
+        950,
+        950
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "特殊地；异常地"
+        ]
+      ],
+      "changed": true,
+      "before": "exceptionally",
+      "after": "ex + cept + ion + al + ly",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 English -ion reflects Latin noun-forming -io with oblique stem -ion-. -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "to an unusually high degree; in an unusual case",
+          "en": "to an unusually high degree; in an unusual case",
+          "zh": "格外地；例外地"
+        }
+      ],
+      "derivatives": [
+        "exception",
+        "exceptional",
+        "except"
+      ]
+    },
+    {
+      "no": 1857,
+      "term": "excess",
+      "slug": "excess",
+      "sourceRows": [
+        951,
+        952
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "过度的，额外的"
+        ],
+        [
+          "n.",
+          "过量，超过"
+        ]
+      ],
+      "changed": true,
+      "before": "excess",
+      "after": "ex + cess",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ceed/cess 为 cedere 的英语表层和分词变体，exceed/excess 深层 ex- 超出 + cedere。",
+      "definitions": [
+        {
+          "sense": "an amount beyond what is needed or allowed",
+          "en": "an amount beyond what is needed or allowed",
+          "zh": "过量；超额"
+        },
+        {
+          "sense": "more than is needed or usual",
+          "en": "more than is needed or usual",
+          "zh": "过量的；额外的"
+        }
+      ],
+      "derivatives": [
+        "excessive"
+      ]
+    },
+    {
+      "no": 1858,
+      "term": "excessive",
+      "slug": "excessive",
+      "sourceRows": [
+        953,
+        953
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "过度的，过分的，过多的"
+        ]
+      ],
+      "changed": true,
+      "before": "excessive",
+      "after": "ex + cess + ive",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ceed/cess 为 cedere 的英语表层和分词变体，exceed/excess 深层 ex- 超出 + cedere。",
+      "definitions": [
+        {
+          "sense": "greater than is reasonable, necessary, or allowed",
+          "en": "greater than is reasonable, necessary, or allowed",
+          "zh": "过度的；过多的"
+        }
+      ],
+      "derivatives": [
+        "excess"
+      ]
+    },
+    {
+      "no": 1859,
+      "term": "exchange",
+      "slug": "exchange",
+      "sourceRows": [
+        954,
+        954
+      ],
+      "sourceSenses": [
+        [
+          "n./vt.",
+          "兑换，交换"
+        ]
+      ],
+      "changed": true,
+      "before": "exchange",
+      "after": "ex + change",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 change 经法语来自 cambiare，后者与 cambire 交换相关；不拆 -ange。",
+      "definitions": [
+        {
+          "sense": "to give something and receive something in return",
+          "en": "to give something and receive something in return",
+          "zh": "交换；交流"
+        },
+        {
+          "sense": "an act of trading or sharing; a place or system for trading",
+          "en": "an act of trading or sharing; a place or system for trading",
+          "zh": "交换；交易所"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1860,
+      "term": "excitement",
+      "slug": "excitement",
+      "sourceRows": [
+        955,
+        955
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "激动，兴奋；刺激"
+        ]
+      ],
+      "changed": true,
+      "before": "excitement",
+      "after": "ex + cite + ment",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 citare 是 ciere 使动、召唤的反复动词；excite 深层 ex- + citare。",
+      "definitions": [
+        {
+          "sense": "a feeling or state of eager interest or enthusiasm",
+          "en": "a feeling or state of eager interest or enthusiasm",
+          "zh": "兴奋；激动"
+        }
+      ],
+      "derivatives": [
+        "excite",
+        "exciting",
+        "excited"
+      ]
+    },
+    {
+      "no": 1861,
+      "term": "excite",
+      "slug": "excite",
+      "sourceRows": [
+        956,
+        956
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "刺激，使兴奋"
+        ]
+      ],
+      "changed": true,
+      "before": "excite",
+      "after": "ex + cite",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 citare 是 ciere 使动、召唤的反复动词；excite 深层 ex- + citare。",
+      "definitions": [
+        {
+          "sense": "to cause enthusiasm, interest, or a heightened state of activity",
+          "en": "to cause enthusiasm, interest, or a heightened state of activity",
+          "zh": "使兴奋；激起"
+        }
+      ],
+      "derivatives": [
+        "excitement",
+        "exciting",
+        "excited"
+      ]
+    },
+    {
+      "no": 1862,
+      "term": "exciting",
+      "slug": "exciting",
+      "sourceRows": [
+        957,
+        957
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "令人兴奋的，刺激的"
+        ]
+      ],
+      "changed": true,
+      "before": "exciting",
+      "after": "ex + cit + ing",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 citare 是 ciere 使动、召唤的反复动词；excite 深层 ex- + citare。",
+      "definitions": [
+        {
+          "sense": "causing eager interest or enthusiasm",
+          "en": "causing eager interest or enthusiasm",
+          "zh": "令人兴奋的"
+        }
+      ],
+      "derivatives": [
+        "excite",
+        "excitement",
+        "excited"
+      ]
+    },
+    {
+      "no": 1863,
+      "term": "exclaim",
+      "slug": "exclaim",
+      "sourceRows": [
+        958,
+        958
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "呼喊；惊叫"
+        ]
+      ],
+      "changed": true,
+      "before": "exclaim",
+      "after": "ex + claim",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "to speak or cry out suddenly with strong feeling",
+          "en": "to speak or cry out suddenly with strong feeling",
+          "zh": "惊叫；大声说"
+        }
+      ],
+      "derivatives": [
+        "exclamation"
+      ]
+    },
+    {
+      "no": 1864,
+      "term": "exclude",
+      "slug": "exclude",
+      "sourceRows": [
+        959,
+        959
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "把…排除在外，排斥"
+        ]
+      ],
+      "changed": true,
+      "before": "exclude",
+      "after": "ex + clude",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "to keep out or leave out of consideration",
+          "en": "to keep out or leave out of consideration",
+          "zh": "排除；不包括"
+        }
+      ],
+      "derivatives": [
+        "exclusion",
+        "exclusive",
+        "exclusively"
+      ]
+    },
+    {
+      "no": 1865,
+      "term": "exclusion",
+      "slug": "exclusion",
+      "sourceRows": [
+        960,
+        960
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "排除，逐出"
+        ]
+      ],
+      "changed": true,
+      "before": "exclusion",
+      "after": "ex + clus + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the act or state of being kept or left out",
+          "en": "the act or state of being kept or left out",
+          "zh": "排除；不包括"
+        }
+      ],
+      "derivatives": [
+        "exclude",
+        "exclusive",
+        "exclusively"
+      ]
+    },
+    {
+      "no": 1866,
+      "term": "exclusive",
+      "slug": "exclusive",
+      "sourceRows": [
+        961,
+        961
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "单独的，唯一的；排外的"
+        ]
+      ],
+      "changed": true,
+      "before": "exclusive",
+      "after": "ex + clus + ive",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "limited to particular people or things; not shared; excluding others",
+          "en": "limited to particular people or things; not shared; excluding others",
+          "zh": "独有的；专用的；排他的"
+        }
+      ],
+      "derivatives": [
+        "exclusively",
+        "exclude",
+        "exclusion"
+      ]
+    },
+    {
+      "no": 1867,
+      "term": "exclusively",
+      "slug": "exclusively",
+      "sourceRows": [
+        962,
+        962
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "排外地, 专有地"
+        ]
+      ],
+      "changed": true,
+      "before": "exclusively",
+      "after": "ex + clus + ive + ly",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "only; for a particular group or purpose alone",
+          "en": "only; for a particular group or purpose alone",
+          "zh": "仅仅；专门地"
+        }
+      ],
+      "derivatives": [
+        "exclusive",
+        "exclude",
+        "exclusion"
+      ]
+    },
+    {
+      "no": 1868,
+      "term": "excursion",
+      "slug": "excursion",
+      "sourceRows": [
+        963,
+        963
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "远足，游览"
+        ]
+      ],
+      "changed": true,
+      "before": "excursion",
+      "after": "ex + curs + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "a short journey for pleasure or a special purpose",
+          "en": "a short journey for pleasure or a special purpose",
+          "zh": "短途旅行；出游"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1869,
+      "term": "excuse",
+      "slug": "excuse",
+      "sourceRows": [
+        964,
+        965
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "原谅"
+        ],
+        [
+          "n.",
+          "藉口，理由"
+        ]
+      ],
+      "changed": true,
+      "before": "excuse",
+      "after": "ex + cuse",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ex- 解除 + cuse-（Latin causa 案由、指控，经音变）；不是英语 use 使用。名词和动词词末辅音发音不同。",
+      "definitions": [
+        {
+          "sense": "to forgive or release from an obligation",
+          "en": "to forgive or release from an obligation",
+          "zh": "原谅；免除"
+        },
+        {
+          "sense": "a reason offered to justify a fault or avoid responsibility",
+          "en": "a reason offered to justify a fault or avoid responsibility",
+          "zh": "借口；理由"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1870,
+      "term": "execute",
+      "slug": "execute",
+      "sourceRows": [
+        966,
+        966
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "完成，实施，执行"
+        ]
+      ],
+      "changed": true,
+      "before": "execute",
+      "after": "ex + ecute",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 表层 ex- + ecute。历史 exsequi = ex- 出、彻底 + sequi 跟随，分词 exsecutus；x 后 s 省写形成 execut-，因此 ecute 是 secut- 的表层变体，不是新词根。",
+      "definitions": [
+        {
+          "sense": "to carry out a plan or instruction; to put someone to death as a punishment",
+          "en": "to carry out a plan or instruction; to put someone to death as a punishment",
+          "zh": "执行；实施；处决"
+        }
+      ],
+      "derivatives": [
+        "execution",
+        "executive"
+      ]
+    },
+    {
+      "no": 1871,
+      "term": "execution",
+      "slug": "execution",
+      "sourceRows": [
+        967,
+        967
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "实施，执行；完成"
+        ]
+      ],
+      "changed": true,
+      "before": "execution",
+      "after": "ex + ecut + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ex- + ecut- + -ion；深层 exsequi = ex- + sequi 跟随，分词 secut- 在 x 后省写 s。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the carrying out of a plan or order; putting someone to death as a punishment",
+          "en": "the carrying out of a plan or order; putting someone to death as a punishment",
+          "zh": "执行；实施；处决"
+        }
+      ],
+      "derivatives": [
+        "execute",
+        "executive"
+      ]
+    },
+    {
+      "no": 1872,
+      "term": "executive",
+      "slug": "executive",
+      "sourceRows": [
+        968,
+        969
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "行政的"
+        ],
+        [
+          "n.",
+          "执行者，经理主管人员"
+        ]
+      ],
+      "changed": true,
+      "before": "executive",
+      "after": "ex + ecut + ive",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ex- + ecut- + -ive；ecut- 为 exsecutus 省写 s 后的表层分词词干，深层 sequi 跟随。现代可指主管或行政机关。",
+      "definitions": [
+        {
+          "sense": "responsible for managing or carrying out decisions",
+          "en": "responsible for managing or carrying out decisions",
+          "zh": "管理的；执行的"
+        },
+        {
+          "sense": "a manager or an administrative branch of government",
+          "en": "a manager or an administrative branch of government",
+          "zh": "主管；行政部门"
+        }
+      ],
+      "derivatives": [
+        "execute",
+        "execution"
+      ]
+    },
+    {
+      "no": 1873,
+      "term": "exemplary",
+      "slug": "exemplary",
+      "sourceRows": [
+        970,
+        970
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "模范的，典范的，可仿效的"
+        ]
+      ],
+      "changed": true,
+      "before": "exemplary",
+      "after": "exempl + ary",
+      "notes": "深层 ex- 出 + emere 取 → exemplum 样本；-pl- 属历史名词构词扩展，不能漏掉并称现代 ex+em 拼合。保留 exempl-/example 表层。",
+      "definitions": [
+        {
+          "sense": "serving as an excellent model or a warning",
+          "en": "serving as an excellent model or a warning",
+          "zh": "可作榜样的；示范性的；惩戒性的"
+        }
+      ],
+      "derivatives": [
+        "example",
+        "exemplify"
+      ]
+    },
+    {
+      "no": 1874,
+      "term": "exemplify",
+      "slug": "exemplify",
+      "sourceRows": [
+        971,
+        971
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "例证；作为…的例子"
+        ]
+      ],
+      "changed": true,
+      "before": "exemplify",
+      "after": "exempl + ify",
+      "notes": "深层 ex- 出 + emere 取 → exemplum 样本；-pl- 属历史名词构词扩展，不能漏掉并称现代 ex+em 拼合。保留 exempl-/example 表层。 -ify 更深来自 Latin facere 做的复合构词形；不是不可解释的整块。",
+      "definitions": [
+        {
+          "sense": "to illustrate by example or be a typical example of",
+          "en": "to illustrate by example or be a typical example of",
+          "zh": "举例说明；典型地体现"
+        }
+      ],
+      "derivatives": [
+        "example",
+        "exemplary"
+      ]
+    },
+    {
+      "no": 1875,
+      "term": "exempt",
+      "slug": "exempt",
+      "sourceRows": [
+        972,
+        972
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "使免除，豁免"
+        ]
+      ],
+      "changed": true,
+      "before": "exempt",
+      "after": "ex + empt",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exempt 的 empt- 是 emere 的分词词干；不等于 empty 空。",
+      "definitions": [
+        {
+          "sense": "to free from an obligation or rule",
+          "en": "to free from an obligation or rule",
+          "zh": "免除"
+        },
+        {
+          "sense": "not subject to an obligation or rule",
+          "en": "not subject to an obligation or rule",
+          "zh": "获豁免的"
+        }
+      ],
+      "derivatives": [
+        "exemption"
+      ]
+    },
+    {
+      "no": 1876,
+      "term": "exemption",
+      "slug": "exemption",
+      "sourceRows": [
+        973,
+        973
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "解除，免除"
+        ]
+      ],
+      "changed": true,
+      "before": "exemption",
+      "after": "ex + empt + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exempt 的 empt- 是 emere 的分词词干；不等于 empty 空。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "freedom from an obligation or rule",
+          "en": "freedom from an obligation or rule",
+          "zh": "豁免；免除"
+        }
+      ],
+      "derivatives": [
+        "exempt"
+      ]
+    },
+    {
+      "no": 1877,
+      "term": "exert",
+      "slug": "exert",
+      "sourceRows": [
+        974,
+        974
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "运用，行使，施加"
+        ]
+      ],
+      "changed": true,
+      "before": "exert",
+      "after": "ex + ert",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ex- + ert-；来自 exsertus，深层 ex- + serere 连接、伸出，分词 sert- 的 s 在 x 后省写，不能另造“ert 力量”词根。",
+      "definitions": [
+        {
+          "sense": "to apply effort, force, or influence",
+          "en": "to apply effort, force, or influence",
+          "zh": "施加；运用；尽力"
+        }
+      ],
+      "derivatives": [
+        "exertion"
+      ]
+    },
+    {
+      "no": 1878,
+      "term": "exertion",
+      "slug": "exertion",
+      "sourceRows": [
+        975,
+        975
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "尽力，努力"
+        ]
+      ],
+      "changed": true,
+      "before": "exertion",
+      "after": "ex + ert + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exert + -ion；ert- 是 Latin sert- 在 x 后省写 s 的表层形，深层 serere 连接、伸出。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the use of physical or mental effort",
+          "en": "the use of physical or mental effort",
+          "zh": "用力；努力"
+        }
+      ],
+      "derivatives": [
+        "exert"
+      ]
+    },
+    {
+      "no": 1879,
+      "term": "exhale",
+      "slug": "exhale",
+      "sourceRows": [
+        976,
+        976
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "呼出，呼气"
+        ]
+      ],
+      "changed": true,
+      "before": "exhale",
+      "after": "ex + hale",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exhale = ex- + hale；hale 是 halare 的词干形，不是英语 hale 健康。",
+      "definitions": [
+        {
+          "sense": "to breathe out or give off vapor",
+          "en": "to breathe out or give off vapor",
+          "zh": "呼出；散发"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1880,
+      "term": "exhaust",
+      "slug": "exhaust",
+      "sourceRows": [
+        977,
+        978
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "排气，排气装置"
+        ],
+        [
+          "vt.",
+          "用尽，耗尽，使筋疲力尽"
+        ]
+      ],
+      "changed": true,
+      "before": "exhaust",
+      "after": "ex + haust",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 haust- 为 haurire 分词词干；exhaust 从抽尽到耗尽，非英语 house。",
+      "definitions": [
+        {
+          "sense": "to use up or make extremely tired",
+          "en": "to use up or make extremely tired",
+          "zh": "耗尽；使筋疲力尽"
+        },
+        {
+          "sense": "waste gas discharged by an engine; its discharge system",
+          "en": "waste gas discharged by an engine; its discharge system",
+          "zh": "废气；排气装置"
+        }
+      ],
+      "derivatives": [
+        "exhausted",
+        "exhausting",
+        "exhaustion"
+      ]
+    },
+    {
+      "no": 1881,
+      "term": "exhausted",
+      "slug": "exhausted",
+      "sourceRows": [
+        979,
+        979
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "精疲力尽的"
+        ]
+      ],
+      "changed": true,
+      "before": "exhausted",
+      "after": "ex + haust + ed",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 haust- 为 haurire 分词词干；exhaust 从抽尽到耗尽，非英语 house。",
+      "definitions": [
+        {
+          "sense": "extremely tired or completely used up",
+          "en": "extremely tired or completely used up",
+          "zh": "筋疲力尽的；耗尽的"
+        }
+      ],
+      "derivatives": [
+        "exhaust",
+        "exhausting",
+        "exhaustion"
+      ]
+    },
+    {
+      "no": 1882,
+      "term": "exhausting",
+      "slug": "exhausting",
+      "sourceRows": [
+        980,
+        980
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "使用尽的, 令人疲乏不堪的"
+        ]
+      ],
+      "changed": true,
+      "before": "exhausting",
+      "after": "ex + haust + ing",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 haust- 为 haurire 分词词干；exhaust 从抽尽到耗尽，非英语 house。",
+      "definitions": [
+        {
+          "sense": "causing extreme tiredness",
+          "en": "causing extreme tiredness",
+          "zh": "使人精疲力尽的"
+        }
+      ],
+      "derivatives": [
+        "exhaust",
+        "exhausted",
+        "exhaustion"
+      ]
+    },
+    {
+      "no": 1883,
+      "term": "exhibit",
+      "slug": "exhibit",
+      "sourceRows": [
+        981,
+        981
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "展现；展览"
+        ]
+      ],
+      "changed": true,
+      "before": "exhibit",
+      "after": "ex + hibit",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exhibit 的 hibit- 来自 exhibere（ex- + habere）的分词词干；不是直接来自 Old English have。",
+      "definitions": [
+        {
+          "sense": "to display or show a quality",
+          "en": "to display or show a quality",
+          "zh": "展示；表现出"
+        },
+        {
+          "sense": "an object displayed or used as evidence",
+          "en": "an object displayed or used as evidence",
+          "zh": "展品；证物"
+        }
+      ],
+      "derivatives": [
+        "exhibition"
+      ]
+    },
+    {
+      "no": 1884,
+      "term": "exhibition",
+      "slug": "exhibition",
+      "sourceRows": [
+        982,
+        982
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "展览会；展览品"
+        ]
+      ],
+      "changed": true,
+      "before": "exhibition",
+      "after": "ex + hibit + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exhibit 的 hibit- 来自 exhibere（ex- + habere）的分词词干；不是直接来自 Old English have。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "a public display or a showing of a quality or skill",
+          "en": "a public display or a showing of a quality or skill",
+          "zh": "展览；展示"
+        }
+      ],
+      "derivatives": [
+        "exhibit"
+      ]
+    },
+    {
+      "no": 1885,
+      "term": "exhilarating",
+      "slug": "exhilarating",
+      "sourceRows": [
+        983,
+        983
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "爽快的，使人愉快的"
+        ]
+      ],
+      "changed": true,
+      "before": "exhilarating",
+      "after": "ex + hilar + at + ing",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exhilarate = ex- 加强 + hilar- 欢快 + -ate。",
+      "definitions": [
+        {
+          "sense": "making someone feel very happy, lively, or excited",
+          "en": "making someone feel very happy, lively, or excited",
+          "zh": "使人兴奋的；令人振奋的"
+        }
+      ],
+      "derivatives": [
+        "exhilarate",
+        "exhilaration"
+      ]
+    },
+    {
+      "no": 1886,
+      "term": "exhilarate",
+      "slug": "exhilarate",
+      "sourceRows": [
+        984,
+        984
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "使人兴奋"
+        ]
+      ],
+      "changed": true,
+      "before": "exhilarate",
+      "after": "ex + hilar + ate",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exhilarate = ex- 加强 + hilar- 欢快 + -ate。",
+      "definitions": [
+        {
+          "sense": "to make someone feel very happy and energetic",
+          "en": "to make someone feel very happy and energetic",
+          "zh": "使振奋；使兴奋"
+        }
+      ],
+      "derivatives": [
+        "exhilarating",
+        "exhilaration"
+      ]
+    },
+    {
+      "no": 1887,
+      "term": "exit",
+      "slug": "exit",
+      "sourceRows": [
+        985,
+        985
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "出口"
+        ]
+      ],
+      "changed": true,
+      "before": "exit",
+      "after": "ex + it",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exit 与 exire 出去有关：ex- + ire；戏剧提示 exit 的 t 是第三人称结尾，名词又受 exitus 出口、离去影响；表层 it 不视为英语后缀。",
+      "definitions": [
+        {
+          "sense": "a way out or the act of leaving",
+          "en": "a way out or the act of leaving",
+          "zh": "出口；离开"
+        },
+        {
+          "sense": "to leave",
+          "en": "to leave",
+          "zh": "退出；离开"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1888,
+      "term": "exorbitant",
+      "slug": "exorbitant",
+      "sourceRows": [
+        986,
+        986
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "（价格、索价）过高的，过分的"
+        ]
+      ],
+      "changed": true,
+      "before": "exorbitant",
+      "after": "ex + orbit + ant",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 orbit- 深层 orbita 车辙来自 orbis 圆；exorbitant 原指离开轨道，后指超出常规。",
+      "definitions": [
+        {
+          "sense": "unreasonably high, especially in price",
+          "en": "unreasonably high, especially in price",
+          "zh": "过高的；高得离谱的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1889,
+      "term": "exotic",
+      "slug": "exotic",
+      "sourceRows": [
+        987,
+        987
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "异国的，外来的；奇异的"
+        ]
+      ],
+      "changed": true,
+      "before": "exotic",
+      "after": "exo + tic",
+      "notes": "exo 由 ek 出的副词派生；exotic 的 -tic 对应希腊 -tikos。",
+      "definitions": [
+        {
+          "sense": "originating elsewhere or strikingly unfamiliar",
+          "en": "originating elsewhere or strikingly unfamiliar",
+          "zh": "外来的；奇异的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1890,
+      "term": "expand",
+      "slug": "expand",
+      "sourceRows": [
+        988,
+        988
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "扩大，膨胀；扩张"
+        ]
+      ],
+      "changed": true,
+      "before": "expand",
+      "after": "ex + pand",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 expand 用 pand-，expansion/expanse 用分词 pans-；s 不是英语复数。",
+      "definitions": [
+        {
+          "sense": "to become larger or make larger; to discuss in greater detail",
+          "en": "to become larger or make larger; to discuss in greater detail",
+          "zh": "扩大；膨胀；展开说明"
+        }
+      ],
+      "derivatives": [
+        "expanding",
+        "expansion",
+        "expanse"
+      ]
+    },
+    {
+      "no": 1891,
+      "term": "expanding",
+      "slug": "expanding",
+      "sourceRows": [
+        989,
+        989
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "扩大的，增加的"
+        ]
+      ],
+      "changed": true,
+      "before": "expanding",
+      "after": "ex + pand + ing",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 expand 用 pand-，expansion/expanse 用分词 pans-；s 不是英语复数。",
+      "definitions": [
+        {
+          "sense": "increasing in size, extent, or scope",
+          "en": "increasing in size, extent, or scope",
+          "zh": "扩大的；膨胀的"
+        }
+      ],
+      "derivatives": [
+        "expand",
+        "expansion",
+        "expanse"
+      ]
+    },
+    {
+      "no": 1892,
+      "term": "expansion",
+      "slug": "expansion",
+      "sourceRows": [
+        990,
+        990
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "扩张，发展"
+        ]
+      ],
+      "changed": true,
+      "before": "expansion",
+      "after": "ex + pans + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 expand 用 pand-，expansion/expanse 用分词 pans-；s 不是英语复数。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "an increase in size, extent, or scope",
+          "en": "an increase in size, extent, or scope",
+          "zh": "扩张；膨胀"
+        }
+      ],
+      "derivatives": [
+        "expand",
+        "expanding",
+        "expanse"
+      ]
+    },
+    {
+      "no": 1893,
+      "term": "expanse",
+      "slug": "expanse",
+      "sourceRows": [
+        991,
+        991
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "广阔的区域"
+        ]
+      ],
+      "changed": true,
+      "before": "expanse",
+      "after": "ex + panse",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 expand 用 pand-，expansion/expanse 用分词 pans-；s 不是英语复数。",
+      "definitions": [
+        {
+          "sense": "a broad open area",
+          "en": "a broad open area",
+          "zh": "广阔的区域"
+        }
+      ],
+      "derivatives": [
+        "expand",
+        "expanding",
+        "expansion"
+      ]
+    },
+    {
+      "no": 1894,
+      "term": "expedition",
+      "slug": "expedition",
+      "sourceRows": [
+        992,
+        992
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "远征；探险队"
+        ]
+      ],
+      "changed": true,
+      "before": "expedition",
+      "after": "ex + ped + ition",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 expedition 来自 expedire，ex- 解除 + 与足镣相关的 ped-，源于 pes/pedis 足；不是 Greek pais 儿童。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "a journey made for a particular purpose, or the group making it",
+          "en": "a journey made for a particular purpose, or the group making it",
+          "zh": "远征；考察；探险队"
+        },
+        {
+          "sense": "prompt performance of an action",
+          "en": "prompt performance of an action",
+          "zh": "迅速办理"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1895,
+      "term": "expel",
+      "slug": "expel",
+      "sourceRows": [
+        993,
+        993
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "驱逐，开除；排出"
+        ]
+      ],
+      "changed": true,
+      "before": "expel",
+      "after": "ex + pel",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "to force out or dismiss from membership",
+          "en": "to force out or dismiss from membership",
+          "zh": "驱逐；排出；开除"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1896,
+      "term": "expenditure",
+      "slug": "expenditure",
+      "sourceRows": [
+        994,
+        994
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "支出, 花费"
+        ]
+      ],
+      "changed": true,
+      "before": "expenditure",
+      "after": "ex + pend + it + ure",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 explicit/implicit 的 -it 对应 Latin -itus；expenditure 的 it 来自 Medieval Latin expenditus。",
+      "definitions": [
+        {
+          "sense": "money, time, or effort spent; the act of spending it",
+          "en": "money, time, or effort spent; the act of spending it",
+          "zh": "支出；花费"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1897,
+      "term": "expertise",
+      "slug": "expertise",
+      "sourceRows": [
+        995,
+        995
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "专门技术，技能"
+        ]
+      ],
+      "changed": true,
+      "before": "expertise",
+      "after": "ex + pert + ise",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 expert 深层 ex- 加强 + 试验词干 per-，expertus 收缩自 *experitus；不是 per- 穿过。 expertise 的 -ise 是名词后缀，不是 -ize 动词化。",
+      "definitions": [
+        {
+          "sense": "specialized knowledge or skill",
+          "en": "specialized knowledge or skill",
+          "zh": "专门知识；专业技能"
+        }
+      ],
+      "derivatives": [
+        "expert"
+      ]
+    },
+    {
+      "no": 1898,
+      "term": "expire",
+      "slug": "expire",
+      "sourceRows": [
+        996,
+        997
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "期满，到期"
+        ],
+        [
+          "vi.",
+          "呼气"
+        ]
+      ],
+      "changed": true,
+      "before": "expire",
+      "after": "ex + pire",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ex- + pire；Latin exspirare = ex- + spirare 呼吸，x 后 s 省写。不是独立 pire 根。",
+      "definitions": [
+        {
+          "sense": "to come to an end or become invalid; to breathe out or die",
+          "en": "to come to an end or become invalid; to breathe out or die",
+          "zh": "到期；失效；呼气；死亡"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1899,
+      "term": "explicit",
+      "slug": "explicit",
+      "sourceRows": [
+        998,
+        998
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "明确的，清楚的"
+        ]
+      ],
+      "changed": true,
+      "before": "explicit",
+      "after": "ex + plic + it",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ex- 出 + plic- 折 + -it（Latin -itus 分词结尾），展开而明示；it 不是英语代词。 explicit/implicit 的 -it 对应 Latin -itus；expenditure 的 it 来自 Medieval Latin expenditus。",
+      "definitions": [
+        {
+          "sense": "stated clearly and fully; showing detail directly",
+          "en": "stated clearly and fully; showing detail directly",
+          "zh": "明确的；详尽直白的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1900,
+      "term": "implicit",
+      "slug": "implicit",
+      "sourceRows": [
+        999,
+        999
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "暗示的，含蓄的"
+        ]
+      ],
+      "changed": true,
+      "before": "implicit",
+      "after": "im + plic + it",
+      "notes": "Latin in- 在内、进入，经法语形成 en-/em-；本条为肯定方向或使动前缀，区别否定 in-，也区别英语后缀 -en。 im- 是 in- 在内的同化形，不是否定；plic- 折 + -it 分词层，折在里面而未明说，也可表示绝对的信任。 explicit/implicit 的 -it 对应 Latin -itus；expenditure 的 it 来自 Medieval Latin expenditus。",
+      "definitions": [
+        {
+          "sense": "suggested rather than directly stated; complete and unquestioning",
+          "en": "suggested rather than directly stated; complete and unquestioning",
+          "zh": "含蓄的；不言明的；绝对的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1901,
+      "term": "explode",
+      "slug": "explode",
+      "sourceRows": [
+        1000,
+        1000
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "爆炸；爆发"
+        ]
+      ],
+      "changed": true,
+      "before": "explode",
+      "after": "ex + plode",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 explode 深层 ex- 出 + plaudere 拍手（复合弱化 plod-）；从轰下台到爆发，explosive 用 plos-。",
+      "definitions": [
+        {
+          "sense": "to burst violently or increase suddenly",
+          "en": "to burst violently or increase suddenly",
+          "zh": "爆炸；突然爆发；激增"
+        }
+      ],
+      "derivatives": [
+        "explosion",
+        "explosive"
+      ]
+    },
+    {
+      "no": 1902,
+      "term": "exploit",
+      "slug": "exploit",
+      "sourceRows": [
+        1001,
+        1001
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "开拓；开采，开发"
+        ]
+      ],
+      "changed": true,
+      "before": "exploit",
+      "after": "ex + ploit",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ex- + ploit-；经法语来自 Latin explicare = ex- + plicare 展开。中间是动词还是名词派生，Etymonline 与 MW 解释不同；底层 plicare 一致。名词重音和壮举义与动词利用/剥削义区分。",
+      "definitions": [
+        {
+          "sense": "to use effectively; to take unfair advantage of",
+          "en": "to use effectively; to take unfair advantage of",
+          "zh": "利用；开发；剥削"
+        },
+        {
+          "sense": "a remarkable or daring deed",
+          "en": "a remarkable or daring deed",
+          "zh": "功绩；壮举"
+        }
+      ],
+      "derivatives": [
+        "exploitation"
+      ]
+    },
+    {
+      "no": 1903,
+      "term": "exploitation",
+      "slug": "exploitation",
+      "sourceRows": [
+        1002,
+        1002
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "开发，开采"
+        ]
+      ],
+      "changed": true,
+      "before": "exploitation",
+      "after": "ex + ploit + ation",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exploit + -ation；ploit- 经法语来自 Latin plicare 折叠；中介派生路径存在不同解释。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the use of a resource; unfair use of someone for advantage",
+          "en": "the use of a resource; unfair use of someone for advantage",
+          "zh": "开发利用；剥削"
+        }
+      ],
+      "derivatives": [
+        "exploit"
+      ]
+    },
+    {
+      "no": 1904,
+      "term": "explore",
+      "slug": "explore",
+      "sourceRows": [
+        1003,
+        1004
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "探险，勘探"
+        ],
+        [
+          "vt.",
+          "仔细检查，探究"
+        ]
+      ],
+      "changed": true,
+      "before": "explore",
+      "after": "ex + plore",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 explore = ex- + plorare 呼喊；猎场呼喊探查的语义解释有争议，不作为确证故事。",
+      "definitions": [
+        {
+          "sense": "to investigate or travel through in order to learn",
+          "en": "to investigate or travel through in order to learn",
+          "zh": "探索；探究"
+        }
+      ],
+      "derivatives": [
+        "explorer",
+        "exploration"
+      ]
+    },
+    {
+      "no": 1905,
+      "term": "explorer",
+      "slug": "explorer",
+      "sourceRows": [
+        1005,
+        1005
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "探险家，探测者"
+        ]
+      ],
+      "changed": true,
+      "before": "explorer",
+      "after": "ex + plor + er",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 explore = ex- + plorare 呼喊；猎场呼喊探查的语义解释有争议，不作为确证故事。 Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.",
+      "definitions": [
+        {
+          "sense": "a person who investigates or travels to learn about unfamiliar places",
+          "en": "a person who investigates or travels to learn about unfamiliar places",
+          "zh": "探险者；探索者"
+        }
+      ],
+      "derivatives": [
+        "exploration",
+        "explore"
+      ]
+    },
+    {
+      "no": 1906,
+      "term": "exploration",
+      "slug": "exploration",
+      "sourceRows": [
+        1006,
+        1006
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "勘察；探究"
+        ]
+      ],
+      "changed": true,
+      "before": "exploration",
+      "after": "ex + plor + ation",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 explore = ex- + plorare 呼喊；猎场呼喊探查的语义解释有争议，不作为确证故事。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "investigation or travel undertaken to discover or learn",
+          "en": "investigation or travel undertaken to discover or learn",
+          "zh": "探索；勘探"
+        }
+      ],
+      "derivatives": [
+        "explorer",
+        "explore"
+      ]
+    },
+    {
+      "no": 1907,
+      "term": "explosive",
+      "slug": "explosive",
+      "sourceRows": [
+        1007,
+        1008
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "爆炸的；易爆发的"
+        ],
+        [
+          "n.",
+          "炸药"
+        ]
+      ],
+      "changed": true,
+      "before": "explosive",
+      "after": "ex + plos + ive",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 explode 深层 ex- 出 + plaudere 拍手（复合弱化 plod-）；从轰下台到爆发，explosive 用 plos-。",
+      "definitions": [
+        {
+          "sense": "able or likely to explode; suddenly forceful",
+          "en": "able or likely to explode; suddenly forceful",
+          "zh": "爆炸性的；易爆的"
+        },
+        {
+          "sense": "a substance that can cause an explosion",
+          "en": "a substance that can cause an explosion",
+          "zh": "炸药"
+        }
+      ],
+      "derivatives": [
+        "explode",
+        "explosion"
+      ]
+    },
+    {
+      "no": 1908,
+      "term": "exponential",
+      "slug": "exponential",
+      "sourceRows": [
+        1009,
+        1009
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "指数的，幂数的"
+        ]
+      ],
+      "changed": true,
+      "before": "exponential",
+      "after": "ex + pon + ent + ial",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ex- + pon- + -ent + -ial；exponent 深层 exponere = ex- + ponere 放置，-ent 为分词层。指数增长不是所有迅速增长的严格同义词。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "relating to an exponent; changing by a constant multiplicative factor over equal intervals",
+          "en": "relating to an exponent; changing by a constant multiplicative factor over equal intervals",
+          "zh": "指数的；按指数变化的"
+        }
+      ],
+      "derivatives": [
+        "exponent"
+      ]
+    },
+    {
+      "no": 1909,
+      "term": "exposition",
+      "slug": "exposition",
+      "sourceRows": [
+        1010,
+        1010
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "博览会，展览会"
+        ]
+      ],
+      "changed": true,
+      "before": "exposition",
+      "after": "ex + pos + ition",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 pon-/pos-/posit- 来自 Latin ponere/positus 放置；dispose 的 dis- 表分开安排，disposed 的 -ed 只计一次。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "a detailed explanation or a public exhibition",
+          "en": "a detailed explanation or a public exhibition",
+          "zh": "阐述；说明；博览会"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1910,
+      "term": "exposure",
+      "slug": "exposure",
+      "sourceRows": [
+        1011,
+        1011
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "暴露；曝光"
+        ]
+      ],
+      "changed": true,
+      "before": "exposure",
+      "after": "ex + pos + ure",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ex- + pos- + -ure；来自 expose。历史 Latin exponere 的 ponere 放置，被法语 poser（Latin pausare 停放）影响；现有 pon 根作教学归组，保留混合路径说明。",
+      "definitions": [
+        {
+          "sense": "being unprotected or subject to something; public revelation; contact with new experience; light reaching a photographic sensor",
+          "en": "being unprotected or subject to something; public revelation; contact with new experience; light reaching a photographic sensor",
+          "zh": "暴露；揭露；接触；摄影曝光"
+        }
+      ],
+      "derivatives": [
+        "expose"
+      ]
+    },
+    {
+      "no": 1911,
+      "term": "express business",
+      "slug": "express-business",
+      "sourceRows": [
+        1012,
+        1012
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "特快专递业务"
+        ]
+      ],
+      "changed": true,
+      "before": "express business",
+      "after": "ex + press + business",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 深层 busy 忙 + -ness，y 在历史拼写中变 i；express business 指快递业务。",
+      "definitions": [
+        {
+          "sense": "a business providing rapid delivery of parcels or goods",
+          "en": "a business providing rapid delivery of parcels or goods",
+          "zh": "快递业务"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1912,
+      "term": "express train",
+      "slug": "express-train",
+      "sourceRows": [
+        1013,
+        1013
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "特快列车"
+        ]
+      ],
+      "changed": true,
+      "before": "express train",
+      "after": "ex + press + train",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 经法语发展为被牵引的行列，再到列车；不拆 tra + in。",
+      "definitions": [
+        {
+          "sense": "a train making relatively few stops to provide faster travel",
+          "en": "a train making relatively few stops to provide faster travel",
+          "zh": "特快列车；快车"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1913,
+      "term": "expressive",
+      "slug": "expressive",
+      "sourceRows": [
+        1014,
+        1014
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "有表现力的,富有表情的,生动的"
+        ]
+      ],
+      "changed": true,
+      "before": "expressive",
+      "after": "ex + press + ive",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "effectively showing thoughts or feelings",
+          "en": "effectively showing thoughts or feelings",
+          "zh": "富于表现力的"
+        }
+      ],
+      "derivatives": [
+        "expressly",
+        "express",
+        "expression"
+      ]
+    },
+    {
+      "no": 1914,
+      "term": "expressly",
+      "slug": "expressly",
+      "sourceRows": [
+        1015,
+        1015
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "特意地，专门"
+        ]
+      ],
+      "changed": true,
+      "before": "expressly",
+      "after": "ex + press + ly",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "clearly and explicitly; for a particular purpose",
+          "en": "clearly and explicitly; for a particular purpose",
+          "zh": "明确地；专门地"
+        }
+      ],
+      "derivatives": [
+        "expressive",
+        "express",
+        "expression"
+      ]
+    },
+    {
+      "no": 1915,
+      "term": "extension",
+      "slug": "extension",
+      "sourceRows": [
+        1016,
+        1016
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "延长，扩充"
+        ]
+      ],
+      "changed": true,
+      "before": "extension",
+      "after": "ex + tens + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "an increase in length, size, or time; an added part",
+          "en": "an increase in length, size, or time; an added part",
+          "zh": "延伸；扩大；延期；增建部分"
+        }
+      ],
+      "derivatives": [
+        "extend",
+        "extended",
+        "extensive"
+      ]
+    },
+    {
+      "no": 1916,
+      "term": "extend",
+      "slug": "extend",
+      "sourceRows": [
+        1017,
+        1017
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "延长；扩大"
+        ]
+      ],
+      "changed": true,
+      "before": "extend",
+      "after": "ex + tend",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "to make longer or larger; to reach or offer",
+          "en": "to make longer or larger; to reach or offer",
+          "zh": "延长；扩大；延伸；给予"
+        }
+      ],
+      "derivatives": [
+        "extended",
+        "extension",
+        "extensive"
+      ]
+    },
+    {
+      "no": 1917,
+      "term": "extended",
+      "slug": "extended",
+      "sourceRows": [
+        1018,
+        1018
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "延长的，扩大的"
+        ]
+      ],
+      "changed": true,
+      "before": "extended",
+      "after": "ex + tend + ed",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "made longer or larger; lasting for a considerable time",
+          "en": "made longer or larger; lasting for a considerable time",
+          "zh": "延长的；扩大的；长期的"
+        }
+      ],
+      "derivatives": [
+        "extend",
+        "extension",
+        "extensive"
+      ]
+    },
+    {
+      "no": 1918,
+      "term": "extensive",
+      "slug": "extensive",
+      "sourceRows": [
+        1019,
+        1019
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "广的；多方面的，广泛的"
+        ]
+      ],
+      "changed": true,
+      "before": "extensive",
+      "after": "ex + tens + ive",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "covering a large area or range",
+          "en": "covering a large area or range",
+          "zh": "广泛的；大量的"
+        }
+      ],
+      "derivatives": [
+        "extend",
+        "extended",
+        "extension"
+      ]
+    },
+    {
+      "no": 1919,
+      "term": "exterior",
+      "slug": "exterior",
+      "sourceRows": [
+        1020,
+        1020
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "外部，外表"
+        ]
+      ],
+      "changed": true,
+      "before": "exterior",
+      "after": "exter + ior",
+      "notes": "深层 ex 出 + 比较/方位扩展形成 exterus；exterior 为比较级，externus 为外在，extremus 为最高级。保留各稳定词干，不能把 extremity 的 rem 当独立根。 exterior 是 Latin exterus 外部的比较级。",
+      "definitions": [
+        {
+          "sense": "the outside or outer surface",
+          "en": "the outside or outer surface",
+          "zh": "外部；外表"
+        },
+        {
+          "sense": "on or relating to the outside",
+          "en": "on or relating to the outside",
+          "zh": "外部的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1920,
+      "term": "exterminate",
+      "slug": "exterminate",
+      "sourceRows": [
+        1021,
+        1021
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "根除，灭绝"
+        ]
+      ],
+      "changed": true,
+      "before": "exterminate",
+      "after": "ex + termin + ate",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 ex- 出 + termin- 边界 + -ate；Latin terminus 边界，原有逐出界外义，现代为根除、灭绝。",
+      "definitions": [
+        {
+          "sense": "to destroy or kill all members of a group",
+          "en": "to destroy or kill all members of a group",
+          "zh": "灭绝；根除"
+        }
+      ],
+      "derivatives": [
+        "extermination"
+      ]
+    },
+    {
+      "no": 1921,
+      "term": "external",
+      "slug": "external",
+      "sourceRows": [
+        1022,
+        1022
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "外部的；表面的"
+        ]
+      ],
+      "changed": true,
+      "before": "external",
+      "after": "extern + al",
+      "notes": "深层 ex 出 + 比较/方位扩展形成 exterus；exterior 为比较级，externus 为外在，extremus 为最高级。保留各稳定词干，不能把 extremity 的 rem 当独立根。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "on the outside; coming from outside",
+          "en": "on the outside; coming from outside",
+          "zh": "外部的；外来的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1922,
+      "term": "extinct",
+      "slug": "extinct",
+      "sourceRows": [
+        1023,
+        1023
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "灭绝的；不再活跃的，熄灭的"
+        ]
+      ],
+      "changed": true,
+      "before": "extinct",
+      "after": "ex + tinct",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 extinct 深层 ex- + stinct-（stinguere 分词词干），x 后 s 在拼写中省去；不是 tinct 染色。更深刺、推的语义来源不确定。",
+      "definitions": [
+        {
+          "sense": "no longer existing; no longer active",
+          "en": "no longer existing; no longer active",
+          "zh": "灭绝的；熄灭的；不再活动的"
+        }
+      ],
+      "derivatives": [
+        "extinction",
+        "extinguish"
+      ]
+    },
+    {
+      "no": 1923,
+      "term": "extinction",
+      "slug": "extinction",
+      "sourceRows": [
+        1024,
+        1024
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "消失，灭绝"
+        ]
+      ],
+      "changed": true,
+      "before": "extinction",
+      "after": "ex + tinct + ion",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 extinct 深层 ex- + stinct-（stinguere 分词词干），x 后 s 在拼写中省去；不是 tinct 染色。更深刺、推的语义来源不确定。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the disappearance of a species or the ending of something",
+          "en": "the disappearance of a species or the ending of something",
+          "zh": "灭绝；消亡"
+        }
+      ],
+      "derivatives": [
+        "extinct",
+        "extinguish"
+      ]
+    },
+    {
+      "no": 1924,
+      "term": "extol",
+      "slug": "extol",
+      "sourceRows": [
+        1025,
+        1025
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "赞美"
+        ]
+      ],
+      "changed": true,
+      "before": "extol",
+      "after": "ex + tol",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 extol = ex- 加强、向上 + tol-；双 l 在 extolling 中恢复。",
+      "definitions": [
+        {
+          "sense": "to praise highly",
+          "en": "to praise highly",
+          "zh": "高度赞扬"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1925,
+      "term": "extract",
+      "slug": "extract",
+      "sourceRows": [
+        1026,
+        1027
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "拔出；榨取"
+        ],
+        [
+          "n.",
+          "精，汁；榨出物"
+        ]
+      ],
+      "changed": true,
+      "before": "extract",
+      "after": "ex + tract",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。",
+      "definitions": [
+        {
+          "sense": "to pull out or obtain from a source",
+          "en": "to pull out or obtain from a source",
+          "zh": "拔出；提取"
+        },
+        {
+          "sense": "a substance or passage taken from a larger source",
+          "en": "a substance or passage taken from a larger source",
+          "zh": "提取物；摘录"
+        }
+      ],
+      "derivatives": [
+        "extraction"
+      ]
+    },
+    {
+      "no": 1926,
+      "term": "extraordinary",
+      "slug": "extraordinary",
+      "sourceRows": [
+        1028,
+        1028
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "特别的，非凡的"
+        ]
+      ],
+      "changed": true,
+      "before": "extraordinary",
+      "after": "extra + ordin + ary",
+      "notes": "extra 来自 exterus 外部的方位形式，深层 ex 出；extraordinary 为超出常规。 ordinary 为 ordin- + -ary；extraordinary 外层 extra- 超出 + ordinary。",
+      "definitions": [
+        {
+          "sense": "very unusual or remarkable",
+          "en": "very unusual or remarkable",
+          "zh": "非凡的；异乎寻常的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1927,
+      "term": "extremity",
+      "slug": "extremity",
+      "sourceRows": [
+        1029,
+        1029
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "末端；极端，极度"
+        ]
+      ],
+      "changed": true,
+      "before": "extremity",
+      "after": "extrem + ity",
+      "notes": "深层 ex 出 + 比较/方位扩展形成 exterus；exterior 为比较级，externus 为外在，extremus 为最高级。保留各稳定词干，不能把 extremity 的 rem 当独立根。 -ty/-ity 是名词构词结尾。",
+      "definitions": [
+        {
+          "sense": "an outermost part or limit; an extreme degree; a hand or foot",
+          "en": "an outermost part or limit; an extreme degree; a hand or foot",
+          "zh": "末端；极端；手足"
+        }
+      ],
+      "derivatives": [
+        "extreme"
+      ]
+    },
+    {
+      "no": 1928,
+      "term": "exuberant",
+      "slug": "exuberant",
+      "sourceRows": [
+        1030,
+        1031
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "充满活力的"
+        ],
+        [
+          "adj.",
+          "（植物）繁茂的"
+        ]
+      ],
+      "changed": true,
+      "before": "exuberant",
+      "after": "ex + uber + ant",
+      "notes": "Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。 exuberant 深层 ex- 加强 + uberare 丰盛（uber 丰饶，与乳房义相关）+ -ant。",
+      "definitions": [
+        {
+          "sense": "full of lively energy or growing abundantly",
+          "en": "full of lively energy or growing abundantly",
+          "zh": "热情洋溢的；繁茂的"
+        }
+      ],
+      "derivatives": [
+        "exuberance"
+      ]
+    },
+    {
+      "no": 1929,
+      "term": "eyewitness",
+      "slug": "eyewitness",
+      "sourceRows": [
+        1032,
+        1032
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "目击者"
+        ]
+      ],
+      "changed": true,
+      "before": "eyewitness",
+      "after": "eye + witness",
+      "notes": "深层 wit 知道 + -ness 状态，现代 witness 指证人或证据；eyewitness 是亲眼见证者。",
+      "definitions": [
+        {
+          "sense": "a person who saw an event happen",
+          "en": "a person who saw an event happen",
+          "zh": "目击者"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1930,
+      "term": "fable",
+      "slug": "fable",
+      "sourceRows": [
+        1033,
+        1033
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "寓言，神话"
+        ]
+      ],
+      "changed": true,
+      "before": "fable",
+      "after": "fable",
+      "notes": "fabula 为 fari 说的名词派生，含历史 -bula 构词层；不是 f- + able 能够。",
+      "definitions": [
+        {
+          "sense": "a short story teaching a lesson, often with animal characters; an invented tale",
+          "en": "a short story teaching a lesson, often with animal characters; an invented tale",
+          "zh": "寓言；虚构的故事"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1931,
+      "term": "fabric",
+      "slug": "fabric",
+      "sourceRows": [
+        1034,
+        1035
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "织物，布"
+        ],
+        [
+          "n.",
+          "结构，构造"
+        ]
+      ],
+      "changed": true,
+      "before": "fabric",
+      "after": "fabr + ic",
+      "notes": "fabric 为 fabr- 工匠 + -ic（Latin fabrica 的形容词构词层名词化）；不是 fab- 说话。",
+      "definitions": [
+        {
+          "sense": "cloth; the structure or underlying organization of something",
+          "en": "cloth; the structure or underlying organization of something",
+          "zh": "织物；结构"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1932,
+      "term": "facade",
+      "slug": "facade",
+      "sourceRows": [
+        1036,
+        1036
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "正面；表面"
+        ]
+      ],
+      "changed": true,
+      "before": "facade",
+      "after": "fac + ade",
+      "notes": "facies 可能与 facere 做、形成有关，但直接词源为脸、形状；facade/facet 的 fac- 不直接释为做。 facade 的 -ade 来自 Italian facciata 的 -ata，经法语 -ade。",
+      "definitions": [
+        {
+          "sense": "the front of a building; a misleading outward appearance",
+          "en": "the front of a building; a misleading outward appearance",
+          "zh": "建筑正面；假象"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1933,
+      "term": "facet",
+      "slug": "facet",
+      "sourceRows": [
+        1037,
+        1037
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "面；（问题等的）方面"
+        ]
+      ],
+      "changed": true,
+      "before": "facet",
+      "after": "fac + et",
+      "notes": "facies 可能与 facere 做、形成有关，但直接词源为脸、形状；facade/facet 的 fac- 不直接释为做。 facet 对应 French facette，face + -ette。",
+      "definitions": [
+        {
+          "sense": "a side of a cut gem; one aspect of something",
+          "en": "a side of a cut gem; one aspect of something",
+          "zh": "宝石切面；方面"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1934,
+      "term": "multifaceted",
+      "slug": "multifaceted",
+      "sourceRows": [
+        1038,
+        1038
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "多层面的"
+        ]
+      ],
+      "changed": true,
+      "before": "multifaceted",
+      "after": "multi + fac + et + ed",
+      "notes": "multifaceted 中 multi- 表多。 facies 可能与 facere 做、形成有关，但直接词源为脸、形状；facade/facet 的 fac- 不直接释为做。 facet 对应 French facette，face + -ette。",
+      "definitions": [
+        {
+          "sense": "having many aspects or sides",
+          "en": "having many aspects or sides",
+          "zh": "多方面的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1935,
+      "term": "face",
+      "slug": "face",
+      "sourceRows": [
+        1039,
+        1039
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "面对"
+        ]
+      ],
+      "changed": true,
+      "before": "face",
+      "after": "face",
+      "notes": "facies 可能与 facere 做、形成有关，但直接词源为脸、形状；facade/facet 的 fac- 不直接释为做。",
+      "definitions": [
+        {
+          "sense": "to confront or be turned toward",
+          "en": "to confront or be turned toward",
+          "zh": "面对；朝向"
+        },
+        {
+          "sense": "the front of the head; an outer surface",
+          "en": "the front of the head; an outer surface",
+          "zh": "脸；表面"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1936,
+      "term": "facilitate",
+      "slug": "facilitate",
+      "sourceRows": [
+        1040,
+        1040
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "使容易；有助于，促进"
+        ]
+      ],
+      "changed": true,
+      "before": "facilitate",
+      "after": "facil + itate",
+      "notes": "facil- 易做 + -itate 使动；facil- 更深 facere 做 + -ilis 能够，-itate 还反映 facilitas/facilitate 的名词及动词构词层。 facilitate 的 -itate 反映 facility/facilitas 名词层与动词化；不把 it 当独立实义根。",
+      "definitions": [
+        {
+          "sense": "to make an action or process easier",
+          "en": "to make an action or process easier",
+          "zh": "促进；使便利"
+        }
+      ],
+      "derivatives": [
+        "facilitation"
+      ]
+    },
+    {
+      "no": 1937,
+      "term": "facilitation",
+      "slug": "facilitation",
+      "sourceRows": [
+        1041,
+        1041
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "促进，帮助"
+        ]
+      ],
+      "changed": true,
+      "before": "facilitation",
+      "after": "facil + it + ation",
+      "notes": "facilitate 去 -ate 加 -ation，显示 facil- + -it- + -ation；facil- 内部 facere 做 + -ilis 可做，it 是词干扩展层而非独立词根。 facilitate 的 -itate 反映 facility/facilitas 名词层与动词化；不把 it 当独立实义根。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "the act of making a process easier",
+          "en": "the act of making a process easier",
+          "zh": "促进；便利化"
+        }
+      ],
+      "derivatives": [
+        "facilitate"
+      ]
+    },
+    {
+      "no": 1938,
+      "term": "facility",
+      "slug": "facility",
+      "sourceRows": [
+        1042,
+        1042
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "设施，设备"
+        ]
+      ],
+      "changed": true,
+      "before": "facility",
+      "after": "facil + ity",
+      "notes": "深层 facere 做 + -ilis 能够 → facilis；faculty 经过 facultas 的收缩/音变及 -tas 名词化，表层 facult- + -y；facilitate = facil- + -itate。 -ty/-ity 是名词构词结尾。",
+      "definitions": [
+        {
+          "sense": "a place or equipment serving a purpose; ease or skill in doing something",
+          "en": "a place or equipment serving a purpose; ease or skill in doing something",
+          "zh": "设施；场所；熟练；便利"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1939,
+      "term": "facsimile",
+      "slug": "facsimile",
+      "sourceRows": [
+        1043,
+        1043
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "复制品，传真"
+        ]
+      ],
+      "changed": true,
+      "before": "facsimile",
+      "after": "fac + simile",
+      "notes": "来自拉丁短语 fac simile：“做一个相似的”。fac 是 facere 的命令式，simile 为 similis 的中性形式。 fac simile 是 Latin facere 的命令式 fac 做 + simile 相似的事物；不是 fac- + 英语 smile。",
+      "definitions": [
+        {
+          "sense": "an exact copy, especially of a document; a fax",
+          "en": "an exact copy, especially of a document; a fax",
+          "zh": "精确复制品；传真"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1940,
+      "term": "faction",
+      "slug": "faction",
+      "sourceRows": [
+        1044,
+        1044
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "派别，宗派，小集团"
+        ]
+      ],
+      "changed": true,
+      "before": "faction",
+      "after": "fact + ion",
+      "notes": "English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "a group within a larger organization pursuing a particular interest",
+          "en": "a group within a larger organization pursuing a particular interest",
+          "zh": "派别；派系"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1941,
+      "term": "petrifaction",
+      "slug": "petrifaction",
+      "sourceRows": [
+        1045,
+        1045
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "石化, 化石"
+        ]
+      ],
+      "changed": true,
+      "before": "petrifaction",
+      "after": "petr + i + fact + ion",
+      "notes": "petr- 石 + -i- 连接元音 + fact- 做 + -ion；对应 petrify 的石化义，名词还可指石化物。 连接复合词的构词成分，不独立承担实义。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "conversion into stone or a stony substance; a petrified object",
+          "en": "conversion into stone or a stony substance; a petrified object",
+          "zh": "石化；石化物"
+        }
+      ],
+      "derivatives": [
+        "petrify"
+      ]
+    },
+    {
+      "no": 1942,
+      "term": "satisfaction",
+      "slug": "satisfaction",
+      "sourceRows": [
+        1046,
+        1046
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "满意，满足"
+        ]
+      ],
+      "changed": true,
+      "before": "satisfaction",
+      "after": "satis + fact + ion",
+      "notes": "English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "contentment from fulfillment; fulfillment of a requirement",
+          "en": "contentment from fulfillment; fulfillment of a requirement",
+          "zh": "满意；满足；符合要求"
+        }
+      ],
+      "derivatives": [
+        "satisfy"
+      ]
+    },
+    {
+      "no": 1943,
+      "term": "factor",
+      "slug": "factor",
+      "sourceRows": [
+        1047,
+        1047
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "因素；变量"
+        ]
+      ],
+      "changed": true,
+      "before": "factor",
+      "after": "fact + or",
+      "notes": "-or 为 Latin 施事/工具名词后缀；-ator 包含 -at- 动词分词构词层 + -or。不是 error/favor 的抽象 -or。",
+      "definitions": [
+        {
+          "sense": "an element contributing to a result; a number multiplied with another",
+          "en": "an element contributing to a result; a number multiplied with another",
+          "zh": "因素；因子"
+        },
+        {
+          "sense": "to express as a product of factors",
+          "en": "to express as a product of factors",
+          "zh": "因式分解"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1944,
+      "term": "factual",
+      "slug": "factual",
+      "sourceRows": [
+        1048,
+        1048
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "事实的，实际的"
+        ]
+      ],
+      "changed": true,
+      "before": "factual",
+      "after": "fact + ual",
+      "notes": "-al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "based on or concerned with facts",
+          "en": "based on or concerned with facts",
+          "zh": "事实的；真实的"
+        }
+      ],
+      "derivatives": [
+        "fact"
+      ]
+    },
+    {
+      "no": 1945,
+      "term": "faculty",
+      "slug": "faculty",
+      "sourceRows": [
+        1049,
+        1050
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "教职工的总称"
+        ],
+        [
+          "n.",
+          "才能，能力"
+        ]
+      ],
+      "changed": true,
+      "before": "faculty",
+      "after": "facult + y",
+      "notes": "facult- + -y；深层 facultas 是 facilis（facere 做 + -ilis）加 -tas 状态并经收缩音变，不把 faculty 留成不可解释整词。 名词 -y 与形容词 -y（古英语 -ig）分开。",
+      "definitions": [
+        {
+          "sense": "an ability; the teaching staff or a division of a university",
+          "en": "an ability; the teaching staff or a division of a university",
+          "zh": "能力；全体教师；院系"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1946,
+      "term": "fade",
+      "slug": "fade",
+      "sourceRows": [
+        1051,
+        1052
+      ],
+      "sourceSenses": [
+        [
+          "vi.",
+          "逐渐消失"
+        ],
+        [
+          "vi.",
+          "褪色，枯萎"
+        ]
+      ],
+      "changed": true,
+      "before": "fade",
+      "after": "fade",
+      "notes": "可能经 *fatidus 来自 fatuus，并受 vapidus 影响；更深链有争议，不强拆。",
+      "definitions": [
+        {
+          "sense": "to lose brightness, strength, or clarity gradually",
+          "en": "to lose brightness, strength, or clarity gradually",
+          "zh": "褪色；衰退；逐渐消失"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1947,
+      "term": "faint",
+      "slug": "faint",
+      "sourceRows": [
+        1053,
+        1053
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "微弱的；模糊的；无力的"
+        ]
+      ],
+      "changed": true,
+      "before": "faint",
+      "after": "faint",
+      "notes": "经法语分词形来自 feindre，深层 Latin fingere 塑造、假装；词典对分词路径措辞不同，保留 faint，不硬拆 -int。",
+      "definitions": [
+        {
+          "sense": "weak or difficult to perceive; feeling close to losing consciousness",
+          "en": "weak or difficult to perceive; feeling close to losing consciousness",
+          "zh": "微弱的；模糊的；眩晕的"
+        },
+        {
+          "sense": "to lose consciousness briefly",
+          "en": "to lose consciousness briefly",
+          "zh": "昏厥"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1948,
+      "term": "fairly",
+      "slug": "fairly",
+      "sourceRows": [
+        1054,
+        1054
+      ],
+      "sourceSenses": [
+        [
+          "adv.",
+          "公平地；相当地"
+        ]
+      ],
+      "changed": true,
+      "before": "fairly",
+      "after": "fair + ly",
+      "notes": "fairly 的 fair 是公正、美好的形容词来源；集市 fair 来自另一条拉丁词源。",
+      "definitions": [
+        {
+          "sense": "to a moderate degree; in a just or impartial manner",
+          "en": "to a moderate degree; in a just or impartial manner",
+          "zh": "相当地；公平地"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1949,
+      "term": "faithful",
+      "slug": "faithful",
+      "sourceRows": [
+        1055,
+        1056
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "信徒"
+        ],
+        [
+          "adj.",
+          "忠实的"
+        ]
+      ],
+      "changed": true,
+      "before": "faithful",
+      "after": "faith + ful",
+      "notes": "faith 经法语音变来自 fides，末尾 th 受英语抽象名词影响；不当作 fai + 可自由派生的 -th。",
+      "definitions": [
+        {
+          "sense": "loyal, reliable, or accurate to an original",
+          "en": "loyal, reliable, or accurate to an original",
+          "zh": "忠诚的；忠实的"
+        },
+        {
+          "sense": "loyal followers, especially of a religion",
+          "en": "loyal followers, especially of a religion",
+          "zh": "信徒；忠实支持者"
+        }
+      ],
+      "derivatives": [
+        "faith",
+        "faithfulness"
+      ]
+    },
+    {
+      "no": 1950,
+      "term": "faithfulness",
+      "slug": "faithfulness",
+      "sourceRows": [
+        1057,
+        1057
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "忠诚，诚实"
+        ]
+      ],
+      "changed": true,
+      "before": "faithfulness",
+      "after": "faith + ful + ness",
+      "notes": "faith 经法语音变来自 fides，末尾 th 受英语抽象名词影响；不当作 fai + 可自由派生的 -th。",
+      "definitions": [
+        {
+          "sense": "loyalty or accuracy to an original",
+          "en": "loyalty or accuracy to an original",
+          "zh": "忠诚；忠实"
+        }
+      ],
+      "derivatives": [
+        "faith",
+        "faithful"
+      ]
+    },
+    {
+      "no": 1951,
+      "term": "fake",
+      "slug": "fake",
+      "sourceRows": [
+        1058,
+        1059
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "赝品，假货"
+        ],
+        [
+          "adj.",
+          "假的，伪造的"
+        ]
+      ],
+      "changed": true,
+      "before": "fake",
+      "after": "fake",
+      "notes": "词源未定，可能的 Germanic 或 Latin 提议不足以确证；保留简单词。",
+      "definitions": [
+        {
+          "sense": "a counterfeit thing or person",
+          "en": "a counterfeit thing or person",
+          "zh": "赝品；冒牌者"
+        },
+        {
+          "sense": "not genuine",
+          "en": "not genuine",
+          "zh": "假的"
+        },
+        {
+          "sense": "to imitate deceptively or pretend",
+          "en": "to imitate deceptively or pretend",
+          "zh": "伪造；假装"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1952,
+      "term": "falcon",
+      "slug": "falcon",
+      "sourceRows": [
+        1060,
+        1060
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "猎鹰"
+        ]
+      ],
+      "changed": true,
+      "before": "falcon",
+      "after": "falcon",
+      "notes": "可能进一步来自 falx/falcis 镰刀，可能指爪、喙或翼的曲形；具体命名解释未定，保留 falcon。",
+      "definitions": [
+        {
+          "sense": "a bird of prey typically with pointed wings and a hooked beak",
+          "en": "a bird of prey typically with pointed wings and a hooked beak",
+          "zh": "隼"
+        }
+      ],
+      "derivatives": [
+        "falconer"
+      ]
+    },
+    {
+      "no": 1953,
+      "term": "falconer",
+      "slug": "falconer",
+      "sourceRows": [
+        1061,
+        1061
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "养猎鹰者，放鹰狩猎人"
+        ]
+      ],
+      "changed": true,
+      "before": "falconer",
+      "after": "falcon + er",
+      "notes": "可能进一步来自 falx/falcis 镰刀，可能指爪、喙或翼的曲形；具体命名解释未定，保留 falcon。 Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.",
+      "definitions": [
+        {
+          "sense": "a person who trains or hunts with falcons",
+          "en": "a person who trains or hunts with falcons",
+          "zh": "驯隼者；放鹰狩猎者"
+        }
+      ],
+      "derivatives": [
+        "falcon"
+      ]
+    },
+    {
+      "no": 1954,
+      "term": "famine",
+      "slug": "famine",
+      "sourceRows": [
+        1062,
+        1062
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "饥荒，饥饿"
+        ]
+      ],
+      "changed": true,
+      "before": "famine",
+      "after": "famine",
+      "notes": "fames 经俗拉丁及法语派生形成 famine；末尾 -ine 不是物质后缀，fames 更深词源未知。",
+      "definitions": [
+        {
+          "sense": "an extreme shortage of food affecting many people",
+          "en": "an extreme shortage of food affecting many people",
+          "zh": "饥荒"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1955,
+      "term": "fanatical",
+      "slug": "fanatical",
+      "sourceRows": [
+        1063,
+        1063
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "狂热的；入迷的"
+        ]
+      ],
+      "changed": true,
+      "before": "fanatical",
+      "after": "fanat + ic + al",
+      "notes": "fanat- 的深层 fanum 神庙 + Latin -aticus 相关，fanatic 表层 fanat- + -ic；不是 infancy 的 fari 说，也不是 fancy。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "showing extreme and often unreasonable devotion",
+          "en": "showing extreme and often unreasonable devotion",
+          "zh": "狂热的"
+        }
+      ],
+      "derivatives": [
+        "fanatic",
+        "fanaticism"
+      ]
+    },
+    {
+      "no": 1956,
+      "term": "fanatic",
+      "slug": "fanatic",
+      "sourceRows": [
+        1064,
+        1064
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "狂热的；盲信的"
+        ]
+      ],
+      "changed": true,
+      "before": "fanatic",
+      "after": "fanat + ic",
+      "notes": "fanat- 的深层 fanum 神庙 + Latin -aticus 相关，fanatic 表层 fanat- + -ic；不是 infancy 的 fari 说，也不是 fancy。",
+      "definitions": [
+        {
+          "sense": "a person with extreme devotion to a cause or interest",
+          "en": "a person with extreme devotion to a cause or interest",
+          "zh": "狂热者"
+        },
+        {
+          "sense": "showing such devotion",
+          "en": "showing such devotion",
+          "zh": "狂热的"
+        }
+      ],
+      "derivatives": [
+        "fanatical",
+        "fanaticism"
+      ]
+    },
+    {
+      "no": 1957,
+      "term": "fanaticism",
+      "slug": "fanaticism",
+      "sourceRows": [
+        1065,
+        1065
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "狂热，盲信"
+        ]
+      ],
+      "changed": true,
+      "before": "fanaticism",
+      "after": "fanat + ic + ism",
+      "notes": "fanat- 的深层 fanum 神庙 + Latin -aticus 相关，fanatic 表层 fanat- + -ic；不是 infancy 的 fari 说，也不是 fancy。",
+      "definitions": [
+        {
+          "sense": "extreme and often intolerant devotion",
+          "en": "extreme and often intolerant devotion",
+          "zh": "狂热；盲信"
+        }
+      ],
+      "derivatives": [
+        "fanatic",
+        "fanatical"
+      ]
+    },
+    {
+      "no": 1958,
+      "term": "fancy",
+      "slug": "fancy",
+      "sourceRows": [
+        1066,
+        1066
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "新奇的，精美的"
+        ]
+      ],
+      "changed": true,
+      "before": "fancy",
+      "after": "fancy",
+      "notes": "fancy 为 fantasy 的收缩，深层 phantasia 来自 phantazesthai 想象、phantos 可见、phainein 显示；fanciful 中 y 改 i。",
+      "definitions": [
+        {
+          "sense": "elaborate or decorative",
+          "en": "elaborate or decorative",
+          "zh": "花哨的；精致的"
+        },
+        {
+          "sense": "imagination, a whim, or a liking",
+          "en": "imagination, a whim, or a liking",
+          "zh": "想象；心血来潮；喜爱"
+        },
+        {
+          "sense": "to imagine or feel attracted to",
+          "en": "to imagine or feel attracted to",
+          "zh": "想象；喜欢"
+        }
+      ],
+      "derivatives": [
+        "fanciful"
+      ]
+    },
+    {
+      "no": 1959,
+      "term": "fanciful",
+      "slug": "fanciful",
+      "sourceRows": [
+        1067,
+        1067
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "爱空想的"
+        ]
+      ],
+      "changed": true,
+      "before": "fanciful",
+      "after": "fanci + ful",
+      "notes": "fancy 为 fantasy 的收缩，深层 phantasia 来自 phantazesthai 想象、phantos 可见、phainein 显示；fanciful 中 y 改 i。",
+      "definitions": [
+        {
+          "sense": "imaginative, unrealistic, or elaborately decorative",
+          "en": "imaginative, unrealistic, or elaborately decorative",
+          "zh": "富于想象的；不切实际的；奇特的"
+        }
+      ],
+      "derivatives": [
+        "fancy"
+      ]
+    },
+    {
+      "no": 1960,
+      "term": "infancy",
+      "slug": "infancy",
+      "sourceRows": [
+        1068,
+        1068
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "幼年"
+        ]
+      ],
+      "changed": true,
+      "before": "infancy",
+      "after": "in + fan + cy",
+      "notes": "否定前缀 in-，不是在内、进入。 in- 不 + fan-（Latin fans/fant-，fari 说的现在分词词干）+ -cy 状态；infantia 原指不能说话的阶段。n 属分词词干；与 fanatic 的 fanum 神庙无关。 infancy 对应 Latin infantia；fan- 来自 fari 的现在分词词干，-cy 与 -nt 的历史音变相关。",
+      "definitions": [
+        {
+          "sense": "the earliest period of life or development",
+          "en": "the earliest period of life or development",
+          "zh": "婴儿期；初期"
+        }
+      ],
+      "derivatives": [
+        "infant"
+      ]
+    },
+    {
+      "no": 1961,
+      "term": "fantastic",
+      "slug": "fantastic",
+      "sourceRows": [
+        1069,
+        1069
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "（非正式）极…的；奇异的"
+        ]
+      ],
+      "changed": true,
+      "before": "fantastic",
+      "after": "fantast + ic",
+      "notes": "深层 phainein 显示 → phantos 可见 → phantazein 想象 → phantasia；fantast- 的 t 属希腊形容词派生层，不是 fanatic 的神庙根。",
+      "definitions": [
+        {
+          "sense": "extremely good; imaginative, strange, or unreal",
+          "en": "extremely good; imaginative, strange, or unreal",
+          "zh": "极好的；奇异的；幻想的"
+        }
+      ],
+      "derivatives": [
+        "fantasy"
+      ]
+    },
+    {
+      "no": 1962,
+      "term": "fantasy",
+      "slug": "fantasy",
+      "sourceRows": [
+        1070,
+        1070
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "幻想；白日梦"
+        ]
+      ],
+      "changed": true,
+      "before": "fantasy",
+      "after": "fantas + y",
+      "notes": "深层 phainein 显示 → phantos 可见 → phantazein 想象 → phantasia；fantast- 的 t 属希腊形容词派生层，不是 fanatic 的神庙根。 名词 -y 与形容词 -y（古英语 -ig）分开。",
+      "definitions": [
+        {
+          "sense": "imagination or an imagined situation; fiction involving unreal worlds or magic",
+          "en": "imagination or an imagined situation; fiction involving unreal worlds or magic",
+          "zh": "幻想；幻想文学"
+        }
+      ],
+      "derivatives": [
+        "fantastic"
+      ]
+    },
+    {
+      "no": 1963,
+      "term": "far-reaching",
+      "slug": "far-reaching",
+      "sourceRows": [
+        1071,
+        1071
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "影响深远的"
+        ]
+      ],
+      "changed": true,
+      "before": "far-reaching",
+      "after": "far + reach + ing",
+      "notes": "far-reaching 为 far + reach + -ing，表示影响范围远。 简单本族词干，不把 re- 释为再次。",
+      "definitions": [
+        {
+          "sense": "having a wide or lasting effect",
+          "en": "having a wide or lasting effect",
+          "zh": "影响深远的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1964,
+      "term": "farce",
+      "slug": "farce",
+      "sourceRows": [
+        1072,
+        1072
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "闹剧，滑稽剧"
+        ]
+      ],
+      "changed": true,
+      "before": "farce",
+      "after": "farce",
+      "notes": "从插入剧中的滑稽片段到闹剧；深层 farcire 填塞，更深来源不确定。",
+      "definitions": [
+        {
+          "sense": "a comic play using absurd situations; a ridiculous or ineffective proceeding",
+          "en": "a comic play using absurd situations; a ridiculous or ineffective proceeding",
+          "zh": "闹剧；荒唐的事情"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1965,
+      "term": "fascinate",
+      "slug": "fascinate",
+      "sourceRows": [
+        1073,
+        1073
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "使着迷，使神魂颠倒"
+        ]
+      ],
+      "changed": true,
+      "before": "fascinate",
+      "after": "fascin + ate",
+      "notes": "fascin- 来自 fascinare、fascinum 魔咒；更深起源有争议，不能按 fas + cin 臆拆。",
+      "definitions": [
+        {
+          "sense": "to attract and hold attention strongly",
+          "en": "to attract and hold attention strongly",
+          "zh": "使着迷"
+        }
+      ],
+      "derivatives": [
+        "fascinating",
+        "fascination"
+      ]
+    },
+    {
+      "no": 1966,
+      "term": "fascinating",
+      "slug": "fascinating",
+      "sourceRows": [
+        1074,
+        1074
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "迷人的，醉人的"
+        ]
+      ],
+      "changed": true,
+      "before": "fascinating",
+      "after": "fascin + at + ing",
+      "notes": "fascin- 来自 fascinare、fascinum 魔咒；更深起源有争议，不能按 fas + cin 臆拆。",
+      "definitions": [
+        {
+          "sense": "extremely interesting",
+          "en": "extremely interesting",
+          "zh": "迷人的；极有吸引力的"
+        }
+      ],
+      "derivatives": [
+        "fascinate",
+        "fascination"
+      ]
+    },
+    {
+      "no": 1967,
+      "term": "fascination",
+      "slug": "fascination",
+      "sourceRows": [
+        1075,
+        1075
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "入迷，迷恋；魅力"
+        ]
+      ],
+      "changed": true,
+      "before": "fascination",
+      "after": "fascin + ation",
+      "notes": "fascin- 来自 fascinare、fascinum 魔咒；更深起源有争议，不能按 fas + cin 臆拆。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "intense interest or the power to attract it",
+          "en": "intense interest or the power to attract it",
+          "zh": "着迷；吸引力"
+        }
+      ],
+      "derivatives": [
+        "fascinate",
+        "fascinating"
+      ]
+    },
+    {
+      "no": 1968,
+      "term": "fashionable",
+      "slug": "fashionable",
+      "sourceRows": [
+        1076,
+        1076
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "流行的，时髦的，上流社会的"
+        ]
+      ],
+      "changed": true,
+      "before": "fashionable",
+      "after": "fashion + able",
+      "notes": "深层 facere 做 + -tio/-tion 动作名词 → factio → façon → fashion；保留现代 fashion。与 faction 同源但不合并同页。 English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.",
+      "definitions": [
+        {
+          "sense": "following current popular style or custom",
+          "en": "following current popular style or custom",
+          "zh": "时髦的；流行的"
+        }
+      ],
+      "derivatives": [
+        "fashion"
+      ]
+    },
+    {
+      "no": 1969,
+      "term": "fashion",
+      "slug": "fashion",
+      "sourceRows": [
+        1077,
+        1078
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "流行，风尚，流行式样"
+        ],
+        [
+          "vt.",
+          "塑造，造"
+        ]
+      ],
+      "changed": true,
+      "before": "fashion",
+      "after": "fashion",
+      "notes": "深层 facere 做 + -tio/-tion 动作名词 → factio → façon → fashion；保留现代 fashion。与 faction 同源但不合并同页。",
+      "definitions": [
+        {
+          "sense": "a popular style; a manner of doing something",
+          "en": "a popular style; a manner of doing something",
+          "zh": "时尚；方式"
+        },
+        {
+          "sense": "to make or shape",
+          "en": "to make or shape",
+          "zh": "制作；塑造"
+        }
+      ],
+      "derivatives": [
+        "fashionable"
+      ]
+    },
+    {
+      "no": 1970,
+      "term": "fasten",
+      "slug": "fasten",
+      "sourceRows": [
+        1079,
+        1079
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "使固定，系"
+        ]
+      ],
+      "changed": true,
+      "before": "fasten",
+      "after": "fast + en",
+      "notes": "fasten = fast 牢固 + -en 使变得；这里不是快速。",
+      "definitions": [
+        {
+          "sense": "to attach securely or become securely attached",
+          "en": "to attach securely or become securely attached",
+          "zh": "系牢；固定"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1971,
+      "term": "fatal",
+      "slug": "fatal",
+      "sourceRows": [
+        1080,
+        1080
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "致命的"
+        ]
+      ],
+      "changed": true,
+      "before": "fatal",
+      "after": "fat + al",
+      "notes": "infant 的 fans/fant- 为 fari 现在分词；fate/fatal 的 fatum 是过去分词名词化，说定的命运。不是 fanum 神庙。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "causing death or disastrous failure",
+          "en": "causing death or disastrous failure",
+          "zh": "致命的；灾难性的"
+        }
+      ],
+      "derivatives": [
+        "fate",
+        "fateful"
+      ]
+    },
+    {
+      "no": 1972,
+      "term": "fateful",
+      "slug": "fateful",
+      "sourceRows": [
+        1081,
+        1081
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "重大的，决定性的"
+        ]
+      ],
+      "changed": true,
+      "before": "fateful",
+      "after": "fate + ful",
+      "notes": "infant 的 fans/fant- 为 fari 现在分词；fate/fatal 的 fatum 是过去分词名词化，说定的命运。不是 fanum 神庙。",
+      "definitions": [
+        {
+          "sense": "having important and often disastrous consequences",
+          "en": "having important and often disastrous consequences",
+          "zh": "影响重大的；预示灾祸的"
+        }
+      ],
+      "derivatives": [
+        "fate",
+        "fatal"
+      ]
+    },
+    {
+      "no": 1973,
+      "term": "fatigue",
+      "slug": "fatigue",
+      "sourceRows": [
+        1082,
+        1082
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "疲乏，劳累"
+        ]
+      ],
+      "changed": true,
+      "before": "fatigue",
+      "after": "fatigue",
+      "notes": "深层通常解释为 *fati- 崩解 + agere 驱动，但 *fatis 来源未定；保留 fatigue，不能接 fatal 的命运根。",
+      "definitions": [
+        {
+          "sense": "extreme tiredness; weakening of a material under repeated stress",
+          "en": "extreme tiredness; weakening of a material under repeated stress",
+          "zh": "疲劳；材料疲劳"
+        },
+        {
+          "sense": "to make tired",
+          "en": "to make tired",
+          "zh": "使疲劳"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1974,
+      "term": "faucet",
+      "slug": "faucet",
+      "sourceRows": [
+        1083,
+        1083
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "水龙头"
+        ]
+      ],
+      "changed": true,
+      "before": "faucet",
+      "after": "faucet",
+      "notes": "更深源有争议：或关联 fausser 损坏、falsare，或 faux 喉咙小称；不把任何一种写成确定拆分。",
+      "definitions": [
+        {
+          "sense": "a device controlling the flow of liquid from a pipe",
+          "en": "a device controlling the flow of liquid from a pipe",
+          "zh": "水龙头"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1975,
+      "term": "fault",
+      "slug": "fault",
+      "sourceRows": [
+        1084,
+        1085
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "（地质学）断层"
+        ],
+        [
+          "n.",
+          "过错，缺点"
+        ]
+      ],
+      "changed": true,
+      "before": "fault",
+      "after": "fault",
+      "notes": "fault 来自法语名词及 Latin fallere 相关分词，l 为后来的复古拼写；不是英语 fall 掉落。",
+      "definitions": [
+        {
+          "sense": "a defect or responsibility for a mistake; a fracture in rock with displacement",
+          "en": "a defect or responsibility for a mistake; a fracture in rock with displacement",
+          "zh": "缺点；过错；地质断层"
+        },
+        {
+          "sense": "to criticize or find a defect in",
+          "en": "to criticize or find a defect in",
+          "zh": "挑错；责难"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1976,
+      "term": "fauna",
+      "slug": "fauna",
+      "sourceRows": [
+        1086,
+        1086
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "动物群，动物区系"
+        ]
+      ],
+      "changed": true,
+      "before": "fauna",
+      "after": "fauna",
+      "notes": "源于神名 Fauna，与 Faunus 有关，神名更深来源未定；不能把 -a 说成英语集合后缀。",
+      "definitions": [
+        {
+          "sense": "the animal life of a region, habitat, or period",
+          "en": "the animal life of a region, habitat, or period",
+          "zh": "动物群"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1977,
+      "term": "flora",
+      "slug": "flora",
+      "sourceRows": [
+        1087,
+        1087
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "植物群"
+        ]
+      ],
+      "changed": true,
+      "before": "flora",
+      "after": "flor + a",
+      "notes": "flora 来自花神 Flora，深层 flor- 花 + 拉丁名词结尾 -a；floral 为 flor- + -al。 flora 中为拉丁阴性名词结尾，不是英语复数。",
+      "definitions": [
+        {
+          "sense": "the plant life of a region, habitat, or period",
+          "en": "the plant life of a region, habitat, or period",
+          "zh": "植物群"
+        }
+      ],
+      "derivatives": [
+        "floral"
+      ]
+    },
+    {
+      "no": 1978,
+      "term": "floral",
+      "slug": "floral",
+      "sourceRows": [
+        1088,
+        1088
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "花的，植物的"
+        ]
+      ],
+      "changed": true,
+      "before": "floral",
+      "after": "flor + al",
+      "notes": "flora 来自花神 Flora，深层 flor- 花 + 拉丁名词结尾 -a；floral 为 flor- + -al。 -al 来自 Latin -alis；-ial 对应 -ialis，-ual 对应 -ualis，其中 i/u 原为词干或连接元音，后类推为后缀变体。",
+      "definitions": [
+        {
+          "sense": "relating to or decorated with flowers",
+          "en": "relating to or decorated with flowers",
+          "zh": "花的；饰有花卉的"
+        }
+      ],
+      "derivatives": [
+        "flora"
+      ]
+    },
+    {
+      "no": 1979,
+      "term": "favorable",
+      "slug": "favorable",
+      "sourceRows": [
+        1089,
+        1089
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "有利的；有助的；赢得赞扬的"
+        ]
+      ],
+      "changed": true,
+      "before": "favorable",
+      "after": "favor + able",
+      "notes": "深层 favere 示好 + -or 抽象名词结尾；favor 保留稳定表层，-or 不是施事者。 English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.",
+      "definitions": [
+        {
+          "sense": "supportive, approving, or advantageous",
+          "en": "supportive, approving, or advantageous",
+          "zh": "赞同的；有利的"
+        }
+      ],
+      "derivatives": [
+        "favored",
+        "favor"
+      ]
+    },
+    {
+      "no": 1980,
+      "term": "favored",
+      "slug": "favored",
+      "sourceRows": [
+        1090,
+        1090
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "首选的；受到优待的；受优惠的"
+        ]
+      ],
+      "changed": true,
+      "before": "favored",
+      "after": "favor + ed",
+      "notes": "深层 favere 示好 + -or 抽象名词结尾；favor 保留稳定表层，-or 不是施事者。",
+      "definitions": [
+        {
+          "sense": "preferred or treated with special approval or advantage",
+          "en": "preferred or treated with special approval or advantage",
+          "zh": "受宠的；有优势的"
+        }
+      ],
+      "derivatives": [
+        "favorable",
+        "favor"
+      ]
+    },
+    {
+      "no": 1981,
+      "term": "unfavorable",
+      "slug": "unfavorable",
+      "sourceRows": [
+        1091,
+        1091
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "不宜的；相反的"
+        ]
+      ],
+      "changed": true,
+      "before": "unfavorable",
+      "after": "un + favor + able",
+      "notes": "深层 favere 示好 + -or 抽象名词结尾；favor 保留稳定表层，-or 不是施事者。 English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.",
+      "definitions": [
+        {
+          "sense": "disapproving or disadvantageous",
+          "en": "disapproving or disadvantageous",
+          "zh": "不赞同的；不利的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1982,
+      "term": "feasible",
+      "slug": "feasible",
+      "sourceRows": [
+        1092,
+        1092
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "切实可行的"
+        ]
+      ],
+      "changed": true,
+      "before": "feasible",
+      "after": "feas + ible",
+      "notes": "feas- + -ible；feas- 是 French faire/fais-（Latin facere 做）的音变形，不是 feast 宴会。 English -able continues Latin/French adjectival suffixes ultimately related to Latin -abilis.",
+      "definitions": [
+        {
+          "sense": "possible to carry out successfully",
+          "en": "possible to carry out successfully",
+          "zh": "可行的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1983,
+      "term": "feat",
+      "slug": "feat",
+      "sourceRows": [
+        1093,
+        1093
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "功绩，壮举"
+        ]
+      ],
+      "changed": true,
+      "before": "feat",
+      "after": "feat",
+      "notes": "法语 fait/fet 来自 Latin factum，facere 做的分词名词化；整词 feat 是音变后的稳定词干，不再按字母细切。",
+      "definitions": [
+        {
+          "sense": "an achievement requiring skill, effort, or courage",
+          "en": "an achievement requiring skill, effort, or courage",
+          "zh": "功绩；壮举"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1984,
+      "term": "feeble",
+      "slug": "feeble",
+      "sourceRows": [
+        1094,
+        1094
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "微弱的；衰弱的"
+        ]
+      ],
+      "changed": true,
+      "before": "feeble",
+      "after": "feeble",
+      "notes": "深层 flere 哭泣 + -bilis 可被……；法语失去第一个 l，形成 feble/feeble；不要把现代 feeble 硬拆为 fee 钱 + ble。",
+      "definitions": [
+        {
+          "sense": "lacking strength or effectiveness",
+          "en": "lacking strength or effectiveness",
+          "zh": "虚弱的；无力的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1985,
+      "term": "feed",
+      "slug": "feed",
+      "sourceRows": [
+        1095,
+        1096
+      ],
+      "sourceSenses": [
+        [
+          "v.",
+          "喂养，饲养；吃草，靠…为生"
+        ],
+        [
+          "n.",
+          "饲养，饲料"
+        ]
+      ],
+      "changed": true,
+      "before": "feed",
+      "after": "feed",
+      "notes": "feed 与 food 同源，经历史元音变化形成使动词，不把 ee 当词缀。",
+      "definitions": [
+        {
+          "sense": "to give food or material to; to eat",
+          "en": "to give food or material to; to eat",
+          "zh": "喂养；供给；进食"
+        },
+        {
+          "sense": "food for animals; a supply or stream of material or information",
+          "en": "food for animals; a supply or stream of material or information",
+          "zh": "饲料；供应；信息流"
+        }
+      ],
+      "derivatives": [
+        "feeder"
+      ]
+    },
+    {
+      "no": 1986,
+      "term": "feeder",
+      "slug": "feeder",
+      "sourceRows": [
+        1097,
+        1097
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "进料器"
+        ]
+      ],
+      "changed": true,
+      "before": "feeder",
+      "after": "feed + er",
+      "notes": "feed 与 food 同源，经历史元音变化形成使动词，不把 ee 当词缀。 Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.",
+      "definitions": [
+        {
+          "sense": "a person, animal, or device that takes in or supplies food or material",
+          "en": "a person, animal, or device that takes in or supplies food or material",
+          "zh": "进食者；喂食器；供给装置"
+        }
+      ],
+      "derivatives": [
+        "feed"
+      ]
+    },
+    {
+      "no": 1987,
+      "term": "feed on",
+      "slug": "feed-on",
+      "sourceRows": [
+        1098,
+        1098
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "吃，以…为食"
+        ]
+      ],
+      "changed": true,
+      "before": "feed on",
+      "after": "feed + on",
+      "notes": "feed 与 food 同源，经历史元音变化形成使动词，不把 ee 当词缀。",
+      "definitions": [
+        {
+          "sense": "to eat a particular food; to be strengthened by something",
+          "en": "to eat a particular food; to be strengthened by something",
+          "zh": "以……为食；因……而滋长"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1988,
+      "term": "feminism",
+      "slug": "feminism",
+      "sourceRows": [
+        1099,
+        1099
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "女权运动"
+        ]
+      ],
+      "changed": true,
+      "before": "feminism",
+      "after": "femin + ism",
+      "notes": "feminism = femin- + -ism，feminist = femin- + -ist；femina 传统追至“哺乳”相关历史根，不等于现代 gender 定义。",
+      "definitions": [
+        {
+          "sense": "advocacy of equal rights and opportunities for women",
+          "en": "advocacy of equal rights and opportunities for women",
+          "zh": "女权主义；女性主义"
+        }
+      ],
+      "derivatives": [
+        "feminist"
+      ]
+    },
+    {
+      "no": 1989,
+      "term": "feminist",
+      "slug": "feminist",
+      "sourceRows": [
+        1100,
+        1100
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "女权主义者"
+        ]
+      ],
+      "changed": true,
+      "before": "feminist",
+      "after": "femin + ist",
+      "notes": "feminism = femin- + -ism，feminist = femin- + -ist；femina 传统追至“哺乳”相关历史根，不等于现代 gender 定义。",
+      "definitions": [
+        {
+          "sense": "a supporter of equal rights and opportunities for women",
+          "en": "a supporter of equal rights and opportunities for women",
+          "zh": "女权主义者"
+        },
+        {
+          "sense": "relating to feminism",
+          "en": "relating to feminism",
+          "zh": "女性主义的"
+        }
+      ],
+      "derivatives": [
+        "feminism"
+      ]
+    },
+    {
+      "no": 1990,
+      "term": "fencing",
+      "slug": "fencing",
+      "sourceRows": [
+        1101,
+        1101
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "围墙，栅栏；击剑，剑术"
+        ]
+      ],
+      "changed": true,
+      "before": "fencing",
+      "after": "fenc + ing",
+      "notes": "fence 为 defense 缩略，深层 de- 离开 + -fendere 击退；fencing 表层 fenc- + -ing。",
+      "definitions": [
+        {
+          "sense": "the sport of fighting with swords; fences or material used for fences",
+          "en": "the sport of fighting with swords; fences or material used for fences",
+          "zh": "击剑；围栏；筑篱材料"
+        }
+      ],
+      "derivatives": [
+        "fence"
+      ]
+    },
+    {
+      "no": 1991,
+      "term": "fend for oneself",
+      "slug": "fend-for-oneself",
+      "sourceRows": [
+        1102,
+        1102
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "自己谋生"
+        ]
+      ],
+      "changed": true,
+      "before": "fend for oneself",
+      "after": "fend + for + one + self",
+      "notes": "fend + for + oneself；oneself 再拆 one + self。fend 为 defend 缩略，深层 de- + -fendere 击退。for 是独立介词。 短语中的独立介词，不是前缀 for-。 oneself = one + self，为反身代词。",
+      "definitions": [
+        {
+          "sense": "to provide for and take care of oneself",
+          "en": "to provide for and take care of oneself",
+          "zh": "自立；照顾自己"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1992,
+      "term": "fender",
+      "slug": "fender",
+      "sourceRows": [
+        1103,
+        1103
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "防卫物；挡泥板"
+        ]
+      ],
+      "changed": true,
+      "before": "fender",
+      "after": "fend + er",
+      "notes": "fend 是 defend 的缩略，深层 de- + -fendere 击退；与已存 Latin fend 词根区分直接英语词干。 Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.",
+      "definitions": [
+        {
+          "sense": "a protective device, especially a vehicle panel over a wheel or a cushion along a boat",
+          "en": "a protective device, especially a vehicle panel over a wheel or a cushion along a boat",
+          "zh": "挡泥板；护舷；防护装置"
+        }
+      ],
+      "derivatives": [
+        "fend"
+      ]
+    },
+    {
+      "no": 1993,
+      "term": "ferment",
+      "slug": "ferment",
+      "sourceRows": [
+        1104,
+        1105
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "使发酵"
+        ],
+        [
+          "n./vt.",
+          "（使）激动，（使）动乱"
+        ]
+      ],
+      "changed": true,
+      "before": "ferment",
+      "after": "ferment",
+      "notes": "可能收缩自 *fervimentum：fervere 沸腾 + -mentum；解释仍有不确定性，不把 fer- 携带当这里的词根。",
+      "definitions": [
+        {
+          "sense": "to undergo or cause a chemical change through microorganisms or enzymes; to stir up unrest",
+          "en": "to undergo or cause a chemical change through microorganisms or enzymes; to stir up unrest",
+          "zh": "发酵；酝酿动乱"
+        },
+        {
+          "sense": "agitation or active change",
+          "en": "agitation or active change",
+          "zh": "骚动；激变"
+        }
+      ],
+      "derivatives": [
+        "fermentation"
+      ]
+    },
+    {
+      "no": 1994,
+      "term": "fermentation",
+      "slug": "fermentation",
+      "sourceRows": [
+        1106,
+        1106
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "发酵"
+        ]
+      ],
+      "changed": true,
+      "before": "fermentation",
+      "after": "ferment + ation",
+      "notes": "可能收缩自 *fervimentum：fervere 沸腾 + -mentum；解释仍有不确定性，不把 fer- 携带当这里的词根。 English -ion reflects Latin noun-forming -io with oblique stem -ion-.",
+      "definitions": [
+        {
+          "sense": "chemical change caused by microorganisms or enzymes, such as production of alcohol from sugar",
+          "en": "chemical change caused by microorganisms or enzymes, such as production of alcohol from sugar",
+          "zh": "发酵"
+        }
+      ],
+      "derivatives": [
+        "ferment"
+      ]
+    },
+    {
+      "no": 1995,
+      "term": "ferry",
+      "slug": "ferry",
+      "sourceRows": [
+        1107,
+        1107
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "渡口；渡船"
+        ]
+      ],
+      "changed": true,
+      "before": "ferry",
+      "after": "ferry",
+      "notes": "与 faran 行走同源，本族词；不是 Latin ferre 的直接借词，不拆 -ry。",
+      "definitions": [
+        {
+          "sense": "a boat service, boat, or crossing carrying people or goods over water",
+          "en": "a boat service, boat, or crossing carrying people or goods over water",
+          "zh": "渡船；渡运；渡口"
+        },
+        {
+          "sense": "to transport back and forth",
+          "en": "to transport back and forth",
+          "zh": "渡运"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1996,
+      "term": "fertile",
+      "slug": "fertile",
+      "sourceRows": [
+        1108,
+        1109
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "肥沃的，富饶的；能繁殖的"
+        ],
+        [
+          "adj.",
+          "主意多的，有创造力的"
+        ]
+      ],
+      "changed": true,
+      "before": "fertile",
+      "after": "fertile",
+      "notes": "表层保留 fertile；Root DNA 进一步 ferre 承载、孕育 + -tilis 形容词层。",
+      "definitions": [
+        {
+          "sense": "able to produce crops, offspring, or ideas",
+          "en": "able to produce crops, offspring, or ideas",
+          "zh": "肥沃的；能生育的；多产的"
+        }
+      ],
+      "derivatives": [
+        "fertility",
+        "fertilize",
+        "fertilization",
+        "fertilizer"
+      ]
+    },
+    {
+      "no": 1997,
+      "term": "infertile",
+      "slug": "infertile",
+      "sourceRows": [
+        1110,
+        1110
+      ],
+      "sourceSenses": [
+        [
+          "adj.",
+          "不肥沃的，贫瘠的，不结果实的"
+        ]
+      ],
+      "changed": true,
+      "before": "infertile",
+      "after": "in + fertile",
+      "notes": "否定前缀 in-，不是在内、进入。 深层 ferre 承载、孕育 + -tilis 形容词构词层；fertil- 为稳定词干。fertilizer 表层 fertil- + -iz(e) + -er。",
+      "definitions": [
+        {
+          "sense": "unable to produce offspring or crops",
+          "en": "unable to produce offspring or crops",
+          "zh": "不育的；贫瘠的"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 1998,
+      "term": "fertilize",
+      "slug": "fertilize",
+      "sourceRows": [
+        1111,
+        1111
+      ],
+      "sourceSenses": [
+        [
+          "vt.",
+          "施肥，使丰饶；使受精"
+        ]
+      ],
+      "changed": true,
+      "before": "fertilize",
+      "after": "fertil + ize",
+      "notes": "fertil- + -ize，fertil- 内部 ferre 承载、孕育 + -tilis；施肥和受精是同一词的不同现代义项。",
+      "definitions": [
+        {
+          "sense": "to cause an egg to unite with sperm; to add nutrients to soil",
+          "en": "to cause an egg to unite with sperm; to add nutrients to soil",
+          "zh": "使受精；施肥"
+        }
+      ],
+      "derivatives": [
+        "fertile",
+        "fertility",
+        "fertilization",
+        "fertilizer"
+      ]
+    },
+    {
+      "no": 1999,
+      "term": "fertilized egg",
+      "slug": "fertilized-egg",
+      "sourceRows": [
+        1112,
+        1112
+      ],
+      "sourceSenses": [
+        [
+          "词组",
+          "受精卵"
+        ]
+      ],
+      "changed": true,
+      "before": "fertilized egg",
+      "after": "fertil + iz + ed + egg",
+      "notes": "深层 ferre 承载、孕育 + -tilis 形容词构词层；fertil- 为稳定词干。fertilizer 表层 fertil- + -iz(e) + -er。 现代拼写受古诺斯语影响；fertilized egg 指受精卵。",
+      "definitions": [
+        {
+          "sense": "an egg cell that has united with a sperm cell",
+          "en": "an egg cell that has united with a sperm cell",
+          "zh": "受精卵"
+        }
+      ],
+      "derivatives": []
+    },
+    {
+      "no": 2000,
+      "term": "fertilizer",
+      "slug": "fertilizer",
+      "sourceRows": [
+        1113,
+        1113
+      ],
+      "sourceSenses": [
+        [
+          "n.",
+          "肥料"
+        ]
+      ],
+      "changed": true,
+      "before": "fertilizer",
+      "after": "fertil + iz + er",
+      "notes": "深层 ferre 承载、孕育 + -tilis 形容词构词层；fertil- 为稳定词干。fertilizer 表层 fertil- + -iz(e) + -er。 Courier uses the Romance agent ending -ier/-iere; it is grouped with the learner-facing agent suffix -er.",
+      "definitions": [
+        {
+          "sense": "a substance added to supply nutrients for plant growth",
+          "en": "a substance added to supply nutrients for plant growth",
+          "zh": "肥料"
+        }
+      ],
+      "derivatives": [
+        "fertile",
+        "fertility",
+        "fertilize",
+        "fertilization"
+      ]
+    }
+  ],
+  "changedWords": [
+    "access",
+    "defend",
+    "equal",
+    "equality",
+    "equilibrium",
+    "equipment",
+    "equitable",
+    "equivalent",
+    "eradicate",
+    "erect",
+    "erode",
+    "erosion",
+    "erratic",
+    "erratically",
+    "error",
+    "erupt",
+    "eruption",
+    "escalate",
+    "escalator",
+    "escape",
+    "escapist",
+    "essential",
+    "estate",
+    "estimate",
+    "eternal",
+    "ethically",
+    "ethics",
+    "ethnic",
+    "etiquette",
+    "evaluate",
+    "evaporate",
+    "evaporation",
+    "eventful",
+    "eventual",
+    "eventually",
+    "evergreen",
+    "evidence",
+    "evident",
+    "eviscerate",
+    "evoke",
+    "evolution",
+    "evolutionary",
+    "evolve",
+    "exact",
+    "exacting",
+    "exaggerate",
+    "exaggeration",
+    "exalted",
+    "excavate",
+    "excavation",
+    "exceed",
+    "excel",
+    "excellent",
+    "exception",
+    "exceptional",
+    "exceptionally",
+    "excess",
+    "excessive",
+    "exchange",
+    "excite",
+    "excitement",
+    "exciting",
+    "exclaim",
+    "exclude",
+    "exclusion",
+    "exclusive",
+    "exclusively",
+    "excursion",
+    "excuse",
+    "execute",
+    "execution",
+    "executive",
+    "exemplary",
+    "exemplify",
+    "exempt",
+    "exemption",
+    "exert",
+    "exertion",
+    "exhale",
+    "exhaust",
+    "exhausted",
+    "exhausting",
+    "exhibit",
+    "exhibition",
+    "exhilarate",
+    "exhilarating",
+    "exit",
+    "exorbitant",
+    "exotic",
+    "expand",
+    "expanding",
+    "expanse",
+    "expansion",
+    "expedition",
+    "expel",
+    "expenditure",
+    "expertise",
+    "expire",
+    "explicit",
+    "explode",
+    "exploit",
+    "exploitation",
+    "exploration",
+    "explore",
+    "explorer",
+    "explosive",
+    "exponential",
+    "exposition",
+    "exposure",
+    "express-business",
+    "express-train",
+    "expressive",
+    "expressly",
+    "extend",
+    "extended",
+    "extension",
+    "extensive",
+    "exterior",
+    "exterminate",
+    "external",
+    "extinct",
+    "extinction",
+    "extol",
+    "extract",
+    "extraordinary",
+    "extremity",
+    "exuberant",
+    "eyewitness",
+    "fable",
+    "fabric",
+    "facade",
+    "face",
+    "facet",
+    "facilitate",
+    "facilitation",
+    "facility",
+    "facsimile",
+    "faction",
+    "factor",
+    "factual",
+    "faculty",
+    "fade",
+    "faint",
+    "fairly",
+    "faithful",
+    "faithfulness",
+    "fake",
+    "falcon",
+    "falconer",
+    "famine",
+    "fanatic",
+    "fanatical",
+    "fanaticism",
+    "fanciful",
+    "fancy",
+    "fantastic",
+    "fantasy",
+    "far-reaching",
+    "farce",
+    "fascinate",
+    "fascinating",
+    "fascination",
+    "fashion",
+    "fashionable",
+    "fasten",
+    "fatal",
+    "fateful",
+    "fatigue",
+    "faucet",
+    "fault",
+    "fauna",
+    "favorable",
+    "favored",
+    "feasible",
+    "feat",
+    "feeble",
+    "feed",
+    "feed-on",
+    "feeder",
+    "feminism",
+    "feminist",
+    "fencing",
+    "fend-for-oneself",
+    "fender",
+    "ferment",
+    "fermentation",
+    "ferry",
+    "fertile",
+    "fertilize",
+    "fertilized-egg",
+    "fertilizer",
+    "flora",
+    "floral",
+    "implicit",
+    "infancy",
+    "infertile",
+    "multifaceted",
+    "overestimate",
+    "petrifaction",
+    "real-estate",
+    "satisfaction",
+    "underestimate",
+    "unfavorable",
+    "equip",
+    "equity",
+    "equivalence",
+    "err",
+    "escalation",
+    "escapism",
+    "essence",
+    "ethical",
+    "ethic",
+    "evaluation",
+    "event",
+    "evocation",
+    "exalt",
+    "excellence",
+    "except",
+    "excited",
+    "exclamation",
+    "example",
+    "exhaustion",
+    "exhilaration",
+    "expert",
+    "explosion",
+    "exponent",
+    "expose",
+    "express",
+    "expression",
+    "extermination",
+    "extinguish",
+    "extraction",
+    "extreme",
+    "exuberance",
+    "fact",
+    "faith",
+    "fate",
+    "favor",
+    "fertility",
+    "fertilization",
+    "infant",
+    "fend",
+    "fence",
+    "satisfy",
+    "petrify"
+  ],
+  "changedRoots": [
+    "root:al",
+    "root:ant",
+    "root:excess-ceed",
+    "root:cit",
+    "root:clud",
+    "root:cy",
+    "root:e",
+    "root:equ",
+    "root:escape",
+    "root:estate",
+    "root:estim",
+    "root:etiquette",
+    "root:fable",
+    "root:fac",
+    "root:face",
+    "root:fade",
+    "root:faint",
+    "root:fake",
+    "root:falcon",
+    "root:famine",
+    "root:fancy",
+    "root:far",
+    "root:farce",
+    "root:fashion",
+    "root:fatigue",
+    "root:faucet",
+    "root:fault",
+    "root:fauna",
+    "root:feeble",
+    "root:feed",
+    "root:ferment",
+    "root:ferry",
+    "root:ic",
+    "root:ify",
+    "root:in",
+    "root:ish",
+    "root:ity",
+    "root:ium",
+    "root:or",
+    "root:pel",
+    "root:pend",
+    "root:plic",
+    "root:pon",
+    "root:press",
+    "root:rect",
+    "root:rod",
+    "root:sequ",
+    "root:ser",
+    "root:simil",
+    "root:spir",
+    "root:val",
+    "root:voc",
+    "root:libr",
+    "root:equip",
+    "root:equit-equity",
+    "root:radic",
+    "root:err",
+    "root:escal",
+    "root:essent",
+    "root:etern",
+    "root:eth",
+    "root:ethn",
+    "root:vapor",
+    "root:viscer",
+    "root:volv",
+    "root:agger",
+    "root:cell-rise",
+    "root:change",
+    "root:em-empt",
+    "root:exempl",
+    "root:hal-breathe",
+    "root:haust",
+    "root:hab-hold",
+    "root:hilar",
+    "root:it-go",
+    "root:orbit",
+    "root:exo",
+    "root:pand",
+    "root:pert-tested",
+    "root:plod",
+    "root:plor",
+    "root:exter",
+    "root:stingu",
+    "root:toll",
+    "root:ordin",
+    "root:uber",
+    "root:fabr",
+    "root:facil",
+    "root:fair",
+    "root:faith",
+    "root:fanat",
+    "root:fa-speak",
+    "root:fantas",
+    "root:reach",
+    "root:fascin",
+    "root:fast-firm",
+    "root:flor",
+    "root:favor",
+    "root:femin",
+    "root:fence",
+    "root:fend-word",
+    "root:fertil",
+    "root:ever",
+    "root:green",
+    "root:res-thing",
+    "root:witness",
+    "root:business",
+    "root:train",
+    "root:egg",
+    "root:atic",
+    "root:or-state",
+    "root:itate",
+    "root:ise-noun",
+    "root:ade",
+    "root:et-small",
+    "root:a-noun",
+    "root:extra",
+    "root:petr",
+    "root:it-participle",
+    "root:ior",
+    "root:i-connector",
+    "root:ped",
+    "root:multi",
+    "root:self",
+    "root:for",
+    "root:in-not"
+  ],
+  "newWords": [
+    "equip",
+    "equity",
+    "equivalence",
+    "err",
+    "escalation",
+    "escapism",
+    "essence",
+    "ethical",
+    "ethic",
+    "evaluation",
+    "event",
+    "evocation",
+    "exalt",
+    "excellence",
+    "except",
+    "excited",
+    "exclamation",
+    "example",
+    "exhaustion",
+    "exhilaration",
+    "expert",
+    "explosion",
+    "exponent",
+    "expose",
+    "express",
+    "expression",
+    "extermination",
+    "extinguish",
+    "extraction",
+    "extreme",
+    "exuberance",
+    "fact",
+    "faith",
+    "fate",
+    "favor",
+    "fertility",
+    "fertilization",
+    "infant",
+    "fend",
+    "fence",
+    "satisfy",
+    "petrify"
+  ],
+  "newRoots": [
+    "root:libr",
+    "root:equip",
+    "root:equit-equity",
+    "root:radic",
+    "root:err",
+    "root:escal",
+    "root:essent",
+    "root:etern",
+    "root:eth",
+    "root:ethn",
+    "root:vapor",
+    "root:viscer",
+    "root:volv",
+    "root:agger",
+    "root:cell-rise",
+    "root:change",
+    "root:em-empt",
+    "root:exempl",
+    "root:hal-breathe",
+    "root:haust",
+    "root:hab-hold",
+    "root:hilar",
+    "root:it-go",
+    "root:orbit",
+    "root:exo",
+    "root:pand",
+    "root:pert-tested",
+    "root:plod",
+    "root:plor",
+    "root:exter",
+    "root:stingu",
+    "root:toll",
+    "root:ordin",
+    "root:uber",
+    "root:fabr",
+    "root:facil",
+    "root:fair",
+    "root:faith",
+    "root:fanat",
+    "root:fa-speak",
+    "root:fantas",
+    "root:reach",
+    "root:fascin",
+    "root:fast-firm",
+    "root:flor",
+    "root:favor",
+    "root:femin",
+    "root:fence",
+    "root:fend-word",
+    "root:fertil",
+    "root:ever",
+    "root:green",
+    "root:res-thing",
+    "root:witness",
+    "root:business",
+    "root:train",
+    "root:egg",
+    "root:atic",
+    "root:or-state",
+    "root:itate",
+    "root:ise-noun",
+    "root:ade",
+    "root:et-small",
+    "root:a-noun",
+    "root:extra",
+    "root:petr",
+    "root:it-participle",
+    "root:ior",
+    "root:i-connector",
+    "root:ped",
+    "root:multi",
+    "root:self",
+    "root:for",
+    "root:in-not"
+  ],
+  "placeholderDefinitionsReplaced": 198,
+  "staticVerified": {
+    "words": 242,
+    "targetWords": 200,
+    "roots": 167
+  },
+  "uncertainDeepOrigins": [
+    "equip Germanic intermediary",
+    "estimate before aestimare",
+    "escalator brand formation",
+    "etiquette Germanic path",
+    "exploit intermediate derivation",
+    "explore semantic path",
+    "extinct before stinguere",
+    "fabric before faber",
+    "face/facere relationship",
+    "fade",
+    "faint participial path",
+    "fake",
+    "falcon naming",
+    "famine before fames",
+    "farce before farcire",
+    "fascinate before fascinum",
+    "fatigue first element",
+    "faucet",
+    "fauna divine name",
+    "ferment contraction"
+  ],
+  "layerRepresentation": "Surface morphemes, learner-visible component notes, root source notes, and relatedRootIds rendered as indented related-root rows. These are existing related-root display fields, not a complete formal historical syntax tree.",
+  "ingestProgress": "unchanged; previous completed logical number 2433, next 2434",
+  "sources": [
+    "https://www.etymonline.com/word/equilibrium",
+    "https://www.etymonline.com/word/equipment",
+    "https://www.etymonline.com/word/equitable",
+    "https://www.etymonline.com/word/equivalent",
+    "https://www.etymonline.com/word/eradicate",
+    "https://www.etymonline.com/word/erect",
+    "https://www.etymonline.com/word/erode",
+    "https://www.etymonline.com/word/erratic",
+    "https://www.etymonline.com/word/error",
+    "https://www.etymonline.com/word/escalate",
+    "https://www.etymonline.com/word/escape",
+    "https://www.etymonline.com/word/essential",
+    "https://www.etymonline.com/word/estate",
+    "https://www.etymonline.com/word/estimate",
+    "https://www.etymonline.com/word/eternal",
+    "https://www.etymonline.com/word/ethics",
+    "https://www.etymonline.com/word/ethnic",
+    "https://www.etymonline.com/word/etiquette",
+    "https://www.etymonline.com/word/evaluate",
+    "https://www.etymonline.com/word/evaporate",
+    "https://www.etymonline.com/word/event",
+    "https://www.etymonline.com/word/evidence",
+    "https://www.etymonline.com/word/eviscerate",
+    "https://www.etymonline.com/word/evoke",
+    "https://www.etymonline.com/word/evolve",
+    "https://www.etymonline.com/word/exact",
+    "https://www.etymonline.com/word/exaggerate",
+    "https://www.etymonline.com/word/excel",
+    "https://www.etymonline.com/word/exception",
+    "https://www.etymonline.com/word/excess",
+    "https://www.etymonline.com/word/exchange",
+    "https://www.etymonline.com/word/excite",
+    "https://www.etymonline.com/word/execute",
+    "https://www.etymonline.com/word/exemplary",
+    "https://www.etymonline.com/word/exempt",
+    "https://www.etymonline.com/word/exert",
+    "https://www.etymonline.com/word/exhale",
+    "https://www.etymonline.com/word/exhaust",
+    "https://www.etymonline.com/word/exhibit",
+    "https://www.etymonline.com/word/exhilarate",
+    "https://www.etymonline.com/word/exit",
+    "https://www.etymonline.com/word/exorbitant",
+    "https://www.etymonline.com/word/exotic",
+    "https://www.etymonline.com/word/expand",
+    "https://www.etymonline.com/word/expedition",
+    "https://www.etymonline.com/word/expenditure",
+    "https://www.etymonline.com/word/expert",
+    "https://www.etymonline.com/word/explicit",
+    "https://www.etymonline.com/word/exploit",
+    "https://www.etymonline.com/word/explore",
+    "https://www.etymonline.com/word/exponential",
+    "https://www.etymonline.com/word/expose",
+    "https://www.etymonline.com/word/exterior",
+    "https://www.etymonline.com/word/external",
+    "https://www.etymonline.com/word/extinct",
+    "https://www.etymonline.com/word/extol",
+    "https://www.etymonline.com/word/extraordinary",
+    "https://www.etymonline.com/word/extremity",
+    "https://www.etymonline.com/word/exuberant",
+    "https://www.etymonline.com/word/fable",
+    "https://www.etymonline.com/word/fabric",
+    "https://www.etymonline.com/word/facade",
+    "https://www.etymonline.com/word/facet",
+    "https://www.etymonline.com/word/facilitate",
+    "https://www.etymonline.com/word/facsimile",
+    "https://www.etymonline.com/word/faction",
+    "https://www.etymonline.com/word/faculty",
+    "https://www.etymonline.com/word/fade",
+    "https://www.etymonline.com/word/faint",
+    "https://www.etymonline.com/word/fair",
+    "https://www.etymonline.com/word/faith",
+    "https://www.etymonline.com/word/fake",
+    "https://www.etymonline.com/word/falcon",
+    "https://www.etymonline.com/word/famine",
+    "https://www.etymonline.com/word/fanatic",
+    "https://www.etymonline.com/word/fancy",
+    "https://www.etymonline.com/word/infancy",
+    "https://www.etymonline.com/word/fantastic",
+    "https://www.etymonline.com/word/farce",
+    "https://www.etymonline.com/word/fascinate",
+    "https://www.etymonline.com/word/fashion",
+    "https://www.etymonline.com/word/fasten",
+    "https://www.etymonline.com/word/fatal",
+    "https://www.etymonline.com/word/fatigue",
+    "https://www.etymonline.com/word/faucet",
+    "https://www.etymonline.com/word/fault",
+    "https://www.etymonline.com/word/fauna",
+    "https://www.etymonline.com/word/flora",
+    "https://www.etymonline.com/word/favor",
+    "https://www.etymonline.com/word/feasible",
+    "https://www.etymonline.com/word/feat",
+    "https://www.etymonline.com/word/feeble",
+    "https://www.etymonline.com/word/feed",
+    "https://www.etymonline.com/word/feminism",
+    "https://www.etymonline.com/word/fence",
+    "https://www.etymonline.com/word/fend",
+    "https://www.etymonline.com/word/ferment",
+    "https://www.etymonline.com/word/ferry",
+    "https://www.etymonline.com/word/fertile",
+    "https://www.etymonline.com/word/equip",
+    "https://www.etymonline.com/word/equity",
+    "https://www.etymonline.com/word/esteem",
+    "https://www.etymonline.com/word/ethic",
+    "https://www.etymonline.com/word/ticket",
+    "https://www.etymonline.com/word/evaluation",
+    "https://www.etymonline.com/word/evident",
+    "https://www.etymonline.com/word/example",
+    "https://www.etymonline.com/word/expedite",
+    "https://www.etymonline.com/word/exponent",
+    "https://www.etymonline.com/word/extinguish",
+    "https://www.etymonline.com/word/feminine",
+    "https://www.etymonline.com/word/infant",
+    "https://www.etymonline.com/word/fantasy",
+    "https://www.etymonline.com/word/fate",
+    "https://www.etymonline.com/word/face",
+    "https://www.etymonline.com/word/faun",
+    "https://www.etymonline.com/word/petrify",
+    "https://www.etymonline.com/word/satisfy",
+    "https://www.etymonline.com/word/express",
+    "https://www.merriam-webster.com/dictionary/equip",
+    "https://www.merriam-webster.com/dictionary/equilibrium",
+    "https://www.merriam-webster.com/dictionary/equitable",
+    "https://www.merriam-webster.com/dictionary/eradicate",
+    "https://www.merriam-webster.com/dictionary/essential",
+    "https://www.merriam-webster.com/dictionary/estate",
+    "https://www.merriam-webster.com/dictionary/estimate",
+    "https://www.merriam-webster.com/dictionary/eternal",
+    "https://www.merriam-webster.com/dictionary/ethics",
+    "https://www.merriam-webster.com/dictionary/ethnic",
+    "https://www.merriam-webster.com/dictionary/etiquette",
+    "https://www.merriam-webster.com/dictionary/eviscerate",
+    "https://www.merriam-webster.com/dictionary/excel",
+    "https://www.merriam-webster.com/dictionary/execute",
+    "https://www.merriam-webster.com/dictionary/exempt",
+    "https://www.merriam-webster.com/dictionary/exert",
+    "https://www.merriam-webster.com/dictionary/exhale",
+    "https://www.merriam-webster.com/dictionary/exhaust",
+    "https://www.merriam-webster.com/dictionary/exhibit",
+    "https://www.merriam-webster.com/dictionary/exhilarate",
+    "https://www.merriam-webster.com/dictionary/exit",
+    "https://www.merriam-webster.com/dictionary/exotic",
+    "https://www.merriam-webster.com/dictionary/erratic",
+    "https://www.merriam-webster.com/dictionary/escalate",
+    "https://www.merriam-webster.com/dictionary/escape",
+    "https://www.merriam-webster.com/dictionary/evaluate",
+    "https://www.merriam-webster.com/dictionary/evaporate",
+    "https://www.merriam-webster.com/dictionary/event",
+    "https://www.merriam-webster.com/dictionary/evolve",
+    "https://www.merriam-webster.com/dictionary/exorbitant",
+    "https://www.merriam-webster.com/dictionary/expand",
+    "https://www.merriam-webster.com/dictionary/expedition",
+    "https://www.merriam-webster.com/dictionary/expertise",
+    "https://www.merriam-webster.com/dictionary/explicit",
+    "https://www.merriam-webster.com/dictionary/exploit",
+    "https://www.merriam-webster.com/dictionary/explore",
+    "https://www.merriam-webster.com/dictionary/exponent",
+    "https://www.merriam-webster.com/dictionary/exterior",
+    "https://www.merriam-webster.com/dictionary/extinct",
+    "https://www.merriam-webster.com/dictionary/extol",
+    "https://www.merriam-webster.com/dictionary/exuberant",
+    "https://www.merriam-webster.com/dictionary/fable",
+    "https://www.merriam-webster.com/dictionary/fabric",
+    "https://www.merriam-webster.com/dictionary/facade",
+    "https://www.merriam-webster.com/dictionary/facet",
+    "https://www.merriam-webster.com/dictionary/faculty",
+    "https://www.merriam-webster.com/dictionary/fade",
+    "https://www.merriam-webster.com/dictionary/faint",
+    "https://www.merriam-webster.com/dictionary/faith",
+    "https://www.merriam-webster.com/dictionary/fake",
+    "https://www.merriam-webster.com/dictionary/falcon",
+    "https://www.merriam-webster.com/dictionary/famine",
+    "https://www.merriam-webster.com/dictionary/fanatic",
+    "https://www.merriam-webster.com/dictionary/fancy",
+    "https://www.merriam-webster.com/dictionary/infancy",
+    "https://www.merriam-webster.com/dictionary/fantastic",
+    "https://www.merriam-webster.com/dictionary/farce",
+    "https://www.merriam-webster.com/dictionary/fascinate",
+    "https://www.merriam-webster.com/dictionary/fashion",
+    "https://www.merriam-webster.com/dictionary/fasten",
+    "https://www.merriam-webster.com/dictionary/fatal",
+    "https://www.merriam-webster.com/dictionary/fatigue",
+    "https://www.merriam-webster.com/dictionary/faucet",
+    "https://www.merriam-webster.com/dictionary/fault",
+    "https://www.merriam-webster.com/dictionary/fauna",
+    "https://www.merriam-webster.com/dictionary/flora",
+    "https://www.merriam-webster.com/dictionary/favor",
+    "https://www.merriam-webster.com/dictionary/feasible",
+    "https://www.merriam-webster.com/dictionary/feat",
+    "https://www.merriam-webster.com/dictionary/feeble",
+    "https://www.merriam-webster.com/dictionary/feed",
+    "https://www.merriam-webster.com/dictionary/feminine",
+    "https://www.merriam-webster.com/dictionary/fence",
+    "https://www.merriam-webster.com/dictionary/fend",
+    "https://www.merriam-webster.com/dictionary/ferment",
+    "https://www.merriam-webster.com/dictionary/ferry",
+    "https://www.merriam-webster.com/dictionary/fertile"
+  ],
+  "browserChecks": [
+    {
+      "route": "word/exaggerate",
+      "exit": 0,
+      "missing": [],
+      "screenshot": ".tmp/qa-word-exaggerate.png",
+      "renderedCharacters": 73987,
+      "familyTabHtml": "<nav class=\"family-tabs\" aria-label=\"exaggerate word family\"><span class=\"family-tab family-stem-tab\">exaggerat-</span><button class=\"family-tab active\" type=\"button\" data-route=\"word:exaggerate\">-e · verb</button><button class=\"family-tab\" type=\"button\" data-route=\"word:exaggeration\">-ion · noun</button></nav>"
+    },
+    {
+      "route": "morpheme/agger",
+      "exit": 0,
+      "missing": [],
+      "screenshot": ".tmp/qa-morpheme-agger.png",
+      "renderedCharacters": 72836,
+      "familyTabHtml": "<nav class=\"family-tabs\" aria-label=\"' + escapeHtml(familyEntries[0].word) + ' word family\">' +\n\n        '<span class=\"family-tab family-stem-tab\">' + escapeHtml(familyStem) + '</span>' +\n\n        familyEntries.map((entry) => {\n\n          const active = entry.id === activeWord.id ? ' active' : '';\n\n          return routeButton('word', entry.id, getWordVariantLabel(entry, familyStem), 'family-tab' + active);\n\n        }).join('') +\n\n      '</nav>"
+    },
+    {
+      "route": "word/faculty",
+      "exit": 0,
+      "missing": [],
+      "screenshot": ".tmp/qa-word-faculty.png",
+      "renderedCharacters": 71186,
+      "familyTabHtml": "<nav class=\"family-tabs\" aria-label=\"' + escapeHtml(familyEntries[0].word) + ' word family\">' +\n\n        '<span class=\"family-tab family-stem-tab\">' + escapeHtml(familyStem) + '</span>' +\n\n        familyEntries.map((entry) => {\n\n          const active = entry.id === activeWord.id ? ' active' : '';\n\n          return routeButton('word', entry.id, getWordVariantLabel(entry, familyStem), 'family-tab' + active);\n\n        }).join('') +\n\n      '</nav>"
+    },
+    {
+      "route": "word/faucet",
+      "exit": 0,
+      "missing": [],
+      "screenshot": ".tmp/qa-word-faucet.png",
+      "renderedCharacters": 70744,
+      "familyTabHtml": "<nav class=\"family-tabs\" aria-label=\"' + escapeHtml(familyEntries[0].word) + ' word family\">' +\n\n        '<span class=\"family-tab family-stem-tab\">' + escapeHtml(familyStem) + '</span>' +\n\n        familyEntries.map((entry) => {\n\n          const active = entry.id === activeWord.id ? ' active' : '';\n\n          return routeButton('word', entry.id, getWordVariantLabel(entry, familyStem), 'family-tab' + active);\n\n        }).join('') +\n\n      '</nav>"
+    },
+    {
+      "route": "word/infancy",
+      "exit": 0,
+      "missing": [],
+      "screenshot": ".tmp/qa-word-infancy.png",
+      "renderedCharacters": 71293,
+      "familyTabHtml": "<nav class=\"family-tabs\" aria-label=\"infant word family\"><span class=\"family-tab family-stem-tab\">infan-</span><button class=\"family-tab\" type=\"button\" data-route=\"word:infant\">-t · noun/adjective</button><button class=\"family-tab active\" type=\"button\" data-route=\"word:infancy\">-cy · noun</button></nav>"
+    },
+    {
+      "route": "word/fertilize",
+      "exit": 0,
+      "missing": [],
+      "screenshot": ".tmp/qa-word-fertilize.png",
+      "renderedCharacters": 71694,
+      "familyTabHtml": "<nav class=\"family-tabs\" aria-label=\"fertile word family\"><span class=\"family-tab family-stem-tab\">fertil-</span><button class=\"family-tab\" type=\"button\" data-route=\"word:fertile\">-e · adj</button><button class=\"family-tab\" type=\"button\" data-route=\"word:fertility\">-ity · noun</button><button class=\"family-tab active\" type=\"button\" data-route=\"word:fertilize\">-ize · verb</button><button class=\"family-tab\" type=\"button\" data-route=\"word:fertilizer\">-izer · noun</button><button class=\"family-tab\" type=\"button\" data-route=\"word:fertilization\">-ization · noun</button></nav>"
+    },
+    {
+      "route": "word/equipment",
+      "exit": 0,
+      "missing": [],
+      "screenshot": ".tmp/qa-word-equipment.png",
+      "renderedCharacters": 71535,
+      "familyTabHtml": "<nav class=\"family-tabs\" aria-label=\"equip word family\"><span class=\"family-tab family-stem-tab\">equip-</span><button class=\"family-tab\" type=\"button\" data-route=\"word:equip\">equip · verb</button><button class=\"family-tab active\" type=\"button\" data-route=\"word:equipment\">-ment · noun</button></nav>"
+    }
+  ],
+  "validation": {
+    "canonicalIssues": 0,
+    "canonicalWarnings": 0,
+    "batchIssues": 0,
+    "batchWarnings": 0,
+    "generation": "passed",
+    "staticWords": 242,
+    "staticRoots": 167,
+    "browserPages": 7,
+    "typescript": "passed",
+    "productionBuild": "passed",
+    "buildWarnings": [
+      "large output chunks",
+      "vinext route static classification unknown"
+    ],
+    "ingestProgress": "unchanged: 2433 husk completed; next 2434; sheet 2001-3000 row 495"
+  }
+}

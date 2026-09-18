@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: agile
+word: agile
+pos: adjective
+zh: 敏捷的；灵活的
+en: able to move or think quickly and easily
+components:
+  - morpheme: act
+    form: ag
+    meaning_in_word: set in motion
+    zh: 做、驱动
+    role: root
+    is_core: true
+  - morpheme: able
+    form: -ile
+    meaning_in_word: able or apt to
+    zh: 能够；适合
+    role: suffix
+    is_core: false
+word_family:
+  - agility
+word_family_details:
+  - word: agility
+    en: the ability to move, think, or respond quickly and easily
+    zh: 敏捷；灵活
+confusables:
+  []
+examples:
+  - en: An agile mind adapts to new evidence.
+    zh: 敏捷的头脑能适应新证据。
+why_confusing: agile 可形容身体敏捷，也可形容思维或团队灵活。

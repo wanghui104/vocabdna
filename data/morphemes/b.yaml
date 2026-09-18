@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: b
+display: b-
+type: prefix
+core_meaning: intensive sound in bounce family
+zh: bounce 词族音素，不作独立词根
+origin: teaching morphology
+source_form: b
+source_meaning: intensive sound in bounce family
+source_meaning_zh: bounce 词族音素，不作独立词根
+related_morphemes:
+  []
+senses:
+  - meaning: intensive sound in bounce family
+    zh: bounce 词族音素，不作独立词根
+    examples:
+      - bounce
+      - superb
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - b- -> bounce
+  - b -> superb
+high_value_words:
+  - bounce
+  - superb
+confusable_words:
+  []

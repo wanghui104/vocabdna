@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: deity
+word: deity
+pos: noun
+zh: 神；被奉若神明的人或物
+en: a god, goddess, or divine being
+components:
+  - morpheme: deus
+    form: de
+    meaning_in_word: god / 神
+    zh: 神
+    role: root
+    is_core: true
+    note: de- 来自 Latin deus 神 + -ity 神性/状态；不能把此 de- 连到去除前缀。
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: quality, state / 性质、状态
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: deity 比 god 更正式。

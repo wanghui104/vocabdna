@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: assure
+word: assure
+pos: verb
+zh: 确保；保证；使确信
+en: to tell someone confidently or make something certain
+components:
+  - morpheme: ad
+    form: as-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: sure
+    form: sure
+    meaning_in_word: safe, certain
+    zh: 安全；确信
+    role: root
+    is_core: true
+word_family:
+  - assured
+  - assuredly
+word_family_details:
+  - word: assured
+    en: confident, certain, or made secure
+    zh: 确信的；有把握的
+  - word: assuredly
+    en: certainly or confidently
+    zh: 确实地；确信地
+confusables:
+  - word: assume
+    reason: assure someone of something；不要和 assume 假定混淆。
+    zh_reason: assure someone of something；不要和 assume 假定混淆。
+examples:
+  []
+why_confusing: assure someone of something；不要和 assume 假定混淆。

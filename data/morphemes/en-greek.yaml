@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: en-greek
+display: en-
+type: prefix
+core_meaning: in, within
+zh: 在内
+origin: Greek
+source_form: Greek ἐν (en)
+source_meaning: in, within
+source_meaning_zh: 在内
+source_note: 希腊 en- 在唇音前为 em-、在 l 前同化为 el-；非英语 -en 后缀。
+related_morphemes:
+  []
+senses:
+  - meaning: in, within
+    zh: 在内
+    examples:
+      - ellipse
+      - ellipsis
+      - elliptical
+      - emphasis
+      - emphasize
+      - encyclopedia
+      - energetic
+      - energy
+      - enzyme
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - el- -> ellipse
+  - el- -> ellipsis
+  - el- -> elliptical
+  - em- -> emphasis
+  - em- -> emphasize
+  - en- -> encyclopedia
+  - en- -> energetic
+  - en- -> energy
+  - en- -> enzyme
+high_value_words:
+  - ellipse
+  - ellipsis
+  - elliptical
+  - emphasis
+  - emphasize
+  - encyclopedia
+  - energetic
+  - energy
+  - enzyme
+confusable_words:
+  []

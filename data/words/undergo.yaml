@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: undergo
+word: undergo
+pos: verb
+zh: 经历，遭受
+en: Means 经历，遭受; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: under
+    form: under-
+    meaning_in_word: under; insufficient / 在下；不足
+    zh: 在下；受制于
+    role: prefix
+    is_core: false
+  - morpheme: go
+    form: go
+    meaning_in_word: go / 经历；走
+    zh: go
+    role: root
+    is_core: true
+    note: Conservative bottom root inside this learner-visible analysis; deeper source is uncertain or not productive for TOEFL study.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

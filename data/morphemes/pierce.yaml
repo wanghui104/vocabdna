@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pierce
+display: pierce
+type: root
+core_meaning: pierce
+zh: 穿透
+origin: teaching morphology
+source_form: pierce
+source_meaning: pierce
+source_meaning_zh: 穿透
+related_morphemes:
+  []
+senses:
+  - meaning: pierce
+    zh: 穿透
+    examples:
+      - pierce
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - pierce -> pierce
+high_value_words:
+  - pierce
+confusable_words:
+  []

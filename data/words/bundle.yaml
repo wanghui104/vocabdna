@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bundle
+word: bundle
+pos: noun/verb
+zh: 捆；束；包；捆起来
+en: a group of things tied together, or to tie things into a package
+components:
+  - morpheme: bundle
+    form: bundle
+    meaning_in_word: bound package
+    zh: 捆；束；包
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: software bundle 指软件包。

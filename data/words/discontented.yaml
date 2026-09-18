@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discontented
+word: discontented
+pos: adjective
+zh: 不满意的；不满足的
+en: unhappy because one is not satisfied
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart, not / 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+  - morpheme: con
+    form: con-
+    meaning_in_word: with, together / 共同、一起、加强
+    zh: 共同、一起、加强
+    role: prefix
+    is_core: false
+  - morpheme: tain
+    form: tent
+    meaning_in_word: hold, contain / 持有；包含
+    zh: 持有；包含
+    role: root
+    is_core: true
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or completed / 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - discontent
+word_family_details:
+  - word: discontent
+    en: a feeling of not being satisfied
+    zh: 不满；不满足
+confusables:
+  []
+examples:
+  []
+why_confusing: discontented 是形容词；discontent 是名词或状态。

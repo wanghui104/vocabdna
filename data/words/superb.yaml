@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: superb
+word: superb
+pos: adjective
+zh: 极好的，超级的
+en: Means 极好的，超级的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: super
+    form: super-
+    meaning_in_word: above; over / 在上；超过
+    zh: 超过；在上
+    role: prefix
+    is_core: false
+  - morpheme: b
+    form: b
+    meaning_in_word: good/high degree / 好；高程度
+    zh: bounce 词族音素，不作独立词根
+    role: root
+    is_core: true
+word_family:
+  - superior
+  - superior-to
+word_family_details:
+  - word: superior
+    en: Means 级别或地位更高的；质量或价值更好的; reviewed from the TOEFL source gloss for learner display.
+    zh: 级别或地位更高的；质量或价值更好的
+  - word: superior-to
+    en: Means 高于，优于; reviewed from the TOEFL source gloss for learner display.
+    zh: 高于，优于
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: compensatory
+word: compensatory
+pos: adjective
+zh: 补偿性的
+en: intended to make up for loss or damage
+components:
+  - morpheme: pens
+    form: compens
+    meaning_in_word: pay back
+    zh: 补偿；赔偿
+    role: root
+    is_core: true
+  - morpheme: or
+    form: -atory
+    meaning_in_word: related
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - compensate
+  - compensation
+word_family_details:
+  - word: compensate
+    en: to make up for loss or pay someone for harm
+    zh: 补偿；赔偿
+  - word: compensation
+    en: money or action given to make up for loss or injury
+    zh: 补偿；赔偿
+confusables:
+  []
+examples:
+  []
+why_confusing: compensatory education/damages 常见。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gyration
+word: gyration
+pos: noun
+zh: 旋转
+en: Means 旋转; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: gyr
+    form: gyr
+    meaning_in_word: gyr
+    zh: 圆；旋转
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:gyr.
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: 动作；过程
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+    note: Suffix layer from Latin -atio.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

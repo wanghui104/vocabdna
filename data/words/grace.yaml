@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: grace
+word: grace
+pos: noun
+zh: 风度
+en: Means 风度; reviewed from the TOEFL source gloss and adjusted for learner display.
+components:
+  - morpheme: grace
+    form: grace
+    meaning_in_word: 风度
+    zh: 风度
+    role: root
+    is_core: true
+    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+word_family:
+  - graceful
+  - disgrace
+word_family_details:
+  - word: graceful
+    en: Means 优雅的; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 优雅的
+  - word: disgrace
+    en: Means 玷污; reviewed from the TOEFL source gloss and adjusted for learner display.
+    zh: 玷污
+confusables:
+  []
+examples:
+  []
+why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.

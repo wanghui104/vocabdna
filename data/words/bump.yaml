@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bump
+word: bump
+pos: noun/verb
+zh: 肿块；突起；碰撞
+en: a raised lump or a collision; to hit against something
+components:
+  - morpheme: bump
+    form: bump
+    meaning_in_word: hit, lump
+    zh: 碰撞；突起
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: bump into 可指偶遇或撞上。

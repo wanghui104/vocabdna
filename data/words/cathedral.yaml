@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: cathedral
+word: cathedral
+pos: noun
+zh: 总教堂；大教堂
+en: the main church of a district under a bishop
+components:
+  - morpheme: cathedra
+    form: cathedr
+    meaning_in_word: bishop's seat
+    zh: 大教堂
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: related to
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: cathedral 不只是大，也和 bishop's seat 有关。

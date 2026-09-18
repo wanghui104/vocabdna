@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elixir
+display: elixir
+type: root
+core_meaning: alchemical substance
+zh: 炼金药物
+origin: Mixed
+source_form: Arabic al-iksir;  Medieval Latin elixir
+source_meaning: alchemical substance
+source_meaning_zh: 炼金药物
+source_note: 深层 al- 定冠词 + iksir 炼金药，后者可能来自 Greek xerion 干燥药粉、xeros 干；可能链条不得写成定论。
+related_morphemes:
+  - al-article
+senses:
+  - meaning: alchemical substance
+    zh: 炼金药物
+    examples:
+      - elixir
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - elixir -> elixir
+high_value_words:
+  - elixir
+confusable_words:
+  []

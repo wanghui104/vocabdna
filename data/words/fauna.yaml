@@ -1,0 +1,25 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fauna
+word: fauna
+pos: noun
+zh: 动物群
+en: the animal life of a region, habitat, or period
+components:
+  - morpheme: fauna
+    form: fauna
+    meaning_in_word: animal life; goddess Fauna / 动物群；法乌娜女神
+    zh: 动物群；法乌娜女神
+    role: root
+    is_core: true
+    note: 源于神名 Fauna，与 Faunus 有关，神名更深来源未定；不能把 -a 说成英语集合后缀。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: flora
+    reason: 
+    zh_reason: 
+examples:
+  []
+why_confusing: 

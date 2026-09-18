@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: penchant
+display: penchant
+type: root
+core_meaning: penchant
+zh: penchant
+origin: teaching morphology
+source_form: penchant
+source_meaning: penchant
+source_meaning_zh: penchant
+related_morphemes:
+  []
+senses:
+  - meaning: penchant
+    zh: penchant
+    examples:
+      - penchant
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - penchant -> penchant
+high_value_words:
+  - penchant
+confusable_words:
+  []

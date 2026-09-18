@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: wildlife
+word: wildlife
+pos: noun
+zh: 野生动植物
+en: Means 野生动植物; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: wild
+    form: wild
+    meaning_in_word: wild / 野生
+    zh: 野生
+    role: root
+    is_core: true
+  - morpheme: life
+    form: life
+    meaning_in_word: life / 生命
+    zh: 生命
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

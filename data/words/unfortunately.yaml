@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: unfortunately
+word: unfortunately
+pos: adverb/verb
+zh: 不幸地
+en: Means 不幸地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: un
+    form: un-
+    meaning_in_word: not; reverse / 不；反向
+    zh: 不；相反
+    role: prefix
+    is_core: false
+  - morpheme: fortune
+    form: fortune
+    meaning_in_word: fortune / 运气
+    zh: 财富；运气
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make; act / 使；做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner / 以…方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - unfortunate
+word_family_details:
+  - word: unfortunate
+    en: having or causing bad luck
+    zh: 不幸的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

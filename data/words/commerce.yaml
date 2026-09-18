@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: commerce
+word: commerce
+pos: noun
+zh: 商业；贸易
+en: the activity of buying and selling goods and services
+components:
+  - morpheme: com
+    form: com-
+    meaning_in_word: together
+    zh: 共同；一起；完全
+    role: prefix
+    is_core: false
+  - morpheme: merc
+    form: merc
+    meaning_in_word: trade, goods
+    zh: 商业；贸易
+    role: root
+    is_core: true
+word_family:
+  - commercial
+  - commercialize
+word_family_details:
+  - word: commercial
+    en: related to business or trade
+    zh: 商业的；贸易的
+  - word: commercialize
+    en: to make something available or managed for profit
+    zh: 使商业化；使商品化
+confusables:
+  []
+examples:
+  []
+why_confusing: commerce 偏正式商业活动。

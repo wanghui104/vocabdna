@@ -14,17 +14,29 @@ senses:
   - meaning: person affected by an action
     zh: 接受动作的人
     examples:
-      - absenteeism
       - absentee
+      - absenteeism
+      - committee
+      - employee
+      - guarantee
+      - nominee
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - -ee -> absenteeism
   - -ee -> absentee
+  - -ee -> absenteeism
+  - -ee -> committee
+  - -ee -> employee
+  - -ee -> guarantee
+  - -ee -> nominee
 high_value_words:
-  - absenteeism
   - absentee
+  - absenteeism
+  - committee
+  - employee
+  - guarantee
+  - nominee
 confusable_words:
   []

@@ -14,19 +14,19 @@ components:
   - morpheme: excess-ceed
     form: cess
     meaning_in_word: go
-    zh: 走、前进、让步
+    zh: 走；让步
     role: root
     is_core: true
   - morpheme: able
     form: -ibil
     meaning_in_word: able to be
-    zh: 能够被……的
+    zh: 能够；适合
     role: suffix
     is_core: false
   - morpheme: ity
     form: -ity
     meaning_in_word: quality
-    zh: 性质、状态
+    zh: 状态；性质
     role: suffix
     is_core: false
 word_family:

@@ -12,16 +12,25 @@ senses:
     zh: 愿望、意志
     examples:
       - benevolent
+      - involuntary
       - malevolent
+      - voluntary
+      - volunteer
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - vol -> benevolent
+  - vol -> involuntary
   - vol -> malevolent
+  - vol -> voluntary
+  - vol -> volunteer
 high_value_words:
   - benevolent
+  - involuntary
   - malevolent
+  - voluntary
+  - volunteer
 confusable_words:
   []

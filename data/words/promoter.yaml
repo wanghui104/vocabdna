@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: promoter
+word: promoter
+pos: noun
+zh: 促进者
+en: Means 促进者; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pro
+    form: pro-
+    meaning_in_word: forward; forth / 向前；公开
+    zh: 向前、公开、代替
+    role: prefix
+    is_core: false
+  - morpheme: mote
+    form: mote
+    meaning_in_word: move / 移动；促进
+    zh: 移动；促进
+    role: root
+    is_core: true
+  - morpheme: er
+    form: -er
+    meaning_in_word: person or thing / 人或物
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+word_family:
+  - promote
+word_family_details:
+  - word: promote
+    en: Means 晋级，使升级；促进; reviewed from the TOEFL source gloss for learner display.
+    zh: 晋级，使升级；促进
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

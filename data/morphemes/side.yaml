@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: side
+display: side
+type: root
+core_meaning: side, besides
+zh: 旁边；此外
+origin: Old English
+source_form: Old English side
+source_meaning: side, flank
+source_meaning_zh: 一侧；旁边
+related_morphemes:
+  []
+senses:
+  - meaning: side, besides
+    zh: 旁边；此外
+    examples:
+      - besides
+      - sidestep
+      - sideways
+      - subside
+      - upside-down
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - side -> besides
+  - side -> sidestep
+  - side -> sideways
+  - side -> subside
+  - side -> upside-down
+high_value_words:
+  - besides
+  - sidestep
+  - sideways
+  - subside
+  - upside-down
+confusable_words:
+  []

@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: sustain
+word: sustain
+pos: verb
+zh: 维持；支撑
+en: Means 维持；支撑; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: sus
+    form: sus-
+    meaning_in_word: under; up from below / 在下；从下
+    zh: 从下支撑；在下
+    role: prefix
+    is_core: false
+  - morpheme: tain
+    form: tain
+    meaning_in_word: hold / 持有；支撑
+    zh: 持有；包含
+    role: root
+    is_core: true
+word_family:
+  - sustained
+  - sustenance
+word_family_details:
+  - word: sustained
+    en: Means 持续不变的; reviewed from the TOEFL source gloss for learner display.
+    zh: 持续不变的
+  - word: sustenance
+    en: Means 食物，生计; reviewed from the TOEFL source gloss for learner display.
+    zh: 食物，生计
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。

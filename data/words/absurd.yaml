@@ -22,9 +22,7 @@ word_family:
 word_family_details:
   []
 confusables:
-  - word: ridiculous
-    reason: absurd 语气较强，常指不合逻辑到可笑。
-    zh_reason: absurd 语气较强，常指不合逻辑到可笑。
+  []
 examples:
   - en: The claim was absurd.
     zh: 这个说法很荒谬。

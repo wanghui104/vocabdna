@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: campaign
+word: campaign
+pos: noun
+zh: 活动；竞选活动
+en: an organized series of actions to achieve a political, military, or business goal
+components:
+  - morpheme: camp
+    form: camp
+    meaning_in_word: field of action
+    zh: 场地；竞选；冠军
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: campaign 可指政治、军事、商业或公益活动。

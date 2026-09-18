@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: approximately
+word: approximately
+pos: adverb
+zh: 近似地；大约
+en: about; close to a number or amount but not exact
+components:
+  - morpheme: ad
+    form: ap-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: proxim
+    form: proxim
+    meaning_in_word: near
+    zh: 接近
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - approximate
+word_family_details:
+  - word: approximate
+    en: to come close to something in amount, quality, or character
+    zh: 接近；近似
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: tangle
+word: tangle
+pos: verb/noun
+zh: （使）缠结；乱团；混乱局面
+en: to become or make things twisted together; a knotted mass or a complicated situation
+components:
+  - morpheme: tangle
+    form: tangle
+    meaning_in_word: twist or catch together / 缠绕、纠结
+    zh: 缠绕
+    role: root
+    is_core: true
+    note: 保留 tangle 为学习词干；不是 Latin tangere（触碰）的 tang-，更早词源仍有不确定性。
+word_family:
+  - tangled
+  - tangling
+word_family_details:
+  - word: tangled
+    en: twisted together so separation is difficult, or confusingly complicated; also the past form of tangle
+    zh: 缠结的；错综复杂的；tangle 的过去式及过去分词
+  - word: tangling
+    en: the ongoing action or process of twisting or catching things together
+    zh: 正在缠绕；缠结过程
+confusables:
+  []
+examples:
+  - en: Loose cables tangle easily inside a bag.
+    zh: 松散的线缆在包里很容易缠在一起。
+  - en: A tangle of roots blocked the narrow path.
+    zh: 一团交错的树根挡住了狭窄的小路。
+  - en: The missing papers left the case in a tangle.
+    zh: 文件丢失使案件陷入混乱。
+  - en: Few players wanted to tangle with the defending champion.
+    zh: 很少有选手愿意与卫冕冠军较量。
+why_confusing: tangled 是状态或过去形式；tangling 强调正在缠绕。untangle / disentangle 表示解开。海藻义 tangle 在词典中另列，本词页聚焦缠绕这一支。

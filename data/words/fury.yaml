@@ -1,0 +1,29 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fury
+word: fury
+pos: noun
+zh: 狂怒；猛烈
+en: extreme anger or violent force
+components:
+  - morpheme: furi
+    form: fury
+    meaning_in_word: rage / 狂怒
+    zh: 狂怒
+    role: root
+    is_core: true
+    note: furious = furi- + -ous；不是 fur 毛皮。furia 来自 furere 发狂的名词派生。
+word_family:
+  - furious
+  - furiously
+word_family_details:
+  - word: furious
+    en: extremely angry
+    zh: 狂怒的
+  - word: furiously
+    en: with extreme anger or intensity
+    zh: 狂怒地；猛烈地
+confusables:
+  []
+examples:
+  []
+why_confusing: 

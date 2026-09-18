@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: spur
+display: spur
+type: root
+core_meaning: spur; urge
+zh: 马刺；刺激
+origin: Old English
+source_form: spur
+source_meaning: spur; urge
+source_meaning_zh: 马刺；刺激
+source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+related_morphemes:
+  []
+senses:
+  - meaning: spur; urge
+    zh: 马刺；刺激
+    examples:
+      - spur
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - spur -> spur
+high_value_words:
+  - spur
+confusable_words:
+  []

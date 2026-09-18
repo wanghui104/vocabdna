@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ornamental
+word: ornamental
+pos: adjective
+zh: 装饰的
+en: Means 装饰的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: ornament
+    form: ornament
+    meaning_in_word: adorn; equip / 装饰
+    zh: 装饰
+    role: root
+    is_core: true
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 相关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - ornament
+  - ornamentation
+word_family_details:
+  - word: ornament
+    en: Means 装饰；装饰物; reviewed from the TOEFL source gloss for learner display.
+    zh: 装饰；装饰物
+  - word: ornamentation
+    en: Means 装饰；装饰品; reviewed from the TOEFL source gloss for learner display.
+    zh: 装饰；装饰品
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

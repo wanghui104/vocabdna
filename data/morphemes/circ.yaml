@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: circ
+display: circ
+type: root
+core_meaning: circle, around
+zh: 圆；周围
+origin: Latin
+source_form: Latin circus/circulus/circum
+source_meaning: circle, around
+source_meaning_zh: 圆；环绕
+related_morphemes:
+  []
+senses:
+  - meaning: circle, around
+    zh: 圆；周围
+    examples:
+      - circle
+      - circuit
+      - circular
+      - circulate
+      - circulation
+      - circumference
+      - circumscribe
+      - circumstance
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - circle -> circle
+  - circ -> circuit
+  - circul -> circular
+  - circul -> circulate
+  - circul -> circulation
+  - circum- -> circumference
+  - circum- -> circumscribe
+  - circum- -> circumstance
+high_value_words:
+  - circle
+  - circuit
+  - circular
+  - circulate
+  - circulation
+  - circumference
+  - circumscribe
+  - circumstance
+confusable_words:
+  []

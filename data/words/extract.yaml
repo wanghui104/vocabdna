@@ -1,0 +1,31 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: extract
+word: extract
+pos: verb/noun
+zh: 拔出；提取
+en: to pull out or obtain from a source
+components:
+  - morpheme: e
+    form: ex-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: Latin ex-/e- 通常表示出、离开，也可表彻底、加强；exaggerate/exhilarate/evident 等按具体词义处理，不机械翻译为向外。
+  - morpheme: tract
+    form: tract
+    meaning_in_word: draw, pull / 拉、抽出
+    zh: 拉、抽出
+    role: root
+    is_core: true
+word_family:
+  - extraction
+word_family_details:
+  - word: extraction
+    en: removal or obtaining from a source; ancestry
+    zh: 提取；拔除；血统
+confusables:
+  []
+examples:
+  []
+why_confusing: 

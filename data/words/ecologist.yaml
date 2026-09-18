@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: ecologist
+word: ecologist
+pos: noun
+zh: 生态学家
+en: a scientist who studies organisms and their environments
+components:
+  - morpheme: eco
+    form: eco
+    meaning_in_word: house, environment / 家；环境
+    zh: 家；环境
+    role: root
+    is_core: true
+    note: eco- 源于居所；economy 加 nomos 管理，ecology 加 logia 研究。
+  - morpheme: leg-speak
+    form: log
+    meaning_in_word: discourse, study / 论述；研究
+    zh: 说话；论述
+    role: root
+    is_core: true
+    note: 这里的 log- 来自 Greek logos，表示论述与研究；不是 English log 原木。
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person concerned with / 从事……的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - ecology
+  - ecological
+word_family_details:
+  - word: ecology
+    en: the study of organisms and their environments
+    zh: 生态学
+  - word: ecological
+    en: relating to organisms and their relationships with the environment
+    zh: 生态的；生态学的
+confusables:
+  []
+examples:
+  []
+why_confusing: 

@@ -2,36 +2,41 @@
 id: predict
 word: predict
 pos: verb
-zh: 预测；预言
-en: to say what will happen before it happens
+zh: 预言，预告
+en: Means 预言，预告; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: pre
     form: pre-
-    meaning_in_word: before
+    meaning_in_word: before / 在前
     zh: 预先、在前
     role: prefix
     is_core: false
   - morpheme: dict
     form: dict
-    meaning_in_word: say
-    zh: 说、宣告
+    meaning_in_word: say / 说
+    zh: 说；宣告
     role: root
     is_core: true
 word_family:
   - prediction
+  - predictive
   - predictable
+  - predictability
 word_family_details:
   - word: prediction
-    en: related form of prediction
-    zh: prediction 的相关词
+    en: Means 预言，预报; reviewed from the TOEFL source gloss for learner display.
+    zh: 预言，预报
+  - word: predictive
+    en: Means 预言性的，成为先兆的; reviewed from the TOEFL source gloss for learner display.
+    zh: 预言性的，成为先兆的
   - word: predictable
-    en: related form of predictable
-    zh: predictable 的相关词
+    en: Means 可预见的; reviewed from the TOEFL source gloss for learner display.
+    zh: 可预见的
+  - word: predictability
+    en: Means 可预言; reviewed from the TOEFL source gloss for learner display.
+    zh: 可预言
 confusables:
-  - word: predicate
-    reason: predict 是预测；predicate 是语法谓语或断言。
-    zh_reason: predict 是预测；predicate 是语法谓语或断言。
+  []
 examples:
-  - en: The model predicts tomorrow's demand.
-    zh: 这个模型预测明天的需求。
-why_confusing: predict 是预测；predicate 是语法谓语或断言。
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

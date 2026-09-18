@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: clam
+word: clam
+pos: noun
+zh: 蛤；蛤肉
+en: a shellfish with two shells
+components:
+  - morpheme: clam-shell
+    form: clam
+    meaning_in_word: clamping shellfish
+    zh: 蛤；蛤肉
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: claim
+    reason: 和 claim/clamor 不同词族。
+    zh_reason: 和 claim/clamor 不同词族。
+  - word: clamor
+    reason: 和 claim/clamor 不同词族。
+    zh_reason: 和 claim/clamor 不同词族。
+examples:
+  []
+why_confusing: 和 claim/clamor 不同词族。

@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: jubilant
+word: jubilant
+pos: adjective
+zh: 欢腾的，喜气洋洋的
+en: Means 欢腾的，喜气洋洋的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: jubil
+    form: jubil
+    meaning_in_word: 欢呼
+    zh: 欢呼
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:jubil.
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: 具有…性质；正在…
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ant.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

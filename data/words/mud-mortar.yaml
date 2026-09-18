@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mud-mortar
+word: mud mortar
+pos: noun
+zh: 灰泥浆
+en: Means 灰泥浆; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mud
+    form: mud
+    meaning_in_word: 泥
+    zh: 泥
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mud.
+  - morpheme: mortar
+    form: mortar
+    meaning_in_word: 臼；灰浆
+    zh: 臼；灰浆
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:mortar.
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

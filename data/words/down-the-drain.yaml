@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: down-the-drain
+word: down the drain
+pos: phrase
+zh: 付诸东流；白白浪费
+en: wasted or lost without a useful result
+components:
+  - morpheme: down
+    form: down
+    meaning_in_word: down, collapse / 向下；崩溃
+    zh: 向下；崩溃
+    role: connector
+    is_core: false
+  - morpheme: the-article
+    form: the
+    meaning_in_word: the; definite article / 定冠词
+    zh: 定冠词
+    role: connector
+    is_core: false
+    note: 短语中的独立虚词，不是词缀。
+  - morpheme: drain
+    form: drain
+    meaning_in_word: draw off liquid / 排去液体
+    zh: 排去液体
+    role: root
+    is_core: true
+    note: 历史关联 dry/drought 的干燥词族，现代 drain 为稳定词干。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

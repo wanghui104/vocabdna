@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: don
+display: don
+type: root
+core_meaning: gift, give
+zh: 礼物；赠与
+origin: Latin
+source_form: Latin donum, donare
+source_meaning: gift, give
+source_meaning_zh: 礼物；赠与
+source_note: don- 礼物 → donare 赠与；donation 先进入英语，donate 后由其逆构。现代学习可比较 don + -ate/-ation/-or。
+related_morphemes:
+  []
+senses:
+  - meaning: gift, give
+    zh: 礼物；赠与
+    examples:
+      - donate
+      - donation
+      - donor
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - don -> donate
+  - don -> donation
+  - don -> donor
+high_value_words:
+  - donate
+  - donation
+  - donor
+confusable_words:
+  []

@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: mend-menda
+display: mend
+type: root
+core_meaning: fault, correct a fault
+zh: 错误；修正错误
+origin: Latin
+source_form: Latin menda / mendum
+source_meaning: fault, blemish, error
+source_meaning_zh: 缺陷；错误
+related_morphemes:
+  []
+senses:
+  - meaning: fault, correct a fault
+    zh: 错误；修正错误
+    examples:
+      - amend
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - amend -> amend
+high_value_words:
+  - amend
+confusable_words:
+  []

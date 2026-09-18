@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: calibration
+word: calibration
+pos: noun
+zh: 校准；标度；刻度
+en: the process of adjusting or marking a device to a standard
+components:
+  - morpheme: calibre
+    form: calibr
+    meaning_in_word: standard measure
+    zh: 校准；标度
+    role: root
+    is_core: true
+  - morpheme: ion
+    form: -ation
+    meaning_in_word: process
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 和 calculate 词形近，但词源线不同。

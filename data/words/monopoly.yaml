@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: monopoly
+word: monopoly
+pos: noun
+zh: 独占，垄断
+en: Means 独占，垄断; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: mono
+    form: mono-
+    meaning_in_word: 单一
+    zh: 单一
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:mono.
+  - morpheme: pol
+    form: pol
+    meaning_in_word: 出售；垄断
+    zh: 出售；垄断
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:pol.
+  - morpheme: y
+    form: -y
+    meaning_in_word: 充满；状态
+    zh: 充满；状态
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:y.
+word_family:
+  - monochromatic
+  - monopolize
+  - monotonous
+word_family_details:
+  - word: monochromatic
+    en: Means 单色的，一色的; reviewed from the TOEFL source gloss for learner display.
+    zh: 单色的，一色的
+  - word: monopolize
+    en: Means 独占，垄断; reviewed from the TOEFL source gloss for learner display.
+    zh: 独占，垄断
+  - word: monotonous
+    en: Means 单调乏味的，无变化的; reviewed from the TOEFL source gloss for learner display.
+    zh: 单调乏味的，无变化的
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues are documented in the batch report.

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: as-a-rule
+word: as a rule
+pos: phrase
+zh: 通常；总的来说
+en: usually or generally
+components:
+  - morpheme: as-word
+    form: as
+    meaning_in_word: in the way of
+    zh: 如；作为；就
+    role: root
+    is_core: true
+  - morpheme: rule
+    form: rule
+    meaning_in_word: general guide
+    zh: 规则；通常做法
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

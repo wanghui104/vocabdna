@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: aptly
+word: aptly
+pos: adverb
+zh: 适当地；得体地；贴切地
+en: in a suitable or fitting way
+components:
+  - morpheme: apt
+    form: apt
+    meaning_in_word: fit, suited
+    zh: 适合；达到
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in the manner of
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - apt
+word_family_details:
+  - word: apt
+    en: suitable or appropriate
+    zh: 恰当的；贴切的
+confusables:
+  []
+examples:
+  []
+why_confusing: 注意具体词性和搭配，不要只按中文直译。

@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: faucet
+word: faucet
+pos: noun
+zh: 水龙头
+en: a device controlling the flow of liquid from a pipe
+components:
+  - morpheme: faucet
+    form: faucet
+    meaning_in_word: spigot, stopper / 塞子；龙头
+    zh: 塞子；龙头
+    role: root
+    is_core: true
+    note: 更深源有争议：或关联 fausser 损坏、falsare，或 faux 喉咙小称；不把任何一种写成确定拆分。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

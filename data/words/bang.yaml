@@ -1,0 +1,22 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: bang
+word: bang
+pos: noun/verb
+zh: 砰的一声；猛击
+en: a sudden loud noise or hit; to hit or close noisily
+components:
+  - morpheme: bang
+    form: bang
+    meaning_in_word: sudden sound
+    zh: 砰响；猛击
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: bang into 表示撞上；bang on 可表示猛烈敲击。

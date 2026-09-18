@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: critical
+word: critical
+pos: adjective
+zh: 评论的；批评的
+en: involving careful judgment or expressing criticism
+components:
+  - morpheme: crit
+    form: crit
+    meaning_in_word: judge, evaluate / 判断；评论
+    zh: 判断；评论
+    role: root
+    is_core: true
+    note: 表层 crit- 判断 + -ic + -al；Greek kritikos = krit- 判断 + -ikos 性质后缀。critique 经法语借入，保留完整词形；-ique 与希腊 -ikos 相关。
+    related_morphemes:
+      - ic
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: critical 可褒可贬：critical thinking 是审辨思维；critical condition 是危急状态。

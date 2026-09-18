@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: current
+word: current
+pos: noun/adjective
+zh: 水流；气流；电流；趋势
+en: a flow of water, air, electricity, or opinion
+components:
+  - morpheme: curr
+    form: curr
+    meaning_in_word: run, flow
+    zh: 跑；流动；路线
+    role: root
+    is_core: true
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: ongoing quality
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - currently
+word_family_details:
+  - word: currently
+    en: at the present time
+    zh: 现在；当前
+confusables:
+  []
+examples:
+  []
+why_confusing: current noun 是流；current adjective 是当前的。

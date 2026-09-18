@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: relevance
+word: relevance
+pos: noun
+zh: 相关
+en: Means 相关; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back; again / 回；再
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+  - morpheme: lev
+    form: lev
+    meaning_in_word: raise; lighten / 举起；减轻
+    zh: 轻；举起
+    role: root
+    is_core: true
+  - morpheme: ance
+    form: -ance
+    meaning_in_word: state or act / 状态或动作
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - relevant
+word_family_details:
+  - word: relevant
+    en: Means 有关的，切题的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有关的，切题的
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: diagram
+word: diagram
+pos: noun
+zh: 图表；示意图
+en: a simple drawing that explains how something is arranged or works
+components:
+  - morpheme: dia
+    form: dia-
+    meaning_in_word: through, across
+    zh: 穿过；横跨
+    role: prefix
+    is_core: false
+  - morpheme: graph
+    form: gram
+    meaning_in_word: draw, write
+    zh: 写、记录
+    role: root
+    is_core: true
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: diagram 强调解释结构，不只是漂亮图片。

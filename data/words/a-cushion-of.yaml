@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: a-cushion-of
+word: a cushion of
+pos: phrase
+zh: 一层；一层缓冲物
+en: a layer or amount that supports, softens, or protects
+components:
+  - morpheme: a-article
+    form: a
+    meaning_in_word: indefinite article / 不定冠词
+    zh: 一个；不定冠词
+    role: connector
+    is_core: false
+  - morpheme: cushion
+    form: cushion
+    meaning_in_word: soft layer
+    zh: 软垫；缓冲
+    role: root
+    is_core: true
+    note: 表层 cushion；Old French coissin 座垫。更深层可能来自 Latin coxa 臀部，也有 culcita 床垫解释，尚不唯一；不强拆 cush- + -ion。
+  - morpheme: of
+    form: of
+    meaning_in_word: of
+    zh: 属于；关于
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 这里 cushion 抽象为保护层或缓冲量。

@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: comply-with
+word: comply with
+pos: phrase
+zh: 遵从；符合
+en: to obey a rule or meet a requirement
+components:
+  - morpheme: ply
+    form: comply
+    meaning_in_word: fulfill
+    zh: 遵从；符合
+    role: root
+    is_core: true
+  - morpheme: with
+    form: with
+    meaning_in_word: with
+    zh: 与；相对
+    role: connector
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: comply with rules/standards/law。

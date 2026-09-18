@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: elevator
+word: elevator
+pos: noun
+zh: 电梯；升降机；谷物升运储存设施
+en: a lift for moving people or goods between levels; a grain-lifting and storage facility
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out, from / 出、向外
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+  - morpheme: lev
+    form: lev
+    meaning_in_word: light in weight, raise / 轻；举起
+    zh: 轻；举起
+    role: root
+    is_core: true
+    note: levare 从减轻发展到举起；elevate = e- + lev- + -ate。
+  - morpheme: ate
+    form: -at
+    meaning_in_word: make, cause to be / 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: or
+    form: -or
+    meaning_in_word: person or thing that does / 做……的人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - elevate
+  - elevation
+word_family_details:
+  - word: elevate
+    en: to lift or raise in height, rank, or quality
+    zh: 举起；提升
+  - word: elevation
+    en: height above a reference level; the act of raising something
+    zh: 高度；海拔；提升
+confusables:
+  []
+examples:
+  []
+why_confusing: 

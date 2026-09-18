@@ -1,0 +1,58 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: disintegrate
+word: disintegrate
+pos: verb
+zh: （使）分解，（使）碎裂
+en: Means （使）分解，（使）碎裂; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: 分开；不
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:dis.
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:in.
+  - morpheme: tegr
+    form: tegr
+    meaning_in_word: 完整
+    zh: 完整
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:tegr.
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ate.
+word_family:
+  - integral
+  - integrate
+  - integrated
+  - integrity
+word_family_details:
+  - word: integral
+    en: Means 整体的；构成整体所需的; reviewed from the TOEFL source gloss for learner display.
+    zh: 整体的；构成整体所需的
+  - word: integrate
+    en: Means 使成为整体，使一体化; reviewed from the TOEFL source gloss for learner display.
+    zh: 使成为整体，使一体化
+  - word: integrated
+    en: Means 整合的，一体化的; reviewed from the TOEFL source gloss for learner display.
+    zh: 整合的，一体化的
+  - word: integrity
+    en: Means 完整性；正直，诚实; reviewed from the TOEFL source gloss for learner display.
+    zh: 完整性；正直，诚实
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.

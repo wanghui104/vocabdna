@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prefabricated
+word: prefabricated
+pos: adjective
+zh: 预制的
+en: Means 预制的; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: pre
+    form: pre-
+    meaning_in_word: before / 在前
+    zh: 预先、在前
+    role: prefix
+    is_core: false
+  - morpheme: fabric
+    form: fabric
+    meaning_in_word: make; build / 制造；构造
+    zh: 织物，布；结构，构造
+    role: root
+    is_core: true
+  - morpheme: ate
+    form: -ate
+    meaning_in_word: make; act / 使；做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: having; past participle / 已…的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。

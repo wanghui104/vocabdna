@@ -1,0 +1,27 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: quench
+display: quench
+type: root
+core_meaning: quench
+zh: 熄灭；解渴
+origin: teaching morphology
+source_form: quench
+source_meaning: quench
+source_meaning_zh: 熄灭；解渴
+related_morphemes:
+  []
+senses:
+  - meaning: quench
+    zh: 熄灭；解渴
+    examples:
+      - quench
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - quench -> quench
+high_value_words:
+  - quench
+confusable_words:
+  []

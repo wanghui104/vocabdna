@@ -1,0 +1,24 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: buzz
+word: buzz
+pos: noun/verb
+zh: 嗡嗡声；发出嗡嗡声
+en: a low continuous humming sound, or to make that sound
+components:
+  - morpheme: buzz
+    form: buzz
+    meaning_in_word: humming sound
+    zh: 嗡嗡声
+    role: root
+    is_core: true
+word_family:
+  - buzzer
+word_family_details:
+  - word: buzzer
+    en: a device that makes a buzzing sound
+    zh: 蜂鸣器
+confusables:
+  []
+examples:
+  []
+why_confusing: buzz 也可指兴奋气氛或传言。

@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: incredulity
+word: incredulity
+pos: noun
+zh: 怀疑，不相信
+en: Means 怀疑，不相信; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: cred
+    form: cred
+    meaning_in_word: 相信、信用
+    zh: 相信、信用
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:cred.
+  - morpheme: ul
+    form: -ul
+    meaning_in_word: 小的；小型的
+    zh: 小的；小型的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ul.
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:ity.
+word_family:
+  - incredible
+word_family_details:
+  - word: incredible
+    en: Means 难以置信的，惊人的; reviewed from the TOEFL source gloss for learner display.
+    zh: 难以置信的，惊人的
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

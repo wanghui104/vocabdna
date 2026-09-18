@@ -1,0 +1,23 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fir
+word: fir
+pos: noun
+zh: 冷杉；冷杉木
+en: an evergreen conifer of the genus Abies, or its wood
+components:
+  - morpheme: fir
+    form: fir
+    meaning_in_word: fir tree / 冷杉
+    zh: 冷杉
+    role: root
+    is_core: true
+    note: 日耳曼树名；词典对英语借入路径有不同解释，停止于可信树名层，不硬拆。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  []
+examples:
+  []
+why_confusing: 

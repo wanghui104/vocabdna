@@ -1,0 +1,63 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: literally
+word: literally
+pos: verb/adverb
+zh: 照字面意义地，逐字地
+en: Means 照字面意义地，逐字地; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: liter
+    form: liter
+    meaning_in_word: 字母；文字
+    zh: 字母；文字
+    role: root
+    is_core: true
+    note: Reviewed surface piece; source/deeper layer shown on root root:liter.
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:al.
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+    note: Reviewed surface piece; source/deeper layer shown on root root:ly.
+word_family:
+  - literary
+  - literate
+  - literacy
+  - illiterate
+  - semiliterate
+  - obliterate
+  - iterate
+word_family_details:
+  - word: literary
+    en: Means 文学（上）的，从事写作的; reviewed from the TOEFL source gloss for learner display.
+    zh: 文学（上）的，从事写作的
+  - word: literate
+    en: Means 有文化的，有阅读和写作能力的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有文化的，有阅读和写作能力的
+  - word: literacy
+    en: Means 有读写能力，识字; reviewed from the TOEFL source gloss for learner display.
+    zh: 有读写能力，识字
+  - word: illiterate
+    en: Means 不识字的，没受教育的; reviewed from the TOEFL source gloss for learner display.
+    zh: 不识字的，没受教育的
+  - word: semiliterate
+    en: Means 半文盲，有初等文化者; reviewed from the TOEFL source gloss for learner display.
+    zh: 半文盲，有初等文化者
+  - word: obliterate
+    en: Means 涂掉，擦掉; reviewed from the TOEFL source gloss for learner display.
+    zh: 涂掉，擦掉
+  - word: iterate
+    en: Means 反复说，重申; reviewed from the TOEFL source gloss for learner display.
+    zh: 反复说，重申
+confusables:
+  []
+examples:
+  []
+why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.

@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: influenza
+word: influenza
+pos: noun
+zh: 流行性感冒
+en: Means 流行性感冒; reviewed from the TOEFL source gloss for learner display.
+components:
+  - morpheme: in
+    form: in-
+    meaning_in_word: 在内、进入、到……上
+    zh: 在内、进入、到……上
+    role: prefix
+    is_core: false
+    note: Reviewed surface piece; deeper source is shown on root root:in.
+  - morpheme: flu
+    form: flu
+    meaning_in_word: 流动
+    zh: 流动
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:flu.
+  - morpheme: enza
+    form: enza
+    meaning_in_word: enza
+    zh: enza
+    role: root
+    is_core: true
+    note: Reviewed surface piece; deeper source is shown on root root:enza.
+word_family:
+  - influential
+  - influx
+word_family_details:
+  - word: influential
+    en: Means 有影响的；有权势的; reviewed from the TOEFL source gloss for learner display.
+    zh: 有影响的；有权势的
+  - word: influx
+    en: Means 流入，汇集; reviewed from the TOEFL source gloss for learner display.
+    zh: 流入，汇集
+confusables:
+  []
+examples:
+  []
+why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.

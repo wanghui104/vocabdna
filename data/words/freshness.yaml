@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: freshness
+word: freshness
+pos: noun
+zh: 新鲜；清新；活力
+en: the quality of being new, clean, unspoiled, or lively
+components:
+  - morpheme: fresh
+    form: fresh
+    meaning_in_word: fresh / 新鲜
+    zh: 新鲜
+    role: root
+    is_core: true
+    note: 古英语及日耳曼词，含历史音位换位；freshly/freshness 用现代 fresh 加后缀。
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: state, quality / 状态；性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - fresh
+  - freshly
+word_family_details:
+  - word: fresh
+    en: recently made or obtained
+    zh: 新鲜的
+  - word: freshly
+    en: recently or newly
+    zh: 新近；刚刚
+confusables:
+  []
+examples:
+  []
+why_confusing: 

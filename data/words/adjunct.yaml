@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: adjunct
+word: adjunct
+pos: noun/adjective
+zh: 附件；附属物；附属的
+en: something added to another thing but not an essential part of it
+components:
+  - morpheme: ad
+    form: ad-
+    meaning_in_word: to
+    zh: 去、向、靠近
+    role: prefix
+    is_core: false
+  - morpheme: junct-join
+    form: junct
+    meaning_in_word: joined
+    zh: 连接；结合
+    role: root
+    is_core: true
+word_family:
+  - adjoin
+  - adjoining
+word_family_details:
+  - word: adjoin
+    en: to be next to and usually touching another place or thing
+    zh: 毗连；邻接
+  - word: adjoining
+    en: next to and connected with something
+    zh: 毗邻的；相连的
+confusables:
+  []
+examples:
+  - en: The lab is an adjunct to the main course.
+    zh: 实验课是主课的附属部分。
+why_confusing: adjunct professor 是兼职/附属职位，不等于 assistant professor。
