@@ -1,0 +1,59 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: theistically
+word: theistically
+pos: adverb
+zh: 从有神论角度；以有神论方式
+en: from a theistic standpoint
+components:
+  - morpheme: theo
+    form: the
+    meaning_in_word: god / 神
+    zh: 神；神明
+    role: root
+    is_core: true
+    note: the- 来自 Greek theos；与冠词 the 无关。
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person holding a position / 持某种立场的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关的
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: adjectival extension / 形容词构词扩展
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: 副词采用 -ically；表层拆为 -ic + -al + -ly。
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner / 以……方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - theism
+  - theist
+  - theistic
+word_family_details:
+  - word: theism
+    en: belief that a god or gods exist
+    zh: 有神论
+  - word: theist
+    en: a person who believes that a god or gods exist
+    zh: 有神论者
+  - word: theistic
+    en: relating to theism or belief in a god or gods
+    zh: 有神论的
+confusables:
+  []
+examples:
+  - en: The philosopher interprets the question theistically.
+    zh: 这位哲学家从有神论角度解释这个问题。
+why_confusing: 较少见的正式副词；一般也可说 from a theistic perspective。

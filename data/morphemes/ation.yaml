@@ -18,6 +18,10 @@ senses:
       - depredation
       - desalination
       - evaporation
+      - generalisation
+      - generalization
+      - generation
+      - generational
       - gyration
       - hibernation
       - illumination
@@ -47,6 +51,8 @@ senses:
       - occupation
       - orientation
       - ornamentation
+      - pedestrianisation
+      - pedestrianization
       - perspiration
       - plantation
       - pollination
@@ -101,6 +107,10 @@ patterns:
   - -ation -> depredation
   - -ation -> desalination
   - -ation -> evaporation
+  - -ation -> generalisation
+  - -ation -> generalization
+  - -ation -> generation
+  - -ation -> generational
   - -ation -> gyration
   - -ation -> hibernation
   - -ation -> illumination
@@ -130,6 +140,8 @@ patterns:
   - -ation -> occupation
   - -ation -> orientation
   - -ation -> ornamentation
+  - -ation -> pedestrianisation
+  - -ation -> pedestrianization
   - -ation -> perspiration
   - -ation -> plantation
   - -ation -> pollination
@@ -180,6 +192,10 @@ high_value_words:
   - depredation
   - desalination
   - evaporation
+  - generalisation
+  - generalization
+  - generation
+  - generational
   - gyration
   - hibernation
   - illumination
@@ -209,6 +225,8 @@ high_value_words:
   - occupation
   - orientation
   - ornamentation
+  - pedestrianisation
+  - pedestrianization
   - perspiration
   - plantation
   - pollination

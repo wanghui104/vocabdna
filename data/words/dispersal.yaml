@@ -2,36 +2,61 @@
 id: dispersal
 word: dispersal
 pos: noun
-zh: 疏散；散布；散开
-en: the act or process of dispersing
+zh: 散布；分散；散开；疏散
+en: the process or outcome of people or things spreading away from a place
 components:
   - morpheme: dis
     form: di-
-    meaning_in_word: apart, not / 分开；不
+    meaning_in_word: apart / 分开
     zh: 分开；不
     role: prefix
     is_core: false
-    note: The prefix dis- appears as di- before the s of the scatter stem.
+    note: 此处 di- 对应词源 dis-；Latin dis- + spargere → dispergere/dispersus。
   - morpheme: spars
     form: spers
-    meaning_in_word: scatter / 散布；分散
+    meaning_in_word: scatter / 撒开、散布
     zh: 散布；分散
     role: root
     is_core: true
+    note: disperse 接词尾时采用 dispers-；教学拆分保留 di- + spers-。
   - morpheme: al-action
     form: -al
-    meaning_in_word: act or result of / 行为或结果
+    meaning_in_word: act or result / 行为或结果
     zh: 行为或结果
     role: suffix
     is_core: false
+    note: 名词后缀 -al；disperse 去词尾 e 再接 -al，不是形容词后缀。
 word_family:
   - disperse
+  - dispersion
+  - dispersed
+  - dispersing
+  - dispersive
+  - dispersible
 word_family_details:
   - word: disperse
-    en: to scatter or spread over a wide area
-    zh: 分散；散开；驱散
+    en: to spread or move apart in different directions, or cause this to happen
+    zh: 分散；散开；散布；驱散
+  - word: dispersion
+    en: spreading or the state of being spread out; also statistical spread, optical separation, or a mixture with dispersed particles
+    zh: 分散；散布状态；离散程度；色散；分散体系
+  - word: dispersed
+    en: spread over an area or through a medium; the past tense and past participle of disperse
+    zh: 分散的；散布的；使散开了（过去式、过去分词）
+  - word: dispersing
+    en: spreading out or causing something to spread; the present participle of disperse
+    zh: 正在散开；正在散布；起分散作用的
+  - word: dispersive
+    en: tending to spread things out or involving dispersion, especially of waves or light
+    zh: 使分散的；有色散作用的
+  - word: dispersible
+    en: capable of being spread as particles through a medium
+    zh: 可分散的；易分散的
 confusables:
   []
 examples:
-  []
-why_confusing: dispersal 是名词，常用于人群、种子、物种扩散。
+  - en: The plan provided several routes for the dispersal of visitors.
+    zh: 该方案为访客疏散安排了多条路线。
+  - en: Birds play an important role in seed dispersal.
+    zh: 鸟类在种子传播中发挥着重要作用。
+why_confusing: 读音 /dɪˈspɜːrsəl/。常见 seed dispersal、the dispersal of a crowd。与 dispersion 在一般散布义上重叠；光学色散和统计离散程度通常用 dispersion。

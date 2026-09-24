@@ -47,6 +47,7 @@ senses:
       - fragility
       - frivolity
       - frugality
+      - generality
       - gentility
       - gravity
       - heredity
@@ -98,6 +99,9 @@ senses:
       - victuosity
       - vitality
       - artificiality
+      - primitivity
+      - susceptibility
+      - susceptibilities
 similar_form:
   []
 similar_meaning:
@@ -135,6 +139,7 @@ patterns:
   - -ity -> fragility
   - -ity -> frivolity
   - -ity -> frugality
+  - -ity -> generality
   - -ity -> gentility
   - -ity -> gravity
   - -ity -> heredity
@@ -186,6 +191,9 @@ patterns:
   - -ity -> victuosity
   - -ity -> vitality
   - -ity -> artificiality
+  - -ity -> primitivity
+  - -ity -> susceptibility
+  - -iti -> susceptibilities
 high_value_words:
   - ability
   - accessibility
@@ -219,6 +227,7 @@ high_value_words:
   - fragility
   - frivolity
   - frugality
+  - generality
   - gentility
   - gravity
   - heredity
@@ -270,5 +279,8 @@ high_value_words:
   - victuosity
   - vitality
   - artificiality
+  - primitivity
+  - susceptibility
+  - susceptibilities
 confusable_words:
   []

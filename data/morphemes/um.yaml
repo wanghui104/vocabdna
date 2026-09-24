@@ -21,6 +21,10 @@ senses:
       - optimum
       - quantum theory
       - stratum
+      - atrium
+      - atriums
+      - forum
+      - forums
 similar_form:
   []
 similar_meaning:
@@ -32,6 +36,10 @@ patterns:
   - -um -> optimum
   - um -> quantum theory
   - -um -> stratum
+  - -um -> atrium
+  - -um -> atriums
+  - -um -> forum
+  - -um -> forums
 high_value_words:
   - flagellum
   - helium
@@ -39,5 +47,9 @@ high_value_words:
   - optimum
   - quantum theory
   - stratum
+  - atrium
+  - atriums
+  - forum
+  - forums
 confusable_words:
   []

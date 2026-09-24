@@ -1,23 +1,38 @@
 # Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: hamper
 word: hamper
-pos: verb
-zh: 妨碍，使困难
-en: Means 妨碍，使困难; reviewed from the TOEFL source gloss and adjusted for learner display.
+pos: verb/noun
+zh: 妨碍；阻碍；大篮筐（名词）
+en: to make movement or progress more difficult; as a separate noun use, a large basket for storing or carrying things
 components:
   - morpheme: hamper
     form: hamper
-    meaning_in_word: 篮；阻碍
-    zh: 妨碍，使困难
+    meaning_in_word: hinder; basket (separate noun use) / 妨碍；篮筐（另列名词义）
+    zh: 妨碍（动词）；篮筐（名词，来源另述）
     role: root
     is_core: true
-    note: Reviewed surface piece; source shown on root:hamper.
+    note: 两种词性分开释义；动词词源不确定，名词可追溯至 Anglo-French hanaper 盛杯的容器。
 word_family:
-  []
+  - hampered
+  - hampering
+  - unhampered
 word_family_details:
-  []
+  - word: hampered
+    en: restricted or hindered; the past tense and past participle of hamper
+    zh: 受到妨碍的；阻碍了（过去式、过去分词）
+  - word: hampering
+    en: interfering with progress or activity; the present participle of hamper
+    zh: 正在妨碍；造成阻碍的
+  - word: unhampered
+    en: able to proceed without being hindered or restricted
+    zh: 不受妨碍的；不受限制的
 confusables:
   []
 examples:
-  []
-why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.
+  - en: Heavy rain can hamper outdoor work.
+    zh: 大雨会妨碍户外作业。
+  - en: The tight sleeves hampered her movements.
+    zh: 紧窄的袖子限制了她的动作。
+  - en: Put the towels in the laundry hamper.
+    zh: 把毛巾放进洗衣篮里。
+why_confusing: 读音 /ˈhæmpər/。动词通常直接接宾语：hamper progress/efforts/movement；常用 be hampered by。篮筐义不是妨碍动作的名词化，两义是否同源未定。hinder/impede 是近义词，不是 hamper 的派生词。

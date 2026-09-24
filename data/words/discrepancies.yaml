@@ -1,0 +1,54 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discrepancies
+word: discrepancies
+pos: noun
+zh: 差异；多处不一致；不符之处（复数）
+en: the plural of discrepancy: differences or inconsistencies
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart; differently / 分开；不同
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: 与 crepare 组合后表示声音不一致，进而指不相符。
+  - morpheme: crep
+    form: crep
+    meaning_in_word: sound; rattle / 发声；咔嗒作响
+    zh: 发声；咔嗒作响
+    role: root
+    is_core: true
+    note: Latin crepare → discrepare“不协调、不一致”。
+  - morpheme: ancy
+    form: -anci
+    meaning_in_word: state or instance / 状态或具体表现
+    zh: 状态
+    role: suffix
+    is_core: false
+    note: discrepancy 变复数时 y 改为 i，再接 -es。
+  - morpheme: s
+    form: -es
+    meaning_in_word: plural / 复数
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+word_family:
+  - discrepancy
+  - discrepant
+  - discrepantly
+word_family_details:
+  - word: discrepancy
+    en: a mismatch between things, especially figures or accounts expected to agree
+    zh: 差异；不一致；不相符之处
+  - word: discrepant
+    en: not agreeing with something else
+    zh: 不一致的；有差异的；相互矛盾的
+  - word: discrepantly
+    en: in ways that do not agree
+    zh: 不一致地；有出入地
+confusables:
+  []
+examples:
+  - en: The editor asked the authors to explain the discrepancies in the dates.
+    zh: 编辑请作者解释日期中的几处不一致。
+why_confusing: 复数拼写为 discrepancies，不是 discrepancys；常见 identify、explain、resolve discrepancies。

@@ -85,6 +85,7 @@ senses:
       - vigorous
       - viscous
       - zealous
+      - precipitously
 similar_form:
   []
 similar_meaning:
@@ -161,6 +162,7 @@ patterns:
   - -ous -> vigorous
   - -ous -> viscous
   - -ous -> zealous
+  - -ous -> precipitously
 high_value_words:
   - adventurous
   - ambitious
@@ -233,5 +235,6 @@ high_value_words:
   - vigorous
   - viscous
   - zealous
+  - precipitously
 confusable_words:
   []

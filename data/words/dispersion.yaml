@@ -1,0 +1,66 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dispersion
+word: dispersion
+pos: noun
+zh: 分散；散布状态；离散程度；色散；分散体系
+en: spreading or the state of being spread out; also statistical spread, optical separation, or a mixture with dispersed particles
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart / 分开
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: 此处 di- 对应词源 dis-；Latin dis- + spargere → dispergere/dispersus。
+  - morpheme: spars
+    form: spers
+    meaning_in_word: scatter / 撒开、散布
+    zh: 散布；分散
+    role: root
+    is_core: true
+    note: disperse 接词尾时采用 dispers-；教学拆分保留 di- + spers-。
+  - morpheme: ion
+    form: -ion
+    meaning_in_word: process or state / 过程、状态
+    zh: 行为、过程、结果
+    role: suffix
+    is_core: false
+    note: Latin dispersio/dispers ion- 的名词构词层；教学表层 spers- + -ion，不能按拼写重复添加 s。
+word_family:
+  - disperse
+  - dispersal
+  - dispersed
+  - dispersing
+  - dispersive
+  - dispersible
+word_family_details:
+  - word: disperse
+    en: to spread or move apart in different directions, or cause this to happen
+    zh: 分散；散开；散布；驱散
+  - word: dispersal
+    en: the process or outcome of people or things spreading away from a place
+    zh: 散布；分散；散开；疏散
+  - word: dispersed
+    en: spread over an area or through a medium; the past tense and past participle of disperse
+    zh: 分散的；散布的；使散开了（过去式、过去分词）
+  - word: dispersing
+    en: spreading out or causing something to spread; the present participle of disperse
+    zh: 正在散开；正在散布；起分散作用的
+  - word: dispersive
+    en: tending to spread things out or involving dispersion, especially of waves or light
+    zh: 使分散的；有色散作用的
+  - word: dispersible
+    en: capable of being spread as particles through a medium
+    zh: 可分散的；易分散的
+confusables:
+  []
+examples:
+  - en: The map shows the dispersion of settlements across the valley.
+    zh: 地图显示了聚落在山谷中的分散分布。
+  - en: The two datasets have the same mean but different dispersion.
+    zh: 这两组数据的均值相同，但离散程度不同。
+  - en: A prism demonstrates the dispersion of white light into colors.
+    zh: 棱镜展示了白光分解成不同颜色的色散现象。
+  - en: The laboratory prepared a dispersion of fine particles in water.
+    zh: 实验室制备了细颗粒分散在水中的分散体系。
+why_confusing: 读音 /dɪˈspɜːrʒən/（也有 /ʃ/ 读法）。dispersal 常见于实际散布过程，dispersion 还有统计、物理和化学专门义；这种区分是用法倾向，不是严格互斥。

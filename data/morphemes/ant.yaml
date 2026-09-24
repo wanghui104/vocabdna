@@ -77,6 +77,8 @@ senses:
       - tolerant
       - vacant
       - vibrant
+      - discrepant
+      - discrepantly
 similar_form:
   []
 similar_meaning:
@@ -144,6 +146,8 @@ patterns:
   - -ant -> tolerant
   - -ant -> vacant
   - -ant -> vibrant
+  - -ant -> discrepant
+  - -ant -> discrepantly
 high_value_words:
   - coherent
   - competent
@@ -207,5 +211,7 @@ high_value_words:
   - tolerant
   - vacant
   - vibrant
+  - discrepant
+  - discrepantly
 confusable_words:
   []

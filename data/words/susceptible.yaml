@@ -2,35 +2,58 @@
 id: susceptible
 word: susceptible
 pos: adjective
-zh: 易受影响的；敏感的，过敏的
-en: Means 易受影响的；敏感的，过敏的; reviewed from the TOEFL source gloss for learner display.
+zh: 易受影响的；易感的；易动感情的；可接受某种处理的
+en: easily affected by an influence, emotionally impressionable, or capable of undergoing a process
 components:
   - morpheme: sus
     form: sus-
-    meaning_in_word: under; up from below / 在下；从下
+    meaning_in_word: up from under / 从下向上
     zh: 从下支撑；在下
     role: prefix
     is_core: false
+    note: sub- 的变体；与 capere 组合成 suscipere“拿起、接受”。
+    related_morphemes:
+      - sub
   - morpheme: cept
     form: cept
     meaning_in_word: take; receive / 拿；接受
     zh: 取；理解
     role: root
     is_core: true
+    note: Latin susceptus 的词干部分；更深层 capere 见词根页。
+    related_morphemes:
+      - cap
   - morpheme: ible
     form: -ible
-    meaning_in_word: able to be / 能被…的
+    meaning_in_word: able to be / 能被……的
     zh: 可……的
     role: suffix
     is_core: false
 word_family:
   - susceptible-to
+  - susceptibility
+  - susceptibilities
+  - susceptibly
 word_family_details:
   - word: susceptible-to
-    en: Means 易受…影响; reviewed from the TOEFL source gloss for learner display.
-    zh: 易受…影响
+    en: likely to be affected by a specified influence
+    zh: 易受……影响的；易发生……的
+  - word: susceptibility
+    en: the tendency to be affected by something; also a physical measure of response to a field
+    zh: 易感性；易受影响的程度；感受性；（物理）磁化率或电极化率
+  - word: susceptibilities
+    en: plural of susceptibility: tendencies to be affected, or personal feelings and sensitivities
+    zh: 易感倾向；敏感之处；感情、自尊（复数）
+  - word: susceptibly
+    en: in a manner that is easily influenced or emotionally affected
+    zh: 易受影响地；易动感情地
 confusables:
   []
 examples:
-  []
-why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。
+  - en: The metal is susceptible to corrosion.
+    zh: 这种金属容易受到腐蚀。
+  - en: He is particularly susceptible to flattery.
+    zh: 他尤其容易受到奉承的影响。
+  - en: The claim is susceptible to verification.
+    zh: 这一说法可以加以核实。
+why_confusing: 读音 /səˈseptəbəl/。通常用 susceptible to + 名词或动名词；正式用法也有 susceptible of。它不等同于 allergic“过敏的”。receptive 常强调愿意接纳，susceptible 常强调容易受到作用或影响。

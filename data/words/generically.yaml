@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: generically
+word: generically
+pos: adverb
+zh: 笼统地；按类别；以通用名称
+en: in terms of a general class or a nonbrand name
+components:
+  - morpheme: gener
+    form: gener
+    meaning_in_word: kind; produce / 类别；产生
+    zh: 种类；血统；产生
+    role: root
+    is_core: true
+    note: Latin genus/generis 的 gener- 词干；不同分支分别突出类别或产生。
+    related_morphemes:
+      - gen-origin
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - generic
+word_family_details:
+  - word: generic
+    en: applying to a class rather than one member, or sold without a particular brand; also a nonbranded product
+    zh: 通用的；一般性的；非品牌的；无品牌产品
+confusables:
+  - word: genetically
+    reason: 与 genetically（在遗传上）区别。
+    zh_reason: 与 genetically（在遗传上）区别。
+examples:
+  - en: These devices are generically called sensors.
+    zh: 这些设备统称为传感器。
+why_confusing: 与 genetically（在遗传上）区别。

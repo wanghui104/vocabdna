@@ -78,8 +78,13 @@ senses:
       - ferromagnetic
       - frenetic
       - galactic
+      - genealogical
+      - genealogically
+      - generic
+      - generically
       - genetic
-      - genetics
+      - genetically
+      - geneticist
       - geomagnetic
       - gigantic
       - graphic
@@ -116,10 +121,14 @@ senses:
       - optimistic
       - organic
       - organically
+      - paediatric
+      - paediatrician
       - parasitic
       - patriotic
       - pedagogic
       - pedagogical
+      - pediatric
+      - pediatrician
       - periodic
       - periodical
       - philharmonic
@@ -140,6 +149,14 @@ senses:
       - toxic
       - ultrasonic
       - volcanic
+      - forensic
+      - forensically
+      - atheistic
+      - atheistically
+      - theistic
+      - theistically
+      - theological
+      - theologically
 similar_form:
   []
 similar_meaning:
@@ -209,8 +226,13 @@ patterns:
   - -ic -> ferromagnetic
   - -ic -> frenetic
   - -ic -> galactic
+  - -ic -> genealogical
+  - -ic -> genealogically
+  - -ic -> generic
+  - -ic -> generically
   - -ic -> genetic
-  - -ic -> genetics
+  - -ic -> genetically
+  - -ic -> geneticist
   - -ic -> geomagnetic
   - -ic -> gigantic
   - -ic -> graphic
@@ -247,10 +269,14 @@ patterns:
   - -ic -> optimistic
   - -ic -> organic
   - -ic -> organically
+  - -ic -> paediatric
+  - -ic -> paediatrician
   - -ic -> parasitic
   - -ic -> patriotic
   - -ic -> pedagogic
   - -ic -> pedagogical
+  - -ic -> pediatric
+  - -ic -> pediatrician
   - -ic -> periodic
   - -ic -> periodical
   - -ic -> philharmonic
@@ -271,6 +297,14 @@ patterns:
   - -ic -> toxic
   - -ic -> ultrasonic
   - -ic -> volcanic
+  - -ic -> forensic
+  - -ic -> forensically
+  - -ic -> atheistic
+  - -ic -> atheistically
+  - -ic -> theistic
+  - -ic -> theistically
+  - -ic -> theological
+  - -ic -> theologically
 high_value_words:
   - aesthetic
   - anesthetic
@@ -336,8 +370,13 @@ high_value_words:
   - ferromagnetic
   - frenetic
   - galactic
+  - genealogical
+  - genealogically
+  - generic
+  - generically
   - genetic
-  - genetics
+  - genetically
+  - geneticist
   - geomagnetic
   - gigantic
   - graphic
@@ -374,10 +413,14 @@ high_value_words:
   - optimistic
   - organic
   - organically
+  - paediatric
+  - paediatrician
   - parasitic
   - patriotic
   - pedagogic
   - pedagogical
+  - pediatric
+  - pediatrician
   - periodic
   - periodical
   - philharmonic
@@ -398,5 +441,13 @@ high_value_words:
   - toxic
   - ultrasonic
   - volcanic
+  - forensic
+  - forensically
+  - atheistic
+  - atheistically
+  - theistic
+  - theistically
+  - theological
+  - theologically
 confusable_words:
   []

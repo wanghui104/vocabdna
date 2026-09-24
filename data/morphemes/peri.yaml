@@ -1,33 +1,37 @@
 # Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: peri
-display: peri
-type: root
-core_meaning: peri
-zh: peri
-origin: teaching morphology
-source_form: peri
-source_meaning: peri
-source_meaning_zh: peri
+display: peri-
+type: prefix
+core_meaning: around; about
+zh: 周围；在……前后
+origin: Greek
+source_form: Greek περί (peri)
+source_meaning: around; about
+source_meaning_zh: 周围；在……前后
+source_note: 空间上环绕，时间上在某事件前后；peripartum 指围分娩期。参考 https://www.etymonline.com/word/peri- ; https://www.merriam-webster.com/medical/peripartum 。
 related_morphemes:
   []
 senses:
-  - meaning: peri
-    zh: peri
+  - meaning: around; about
+    zh: 周围；在……前后
     examples:
       - perimeter
       - peripheral
       - periphery
+      - peripartum
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - peri -> perimeter
-  - peri -> peripheral
-  - peri -> periphery
+  - peri- -> perimeter
+  - peri- -> peripheral
+  - peri- -> periphery
+  - peri- -> peripartum
 high_value_words:
   - perimeter
   - peripheral
   - periphery
+  - peripartum
 confusable_words:
   []

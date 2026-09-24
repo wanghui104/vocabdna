@@ -6,11 +6,11 @@ zh: 边缘，周边地带
 en: Means 边缘，周边地带; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: peri
-    form: peri
-    meaning_in_word: peri / peri
-    zh: peri
-    role: root
-    is_core: true
+    form: peri-
+    meaning_in_word: around; about / 周围；在……前后
+    zh: 周围；在……前后
+    role: prefix
+    is_core: false
   - morpheme: meter
     form: meter
     meaning_in_word: measure / 测量

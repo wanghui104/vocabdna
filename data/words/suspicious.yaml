@@ -11,6 +11,8 @@ components:
     zh: 从下支撑；在下
     role: prefix
     is_core: false
+    related_morphemes:
+      - sub
   - morpheme: spic
     form: spic
     meaning_in_word: look / 看

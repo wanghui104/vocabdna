@@ -59,6 +59,12 @@ senses:
       - prevalent
       - unprecedented
       - unpredictable
+      - precipitated
+      - precipitating
+      - precipitately
+      - precipitously
+      - prenatal
+      - prenatally
 similar_form:
   []
 similar_meaning:
@@ -109,6 +115,12 @@ patterns:
   - pre- -> prevalent
   - pre -> unprecedented
   - pre -> unpredictable
+  - pre- -> precipitated
+  - pre- -> precipitating
+  - pre- -> precipitately
+  - pre- -> precipitously
+  - pre- -> prenatal
+  - pre- -> prenatally
 high_value_words:
   - precaution
   - precede
@@ -155,5 +167,11 @@ high_value_words:
   - prevalent
   - unprecedented
   - unpredictable
+  - precipitated
+  - precipitating
+  - precipitately
+  - precipitously
+  - prenatal
+  - prenatally
 confusable_words:
   []

@@ -19,6 +19,16 @@ senses:
       - dietitian
       - equestrian
       - magician
+      - paediatrician
+      - pedestrian
+      - pedestrianisation
+      - pedestrianise
+      - pedestrianised
+      - pedestrianization
+      - pedestrianize
+      - pedestrianized
+      - pediatrician
+      - theologian
 similar_form:
   []
 similar_meaning:
@@ -29,11 +39,31 @@ patterns:
   - -itian -> dietitian
   - ian -> equestrian
   - -ian -> magician
+  - -ian -> paediatrician
+  - -ian -> pedestrian
+  - -ian -> pedestrianisation
+  - -ian -> pedestrianise
+  - -ian -> pedestrianised
+  - -ian -> pedestrianization
+  - -ian -> pedestrianize
+  - -ian -> pedestrianized
+  - -ian -> pediatrician
+  - -ian -> theologian
 high_value_words:
   - academician
   - custodian
   - dietitian
   - equestrian
   - magician
+  - paediatrician
+  - pedestrian
+  - pedestrianisation
+  - pedestrianise
+  - pedestrianised
+  - pedestrianization
+  - pedestrianize
+  - pedestrianized
+  - pediatrician
+  - theologian
 confusable_words:
   []

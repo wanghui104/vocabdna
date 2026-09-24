@@ -5,16 +5,17 @@ pos: adjective
 zh: 显著的，突出的
 en: Means 显著的，突出的; reviewed from the TOEFL source gloss for learner display.
 components:
-  - morpheme: sal
-    form: sal
-    meaning_in_word: leap/salt / 跃出；盐
-    zh: 盐
+  - morpheme: sali
+    form: sali
+    meaning_in_word: leap, spring out / 跃起、突出
+    zh: 跳出；跃起
     role: root
     is_core: true
-  - morpheme: ient
-    form: -ient
-    meaning_in_word: being; doing / 正在/具有
-    zh: ient
+    note: 来自 Latin salire 跳跃；显著之处像跳到眼前，与盐无关。
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: being or doing / 正在……的
+    zh: 具有…性质
     role: suffix
     is_core: false
 word_family:
@@ -25,4 +26,4 @@ confusables:
   []
 examples:
   []
-why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。 salient 与 resilience 共享 salire 跳跃词源，但属于不同词族；这里不是 sal 盐。

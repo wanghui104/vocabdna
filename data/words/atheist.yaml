@@ -3,34 +3,47 @@ id: atheist
 word: atheist
 pos: noun
 zh: 无神论者
-en: a person who does not believe in the existence of a god or gods
+en: a person who does not believe that any gods exist
 components:
   - morpheme: an
     form: a-
-    meaning_in_word: without, not
+    meaning_in_word: not; without / 不；无
     zh: 不；无
     role: prefix
     is_core: false
+    note: Greek 否定前缀 a-，不是英语冠词 a。
   - morpheme: theo
     form: the
-    meaning_in_word: god
+    meaning_in_word: god / 神
     zh: 神；神明
     role: root
     is_core: true
+    note: the- 来自 Greek theos；与冠词 the 无关。
   - morpheme: ist
     form: -ist
-    meaning_in_word: person with a belief or position
+    meaning_in_word: person holding a position / 持某种立场的人
     zh: 从事……的人
     role: suffix
     is_core: false
 word_family:
-  []
+  - atheism
+  - atheistic
+  - atheistically
 word_family_details:
-  []
+  - word: atheism
+    en: lack of belief in gods, or the position that no gods exist
+    zh: 无神论；不信神的立场
+  - word: atheistic
+    en: relating to atheism or expressing an atheist position
+    zh: 无神论的
+  - word: atheistically
+    en: from an atheist standpoint
+    zh: 从无神论角度；以无神论方式
 confusables:
   - word: theist
-    reason: 注意具体词性和搭配，不要只按中文直译。
-    zh_reason: 注意具体词性和搭配，不要只按中文直译。
+    reason: atheist /ˈeɪθiɪst/ 与 theist“有神论者”相对。theologian 是神学研究者，属于研究身份；atheism 则是信仰立场名词。
+    zh_reason: atheist /ˈeɪθiɪst/ 与 theist“有神论者”相对。theologian 是神学研究者，属于研究身份；atheism 则是信仰立场名词。
 examples:
-  []
-why_confusing: 注意具体词性和搭配，不要只按中文直译。
+  - en: The interviewee described herself as an atheist.
+    zh: 受访者称自己是一名无神论者。
+why_confusing: atheist /ˈeɪθiɪst/ 与 theist“有神论者”相对。theologian 是神学研究者，属于研究身份；atheism 则是信仰立场名词。

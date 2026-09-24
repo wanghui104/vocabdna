@@ -47,6 +47,9 @@ senses:
       - fossilized
       - galvanization
       - galvanize
+      - generalisation
+      - generalise
+      - generalization
       - generalize
       - harmonize
       - homogenize
@@ -60,6 +63,12 @@ senses:
       - monopolize
       - neutralize
       - patronizing
+      - pedestrianisation
+      - pedestrianise
+      - pedestrianised
+      - pedestrianization
+      - pedestrianize
+      - pedestrianized
       - polarize
       - publicize
       - realization
@@ -124,6 +133,9 @@ patterns:
   - -iz -> fossilized
   - -iz -> galvanization
   - -ize -> galvanize
+  - -is -> generalisation
+  - -ise -> generalise
+  - -iz -> generalization
   - -ize -> generalize
   - -ize -> harmonize
   - -ize -> homogenize
@@ -137,6 +149,12 @@ patterns:
   - -ize -> monopolize
   - -ize -> neutralize
   - -ize -> patronizing
+  - -is -> pedestrianisation
+  - -ise -> pedestrianise
+  - -is -> pedestrianised
+  - -iz -> pedestrianization
+  - -ize -> pedestrianize
+  - -iz -> pedestrianized
   - -ize -> polarize
   - -ize -> publicize
   - -ize -> realization
@@ -197,6 +215,9 @@ high_value_words:
   - fossilized
   - galvanization
   - galvanize
+  - generalisation
+  - generalise
+  - generalization
   - generalize
   - harmonize
   - homogenize
@@ -210,6 +231,12 @@ high_value_words:
   - monopolize
   - neutralize
   - patronizing
+  - pedestrianisation
+  - pedestrianise
+  - pedestrianised
+  - pedestrianization
+  - pedestrianize
+  - pedestrianized
   - polarize
   - publicize
   - realization

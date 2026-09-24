@@ -1,40 +1,68 @@
 # Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
 id: precipitate
 word: precipitate
-pos: verb
-zh: 促成；加速；猛地落下；沉淀物，降雨
-en: Means 促成；加速；猛地落下；沉淀物，降雨; reviewed from the TOEFL source gloss for learner display.
+pos: verb/noun/adjective
+zh: 促使突然发生；使沉淀、析出；形成降水；沉淀物（名词）；仓促的（形容词）
+en: to trigger an event or cause separation or falling; also a separated solid, or an adjective meaning rashly hasty
 components:
   - morpheme: pre
     form: pre-
-    meaning_in_word: before / 在前
+    meaning_in_word: before; forward / 在前；向前
     zh: 预先、在前
     role: prefix
     is_core: false
+    note: 此处 prae 表“在前、向前”；不是简单表示“预先”。
   - morpheme: cipit
     form: cipit
-    meaning_in_word: headlong; fall / 头朝下；落下
-    zh: 头朝下；落下
+    meaning_in_word: head / 头
+    zh: 头（用于头朝前、头朝下的意象）
     role: root
     is_core: true
+    note: Latin caput 的复合词变体；pre- + cipit- 形成“头朝前、猛落”的整体意象。
   - morpheme: ate
     form: -ate
-    meaning_in_word: make; act / 使；做
+    meaning_in_word: action or resulting quality / 动作或结果性质
     zh: 使成为、使做
     role: suffix
     is_core: false
+    note: 来自 Latin praecipitatus / praecipitare 的构词层；同一拼写可作动词、形容词或名词。
 word_family:
   - precipitation
+  - precipitated
+  - precipitating
+  - precipitately
   - precipitous
+  - precipitously
 word_family_details:
   - word: precipitation
-    en: Means 仓促，降雨量; reviewed from the TOEFL source gloss for learner display.
-    zh: 仓促，降雨量
+    en: water falling from the atmosphere or its amount; also solid separation or undue haste
+    zh: 降水；降水量；沉淀、析出过程；仓促
+  - word: precipitated
+    en: the past tense and past participle of precipitate, or describing material that has separated out
+    zh: 引发了；析出了；被促成的；沉淀析出的
+  - word: precipitating
+    en: the present participle of precipitate; also describing a factor that triggers an event
+    zh: 正在引发；正在析出；起诱发作用的
+  - word: precipitately
+    en: with excessive haste and too little thought
+    zh: 仓促地；轻率地
   - word: precipitous
-    en: Means 陡峭的; reviewed from the TOEFL source gloss for learner display.
-    zh: 陡峭的
+    en: very steep, sharply changing, or rashly hasty
+    zh: 陡峭的；骤然的；急剧的；仓促的
+  - word: precipitously
+    en: at a steep angle, with a sudden sharp change, or with undue haste
+    zh: 陡峭地；急剧地；骤然地；仓促地
 confusables:
   []
 examples:
-  []
-why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+  - en: The unexpected closure could precipitate a supply crisis.
+    zh: 这次意外停业可能引发供应危机。
+  - en: An insoluble compound precipitated from the solution.
+    zh: 一种不溶性化合物从溶液中析出。
+  - en: A white precipitate appeared when the solutions were mixed.
+    zh: 两种溶液混合后出现了白色沉淀物。
+  - en: A precipitate decision left the team unprepared.
+    zh: 一个仓促的决定让团队措手不及。
+  - en: Moisture may precipitate as snow at higher elevations.
+    zh: 在较高海拔处，水分可能以雪的形式降落。
+why_confusing: 动词常读 /prɪˈsɪpəteɪt/；形容词读 /prɪˈsɪpətət/，名词两种读法均见。precipitate 常指促使事件突然发生，不只是加快已有过程。化学中 a precipitate 是产物，precipitation 是形成过程。

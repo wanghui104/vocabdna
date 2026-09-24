@@ -2,21 +2,26 @@
 id: cipit
 display: cipit
 type: root
-core_meaning: headlong; fall
-zh: 头朝下；落下
-origin: teaching morphology
-source_form: cipit
-source_meaning: headlong; fall
-source_meaning_zh: 头朝下；落下
+core_meaning: head (in a headfirst or headlong image)
+zh: 头（用于头朝前、头朝下的意象）
+origin: Latin
+source_form: Latin caput (genitive capitis); praeceps (genitive praecipitis)
+source_meaning: head; headfirst, headlong
+source_meaning_zh: 头；头朝前、头朝下
+source_note: prae“在前、向前” + caput“头” → praeceps / praecipitis“头朝前、陡急的” → praecipitare“使猛落、仓促行动” → praecipitatus。表层保留 pre- + cipit-，cipit- 对应复合词中的“头”义变体；“猛落”来自整个组合，不是 cipit- 单独等于 fall。英语 precipitate 的直接形成可能为拉丁词借入或从 precipitation 逆构，故不把两者的英语先后关系定死。参考 https://www.etymonline.com/word/precipitate ; https://www.etymonline.com/word/precipitous ; https://www.merriam-webster.com/dictionary/precipitate ; https://www.merriam-webster.com/dictionary/precipitation ; https://www.merriam-webster.com/dictionary/precipitous 。释义改写，例句自编。
 related_morphemes:
   []
 senses:
-  - meaning: headlong; fall
-    zh: 头朝下；落下
+  - meaning: head (in a headfirst or headlong image)
+    zh: 头（用于头朝前、头朝下的意象）
     examples:
       - precipitate
       - precipitation
       - precipitous
+      - precipitated
+      - precipitating
+      - precipitately
+      - precipitously
 similar_form:
   []
 similar_meaning:
@@ -25,9 +30,17 @@ patterns:
   - cipit -> precipitate
   - cipit -> precipitation
   - cipit -> precipitous
+  - cipit -> precipitated
+  - cipit -> precipitating
+  - cipit -> precipitately
+  - cipit -> precipitously
 high_value_words:
   - precipitate
   - precipitation
   - precipitous
+  - precipitated
+  - precipitating
+  - precipitately
+  - precipitously
 confusable_words:
   []

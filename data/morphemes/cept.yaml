@@ -4,12 +4,13 @@ display: cept
 type: root
 core_meaning: taken; grasped
 zh: 取；理解
-origin: teaching morphology
-source_form: cept
-source_meaning: taken; grasped
-source_meaning_zh: 取；理解
+origin: Latin
+source_form: Latin capere; compound participial stem -cept-
+source_meaning: take; receive; taken
+source_meaning_zh: 拿；接受；被接受的
+source_note: capere“拿、接受”在复合动词中出现 -cipere，过去分词词干常为 -cept-；本词为 suscipere → susceptus → Late Latin susceptibilis。cept- 的深层 cap- 通过相关词根链接保留。参考 https://www.etymonline.com/word/susceptible ; https://www.etymonline.com/word/susceptibility ; https://www.merriam-webster.com/dictionary/susceptible ; https://www.merriam-webster.com/dictionary/susceptibility 。释义改写，例句自编。
 related_morphemes:
-  []
+  - cap
 senses:
   - meaning: taken; grasped
     zh: 取；理解
@@ -25,6 +26,9 @@ senses:
       - receptor
       - susceptible
       - susceptible to
+      - susceptibility
+      - susceptibilities
+      - susceptibly
 similar_form:
   []
 similar_meaning:
@@ -41,6 +45,9 @@ patterns:
   - cept -> receptor
   - cept -> susceptible
   - cept -> susceptible to
+  - cept -> susceptibility
+  - cept -> susceptibilities
+  - cept -> susceptibly
 high_value_words:
   - conception
   - misconception
@@ -53,5 +60,8 @@ high_value_words:
   - receptor
   - susceptible
   - susceptible to
+  - susceptibility
+  - susceptibilities
+  - susceptibly
 confusable_words:
   []

@@ -1,0 +1,67 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: susceptibility
+word: susceptibility
+pos: noun
+zh: 易感性；易受影响的程度；感受性；（物理）磁化率或电极化率
+en: the tendency to be affected by something; also a physical measure of response to a field
+components:
+  - morpheme: sus
+    form: sus-
+    meaning_in_word: up from under / 从下向上
+    zh: 从下支撑；在下
+    role: prefix
+    is_core: false
+    note: sub- 的变体；与 capere 组合成 suscipere“拿起、接受”。
+    related_morphemes:
+      - sub
+  - morpheme: cept
+    form: cept
+    meaning_in_word: take; receive / 拿；接受
+    zh: 取；理解
+    role: root
+    is_core: true
+    note: Latin susceptus 的词干部分；更深层 capere 见词根页。
+    related_morphemes:
+      - cap
+  - morpheme: ible
+    form: -ibil
+    meaning_in_word: able to be / 能被……的
+    zh: 可……的
+    role: suffix
+    is_core: false
+    note: -ible 接 -ity 时采用 -ibil- 形式。
+  - morpheme: ity
+    form: -ity
+    meaning_in_word: state or quality / 状态、性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: susceptible → susceptibility；可理解为形容词加性质名词词尾。
+word_family:
+  - susceptible
+  - susceptible-to
+  - susceptibilities
+  - susceptibly
+word_family_details:
+  - word: susceptible
+    en: easily affected by an influence, emotionally impressionable, or capable of undergoing a process
+    zh: 易受影响的；易感的；易动感情的；可接受某种处理的
+  - word: susceptible-to
+    en: likely to be affected by a specified influence
+    zh: 易受……影响的；易发生……的
+  - word: susceptibilities
+    en: plural of susceptibility: tendencies to be affected, or personal feelings and sensitivities
+    zh: 易感倾向；敏感之处；感情、自尊（复数）
+  - word: susceptibly
+    en: in a manner that is easily influenced or emotionally affected
+    zh: 易受影响地；易动感情地
+confusables:
+  []
+examples:
+  - en: The test measures the material’s susceptibility to corrosion.
+    zh: 该测试测量材料对腐蚀的易感程度。
+  - en: The experiment measured the sample’s magnetic susceptibility.
+    zh: 实验测量了样品的磁化率。
+  - en: The model includes the dielectric’s electric susceptibility.
+    zh: 该模型包含了电介质的电极化率。
+why_confusing: 常用 susceptibility to + 名词；形容词是 susceptible。物理专门义须结合 magnetic/electric 等修饰语，不应一律译为“易感性”。

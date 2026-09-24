@@ -100,6 +100,8 @@ senses:
       - wholesaler
       - artificer
       - hurdler
+      - straddler
+      - saddler
 similar_form:
   []
 similar_meaning:
@@ -190,6 +192,8 @@ patterns:
   - -er -> wholesaler
   - -er -> artificer
   - -er -> hurdler
+  - -er -> straddler
+  - -er -> saddler
 high_value_words:
   - condenser
   - contender
@@ -276,5 +280,7 @@ high_value_words:
   - wholesaler
   - artificer
   - hurdler
+  - straddler
+  - saddler
 confusable_words:
   []

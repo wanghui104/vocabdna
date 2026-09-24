@@ -42,6 +42,9 @@ senses:
       - symbolism
       - urbanism
       - vitalism
+      - primitivism
+      - atheism
+      - theism
 similar_form:
   []
 similar_meaning:
@@ -75,6 +78,9 @@ patterns:
   - -ism -> symbolism
   - -ism -> urbanism
   - -ism -> vitalism
+  - -ism -> primitivism
+  - -ism -> atheism
+  - -ism -> theism
 high_value_words:
   - absenteeism
   - cannibalism
@@ -104,5 +110,8 @@ high_value_words:
   - symbolism
   - urbanism
   - vitalism
+  - primitivism
+  - atheism
+  - theism
 confusable_words:
   []

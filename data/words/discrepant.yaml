@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discrepant
+word: discrepant
+pos: adjective
+zh: 不一致的；有差异的；相互矛盾的
+en: not agreeing with something else
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart; differently / 分开；不同
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: 与 crepare 组合后表示声音不一致，进而指不相符。
+  - morpheme: crep
+    form: crep
+    meaning_in_word: sound; rattle / 发声；咔嗒作响
+    zh: 发声；咔嗒作响
+    role: root
+    is_core: true
+    note: Latin crepare → discrepare“不协调、不一致”。
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having a quality / 具有……性质的
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+    note: Latin discrepans / discrepant-，discrepare 的现在分词词干。
+word_family:
+  - discrepancy
+  - discrepancies
+  - discrepantly
+word_family_details:
+  - word: discrepancy
+    en: a mismatch between things, especially figures or accounts expected to agree
+    zh: 差异；不一致；不相符之处
+  - word: discrepancies
+    en: the plural of discrepancy: differences or inconsistencies
+    zh: 差异；多处不一致；不符之处（复数）
+  - word: discrepantly
+    en: in ways that do not agree
+    zh: 不一致地；有出入地
+confusables:
+  []
+examples:
+  - en: The two surveys produced discrepant results.
+    zh: 两次调查得出了不一致的结果。
+why_confusing: 形容词修饰 results、accounts、figures 等；名词用 discrepancy。可用 discrepant from 表示与某个标准不一致。

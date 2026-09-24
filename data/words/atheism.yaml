@@ -1,0 +1,49 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: atheism
+word: atheism
+pos: noun
+zh: 无神论；不信神的立场
+en: lack of belief in gods, or the position that no gods exist
+components:
+  - morpheme: an
+    form: a-
+    meaning_in_word: not; without / 不；无
+    zh: 不；无
+    role: prefix
+    is_core: false
+    note: Greek 否定前缀 a-，不是英语冠词 a。
+  - morpheme: theo
+    form: the
+    meaning_in_word: god / 神
+    zh: 神；神明
+    role: root
+    is_core: true
+    note: the- 来自 Greek theos；与冠词 the 无关。
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: position or doctrine / 立场、学说
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+word_family:
+  - atheist
+  - atheistic
+  - atheistically
+word_family_details:
+  - word: atheist
+    en: a person who does not believe that any gods exist
+    zh: 无神论者
+  - word: atheistic
+    en: relating to atheism or expressing an atheist position
+    zh: 无神论的
+  - word: atheistically
+    en: from an atheist standpoint
+    zh: 从无神论角度；以无神论方式
+confusables:
+  - word: theism
+    reason: atheism /ˈeɪθiɪzəm/ 是立场，atheist 是人，atheistic 是形容词。词典用法可涵盖不信神，也可指明确主张神不存在。
+    zh_reason: atheism /ˈeɪθiɪzəm/ 是立场，atheist 是人，atheistic 是形容词。词典用法可涵盖不信神，也可指明确主张神不存在。
+examples:
+  - en: The seminar compared arguments for atheism and theism.
+    zh: 研讨课比较了支持无神论和有神论的论证。
+why_confusing: atheism /ˈeɪθiɪzəm/ 是立场，atheist 是人，atheistic 是形容词。词典用法可涵盖不信神，也可指明确主张神不存在。

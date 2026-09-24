@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: for-forum
+display: for
+type: root
+core_meaning: marketplace; public meeting place
+zh: 市场；公共集会场所
+origin: Latin
+source_form: Latin forum
+source_meaning: marketplace; public meeting place
+source_meaning_zh: 市场；公共集会场所
+source_note: for- 是 forum 去拉丁中性词尾 -um 后的教学词干，不能与英语介词 for 或前缀 fore- 混同。forum 在古罗马兼具公共事务与司法活动场所的含义；更早与 foris“外面”的联系仅属词源背景，本次不再拆分。 参考 https://www.etymonline.com/word/forensic ; https://www.merriam-webster.com/dictionary/forensic ; https://www.etymonline.com/word/forum ; https://www.merriam-webster.com/dictionary/forum 。释义改写，例句自编。
+related_morphemes:
+  []
+senses:
+  - meaning: marketplace; public meeting place
+    zh: 市场；公共集会场所
+    examples:
+      - forum
+      - forums
+      - fora
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - for -> forum
+  - for -> forums
+  - for -> fora
+high_value_words:
+  - forum
+  - forums
+  - fora
+confusable_words:
+  []

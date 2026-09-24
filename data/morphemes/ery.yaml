@@ -18,6 +18,7 @@ senses:
       - imagery
       - scenery
       - stationery
+      - saddlery
 similar_form:
   []
 similar_meaning:
@@ -27,10 +28,12 @@ patterns:
   - -ery -> imagery
   - -ery -> scenery
   - -ery -> stationery
+  - -ery -> saddlery
 high_value_words:
   - hatchery
   - imagery
   - scenery
   - stationery
+  - saddlery
 confusable_words:
   []

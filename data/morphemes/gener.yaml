@@ -2,29 +2,75 @@
 id: gener
 display: gener
 type: root
-core_meaning: produce; kind; birth
-zh: 产生；种类；出生
+core_meaning: kind; descent; produce
+zh: 种类；血统；产生
 origin: Latin
-source_form: Latin generare / genus
-source_meaning: produce; kind; birth
-source_meaning_zh: 产生；种类；出生
+source_form: Latin genus, generis; generare, generatus
+source_meaning: kind; descent; produce
+source_meaning_zh: 种类；血统；产生
+source_note: gener- 是 genus 的屈折词干，也见于 generare 产生、生育。generate 分支强调产生，generic/general 分支强调类别。genus/genera 保留完整单复数表层，不臆造英语 -us/-a 后缀。参考 https://www.etymonline.com/word/genus ; https://www.etymonline.com/word/generate ; https://www.merriam-webster.com/dictionary/genus
 related_morphemes:
-  []
+  - gen-origin
 senses:
-  - meaning: produce; kind; birth
-    zh: 产生；种类；出生
+  - meaning: kind; descent; produce
+    zh: 种类；血统；产生
     examples:
+      - genera
+      - general
+      - generalisation
+      - generalise
+      - generality
+      - generalization
+      - generalize
+      - generally
       - generate
+      - generation
+      - generational
+      - generative
+      - generator
+      - generic
+      - generically
       - generous
+      - genus
 similar_form:
   []
 similar_meaning:
   []
 patterns:
+  - genera -> genera
+  - gener -> general
+  - gener -> generalisation
+  - gener -> generalise
+  - gener -> generality
+  - gener -> generalization
+  - gener -> generalize
+  - gener -> generally
   - gener -> generate
+  - gener -> generation
+  - gener -> generational
+  - gener -> generative
+  - gener -> generator
+  - gener -> generic
+  - gener -> generically
   - gener -> generous
+  - genus -> genus
 high_value_words:
+  - genera
+  - general
+  - generalisation
+  - generalise
+  - generality
+  - generalization
+  - generalize
+  - generally
   - generate
+  - generation
+  - generational
+  - generative
+  - generator
+  - generic
+  - generically
   - generous
+  - genus
 confusable_words:
   []

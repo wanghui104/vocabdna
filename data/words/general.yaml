@@ -1,0 +1,60 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: general
+word: general
+pos: adjective/noun
+zh: 总体的；普遍的；大致的；将军
+en: concerning a whole group, widespread, or lacking detail; as a noun, a senior military officer
+components:
+  - morpheme: gener
+    form: gener
+    meaning_in_word: kind; produce / 类别；产生
+    zh: 种类；血统；产生
+    role: root
+    is_core: true
+    note: Latin genus/generis 的 gener- 词干；不同分支分别突出类别或产生。
+    related_morphemes:
+      - gen-origin
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - generally
+  - generality
+  - generalize
+  - generalization
+  - generalise
+  - generalisation
+word_family_details:
+  - word: generally
+    en: in most cases, by most people, or in broad terms
+    zh: 通常；普遍地；总体上
+  - word: generality
+    en: a broad statement with few details, or the quality of applying widely
+    zh: 概括性说法；一般性；普遍性
+  - word: generalize
+    en: to draw a broad conclusion from particular cases or speak in general terms
+    zh: 概括；归纳；作笼统推论
+  - word: generalization
+    en: a broad conclusion about a group, or the process of forming one
+    zh: 概括；归纳；笼统推论
+  - word: generalise
+    en: to draw a broad conclusion from particular cases or speak in general terms
+    zh: 概括；归纳；作笼统推论
+  - word: generalisation
+    en: a broad conclusion about a group, or the process of forming one
+    zh: 概括；归纳；笼统推论
+confusables:
+  - word: generic
+    reason: 读音 /ˈdʒenərəl/。 in general = 总的来说；general 不等于 generic（按类别或非品牌）。
+    zh_reason: 读音 /ˈdʒenərəl/。 in general = 总的来说；general 不等于 generic（按类别或非品牌）。
+examples:
+  - en: The report gives a general overview of the project.
+    zh: 这份报告概述了项目的整体情况。
+  - en: There was general agreement on the main goal.
+    zh: 大家对主要目标普遍表示赞同。
+  - en: The general addressed the assembled officers.
+    zh: 这位将军向集合的军官们讲话。
+why_confusing: 读音 /ˈdʒenərəl/。 in general = 总的来说；general 不等于 generic（按类别或非品牌）。

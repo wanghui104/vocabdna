@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: atheistic
+word: atheistic
+pos: adjective
+zh: 无神论的
+en: relating to atheism or expressing an atheist position
+components:
+  - morpheme: an
+    form: a-
+    meaning_in_word: not; without / 不；无
+    zh: 不；无
+    role: prefix
+    is_core: false
+    note: Greek 否定前缀 a-，不是英语冠词 a。
+  - morpheme: theo
+    form: the
+    meaning_in_word: god / 神
+    zh: 神；神明
+    role: root
+    is_core: true
+    note: the- 来自 Greek theos；与冠词 the 无关。
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person holding a position / 持某种立场的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关的
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - atheism
+  - atheist
+  - atheistically
+word_family_details:
+  - word: atheism
+    en: lack of belief in gods, or the position that no gods exist
+    zh: 无神论；不信神的立场
+  - word: atheist
+    en: a person who does not believe that any gods exist
+    zh: 无神论者
+  - word: atheistically
+    en: from an atheist standpoint
+    zh: 从无神论角度；以无神论方式
+confusables:
+  []
+examples:
+  - en: The article examines atheistic arguments in modern philosophy.
+    zh: 文章考察了现代哲学中的无神论论证。
+why_confusing: 常修饰 argument、view、philosophy；atheistic 描述观点，atheist 常指持该观点的人。

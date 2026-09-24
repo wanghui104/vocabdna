@@ -136,6 +136,15 @@ senses:
       - disentangle
       - disentangled
       - disentanglement
+      - dispersion
+      - dispersed
+      - dispersing
+      - dispersive
+      - dispersible
+      - discrepancy
+      - discrepancies
+      - discrepant
+      - discrepantly
 similar_form:
   []
 similar_meaning:
@@ -263,6 +272,15 @@ patterns:
   - dis- -> disentangle
   - dis- -> disentangled
   - dis- -> disentanglement
+  - di- -> dispersion
+  - di- -> dispersed
+  - di- -> dispersing
+  - di- -> dispersive
+  - di- -> dispersible
+  - dis- -> discrepancy
+  - dis- -> discrepancies
+  - dis- -> discrepant
+  - dis- -> discrepantly
 high_value_words:
   - device
   - devise
@@ -386,5 +404,14 @@ high_value_words:
   - disentangle
   - disentangled
   - disentanglement
+  - dispersion
+  - dispersed
+  - dispersing
+  - dispersive
+  - dispersible
+  - discrepancy
+  - discrepancies
+  - discrepant
+  - discrepantly
 confusable_words:
   []

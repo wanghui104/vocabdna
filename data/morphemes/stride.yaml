@@ -5,10 +5,10 @@ type: root
 core_meaning: stride
 zh: 大步
 origin: Old English
-source_form: stride
-source_meaning: stride
-source_meaning_zh: 大步
-source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+source_form: Old English stridan; Middle English striden
+source_meaning: straddle; mount; take long steps
+source_meaning_zh: 跨坐；骑上；迈大步
+source_note: straddle 很可能改自 striddle（striden 的反复动作形式）；Merriam-Webster 概括为 stride 的不规则派生。教学表层 stradd- + -le 保留这一关联，不把 stradd- 当作独立现代英语词；具体 striddle → straddle 路径保留“很可能”的限定。参考 https://www.etymonline.com/word/straddle ; https://www.merriam-webster.com/dictionary/straddle 。释义改写，例句自编。
 related_morphemes:
   []
 senses:
@@ -16,13 +16,25 @@ senses:
     zh: 大步
     examples:
       - stride
+      - straddle
+      - straddled
+      - straddling
+      - straddler
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - stride -> stride
+  - stradd -> straddle
+  - stradd -> straddled
+  - stradd -> straddling
+  - stradd -> straddler
 high_value_words:
   - stride
+  - straddle
+  - straddled
+  - straddling
+  - straddler
 confusable_words:
   []

@@ -2,20 +2,22 @@
 id: genet
 display: genet
 type: root
-core_meaning: origin; birth
-zh: 起源；出生
+core_meaning: relating to origin or birth
+zh: 与起源、出生有关
 origin: Greek
-source_form: Greek genesis / genetikos
-source_meaning: origin; birth
-source_meaning_zh: 起源；出生
+source_form: Greek γενετικός (genetikos), γένεσις (genesis)
+source_meaning: relating to origin or birth
+source_meaning_zh: 与起源、出生有关
+source_note: genetic 的教学表层为 genet- + -ic；现代常指基因或遗传，但该词早于现代 gene，不从 gene + -tic 硬拆。参考 https://www.etymonline.com/word/genetic ; https://www.merriam-webster.com/dictionary/genetic
 related_morphemes:
-  []
+  - gen-origin
 senses:
-  - meaning: origin; birth
-    zh: 起源；出生
+  - meaning: relating to origin or birth
+    zh: 与起源、出生有关
     examples:
       - genetic
       - genetically
+      - geneticist
       - genetics
 similar_form:
   []
@@ -24,10 +26,12 @@ similar_meaning:
 patterns:
   - genet -> genetic
   - genet -> genetically
+  - genet -> geneticist
   - genet -> genetics
 high_value_words:
   - genetic
   - genetically
+  - geneticist
   - genetics
 confusable_words:
   []

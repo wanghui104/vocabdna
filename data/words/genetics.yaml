@@ -3,65 +3,47 @@ id: genetics
 word: genetics
 pos: noun
 zh: 遗传学
-en: Means 遗传学; reviewed from the TOEFL source gloss and adjusted for learner display.
+en: the scientific study of genes, heredity, and variation
 components:
   - morpheme: genet
     form: genet
-    meaning_in_word: genet
-    zh: 起源；出生
+    meaning_in_word: origin; heredity / 起源；遗传
+    zh: 与起源、出生有关
     role: root
     is_core: true
-    note: Reviewed surface piece; deeper source is shown on root root:genet.
-  - morpheme: ic
-    form: -ic
-    meaning_in_word: 与……有关
-    zh: 与……有关
+    note: 教学表层 genet-；历史上 genetic 早于 gene。
+    related_morphemes:
+      - gen-origin
+  - morpheme: ics
+    form: -ics
+    meaning_in_word: 学科；实践领域
+    zh: 学科；实践领域
     role: suffix
     is_core: false
-    note: Suffix layer from Greek -ikos, Latin -icus.
-  - morpheme: s
-    form: -s
-    meaning_in_word: 复数；机构化形式
-    zh: 复数；机构化形式
-    role: suffix
-    is_core: false
-    note: Suffix layer from Old English -s / -es.
+    note: -ics 表学科，较深层为 -ic + -s；不是普通复数。
 word_family:
-  - generate
-  - generous
-  - genesis
+  - gene
   - genetic
   - genetically
-  - genial
-  - gentility
-  - genuine
+  - geneticist
 word_family_details:
-  - word: generate
-    en: Means 造成，产生 / 产卵; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 造成，产生 / 产卵
-  - word: generous
-    en: Means 慷慨的 / 大量的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 慷慨的 / 大量的
-  - word: genesis
-    en: Means 起源，产生; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 起源，产生
+  - word: gene
+    en: a unit of inherited information carried by a particular DNA sequence, or by RNA in some viruses
+    zh: 基因；遗传的功能单位
   - word: genetic
-    en: Means 遗传的，起源的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 遗传的，起源的
+    en: relating to genes or heredity; in broader use, relating to origins or development
+    zh: 遗传的；基因的；与起源有关的
   - word: genetically
-    en: Means 遗传上; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 遗传上
-  - word: genial
-    en: Means 和蔼可亲的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 和蔼可亲的
-  - word: gentility
-    en: Means 有教养，文雅; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 有教养，文雅
-  - word: genuine
-    en: Means 真正的，真实的；真诚的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 真正的，真实的；真诚的
+    en: in a way that concerns genes or heredity
+    zh: 在遗传上；从基因角度
+  - word: geneticist
+    en: a scientist who studies genes and inheritance
+    zh: 遗传学家
 confusables:
-  []
+  - word: genealogy
+    reason: 表示学科时通常用单数动词：Genetics is ...。
+    zh_reason: 表示学科时通常用单数动词：Genetics is ...。
 examples:
-  []
-why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.
+  - en: Genetics helps explain how traits pass between generations.
+    zh: 遗传学帮助解释性状如何代际传递。
+why_confusing: 表示学科时通常用单数动词：Genetics is ...。

@@ -1,0 +1,57 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: primitiveness
+word: primitiveness
+pos: noun
+zh: 原始性；简陋程度
+en: the quality of being early, rudimentary, or undeveloped
+components:
+  - morpheme: primit
+    form: primit
+    meaning_in_word: first; original / 最初；原始
+    zh: 最初；原始
+    role: root
+    is_core: true
+    note: 源于 Latin primitus，深层 primus“第一”见词根页。
+    related_morphemes:
+      - prim
+  - morpheme: ive
+    form: -ive
+    meaning_in_word: having the nature of / 具有……性质的
+    zh: 具有……性质的；倾向于……的
+    role: suffix
+    is_core: false
+    note: 对应 Latin primitivus 中的形容词构词层。
+  - morpheme: ness
+    form: -ness
+    meaning_in_word: quality or state / 性质、状态
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+word_family:
+  - primitive
+  - primitively
+  - primitivity
+  - primitivism
+  - primitivist
+word_family_details:
+  - word: primitive
+    en: belonging to an early stage, simple and undeveloped, or fundamental; as a noun, a basic concept
+    zh: 原始的；早期的；简陋的；基本的；基本概念（名词）
+  - word: primitively
+    en: in a simple, rudimentary, or early form
+    zh: 原始地；简陋地
+  - word: primitivity
+    en: the quality or state of being primitive; primitiveness
+    zh: 原始性；简陋性
+  - word: primitivism
+    en: an artistic style drawing on forms regarded as early or nonacademic, or a belief favoring a simple life close to nature
+    zh: 原始主义（艺术风格或思想倾向）
+  - word: primitivist
+    en: a person associated with primitivism; relating to its style or ideas
+    zh: 原始主义者；原始主义的
+confusables:
+  []
+examples:
+  - en: The primitiveness of the equipment made the task difficult.
+    zh: 设备的简陋使这项任务很难完成。
+why_confusing: 性质名词；primitiveness of the equipment 指设备简陋，不表示原始主义艺术风格。

@@ -1,0 +1,71 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: susceptibilities
+word: susceptibilities
+pos: noun
+zh: 易感倾向；敏感之处；感情、自尊（复数）
+en: plural of susceptibility: tendencies to be affected, or personal feelings and sensitivities
+components:
+  - morpheme: sus
+    form: sus-
+    meaning_in_word: up from under / 从下向上
+    zh: 从下支撑；在下
+    role: prefix
+    is_core: false
+    note: sub- 的变体；与 capere 组合成 suscipere“拿起、接受”。
+    related_morphemes:
+      - sub
+  - morpheme: cept
+    form: cept
+    meaning_in_word: take; receive / 拿；接受
+    zh: 取；理解
+    role: root
+    is_core: true
+    note: Latin susceptus 的词干部分；更深层 capere 见词根页。
+    related_morphemes:
+      - cap
+  - morpheme: ible
+    form: -ibil
+    meaning_in_word: able to be / 能被……的
+    zh: 可……的
+    role: suffix
+    is_core: false
+    note: -ible 接 -ity 时采用 -ibil- 形式。
+  - morpheme: ity
+    form: -iti
+    meaning_in_word: state or quality / 状态、性质
+    zh: 状态；性质
+    role: suffix
+    is_core: false
+    note: 复数中 -ity 的 y 改为 i，再接 -es。
+  - morpheme: s
+    form: -es
+    meaning_in_word: plural / 复数
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+word_family:
+  - susceptible
+  - susceptible-to
+  - susceptibility
+  - susceptibly
+word_family_details:
+  - word: susceptible
+    en: easily affected by an influence, emotionally impressionable, or capable of undergoing a process
+    zh: 易受影响的；易感的；易动感情的；可接受某种处理的
+  - word: susceptible-to
+    en: likely to be affected by a specified influence
+    zh: 易受……影响的；易发生……的
+  - word: susceptibility
+    en: the tendency to be affected by something; also a physical measure of response to a field
+    zh: 易感性；易受影响的程度；感受性；（物理）磁化率或电极化率
+  - word: susceptibly
+    en: in a manner that is easily influenced or emotionally affected
+    zh: 易受影响地；易动感情地
+confusables:
+  []
+examples:
+  - en: The two materials have different susceptibilities to heat damage.
+    zh: 这两种材料对热损伤的易感程度不同。
+  - en: The speaker took care not to offend the audience’s susceptibilities.
+    zh: 演讲者注意不伤害听众的感情。
+why_confusing: 拼写变化 -ity → -ities；offend someone’s susceptibilities 指触伤某人的感情，不是让其感染疾病。

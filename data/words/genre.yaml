@@ -2,22 +2,27 @@
 id: genre
 word: genre
 pos: noun
-zh: 文学上的流派和体裁
-en: Means 文学上的流派和体裁; reviewed from the TOEFL source gloss and adjusted for learner display.
+zh: （文学、音乐、电影等的）体裁；类型
+en: a category of artistic works sharing a style, form, or subject
 components:
   - morpheme: genre
     form: genre
-    meaning_in_word: 文学上的流派和体裁
-    zh: 文学上的流派和体裁
+    meaning_in_word: kind, artistic category / 种类、艺术体裁
+    zh: 种类；风格；类别
     role: root
     is_core: true
-    note: Reviewed as an intentional bottom-level learner root for this pass; no reliable smaller learner-useful breakdown is forced here.
+    note: 法语整体借词；更深层 Latin genus/generis 通过关联词根显示。
+    related_morphemes:
+      - gener
 word_family:
   []
 word_family_details:
   []
 confusables:
-  []
+  - word: gender
+    reason: 读音 /ˈʒɑːnrə/（美式常见读法）。 首音是 /ʒ/，不是 gene 的 /dʒ/；与 gender 同源，但现代意义不同。
+    zh_reason: 读音 /ˈʒɑːnrə/（美式常见读法）。 首音是 /ʒ/，不是 gene 的 /dʒ/；与 gender 同源，但现代意义不同。
 examples:
-  []
-why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.
+  - en: Science fiction is her favorite literary genre.
+    zh: 科幻是她最喜欢的文学类型。
+why_confusing: 读音 /ˈʒɑːnrə/（美式常见读法）。 首音是 /ʒ/，不是 gene 的 /dʒ/；与 gender 同源，但现代意义不同。

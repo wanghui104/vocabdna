@@ -11,6 +11,8 @@ components:
     zh: 从下支撑；在下
     role: prefix
     is_core: false
+    related_morphemes:
+      - sub
   - morpheme: pend
     form: pend
     meaning_in_word: hang; weigh / 悬挂；称量

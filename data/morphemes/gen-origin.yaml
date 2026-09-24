@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gen-origin
+display: gen
+type: root
+core_meaning: give birth; beget
+zh: 出生；生育
+origin: Proto-Indo-European
+source_form: Reconstructed PIE *gene- / *genə-
+source_meaning: give birth; beget
+source_meaning_zh: 出生；生育
+source_note: 带星号的是重建词根，不是现代英语 gene。仅作为希腊语和拉丁语各支的更深层来源，不当作所有现代词的直接组成部分。参考 https://www.etymonline.com/word/*gene-
+related_morphemes:
+  []
+senses:
+  - meaning: give birth; beget
+    zh: 出生；生育
+    examples:
+      []
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  []
+high_value_words:
+  []
+confusable_words:
+  []

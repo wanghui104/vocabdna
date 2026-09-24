@@ -2,30 +2,56 @@
 id: disperse
 word: disperse
 pos: verb
-zh: 分散；散开；驱散
-en: to scatter or spread over a wide area
+zh: 分散；散开；散布；驱散
+en: to spread or move apart in different directions, or cause this to happen
 components:
   - morpheme: dis
     form: di-
-    meaning_in_word: apart
+    meaning_in_word: apart / 分开
     zh: 分开；不
     role: prefix
     is_core: false
-    note: The prefix dis- appears as di- before the s of the scatter stem.
+    note: 此处 di- 对应词源 dis-；Latin dis- + spargere → dispergere/dispersus。
   - morpheme: spars
     form: sperse
-    meaning_in_word: scatter
+    meaning_in_word: scatter / 撒开、散布
     zh: 散布；分散
     role: root
     is_core: true
+    note: disperse 的表层词干形式；历史来源见词根页。
 word_family:
   - dispersal
+  - dispersion
+  - dispersed
+  - dispersing
+  - dispersive
+  - dispersible
 word_family_details:
   - word: dispersal
-    en: the act or process of dispersing
-    zh: 疏散；散布；散开
+    en: the process or outcome of people or things spreading away from a place
+    zh: 散布；分散；散开；疏散
+  - word: dispersion
+    en: spreading or the state of being spread out; also statistical spread, optical separation, or a mixture with dispersed particles
+    zh: 分散；散布状态；离散程度；色散；分散体系
+  - word: dispersed
+    en: spread over an area or through a medium; the past tense and past participle of disperse
+    zh: 分散的；散布的；使散开了（过去式、过去分词）
+  - word: dispersing
+    en: spreading out or causing something to spread; the present participle of disperse
+    zh: 正在散开；正在散布；起分散作用的
+  - word: dispersive
+    en: tending to spread things out or involving dispersion, especially of waves or light
+    zh: 使分散的；有色散作用的
+  - word: dispersible
+    en: capable of being spread as particles through a medium
+    zh: 可分散的；易分散的
 confusables:
   []
 examples:
-  []
-why_confusing: disperse 可及物也可不及物。
+  - en: The crowd began to disperse after the concert.
+    zh: 音乐会结束后，人群开始散去。
+  - en: Stirring helps disperse the pigment in the liquid.
+    zh: 搅拌有助于使颜料分散在液体中。
+  - en: The breeze dispersed the smoke above the fire.
+    zh: 微风吹散了火堆上方的烟。
+why_confusing: 读音 /dɪˈspɜːrs/。可不及物：people disperse；也可及物：disperse seeds/particles。disperse 是动词，dispersal/dispersion 是名词。

@@ -1,0 +1,60 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: genealogically
+word: genealogically
+pos: adverb
+zh: 从家谱上；在谱系上
+en: with regard to ancestry or lines of descent
+components:
+  - morpheme: genea
+    form: genea
+    meaning_in_word: generation, descent / 世代、血统
+    zh: 世代；血统；家系
+    role: root
+    is_core: true
+    related_morphemes:
+      - gen-origin
+  - morpheme: logy
+    form: -log
+    meaning_in_word: study, account / 研究、记述
+    zh: 学科、研究
+    role: suffix
+    is_core: false
+    note: genealogy 的 -logy 在派生词中使用 log- 词干。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: 以……方式地
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - genealogy
+  - genealogical
+  - genealogist
+word_family_details:
+  - word: genealogy
+    en: a record or line of ancestry, or the study of family descent
+    zh: 家谱；谱系；谱系学
+  - word: genealogical
+    en: concerning ancestry, family lines, or the study of descent
+    zh: 家谱的；谱系的
+  - word: genealogist
+    en: a person who investigates family ancestry and lines of descent
+    zh: 家谱研究者；谱系学家
+confusables:
+  []
+examples:
+  - en: The two families are genealogically connected.
+    zh: 这两个家族在谱系上有关联。
+why_confusing: 是 genealogy 的副词形式，不等于 genetically。

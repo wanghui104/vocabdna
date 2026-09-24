@@ -17,6 +17,8 @@ components:
     zh: 取；理解
     role: root
     is_core: true
+    related_morphemes:
+      - cap
   - morpheme: or
     form: -or
     meaning_in_word: person or thing / 人或物

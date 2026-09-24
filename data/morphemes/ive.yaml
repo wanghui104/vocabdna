@@ -63,6 +63,7 @@ senses:
       - festive
       - festivity
       - formative
+      - generative
       - illusive
       - imperative
       - impressive
@@ -94,6 +95,7 @@ senses:
       - persuasive
       - positive
       - predictive
+      - primitive
       - progressive
       - prohibitive
       - prohibitively
@@ -109,6 +111,12 @@ senses:
       - subtractive
       - subversive
       - successive
+      - dispersive
+      - primitively
+      - primitiveness
+      - primitivity
+      - primitivism
+      - primitivist
 similar_form:
   []
 similar_meaning:
@@ -163,6 +171,7 @@ patterns:
   - -ive -> festive
   - -iv -> festivity
   - -ive -> formative
+  - -ive -> generative
   - -ive -> illusive
   - -ive -> imperative
   - -ive -> impressive
@@ -194,6 +203,7 @@ patterns:
   - -ive -> persuasive
   - -ive -> positive
   - -ive -> predictive
+  - -ive -> primitive
   - -ive -> progressive
   - -ive -> prohibitive
   - -ive -> prohibitively
@@ -209,6 +219,12 @@ patterns:
   - -ive -> subtractive
   - -ive -> subversive
   - -ive -> successive
+  - -ive -> dispersive
+  - -ive -> primitively
+  - -ive -> primitiveness
+  - -iv -> primitivity
+  - -iv -> primitivism
+  - -iv -> primitivist
 high_value_words:
   - abrasive
   - activate
@@ -259,6 +275,7 @@ high_value_words:
   - festive
   - festivity
   - formative
+  - generative
   - illusive
   - imperative
   - impressive
@@ -290,6 +307,7 @@ high_value_words:
   - persuasive
   - positive
   - predictive
+  - primitive
   - progressive
   - prohibitive
   - prohibitively
@@ -305,5 +323,11 @@ high_value_words:
   - subtractive
   - subversive
   - successive
+  - dispersive
+  - primitively
+  - primitiveness
+  - primitivity
+  - primitivism
+  - primitivist
 confusable_words:
   []

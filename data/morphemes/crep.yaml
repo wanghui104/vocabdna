@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: crep
+display: crep
+type: root
+core_meaning: rattle; sound
+zh: 发声；咔嗒作响
+origin: Latin
+source_form: Latin crepare
+source_meaning: rattle; crack; make a clattering sound
+source_meaning_zh: 发出咔嗒声、噼啪声
+source_note: dis-（分开、不同）+ crepare（发声）→ discrepare（声音不同、不协调）→ discrepans / discrepant- → discrepantia（不一致）。现代 discrepancy 主要描述数据、说法或预期不相符，不限于声音。参考 https://www.etymonline.com/word/discrepancy ; https://www.merriam-webster.com/dictionary/discrepancy ; https://www.merriam-webster.com/dictionary/discrepant 。释义改写，例句自编。
+related_morphemes:
+  []
+senses:
+  - meaning: rattle; sound
+    zh: 发声；咔嗒作响
+    examples:
+      - discrepancy
+      - discrepancies
+      - discrepant
+      - discrepantly
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - crep -> discrepancy
+  - crep -> discrepancies
+  - crep -> discrepant
+  - crep -> discrepantly
+high_value_words:
+  - discrepancy
+  - discrepancies
+  - discrepant
+  - discrepantly
+confusable_words:
+  []

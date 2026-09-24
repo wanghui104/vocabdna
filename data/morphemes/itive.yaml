@@ -16,7 +16,6 @@ senses:
     examples:
       - hypersensitive
       - photosensitive
-      - primitive
       - sensitive
 similar_form:
   []
@@ -25,12 +24,10 @@ similar_meaning:
 patterns:
   - itive -> hypersensitive
   - itive -> photosensitive
-  - itive -> primitive
   - itive -> sensitive
 high_value_words:
   - hypersensitive
   - photosensitive
-  - primitive
   - sensitive
 confusable_words:
   []

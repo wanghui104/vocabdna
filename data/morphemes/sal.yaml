@@ -15,7 +15,6 @@ senses:
     zh: 盐
     examples:
       - desalination
-      - salient
       - saline
       - salinity
 similar_form:
@@ -24,12 +23,10 @@ similar_meaning:
   []
 patterns:
   - sal -> desalination
-  - sal -> salient
   - sal -> saline
   - sal -> salinity
 high_value_words:
   - desalination
-  - salient
   - saline
   - salinity
 confusable_words:

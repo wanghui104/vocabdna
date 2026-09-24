@@ -1,0 +1,59 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: theologically
+word: theologically
+pos: adverb
+zh: 从神学角度；在神学上
+en: from a theological point of view
+components:
+  - morpheme: theo
+    form: theo
+    meaning_in_word: god / 神
+    zh: 神；神明
+    role: root
+    is_core: true
+    note: theo- 是 theos 的组合形式，o 为连接元音。
+  - morpheme: logy
+    form: -log
+    meaning_in_word: study; discourse / 研究；论述
+    zh: 学科、研究
+    role: suffix
+    is_core: false
+    note: log- 是 -logy 在派生词中的词干形式；不是 English log“原木”。
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 相关的
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: adjectival ending / 形容词词尾
+    zh: 属于……的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner / 以……方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - theology
+  - theologian
+  - theological
+word_family_details:
+  - word: theology
+    en: the study of God, religious beliefs and practices, or a system of theological ideas
+    zh: 神学；神学体系
+  - word: theologian
+    en: a scholar or specialist in theology
+    zh: 神学家；神学研究者
+  - word: theological
+    en: relating to theology
+    zh: 神学的；与神学有关的
+confusables:
+  []
+examples:
+  - en: The two traditions interpret the story differently theologically.
+    zh: 这两个传统从神学角度对这个故事作出不同解释。
+why_confusing: 常修饰 interpret、significant 等，说明判断或论述的神学层面。

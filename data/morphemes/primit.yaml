@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: primit
+display: primit
+type: root
+core_meaning: first; original
+zh: 最初；原始
+origin: Latin
+source_form: Latin primitus
+source_meaning: at first
+source_meaning_zh: 起初；最初
+source_note: Latin primus（第一）→ primitus（起初）→ primitivus（最早的、原初的）→ French primitif → English primitive。primit- 是本词族的表层教学词干，深层 prim- 通过相关词根链接保留；不把 it 虚构为独立英语词缀。参考 https://www.etymonline.com/word/primitive ; https://www.merriam-webster.com/dictionary/primitive ; https://www.merriam-webster.com/dictionary/primitivism ; https://www.merriam-webster.com/dictionary/primitivity 。释义改写，例句自编。
+related_morphemes:
+  - prim
+senses:
+  - meaning: first; original
+    zh: 最初；原始
+    examples:
+      - primitive
+      - primitively
+      - primitiveness
+      - primitivity
+      - primitivism
+      - primitivist
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - primit -> primitive
+  - primit -> primitively
+  - primit -> primitiveness
+  - primit -> primitivity
+  - primit -> primitivism
+  - primit -> primitivist
+high_value_words:
+  - primitive
+  - primitively
+  - primitiveness
+  - primitivity
+  - primitivism
+  - primitivist
+confusable_words:
+  []

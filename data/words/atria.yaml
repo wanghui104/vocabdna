@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: atria
+word: atria
+pos: noun
+zh: 心房（复数）；中庭（复数）
+en: the Latin-style plural of atrium, used for heart chambers and also architectural halls or courts
+components:
+  - morpheme: atri
+    form: atri
+    meaning_in_word: central hall; receiving chamber / 中庭；接纳腔室
+    zh: 中庭；前室；心房
+    role: root
+    is_core: true
+    note: Latin atrium 的 atri- 词干；更早来源不确定。
+  - morpheme: a-plural
+    form: -a
+    meaning_in_word: Latin neuter plural / 拉丁中性复数
+    zh: 复数
+    role: suffix
+    is_core: false
+    note: atrium 的 -um 换成 -a；不是在 atrium 后再加 a。
+word_family:
+  - atrium
+  - atriums
+  - atrial
+word_family_details:
+  - word: atrium
+    en: a central open or skylit space in a building; in anatomy, a receiving chamber, especially in the heart
+    zh: 中庭；中央大厅；心房
+  - word: atriums
+    en: the regular English plural of atrium, especially used for central spaces in buildings
+    zh: 中庭、中央大厅（复数）；心房（复数形式之一）
+  - word: atrial
+    en: relating to an atrium, especially a chamber of the heart
+    zh: 心房的；中庭的；与前室有关的
+confusables:
+  []
+examples:
+  - en: The diagram labels the two atria of the human heart.
+    zh: 这幅图标出了人类心脏的两个心房。
+  - en: The museum plan includes three covered atria.
+    zh: 博物馆的设计方案包括三个有顶中庭。
+why_confusing: 读音 /ˈeɪtriə/。atria 已是复数，通常不写 atrias；一个心房或中庭用 atrium。

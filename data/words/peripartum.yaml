@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: peripartum
+word: peripartum
+pos: adjective/adverb
+zh: 围分娩期的；在分娩前后
+en: relating to the period surrounding childbirth
+components:
+  - morpheme: peri
+    form: peri-
+    meaning_in_word: around / 周围；前后
+    zh: 周围；在……前后
+    role: prefix
+    is_core: false
+  - morpheme: partum
+    form: partum
+    meaning_in_word: childbirth / 分娩
+    zh: 分娩；生育
+    role: root
+    is_core: true
+    note: Latin partus 的宾格 partum；更深层源于 parere“生育”。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: postpartum
+    reason: antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 peripartum 不等于仅指产后的 postpartum。
+    zh_reason: antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 peripartum 不等于仅指产后的 postpartum。
+examples:
+  - en: The study describes changes during the peripartum period.
+    zh: 这项研究描述了围分娩期的变化。
+  - en: The interviews were conducted peripartum.
+    zh: 访谈在分娩前后进行。
+why_confusing: antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 peripartum 不等于仅指产后的 postpartum。

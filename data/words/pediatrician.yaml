@@ -1,0 +1,60 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pediatrician
+word: pediatrician
+pos: noun
+zh: 儿科医生
+en: a physician whose specialty is the medical care of children
+components:
+  - morpheme: ped-child
+    form: ped
+    meaning_in_word: child / 儿童
+    zh: 儿童
+    role: root
+    is_core: true
+  - morpheme: iatr
+    form: iatr
+    meaning_in_word: physician, healing / 医师、治疗
+    zh: 医师；与治疗有关
+    role: root
+    is_core: true
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: ian
+    form: -ian
+    meaning_in_word: specialist / 专业人员
+    zh: 属于……的人
+    role: suffix
+    is_core: false
+    note: pediatric + -ian → 从事儿科的医生。
+word_family:
+  - pediatric
+  - pediatrics
+  - paediatric
+  - paediatrics
+  - paediatrician
+word_family_details:
+  - word: pediatric
+    en: concerning medical care for children, from infancy through adolescence
+    zh: 儿科的；儿童医疗的
+  - word: pediatrics
+    en: the branch of medicine concerned with the health, development, and care of children
+    zh: 儿科学；儿科
+  - word: paediatric
+    en: concerning medical care for children, from infancy through adolescence
+    zh: 儿科的；儿童医疗的
+  - word: paediatrics
+    en: the branch of medicine concerned with the health, development, and care of children
+    zh: 儿科学；儿科
+  - word: paediatrician
+    en: a physician whose specialty is the medical care of children
+    zh: 儿科医生
+confusables:
+  []
+examples:
+  - en: The pediatrician explained the examination to the parents.
+    zh: 儿科医生向家长说明了检查情况。
+why_confusing: 美式常用拼写；英式常见 paed-。 指医生；学科用 pediatrics，形容词用 pediatric。 pediatric 的 ped-/paed- 是 Greek pais/paidos 儿童；pedestrian 的 pedestr- 来自 Latin pes/pedis 足，不能把两者当成同源词。

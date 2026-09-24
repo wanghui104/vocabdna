@@ -4,10 +4,11 @@ display: saddle
 type: root
 core_meaning: saddle
 zh: 鞍
-origin: teaching morphology
-source_form: saddle
-source_meaning: saddle
-source_meaning_zh: 鞍
+origin: Old English
+source_form: Old English sadol; sadolian
+source_meaning: saddle; put a saddle on
+source_meaning_zh: 马鞍；给……装鞍
+source_note: Middle English sadel ← Old English sadol；动词对应 sadolian。更深层可追溯到重构的 PIE *sed-“坐”，此层仅以词源说明保留；不是从 Latin sedere 借入。现代 saddle 是稳定基本词干，不按 sad + -le 拆解。参考 https://www.etymonline.com/word/saddle ; https://www.merriam-webster.com/dictionary/saddle ; https://www.etymonline.com/word/saddler ; https://www.etymonline.com/word/saddlery ; https://www.merriam-webster.com/dictionary/saddlery 。释义改写，例句自编。
 related_morphemes:
   []
 senses:
@@ -15,13 +16,28 @@ senses:
     zh: 鞍
     examples:
       - saddle
+      - saddled
+      - saddling
+      - saddler
+      - saddlery
+      - saddleless
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - saddle -> saddle
+  - saddl -> saddled
+  - saddl -> saddling
+  - saddl -> saddler
+  - saddl -> saddlery
+  - saddle -> saddleless
 high_value_words:
   - saddle
+  - saddled
+  - saddling
+  - saddler
+  - saddlery
+  - saddleless
 confusable_words:
   []

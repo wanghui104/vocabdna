@@ -5,9 +5,10 @@ type: root
 core_meaning: scatter
 zh: 散布；分散
 origin: Latin
-source_form: Latin spargere / sparsus
-source_meaning: scatter
-source_meaning_zh: 撒；散布
+source_form: Latin spargere, sparsus; dispergere, dispersus
+source_meaning: scatter; scattered
+source_meaning_zh: 撒开；散布；散开的
+source_note: spargere 表散布，过去分词 sparsus；加 dis- 后为 dispergere，其过去分词 dispersus 留下英语 disperse/dispers-。教学表层沿用 di- + sperse/spers-，深层 dis- + spargere 通过本说明保留；不是把 spers 当成独立英语单词。参考 https://www.etymonline.com/word/disperse ; https://www.etymonline.com/word/dispersion ; https://www.merriam-webster.com/dictionary/disperse ; https://www.merriam-webster.com/dictionary/dispersal ; https://www.merriam-webster.com/dictionary/dispersion 。释义改写，例句自编。
 related_morphemes:
   []
 senses:
@@ -16,6 +17,11 @@ senses:
     examples:
       - dispersal
       - disperse
+      - dispersion
+      - dispersed
+      - dispersing
+      - dispersive
+      - dispersible
 similar_form:
   []
 similar_meaning:
@@ -23,8 +29,18 @@ similar_meaning:
 patterns:
   - spers -> dispersal
   - sperse -> disperse
+  - spers -> dispersion
+  - spers -> dispersed
+  - spers -> dispersing
+  - spers -> dispersive
+  - spers -> dispersible
 high_value_words:
   - dispersal
   - disperse
+  - dispersion
+  - dispersed
+  - dispersing
+  - dispersive
+  - dispersible
 confusable_words:
   []

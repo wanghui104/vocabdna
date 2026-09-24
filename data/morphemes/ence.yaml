@@ -43,6 +43,7 @@ senses:
       - sequence
       - subsistence
       - violence
+      - resilience
 similar_form:
   []
 similar_meaning:
@@ -77,6 +78,7 @@ patterns:
   - -ence -> sequence
   - -ence -> subsistence
   - -ence -> violence
+  - -ence -> resilience
 high_value_words:
   - ambience
   - ambivalence
@@ -107,5 +109,6 @@ high_value_words:
   - sequence
   - subsistence
   - violence
+  - resilience
 confusable_words:
   []

@@ -34,6 +34,10 @@ senses:
       - sensible
       - susceptible
       - susceptible to
+      - dispersible
+      - susceptibility
+      - susceptibilities
+      - susceptibly
 similar_form:
   []
 similar_meaning:
@@ -59,6 +63,10 @@ patterns:
   - ible -> sensible
   - -ible -> susceptible
   - -ible -> susceptible to
+  - -ible -> dispersible
+  - -ibil -> susceptibility
+  - -ibil -> susceptibilities
+  - -ibl -> susceptibly
 high_value_words:
   - illegible
   - inaccessible
@@ -80,5 +88,9 @@ high_value_words:
   - sensible
   - susceptible
   - susceptible to
+  - dispersible
+  - susceptibility
+  - susceptibilities
+  - susceptibly
 confusable_words:
   []

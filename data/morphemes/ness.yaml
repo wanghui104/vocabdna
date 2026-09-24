@@ -45,6 +45,7 @@ senses:
       - uniqueness
       - vastness
       - weariness
+      - primitiveness
 similar_form:
   []
 similar_meaning:
@@ -81,6 +82,7 @@ patterns:
   - -ness -> uniqueness
   - -ness -> vastness
   - -ness -> weariness
+  - -ness -> primitiveness
 high_value_words:
   - aggressiveness
   - airsickness
@@ -113,5 +115,6 @@ high_value_words:
   - uniqueness
   - vastness
   - weariness
+  - primitiveness
 confusable_words:
   []

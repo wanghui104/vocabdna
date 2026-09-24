@@ -2,41 +2,63 @@
 id: susceptible-to
 word: susceptible to
 pos: phrase
-zh: 易受…影响
-en: Means 易受…影响; reviewed from the TOEFL source gloss for learner display.
+zh: 易受……影响的；易发生……的
+en: likely to be affected by a specified influence
 components:
   - morpheme: sus
     form: sus-
-    meaning_in_word: under; up from below / 在下；从下
+    meaning_in_word: up from under / 从下向上
     zh: 从下支撑；在下
     role: prefix
     is_core: false
+    note: sub- 的变体；与 capere 组合成 suscipere“拿起、接受”。
+    related_morphemes:
+      - sub
   - morpheme: cept
     form: cept
     meaning_in_word: take; receive / 拿；接受
     zh: 取；理解
     role: root
     is_core: true
+    note: Latin susceptus 的词干部分；更深层 capere 见词根页。
+    related_morphemes:
+      - cap
   - morpheme: ible
     form: -ible
-    meaning_in_word: able to be / 能被…的
+    meaning_in_word: able to be / 能被……的
     zh: 可……的
     role: suffix
     is_core: false
   - morpheme: to
     form: to
-    meaning_in_word: to / 到；向
+    meaning_in_word: introduces the influence / 引出影响来源
     zh: 向；到
     role: root
     is_core: true
+    note: 此处 to 是介词；后接名词或动名词，不是表示目的的不定式标记。
 word_family:
   - susceptible
+  - susceptibility
+  - susceptibilities
+  - susceptibly
 word_family_details:
   - word: susceptible
-    en: Means 易受影响的；敏感的，过敏的; reviewed from the TOEFL source gloss for learner display.
-    zh: 易受影响的；敏感的，过敏的
+    en: easily affected by an influence, emotionally impressionable, or capable of undergoing a process
+    zh: 易受影响的；易感的；易动感情的；可接受某种处理的
+  - word: susceptibility
+    en: the tendency to be affected by something; also a physical measure of response to a field
+    zh: 易感性；易受影响的程度；感受性；（物理）磁化率或电极化率
+  - word: susceptibilities
+    en: plural of susceptibility: tendencies to be affected, or personal feelings and sensitivities
+    zh: 易感倾向；敏感之处；感情、自尊（复数）
+  - word: susceptibly
+    en: in a manner that is easily influenced or emotionally affected
+    zh: 易受影响地；易动感情地
 confusables:
   []
 examples:
-  []
-why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。
+  - en: The seedlings are susceptible to frost damage.
+    zh: 这些幼苗容易遭受霜冻损害。
+  - en: An inexperienced buyer may be susceptible to being misled.
+    zh: 没有经验的买家可能容易受误导。
+why_confusing: to 后接名词或动名词：susceptible to damage / to being misled；不能照搬不定式写成 susceptible to be misled。

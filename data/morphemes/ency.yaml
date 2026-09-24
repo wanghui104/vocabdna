@@ -20,6 +20,7 @@ senses:
       - presidency
       - tendency
       - urgency
+      - resiliency
 similar_form:
   []
 similar_meaning:
@@ -30,11 +31,13 @@ patterns:
   - -ency -> presidency
   - -ency -> tendency
   - -ency -> urgency
+  - -ency -> resiliency
 high_value_words:
   - efficiency
   - fluency
   - presidency
   - tendency
   - urgency
+  - resiliency
 confusable_words:
   []

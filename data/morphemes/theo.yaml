@@ -5,9 +5,10 @@ type: root
 core_meaning: god, deity
 zh: 神；神明
 origin: Greek
-source_form: Greek theos
-source_meaning: god
-source_meaning_zh: 神
+source_form: Greek θεός (theos)
+source_meaning: god; deity
+source_meaning_zh: 神；神明
+source_note: the-/theo- 均来自 theos；theo- 的 o 用于连接后面的构词成分。Greek atheos = a-（无、不）+ theos；theology 经 Greek theologia、Latin theologia 与法语形式传入。这里的 the- 不是英语冠词 the，也不是 theory 的 theor-。参考 https://www.etymonline.com/word/atheist ; https://www.merriam-webster.com/dictionary/atheism 。释义改写，例句自编。 参考 https://www.etymonline.com/word/theology ; https://www.merriam-webster.com/dictionary/theology 。释义改写，例句自编。
 related_morphemes:
   []
 senses:
@@ -16,6 +17,16 @@ senses:
     examples:
       - atheist
       - theist
+      - atheism
+      - atheistic
+      - atheistically
+      - theism
+      - theistic
+      - theistically
+      - theology
+      - theologian
+      - theological
+      - theologically
 similar_form:
   []
 similar_meaning:
@@ -23,8 +34,28 @@ similar_meaning:
 patterns:
   - the -> atheist
   - the -> theist
+  - the -> atheism
+  - the -> atheistic
+  - the -> atheistically
+  - the -> theism
+  - the -> theistic
+  - the -> theistically
+  - theo -> theology
+  - theo -> theologian
+  - theo -> theological
+  - theo -> theologically
 high_value_words:
   - atheist
   - theist
+  - atheism
+  - atheistic
+  - atheistically
+  - theism
+  - theistic
+  - theistically
+  - theology
+  - theologian
+  - theological
+  - theologically
 confusable_words:
   []

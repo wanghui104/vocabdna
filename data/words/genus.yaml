@@ -1,0 +1,30 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: genus
+word: genus
+pos: noun
+zh: 属；类别
+en: a biological group ranked above species and below family; more broadly, a class of things
+components:
+  - morpheme: gener
+    form: genus
+    meaning_in_word: kind, genus / 种类、属
+    zh: 种类；血统；产生
+    role: root
+    is_core: true
+    note: 保留 Latin genus 的名词表层；gener- 是其屈折词干。
+    related_morphemes:
+      - gen-origin
+word_family:
+  - genera
+word_family_details:
+  - word: genera
+    en: more than one genus, or biological classification group
+    zh: 属（genus 的复数）
+confusables:
+  - word: gene
+    reason: 读音 /ˈdʒiːnəs/。 常见复数 genera /ˈdʒenərə/，也有 genuses；genus 不是 gene（基因）。
+    zh_reason: 读音 /ˈdʒiːnəs/。 常见复数 genera /ˈdʒenərə/，也有 genuses；genus 不是 gene（基因）。
+examples:
+  - en: These two species belong to the same genus.
+    zh: 这两个物种属于同一个属。
+why_confusing: 读音 /ˈdʒiːnəs/。 常见复数 genera /ˈdʒenərə/，也有 genuses；genus 不是 gene（基因）。

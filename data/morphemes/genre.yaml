@@ -2,18 +2,18 @@
 id: genre
 display: genre
 type: root
-core_meaning: draft meaning for genre
-zh: 文学上的流派和体裁
-origin: Unknown
-source_form: TOEFL draft opaque stem: genre
-source_meaning: draft learner stem for genre
-source_meaning_zh: 文学上的流派和体裁
-source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+core_meaning: kind; style; class
+zh: 种类；风格；类别
+origin: French
+source_form: French genre; Latin genus, generis
+source_meaning: kind; style; class
+source_meaning_zh: 种类；风格；类别
+source_note: 法语整体借词，现代英语不拆为 gen- + -re；更深层经法语接到 Latin genus/generis，与 gender 同源但现代词义不同。参考 https://www.etymonline.com/word/genre ; https://www.merriam-webster.com/dictionary/genre
 related_morphemes:
-  []
+  - gener
 senses:
-  - meaning: draft meaning for genre
-    zh: 文学上的流派和体裁
+  - meaning: kind; style; class
+    zh: 种类；风格；类别
     examples:
       - genre
 similar_form:

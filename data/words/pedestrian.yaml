@@ -1,0 +1,61 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: pedestrian
+word: pedestrian
+pos: noun/adjective
+zh: 行人；步行的，行人专用的；平庸的，乏味的
+en: a person travelling on foot; relating to walking; also ordinary and lacking interest
+components:
+  - morpheme: pedestr
+    form: pedestr
+    meaning_in_word: on foot / 步行的
+    zh: 步行的；足
+    role: root
+    is_core: true
+    note: 表层 pedestr- 来自 Latin pedester；更深层 ped- 来自 pes/pedis 足，关联 root:ped。
+    related_morphemes:
+      - ped
+  - morpheme: ian
+    form: -ian
+    meaning_in_word: relating to; person / 与……有关；人
+    zh: 属于……的人
+    role: suffix
+    is_core: false
+    note: 这里既可构成形容词，也可构成表示人的名词。
+word_family:
+  - pedestrianize
+  - pedestrianization
+  - pedestrianized
+  - pedestrianise
+  - pedestrianisation
+  - pedestrianised
+word_family_details:
+  - word: pedestrianize
+    en: to convert a street or area to use by people on foot rather than vehicles
+    zh: 使成为步行区；禁止车辆进入（某区域）
+  - word: pedestrianization
+    en: the process of converting a street or district into an area for pedestrians
+    zh: 步行化；步行区改造
+  - word: pedestrianized
+    en: converted to use by pedestrians; the past tense and past participle of pedestrianize
+    zh: 已改为步行区的；使成为步行区（过去式、过去分词）
+  - word: pedestrianise
+    en: to convert a street or area to use by people on foot rather than vehicles
+    zh: 使成为步行区；禁止车辆进入（某区域）
+  - word: pedestrianisation
+    en: the process of converting a street or district into an area for pedestrians
+    zh: 步行化；步行区改造
+  - word: pedestrianised
+    en: converted to use by pedestrians; the past tense and past participle of pedestrianize
+    zh: 已改为步行区的；使成为步行区（过去式、过去分词）
+confusables:
+  - word: pediatric
+    reason: 名词可数：a pedestrian / pedestrians；形容词评价作品时通常含贬义。 pediatric 的 ped-/paed- 是 Greek pais/paidos 儿童；pedestrian 的 pedestr- 来自 Latin pes/pedis 足，不能把两者当成同源词。
+    zh_reason: 名词可数：a pedestrian / pedestrians；形容词评价作品时通常含贬义。 pediatric 的 ped-/paed- 是 Greek pais/paidos 儿童；pedestrian 的 pedestr- 来自 Latin pes/pedis 足，不能把两者当成同源词。
+examples:
+  - en: Drivers must give way to pedestrians at this crossing.
+    zh: 司机必须在这个人行横道让行人先行。
+  - en: A pedestrian bridge connects the two parks.
+    zh: 一座人行桥连接着这两个公园。
+  - en: The report offered only a pedestrian analysis of the problem.
+    zh: 这份报告对问题的分析平淡无奇。
+why_confusing: 名词可数：a pedestrian / pedestrians；形容词评价作品时通常含贬义。 pediatric 的 ped-/paed- 是 Greek pais/paidos 儿童；pedestrian 的 pedestr- 来自 Latin pes/pedis 足，不能把两者当成同源词。

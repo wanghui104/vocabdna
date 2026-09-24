@@ -87,6 +87,7 @@ senses:
       - frustrated
       - furnished
       - fused
+      - gendered
       - glazed
       - haunted
       - horned
@@ -107,6 +108,8 @@ senses:
       - outmoded
       - overtaxed
       - packed
+      - pedestrianised
+      - pedestrianized
       - pinched
       - ploished
       - potted
@@ -175,6 +178,12 @@ senses:
       - entangled
       - untangled
       - disentangled
+      - hampered
+      - unhampered
+      - dispersed
+      - straddled
+      - saddled
+      - precipitated
 similar_form:
   []
 similar_meaning:
@@ -253,6 +262,7 @@ patterns:
   - -ed -> frustrated
   - -ed -> furnished
   - -ed -> fused
+  - -ed -> gendered
   - -ed -> glazed
   - -ed -> haunted
   - -ed -> horned
@@ -273,6 +283,8 @@ patterns:
   - -ed -> outmoded
   - -ed -> overtaxed
   - -ed -> packed
+  - -ed -> pedestrianised
+  - -ed -> pedestrianized
   - -ed -> pinched
   - -ed -> ploished
   - -ed -> potted
@@ -341,6 +353,12 @@ patterns:
   - -ed -> entangled
   - -ed -> untangled
   - -ed -> disentangled
+  - -ed -> hampered
+  - -ed -> unhampered
+  - -ed -> dispersed
+  - -ed -> straddled
+  - -ed -> saddled
+  - -ed -> precipitated
 high_value_words:
   - abandoned
   - accelerated
@@ -415,6 +433,7 @@ high_value_words:
   - frustrated
   - furnished
   - fused
+  - gendered
   - glazed
   - haunted
   - horned
@@ -435,6 +454,8 @@ high_value_words:
   - outmoded
   - overtaxed
   - packed
+  - pedestrianised
+  - pedestrianized
   - pinched
   - ploished
   - potted
@@ -503,5 +524,11 @@ high_value_words:
   - entangled
   - untangled
   - disentangled
+  - hampered
+  - unhampered
+  - dispersed
+  - straddled
+  - saddled
+  - precipitated
 confusable_words:
   []

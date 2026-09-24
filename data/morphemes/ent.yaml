@@ -5,10 +5,10 @@ type: suffix
 core_meaning: having quality
 zh: 具有…性质
 origin: Latin
-source_form: ent
-source_meaning: having quality
-source_meaning_zh: 具有…性质
-source_note: Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition.
+source_form: Latin -ens, -entis (stem -ent-)
+source_meaning: being or doing; having a quality
+source_meaning_zh: 正在……的；具有某种性质的
+source_note: 来自拉丁语现在分词词尾；例如 resiliens（属格 resilientis）留下 resilient- 形式。这里 i 留在 sili- 词干中。参考 https://www.etymonline.com/word/-ent ; https://www.etymonline.com/word/resilient
 related_morphemes:
   []
 senses:
@@ -96,6 +96,7 @@ senses:
       - residential
       - reverently
       - rodent
+      - salient
       - sedentary
       - stringent
       - subsequent
@@ -106,6 +107,8 @@ senses:
       - unprecedented
       - urgent
       - violent
+      - resilient
+      - resiliently
 similar_form:
   []
 similar_meaning:
@@ -192,6 +195,7 @@ patterns:
   - -ent -> residential
   - -ent -> reverently
   - -ent -> rodent
+  - -ent -> salient
   - -ent -> sedentary
   - -ent -> stringent
   - -ent -> subsequent
@@ -202,6 +206,8 @@ patterns:
   - -ent -> unprecedented
   - -ent -> urgent
   - -ent -> violent
+  - -ent -> resilient
+  - -ent -> resiliently
 high_value_words:
   - abundant
   - abundantly
@@ -284,6 +290,7 @@ high_value_words:
   - residential
   - reverently
   - rodent
+  - salient
   - sedentary
   - stringent
   - subsequent
@@ -294,5 +301,7 @@ high_value_words:
   - unprecedented
   - urgent
   - violent
+  - resilient
+  - resiliently
 confusable_words:
   []

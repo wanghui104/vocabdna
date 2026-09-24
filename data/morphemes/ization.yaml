@@ -14,17 +14,14 @@ senses:
   - meaning: act or process of making
     zh: 使成为的过程
     examples:
-      - generalization
       - industrialization
 similar_form:
   []
 similar_meaning:
   []
 patterns:
-  - -ization -> generalization
   - -ization -> industrialization
 high_value_words:
-  - generalization
   - industrialization
 confusable_words:
   []

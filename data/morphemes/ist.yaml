@@ -28,6 +28,8 @@ senses:
       - ecologist
       - escapist
       - feminist
+      - genealogist
+      - geneticist
       - humanist
       - humanistic
       - instrumentalist
@@ -55,6 +57,11 @@ senses:
       - sophistication
       - theist
       - vitalist
+      - primitivist
+      - atheistic
+      - atheistically
+      - theistic
+      - theistically
 similar_form:
   []
 similar_meaning:
@@ -74,6 +81,8 @@ patterns:
   - -ist -> ecologist
   - -ist -> escapist
   - -ist -> feminist
+  - -ist -> genealogist
+  - -ist -> geneticist
   - -ist -> humanist
   - -ist -> humanistic
   - -ist -> instrumentalist
@@ -101,6 +110,11 @@ patterns:
   - -ist -> sophistication
   - -ist -> theist
   - -ist -> vitalist
+  - -ist -> primitivist
+  - -ist -> atheistic
+  - -ist -> atheistically
+  - -ist -> theistic
+  - -ist -> theistically
 high_value_words:
   - abolitionist
   - anarchist
@@ -116,6 +130,8 @@ high_value_words:
   - ecologist
   - escapist
   - feminist
+  - genealogist
+  - geneticist
   - humanist
   - humanistic
   - instrumentalist
@@ -143,5 +159,10 @@ high_value_words:
   - sophistication
   - theist
   - vitalist
+  - primitivist
+  - atheistic
+  - atheistically
+  - theistic
+  - theistically
 confusable_words:
   []

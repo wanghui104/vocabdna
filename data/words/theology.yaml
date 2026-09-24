@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: theology
+word: theology
+pos: noun
+zh: 神学；神学体系
+en: the study of God, religious beliefs and practices, or a system of theological ideas
+components:
+  - morpheme: theo
+    form: theo
+    meaning_in_word: god / 神
+    zh: 神；神明
+    role: root
+    is_core: true
+    note: theo- 是 theos 的组合形式，o 为连接元音。
+  - morpheme: logy
+    form: -logy
+    meaning_in_word: study; discourse / 研究；论述
+    zh: 学科、研究
+    role: suffix
+    is_core: false
+    note: Greek -logia，和 logos“论述”相关。
+word_family:
+  - theologian
+  - theological
+  - theologically
+word_family_details:
+  - word: theologian
+    en: a scholar or specialist in theology
+    zh: 神学家；神学研究者
+  - word: theological
+    en: relating to theology
+    zh: 神学的；与神学有关的
+  - word: theologically
+    en: from a theological point of view
+    zh: 从神学角度；在神学上
+confusables:
+  - word: theism
+    reason: theology 是学科或思想体系，theism 是相信神存在的立场。theology 不等同于一切 religious studies；常涉及对神、信仰及教义的系统论述。
+    zh_reason: theology 是学科或思想体系，theism 是相信神存在的立场。theology 不等同于一切 religious studies；常涉及对神、信仰及教义的系统论述。
+examples:
+  - en: She studies theology and the history of religion.
+    zh: 她研究神学和宗教史。
+  - en: The book compares the theologies of two religious traditions.
+    zh: 这本书比较了两个宗教传统的神学体系。
+why_confusing: theology 是学科或思想体系，theism 是相信神存在的立场。theology 不等同于一切 religious studies；常涉及对神、信仰及教义的系统论述。

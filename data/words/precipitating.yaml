@@ -1,0 +1,66 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: precipitating
+word: precipitating
+pos: verb/adjective
+zh: 正在引发；正在析出；起诱发作用的
+en: the present participle of precipitate; also describing a factor that triggers an event
+components:
+  - morpheme: pre
+    form: pre-
+    meaning_in_word: before; forward / 在前；向前
+    zh: 预先、在前
+    role: prefix
+    is_core: false
+    note: 此处 prae 表“在前、向前”；不是简单表示“预先”。
+  - morpheme: cipit
+    form: cipit
+    meaning_in_word: head / 头
+    zh: 头（用于头朝前、头朝下的意象）
+    role: root
+    is_core: true
+    note: Latin caput 的复合词变体；pre- + cipit- 形成“头朝前、猛落”的整体意象。
+  - morpheme: ate
+    form: -at
+    meaning_in_word: action or resulting quality / 动作或结果性质
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: 来自 Latin praecipitatus / praecipitare 的构词层；同一拼写可作动词、形容词或名词。接 -ed/-ing 时去 e。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing action or function / 持续动作或作用
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - precipitate
+  - precipitation
+  - precipitated
+  - precipitately
+  - precipitous
+  - precipitously
+word_family_details:
+  - word: precipitate
+    en: to trigger an event or cause separation or falling; also a separated solid, or an adjective meaning rashly hasty
+    zh: 促使突然发生；使沉淀、析出；形成降水；沉淀物（名词）；仓促的（形容词）
+  - word: precipitation
+    en: water falling from the atmosphere or its amount; also solid separation or undue haste
+    zh: 降水；降水量；沉淀、析出过程；仓促
+  - word: precipitated
+    en: the past tense and past participle of precipitate, or describing material that has separated out
+    zh: 引发了；析出了；被促成的；沉淀析出的
+  - word: precipitately
+    en: with excessive haste and too little thought
+    zh: 仓促地；轻率地
+  - word: precipitous
+    en: very steep, sharply changing, or rashly hasty
+    zh: 陡峭的；骤然的；急剧的；仓促的
+  - word: precipitously
+    en: at a steep angle, with a sudden sharp change, or with undue haste
+    zh: 陡峭地；急剧地；骤然地；仓促地
+confusables:
+  []
+examples:
+  - en: The report identified the precipitating factor in the crisis.
+    zh: 报告指出了危机的诱发因素。
+why_confusing: 常见 precipitating factor/event；不是形容“仓促”的 precipitate，也不等于形容陡峭的 precipitous。

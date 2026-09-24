@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: postpartum
+word: postpartum
+pos: adjective/adverb
+zh: 产后的；在产后
+en: relating to, or taking place after, childbirth
+components:
+  - morpheme: post-after
+    form: post-
+    meaning_in_word: after / 之后
+    zh: 在……之后；在后
+    role: prefix
+    is_core: false
+  - morpheme: partum
+    form: partum
+    meaning_in_word: childbirth / 分娩
+    zh: 分娩；生育
+    role: root
+    is_core: true
+    note: Latin partus 的宾格 partum；更深层源于 parere“生育”。
+word_family:
+  []
+word_family_details:
+  []
+confusables:
+  - word: antepartum
+    reason: postpartum /ˌpoʊstˈpɑːrtəm/ 本身可作形容词或副词，如 postpartum care 和 eight weeks postpartum。antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 postnatal 泛指出生后，也用于产后护理；两词有重叠，不能简单按“母亲/婴儿”绝对划分。
+    zh_reason: postpartum /ˌpoʊstˈpɑːrtəm/ 本身可作形容词或副词，如 postpartum care 和 eight weeks postpartum。antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 postnatal 泛指出生后，也用于产后护理；两词有重叠，不能简单按“母亲/婴儿”绝对划分。
+  - word: intrapartum
+    reason: postpartum /ˌpoʊstˈpɑːrtəm/ 本身可作形容词或副词，如 postpartum care 和 eight weeks postpartum。antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 postnatal 泛指出生后，也用于产后护理；两词有重叠，不能简单按“母亲/婴儿”绝对划分。
+    zh_reason: postpartum /ˌpoʊstˈpɑːrtəm/ 本身可作形容词或副词，如 postpartum care 和 eight weeks postpartum。antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 postnatal 泛指出生后，也用于产后护理；两词有重叠，不能简单按“母亲/婴儿”绝对划分。
+  - word: peripartum
+    reason: postpartum /ˌpoʊstˈpɑːrtəm/ 本身可作形容词或副词，如 postpartum care 和 eight weeks postpartum。antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 postnatal 泛指出生后，也用于产后护理；两词有重叠，不能简单按“母亲/婴儿”绝对划分。
+    zh_reason: postpartum /ˌpoʊstˈpɑːrtəm/ 本身可作形容词或副词，如 postpartum care 和 eight weeks postpartum。antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 postnatal 泛指出生后，也用于产后护理；两词有重叠，不能简单按“母亲/婴儿”绝对划分。
+  - word: postnatal
+    reason: postpartum /ˌpoʊstˈpɑːrtəm/ 本身可作形容词或副词，如 postpartum care 和 eight weeks postpartum。antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 postnatal 泛指出生后，也用于产后护理；两词有重叠，不能简单按“母亲/婴儿”绝对划分。
+    zh_reason: postpartum /ˌpoʊstˈpɑːrtəm/ 本身可作形容词或副词，如 postpartum care 和 eight weeks postpartum。antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 postnatal 泛指出生后，也用于产后护理；两词有重叠，不能简单按“母亲/婴儿”绝对划分。
+examples:
+  - en: The booklet includes a chapter on postpartum recovery.
+    zh: 这本手册有一章介绍产后恢复。
+  - en: She returned for an interview eight weeks postpartum.
+    zh: 她在产后八周回来接受了访谈。
+why_confusing: postpartum /ˌpoʊstˈpɑːrtəm/ 本身可作形容词或副词，如 postpartum care 和 eight weeks postpartum。antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 postnatal 泛指出生后，也用于产后护理；两词有重叠，不能简单按“母亲/婴儿”绝对划分。

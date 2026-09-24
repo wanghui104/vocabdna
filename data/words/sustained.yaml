@@ -11,6 +11,8 @@ components:
     zh: 从下支撑；在下
     role: prefix
     is_core: false
+    related_morphemes:
+      - sub
   - morpheme: tain
     form: tain
     meaning_in_word: hold / 持有；支撑

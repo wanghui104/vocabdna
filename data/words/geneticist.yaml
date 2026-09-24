@@ -1,0 +1,54 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: geneticist
+word: geneticist
+pos: noun
+zh: 遗传学家
+en: a scientist who studies genes and inheritance
+components:
+  - morpheme: genet
+    form: genet
+    meaning_in_word: origin; heredity / 起源；遗传
+    zh: 与起源、出生有关
+    role: root
+    is_core: true
+    note: 教学表层 genet-；历史上 genetic 早于 gene。
+    related_morphemes:
+      - gen-origin
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: 从事……的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - gene
+  - genetic
+  - genetics
+  - genetically
+word_family_details:
+  - word: gene
+    en: a unit of inherited information carried by a particular DNA sequence, or by RNA in some viruses
+    zh: 基因；遗传的功能单位
+  - word: genetic
+    en: relating to genes or heredity; in broader use, relating to origins or development
+    zh: 遗传的；基因的；与起源有关的
+  - word: genetics
+    en: the scientific study of genes, heredity, and variation
+    zh: 遗传学
+  - word: genetically
+    en: in a way that concerns genes or heredity
+    zh: 在遗传上；从基因角度
+confusables:
+  - word: genealogist
+    reason: geneticist 是研究者，genetics 是学科。
+    zh_reason: geneticist 是研究者，genetics 是学科。
+examples:
+  - en: A geneticist analyzed the inherited pattern.
+    zh: 一位遗传学家分析了这种遗传模式。
+why_confusing: geneticist 是研究者，genetics 是学科。

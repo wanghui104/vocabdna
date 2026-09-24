@@ -1,0 +1,38 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: genderless
+word: genderless
+pos: adjective
+zh: 无性别的；不区分性别的
+en: having no gender or not making a distinction by gender
+components:
+  - morpheme: gender
+    form: gender
+    meaning_in_word: gender, class / 性别、类别
+    zh: 种类；类别；性
+    role: root
+    is_core: true
+    note: 保留现代词干；源自 Old French gendre/genre，再到 Latin genus/generis。
+    related_morphemes:
+      - gener
+  - morpheme: less
+    form: -less
+    meaning_in_word: 无；没有
+    zh: 无；没有
+    role: suffix
+    is_core: false
+word_family:
+  - gender
+  - gendered
+word_family_details:
+  - word: gender
+    en: a category of identity and social roles, or a grammatical class that affects word agreement
+    zh: 性别；社会性别；语法上的性
+  - word: gendered
+    en: shaped by, assigned to, or associated with a gender
+    zh: 具有性别色彩的；按性别区分的
+confusables:
+  []
+examples:
+  - en: The design uses a genderless figure.
+    zh: 这个设计使用了一个不区分性别的人物形象。
+why_confusing: 描述不带性别标记的对象或表达；不等于所有性别身份术语。

@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: straddling
+word: straddling
+pos: verb
+zh: 正在跨坐；横跨；兼跨
+en: the present participle of straddle, describing a position or activity spanning two sides
+components:
+  - morpheme: stride
+    form: stradd
+    meaning_in_word: spread the legs; stride / 迈开双腿、跨
+    zh: 大步
+    role: root
+    is_core: true
+    note: 与 stride 相关的不规则词干形式；历史上很可能经 striddle 演变，详见词根说明。
+  - morpheme: le-frequentative
+    form: -l
+    meaning_in_word: historical repeated action / 历史上的反复动作构词
+    zh: 反复或细小动作
+    role: suffix
+    is_core: false
+    note: 这里是历史动作后缀，不是 Latin -culus 的小称后缀；现代含义不要求反复跨坐。接元音开头词尾时去 e。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing action / 正在进行
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - straddle
+  - straddled
+  - straddler
+word_family_details:
+  - word: straddle
+    en: to sit with a leg on each side, extend across a boundary, span categories, or avoid choosing sides; also a legs-apart position
+    zh: 跨坐；横跨；兼跨两类；持两可态度；跨坐姿势（名词）
+  - word: straddled
+    en: the past tense and past participle of straddle
+    zh: 跨坐了；横跨（过去式、过去分词）
+  - word: straddler
+    en: a person who straddles something or avoids committing to either side
+    zh: 跨坐者；持两可立场的人
+confusables:
+  []
+examples:
+  - en: The report examines communities straddling the border.
+    zh: 报告研究了横跨边境的社区。
+why_confusing: 可表示稳定的跨界位置，不一定指正在移动；如 a town straddling a river。

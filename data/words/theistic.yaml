@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: theistic
+word: theistic
+pos: adjective
+zh: 有神论的
+en: relating to theism or belief in a god or gods
+components:
+  - morpheme: theo
+    form: the
+    meaning_in_word: god / 神
+    zh: 神；神明
+    role: root
+    is_core: true
+    note: the- 来自 Greek theos；与冠词 the 无关。
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: person holding a position / 持某种立场的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关的
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - theism
+  - theist
+  - theistically
+word_family_details:
+  - word: theism
+    en: belief that a god or gods exist
+    zh: 有神论
+  - word: theist
+    en: a person who believes that a god or gods exist
+    zh: 有神论者
+  - word: theistically
+    en: from a theistic standpoint
+    zh: 从有神论角度；以有神论方式
+confusables:
+  - word: theological
+    reason: theistic 表示有神论立场；theological 表示神学相关，两者不能不看语境地互换。
+    zh_reason: theistic 表示有神论立场；theological 表示神学相关，两者不能不看语境地互换。
+examples:
+  - en: The author presents a theistic interpretation of the text.
+    zh: 作者对这段文本提出了一种有神论的解读。
+why_confusing: theistic 表示有神论立场；theological 表示神学相关，两者不能不看语境地互换。

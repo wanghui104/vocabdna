@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: generic
+word: generic
+pos: adjective/noun
+zh: 通用的；一般性的；非品牌的；无品牌产品
+en: applying to a class rather than one member, or sold without a particular brand; also a nonbranded product
+components:
+  - morpheme: gener
+    form: gener
+    meaning_in_word: kind; produce / 类别；产生
+    zh: 种类；血统；产生
+    role: root
+    is_core: true
+    note: Latin genus/generis 的 gener- 词干；不同分支分别突出类别或产生。
+    related_morphemes:
+      - gen-origin
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: 与……有关
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - generically
+word_family_details:
+  - word: generically
+    en: in terms of a general class or a nonbrand name
+    zh: 笼统地；按类别；以通用名称
+confusables:
+  - word: genetic
+    reason: 读音 /dʒəˈnerɪk/。 generic /dʒəˈnerɪk/ ≠ genetic /dʒəˈnetɪk/；general 更常强调总体或大致。
+    zh_reason: 读音 /dʒəˈnerɪk/。 generic /dʒəˈnerɪk/ ≠ genetic /dʒəˈnetɪk/；general 更常强调总体或大致。
+  - word: general
+    reason: 读音 /dʒəˈnerɪk/。 generic /dʒəˈnerɪk/ ≠ genetic /dʒəˈnetɪk/；general 更常强调总体或大致。
+    zh_reason: 读音 /dʒəˈnerɪk/。 generic /dʒəˈnerɪk/ ≠ genetic /dʒəˈnetɪk/；general 更常强调总体或大致。
+examples:
+  - en: The manual uses a generic term for several kinds of equipment.
+    zh: 手册用一个通用名称指代几类设备。
+  - en: The pharmacy stocks both brands and generics.
+    zh: 这家药店同时备有品牌药和仿制药。
+  - en: The generic name is written with an initial capital letter.
+    zh: 属名的首字母要大写。
+why_confusing: 读音 /dʒəˈnerɪk/。 generic /dʒəˈnerɪk/ ≠ genetic /dʒəˈnetɪk/；general 更常强调总体或大致。

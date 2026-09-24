@@ -29,6 +29,9 @@ senses:
       - Cuban
       - metropolitan
       - utopian
+      - atheism
+      - atheistic
+      - atheistically
 similar_form:
   []
 similar_meaning:
@@ -49,6 +52,9 @@ patterns:
   - -an -> Cuban
   - an- -> metropolitan
   - -an -> utopian
+  - a- -> atheism
+  - a- -> atheistic
+  - a- -> atheistically
 high_value_words:
   - amnesia
   - anarchist
@@ -65,5 +71,8 @@ high_value_words:
   - Cuban
   - metropolitan
   - utopian
+  - atheism
+  - atheistic
+  - atheistically
 confusable_words:
   []

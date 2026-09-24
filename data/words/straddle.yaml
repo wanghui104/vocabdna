@@ -1,0 +1,51 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: straddle
+word: straddle
+pos: verb/noun
+zh: 跨坐；横跨；兼跨两类；持两可态度；跨坐姿势（名词）
+en: to sit with a leg on each side, extend across a boundary, span categories, or avoid choosing sides; also a legs-apart position
+components:
+  - morpheme: stride
+    form: stradd
+    meaning_in_word: spread the legs; stride / 迈开双腿、跨
+    zh: 大步
+    role: root
+    is_core: true
+    note: 与 stride 相关的不规则词干形式；历史上很可能经 striddle 演变，详见词根说明。
+  - morpheme: le-frequentative
+    form: -le
+    meaning_in_word: historical repeated action / 历史上的反复动作构词
+    zh: 反复或细小动作
+    role: suffix
+    is_core: false
+    note: 这里是历史动作后缀，不是 Latin -culus 的小称后缀；现代含义不要求反复跨坐。
+word_family:
+  - straddled
+  - straddling
+  - straddler
+word_family_details:
+  - word: straddled
+    en: the past tense and past participle of straddle
+    zh: 跨坐了；横跨（过去式、过去分词）
+  - word: straddling
+    en: the present participle of straddle, describing a position or activity spanning two sides
+    zh: 正在跨坐；横跨；兼跨
+  - word: straddler
+    en: a person who straddles something or avoids committing to either side
+    zh: 跨坐者；持两可立场的人
+confusables:
+  - word: saddle
+    reason: straddle /ˈstrædəl/ 是跨坐或横跨；saddle /ˈsædəl/ 是鞍，也可作“装鞍、加负担”的动词。straddle the fence 指骑墙、两边讨好。
+    zh_reason: straddle /ˈstrædəl/ 是跨坐或横跨；saddle /ˈsædəl/ 是鞍，也可作“装鞍、加负担”的动词。straddle the fence 指骑墙、两边讨好。
+examples:
+  - en: The child straddled the narrow bench.
+    zh: 孩子跨坐在窄长凳上。
+  - en: The village straddles the river.
+    zh: 村庄分布在河流两岸。
+  - en: The course straddles history and literature.
+    zh: 这门课程兼涉历史和文学。
+  - en: The candidate tried to straddle the issue.
+    zh: 候选人试图在该议题上保持模棱两可的立场。
+  - en: The gymnast held a wide straddle on the mat.
+    zh: 体操运动员在垫上保持大幅分腿姿势。
+why_confusing: straddle /ˈstrædəl/ 是跨坐或横跨；saddle /ˈsædəl/ 是鞍，也可作“装鞍、加负担”的动词。straddle the fence 指骑墙、两边讨好。

@@ -1,0 +1,52 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: generational
+word: generational
+pos: adjective
+zh: 代际的；一代人的
+en: relating to a generation or to differences between generations
+components:
+  - morpheme: gener
+    form: gener
+    meaning_in_word: kind; produce / 类别；产生
+    zh: 种类；血统；产生
+    role: root
+    is_core: true
+    note: Latin genus/generis 的 gener- 词干；不同分支分别突出类别或产生。
+    related_morphemes:
+      - gen-origin
+  - morpheme: ation
+    form: -ation
+    meaning_in_word: 动作；过程
+    zh: 动作；过程
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - generate
+  - generation
+  - generator
+  - generative
+word_family_details:
+  - word: generate
+    en: to bring something into existence or cause it to occur
+    zh: 产生；生成；引起
+  - word: generation
+    en: people of a similar age; the production of something; a stage in a series of products
+    zh: 一代人；产生，生成；（产品的）一代
+  - word: generator
+    en: a machine that produces electricity, or something that produces another result
+    zh: 发电机；发生器；生成器
+  - word: generative
+    en: capable of producing something or describing a process that creates new forms
+    zh: 能产生的；生成的；生殖的
+confusables:
+  []
+examples:
+  - en: The survey revealed a generational difference in reading habits.
+    zh: 调查显示不同代际的阅读习惯存在差异。
+why_confusing: generational gap/difference 指代际差异；与 generative 区分。

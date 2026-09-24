@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: theologian
+word: theologian
+pos: noun
+zh: 神学家；神学研究者
+en: a scholar or specialist in theology
+components:
+  - morpheme: theo
+    form: theo
+    meaning_in_word: god / 神
+    zh: 神；神明
+    role: root
+    is_core: true
+    note: theo- 是 theos 的组合形式，o 为连接元音。
+  - morpheme: logy
+    form: -log
+    meaning_in_word: study; discourse / 研究；论述
+    zh: 学科、研究
+    role: suffix
+    is_core: false
+    note: log- 是 -logy 在派生词中的词干形式；不是 English log“原木”。
+  - morpheme: ian
+    form: -ian
+    meaning_in_word: person connected with a field / 领域中的研究者
+    zh: 属于……的人
+    role: suffix
+    is_core: false
+    note: 经法语 theologien；教学表层 theolog- + -ian。
+word_family:
+  - theology
+  - theological
+  - theologically
+word_family_details:
+  - word: theology
+    en: the study of God, religious beliefs and practices, or a system of theological ideas
+    zh: 神学；神学体系
+  - word: theological
+    en: relating to theology
+    zh: 神学的；与神学有关的
+  - word: theologically
+    en: from a theological point of view
+    zh: 从神学角度；在神学上
+confusables:
+  - word: theist
+    reason: theologian 指研究领域，theist 指是否相信神存在。不能把所有有神论者都称为神学家。
+    zh_reason: theologian 指研究领域，theist 指是否相信神存在。不能把所有有神论者都称为神学家。
+examples:
+  - en: The theologian compared several interpretations of the passage.
+    zh: 这位神学家比较了对该段文本的几种解释。
+why_confusing: theologian 指研究领域，theist 指是否相信神存在。不能把所有有神论者都称为神学家。

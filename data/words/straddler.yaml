@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: straddler
+word: straddler
+pos: noun
+zh: 跨坐者；持两可立场的人
+en: a person who straddles something or avoids committing to either side
+components:
+  - morpheme: stride
+    form: stradd
+    meaning_in_word: spread the legs; stride / 迈开双腿、跨
+    zh: 大步
+    role: root
+    is_core: true
+    note: 与 stride 相关的不规则词干形式；历史上很可能经 striddle 演变，详见词根说明。
+  - morpheme: le-frequentative
+    form: -l
+    meaning_in_word: historical repeated action / 历史上的反复动作构词
+    zh: 反复或细小动作
+    role: suffix
+    is_core: false
+    note: 这里是历史动作后缀，不是 Latin -culus 的小称后缀；现代含义不要求反复跨坐。接元音开头词尾时去 e。
+  - morpheme: er
+    form: -er
+    meaning_in_word: person who does / 做某事的人
+    zh: ……者；……物
+    role: suffix
+    is_core: false
+word_family:
+  - straddle
+  - straddled
+  - straddling
+word_family_details:
+  - word: straddle
+    en: to sit with a leg on each side, extend across a boundary, span categories, or avoid choosing sides; also a legs-apart position
+    zh: 跨坐；横跨；兼跨两类；持两可态度；跨坐姿势（名词）
+  - word: straddled
+    en: the past tense and past participle of straddle
+    zh: 跨坐了；横跨（过去式、过去分词）
+  - word: straddling
+    en: the present participle of straddle, describing a position or activity spanning two sides
+    zh: 正在跨坐；横跨；兼跨
+confusables:
+  []
+examples:
+  - en: The editorial criticized him as a straddler on the issue.
+    zh: 社论批评他在该议题上是个骑墙派。
+why_confusing: 较少见的人物名词；比喻义常带批评色彩。

@@ -5,9 +5,10 @@ type: root
 core_meaning: leap, spring out
 zh: 跳出；跃起
 origin: Latin
-source_form: Latin salire
-source_meaning: to leap
-source_meaning_zh: 跳跃
+source_form: Latin salire; compound form -silire
+source_meaning: to jump, leap, spring
+source_meaning_zh: 跳跃；弹起
+source_note: salire 在 resilire（弹回）中出现元音变化，sal- 对应 sil-，本词族采用 sili- + -ent/-ence/-ency 的教学表层。resilire = re- 回 + salire 跳。不是 Latin sal 盐。参考 https://www.etymonline.com/word/resilience ; https://www.merriam-webster.com/dictionary/resilience
 related_morphemes:
   []
 senses:
@@ -15,13 +16,28 @@ senses:
     zh: 跳出；跃起
     examples:
       - assault
+      - salient
+      - resilience
+      - resiliency
+      - resilient
+      - resiliently
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - sault -> assault
+  - sali -> salient
+  - sili -> resilience
+  - sili -> resiliency
+  - sili -> resilient
+  - sili -> resiliently
 high_value_words:
   - assault
+  - salient
+  - resilience
+  - resiliency
+  - resilient
+  - resiliently
 confusable_words:
   []

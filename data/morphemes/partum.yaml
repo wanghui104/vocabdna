@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: partum
+display: partum
+type: root
+core_meaning: childbirth; giving birth
+zh: 分娩；生育
+origin: Latin
+source_form: Latin partus (accusative partum), from parere
+source_meaning: childbirth; giving birth
+source_meaning_zh: 分娩；生育
+source_note: 历史链：parere（生育）→ partus（分娩，动作名词）→ 宾格 partum。表层保留 partum；末尾 -um 是这里的格变化，不连接词库中表示中性单数的 -um，也不连接 pars“部分”的 part-。参考 https://www.merriam-webster.com/dictionary/postpartum ; https://www.etymonline.com/word/post-partum 。
+related_morphemes:
+  []
+senses:
+  - meaning: childbirth; giving birth
+    zh: 分娩；生育
+    examples:
+      - postpartum
+      - antepartum
+      - intrapartum
+      - peripartum
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - partum -> postpartum
+  - partum -> antepartum
+  - partum -> intrapartum
+  - partum -> peripartum
+high_value_words:
+  - postpartum
+  - antepartum
+  - intrapartum
+  - peripartum
+confusable_words:
+  []

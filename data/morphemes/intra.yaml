@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: intra
+display: intra-
+type: prefix
+core_meaning: within; during
+zh: 在……内；在……期间
+origin: Latin
+source_form: Latin intra
+source_meaning: within; during
+source_meaning_zh: 在……内；在……期间
+source_note: 空间上在内部，时间上在某过程之中；intrapartum 中指分娩过程中。参考 https://www.etymonline.com/word/intra- ; https://www.merriam-webster.com/medical/intrapartum 。
+related_morphemes:
+  []
+senses:
+  - meaning: within; during
+    zh: 在……内；在……期间
+    examples:
+      - intrapartum
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - intra- -> intrapartum
+high_value_words:
+  - intrapartum
+confusable_words:
+  []

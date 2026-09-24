@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: atri
+display: atri
+type: root
+core_meaning: central hall; atrium or receiving chamber
+zh: 中庭；前室；心房
+origin: Latin
+source_form: Latin atrium, atrii; stem atri-
+source_meaning: central court or main hall of a house
+source_meaning_zh: 住宅的中庭；中央大厅
+source_note: 保留可比较的 atri- 词干：atri- + -um，复数 atri- + -a，形容词 atri- + -al。建筑中的室、厅之义后来用于解剖学腔室，尤其心房。更早词源存在争议；与炉火、烟黑或伊特鲁里亚语的联系均不作为定论，不继续强拆。参考 https://www.etymonline.com/word/atrium ; https://www.merriam-webster.com/dictionary/atrium ; https://www.merriam-webster.com/dictionary/atrial 。释义改写，例句自编。
+related_morphemes:
+  []
+senses:
+  - meaning: central hall; atrium or receiving chamber
+    zh: 中庭；前室；心房
+    examples:
+      - atrium
+      - atriums
+      - atria
+      - atrial
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - atri -> atrium
+  - atri -> atriums
+  - atri -> atria
+  - atri -> atrial
+high_value_words:
+  - atrium
+  - atriums
+  - atria
+  - atrial
+confusable_words:
+  []

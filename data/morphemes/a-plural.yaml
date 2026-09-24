@@ -16,13 +16,19 @@ senses:
     zh: 复数
     examples:
       - flagella
+      - atria
+      - fora
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - -a -> flagella
+  - -a -> atria
+  - -a -> fora
 high_value_words:
   - flagella
+  - atria
+  - fora
 confusable_words:
   []

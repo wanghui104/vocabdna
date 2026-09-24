@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: genea
+display: genea
+type: root
+core_meaning: generation; descent; family line
+zh: 世代；血统；家系
+origin: Greek
+source_form: Greek γενεά (genea)
+source_meaning: generation; descent; family line
+source_meaning_zh: 世代；血统；家系
+source_note: genealogy 的直接前部是 genea，不是现代 gene + a。更深层关联重建 *gene-。参考 https://www.etymonline.com/word/genealogy ; https://www.merriam-webster.com/dictionary/genealogy
+related_morphemes:
+  - gen-origin
+senses:
+  - meaning: generation; descent; family line
+    zh: 世代；血统；家系
+    examples:
+      - genealogical
+      - genealogically
+      - genealogist
+      - genealogy
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - genea -> genealogical
+  - genea -> genealogically
+  - genea -> genealogist
+  - genea -> genealogy
+high_value_words:
+  - genealogical
+  - genealogically
+  - genealogist
+  - genealogy
+confusable_words:
+  []

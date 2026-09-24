@@ -73,6 +73,7 @@ senses:
       - untapped
       - untouched
       - unwieldy
+      - unhampered
 similar_form:
   []
 similar_meaning:
@@ -137,6 +138,7 @@ patterns:
   - un- -> untapped
   - un- -> untouched
   - un- -> unwieldy
+  - un- -> unhampered
 high_value_words:
   - opportunity
   - unadorned
@@ -197,5 +199,6 @@ high_value_words:
   - untapped
   - untouched
   - unwieldy
+  - unhampered
 confusable_words:
   []

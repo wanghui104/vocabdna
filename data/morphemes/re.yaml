@@ -204,6 +204,10 @@ senses:
       - romote
       - unrestrained
       - unrestricted
+      - resilience
+      - resiliency
+      - resilient
+      - resiliently
 similar_form:
   []
 similar_meaning:
@@ -399,6 +403,10 @@ patterns:
   - re- -> romote
   - re -> unrestrained
   - re -> unrestricted
+  - re- -> resilience
+  - re- -> resiliency
+  - re- -> resilient
+  - re- -> resiliently
 high_value_words:
   - be reserved to
   - disregard
@@ -590,5 +598,9 @@ high_value_words:
   - romote
   - unrestrained
   - unrestricted
+  - resilience
+  - resiliency
+  - resilient
+  - resiliently
 confusable_words:
   []

@@ -17,6 +17,10 @@ senses:
     examples:
       - crumble
       - crumple
+      - straddle
+      - straddled
+      - straddling
+      - straddler
 similar_form:
   []
 similar_meaning:
@@ -24,8 +28,16 @@ similar_meaning:
 patterns:
   - -le -> crumble
   - -le -> crumple
+  - -le -> straddle
+  - -l -> straddled
+  - -l -> straddling
+  - -l -> straddler
 high_value_words:
   - crumble
   - crumple
+  - straddle
+  - straddled
+  - straddling
+  - straddler
 confusable_words:
   []

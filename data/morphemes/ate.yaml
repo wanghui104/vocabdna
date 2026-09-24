@@ -131,6 +131,8 @@ senses:
       - frustrating
       - fumigate
       - generate
+      - generative
+      - generator
       - hesitate
       - hibernate
       - illiterate
@@ -232,6 +234,9 @@ senses:
       - ventilate
       - vertebrate
       - vibrate
+      - precipitated
+      - precipitating
+      - precipitately
 similar_form:
   []
 similar_meaning:
@@ -354,6 +359,8 @@ patterns:
   - -at -> frustrating
   - -ate -> fumigate
   - -ate -> generate
+  - -at -> generative
+  - -at -> generator
   - -ate -> hesitate
   - -ate -> hibernate
   - -ate -> illiterate
@@ -455,6 +462,9 @@ patterns:
   - -ate -> ventilate
   - -ate -> vertebrate
   - -ate -> vibrate
+  - -at -> precipitated
+  - -at -> precipitating
+  - -ate -> precipitately
 high_value_words:
   - abbreviate
   - accelerate
@@ -573,6 +583,8 @@ high_value_words:
   - frustrating
   - fumigate
   - generate
+  - generative
+  - generator
   - hesitate
   - hibernate
   - illiterate
@@ -674,5 +686,8 @@ high_value_words:
   - ventilate
   - vertebrate
   - vibrate
+  - precipitated
+  - precipitating
+  - precipitately
 confusable_words:
   []

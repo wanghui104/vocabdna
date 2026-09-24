@@ -24,6 +24,7 @@ senses:
       - endlessly
       - fruitless
       - fruitlessly
+      - genderless
       - harmless
       - helpless
       - matchless
@@ -36,6 +37,7 @@ senses:
       - regardless of
       - spotless
       - tasteless
+      - saddleless
 similar_form:
   []
 similar_meaning:
@@ -51,6 +53,7 @@ patterns:
   - -less -> endlessly
   - -less -> fruitless
   - -less -> fruitlessly
+  - -less -> genderless
   - -less -> harmless
   - -less -> helpless
   - -less -> matchless
@@ -63,6 +66,7 @@ patterns:
   - -less -> regardless of
   - -less -> spotless
   - -less -> tasteless
+  - -less -> saddleless
 high_value_words:
   - boundless
   - breathless
@@ -74,6 +78,7 @@ high_value_words:
   - endlessly
   - fruitless
   - fruitlessly
+  - genderless
   - harmless
   - helpless
   - matchless
@@ -86,5 +91,6 @@ high_value_words:
   - regardless of
   - spotless
   - tasteless
+  - saddleless
 confusable_words:
   []

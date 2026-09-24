@@ -1,0 +1,45 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: prenatal
+word: prenatal
+pos: adjective
+zh: 出生前的；产前的；与产前护理有关的
+en: relating to the time before birth
+components:
+  - morpheme: pre
+    form: pre-
+    meaning_in_word: before / 之前
+    zh: 预先、在前
+    role: prefix
+    is_core: false
+  - morpheme: nat
+    form: nat
+    meaning_in_word: be born / 出生
+    zh: 出生
+    role: root
+    is_core: true
+    note: Latin nasci / natus；natal 的 n 并非与前缀相连的独立成分。
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 与……有关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+word_family:
+  - prenatally
+word_family_details:
+  - word: prenatally
+    en: during the time before birth
+    zh: 在出生前；在产前
+confusables:
+  - word: antepartum
+    reason: prenatal 与 postnatal“出生后的”相对；在孕期护理语境中与 antepartum 接近。副词为 prenatally。
+    zh_reason: prenatal 与 postnatal“出生后的”相对；在孕期护理语境中与 antepartum 接近。副词为 prenatally。
+  - word: postnatal
+    reason: prenatal 与 postnatal“出生后的”相对；在孕期护理语境中与 antepartum 接近。副词为 prenatally。
+    zh_reason: prenatal 与 postnatal“出生后的”相对；在孕期护理语境中与 antepartum 接近。副词为 prenatally。
+examples:
+  - en: The book explains prenatal development.
+    zh: 这本书介绍了出生前的发育。
+  - en: She works at a prenatal clinic.
+    zh: 她在一家产前诊所工作。
+why_confusing: prenatal 与 postnatal“出生后的”相对；在孕期护理语境中与 antepartum 接近。副词为 prenatally。

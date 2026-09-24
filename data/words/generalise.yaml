@@ -1,0 +1,60 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: generalise
+word: generalise
+pos: verb
+zh: 概括；归纳；作笼统推论
+en: to draw a broad conclusion from particular cases or speak in general terms
+components:
+  - morpheme: gener
+    form: gener
+    meaning_in_word: kind; produce / 类别；产生
+    zh: 种类；血统；产生
+    role: root
+    is_core: true
+    note: Latin genus/generis 的 gener- 词干；不同分支分别突出类别或产生。
+    related_morphemes:
+      - gen-origin
+  - morpheme: al
+    form: -al
+    meaning_in_word: 属于……的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+  - morpheme: ize
+    form: -ise
+    meaning_in_word: 使成为；做
+    zh: 使成为；做
+    role: suffix
+    is_core: false
+word_family:
+  - general
+  - generally
+  - generality
+  - generalize
+  - generalization
+  - generalisation
+word_family_details:
+  - word: general
+    en: concerning a whole group, widespread, or lacking detail; as a noun, a senior military officer
+    zh: 总体的；普遍的；大致的；将军
+  - word: generally
+    en: in most cases, by most people, or in broad terms
+    zh: 通常；普遍地；总体上
+  - word: generality
+    en: a broad statement with few details, or the quality of applying widely
+    zh: 概括性说法；一般性；普遍性
+  - word: generalize
+    en: to draw a broad conclusion from particular cases or speak in general terms
+    zh: 概括；归纳；作笼统推论
+  - word: generalization
+    en: a broad conclusion about a group, or the process of forming one
+    zh: 概括；归纳；笼统推论
+  - word: generalisation
+    en: a broad conclusion about a group, or the process of forming one
+    zh: 概括；归纳；笼统推论
+confusables:
+  []
+examples:
+  - en: We should not generalise from a single example.
+    zh: 我们不应凭一个例子就作一般性推断。
+why_confusing: 英式常用 -ise 拼写。 generalize from ... = 根据……概括。

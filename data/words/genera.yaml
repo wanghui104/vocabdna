@@ -1,0 +1,28 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: genera
+word: genera
+pos: noun
+zh: 属（genus 的复数）
+en: more than one genus, or biological classification group
+components:
+  - morpheme: gener
+    form: genera
+    meaning_in_word: genera, plural kinds / 多个属
+    zh: 种类；血统；产生
+    role: root
+    is_core: true
+    note: Latin genus 的不规则复数整体表层；gener- 与拉丁复数结尾 -a 的关系记在本注释，不把 -a 当现代英语通用复数。
+    related_morphemes:
+      - gen-origin
+word_family:
+  - genus
+word_family_details:
+  - word: genus
+    en: a biological group ranked above species and below family; more broadly, a class of things
+    zh: 属；类别
+confusables:
+  []
+examples:
+  - en: The specimens represent three different genera.
+    zh: 这些标本代表三个不同的属。
+why_confusing: 读音 /ˈdʒenərə/；一个属用 genus，多个属用 genera。

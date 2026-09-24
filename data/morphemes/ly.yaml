@@ -85,6 +85,10 @@ senses:
       - fundamentally
       - furiously
       - gallantly
+      - genealogically
+      - generally
+      - generically
+      - genetically
       - heavenly
       - immediately
       - impartially
@@ -169,6 +173,18 @@ senses:
       - virtually
       - woolly
       - artificially
+      - resiliently
+      - primitively
+      - forensically
+      - susceptibly
+      - precipitately
+      - precipitously
+      - discrepantly
+      - atheistically
+      - theistically
+      - theologically
+      - postnatally
+      - prenatally
 similar_form:
   []
 similar_meaning:
@@ -245,6 +261,10 @@ patterns:
   - -ly -> fundamentally
   - -ly -> furiously
   - -ly -> gallantly
+  - -ly -> genealogically
+  - -ly -> generally
+  - -ly -> generically
+  - -ly -> genetically
   - -ly -> heavenly
   - -ly -> immediately
   - -ly -> impartially
@@ -329,6 +349,18 @@ patterns:
   - -ly -> virtually
   - -ly -> woolly
   - -ly -> artificially
+  - -ly -> resiliently
+  - -ly -> primitively
+  - -ly -> forensically
+  - -y -> susceptibly
+  - -ly -> precipitately
+  - -ly -> precipitously
+  - -ly -> discrepantly
+  - -ly -> atheistically
+  - -ly -> theistically
+  - -ly -> theologically
+  - -ly -> postnatally
+  - -ly -> prenatally
 high_value_words:
   - absolutely
   - abundantly
@@ -401,6 +433,10 @@ high_value_words:
   - fundamentally
   - furiously
   - gallantly
+  - genealogically
+  - generally
+  - generically
+  - genetically
   - heavenly
   - immediately
   - impartially
@@ -485,5 +521,17 @@ high_value_words:
   - virtually
   - woolly
   - artificially
+  - resiliently
+  - primitively
+  - forensically
+  - susceptibly
+  - precipitately
+  - precipitously
+  - discrepantly
+  - atheistically
+  - theistically
+  - theologically
+  - postnatally
+  - prenatally
 confusable_words:
   []

@@ -3,28 +3,43 @@ id: theist
 word: theist
 pos: noun
 zh: 有神论者
-en: a person who believes in the existence of a god or gods
+en: a person who believes that a god or gods exist
 components:
   - morpheme: theo
     form: the
-    meaning_in_word: god
+    meaning_in_word: god / 神
     zh: 神；神明
     role: root
     is_core: true
+    note: the- 来自 Greek theos；与冠词 the 无关。
   - morpheme: ist
     form: -ist
-    meaning_in_word: person with a belief
+    meaning_in_word: person holding a position / 持某种立场的人
     zh: 从事……的人
     role: suffix
     is_core: false
 word_family:
-  []
+  - theism
+  - theistic
+  - theistically
 word_family_details:
-  []
+  - word: theism
+    en: belief that a god or gods exist
+    zh: 有神论
+  - word: theistic
+    en: relating to theism or belief in a god or gods
+    zh: 有神论的
+  - word: theistically
+    en: from a theistic standpoint
+    zh: 从有神论角度；以有神论方式
 confusables:
   - word: atheist
-    reason: theist 有神论者；atheist 无神论者。
-    zh_reason: theist 有神论者；atheist 无神论者。
+    reason: theist /ˈθiːɪst/ 与 atheist 对照。theist 不等于 theologian：前者指信仰立场，后者指神学研究者；theism 是相应的立场名词。
+    zh_reason: theist /ˈθiːɪst/ 与 atheist 对照。theist 不等于 theologian：前者指信仰立场，后者指神学研究者；theism 是相应的立场名词。
+  - word: theologian
+    reason: theist /ˈθiːɪst/ 与 atheist 对照。theist 不等于 theologian：前者指信仰立场，后者指神学研究者；theism 是相应的立场名词。
+    zh_reason: theist /ˈθiːɪst/ 与 atheist 对照。theist 不等于 theologian：前者指信仰立场，后者指神学研究者；theism 是相应的立场名词。
 examples:
-  []
-why_confusing: theist 有神论者；atheist 无神论者。
+  - en: The panel included both a theist and an atheist.
+    zh: 讨论小组中既有有神论者，也有无神论者。
+why_confusing: theist /ˈθiːɪst/ 与 atheist 对照。theist 不等于 theologian：前者指信仰立场，后者指神学研究者；theism 是相应的立场名词。

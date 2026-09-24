@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gene
+word: gene
+pos: noun
+zh: 基因；遗传的功能单位
+en: a unit of inherited information carried by a particular DNA sequence, or by RNA in some viruses
+components:
+  - morpheme: gene-heredity
+    form: gene
+    meaning_in_word: unit of heredity / 遗传单位
+    zh: 遗传单位
+    role: root
+    is_core: true
+    note: 现代术语整体保留；更深层词源见词根说明。
+    related_morphemes:
+      - gen-origin
+word_family:
+  - genetic
+  - genetics
+  - genetically
+  - geneticist
+word_family_details:
+  - word: genetic
+    en: relating to genes or heredity; in broader use, relating to origins or development
+    zh: 遗传的；基因的；与起源有关的
+  - word: genetics
+    en: the scientific study of genes, heredity, and variation
+    zh: 遗传学
+  - word: genetically
+    en: in a way that concerns genes or heredity
+    zh: 在遗传上；从基因角度
+  - word: geneticist
+    en: a scientist who studies genes and inheritance
+    zh: 遗传学家
+confusables:
+  - word: genus
+    reason: 读音 /dʒiːn/。 基因参与性状形成，不意味着每种性状都由单个基因独自决定。
+    zh_reason: 读音 /dʒiːn/。 基因参与性状形成，不意味着每种性状都由单个基因独自决定。
+examples:
+  - en: Researchers studied a gene involved in flower color.
+    zh: 研究人员研究了一个参与花色形成的基因。
+why_confusing: 读音 /dʒiːn/。 基因参与性状形成，不意味着每种性状都由单个基因独自决定。

@@ -2,27 +2,36 @@
 id: hamper
 display: hamper
 type: root
-core_meaning: draft meaning for hamper
-zh: 妨碍，使困难
-origin: Unknown
-source_form: TOEFL draft opaque stem: hamper
-source_meaning: draft learner stem for hamper
-source_meaning_zh: 妨碍，使困难
-source_note: Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass.
+core_meaning: hinder (verb); basket (noun, separate source account)
+zh: 妨碍（动词）；篮筐（名词，来源另述）
+origin: Middle English
+source_form: Middle English hampren (verb); hanaper, hamper (basket noun)
+source_meaning: hinder or confine (verb); large basket (noun)
+source_meaning_zh: 妨碍、限制（动词）；大篮筐（名词）
+source_note: 本条保留同形词干的两条来源说明，不把同拼写当作同源证据。动词见 Middle English hampren，进一步来源不确定，可能关联篮筐义，也有其他解释。名词经 Anglo-French hanaper，来自 Old French hanepier（盛杯的容器），再到 hanap（杯）。两义的历史联系尚不能确定，不能强拆成 ham 火腿 + -er。参考 https://www.etymonline.com/word/hamper ; https://www.merriam-webster.com/dictionary/hamper ; https://www.merriam-webster.com/dictionary/unhampered 。释义改写，例句自编。
 related_morphemes:
   []
 senses:
-  - meaning: draft meaning for hamper
-    zh: 妨碍，使困难
+  - meaning: hinder (verb); basket (noun, separate source account)
+    zh: 妨碍（动词）；篮筐（名词，来源另述）
     examples:
       - hamper
+      - hampered
+      - hampering
+      - unhampered
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - hamper -> hamper
+  - hamper -> hampered
+  - hamper -> hampering
+  - hamper -> unhampered
 high_value_words:
   - hamper
+  - hampered
+  - hampering
+  - unhampered
 confusable_words:
   []

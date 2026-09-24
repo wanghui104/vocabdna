@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: generator
+word: generator
+pos: noun
+zh: 发电机；发生器；生成器
+en: a machine that produces electricity, or something that produces another result
+components:
+  - morpheme: gener
+    form: gener
+    meaning_in_word: kind; produce / 类别；产生
+    zh: 种类；血统；产生
+    role: root
+    is_core: true
+    note: Latin genus/generis 的 gener- 词干；不同分支分别突出类别或产生。
+    related_morphemes:
+      - gen-origin
+  - morpheme: ate
+    form: -at
+    meaning_in_word: 使成为、使做
+    zh: 使成为、使做
+    role: suffix
+    is_core: false
+    note: generate 省 e 后接 -or，保留 -at- 层。
+  - morpheme: or
+    form: -or
+    meaning_in_word: 做……的人或物
+    zh: 做……的人或物
+    role: suffix
+    is_core: false
+word_family:
+  - generate
+  - generation
+  - generative
+  - generational
+word_family_details:
+  - word: generate
+    en: to bring something into existence or cause it to occur
+    zh: 产生；生成；引起
+  - word: generation
+    en: people of a similar age; the production of something; a stage in a series of products
+    zh: 一代人；产生，生成；（产品的）一代
+  - word: generative
+    en: capable of producing something or describing a process that creates new forms
+    zh: 能产生的；生成的；生殖的
+  - word: generational
+    en: relating to a generation or to differences between generations
+    zh: 代际的；一代人的
+confusables:
+  []
+examples:
+  - en: A backup generator supplies power during an outage.
+    zh: 备用发电机在停电期间供电。
+why_confusing: 常指发电机；在软件中也可指生成器。

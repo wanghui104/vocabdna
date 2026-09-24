@@ -2,59 +2,47 @@
 id: generate
 word: generate
 pos: verb
-zh: 造成，产生 / 产卵
-en: Means 造成，产生 / 产卵; reviewed from the TOEFL source gloss and adjusted for learner display.
+zh: 产生；生成；引起
+en: to bring something into existence or cause it to occur
 components:
   - morpheme: gener
     form: gener
-    meaning_in_word: gener
-    zh: 产生；种类；出生
+    meaning_in_word: kind; produce / 类别；产生
+    zh: 种类；血统；产生
     role: root
     is_core: true
-    note: Reviewed surface piece; deeper source is shown on root root:gener.
+    note: Latin genus/generis 的 gener- 词干；不同分支分别突出类别或产生。
+    related_morphemes:
+      - gen-origin
   - morpheme: ate
     form: -ate
     meaning_in_word: 使成为、使做
     zh: 使成为、使做
     role: suffix
     is_core: false
-    note: Suffix layer from Latin -atus / -are.
 word_family:
-  - generous
-  - genesis
-  - genetic
-  - genetics
-  - genetically
-  - genial
-  - gentility
-  - genuine
+  - generation
+  - generator
+  - generative
+  - generational
 word_family_details:
-  - word: generous
-    en: Means 慷慨的 / 大量的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 慷慨的 / 大量的
-  - word: genesis
-    en: Means 起源，产生; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 起源，产生
-  - word: genetic
-    en: Means 遗传的，起源的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 遗传的，起源的
-  - word: genetics
-    en: Means 遗传学; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 遗传学
-  - word: genetically
-    en: Means 遗传上; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 遗传上
-  - word: genial
-    en: Means 和蔼可亲的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 和蔼可亲的
-  - word: gentility
-    en: Means 有教养，文雅; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 有教养，文雅
-  - word: genuine
-    en: Means 真正的，真实的；真诚的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 真正的，真实的；真诚的
+  - word: generation
+    en: people of a similar age; the production of something; a stage in a series of products
+    zh: 一代人；产生，生成；（产品的）一代
+  - word: generator
+    en: a machine that produces electricity, or something that produces another result
+    zh: 发电机；发生器；生成器
+  - word: generative
+    en: capable of producing something or describing a process that creates new forms
+    zh: 能产生的；生成的；生殖的
+  - word: generational
+    en: relating to a generation or to differences between generations
+    zh: 代际的；一代人的
 confusables:
   []
 examples:
-  []
-why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.
+  - en: The panels generate electricity during the day.
+    zh: 这些太阳能板在白天发电。
+  - en: The proposal generated considerable interest.
+    zh: 这项提议引起了相当大的兴趣。
+why_confusing: 读音 /ˈdʒenəreɪt/。 常用 generate electricity/ideas/income；与 gene 有远源联系，但不是“制造基因”的专用动词。

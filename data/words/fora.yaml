@@ -1,0 +1,36 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: fora
+word: fora
+pos: noun
+zh: 论坛；讨论场所；公共广场（forum 的拉丁式复数）
+en: an alternative plural of forum retaining the Latin plural ending
+components:
+  - morpheme: for-forum
+    form: for
+    meaning_in_word: public meeting place / 公共集会场所
+    zh: 市场；公共集会场所
+    role: root
+    is_core: true
+  - morpheme: a-plural
+    form: -a
+    meaning_in_word: Latin neuter plural / 拉丁中性复数
+    zh: 复数
+    role: suffix
+    is_core: false
+    note: forum 的 -um 换成 -a；不是英语前缀 a-。
+word_family:
+  - forum
+  - forums
+word_family_details:
+  - word: forum
+    en: a meeting or platform for discussion; historically, a Roman public square
+    zh: 论坛；讨论平台；古罗马公共广场
+  - word: forums
+    en: the regular English plural of forum
+    zh: 论坛；讨论会；公共广场（forum 的规则复数）
+confusables:
+  []
+examples:
+  - en: The proposal was discussed in several international fora.
+    zh: 该提案在数个国际论坛上进行了讨论。
+why_confusing: fora /ˈfɔːrə/ 是复数，单数用 forum；常见于正式语境，forums 也是正确复数。

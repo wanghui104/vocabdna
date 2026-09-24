@@ -1,0 +1,42 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forums
+word: forums
+pos: noun
+zh: 论坛；讨论会；公共广场（forum 的规则复数）
+en: the regular English plural of forum
+components:
+  - morpheme: for-forum
+    form: for
+    meaning_in_word: public meeting place / 公共集会场所
+    zh: 市场；公共集会场所
+    role: root
+    is_core: true
+  - morpheme: um
+    form: -um
+    meaning_in_word: Latin singular ending / 拉丁式单数词尾
+    zh: 单数词尾
+    role: suffix
+    is_core: false
+  - morpheme: s
+    form: -s
+    meaning_in_word: English plural / 英语规则复数
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+    note: 在完整 forum 后加 -s。
+word_family:
+  - forum
+  - fora
+word_family_details:
+  - word: forum
+    en: a meeting or platform for discussion; historically, a Roman public square
+    zh: 论坛；讨论平台；古罗马公共广场
+  - word: fora
+    en: an alternative plural of forum retaining the Latin plural ending
+    zh: 论坛；讨论场所；公共广场（forum 的拉丁式复数）
+confusables:
+  []
+examples:
+  - en: Several online forums discuss the new software.
+    zh: 几个网络论坛在讨论这款新软件。
+why_confusing: forums 和 fora 都可作 forum 的复数；不是把 forum 的 -um 替换成 -s。

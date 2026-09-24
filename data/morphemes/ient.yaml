@@ -18,7 +18,6 @@ senses:
       - insufficient
       - proficient
       - recipient
-      - salient
       - self-sufficient
       - sufficient
 similar_form:
@@ -30,7 +29,6 @@ patterns:
   - -ient -> insufficient
   - ient -> proficient
   - ient -> recipient
-  - -ient -> salient
   - ient -> self-sufficient
   - -ient -> sufficient
 high_value_words:
@@ -38,7 +36,6 @@ high_value_words:
   - insufficient
   - proficient
   - recipient
-  - salient
   - self-sufficient
   - sufficient
 confusable_words:

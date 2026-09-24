@@ -17,6 +17,8 @@ components:
     zh: 取；理解
     role: root
     is_core: true
+    related_morphemes:
+      - cap
   - morpheme: acle
     form: acle
     meaning_in_word: acle / acle

@@ -21,7 +21,6 @@ senses:
       - dues
       - ethics
       - furnishings
-      - genetics
       - graphics
       - gymnastics
       - hands-on
@@ -42,6 +41,10 @@ senses:
       - strings
       - woods
       - hurdles
+      - atriums
+      - forums
+      - susceptibilities
+      - discrepancies
 similar_form:
   []
 similar_meaning:
@@ -53,7 +56,6 @@ patterns:
   - -s -> dues
   - -s -> ethics
   - -s -> furnishings
-  - -s -> genetics
   - -s -> graphics
   - -s -> gymnastics
   - -s -> hands-on
@@ -74,6 +76,10 @@ patterns:
   - -s -> strings
   - -s -> woods
   - -s -> hurdles
+  - -s -> atriums
+  - -s -> forums
+  - -es -> susceptibilities
+  - -es -> discrepancies
 high_value_words:
   - credentials
   - crossbones
@@ -81,7 +87,6 @@ high_value_words:
   - dues
   - ethics
   - furnishings
-  - genetics
   - graphics
   - gymnastics
   - hands-on
@@ -102,5 +107,9 @@ high_value_words:
   - strings
   - woods
   - hurdles
+  - atriums
+  - forums
+  - susceptibilities
+  - discrepancies
 confusable_words:
   []

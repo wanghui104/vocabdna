@@ -6,11 +6,11 @@ zh: 周边的，外围的
 en: Means 周边的，外围的; reviewed from the TOEFL source gloss for learner display.
 components:
   - morpheme: peri
-    form: peri
-    meaning_in_word: peri / peri
-    zh: peri
-    role: root
-    is_core: true
+    form: peri-
+    meaning_in_word: around; about / 周围；在……前后
+    zh: 周围；在……前后
+    role: prefix
+    is_core: false
   - morpheme: pher
     form: pher
     meaning_in_word: carry; edge / 带来；周边

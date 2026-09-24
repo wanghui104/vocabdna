@@ -8,10 +8,12 @@ components:
   - morpheme: gener
     form: gener
     meaning_in_word: gener
-    zh: 产生；种类；出生
+    zh: 种类；血统；产生
     role: root
     is_core: true
     note: Reviewed surface piece; deeper source is shown on root root:gener.
+    related_morphemes:
+      - gen-origin
   - morpheme: ous
     form: -ous
     meaning_in_word: 充满；具有
@@ -20,39 +22,9 @@ components:
     is_core: false
     note: Suffix layer from Latin -osus, Old French -ous.
 word_family:
-  - generate
-  - genesis
-  - genetic
-  - genetics
-  - genetically
-  - genial
-  - gentility
-  - genuine
+  []
 word_family_details:
-  - word: generate
-    en: Means 造成，产生 / 产卵; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 造成，产生 / 产卵
-  - word: genesis
-    en: Means 起源，产生; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 起源，产生
-  - word: genetic
-    en: Means 遗传的，起源的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 遗传的，起源的
-  - word: genetics
-    en: Means 遗传学; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 遗传学
-  - word: genetically
-    en: Means 遗传上; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 遗传上
-  - word: genial
-    en: Means 和蔼可亲的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 和蔼可亲的
-  - word: gentility
-    en: Means 有教养，文雅; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 有教养，文雅
-  - word: genuine
-    en: Means 真正的，真实的；真诚的; reviewed from the TOEFL source gloss and adjusted for learner display.
-    zh: 真正的，真实的；真诚的
+  []
 confusables:
   []
 examples:

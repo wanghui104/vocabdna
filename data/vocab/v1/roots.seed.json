@@ -1875,7 +1875,8 @@
       "slug": "ancy",
       "status": "draft",
       "forms": [
-        "ancy"
+        "ancy",
+        "anci"
       ],
       "type": "suffix",
       "origin": "Latin",
@@ -2238,22 +2239,23 @@
         "ante"
       ],
       "type": "prefix",
-      "origin": "teaching morphology",
+      "origin": "Latin",
       "source": {
-        "form": "ante",
+        "form": "Latin ante",
         "meaning": {
-          "en": "before",
-          "zh": "在前"
-        }
+          "en": "before; in front of",
+          "zh": "在……之前；在前"
+        },
+        "note": "可表示时间先后或空间位置；antepartum 指分娩之前。参考 https://www.etymonline.com/word/ante- ; https://www.merriam-webster.com/medical/antepartum 。"
       },
       "meaning": {
-        "en": "before",
-        "zh": "在前"
+        "en": "before; in front of",
+        "zh": "在……之前；在前"
       },
       "status": "draft",
       "learning": {
-        "coreImage": "before",
-        "notes": "Added for TOEFL 5400 batch 3601-3800 learner-visible decomposition."
+        "coreImage": "在……之前；在前",
+        "notes": "可表示时间先后或空间位置；antepartum 指分娩之前。参考 https://www.etymonline.com/word/ante- ; https://www.merriam-webster.com/medical/antepartum 。"
       }
     },
     {
@@ -10140,13 +10142,14 @@
         "cept"
       ],
       "type": "root",
-      "origin": "teaching morphology",
+      "origin": "Latin",
       "source": {
-        "form": "cept",
+        "form": "Latin capere; compound participial stem -cept-",
         "meaning": {
-          "en": "taken; grasped",
-          "zh": "取；理解"
-        }
+          "en": "take; receive; taken",
+          "zh": "拿；接受；被接受的"
+        },
+        "note": "capere“拿、接受”在复合动词中出现 -cipere，过去分词词干常为 -cept-；本词为 suscipere → susceptus → Late Latin susceptibilis。cept- 的深层 cap- 通过相关词根链接保留。参考 https://www.etymonline.com/word/susceptible ; https://www.etymonline.com/word/susceptibility ; https://www.merriam-webster.com/dictionary/susceptible ; https://www.merriam-webster.com/dictionary/susceptibility 。释义改写，例句自编。"
       },
       "meaning": {
         "en": "taken; grasped",
@@ -10154,9 +10157,12 @@
       },
       "status": "draft",
       "learning": {
-        "coreImage": "taken; grasped",
-        "notes": "Added for TOEFL 5400 batch 3401-3600 learner-visible decomposition."
-      }
+        "coreImage": "把东西接过来；由“接受”引出“受到影响”。",
+        "notes": "cept- 与 cap-/capt- 属同源变体；共享词根的词不一定属于同一个派生词标签组。"
+      },
+      "relatedRootIds": [
+        "root:cap"
+      ]
     },
     {
       "id": "root:ceremony",
@@ -11406,22 +11412,23 @@
         "cipit"
       ],
       "type": "root",
-      "origin": "teaching morphology",
+      "origin": "Latin",
       "source": {
-        "form": "cipit",
+        "form": "Latin caput (genitive capitis); praeceps (genitive praecipitis)",
         "meaning": {
-          "en": "headlong; fall",
-          "zh": "头朝下；落下"
-        }
+          "en": "head; headfirst, headlong",
+          "zh": "头；头朝前、头朝下"
+        },
+        "note": "prae“在前、向前” + caput“头” → praeceps / praecipitis“头朝前、陡急的” → praecipitare“使猛落、仓促行动” → praecipitatus。表层保留 pre- + cipit-，cipit- 对应复合词中的“头”义变体；“猛落”来自整个组合，不是 cipit- 单独等于 fall。英语 precipitate 的直接形成可能为拉丁词借入或从 precipitation 逆构，故不把两者的英语先后关系定死。参考 https://www.etymonline.com/word/precipitate ; https://www.etymonline.com/word/precipitous ; https://www.merriam-webster.com/dictionary/precipitate ; https://www.merriam-webster.com/dictionary/precipitation ; https://www.merriam-webster.com/dictionary/precipitous 。释义改写，例句自编。"
       },
       "meaning": {
-        "en": "headlong; fall",
-        "zh": "头朝下；落下"
+        "en": "head (in a headfirst or headlong image)",
+        "zh": "头（用于头朝前、头朝下的意象）"
       },
       "status": "draft",
       "learning": {
-        "coreImage": "headlong; fall",
-        "notes": "Added for TOEFL 5400 batch 3601-3800 learner-visible decomposition."
+        "coreImage": "头冲在前，急速向前或向下。",
+        "notes": "深层 caput / capit- 通过来源字段与说明保留；与 Latin capere“拿”的 cap-/cept- 不同。precipitous 是相同历史意象的语义分支，不是“降水”的普通形容词。"
       }
     },
     {
@@ -24815,12 +24822,12 @@
       "type": "suffix",
       "origin": "Latin",
       "source": {
-        "form": "ent",
+        "form": "Latin -ens, -entis (stem -ent-)",
         "meaning": {
-          "en": "having quality",
-          "zh": "具有…性质"
+          "en": "being or doing; having a quality",
+          "zh": "正在……的；具有某种性质的"
         },
-        "note": "Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition."
+        "note": "来自拉丁语现在分词词尾；例如 resiliens（属格 resilientis）留下 resilient- 形式。这里 i 留在 sili- 词干中。参考 https://www.etymonline.com/word/-ent ; https://www.etymonline.com/word/resilient"
       },
       "meaning": {
         "en": "having quality",
@@ -39825,6 +39832,63 @@
       }
     },
     {
+      "id": "root:gen-origin",
+      "slug": "gen-origin",
+      "forms": [
+        "gen",
+        "gene"
+      ],
+      "type": "root",
+      "origin": "Proto-Indo-European",
+      "source": {
+        "form": "Reconstructed PIE *gene- / *genə-",
+        "meaning": {
+          "en": "give birth; beget",
+          "zh": "出生；生育"
+        },
+        "note": "带星号的是重建词根，不是现代英语 gene。仅作为希腊语和拉丁语各支的更深层来源，不当作所有现代词的直接组成部分。参考 https://www.etymonline.com/word/*gene-"
+      },
+      "meaning": {
+        "en": "give birth; beget",
+        "zh": "出生；生育"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "出生；生育",
+        "notes": "带星号的是重建词根，不是现代英语 gene。仅作为希腊语和拉丁语各支的更深层来源，不当作所有现代词的直接组成部分。参考 https://www.etymonline.com/word/*gene-"
+      },
+      "relatedRootIds": []
+    },
+    {
+      "id": "root:gender",
+      "slug": "gender",
+      "forms": [
+        "gender"
+      ],
+      "type": "root",
+      "origin": "Old French",
+      "source": {
+        "form": "Old French gendre, genre; Latin genus, generis",
+        "meaning": {
+          "en": "kind; class; gender",
+          "zh": "种类；类别；性"
+        },
+        "note": "现代保留 gender 完整词干；d 是古法语语音发展所增，-der 不是此词的现代后缀。更深层关联 Latin genus/generis。参考 https://www.etymonline.com/word/gender ; https://www.merriam-webster.com/dictionary/gender"
+      },
+      "meaning": {
+        "en": "kind; class; gender",
+        "zh": "种类；类别；性"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "种类；类别；性",
+        "notes": "现代保留 gender 完整词干；d 是古法语语音发展所增，-der 不是此词的现代后缀。更深层关联 Latin genus/generis。参考 https://www.etymonline.com/word/gender ; https://www.merriam-webster.com/dictionary/gender"
+      },
+      "relatedRootIds": [
+        "root:gener"
+      ]
+    },
+    {
       "id": "root:gene",
       "slug": "gene",
       "forms": [
@@ -39850,29 +39914,93 @@
       }
     },
     {
+      "id": "root:gene-heredity",
+      "slug": "gene-heredity",
+      "forms": [
+        "gene"
+      ],
+      "type": "root",
+      "origin": "German",
+      "source": {
+        "form": "German Gen",
+        "meaning": {
+          "en": "unit of heredity",
+          "zh": "遗传单位"
+        },
+        "note": "英语现代科学术语借自 German Gen。Merriam-Webster 记为 Pangen 的缩略，Etymonline 联系 Greek genea；对具体造词路径的表述不同，保留此差异，不确定化为单一路径。参考 https://www.merriam-webster.com/dictionary/gene ; https://www.etymonline.com/word/gene"
+      },
+      "meaning": {
+        "en": "unit of heredity",
+        "zh": "遗传单位"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "遗传单位",
+        "notes": "英语现代科学术语借自 German Gen。Merriam-Webster 记为 Pangen 的缩略，Etymonline 联系 Greek genea；对具体造词路径的表述不同，保留此差异，不确定化为单一路径。参考 https://www.merriam-webster.com/dictionary/gene ; https://www.etymonline.com/word/gene"
+      },
+      "relatedRootIds": [
+        "root:gen-origin"
+      ]
+    },
+    {
+      "id": "root:genea",
+      "slug": "genea",
+      "forms": [
+        "genea"
+      ],
+      "type": "root",
+      "origin": "Greek",
+      "source": {
+        "form": "Greek γενεά (genea)",
+        "meaning": {
+          "en": "generation; descent; family line",
+          "zh": "世代；血统；家系"
+        },
+        "note": "genealogy 的直接前部是 genea，不是现代 gene + a。更深层关联重建 *gene-。参考 https://www.etymonline.com/word/genealogy ; https://www.merriam-webster.com/dictionary/genealogy"
+      },
+      "meaning": {
+        "en": "generation; descent; family line",
+        "zh": "世代；血统；家系"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "世代；血统；家系",
+        "notes": "genealogy 的直接前部是 genea，不是现代 gene + a。更深层关联重建 *gene-。参考 https://www.etymonline.com/word/genealogy ; https://www.merriam-webster.com/dictionary/genealogy"
+      },
+      "relatedRootIds": [
+        "root:gen-origin"
+      ]
+    },
+    {
       "id": "root:gener",
       "slug": "gener",
       "forms": [
-        "gener"
+        "gener",
+        "genus",
+        "genera"
       ],
       "type": "root",
       "origin": "Latin",
       "source": {
-        "form": "Latin generare / genus",
+        "form": "Latin genus, generis; generare, generatus",
         "meaning": {
-          "en": "produce; kind; birth",
-          "zh": "产生；种类；出生"
-        }
+          "en": "kind; descent; produce",
+          "zh": "种类；血统；产生"
+        },
+        "note": "gener- 是 genus 的屈折词干，也见于 generare 产生、生育。generate 分支强调产生，generic/general 分支强调类别。genus/genera 保留完整单复数表层，不臆造英语 -us/-a 后缀。参考 https://www.etymonline.com/word/genus ; https://www.etymonline.com/word/generate ; https://www.merriam-webster.com/dictionary/genus"
       },
       "meaning": {
-        "en": "produce; kind; birth",
-        "zh": "产生；种类；出生"
+        "en": "kind; descent; produce",
+        "zh": "种类；血统；产生"
       },
       "status": "draft",
       "learning": {
-        "coreImage": "produce; kind; birth",
-        "notes": "Reviewed in TOEFL 2201-2400 pass; source form kept concise for learner-facing Word DNA."
-      }
+        "coreImage": "种类；血统；产生",
+        "notes": "gener- 是 genus 的屈折词干，也见于 generare 产生、生育。generate 分支强调产生，generic/general 分支强调类别。genus/genera 保留完整单复数表层，不臆造英语 -us/-a 后缀。参考 https://www.etymonline.com/word/genus ; https://www.etymonline.com/word/generate ; https://www.merriam-webster.com/dictionary/genus"
+      },
+      "relatedRootIds": [
+        "root:gen-origin"
+      ]
     },
     {
       "id": "root:general",
@@ -40063,21 +40191,25 @@
       "type": "root",
       "origin": "Greek",
       "source": {
-        "form": "Greek genesis / genetikos",
+        "form": "Greek γενετικός (genetikos), γένεσις (genesis)",
         "meaning": {
-          "en": "origin; birth",
-          "zh": "起源；出生"
-        }
+          "en": "relating to origin or birth",
+          "zh": "与起源、出生有关"
+        },
+        "note": "genetic 的教学表层为 genet- + -ic；现代常指基因或遗传，但该词早于现代 gene，不从 gene + -tic 硬拆。参考 https://www.etymonline.com/word/genetic ; https://www.merriam-webster.com/dictionary/genetic"
       },
       "meaning": {
-        "en": "origin; birth",
-        "zh": "起源；出生"
+        "en": "relating to origin or birth",
+        "zh": "与起源、出生有关"
       },
       "status": "draft",
       "learning": {
-        "coreImage": "origin; birth",
-        "notes": "Reviewed in TOEFL 2201-2400 pass; source form kept concise for learner-facing Word DNA."
-      }
+        "coreImage": "与起源、出生有关",
+        "notes": "genetic 的教学表层为 genet- + -ic；现代常指基因或遗传，但该词早于现代 gene，不从 gene + -tic 硬拆。参考 https://www.etymonline.com/word/genetic ; https://www.merriam-webster.com/dictionary/genetic"
+      },
+      "relatedRootIds": [
+        "root:gen-origin"
+      ]
     },
     {
       "id": "root:genetic",
@@ -40215,24 +40347,27 @@
         "genre"
       ],
       "type": "root",
-      "origin": "Unknown",
+      "origin": "French",
       "source": {
-        "form": "TOEFL draft opaque stem: genre",
+        "form": "French genre; Latin genus, generis",
         "meaning": {
-          "en": "draft learner stem for genre",
-          "zh": "文学上的流派和体裁"
+          "en": "kind; style; class",
+          "zh": "种类；风格；类别"
         },
-        "note": "Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass."
+        "note": "法语整体借词，现代英语不拆为 gen- + -re；更深层经法语接到 Latin genus/generis，与 gender 同源但现代词义不同。参考 https://www.etymonline.com/word/genre ; https://www.merriam-webster.com/dictionary/genre"
       },
       "meaning": {
-        "en": "draft meaning for genre",
-        "zh": "文学上的流派和体裁"
+        "en": "kind; style; class",
+        "zh": "种类；风格；类别"
       },
       "status": "draft",
       "learning": {
-        "coreImage": "Draft opaque stem for genre.",
-        "notes": "Created by bulk TOEFL ingest to avoid speculative etymology."
-      }
+        "coreImage": "种类；风格；类别",
+        "notes": "法语整体借词，现代英语不拆为 gen- + -re；更深层经法语接到 Latin genus/generis，与 gender 同源但现代词义不同。参考 https://www.etymonline.com/word/genre ; https://www.merriam-webster.com/dictionary/genre"
+      },
+      "relatedRootIds": [
+        "root:gener"
+      ]
     },
     {
       "id": "root:gentil",
@@ -43811,23 +43946,23 @@
         "hamper"
       ],
       "type": "root",
-      "origin": "Unknown",
+      "origin": "Middle English",
       "source": {
-        "form": "TOEFL draft opaque stem: hamper",
+        "form": "Middle English hampren (verb); hanaper, hamper (basket noun)",
         "meaning": {
-          "en": "draft learner stem for hamper",
-          "zh": "妨碍，使困难"
+          "en": "hinder or confine (verb); large basket (noun)",
+          "zh": "妨碍、限制（动词）；大篮筐（名词）"
         },
-        "note": "Auto-ingested as an opaque draft root for coverage; refine etymology in a later enrichment pass."
+        "note": "本条保留同形词干的两条来源说明，不把同拼写当作同源证据。动词见 Middle English hampren，进一步来源不确定，可能关联篮筐义，也有其他解释。名词经 Anglo-French hanaper，来自 Old French hanepier（盛杯的容器），再到 hanap（杯）。两义的历史联系尚不能确定，不能强拆成 ham 火腿 + -er。参考 https://www.etymonline.com/word/hamper ; https://www.merriam-webster.com/dictionary/hamper ; https://www.merriam-webster.com/dictionary/unhampered 。释义改写，例句自编。"
       },
       "meaning": {
-        "en": "draft meaning for hamper",
-        "zh": "妨碍，使困难"
+        "en": "hinder (verb); basket (noun, separate source account)",
+        "zh": "妨碍（动词）；篮筐（名词，来源另述）"
       },
       "status": "draft",
       "learning": {
-        "coreImage": "Draft opaque stem for hamper.",
-        "notes": "Created by bulk TOEFL ingest to avoid speculative etymology."
+        "coreImage": "动词：行动受到障碍限制；名词：盛装衣物或食品的大篮筐。",
+        "notes": "现代词干 hamper 整体保留；名词的 hanaper → hanepier → hanap 历史链仅通过词源说明呈现，不冒充现代英语拆分。动词更早词源未定。"
       }
     },
     {
@@ -48489,6 +48624,32 @@
       }
     },
     {
+      "id": "root:iatr",
+      "slug": "iatr",
+      "forms": [
+        "iatr"
+      ],
+      "type": "root",
+      "origin": "Greek",
+      "source": {
+        "form": "Greek ἰατρός (iatros); ἰατρικός (iatrikos)",
+        "meaning": {
+          "en": "physician; relating to healing",
+          "zh": "医师；与治疗有关"
+        },
+        "note": "iatr- 表医师、治疗；iatrikos 意为 healing，英语 -iatric 可作 iatr- + -ic 的教学拆分。更早来源不确定，不继续强拆。参考 https://www.etymonline.com/word/-iatric"
+      },
+      "meaning": {
+        "en": "physician; relating to healing",
+        "zh": "医师；与治疗有关"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "医师；与治疗有关",
+        "notes": "iatr- 表医师、治疗；iatrikos 意为 healing，英语 -iatric 可作 iatr- + -ic 的教学拆分。更早来源不确定，不继续强拆。参考 https://www.etymonline.com/word/-iatric"
+      }
+    },
+    {
       "id": "root:ibility",
       "slug": "ibility",
       "forms": [
@@ -48517,7 +48678,9 @@
       "id": "root:ible",
       "slug": "ible",
       "forms": [
-        "ible"
+        "ible",
+        "ibil",
+        "ibl"
       ],
       "type": "suffix",
       "origin": "Latin",
@@ -51598,7 +51761,8 @@
       "slug": "ity",
       "forms": [
         "ity",
-        "ty"
+        "ty",
+        "iti"
       ],
       "type": "suffix",
       "origin": "Latin",
@@ -51731,7 +51895,8 @@
       "forms": [
         "ize",
         "ise",
-        "iz"
+        "iz",
+        "is"
       ],
       "type": "suffix",
       "origin": "Greek",
@@ -55418,7 +55583,8 @@
       "slug": "logy",
       "forms": [
         "logy",
-        "ology"
+        "ology",
+        "log"
       ],
       "type": "suffix",
       "origin": "Greek",
@@ -55437,7 +55603,7 @@
           "en": "study, discourse",
           "zh": "研究；论述"
         },
-        "note": "-logy 由 logos 论述相关构词发展为学科；不是不透明整词根。"
+        "note": "-logy 由 logos 论述相关构词发展为学科；不是不透明整词根。 在 genealogical/genealogist 中，教学表层 log- 表 -logy 的词干形式；不是 English log 原木。"
       }
     },
     {
@@ -65404,6 +65570,34 @@
       }
     },
     {
+      "id": "root:ped-child",
+      "slug": "ped-child",
+      "forms": [
+        "ped",
+        "paed",
+        "paid"
+      ],
+      "type": "root",
+      "origin": "Greek",
+      "source": {
+        "form": "Greek παῖς (pais), παιδός (paidos)",
+        "meaning": {
+          "en": "child",
+          "zh": "儿童"
+        },
+        "note": "paid- 是 pais 的屈折词干；英语儿科词族用 ped-，英式拼写常用 paed-。与 Latin pes/pedis 足的 root:ped 分开。参考 https://www.etymonline.com/word/pediatric"
+      },
+      "meaning": {
+        "en": "child",
+        "zh": "儿童"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "儿童",
+        "notes": "paid- 是 pais 的屈折词干；英语儿科词族用 ped-，英式拼写常用 paed-。与 Latin pes/pedis 足的 root:ped 分开。参考 https://www.etymonline.com/word/pediatric"
+      }
+    },
+    {
       "id": "root:pedagog",
       "slug": "pedagog",
       "forms": [
@@ -65427,6 +65621,35 @@
         "coreImage": "teacher; education",
         "notes": "Added for TOEFL 5400 batch 3401-3600 learner-visible decomposition."
       }
+    },
+    {
+      "id": "root:pedestr",
+      "slug": "pedestr",
+      "forms": [
+        "pedestr"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin pedester, pedestris; pes, pedis",
+        "meaning": {
+          "en": "on foot; foot",
+          "zh": "步行的；足"
+        },
+        "note": "表层保留 pedestr-；更深层来自 ped-（Latin pes/pedis 足）。-estr- 不作为独立现代英语词缀硬拆。该词干也有朴素、平淡的语义；见 https://www.etymonline.com/word/pedestrian ; https://www.merriam-webster.com/dictionary/pedestrian"
+      },
+      "meaning": {
+        "en": "on foot; foot",
+        "zh": "步行的；足"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "步行的；足",
+        "notes": "表层保留 pedestr-；更深层来自 ped-（Latin pes/pedis 足）。-estr- 不作为独立现代英语词缀硬拆。该词干也有朴素、平淡的语义；见 https://www.etymonline.com/word/pedestrian ; https://www.merriam-webster.com/dictionary/pedestrian"
+      },
+      "relatedRootIds": [
+        "root:ped"
+      ]
     },
     {
       "id": "root:peer",
@@ -65793,23 +66016,24 @@
       "forms": [
         "peri"
       ],
-      "type": "root",
-      "origin": "teaching morphology",
+      "type": "prefix",
+      "origin": "Greek",
       "source": {
-        "form": "peri",
+        "form": "Greek περί (peri)",
         "meaning": {
-          "en": "peri",
-          "zh": "peri"
-        }
+          "en": "around; about",
+          "zh": "周围；在……前后"
+        },
+        "note": "空间上环绕，时间上在某事件前后；peripartum 指围分娩期。参考 https://www.etymonline.com/word/peri- ; https://www.merriam-webster.com/medical/peripartum 。"
       },
       "meaning": {
-        "en": "peri",
-        "zh": "peri"
+        "en": "around; about",
+        "zh": "周围；在……前后"
       },
       "status": "draft",
       "learning": {
-        "coreImage": "peri",
-        "notes": "Added for TOEFL 5400 batch 3401-3600 learner-visible decomposition."
+        "coreImage": "周围；在……前后",
+        "notes": "空间上环绕，时间上在某事件前后；peripartum 指围分娩期。参考 https://www.etymonline.com/word/peri- ; https://www.merriam-webster.com/medical/peripartum 。"
       }
     },
     {
@@ -69378,13 +69602,14 @@
         "prim"
       ],
       "type": "root",
-      "origin": "teaching morphology",
+      "origin": "Latin",
       "source": {
-        "form": "prim",
+        "form": "Latin primus",
         "meaning": {
           "en": "first",
-          "zh": "第一；原始"
-        }
+          "zh": "第一；最早的"
+        },
+        "note": "primus 表“第一”；primitive 经 primitus（起初）及 primitivus（最早的、原初的）而来。表层词干 primit- 与深层 prim- 分层连接。参考 https://www.etymonline.com/word/primitive ; https://www.merriam-webster.com/dictionary/primitive ; https://www.merriam-webster.com/dictionary/primitivism ; https://www.merriam-webster.com/dictionary/primitivity 。释义改写，例句自编。"
       },
       "meaning": {
         "en": "first",
@@ -69392,8 +69617,8 @@
       },
       "status": "draft",
       "learning": {
-        "coreImage": "first",
-        "notes": "Added for TOEFL 5400 batch 3601-3800 learner-visible decomposition."
+        "coreImage": "排在最前、出现最早。",
+        "notes": "共同的“第一”词源不表示现代含义相同：prime、primary 与 primitive 各有独立词条及派生路径。"
       }
     },
     {
@@ -75096,16 +75321,18 @@
       "id": "root:saddle",
       "slug": "saddle",
       "forms": [
-        "saddle"
+        "saddle",
+        "saddl"
       ],
       "type": "root",
-      "origin": "teaching morphology",
+      "origin": "Old English",
       "source": {
-        "form": "saddle",
+        "form": "Old English sadol; sadolian",
         "meaning": {
-          "en": "saddle",
-          "zh": "鞍"
-        }
+          "en": "saddle; put a saddle on",
+          "zh": "马鞍；给……装鞍"
+        },
+        "note": "Middle English sadel ← Old English sadol；动词对应 sadolian。更深层可追溯到重构的 PIE *sed-“坐”，此层仅以词源说明保留；不是从 Latin sedere 借入。现代 saddle 是稳定基本词干，不按 sad + -le 拆解。参考 https://www.etymonline.com/word/saddle ; https://www.merriam-webster.com/dictionary/saddle ; https://www.etymonline.com/word/saddler ; https://www.etymonline.com/word/saddlery ; https://www.merriam-webster.com/dictionary/saddlery 。释义改写，例句自编。"
       },
       "meaning": {
         "en": "saddle",
@@ -75113,8 +75340,8 @@
       },
       "status": "draft",
       "learning": {
-        "coreImage": "saddle",
-        "notes": "Added for TOEFL 5400 batch 4201-4400 learner-visible decomposition."
+        "coreImage": "骑手坐在马背上的鞍座；给马加鞍引申为把负担加到人身上。",
+        "notes": "saddl- 是 saddle 接 -ed、-ing、-er 等词尾时去 e 的书写形式；与 straddle 不是同一个词根。"
       }
     },
     {
@@ -75225,16 +75452,18 @@
       "forms": [
         "sali",
         "sal",
-        "sil"
+        "sil",
+        "sili"
       ],
       "type": "root",
       "origin": "Latin",
       "source": {
-        "form": "Latin salire",
+        "form": "Latin salire; compound form -silire",
         "meaning": {
-          "en": "to leap",
-          "zh": "跳跃"
-        }
+          "en": "to jump, leap, spring",
+          "zh": "跳跃；弹起"
+        },
+        "note": "salire 在 resilire（弹回）中出现元音变化，sal- 对应 sil-，本词族采用 sili- + -ent/-ence/-ency 的教学表层。resilire = re- 回 + salire 跳。不是 Latin sal 盐。参考 https://www.etymonline.com/word/resilience ; https://www.merriam-webster.com/dictionary/resilience"
       },
       "meaning": {
         "en": "leap, spring out",
@@ -81547,11 +81776,12 @@
       "type": "root",
       "origin": "Latin",
       "source": {
-        "form": "Latin spargere / sparsus",
+        "form": "Latin spargere, sparsus; dispergere, dispersus",
         "meaning": {
-          "en": "scatter",
-          "zh": "撒；散布"
-        }
+          "en": "scatter; scattered",
+          "zh": "撒开；散布；散开的"
+        },
+        "note": "spargere 表散布，过去分词 sparsus；加 dis- 后为 dispergere，其过去分词 dispersus 留下英语 disperse/dispers-。教学表层沿用 di- + sperse/spers-，深层 dis- + spargere 通过本说明保留；不是把 spers 当成独立英语单词。参考 https://www.etymonline.com/word/disperse ; https://www.etymonline.com/word/dispersion ; https://www.merriam-webster.com/dictionary/disperse ; https://www.merriam-webster.com/dictionary/dispersal ; https://www.merriam-webster.com/dictionary/dispersion 。释义改写，例句自编。"
       },
       "meaning": {
         "en": "scatter",
@@ -84515,17 +84745,18 @@
       "id": "root:stride",
       "slug": "stride",
       "forms": [
-        "stride"
+        "stride",
+        "stradd"
       ],
       "type": "root",
       "origin": "Old English",
       "source": {
-        "form": "stride",
+        "form": "Old English stridan; Middle English striden",
         "meaning": {
-          "en": "stride",
-          "zh": "大步"
+          "en": "straddle; mount; take long steps",
+          "zh": "跨坐；骑上；迈大步"
         },
-        "note": "Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition."
+        "note": "straddle 很可能改自 striddle（striden 的反复动作形式）；Merriam-Webster 概括为 stride 的不规则派生。教学表层 stradd- + -le 保留这一关联，不把 stradd- 当作独立现代英语词；具体 striddle → straddle 路径保留“很可能”的限定。参考 https://www.etymonline.com/word/straddle ; https://www.merriam-webster.com/dictionary/straddle 。释义改写，例句自编。"
       },
       "meaning": {
         "en": "stride",
@@ -84533,8 +84764,8 @@
       },
       "status": "draft",
       "learning": {
-        "coreImage": "stride",
-        "notes": "Used to keep TOEFL word-family pages decomposed to useful visible morphemes."
+        "coreImage": "迈开双腿：大步行走或跨坐。",
+        "notes": "stride 与 straddle 词源相关，但现代各自构成词族；straddle 的具体历史形式变化仍带不确定性。"
       }
     },
     {
@@ -85642,12 +85873,12 @@
       "type": "prefix",
       "origin": "Latin",
       "source": {
-        "form": "sus",
+        "form": "Latin sub-, variant sus-",
         "meaning": {
-          "en": "up from below; under",
-          "zh": "从下支撑；在下"
+          "en": "up from under; under",
+          "zh": "从下向上；在下"
         },
-        "note": "Added during TOEFL 5400 batch 4601-4800 for learner-visible decomposition."
+        "note": "sus- 是 sub- 的历史变体；suscipere = sub- + capere“拿、接受”，过去分词 susceptus 留下 suscept-。此处不能把前缀含义机械翻译成现代词义。参考 https://www.etymonline.com/word/susceptible ; https://www.etymonline.com/word/susceptibility ; https://www.merriam-webster.com/dictionary/susceptible ; https://www.merriam-webster.com/dictionary/susceptibility 。释义改写，例句自编。"
       },
       "meaning": {
         "en": "up from below; under",
@@ -85657,7 +85888,10 @@
       "learning": {
         "coreImage": "up from below; under",
         "notes": "Used to keep TOEFL word-family pages decomposed to useful visible morphemes."
-      }
+      },
+      "relatedRootIds": [
+        "root:sub"
+      ]
     },
     {
       "id": "root:swallow",
@@ -87850,11 +88084,12 @@
       "type": "root",
       "origin": "Greek",
       "source": {
-        "form": "Greek theos",
+        "form": "Greek θεός (theos)",
         "meaning": {
-          "en": "god",
-          "zh": "神"
-        }
+          "en": "god; deity",
+          "zh": "神；神明"
+        },
+        "note": "the-/theo- 均来自 theos；theo- 的 o 用于连接后面的构词成分。Greek atheos = a-（无、不）+ theos；theology 经 Greek theologia、Latin theologia 与法语形式传入。这里的 the- 不是英语冠词 the，也不是 theory 的 theor-。参考 https://www.etymonline.com/word/atheist ; https://www.merriam-webster.com/dictionary/atheism 。释义改写，例句自编。 参考 https://www.etymonline.com/word/theology ; https://www.merriam-webster.com/dictionary/theology 。释义改写，例句自编。"
       },
       "meaning": {
         "en": "god, deity",
@@ -87862,8 +88097,8 @@
       },
       "status": "draft",
       "learning": {
-        "coreImage": "The root points to a god or religious idea.",
-        "notes": "Supports atheist and later theology-related words."
+        "coreImage": "围绕“神”的信仰立场或研究。",
+        "notes": "theism 是有神论，atheism 是无神论，theology 是神学；共享词根，但分别建立词族。"
       }
     },
     {
@@ -96908,6 +97143,220 @@
       "learning": {
         "coreImage": "把已经发生的动作反过来做，恢复或释放。",
         "notes": "untangle 中为反向动作；untangled 作形容词时也可能有“不缠结”的否定读法。此条与 root:un 的单纯否定义分开。"
+      }
+    },
+    {
+      "id": "root:atri",
+      "slug": "atri",
+      "forms": [
+        "atri"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin atrium, atrii; stem atri-",
+        "meaning": {
+          "en": "central court or main hall of a house",
+          "zh": "住宅的中庭；中央大厅"
+        },
+        "note": "保留可比较的 atri- 词干：atri- + -um，复数 atri- + -a，形容词 atri- + -al。建筑中的室、厅之义后来用于解剖学腔室，尤其心房。更早词源存在争议；与炉火、烟黑或伊特鲁里亚语的联系均不作为定论，不继续强拆。参考 https://www.etymonline.com/word/atrium ; https://www.merriam-webster.com/dictionary/atrium ; https://www.merriam-webster.com/dictionary/atrial 。释义改写，例句自编。"
+      },
+      "meaning": {
+        "en": "central hall; atrium or receiving chamber",
+        "zh": "中庭；前室；心房"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "建筑里的一间中央大厅；解剖学中用来命名接纳血液的心房。",
+        "notes": "拉丁中性单数 -um 可换成复数 -a；英语规则复数则直接在 atrium 后加 -s。更早来源未定，停在已知的拉丁词干。"
+      }
+    },
+    {
+      "id": "root:primit",
+      "slug": "primit",
+      "forms": [
+        "primit"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin primitus",
+        "meaning": {
+          "en": "at first",
+          "zh": "起初；最初"
+        },
+        "note": "Latin primus（第一）→ primitus（起初）→ primitivus（最早的、原初的）→ French primitif → English primitive。primit- 是本词族的表层教学词干，深层 prim- 通过相关词根链接保留；不把 it 虚构为独立英语词缀。参考 https://www.etymonline.com/word/primitive ; https://www.merriam-webster.com/dictionary/primitive ; https://www.merriam-webster.com/dictionary/primitivism ; https://www.merriam-webster.com/dictionary/primitivity 。释义改写，例句自编。"
+      },
+      "meaning": {
+        "en": "first; original",
+        "zh": "最初；原始"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "回到最初的阶段或最基本的形式。",
+        "notes": "表层 primit- + -ive；派生词可用 primitiv- 接 -ity、-ism 或 -ist。深层 prim- 表“第一”。"
+      },
+      "relatedRootIds": [
+        "root:prim"
+      ]
+    },
+    {
+      "id": "root:for-forum",
+      "slug": "for-forum",
+      "forms": [
+        "for"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin forum",
+        "meaning": {
+          "en": "marketplace; public meeting place",
+          "zh": "市场；公共集会场所"
+        },
+        "note": "for- 是 forum 去拉丁中性词尾 -um 后的教学词干，不能与英语介词 for 或前缀 fore- 混同。forum 在古罗马兼具公共事务与司法活动场所的含义；更早与 foris“外面”的联系仅属词源背景，本次不再拆分。 参考 https://www.etymonline.com/word/forensic ; https://www.merriam-webster.com/dictionary/forensic ; https://www.etymonline.com/word/forum ; https://www.merriam-webster.com/dictionary/forum 。释义改写，例句自编。"
+      },
+      "meaning": {
+        "en": "marketplace; public meeting place",
+        "zh": "市场；公共集会场所"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "市场；公共集会场所",
+        "notes": "for- 是 forum 去拉丁中性词尾 -um 后的教学词干，不能与英语介词 for 或前缀 fore- 混同。forum 在古罗马兼具公共事务与司法活动场所的含义；更早与 foris“外面”的联系仅属词源背景，本次不再拆分。"
+      }
+    },
+    {
+      "id": "root:forens",
+      "slug": "forens",
+      "forms": [
+        "forens"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin forensis",
+        "meaning": {
+          "en": "of the forum; public; relating to courts",
+          "zh": "公共集会场所的；公开的；法庭的"
+        },
+        "note": "forensis 源于 forum“市场、公共集会场所”。表层 forens- + -ic；更深层 forum 的词干 for- 通过相关词根链接表示，不把 forens- 误拆为 fore- + ns。 参考 https://www.etymonline.com/word/forensic ; https://www.merriam-webster.com/dictionary/forensic ; https://www.etymonline.com/word/forum ; https://www.merriam-webster.com/dictionary/forum 。释义改写，例句自编。"
+      },
+      "meaning": {
+        "en": "of the forum; public; relating to courts",
+        "zh": "公共集会场所的；公开的；法庭的"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "公共集会场所的；公开的；法庭的",
+        "notes": "forensis 源于 forum“市场、公共集会场所”。表层 forens- + -ic；更深层 forum 的词干 for- 通过相关词根链接表示，不把 forens- 误拆为 fore- + ns。"
+      },
+      "relatedRootIds": [
+        "root:for-forum"
+      ]
+    },
+    {
+      "id": "root:crep",
+      "slug": "crep",
+      "forms": [
+        "crep"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin crepare",
+        "meaning": {
+          "en": "rattle; crack; make a clattering sound",
+          "zh": "发出咔嗒声、噼啪声"
+        },
+        "note": "dis-（分开、不同）+ crepare（发声）→ discrepare（声音不同、不协调）→ discrepans / discrepant- → discrepantia（不一致）。现代 discrepancy 主要描述数据、说法或预期不相符，不限于声音。参考 https://www.etymonline.com/word/discrepancy ; https://www.merriam-webster.com/dictionary/discrepancy ; https://www.merriam-webster.com/dictionary/discrepant 。释义改写，例句自编。"
+      },
+      "meaning": {
+        "en": "rattle; sound",
+        "zh": "发声；咔嗒作响"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "两个声音对不上，进一步表示两种说法或数字不一致。",
+        "notes": "词根 crep- 本身表示发声；不一致来自 dis- + crep- 的整体组合，不把 crep- 单独解释成差异。"
+      }
+    },
+    {
+      "id": "root:post-after",
+      "slug": "post-after",
+      "forms": [
+        "post"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin post",
+        "meaning": {
+          "en": "after; behind",
+          "zh": "在……之后；在后"
+        },
+        "note": "时间前缀 post-；与英语 post 的邮政、张贴等用法分开建模。参考 https://www.etymonline.com/word/post-partum ; https://www.merriam-webster.com/dictionary/postpartum 。"
+      },
+      "meaning": {
+        "en": "after; behind",
+        "zh": "在……之后；在后"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "在……之后；在后",
+        "notes": "时间前缀 post-；与英语 post 的邮政、张贴等用法分开建模。参考 https://www.etymonline.com/word/post-partum ; https://www.merriam-webster.com/dictionary/postpartum 。"
+      }
+    },
+    {
+      "id": "root:partum",
+      "slug": "partum",
+      "forms": [
+        "partum"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin partus (accusative partum), from parere",
+        "meaning": {
+          "en": "childbirth; giving birth",
+          "zh": "分娩；生育"
+        },
+        "note": "历史链：parere（生育）→ partus（分娩，动作名词）→ 宾格 partum。表层保留 partum；末尾 -um 是这里的格变化，不连接词库中表示中性单数的 -um，也不连接 pars“部分”的 part-。参考 https://www.merriam-webster.com/dictionary/postpartum ; https://www.etymonline.com/word/post-partum 。"
+      },
+      "meaning": {
+        "en": "childbirth; giving birth",
+        "zh": "分娩；生育"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "分娩；生育",
+        "notes": "历史链：parere（生育）→ partus（分娩，动作名词）→ 宾格 partum。表层保留 partum；末尾 -um 是这里的格变化，不连接词库中表示中性单数的 -um，也不连接 pars“部分”的 part-。参考 https://www.merriam-webster.com/dictionary/postpartum ; https://www.etymonline.com/word/post-partum 。"
+      }
+    },
+    {
+      "id": "root:intra",
+      "slug": "intra",
+      "forms": [
+        "intra"
+      ],
+      "type": "prefix",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin intra",
+        "meaning": {
+          "en": "within; during",
+          "zh": "在……内；在……期间"
+        },
+        "note": "空间上在内部，时间上在某过程之中；intrapartum 中指分娩过程中。参考 https://www.etymonline.com/word/intra- ; https://www.merriam-webster.com/medical/intrapartum 。"
+      },
+      "meaning": {
+        "en": "within; during",
+        "zh": "在……内；在……期间"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "在……内；在……期间",
+        "notes": "空间上在内部，时间上在某过程之中；intrapartum 中指分娩过程中。参考 https://www.etymonline.com/word/intra- ; https://www.merriam-webster.com/medical/intrapartum 。"
       }
     }
   ]

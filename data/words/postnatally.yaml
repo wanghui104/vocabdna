@@ -1,0 +1,46 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: postnatally
+word: postnatally
+pos: adverb
+zh: 在出生后；在产后
+en: during the time after birth
+components:
+  - morpheme: post-after
+    form: post-
+    meaning_in_word: after / 之后
+    zh: 在……之后；在后
+    role: prefix
+    is_core: false
+  - morpheme: nat
+    form: nat
+    meaning_in_word: be born / 出生
+    zh: 出生
+    role: root
+    is_core: true
+    note: Latin nasci / natus；natal 的 n 并非与前缀相连的独立成分。
+  - morpheme: al
+    form: -al
+    meaning_in_word: relating to / 与……有关的
+    zh: 属于……的
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: adverbial ending / 副词词尾
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - postnatal
+word_family_details:
+  - word: postnatal
+    en: relating to the time after birth
+    zh: 出生后的；产后的
+confusables:
+  - word: prenatally
+    reason: postnatally 是副词，修饰发生或记录的时间；postnatal 是形容词。与 prenatally“在出生前”相对。
+    zh_reason: postnatally 是副词，修饰发生或记录的时间；postnatal 是形容词。与 prenatally“在出生前”相对。
+examples:
+  - en: The participants were interviewed prenatally and postnatally.
+    zh: 参与者在产前和产后分别接受了访谈。
+why_confusing: postnatally 是副词，修饰发生或记录的时间；postnatal 是形容词。与 prenatally“在出生前”相对。

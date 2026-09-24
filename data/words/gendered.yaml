@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gendered
+word: gendered
+pos: adjective
+zh: 具有性别色彩的；按性别区分的
+en: shaped by, assigned to, or associated with a gender
+components:
+  - morpheme: gender
+    form: gender
+    meaning_in_word: gender, class / 性别、类别
+    zh: 种类；类别；性
+    role: root
+    is_core: true
+    note: 保留现代词干；源自 Old French gendre/genre，再到 Latin genus/generis。
+    related_morphemes:
+      - gener
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: 已经……的
+    zh: 已经……的
+    role: suffix
+    is_core: false
+    note: 此处 -ed 表具有某种属性或被赋予某种性质。
+word_family:
+  - gender
+  - genderless
+word_family_details:
+  - word: gender
+    en: a category of identity and social roles, or a grammatical class that affects word agreement
+    zh: 性别；社会性别；语法上的性
+  - word: genderless
+    en: having no gender or not making a distinction by gender
+    zh: 无性别的；不区分性别的
+confusables:
+  []
+examples:
+  - en: The article challenges gendered assumptions about work.
+    zh: 这篇文章质疑关于工作的性别化假设。
+why_confusing: gendered language/roles 指具有性别关联的语言或角色。

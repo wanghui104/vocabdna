@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forensic
+word: forensic
+pos: adjective
+zh: 司法鉴定的；法医学的；法庭的；辩论的
+en: relating to scientific investigation for legal purposes, courts, or public argument
+components:
+  - morpheme: forens
+    form: forens
+    meaning_in_word: public discussion; courts / 公开讨论；法庭
+    zh: 公共集会场所的；公开的；法庭的
+    role: root
+    is_core: true
+    note: Latin forensis ← forum；深层相关词根见词根页。
+    related_morphemes:
+      - for-forum
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 与……有关的
+    zh: 与……有关
+    role: suffix
+    is_core: false
+word_family:
+  - forensics
+  - forensically
+word_family_details:
+  - word: forensics
+    en: scientific investigation for legal purposes, or the study and practice of formal argument
+    zh: 科学鉴证；司法科学；论辩术
+  - word: forensically
+    en: using methods of forensic examination
+    zh: 以司法鉴定方式；运用科学鉴证方法地
+confusables:
+  []
+examples:
+  - en: The laboratory carried out a forensic examination of the paint samples.
+    zh: 实验室对油漆样本进行了司法鉴定。
+  - en: The course develops students’ forensic skills through structured debates.
+    zh: 这门课程通过有组织的辩论培养学生的论辩技巧。
+why_confusing: forensic /fəˈrensɪk/（也读 /z/）通常作形容词：forensic science 司法科学，forensic medicine 法医学。forensic 不只表示“法医的”；名词学科通常用 forensics。

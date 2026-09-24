@@ -8,7 +8,7 @@ components:
   - morpheme: ante
     form: ante-
     meaning_in_word: before / 在前
-    zh: 在前
+    zh: 在……之前；在前
     role: prefix
     is_core: false
   - morpheme: date

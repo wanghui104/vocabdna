@@ -1,0 +1,41 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forensics
+word: forensics
+pos: noun
+zh: 科学鉴证；司法科学；论辩术
+en: scientific investigation for legal purposes, or the study and practice of formal argument
+components:
+  - morpheme: forens
+    form: forens
+    meaning_in_word: public discussion; courts / 公开讨论；法庭
+    zh: 公共集会场所的；公开的；法庭的
+    role: root
+    is_core: true
+    note: Latin forensis ← forum；深层相关词根见词根页。
+    related_morphemes:
+      - for-forum
+  - morpheme: ics
+    form: -ics
+    meaning_in_word: field or practice / 学科或实践领域
+    zh: 学科；实践领域
+    role: suffix
+    is_core: false
+    note: 表层 -ics；深层 -ic + -s。此处不是简单表示“多个 forensic”。
+word_family:
+  - forensic
+  - forensically
+word_family_details:
+  - word: forensic
+    en: relating to scientific investigation for legal purposes, courts, or public argument
+    zh: 司法鉴定的；法医学的；法庭的；辩论的
+  - word: forensically
+    en: using methods of forensic examination
+    zh: 以司法鉴定方式；运用科学鉴证方法地
+confusables:
+  []
+examples:
+  - en: Forensics is an important part of the investigation.
+    zh: 科学鉴证是调查的重要组成部分。
+  - en: She joined the school’s forensics team to practice public speaking.
+    zh: 她加入了学校的演讲辩论队，以练习公众演讲。
+why_confusing: 形态带 -s，指学科时可接单数谓语（Forensics is ...）；词典也收录复数句法。forensics team 在学校语境常指演讲辩论队，需看上下文。

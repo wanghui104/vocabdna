@@ -331,6 +331,7 @@ senses:
       - unquestioning
       - version
       - vision
+      - dispersion
 similar_form:
   []
 similar_meaning:
@@ -652,6 +653,7 @@ patterns:
   - -ion -> unquestioning
   - -ion -> version
   - -ion -> vision
+  - -ion -> dispersion
 high_value_words:
   - abbreviation
   - abolition
@@ -969,5 +971,6 @@ high_value_words:
   - unquestioning
   - version
   - vision
+  - dispersion
 confusable_words:
   []

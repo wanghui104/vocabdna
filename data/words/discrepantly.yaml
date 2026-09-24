@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: discrepantly
+word: discrepantly
+pos: adverb
+zh: 不一致地；有出入地
+en: in ways that do not agree
+components:
+  - morpheme: dis
+    form: dis-
+    meaning_in_word: apart; differently / 分开；不同
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: 与 crepare 组合后表示声音不一致，进而指不相符。
+  - morpheme: crep
+    form: crep
+    meaning_in_word: sound; rattle / 发声；咔嗒作响
+    zh: 发声；咔嗒作响
+    role: root
+    is_core: true
+    note: Latin crepare → discrepare“不协调、不一致”。
+  - morpheme: ant
+    form: -ant
+    meaning_in_word: having a quality / 具有……性质的
+    zh: 具有…性质；正在…
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner / 以……方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - discrepancy
+  - discrepancies
+  - discrepant
+word_family_details:
+  - word: discrepancy
+    en: a mismatch between things, especially figures or accounts expected to agree
+    zh: 差异；不一致；不相符之处
+  - word: discrepancies
+    en: the plural of discrepancy: differences or inconsistencies
+    zh: 差异；多处不一致；不符之处（复数）
+  - word: discrepant
+    en: not agreeing with something else
+    zh: 不一致的；有差异的；相互矛盾的
+confusables:
+  []
+examples:
+  - en: The same event was described discrepantly in the two reports.
+    zh: 两份报告对同一事件的描述存在出入。
+why_confusing: 较少见的正式副词；一般写作中 inconsistently 或 in different ways 往往更自然。

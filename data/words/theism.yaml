@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: theism
+word: theism
+pos: noun
+zh: 有神论
+en: belief that a god or gods exist
+components:
+  - morpheme: theo
+    form: the
+    meaning_in_word: god / 神
+    zh: 神；神明
+    role: root
+    is_core: true
+    note: the- 来自 Greek theos；与冠词 the 无关。
+  - morpheme: ism
+    form: -ism
+    meaning_in_word: belief or doctrine / 信仰、学说
+    zh: 行为；状态
+    role: suffix
+    is_core: false
+word_family:
+  - theist
+  - theistic
+  - theistically
+word_family_details:
+  - word: theist
+    en: a person who believes that a god or gods exist
+    zh: 有神论者
+  - word: theistic
+    en: relating to theism or belief in a god or gods
+    zh: 有神论的
+  - word: theistically
+    en: from a theistic standpoint
+    zh: 从有神论角度；以有神论方式
+confusables:
+  - word: atheism
+    reason: theism /ˈθiːɪzəm/ 是信仰立场；theology 是神学研究或体系。theism 广义指相信神存在，某些讨论中特指创造并与世界有关联的神，须看语境。
+    zh_reason: theism /ˈθiːɪzəm/ 是信仰立场；theology 是神学研究或体系。theism 广义指相信神存在，某些讨论中特指创造并与世界有关联的神，须看语境。
+  - word: theology
+    reason: theism /ˈθiːɪzəm/ 是信仰立场；theology 是神学研究或体系。theism 广义指相信神存在，某些讨论中特指创造并与世界有关联的神，须看语境。
+    zh_reason: theism /ˈθiːɪzəm/ 是信仰立场；theology 是神学研究或体系。theism 广义指相信神存在，某些讨论中特指创造并与世界有关联的神，须看语境。
+examples:
+  - en: The chapter distinguishes theism from atheism.
+    zh: 这一章区分了有神论和无神论。
+  - en: In this discussion, theism includes belief in a creator involved in the world.
+    zh: 在这场讨论中，有神论包含对创造世界并参与其中的神的信仰。
+why_confusing: theism /ˈθiːɪzəm/ 是信仰立场；theology 是神学研究或体系。theism 广义指相信神存在，某些讨论中特指创造并与世界有关联的神，须看语境。

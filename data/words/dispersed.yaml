@@ -1,0 +1,59 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: dispersed
+word: dispersed
+pos: verb/adjective
+zh: 分散的；散布的；使散开了（过去式、过去分词）
+en: spread over an area or through a medium; the past tense and past participle of disperse
+components:
+  - morpheme: dis
+    form: di-
+    meaning_in_word: apart / 分开
+    zh: 分开；不
+    role: prefix
+    is_core: false
+    note: 此处 di- 对应词源 dis-；Latin dis- + spargere → dispergere/dispersus。
+  - morpheme: spars
+    form: spers
+    meaning_in_word: scatter / 撒开、散布
+    zh: 散布；分散
+    role: root
+    is_core: true
+    note: disperse 接词尾时采用 dispers-；教学拆分保留 di- + spers-。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or resulting state / 过去或结果状态
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - disperse
+  - dispersal
+  - dispersion
+  - dispersing
+  - dispersive
+  - dispersible
+word_family_details:
+  - word: disperse
+    en: to spread or move apart in different directions, or cause this to happen
+    zh: 分散；散开；散布；驱散
+  - word: dispersal
+    en: the process or outcome of people or things spreading away from a place
+    zh: 散布；分散；散开；疏散
+  - word: dispersion
+    en: spreading or the state of being spread out; also statistical spread, optical separation, or a mixture with dispersed particles
+    zh: 分散；散布状态；离散程度；色散；分散体系
+  - word: dispersing
+    en: spreading out or causing something to spread; the present participle of disperse
+    zh: 正在散开；正在散布；起分散作用的
+  - word: dispersive
+    en: tending to spread things out or involving dispersion, especially of waves or light
+    zh: 使分散的；有色散作用的
+  - word: dispersible
+    en: capable of being spread as particles through a medium
+    zh: 可分散的；易分散的
+confusables:
+  []
+examples:
+  - en: Small farms are dispersed across the hills.
+    zh: 小农场分散在丘陵各处。
+why_confusing: be dispersed across/throughout ... = 分散在……；与正在分散的 dispersing 区别。

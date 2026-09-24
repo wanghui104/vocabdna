@@ -1,0 +1,51 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: resilient
+word: resilient
+pos: adjective
+zh: 有韧性的；恢复力强的；有回弹性的
+en: able to recover or adapt after setbacks, or to return to shape after being pressed
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back / 回
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+    note: 在此表示弹回，不是简单重复做一次。
+  - morpheme: sali
+    form: sili
+    meaning_in_word: leap, spring / 跳跃、弹起
+    zh: 跳出；跃起
+    role: root
+    is_core: true
+    note: Latin salire 跳跃在 resilire 中变为 -silire；保留 sili-，再接词尾。
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having the quality / 具有这种性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+word_family:
+  - resilience
+  - resiliency
+  - resiliently
+word_family_details:
+  - word: resilience
+    en: the capacity to recover or adapt after difficulty, or to regain shape after pressure
+    zh: 恢复力；韧性；适应力；回弹性
+  - word: resiliency
+    en: the capacity to recover or adapt after difficulty, or to regain shape after pressure
+    zh: 恢复力；韧性；适应力；回弹性
+  - word: resiliently
+    en: in a way that shows the ability to recover or adapt
+    zh: 坚韧地；有恢复力地；富有适应力地
+confusables:
+  - word: resistant
+    reason: 读音 /rɪˈzɪliənt/。resilient 侧重恢复和适应；resistant 常表示抵抗某种作用，如 water-resistant。名词为 resilience/resiliency，不能用 resilient 代替名词。
+    zh_reason: 读音 /rɪˈzɪliənt/。resilient 侧重恢复和适应；resistant 常表示抵抗某种作用，如 water-resistant。名词为 resilience/resiliency，不能用 resilient 代替名词。
+examples:
+  - en: The community remained resilient after the storm.
+    zh: 暴风雨过后，这个社区仍展现出很强的恢复力。
+  - en: The sole is made from a resilient material.
+    zh: 鞋底由具有回弹性的材料制成。
+why_confusing: 读音 /rɪˈzɪliənt/。resilient 侧重恢复和适应；resistant 常表示抵抗某种作用，如 water-resistant。名词为 resilience/resiliency，不能用 resilient 代替名词。

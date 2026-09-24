@@ -1,0 +1,40 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: hampering
+word: hampering
+pos: verb/adjective
+zh: 正在妨碍；造成阻碍的
+en: interfering with progress or activity; the present participle of hamper
+components:
+  - morpheme: hamper
+    form: hamper
+    meaning_in_word: hinder / 妨碍、限制
+    zh: 妨碍（动词）；篮筐（名词，来源另述）
+    role: root
+    is_core: true
+    note: 本派生分支采用动词义；hamper 为词源未定的完整词干，不拆 ham + -er。
+  - morpheme: ing
+    form: -ing
+    meaning_in_word: ongoing action / 持续的动作
+    zh: 正在……的、与……有关的
+    role: suffix
+    is_core: false
+word_family:
+  - hamper
+  - hampered
+  - unhampered
+word_family_details:
+  - word: hamper
+    en: to make movement or progress more difficult; as a separate noun use, a large basket for storing or carrying things
+    zh: 妨碍；阻碍；大篮筐（名词）
+  - word: hampered
+    en: restricted or hindered; the past tense and past participle of hamper
+    zh: 受到妨碍的；阻碍了（过去式、过去分词）
+  - word: unhampered
+    en: able to proceed without being hindered or restricted
+    zh: 不受妨碍的；不受限制的
+confusables:
+  []
+examples:
+  - en: Poor visibility is hampering the search.
+    zh: 能见度低正妨碍搜寻工作。
+why_confusing: 进行时用 be hampering；不要与表示受到妨碍的 hampered 混淆。

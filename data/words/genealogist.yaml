@@ -1,0 +1,50 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: genealogist
+word: genealogist
+pos: noun
+zh: 家谱研究者；谱系学家
+en: a person who investigates family ancestry and lines of descent
+components:
+  - morpheme: genea
+    form: genea
+    meaning_in_word: generation, descent / 世代、血统
+    zh: 世代；血统；家系
+    role: root
+    is_core: true
+    related_morphemes:
+      - gen-origin
+  - morpheme: logy
+    form: -log
+    meaning_in_word: study, account / 研究、记述
+    zh: 学科、研究
+    role: suffix
+    is_core: false
+    note: genealogy 的 -logy 在派生词中使用 log- 词干。
+  - morpheme: ist
+    form: -ist
+    meaning_in_word: 从事……的人
+    zh: 从事……的人
+    role: suffix
+    is_core: false
+word_family:
+  - genealogy
+  - genealogical
+  - genealogically
+word_family_details:
+  - word: genealogy
+    en: a record or line of ancestry, or the study of family descent
+    zh: 家谱；谱系；谱系学
+  - word: genealogical
+    en: concerning ancestry, family lines, or the study of descent
+    zh: 家谱的；谱系的
+  - word: genealogically
+    en: with regard to ancestry or lines of descent
+    zh: 从家谱上；在谱系上
+confusables:
+  - word: geneticist
+    reason: genealogist 研究谱系；geneticist 研究基因和遗传。
+    zh_reason: genealogist 研究谱系；geneticist 研究基因和遗传。
+examples:
+  - en: A genealogist helped locate the missing family records.
+    zh: 一位家谱研究者帮助找到了缺失的家族记录。
+why_confusing: genealogist 研究谱系；geneticist 研究基因和遗传。

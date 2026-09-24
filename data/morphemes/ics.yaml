@@ -19,14 +19,18 @@ senses:
       - dietetics
       - dynamics
       - economics
+      - genetics
       - linguistics
       - mathematics
       - mechanics
+      - paediatrics
+      - pediatrics
       - politics
       - tactics
       - tectonics
       - thermodynamics
       - ultrasonics
+      - forensics
 similar_form:
   []
 similar_meaning:
@@ -36,26 +40,34 @@ patterns:
   - -etics -> dietetics
   - -ics -> dynamics
   - -ics -> economics
+  - -ics -> genetics
   - -ics -> linguistics
   - -ics -> mathematics
   - -ics -> mechanics
+  - -ics -> paediatrics
+  - -ics -> pediatrics
   - -ics -> politics
   - -ics -> tactics
   - -ics -> tectonics
   - -ics -> thermodynamics
   - -ics -> ultrasonics
+  - -ics -> forensics
 high_value_words:
   - aerodynamics
   - dietetics
   - dynamics
   - economics
+  - genetics
   - linguistics
   - mathematics
   - mechanics
+  - paediatrics
+  - pediatrics
   - politics
   - tactics
   - tectonics
   - thermodynamics
   - ultrasonics
+  - forensics
 confusable_words:
   []

@@ -196,6 +196,11 @@ senses:
       - wrestling
       - hurdling
       - tangling
+      - hampering
+      - dispersing
+      - straddling
+      - saddling
+      - precipitating
 similar_form:
   []
 similar_meaning:
@@ -383,6 +388,11 @@ patterns:
   - -ing -> wrestling
   - -ing -> hurdling
   - -ing -> tangling
+  - -ing -> hampering
+  - -ing -> dispersing
+  - -ing -> straddling
+  - -ing -> saddling
+  - -ing -> precipitating
 high_value_words:
   - abiding
   - accelerating
@@ -566,5 +576,10 @@ high_value_words:
   - wrestling
   - hurdling
   - tangling
+  - hampering
+  - dispersing
+  - straddling
+  - saddling
+  - precipitating
 confusable_words:
   []

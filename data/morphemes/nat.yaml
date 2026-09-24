@@ -19,6 +19,10 @@ senses:
       - natural gas
       - naturalist
       - naturalistic
+      - postnatal
+      - postnatally
+      - prenatal
+      - prenatally
 similar_form:
   []
 similar_meaning:
@@ -29,11 +33,19 @@ patterns:
   - nat -> natural gas
   - nat -> naturalist
   - nat -> naturalistic
+  - nat -> postnatal
+  - nat -> postnatally
+  - nat -> prenatal
+  - nat -> prenatally
 high_value_words:
   - innate
   - native to
   - natural gas
   - naturalist
   - naturalistic
+  - postnatal
+  - postnatally
+  - prenatal
+  - prenatally
 confusable_words:
   []

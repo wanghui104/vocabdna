@@ -1,0 +1,47 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: atriums
+word: atriums
+pos: noun
+zh: 中庭、中央大厅（复数）；心房（复数形式之一）
+en: the regular English plural of atrium, especially used for central spaces in buildings
+components:
+  - morpheme: atri
+    form: atri
+    meaning_in_word: central hall; receiving chamber / 中庭；接纳腔室
+    zh: 中庭；前室；心房
+    role: root
+    is_core: true
+    note: Latin atrium 的 atri- 词干；更早来源不确定。
+  - morpheme: um
+    form: -um
+    meaning_in_word: singular noun ending / 拉丁式单数词尾
+    zh: 单数词尾
+    role: suffix
+    is_core: false
+  - morpheme: s
+    form: -s
+    meaning_in_word: regular English plural / 英语规则复数
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+    note: 在完整 atrium 后加 -s；与替换 -um 的 atria 形式不同。
+word_family:
+  - atrium
+  - atria
+  - atrial
+word_family_details:
+  - word: atrium
+    en: a central open or skylit space in a building; in anatomy, a receiving chamber, especially in the heart
+    zh: 中庭；中央大厅；心房
+  - word: atria
+    en: the Latin-style plural of atrium, used for heart chambers and also architectural halls or courts
+    zh: 心房（复数）；中庭（复数）
+  - word: atrial
+    en: relating to an atrium, especially a chamber of the heart
+    zh: 心房的；中庭的；与前室有关的
+confusables:
+  []
+examples:
+  - en: The complex has two atriums connected by a corridor.
+    zh: 这座建筑群有两个由走廊相连的中庭。
+why_confusing: 读音 /ˈeɪtriəmz/。atriums 是正确复数，不必一律改成 atria；对应单数仍是 atrium。

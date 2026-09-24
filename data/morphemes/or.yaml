@@ -55,6 +55,7 @@ senses:
       - elevator
       - escalator
       - factor
+      - generator
       - governor
       - horror
       - horror film/movie
@@ -128,6 +129,7 @@ patterns:
   - -or -> elevator
   - -ator -> escalator
   - -or -> factor
+  - -or -> generator
   - -or -> governor
   - -or -> horror
   - -or -> horror film/movie
@@ -197,6 +199,7 @@ high_value_words:
   - elevator
   - escalator
   - factor
+  - generator
   - governor
   - horror
   - horror film/movie

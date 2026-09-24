@@ -1,0 +1,34 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: gender
+display: gender
+type: root
+core_meaning: kind; class; gender
+zh: 种类；类别；性
+origin: Old French
+source_form: Old French gendre, genre; Latin genus, generis
+source_meaning: kind; class; gender
+source_meaning_zh: 种类；类别；性
+source_note: 现代保留 gender 完整词干；d 是古法语语音发展所增，-der 不是此词的现代后缀。更深层关联 Latin genus/generis。参考 https://www.etymonline.com/word/gender ; https://www.merriam-webster.com/dictionary/gender
+related_morphemes:
+  - gener
+senses:
+  - meaning: kind; class; gender
+    zh: 种类；类别；性
+    examples:
+      - gender
+      - gendered
+      - genderless
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - gender -> gender
+  - gender -> gendered
+  - gender -> genderless
+high_value_words:
+  - gender
+  - gendered
+  - genderless
+confusable_words:
+  []

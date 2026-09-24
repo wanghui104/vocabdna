@@ -1,0 +1,53 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: resiliently
+word: resiliently
+pos: adverb
+zh: 坚韧地；有恢复力地；富有适应力地
+en: in a way that shows the ability to recover or adapt
+components:
+  - morpheme: re
+    form: re-
+    meaning_in_word: back / 回
+    zh: 回、再、反向
+    role: prefix
+    is_core: false
+    note: 在此表示弹回，不是简单重复做一次。
+  - morpheme: sali
+    form: sili
+    meaning_in_word: leap, spring / 跳跃、弹起
+    zh: 跳出；跃起
+    role: root
+    is_core: true
+    note: Latin salire 跳跃在 resilire 中变为 -silire；保留 sili-，再接词尾。
+  - morpheme: ent
+    form: -ent
+    meaning_in_word: having the quality / 具有这种性质的
+    zh: 具有…性质
+    role: suffix
+    is_core: false
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner / 以……方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - resilience
+  - resiliency
+  - resilient
+word_family_details:
+  - word: resilience
+    en: the capacity to recover or adapt after difficulty, or to regain shape after pressure
+    zh: 恢复力；韧性；适应力；回弹性
+  - word: resiliency
+    en: the capacity to recover or adapt after difficulty, or to regain shape after pressure
+    zh: 恢复力；韧性；适应力；回弹性
+  - word: resilient
+    en: able to recover or adapt after setbacks, or to return to shape after being pressed
+    zh: 有韧性的；恢复力强的；有回弹性的
+confusables:
+  []
+examples:
+  - en: The small business responded resiliently to the disruption.
+    zh: 这家小企业在应对经营中断时表现出很强的恢复与适应能力。
+why_confusing: resilient + -ly，修饰动作或应对方式；表示这种能力本身时用 resilience/resiliency。

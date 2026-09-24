@@ -1,0 +1,51 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forensically
+word: forensically
+pos: adverb
+zh: 以司法鉴定方式；运用科学鉴证方法地
+en: using methods of forensic examination
+components:
+  - morpheme: forens
+    form: forens
+    meaning_in_word: public discussion; courts / 公开讨论；法庭
+    zh: 公共集会场所的；公开的；法庭的
+    role: root
+    is_core: true
+    note: Latin forensis ← forum；深层相关词根见词根页。
+    related_morphemes:
+      - for-forum
+  - morpheme: ic
+    form: -ic
+    meaning_in_word: relating to / 相关的
+    zh: 与……有关
+    role: suffix
+    is_core: false
+  - morpheme: al
+    form: -al
+    meaning_in_word: adjectival extension / 形容词构词扩展
+    zh: 属于……的
+    role: suffix
+    is_core: false
+    note: forensic 的副词采用 -ically 形式；教学层次为 -ic + -al + -ly，不要求单独使用较少见的 forensical。
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner / 以……方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - forensic
+  - forensics
+word_family_details:
+  - word: forensic
+    en: relating to scientific investigation for legal purposes, courts, or public argument
+    zh: 司法鉴定的；法医学的；法庭的；辩论的
+  - word: forensics
+    en: scientific investigation for legal purposes, or the study and practice of formal argument
+    zh: 科学鉴证；司法科学；论辩术
+confusables:
+  []
+examples:
+  - en: The samples were examined forensically before the report was written.
+    zh: 撰写报告前，这些样本接受了司法鉴定。
+why_confusing: 拼写为 forensically，不是 forensicly。常与 examine、analyze 等动词连用。

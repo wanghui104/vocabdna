@@ -2,26 +2,30 @@
 id: ante
 display: ante-
 type: prefix
-core_meaning: before
-zh: 在前
-origin: teaching morphology
-source_form: ante
-source_meaning: before
-source_meaning_zh: 在前
+core_meaning: before; in front of
+zh: 在……之前；在前
+origin: Latin
+source_form: Latin ante
+source_meaning: before; in front of
+source_meaning_zh: 在……之前；在前
+source_note: 可表示时间先后或空间位置；antepartum 指分娩之前。参考 https://www.etymonline.com/word/ante- ; https://www.merriam-webster.com/medical/antepartum 。
 related_morphemes:
   []
 senses:
-  - meaning: before
-    zh: 在前
+  - meaning: before; in front of
+    zh: 在……之前；在前
     examples:
       - antedate
+      - antepartum
 similar_form:
   []
 similar_meaning:
   []
 patterns:
   - ante- -> antedate
+  - ante- -> antepartum
 high_value_words:
   - antedate
+  - antepartum
 confusable_words:
   []

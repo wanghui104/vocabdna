@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: forum
+word: forum
+pos: noun
+zh: 论坛；讨论平台；古罗马公共广场
+en: a meeting or platform for discussion; historically, a Roman public square
+components:
+  - morpheme: for-forum
+    form: for
+    meaning_in_word: public meeting place / 公共集会场所
+    zh: 市场；公共集会场所
+    role: root
+    is_core: true
+  - morpheme: um
+    form: -um
+    meaning_in_word: Latin singular ending / 拉丁式单数词尾
+    zh: 单数词尾
+    role: suffix
+    is_core: false
+word_family:
+  - forums
+  - fora
+word_family_details:
+  - word: forums
+    en: the regular English plural of forum
+    zh: 论坛；讨论会；公共广场（forum 的规则复数）
+  - word: fora
+    en: an alternative plural of forum retaining the Latin plural ending
+    zh: 论坛；讨论场所；公共广场（forum 的拉丁式复数）
+confusables:
+  []
+examples:
+  - en: The library hosted a forum on local history.
+    zh: 图书馆举办了一场讨论当地历史的论坛。
+  - en: She posted the question on a gardening forum.
+    zh: 她把问题发在一个园艺论坛上。
+  - en: The ruins show where the town’s forum once stood.
+    zh: 这些遗址显示了小镇昔日公共广场的位置。
+why_confusing: forum /ˈfɔːrəm/ 的复数有 forums 和 fora；现代网络论坛常用 forums。forum 与 forensic 同源，但不是 forensic 的词形变化。

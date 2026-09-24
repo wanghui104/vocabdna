@@ -125,6 +125,18 @@ senses:
       - fundamental
       - fundamentally
       - fungal
+      - genealogical
+      - genealogically
+      - general
+      - generalisation
+      - generalise
+      - generality
+      - generalization
+      - generalize
+      - generally
+      - generational
+      - generically
+      - genetically
       - glacial
       - global
       - gravitational
@@ -265,6 +277,16 @@ senses:
       - artefactual
       - artificially
       - artificiality
+      - atrial
+      - forensically
+      - atheistically
+      - theistically
+      - theological
+      - theologically
+      - postnatal
+      - postnatally
+      - prenatal
+      - prenatally
 similar_form:
   []
 similar_meaning:
@@ -380,6 +402,18 @@ patterns:
   - -al -> fundamental
   - -al -> fundamentally
   - -al -> fungal
+  - -al -> genealogical
+  - -al -> genealogically
+  - -al -> general
+  - -al -> generalisation
+  - -al -> generalise
+  - -al -> generality
+  - -al -> generalization
+  - -al -> generalize
+  - -al -> generally
+  - -al -> generational
+  - -al -> generically
+  - -al -> genetically
   - -al -> glacial
   - -al -> global
   - -al -> gravitational
@@ -520,6 +554,16 @@ patterns:
   - -ual -> artefactual
   - -ial -> artificially
   - -ial -> artificiality
+  - -al -> atrial
+  - -al -> forensically
+  - -al -> atheistically
+  - -al -> theistically
+  - -al -> theological
+  - -al -> theologically
+  - -al -> postnatal
+  - -al -> postnatally
+  - -al -> prenatal
+  - -al -> prenatally
 high_value_words:
   - a pivotal figure
   - abnormal
@@ -631,6 +675,18 @@ high_value_words:
   - fundamental
   - fundamentally
   - fungal
+  - genealogical
+  - genealogically
+  - general
+  - generalisation
+  - generalise
+  - generality
+  - generalization
+  - generalize
+  - generally
+  - generational
+  - generically
+  - genetically
   - glacial
   - global
   - gravitational
@@ -771,5 +827,15 @@ high_value_words:
   - artefactual
   - artificially
   - artificiality
+  - atrial
+  - forensically
+  - atheistically
+  - theistically
+  - theological
+  - theologically
+  - postnatal
+  - postnatally
+  - prenatal
+  - prenatally
 confusable_words:
   []

@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: saddled
+word: saddled
+pos: verb/adjective
+zh: 装了鞍的；背负负担的；装了鞍（过去式、过去分词）
+en: equipped with a saddle or burdened with something; the past tense and past participle of saddle
+components:
+  - morpheme: saddle
+    form: saddl
+    meaning_in_word: saddle; burden / 马鞍；加负担
+    zh: 鞍
+    role: root
+    is_core: true
+    note: saddle 去词尾 e 的书写形式。
+  - morpheme: ed
+    form: -ed
+    meaning_in_word: past or resulting state / 过去或结果状态
+    zh: 已经……的
+    role: suffix
+    is_core: false
+word_family:
+  - saddle
+  - saddling
+  - saddler
+  - saddlery
+  - saddleless
+word_family_details:
+  - word: saddle
+    en: a riding seat or saddle-shaped landform; to fit a saddle or impose a burden
+    zh: 马鞍；自行车座；鞍部；给……装鞍；使背负负担
+  - word: saddling
+    en: the present participle of saddle: fitting a saddle or imposing a burden
+    zh: 正在装鞍；使承担（现在分词）
+  - word: saddler
+    en: a person who makes, repairs, or sells saddles and related riding equipment
+    zh: 马鞍匠；鞍具商
+  - word: saddlery
+    en: the craft of making saddles, the goods made, or a shop selling them
+    zh: 鞍具制作业；鞍具；鞍具店
+  - word: saddleless
+    en: having no saddle
+    zh: 无鞍的；未装鞍的
+confusables:
+  []
+examples:
+  - en: The company was saddled with heavy debt.
+    zh: 公司背负着沉重债务。
+why_confusing: 常见 be saddled with；saddled 不表示“跨坐着”，后者可用 straddling。
