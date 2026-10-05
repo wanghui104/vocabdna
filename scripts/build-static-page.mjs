@@ -1,5 +1,6 @@
 import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { createCatalog } from '../lib/study-engine.mjs';
 
 const projectRoot = process.cwd();
 const wordsDir = path.join(projectRoot, 'data', 'words');
@@ -9,6 +10,14 @@ const [words, morphemes] = await Promise.all([
   readYamlDirectory(wordsDir),
   readYamlDirectory(morphemesDir),
 ]);
+
+const source = JSON.parse(await readFile(path.join(projectRoot, 'data/vocab/v1/words.seed-50.json'), 'utf8'));
+const studyCatalog = createCatalog(source.words, words);
+await writeFile(path.join(projectRoot, 'lib/study-catalog.json'), JSON.stringify(studyCatalog), 'utf8');
+const supplement = JSON.parse(await readFile(path.join(projectRoot, 'lib/study-supplement.json'), 'utf8'));
+const studyCss = await readFile(path.join(projectRoot, 'lib/study.css'), 'utf8');
+const studyEngine = (await readFile(path.join(projectRoot, 'lib/study-engine.mjs'), 'utf8')).replace(/^export /gm, '');
+const studyView = (await readFile(path.join(projectRoot, 'lib/study-view.mjs'), 'utf8')).replace(/^import .*;\r?\n/gm, '').replace(/^export /gm, '');
 
 const html = buildHtml({
   words: words.sort((a, b) => a.word.localeCompare(b.word)),
@@ -42,6 +51,7 @@ function buildHtml(data) {
   <title>VocabDNA</title>
   <meta name="description" content="A local word and morpheme graph for advanced English vocabulary." />
   <style>
+    ${studyCss}
     :root {
       --background: #f7f4ec;
       --foreground: #182334;
@@ -662,6 +672,7 @@ function buildHtml(data) {
         <button id="clear" class="clear" type="button" aria-label="Clear search">×</button>
       </label>
       <div class="topbar-actions">
+        <button id="study-open" class="study-entry" type="button">背单词</button>
         <div class="stats"><span id="word-count"></span><span>/</span><span id="morpheme-count"></span><span>/</span><span>local HTML</span></div>
         <button id="freeze-toggle" class="freeze-toggle" type="button" aria-pressed="false" aria-label="Freeze top pane off">
           <span class="freeze-label">Freeze Top Pane</span>
@@ -692,6 +703,7 @@ function buildHtml(data) {
     </aside>
     <article id="detail" class="article"></article>
   </main>
+  <div id="study-host" class="study-host" hidden></div>
   <script id="vocab-data" type="application/json">${payload}</script>
   <script>
     const data = JSON.parse(document.getElementById('vocab-data').textContent);
@@ -1319,6 +1331,32 @@ function buildHtml(data) {
     if (!location.hash) location.hash = 'word/archaeology';
     updateFreezeToggle();
     render();
+  </script>
+  <script>
+  (() => {
+    ${studyEngine}
+    ${studyView}
+    const catalog = ${JSON.stringify(studyCatalog).replaceAll('<', '\\u003c')};
+    const supplement = ${JSON.stringify(supplement).replaceAll('<', '\\u003c')};
+    const host = document.getElementById('study-host');
+    const shell = document.querySelector('main.shell');
+    let cleanup;
+    function closeStudy() {
+      if (cleanup) cleanup();
+      cleanup = undefined;
+      host.hidden = true;
+      shell.hidden = false;
+      document.getElementById('study-open').setAttribute('aria-pressed', 'false');
+    }
+    document.getElementById('study-open').addEventListener('click', () => {
+      if (!host.hidden) { closeStudy(); return; }
+      shell.hidden = true;
+      host.hidden = false;
+      document.getElementById('study-open').setAttribute('aria-pressed', 'true');
+      cleanup = mountStudy(host, catalog, supplement, closeStudy);
+    });
+    window.addEventListener('hashchange', closeStudy);
+  })();
   </script>
 </body>
 </html>`;

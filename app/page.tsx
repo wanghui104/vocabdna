@@ -1,6 +1,8 @@
 'use client';
 
-import { Fragment, useEffect, useMemo, useState } from 'react';
+import { Fragment, useCallback, useEffect, useMemo, useState } from 'react';
+import { StudyPanel } from '@/components/study-panel';
+import '@/lib/study.css';
 import { BookOpen, ChevronDown, Network, Search, X } from 'lucide-react';
 
 import { Button } from '@/components/ui/button';
@@ -43,6 +45,8 @@ function navigate(next: RouteState) {
 }
 
 export default function Home() {
+  const [showStudy, setShowStudy] = useState(false);
+  const closeStudy = useCallback(() => setShowStudy(false), []);
   const [query, setQuery] = useState('');
   const [route, setRoute] = useState<RouteState>(() => parseRoute());
   const [freezeTopPane, setFreezeTopPane] = useState(() => {
@@ -53,7 +57,7 @@ export default function Home() {
   });
 
   useEffect(() => {
-    const onHashChange = () => setRoute(parseRoute());
+    const onHashChange = () => { setRoute(parseRoute()); setShowStudy(false); };
     window.addEventListener('hashchange', onHashChange);
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);
@@ -122,6 +126,7 @@ export default function Home() {
           </label>
 
           <div className="topbar-actions">
+            <button className="study-entry" type="button" aria-pressed={showStudy} onClick={() => setShowStudy(value => !value)}>背单词</button>
             <div className="flex items-center gap-2 text-xs text-muted-foreground">
               <span>{words.length} Words</span>
               <span className="text-border">/</span>
@@ -137,7 +142,8 @@ export default function Home() {
         </div>
       </header>
 
-      <div className="mx-auto grid max-w-[1500px] gap-5 px-4 py-5 md:grid-cols-[260px_minmax(0,1fr)] md:px-6">
+      {showStudy ? <StudyPanel onClose={closeStudy} /> : null}
+      <div style={showStudy ? { display: 'none' } : undefined} className="mx-auto grid max-w-[1500px] gap-5 px-4 py-5 md:grid-cols-[260px_minmax(0,1fr)] md:px-6">
         <aside className="space-y-4 md:sticky md:top-[76px] md:h-[calc(100vh-96px)] md:overflow-auto">
           <SearchPanel
             query={query}
