@@ -2,27 +2,42 @@
 id: rudimentary
 word: rudimentary
 pos: adjective
-zh: 基本的；初步的，发展未完全的
-en: Means 基本的；初步的，发展未完全的; reviewed from the TOEFL source gloss for learner display.
+zh: 基本的；初步的；发育不完全的
+en: limited to the earliest or simplest elements of something
 components:
   - morpheme: rudiment
     form: rudiment
-    meaning_in_word: rudiment; beginning / 雏形；基础
+    meaning_in_word: beginning; basic element / 开端；基础
     zh: 雏形；基础
     role: root
     is_core: true
+    note: 表层保留 rudiment-，深层 rudi- + -mentum 见词根页。
+    related_morphemes:
+      - rud
+      - ment
   - morpheme: ary
     form: -ary
-    meaning_in_word: relating to / 相关的
+    meaning_in_word: relating to / 与……有关的
     zh: 与……有关的
     role: suffix
     is_core: false
 word_family:
-  []
+  - rudiment
+  - rudiments
 word_family_details:
-  []
+  - word: rudiment
+    en: a basic element or skill in a subject, usually referred to in the plural
+    zh: 基本要素；初步知识；雏形
+  - word: rudiments
+    en: the basic facts or skills of a subject, or the beginnings of something
+    zh: 基础知识；基本技能；雏形（rudiment 的复数）
 confusables:
-  []
+  - word: erudite
+    reason: rudimentary 可形容知识、工具或生物结构；basic 强调基础，rudimentary 常额外暗示程度有限或发展不足。与 erudite 比较的是知识深度，不是礼貌程度。
+    zh_reason: rudimentary 可形容知识、工具或生物结构；basic 强调基础，rudimentary 常额外暗示程度有限或发展不足。与 erudite 比较的是知识深度，不是礼貌程度。
 examples:
-  []
-why_confusing: 词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+  - en: She has a rudimentary knowledge of statistics.
+    zh: 她具有初步的统计学知识。
+  - en: The cave fish has rudimentary eyes.
+    zh: 这种洞穴鱼有发育不完全的眼睛。
+why_confusing: rudimentary 可形容知识、工具或生物结构；basic 强调基础，rudimentary 常额外暗示程度有限或发展不足。与 erudite 比较的是知识深度，不是礼貌程度。

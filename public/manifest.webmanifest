@@ -1,0 +1,10 @@
+{
+  "id": "/", "name": "VocabDNA", "short_name": "VocabDNA", "lang": "zh-CN",
+  "description": "查单词、学词根、背单词", "start_url": "/", "scope": "/", "display": "standalone",
+  "background_color": "#fffefa", "theme_color": "#165f75",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

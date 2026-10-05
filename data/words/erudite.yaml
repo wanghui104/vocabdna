@@ -1,0 +1,48 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: erudite
+word: erudite
+pos: adjective
+zh: 博学的；显示渊博学识的
+en: having broad and deep knowledge from study, or showing such knowledge
+components:
+  - morpheme: e
+    form: e-
+    meaning_in_word: out of; away from / 脱离、去除
+    zh: 出；离开；加强
+    role: prefix
+    is_core: false
+    note: e- 是 ex- 的形式；此处意为使摆脱未受教育的状态。
+  - morpheme: rud
+    form: rud
+    meaning_in_word: untrained; unlearned / 未经训练；未学
+    zh: 粗糙；未经训练
+    role: root
+    is_core: true
+  - morpheme: it-participle
+    form: -ite
+    meaning_in_word: participial formation / 分词构词层
+    zh: 分词构词层
+    role: suffix
+    is_core: false
+    note: Latin erudire → eruditus；erudit- 为分词词干。
+word_family:
+  - erudition
+  - eruditely
+word_family_details:
+  - word: erudition
+    en: wide and deep knowledge gained through reading and study
+    zh: 博学；渊博的学识
+  - word: eruditely
+    en: in a way that displays extensive learning
+    zh: 博学地；以显示渊博学识的方式
+confusables:
+  - word: rude
+    reason: erudite /ˈerədaɪt/ 是正式形容词，可修饰人、文章或演讲；强调学习积累的学识，不能只译为“聪明”。名词是 erudition，副词是 eruditely。虽与 rude 同源，现代 erudite 并不简单等于“有礼貌的”。
+    zh_reason: erudite /ˈerədaɪt/ 是正式形容词，可修饰人、文章或演讲；强调学习积累的学识，不能只译为“聪明”。名词是 erudition，副词是 eruditely。虽与 rude 同源，现代 erudite 并不简单等于“有礼貌的”。
+  - word: rudimentary
+    reason: erudite /ˈerədaɪt/ 是正式形容词，可修饰人、文章或演讲；强调学习积累的学识，不能只译为“聪明”。名词是 erudition，副词是 eruditely。虽与 rude 同源，现代 erudite 并不简单等于“有礼貌的”。
+    zh_reason: erudite /ˈerədaɪt/ 是正式形容词，可修饰人、文章或演讲；强调学习积累的学识，不能只译为“聪明”。名词是 erudition，副词是 eruditely。虽与 rude 同源，现代 erudite 并不简单等于“有礼貌的”。
+examples:
+  - en: Her erudite essay connects ancient poetry with modern philosophy.
+    zh: 她那篇体现渊博学识的文章将古代诗歌与现代哲学联系起来。
+why_confusing: erudite /ˈerədaɪt/ 是正式形容词，可修饰人、文章或演讲；强调学习积累的学识，不能只译为“聪明”。名词是 erudition，副词是 eruditely。虽与 rude 同源，现代 erudite 并不简单等于“有礼貌的”。

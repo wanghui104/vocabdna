@@ -215,6 +215,9 @@ senses:
       - supervise
       - universe
       - vaccine
+      - erudite
+      - erudition
+      - eruditely
 similar_form:
   []
 similar_meaning:
@@ -420,6 +423,9 @@ patterns:
   - -e -> supervise
   - e- -> universe
   - e- -> vaccine
+  - e- -> erudite
+  - e- -> erudition
+  - e- -> eruditely
 high_value_words:
   - chaste
   - edentate
@@ -621,5 +627,8 @@ high_value_words:
   - supervise
   - universe
   - vaccine
+  - erudite
+  - erudition
+  - eruditely
 confusable_words:
   []

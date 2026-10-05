@@ -30,4 +30,7 @@
 .study-panel th, .study-panel td { border-bottom: 1px solid #d8d0bf; padding: 10px; text-align: left; }
 .study-results { list-style: none; padding: 0; margin: 20px 0; }
 .study-results li { display: flex; justify-content: space-between; border-bottom: 1px solid #d8d0bf; padding: 8px; }
+.study-sync { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; color: #627083; font-size: 14px; margin-bottom: 18px; }
+.study-sync button { min-height: 44px; }
+@media (max-width: 767px) { .study-host { margin: 12px auto; padding: 0 12px; } .study-toolbar button { min-height: 44px; } .study-actions button { flex: 1; min-height: 48px; } .study-panel { padding-bottom: max(18px, env(safe-area-inset-bottom)); } }
 @media (max-width: 600px) { .study-panel { padding: 18px; } .study-toolbar { gap: 10px; } #study-settings { align-items: stretch; flex-direction: column; } #study-settings input { width: 100%; } }

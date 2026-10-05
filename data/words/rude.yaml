@@ -1,0 +1,35 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rude
+word: rude
+pos: adjective
+zh: 无礼的；粗陋的；突然而令人不快的
+en: showing little respect or consideration for other people
+components:
+  - morpheme: rud
+    form: rude
+    meaning_in_word: rough; unrefined / 粗糙；缺乏修养
+    zh: 粗糙；未经训练
+    role: root
+    is_core: true
+word_family:
+  - rudely
+  - rudeness
+word_family_details:
+  - word: rudely
+    en: in an impolite or disrespectful manner
+    zh: 无礼地；突然而令人不快地
+  - word: rudeness
+    en: behavior or a quality that shows a lack of politeness
+    zh: 无礼；粗鲁
+confusables:
+  - word: erudite
+    reason: rude /ruːd/ 常用 be rude to somebody；a rude awakening 指令人不快的猛然醒悟。rude 与 erudite 同源，但无礼和博学可以同时出现在一个人身上，二者不是现代词义上的直接反义词。
+    zh_reason: rude /ruːd/ 常用 be rude to somebody；a rude awakening 指令人不快的猛然醒悟。rude 与 erudite 同源，但无礼和博学可以同时出现在一个人身上，二者不是现代词义上的直接反义词。
+examples:
+  - en: It was rude to interrupt her explanation.
+    zh: 打断她的解释是不礼貌的。
+  - en: They built a rude shelter from branches.
+    zh: 他们用树枝搭了一个简陋的避难所。
+  - en: The exam results gave him a rude awakening.
+    zh: 考试成绩让他猛然清醒，认识到了现实。
+why_confusing: rude /ruːd/ 常用 be rude to somebody；a rude awakening 指令人不快的猛然醒悟。rude 与 erudite 同源，但无礼和博学可以同时出现在一个人身上，二者不是现代词义上的直接反义词。

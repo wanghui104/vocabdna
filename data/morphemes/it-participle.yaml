@@ -8,7 +8,7 @@ origin: Latin
 source_form: Latin participial -itus
 source_meaning: participial formation
 source_meaning_zh: 分词构词层
-source_note: explicit/implicit 的 -it 对应 Latin -itus；expenditure 的 it 来自 Medieval Latin expenditus。
+source_note: explicit/implicit 的 -it 对应 Latin -itus；expenditure 的 it 来自 Medieval Latin expenditus。 erudite 的 -ite 对应 eruditus 的分词词干 -it-；erudition 保留 erudit- + -ion。这里的 -ite 不采用 Greek -ites 矿物/相关物后缀的释义。
 related_morphemes:
   []
 senses:
@@ -17,6 +17,9 @@ senses:
     examples:
       - expenditure
       - explicit
+      - erudite
+      - erudition
+      - eruditely
 similar_form:
   []
 similar_meaning:
@@ -24,8 +27,14 @@ similar_meaning:
 patterns:
   - -it -> expenditure
   - -it -> explicit
+  - -ite -> erudite
+  - -it -> erudition
+  - -ite -> eruditely
 high_value_words:
   - expenditure
   - explicit
+  - erudite
+  - erudition
+  - eruditely
 confusable_words:
   []

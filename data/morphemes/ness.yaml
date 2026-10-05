@@ -46,6 +46,7 @@ senses:
       - vastness
       - weariness
       - primitiveness
+      - rudeness
 similar_form:
   []
 similar_meaning:
@@ -83,6 +84,7 @@ patterns:
   - -ness -> vastness
   - -ness -> weariness
   - -ness -> primitiveness
+  - -ness -> rudeness
 high_value_words:
   - aggressiveness
   - airsickness
@@ -116,5 +118,6 @@ high_value_words:
   - vastness
   - weariness
   - primitiveness
+  - rudeness
 confusable_words:
   []

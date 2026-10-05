@@ -51381,7 +51381,8 @@
       "slug": "it-participle",
       "status": "draft",
       "forms": [
-        "it"
+        "it",
+        "ite"
       ],
       "type": "suffix",
       "origin": "Latin",
@@ -51391,7 +51392,7 @@
           "en": "participial formation",
           "zh": "分词构词层"
         },
-        "note": "explicit/implicit 的 -it 对应 Latin -itus；expenditure 的 it 来自 Medieval Latin expenditus。"
+        "note": "explicit/implicit 的 -it 对应 Latin -itus；expenditure 的 it 来自 Medieval Latin expenditus。 erudite 的 -ite 对应 eruditus 的分词词干 -it-；erudition 保留 erudit- + -ion。这里的 -ite 不采用 Greek -ites 矿物/相关物后缀的释义。"
       },
       "meaning": {
         "en": "participial formation",
@@ -74942,13 +74943,14 @@
         "rudiment"
       ],
       "type": "root",
-      "origin": "teaching morphology",
+      "origin": "Latin",
       "source": {
-        "form": "rudiment",
+        "form": "Latin rudimentum, from rudis",
         "meaning": {
-          "en": "rudiment; beginning",
-          "zh": "雏形；基础"
-        }
+          "en": "first training; beginning; basic element",
+          "zh": "初步训练；开端；基础要素"
+        },
+        "note": "表层保留 rudiment-；深层 rudi-（rudis：未经训练）+ -mentum（名词构词）。参见 https://www.etymonline.com/word/rudiment ; https://www.merriam-webster.com/dictionary/rudiment 。"
       },
       "meaning": {
         "en": "rudiment; beginning",
@@ -74956,9 +74958,13 @@
       },
       "status": "draft",
       "learning": {
-        "coreImage": "rudiment; beginning",
-        "notes": "Added for TOEFL 5400 batch 4201-4400 learner-visible decomposition."
-      }
+        "coreImage": "学习或发育刚开始时的基础、雏形。",
+        "notes": "rudiment- 是本词族稳定表层词干；更深层 rudi- + -mentum 通过词源说明及相关词根连接展示。rudiments 常指基础知识，rudimentary 常指初步的或尚未充分发展的。"
+      },
+      "relatedRootIds": [
+        "root:rud",
+        "root:ment"
+      ]
     },
     {
       "id": "root:rug",
@@ -97357,6 +97363,34 @@
       "learning": {
         "coreImage": "在……内；在……期间",
         "notes": "空间上在内部，时间上在某过程之中；intrapartum 中指分娩过程中。参考 https://www.etymonline.com/word/intra- ; https://www.merriam-webster.com/medical/intrapartum 。"
+      }
+    },
+    {
+      "id": "root:rud",
+      "slug": "rud",
+      "forms": [
+        "rud",
+        "rude",
+        "rudi"
+      ],
+      "type": "root",
+      "origin": "Latin",
+      "source": {
+        "form": "Latin rudis",
+        "meaning": {
+          "en": "rough; untrained; unlearned",
+          "zh": "粗糙的；未受训练的；未学的"
+        },
+        "note": "rude 经 Old French ruide 或直接来自 Latin rudis；erudire = e-/ex- + rudis，意为使脱离未经教化的状态；rudimentum 也源于 rudis。rudis 的更深层来源未定，不推定为其他相似拼写词根。参考 https://www.etymonline.com/word/erudite ; https://www.etymonline.com/word/rude ; https://www.etymonline.com/word/rudiment ; https://www.merriam-webster.com/dictionary/erudite 。"
+      },
+      "meaning": {
+        "en": "rough; untrained",
+        "zh": "粗糙；未经训练"
+      },
+      "status": "draft",
+      "learning": {
+        "coreImage": "尚未经过打磨或训练的状态。",
+        "notes": "erudite 从“去除未学状态”走向博学；rude 常指无礼；rudiment 指初步基础。同源不等于现代意思或词族标签相同。"
       }
     }
   ]

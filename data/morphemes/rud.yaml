@@ -1,0 +1,43 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rud
+display: rud
+type: root
+core_meaning: rough; untrained
+zh: 粗糙；未经训练
+origin: Latin
+source_form: Latin rudis
+source_meaning: rough; untrained; unlearned
+source_meaning_zh: 粗糙的；未受训练的；未学的
+source_note: rude 经 Old French ruide 或直接来自 Latin rudis；erudire = e-/ex- + rudis，意为使脱离未经教化的状态；rudimentum 也源于 rudis。rudis 的更深层来源未定，不推定为其他相似拼写词根。参考 https://www.etymonline.com/word/erudite ; https://www.etymonline.com/word/rude ; https://www.etymonline.com/word/rudiment ; https://www.merriam-webster.com/dictionary/erudite 。
+related_morphemes:
+  []
+senses:
+  - meaning: rough; untrained
+    zh: 粗糙；未经训练
+    examples:
+      - erudite
+      - erudition
+      - eruditely
+      - rude
+      - rudely
+      - rudeness
+similar_form:
+  []
+similar_meaning:
+  []
+patterns:
+  - rud -> erudite
+  - rud -> erudition
+  - rud -> eruditely
+  - rude -> rude
+  - rude -> rudely
+  - rude -> rudeness
+high_value_words:
+  - erudite
+  - erudition
+  - eruditely
+  - rude
+  - rudely
+  - rudeness
+confusable_words:
+  []

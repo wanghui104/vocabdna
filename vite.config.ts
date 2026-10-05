@@ -3,11 +3,27 @@ import tailwindcss from '@tailwindcss/postcss';
 import vinext from 'vinext';
 import { defineConfig } from 'vite';
 import hostingConfig from './.openai/hosting.json';
+import { cp, mkdir } from 'node:fs/promises';
+import path from 'node:path';
 
 const SITE_CREATOR_PLACEHOLDER_DATABASE_ID =
   '00000000-0000-4000-8000-000000000000';
 
 const { d1, r2 } = hostingConfig;
+
+// Dropbox can lock newly-created directories against recursive removal on Windows.
+// Write the same hosting metadata in place instead. Migrations are append-only.
+function sitePlugin() {
+  const plugin = sites();
+  if (process.platform !== 'win32') return plugin;
+  plugin.closeBundle = async function () {
+    const output = path.resolve('dist/.openai');
+    await mkdir(output, { recursive: true });
+    await cp(path.resolve('.openai/hosting.json'), path.join(output, 'hosting.json'));
+    await cp(path.resolve('drizzle'), path.join(output, 'drizzle'), { recursive: true });
+  };
+  return plugin;
+}
 
 // macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.
 const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === 'seatbelt';
@@ -51,7 +67,7 @@ export default defineConfig(async () => {
       : undefined,
     plugins: [
       vinext(),
-      sites(),
+      sitePlugin(),
       cloudflare({
         viteEnvironment: { name: 'rsc', childEnvironments: ['ssr'] },
         config: localBindingConfig,

@@ -332,6 +332,7 @@ senses:
       - version
       - vision
       - dispersion
+      - erudition
 similar_form:
   []
 similar_meaning:
@@ -654,6 +655,7 @@ patterns:
   - -ion -> version
   - -ion -> vision
   - -ion -> dispersion
+  - -ion -> erudition
 high_value_words:
   - abbreviation
   - abolition
@@ -972,5 +974,6 @@ high_value_words:
   - version
   - vision
   - dispersion
+  - erudition
 confusable_words:
   []

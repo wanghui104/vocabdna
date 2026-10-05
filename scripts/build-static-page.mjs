@@ -17,7 +17,8 @@ await writeFile(path.join(projectRoot, 'lib/study-catalog.json'), JSON.stringify
 const supplement = JSON.parse(await readFile(path.join(projectRoot, 'lib/study-supplement.json'), 'utf8'));
 const studyCss = await readFile(path.join(projectRoot, 'lib/study.css'), 'utf8');
 const studyEngine = (await readFile(path.join(projectRoot, 'lib/study-engine.mjs'), 'utf8')).replace(/^export /gm, '');
-const studyView = (await readFile(path.join(projectRoot, 'lib/study-view.mjs'), 'utf8')).replace(/^import .*;\r?\n/gm, '').replace(/^export /gm, '');
+const studySync = (await readFile(path.join(projectRoot, 'lib/study-sync.mjs'), 'utf8')).replace(/^import .*;\r?\n/gm, '').replace(/^export /gm, '');
+const studyView = studySync + '\n' + (await readFile(path.join(projectRoot, 'lib/study-view.mjs'), 'utf8')).replace(/^import .*;\r?\n/gm, '').replace(/^export /gm, '');
 
 const html = buildHtml({
   words: words.sort((a, b) => a.word.localeCompare(b.word)),
@@ -1328,7 +1329,7 @@ function buildHtml(data) {
       render();
     });
     window.addEventListener('hashchange', render);
-    if (!location.hash) location.hash = 'word/archaeology';
+    if (!location.hash) history.replaceState(null, '', '#word/archaeology');
     updateFreezeToggle();
     render();
   </script>

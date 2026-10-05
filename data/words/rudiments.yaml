@@ -1,0 +1,39 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rudiments
+word: rudiments
+pos: noun
+zh: 基础知识；基本技能；雏形（rudiment 的复数）
+en: the basic facts or skills of a subject, or the beginnings of something
+components:
+  - morpheme: rudiment
+    form: rudiment
+    meaning_in_word: beginning; basic element / 开端；基础
+    zh: 雏形；基础
+    role: root
+    is_core: true
+    note: 表层保留 rudiment-，深层 rudi- + -mentum 见词根页。
+    related_morphemes:
+      - rud
+      - ment
+  - morpheme: s
+    form: -s
+    meaning_in_word: plural / 复数
+    zh: 复数；机构化形式
+    role: suffix
+    is_core: false
+word_family:
+  - rudiment
+  - rudimentary
+word_family_details:
+  - word: rudiment
+    en: a basic element or skill in a subject, usually referred to in the plural
+    zh: 基本要素；初步知识；雏形
+  - word: rudimentary
+    en: limited to the earliest or simplest elements of something
+    zh: 基本的；初步的；发育不完全的
+confusables:
+  []
+examples:
+  - en: Students first learn the rudiments of programming.
+    zh: 学生首先学习编程基础。
+why_confusing: 高频搭配 the rudiments of + 学科或技能。作为 rudiment 的复数标签，与 rudimentary 共用词族页面。

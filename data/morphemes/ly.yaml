@@ -185,6 +185,8 @@ senses:
       - theologically
       - postnatally
       - prenatally
+      - eruditely
+      - rudely
 similar_form:
   []
 similar_meaning:
@@ -361,6 +363,8 @@ patterns:
   - -ly -> theologically
   - -ly -> postnatally
   - -ly -> prenatally
+  - -ly -> eruditely
+  - -ly -> rudely
 high_value_words:
   - absolutely
   - abundantly
@@ -533,5 +537,7 @@ high_value_words:
   - theologically
   - postnatally
   - prenatally
+  - eruditely
+  - rudely
 confusable_words:
   []

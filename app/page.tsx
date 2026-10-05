@@ -2,6 +2,7 @@
 
 import { Fragment, useCallback, useEffect, useMemo, useState } from 'react';
 import { StudyPanel } from '@/components/study-panel';
+import { MobileApp } from '@/components/mobile-app';
 import '@/lib/study.css';
 import { BookOpen, ChevronDown, Network, Search, X } from 'lucide-react';
 
@@ -41,32 +42,33 @@ function parseRoute(): RouteState {
 }
 
 function navigate(next: RouteState) {
-  window.location.hash = `${next.type}/${next.id}`;
+  const hash = `#${next.type}/${next.id}`;
+  if (window.location.hash === hash) window.dispatchEvent(new HashChangeEvent('hashchange'));
+  else window.location.hash = hash;
 }
 
 export default function Home() {
+  const [browseOpen, setBrowseOpen] = useState(false);
   const [showStudy, setShowStudy] = useState(false);
   const closeStudy = useCallback(() => setShowStudy(false), []);
   const [query, setQuery] = useState('');
-  const [route, setRoute] = useState<RouteState>(() => parseRoute());
-  const [freezeTopPane, setFreezeTopPane] = useState(() => {
-    if (typeof window === 'undefined') {
-      return false;
-    }
-    return window.localStorage.getItem('vocabdna-freeze-top-pane') === 'true';
-  });
+  const [route, setRoute] = useState<RouteState>(defaultRoute);
+  const [freezeTopPane, setFreezeTopPane] = useState(false);
 
   useEffect(() => {
-    const onHashChange = () => { setRoute(parseRoute()); setShowStudy(false); };
+    setRoute(parseRoute());
+    try { setFreezeTopPane(window.localStorage.getItem('vocabdna-freeze-top-pane') === 'true'); } catch { /* Optional preference. */ }
+    document.documentElement.dataset.vocabdnaReady = 'true';
+    const onHashChange = () => { setRoute(parseRoute()); setShowStudy(false); setBrowseOpen(false); setQuery(''); window.scrollTo({ top: 0 }); };
     window.addEventListener('hashchange', onHashChange);
-    return () => window.removeEventListener('hashchange', onHashChange);
+    return () => { delete document.documentElement.dataset.vocabdnaReady; window.removeEventListener('hashchange', onHashChange); };
   }, []);
 
   useEffect(() => {
-    window.localStorage.setItem(
+    try { window.localStorage.setItem(
       'vocabdna-freeze-top-pane',
       String(freezeTopPane),
-    );
+    ); } catch { /* Dictionary remains usable without storage. */ }
   }, [freezeTopPane]);
 
   const wordResults = useMemo(() => searchWords(query).slice(0, 9), [query]);
@@ -79,7 +81,7 @@ export default function Home() {
     route.type === 'morpheme' ? getMorpheme(route.id) : undefined;
 
   return (
-    <main className="min-h-screen bg-background text-foreground">
+    <main className="vocab-app min-h-screen bg-background text-foreground">
       <header className="sticky top-0 z-20 border-b border-border bg-background/96 backdrop-blur">
         <div className="mx-auto grid max-w-[1500px] gap-3 px-4 py-3 md:grid-cols-[220px_minmax(280px,680px)_1fr] md:items-center md:px-6">
           <button
@@ -107,8 +109,11 @@ export default function Home() {
             />
             <Input
               value={query}
-              onChange={(event) => setQuery(event.target.value)}
-              placeholder="Search word or morpheme: archaeology, -logy, simul..."
+              onChange={(event) => { setQuery(event.target.value); setBrowseOpen(Boolean(event.target.value)); setShowStudy(false); }}
+              aria-label="搜索单词或词根"
+              autoCapitalize="none"
+              autoCorrect="off"
+              placeholder="搜索单词或词根…"
               className="h-10 rounded-md border-border bg-card pl-8 pr-9 text-[15px]"
             />
             {query ? (
@@ -126,6 +131,7 @@ export default function Home() {
           </label>
 
           <div className="topbar-actions">
+            <button type="button" className="mobile-browse-toggle" aria-expanded={browseOpen} aria-controls="dictionary-browse" onClick={() => { setBrowseOpen(value => !value); setShowStudy(false); }}>{browseOpen ? '收起目录' : '浏览词库'}</button>
             <button className="study-entry" type="button" aria-pressed={showStudy} onClick={() => setShowStudy(value => !value)}>背单词</button>
             <div className="flex items-center gap-2 text-xs text-muted-foreground">
               <span>{words.length} Words</span>
@@ -141,10 +147,11 @@ export default function Home() {
           </div>
         </div>
       </header>
+      <MobileApp />
 
       {showStudy ? <StudyPanel onClose={closeStudy} /> : null}
       <div style={showStudy ? { display: 'none' } : undefined} className="mx-auto grid max-w-[1500px] gap-5 px-4 py-5 md:grid-cols-[260px_minmax(0,1fr)] md:px-6">
-        <aside className="space-y-4 md:sticky md:top-[76px] md:h-[calc(100vh-96px)] md:overflow-auto">
+        <aside id="dictionary-browse" className={`${browseOpen ? 'mobile-browse-open' : 'mobile-browse-closed'} space-y-4 md:sticky md:top-[76px] md:h-[calc(100vh-96px)] md:overflow-auto`}>
           <SearchPanel
             query={query}
             wordResults={wordResults}

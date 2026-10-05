@@ -1,0 +1,37 @@
+# Generated from data/vocab/v1. Edit the JSON source, then rerun scripts/generate-vocab-data.mjs.
+id: rudely
+word: rudely
+pos: adverb
+zh: 无礼地；突然而令人不快地
+en: in an impolite or disrespectful manner
+components:
+  - morpheme: rud
+    form: rude
+    meaning_in_word: rough; unrefined / 粗糙；缺乏修养
+    zh: 粗糙；未经训练
+    role: root
+    is_core: true
+  - morpheme: ly
+    form: -ly
+    meaning_in_word: in a manner / 以……方式
+    zh: 以……方式地
+    role: suffix
+    is_core: false
+word_family:
+  - rude
+  - rudeness
+word_family_details:
+  - word: rude
+    en: showing little respect or consideration for other people
+    zh: 无礼的；粗陋的；突然而令人不快的
+  - word: rudeness
+    en: behavior or a quality that shows a lack of politeness
+    zh: 无礼；粗鲁
+confusables:
+  []
+examples:
+  - en: He rudely dismissed the question.
+    zh: 他无礼地拒绝回答这个问题。
+  - en: Their conversation was rudely interrupted by an alarm.
+    zh: 警报突然打断了他们的谈话。
+why_confusing: rudely 保留末尾 e；rudely interrupted 常表示突然而令人不快地被打断，不一定指某人故意失礼。

@@ -243812,23 +243812,37 @@
       "frequencyBand": "medium",
       "definitions": [
         {
-          "sense": "TOEFL adj. sense",
-          "zh": "基本的；初步的，发展未完全的",
-          "en": "Means 基本的；初步的，发展未完全的; reviewed from the TOEFL source gloss for learner display."
+          "sense": "basic or elementary",
+          "zh": "基本的；初步的；发育不完全的",
+          "en": "limited to the earliest or simplest elements of something",
+          "example": {
+            "en": "She has a rudimentary knowledge of statistics.",
+            "zh": "她具有初步的统计学知识。"
+          }
+        },
+        {
+          "sense": "not fully developed",
+          "zh": "尚未充分发展的；发育不完全的",
+          "en": "remaining in a simple or incompletely developed form",
+          "example": {
+            "en": "The cave fish has rudimentary eyes.",
+            "zh": "这种洞穴鱼有发育不完全的眼睛。"
+          }
         }
       ],
       "morphemes": [
         {
           "form": "rudiment",
           "type": "root",
-          "meaning": "rudiment; beginning / 雏形；基础",
-          "rootId": "root:rudiment"
+          "rootId": "root:rudiment",
+          "meaning": "beginning; basic element / 开端；基础",
+          "note": "表层保留 rudiment-，深层 rudi- + -mentum 见词根页。"
         },
         {
           "form": "ary",
           "type": "suffix",
-          "meaning": "relating to / 相关的",
-          "rootId": "root:ary"
+          "rootId": "root:ary",
+          "meaning": "relating to / 与……有关的"
         }
       ],
       "rootIds": [
@@ -243836,18 +243850,28 @@
         "root:ary"
       ],
       "relations": {
-        "derivatives": [],
-        "sameFamily": [],
-        "confusables": []
+        "derivatives": [
+          "rudiment",
+          "rudiments"
+        ],
+        "sameFamily": [
+          "erudite",
+          "rude"
+        ],
+        "confusables": [
+          "erudite"
+        ]
       },
       "learning": {
-        "coreIdea": "基本的；初步的，发展未完全的",
-        "memoryHook": "rudimentary: rudiment + ary → 基本的；初步的，发展未完全的",
-        "watchOut": "词根拆解按可见学习结构处理；大小写同形、来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。"
+        "coreIdea": "rudiment- 基础、雏形 + -ary → 初步的；未充分发展的。",
+        "memoryHook": "rudiment- 基础、雏形 + -ary → 初步的；未充分发展的。",
+        "watchOut": "rudimentary 可形容知识、工具或生物结构；basic 强调基础，rudimentary 常额外暗示程度有限或发展不足。与 erudite 比较的是知识深度，不是礼貌程度。",
+        "notes": "参考 https://www.etymonline.com/word/rudiment ; https://www.merriam-webster.com/dictionary/rudiment ; https://www.merriam-webster.com/dictionary/rudimentary 。释义改写，例句自编。"
       },
       "tags": [
         "toefl-5400",
-        "reviewed-4201-4400"
+        "reviewed-4201-4400",
+        "erudite-family-enriched"
       ],
       "source": {
         "recordNo": 4209,
@@ -314975,6 +314999,556 @@
       "tags": [
         "birth-time-vocabulary",
         "postpartum-family-enriched"
+      ]
+    },
+    {
+      "id": "word:erudite",
+      "slug": "erudite",
+      "term": "erudite",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "having or showing extensive learning",
+          "zh": "博学的；显示渊博学识的",
+          "en": "having broad and deep knowledge from study, or showing such knowledge",
+          "example": {
+            "en": "Her erudite essay connects ancient poetry with modern philosophy.",
+            "zh": "她那篇体现渊博学识的文章将古代诗歌与现代哲学联系起来。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "e",
+          "type": "prefix",
+          "rootId": "root:e",
+          "meaning": "out of; away from / 脱离、去除",
+          "note": "e- 是 ex- 的形式；此处意为使摆脱未受教育的状态。"
+        },
+        {
+          "form": "rud",
+          "type": "root",
+          "rootId": "root:rud",
+          "meaning": "untrained; unlearned / 未经训练；未学"
+        },
+        {
+          "form": "ite",
+          "type": "suffix",
+          "rootId": "root:it-participle",
+          "meaning": "participial formation / 分词构词层",
+          "note": "Latin erudire → eruditus；erudit- 为分词词干。"
+        }
+      ],
+      "rootIds": [
+        "root:e",
+        "root:rud",
+        "root:it-participle"
+      ],
+      "relations": {
+        "derivatives": [
+          "erudition",
+          "eruditely"
+        ],
+        "sameFamily": [
+          "rude",
+          "rudiment"
+        ],
+        "confusables": [
+          "rude",
+          "rudimentary"
+        ]
+      },
+      "learning": {
+        "coreIdea": "e- 脱离 + rud- 未学 + -ite 分词构词 → 经过教育而博学。",
+        "memoryHook": "e- 脱离 + rud- 未学 + -ite 分词构词 → 经过教育而博学。",
+        "watchOut": "erudite /ˈerədaɪt/ 是正式形容词，可修饰人、文章或演讲；强调学习积累的学识，不能只译为“聪明”。名词是 erudition，副词是 eruditely。虽与 rude 同源，现代 erudite 并不简单等于“有礼貌的”。",
+        "notes": "参考 https://www.etymonline.com/word/erudite ; https://www.etymonline.com/word/erudition ; https://www.merriam-webster.com/dictionary/erudite ; https://www.merriam-webster.com/dictionary/erudition 。释义改写，例句自编。"
+      },
+      "tags": [
+        "erudite-family-enriched"
+      ]
+    },
+    {
+      "id": "word:erudition",
+      "slug": "erudition",
+      "term": "erudition",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "extensive learning",
+          "zh": "博学；渊博的学识",
+          "en": "wide and deep knowledge gained through reading and study",
+          "example": {
+            "en": "The historian combines erudition with a clear writing style.",
+            "zh": "这位历史学家兼具渊博学识和清晰的文风。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "e",
+          "type": "prefix",
+          "rootId": "root:e",
+          "meaning": "out of; away from / 脱离、去除",
+          "note": "e- 是 ex- 的形式；此处意为使摆脱未受教育的状态。"
+        },
+        {
+          "form": "rud",
+          "type": "root",
+          "rootId": "root:rud",
+          "meaning": "untrained; unlearned / 未经训练；未学"
+        },
+        {
+          "form": "it",
+          "type": "suffix",
+          "rootId": "root:it-participle",
+          "meaning": "participial formation / 分词构词层",
+          "note": "Latin erudire → eruditus；erudit- 为分词词干。"
+        },
+        {
+          "form": "ion",
+          "type": "suffix",
+          "rootId": "root:ion",
+          "meaning": "state or result / 状态、结果"
+        }
+      ],
+      "rootIds": [
+        "root:e",
+        "root:rud",
+        "root:it-participle",
+        "root:ion"
+      ],
+      "relations": {
+        "derivatives": [
+          "erudite",
+          "eruditely"
+        ],
+        "sameFamily": [
+          "rude",
+          "rudiment"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "erudit-（受过教育的词干）+ -ion → 博学、学识。",
+        "memoryHook": "erudit-（受过教育的词干）+ -ion → 博学、学识。",
+        "watchOut": "erudition /ˌerəˈdɪʃən/ 通常为不可数名词；erudite 是形容词。重音移到 -di-，结尾 -tion 读 /ʃən/；不表示某个学者本人。",
+        "notes": "参考 https://www.etymonline.com/word/erudite ; https://www.etymonline.com/word/erudition ; https://www.merriam-webster.com/dictionary/erudite ; https://www.merriam-webster.com/dictionary/erudition 。释义改写，例句自编。"
+      },
+      "tags": [
+        "erudite-family-enriched"
+      ]
+    },
+    {
+      "id": "word:eruditely",
+      "slug": "eruditely",
+      "term": "eruditely",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adverb"
+      ],
+      "frequencyBand": "low",
+      "definitions": [
+        {
+          "sense": "in a learned manner",
+          "zh": "博学地；以显示渊博学识的方式",
+          "en": "in a way that displays extensive learning",
+          "example": {
+            "en": "She spoke eruditely about the history of the manuscript.",
+            "zh": "她谈论这份手稿的历史时展现了渊博的学识。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "e",
+          "type": "prefix",
+          "rootId": "root:e",
+          "meaning": "out of; away from / 脱离、去除",
+          "note": "e- 是 ex- 的形式；此处意为使摆脱未受教育的状态。"
+        },
+        {
+          "form": "rud",
+          "type": "root",
+          "rootId": "root:rud",
+          "meaning": "untrained; unlearned / 未经训练；未学"
+        },
+        {
+          "form": "ite",
+          "type": "suffix",
+          "rootId": "root:it-participle",
+          "meaning": "participial formation / 分词构词层",
+          "note": "Latin erudire → eruditus；erudit- 为分词词干。"
+        },
+        {
+          "form": "ly",
+          "type": "suffix",
+          "rootId": "root:ly",
+          "meaning": "in a manner / 以……方式"
+        }
+      ],
+      "rootIds": [
+        "root:e",
+        "root:rud",
+        "root:it-participle",
+        "root:ly"
+      ],
+      "relations": {
+        "derivatives": [
+          "erudite",
+          "erudition"
+        ],
+        "sameFamily": [
+          "rude",
+          "rudiment"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "erudite + -ly → 以展现学识的方式。",
+        "memoryHook": "erudite + -ly → 以展现学识的方式。",
+        "watchOut": "正式副词，频率较低；拼写保留 erudite 末尾的 e：eruditely。修饰 spoke、wrote 等，形容人或文章用 erudite。",
+        "notes": "参考 https://www.etymonline.com/word/erudite ; https://www.etymonline.com/word/erudition ; https://www.merriam-webster.com/dictionary/erudite ; https://www.merriam-webster.com/dictionary/erudition 。释义改写，例句自编。"
+      },
+      "tags": [
+        "erudite-family-enriched"
+      ]
+    },
+    {
+      "id": "word:rude",
+      "slug": "rude",
+      "term": "rude",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adjective"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "impolite",
+          "zh": "无礼的；粗陋的；突然而令人不快的",
+          "en": "showing little respect or consideration for other people",
+          "example": {
+            "en": "It was rude to interrupt her explanation.",
+            "zh": "打断她的解释是不礼貌的。"
+          }
+        },
+        {
+          "sense": "rough or simple",
+          "zh": "粗陋的；简陋的",
+          "en": "roughly made or lacking refinement",
+          "example": {
+            "en": "They built a rude shelter from branches.",
+            "zh": "他们用树枝搭了一个简陋的避难所。"
+          }
+        },
+        {
+          "sense": "abrupt and unpleasant",
+          "zh": "突然而令人不快的",
+          "en": "sudden and upsetting or disconcerting",
+          "example": {
+            "en": "The exam results gave him a rude awakening.",
+            "zh": "考试成绩让他猛然清醒，认识到了现实。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "rude",
+          "type": "root",
+          "rootId": "root:rud",
+          "meaning": "rough; unrefined / 粗糙；缺乏修养"
+        }
+      ],
+      "rootIds": [
+        "root:rud"
+      ],
+      "relations": {
+        "derivatives": [
+          "rudely",
+          "rudeness"
+        ],
+        "sameFamily": [
+          "erudite",
+          "rudiment"
+        ],
+        "confusables": [
+          "erudite"
+        ]
+      },
+      "learning": {
+        "coreIdea": "rudis 原指粗糙、未经打磨 → 对行为常指缺乏礼貌。",
+        "memoryHook": "rudis 原指粗糙、未经打磨 → 对行为常指缺乏礼貌。",
+        "watchOut": "rude /ruːd/ 常用 be rude to somebody；a rude awakening 指令人不快的猛然醒悟。rude 与 erudite 同源，但无礼和博学可以同时出现在一个人身上，二者不是现代词义上的直接反义词。",
+        "notes": "参考 https://www.etymonline.com/word/rude ; https://www.merriam-webster.com/dictionary/rude 。释义改写，例句自编。"
+      },
+      "tags": [
+        "erudite-family-enriched"
+      ]
+    },
+    {
+      "id": "word:rudely",
+      "slug": "rudely",
+      "term": "rudely",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "adverb"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "impolitely",
+          "zh": "无礼地；突然而令人不快地",
+          "en": "in an impolite or disrespectful manner",
+          "example": {
+            "en": "He rudely dismissed the question.",
+            "zh": "他无礼地拒绝回答这个问题。"
+          }
+        },
+        {
+          "sense": "abruptly",
+          "zh": "突然且令人不快地",
+          "en": "abruptly and unpleasantly",
+          "example": {
+            "en": "Their conversation was rudely interrupted by an alarm.",
+            "zh": "警报突然打断了他们的谈话。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "rude",
+          "type": "root",
+          "rootId": "root:rud",
+          "meaning": "rough; unrefined / 粗糙；缺乏修养"
+        },
+        {
+          "form": "ly",
+          "type": "suffix",
+          "rootId": "root:ly",
+          "meaning": "in a manner / 以……方式"
+        }
+      ],
+      "rootIds": [
+        "root:rud",
+        "root:ly"
+      ],
+      "relations": {
+        "derivatives": [
+          "rude",
+          "rudeness"
+        ],
+        "sameFamily": [
+          "erudite",
+          "rudiment"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "rude + -ly → 无礼地；也可描述突然的打断。",
+        "memoryHook": "rude + -ly → 无礼地；也可描述突然的打断。",
+        "watchOut": "rudely 保留末尾 e；rudely interrupted 常表示突然而令人不快地被打断，不一定指某人故意失礼。",
+        "notes": "参考 https://www.etymonline.com/word/rude ; https://www.merriam-webster.com/dictionary/rude 。释义改写，例句自编。"
+      },
+      "tags": [
+        "erudite-family-enriched"
+      ]
+    },
+    {
+      "id": "word:rudeness",
+      "slug": "rudeness",
+      "term": "rudeness",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "lack of politeness",
+          "zh": "无礼；粗鲁",
+          "en": "behavior or a quality that shows a lack of politeness",
+          "example": {
+            "en": "She apologized for her rudeness during the meeting.",
+            "zh": "她为自己在会议上的无礼道歉。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "rude",
+          "type": "root",
+          "rootId": "root:rud",
+          "meaning": "rough; unrefined / 粗糙；缺乏修养"
+        },
+        {
+          "form": "ness",
+          "type": "suffix",
+          "rootId": "root:ness",
+          "meaning": "quality or state / 性质、状态"
+        }
+      ],
+      "rootIds": [
+        "root:rud",
+        "root:ness"
+      ],
+      "relations": {
+        "derivatives": [
+          "rude",
+          "rudely"
+        ],
+        "sameFamily": [
+          "erudite",
+          "rudiment"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "rude + -ness → 无礼这种性质或行为。",
+        "memoryHook": "rude + -ness → 无礼这种性质或行为。",
+        "watchOut": "rudeness 通常不可数；rude 为形容词，rudely 为副词。末尾 e 保留：rudeness。",
+        "notes": "参考 https://www.etymonline.com/word/rude ; https://www.merriam-webster.com/dictionary/rude 。释义改写，例句自编。"
+      },
+      "tags": [
+        "erudite-family-enriched"
+      ]
+    },
+    {
+      "id": "word:rudiment",
+      "slug": "rudiment",
+      "term": "rudiment",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "basic element",
+          "zh": "基本要素；初步知识；雏形",
+          "en": "a basic element or skill in a subject, usually referred to in the plural",
+          "example": {
+            "en": "The course teaches the rudiments of music theory.",
+            "zh": "这门课程教授音乐理论的基础知识。"
+          }
+        },
+        {
+          "sense": "undeveloped beginning",
+          "zh": "雏形；初期结构",
+          "en": "something that exists only in an early or undeveloped form",
+          "example": {
+            "en": "The sketch contains the rudiments of a larger design.",
+            "zh": "这幅草图包含一个更大设计的雏形。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "rudiment",
+          "type": "root",
+          "rootId": "root:rudiment",
+          "meaning": "beginning; basic element / 开端；基础",
+          "note": "表层保留 rudiment-，深层 rudi- + -mentum 见词根页。"
+        }
+      ],
+      "rootIds": [
+        "root:rudiment"
+      ],
+      "relations": {
+        "derivatives": [
+          "rudiments",
+          "rudimentary"
+        ],
+        "sameFamily": [
+          "erudite",
+          "rude"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "rudimentum 初步训练 → 学习或发展刚起步时的基础、雏形。",
+        "memoryHook": "rudimentum 初步训练 → 学习或发展刚起步时的基础、雏形。",
+        "watchOut": "rudiment /ˈruːdɪmənt/ 常用复数 rudiments，尤其是 the rudiments of。rudimentary 是相应形容词；与 erudite 有共同词源，但不是同一页的派生形式。",
+        "notes": "参考 https://www.etymonline.com/word/rudiment ; https://www.merriam-webster.com/dictionary/rudiment ; https://www.merriam-webster.com/dictionary/rudimentary 。释义改写，例句自编。"
+      },
+      "tags": [
+        "erudite-family-enriched"
+      ]
+    },
+    {
+      "id": "word:rudiments",
+      "slug": "rudiments",
+      "term": "rudiments",
+      "language": "en",
+      "status": "draft",
+      "partOfSpeech": [
+        "noun"
+      ],
+      "frequencyBand": "medium",
+      "definitions": [
+        {
+          "sense": "plural basics or beginnings",
+          "zh": "基础知识；基本技能；雏形（rudiment 的复数）",
+          "en": "the basic facts or skills of a subject, or the beginnings of something",
+          "example": {
+            "en": "Students first learn the rudiments of programming.",
+            "zh": "学生首先学习编程基础。"
+          }
+        }
+      ],
+      "morphemes": [
+        {
+          "form": "rudiment",
+          "type": "root",
+          "rootId": "root:rudiment",
+          "meaning": "beginning; basic element / 开端；基础",
+          "note": "表层保留 rudiment-，深层 rudi- + -mentum 见词根页。"
+        },
+        {
+          "form": "s",
+          "type": "suffix",
+          "rootId": "root:s",
+          "meaning": "plural / 复数"
+        }
+      ],
+      "rootIds": [
+        "root:rudiment",
+        "root:s"
+      ],
+      "relations": {
+        "derivatives": [
+          "rudiment",
+          "rudimentary"
+        ],
+        "sameFamily": [
+          "erudite",
+          "rude"
+        ],
+        "confusables": []
+      },
+      "learning": {
+        "coreIdea": "rudiment + -s → 一组基础要素或初步技能。",
+        "memoryHook": "rudiment + -s → 一组基础要素或初步技能。",
+        "watchOut": "高频搭配 the rudiments of + 学科或技能。作为 rudiment 的复数标签，与 rudimentary 共用词族页面。",
+        "notes": "参考 https://www.etymonline.com/word/rudiment ; https://www.merriam-webster.com/dictionary/rudiment ; https://www.merriam-webster.com/dictionary/rudimentary 。释义改写，例句自编。"
+      },
+      "tags": [
+        "erudite-family-enriched"
       ]
     }
   ]

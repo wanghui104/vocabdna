@@ -50,7 +50,7 @@ try {
   await send('Runtime.enable'); await send('Network.enable'); await send('Page.enable');
   await send('Emulation.setDeviceMetricsOverride', { width: 390, height: 844, deviceScaleFactor: 1, mobile: true });
   await send('Page.navigate', { url: pathToFileURL(path.resolve('VocabDNA.html')).href });
-  await waitFor("Boolean(document.querySelector('#study-open')) && document.querySelector('#detail').textContent.length > 0");
+  await waitFor("document.readyState === 'complete' && Boolean(document.querySelector('#study-open')) && document.querySelector('#detail').textContent.length > 0");
   await click('#study-open');
   assert.equal(await evaluate("getComputedStyle(document.querySelector('main.shell')).display"), 'none');
   assert.equal(await evaluate("document.querySelector('[name=mode]').value"), 'en-zh');
@@ -62,9 +62,9 @@ try {
   await evaluate(`(() => { const s = JSON.parse(localStorage.getItem('vocabdna-study-v1')); const q=s.session.questions[0]; for(const id of q.answerIds) [...document.querySelectorAll('[data-study-option]')].find(b=>b.dataset.studyOption===id).click(); document.querySelector('[data-study-action=submit]').click(); })()`);
   assert.equal(await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).events[0].outcome"), 'correct');
   await send('Page.reload');
-  await waitFor("Boolean(document.querySelector('#study-open')) && document.querySelector('#detail').textContent.length > 0");
+  await waitFor("document.readyState === 'complete' && Boolean(document.querySelector('#study-open')) && document.querySelector('#detail').textContent.length > 0");
   await click('#study-open');
-  assert.ok(await evaluate("document.querySelector('#study-host').textContent.includes('本题记录已保存')"));
+  assert.ok(await evaluate("document.querySelector('#study-host').textContent.includes('本题记录已保存')"), await evaluate("document.querySelector('#study-host').textContent"));
   await click('[data-study-action=next]');
   await evaluate(`(() => { const s=JSON.parse(localStorage.getItem('vocabdna-study-v1')); const q=s.session.questions[1]; const ids=[q.options.find(o=>!q.answerIds.includes(o.id)).id, ...q.answerIds.slice(0,q.answerIds.length-1)]; for(const id of ids) [...document.querySelectorAll('[data-study-option]')].find(b=>b.dataset.studyOption===id).click(); document.querySelector('[data-study-action=submit]').click(); })()`);
   await click('[data-study-action=next]');

@@ -2,6 +2,23 @@
 @import 'tw-animate-css';
 @import 'shadcn/tailwind.css';
 
+.mobile-browse-toggle { display: none; }
+.mobile-app-bar { max-width: 1500px; margin: auto; padding: 8px 24px; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; font-size: 13px; color: #627083; }
+.mobile-app-bar button { color: #165f75; min-height: 44px; text-decoration: underline; cursor: pointer; }
+.mobile-app-bar p { width: 100%; line-height: 1.7; }
+.vocab-app { padding-bottom: env(safe-area-inset-bottom); }
+@media (max-width: 767px) {
+  .vocab-app > header { padding-top: env(safe-area-inset-top); position: relative; }
+  .vocab-app { padding-left: env(safe-area-inset-left); padding-right: env(safe-area-inset-right); }
+  .mobile-browse-toggle { display: inline-block; min-height: 44px; border: 1px solid #d8d0bf; border-radius: 7px; padding: 8px 12px; }
+  .mobile-browse-closed { display: none; }
+  .mobile-app-bar { padding: 4px 16px; }
+  .vocab-app input, .vocab-app select { font-size: 16px; }
+  .vocab-app .topbar-actions > .flex, .vocab-app .freeze-toggle { display: none; }
+  .vocab-app .alpha-word, .vocab-app .alpha-root { min-height: 44px; }
+  .vocab-app .freeze-pane-active { position: static !important; }
+}
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
