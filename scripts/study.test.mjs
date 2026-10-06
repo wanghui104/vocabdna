@@ -2,13 +2,54 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { Script } from 'node:vm';
-import { createCatalog, createQuestionBank, meaningsOverlap, answerQuestion, emptyState, saveState, readState, wordStats } from '../lib/study-engine.mjs';
+import { createCatalog, createQuestionBank, meaningsOverlap, answerQuestion, emptyState, saveState, readState, wordStats, maskExample, getQuestionExamples, revealExample, mergeEvents, validateEvents } from '../lib/study-engine.mjs';
 
 const catalog = JSON.parse(await readFile(new URL('../lib/study-catalog.json', import.meta.url), 'utf8'));
 const supplement = JSON.parse(await readFile(new URL('../lib/study-supplement.json', import.meta.url), 'utf8'));
 let seed = 12345;
 const random = () => { seed = (seed * 1664525 + 1013904223) >>> 0; return seed / 4294967296; };
 const bank = createQuestionBank(catalog, supplement, random);
+
+test('example masking handles case, repeated targets, inflections and phrases without substring leaks', () => {
+  assert.equal(maskExample('OVERLOAD it, but avoid overloading or overloaded circuits.', 'overload'), '_____ it, but avoid _____ or _____ circuits.');
+  assert.equal(maskExample('She studies and studied a study.', 'study'), 'She _____ and _____ a _____.');
+  assert.equal(maskExample('He stopped stopping at the stop.', 'stop'), 'He _____ _____ at the _____.');
+  assert.equal(maskExample('They took what was taken.', 'take'), 'They _____ what was _____.');
+  assert.equal(maskExample('She abides by rules.', 'abide by'), 'She _____ rules.');
+  assert.equal(maskExample('Art is part of life.', 'art'), '_____ is part of life.');
+  assert.equal(maskExample('No target here.', 'overload'), null);
+  assert.equal(maskExample(undefined, 'overload'), null);
+});
+
+test('sense-specific hints persist before answering and sync with answer records; old records still load', () => {
+  const source = [{ slug: 'test', term: 'test', partOfSpeech: ['verb'], definitions: [
+    { zh: '测试', example: { en: 'They tested the engine.', zh: '测试发动机' } },
+    { zh: '检验', example: { en: 'Test the new method.' } },
+  ] }];
+  const hints = createCatalog(source, [{ id: 'test', components: [], word_family: [], confusables: [] }]);
+  assert.equal(hints[0].senses[0].example, 'They _____ the engine.');
+  const q = { wordId: 'test', word: 'test', direction: 'zh-en', pos: 'verb', senses: [{ id: 'test:0', pos: 'verb', zh: '测试' }], answerIds: ['yes'], options: [
+    { id: 'yes', word: 'test', zh: '测试', pos: 'verb' },
+    ...['read', 'write', 'walk'].map(word => ({ id: word, word, zh: '干扰', pos: 'verb' })),
+  ] };
+  const state = { ...emptyState(), session: { id: 'hint-test', questions: [q], answers: [] } };
+  assert.equal(getQuestionExamples(q, hints).length, 1);
+  const viewed = revealExample(state, hints, '2026-10-06T12:00:00.000Z');
+  assert.equal(viewed.events.length, 0);
+  assert.equal(viewed.session.answers.length, 0);
+  assert.equal(revealExample(viewed, hints), viewed);
+  assert.equal(readState({ getItem: () => JSON.stringify(viewed) }).session.questions[0].exampleViewedAt, '2026-10-06T12:00:00.000Z');
+  const a = answerQuestion(viewed.session, ['yes']);
+  assert.equal(a.exampleViewed, true); assert.equal(a.score, 1);
+  assert.equal(a.exampleViewedAt, '2026-10-06T12:00:00.000Z');
+  assert.deepEqual(mergeEvents([], [a]), [a]);
+  const old = answerQuestion(state.session, [], true);
+  delete old.exampleViewed; delete old.exampleViewedAt;
+  validateEvents([old]);
+  assert.throws(() => validateEvents([{ ...a, exampleViewedAt: 'not a date' }]));
+  assert.throws(() => revealExample(state, []));
+  assert.equal(getQuestionExamples({ ...q, senses: [{ ...q.senses[0], zh: '错误释义' }] }, hints).length, 0);
+});
 
 test('default and adjustable rounds have unique words, matching POS and valid options', () => {
   const defaults = bank.start();

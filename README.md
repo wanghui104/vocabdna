@@ -51,6 +51,14 @@ Chinese expressions and curated synonym groups; this conservative filter cannot
 prove semantic uniqueness for every dictionary gloss, so question quality still
 needs review. Missing source categories fall back to other valid local candidates.
 
+**查看例句** reveals an English sentence for the tested sense when one is available.
+The target word and recognized inflections are replaced with `_____`; Chinese
+translations are not shown. Missing or unmaskable examples are explicitly marked
+unavailable. Hints use bundled vocabulary data and work offline, including in older
+saved rounds. Opening a hint saves its UTC timestamp in the current round; the
+submitted answer includes `exampleViewed` and `exampleViewedAt` without changing
+the existing correct/wrong/uncertain scoring. Old answer records remain compatible.
+
 After updating vocabulary or quiz code, run `npm run build:static` to rebuild both
 HTML copies and `lib/study-catalog.json` (generated; do not edit manually).
 Run `node --test scripts/study.test.mjs` for quiz and persistence checks.

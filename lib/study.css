@@ -1,4 +1,8 @@
 .study-host { max-width: 900px; margin: 24px auto; padding: 0 16px; }
+.study-hint { margin: 16px 0; }
+.study-hint > button { background: transparent; color: #165f75; }
+.study-hint > span { margin-left: 12px; }
+.study-example { margin-top: 12px; padding: 12px 16px; border-left: 3px solid #165f75; background: #f0f5f4; border-radius: 6px; overflow-wrap: anywhere; }
 .shell[hidden], .study-host[hidden] { display: none !important; }
 .study-panel { background: #fffefa; color: #182334; border: 1px solid #d8d0bf; border-radius: 12px; padding: 28px; line-height: 1.65; }
 .study-toolbar { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; align-items: center; border-bottom: 1px solid #d8d0bf; padding-bottom: 16px; margin-bottom: 24px; }
