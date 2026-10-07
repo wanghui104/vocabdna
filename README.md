@@ -59,6 +59,27 @@ saved rounds. Opening a hint saves its UTC timestamp in the current round; the
 submitted answer includes `exampleViewed` and `exampleViewedAt` without changing
 the existing correct/wrong/uncertain scoring. Old answer records remain compatible.
 
+On phones, starting or resuming an unanswered round and moving to the next question
+automatically positions the quiz in view. Short questions show the complete quiz;
+long questions keep the prompt in view and dock Submit/Unsure at the screen bottom.
+Reserved space keeps the final option clear of the docked buttons. Selecting options
+and opening example hints preserve the scroll position; resizing recalculates layout.
+
+Desktop and phone layouts put learning records, import/export, dictionary return,
+and synchronization in a separate management card above the quiz. Starting a round
+or entering a new question focuses the quiz card below the header, leaving management
+above the viewport; scroll toward the top to access it. The quiz card fills the
+available screen height so short questions can show their submit buttons immediately.
+
+The quiz defaults to Quick mode: one choice submits immediately, and five-option
+questions submit when two distinct choices are selected. Clicking the first choice
+again cancels it. Confirmation mode retains Submit. The switch above the question
+remembers the device preference and clears pending choices when the mode changes.
+Correct answers advance immediately with a 1.5-second floating reward above the
+correct option; wrong and unsure answers pause for feedback. Each new correct answer
+stores EXP +1 and copper +1 on its answer event, so import and sync cannot pay twice.
+Reward totals appear in the management card; older records do not receive rewards.
+
 After updating vocabulary or quiz code, run `npm run build:static` to rebuild both
 HTML copies and `lib/study-catalog.json` (generated; do not edit manually).
 Run `node --test scripts/study.test.mjs` for quiz and persistence checks.

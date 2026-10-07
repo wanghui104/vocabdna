@@ -2,10 +2,29 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { Script } from 'node:vm';
-import { createCatalog, createQuestionBank, meaningsOverlap, answerQuestion, emptyState, saveState, readState, wordStats, maskExample, getQuestionExamples, revealExample, mergeEvents, validateEvents } from '../lib/study-engine.mjs';
+import { createCatalog, createQuestionBank, meaningsOverlap, answerQuestion, emptyState, saveState, readState, wordStats, rewardTotals, maskExample, getQuestionExamples, revealExample, mergeEvents, validateEvents } from '../lib/study-engine.mjs';
 
 const catalog = JSON.parse(await readFile(new URL('../lib/study-catalog.json', import.meta.url), 'utf8'));
 const supplement = JSON.parse(await readFile(new URL('../lib/study-supplement.json', import.meta.url), 'utf8'));
+
+test('correct rewards persist once per event across import and sync; old history is unchanged', () => {
+  const session = createQuestionBank(catalog, supplement).start(1);
+  const correct = answerQuestion(session, session.questions[0].answerIds);
+  assert.deepEqual(correct.reward, { exp: 1, copper: 1 });
+  const uncertain = answerQuestion(session, [], true);
+  assert.equal(uncertain.reward, undefined);
+  const wrong = answerQuestion(session, [session.questions[0].options.find(o => !session.questions[0].answerIds.includes(o.id)).id, ...session.questions[0].answerIds.slice(1)]);
+  assert.equal(wrong.reward, undefined);
+  const history = { ...correct, id: 'old:0', sessionId: 'old' }; delete history.reward;
+  assert.deepEqual(rewardTotals(mergeEvents([correct, history], [correct])), { exp: 1, copper: 1 });
+  assert.deepEqual(rewardTotals([correct, correct]), { exp: 1, copper: 1 });
+  validateEvents([history]);
+  assert.throws(() => validateEvents([{ ...uncertain, reward: { exp: 1, copper: 1 } }]));
+  const state = { ...emptyState(), events: [correct], session: { ...session, answers: [correct] } };
+  let text; const storage = { getItem: () => text, setItem: (_key, value) => { text = value; } };
+  saveState(storage, state);
+  assert.deepEqual(rewardTotals(readState(storage).events), { exp: 1, copper: 1 });
+});
 let seed = 12345;
 const random = () => { seed = (seed * 1664525 + 1013904223) >>> 0; return seed / 4294967296; };
 const bank = createQuestionBank(catalog, supplement, random);
