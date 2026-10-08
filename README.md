@@ -75,10 +75,17 @@ The quiz defaults to Quick mode: one choice submits immediately, and five-option
 questions submit when two distinct choices are selected. Clicking the first choice
 again cancels it. Confirmation mode retains Submit. The switch above the question
 remembers the device preference and clears pending choices when the mode changes.
-Correct answers advance immediately with a 1.5-second floating reward above the
-correct option; wrong and unsure answers pause for feedback. Each new correct answer
+Correct answers retain the old question for 750ms, fading other content while the
+prompt and selected answers glow gold. Long questions show a compact recap when
+these areas are outside the viewport. Input is locked during this review; then the
+next question appears while the 1.5-second floating reward continues. Reduced-motion
+preferences use static gold highlighting. Wrong and unsure answers pause for feedback. Each new correct answer
 stores EXP +1 and copper +1 on its answer event, so import and sync cannot pay twice.
 Reward totals appear in the management card; older records do not receive rewards.
+
+Sync status reserves a fixed height so delayed status changes cannot push the quiz
+down. Question layout and positioning finish before paint; viewport-height changes
+retain the scrollable minimum height rather than shifting the question.
 
 After updating vocabulary or quiz code, run `npm run build:static` to rebuild both
 HTML copies and `lib/study-catalog.json` (generated; do not edit manually).

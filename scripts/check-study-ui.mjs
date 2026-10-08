@@ -82,6 +82,21 @@ try {
   await evaluate("document.querySelector('[name=count]').value = '3'; document.querySelector('#study-settings').requestSubmit()");
   await waitFor("Boolean(document.querySelector('[data-study-option]'))");
   await checkMobileQuestion();
+  // Sync finishes after a question is already readable: status wrapping must not move it.
+  const stableTop = await evaluate("document.querySelector('.study-prompt').getBoundingClientRect().top");
+  const stableScroll = await evaluate('scrollY');
+  await evaluate("document.querySelector('[data-sync-status]').textContent='正在同步学习记录…'");
+  await settleLayout();
+  await evaluate("document.querySelector('[data-sync-status]').textContent='已同步 · 12:34:56 PM · 电脑与手机共享学习记录'");
+  await evaluate('new Promise(resolve=>setTimeout(resolve, 650))');
+  assert.ok(Math.abs(await evaluate("document.querySelector('.study-prompt').getBoundingClientRect().top") - stableTop) < 1, 'delayed sync completion never pushes the question down');
+  assert.ok(Math.abs(await evaluate('scrollY') - stableScroll) < 1, 'sync completion never scrolls the question');
+  // Simulate Safari chrome changing the visual viewport after a tap.
+  await evaluate("window.studyViewportHeight=visualViewport.height; Object.defineProperty(visualViewport,'height',{configurable:true,get:()=>window.studyViewportHeight-70}); visualViewport.dispatchEvent(new Event('resize'))");
+  await settleLayout();
+  assert.ok(Math.abs(await evaluate("document.querySelector('.study-prompt').getBoundingClientRect().top") - stableTop) < 1, 'viewport height changes keep the question stationary');
+  await evaluate("delete visualViewport.height; visualViewport.dispatchEvent(new Event('resize'))");
+  await settleLayout();
   await evaluate(`(() => { const s=JSON.parse(localStorage.getItem('vocabdna-study-v1')); s.session.questions[0]=${JSON.stringify(hintQuestion)}; s.session.questions[1]=${JSON.stringify(noHintQuestion)}; localStorage.setItem('vocabdna-study-v1',JSON.stringify(s)); })()`);
   await click('[data-study-action=close]'); await click('#study-open');
   await send('Network.emulateNetworkConditions', { offline: true, latency: 0, downloadThroughput: 0, uploadThroughput: 0 });
@@ -102,9 +117,15 @@ try {
   await evaluate(`(() => { const s = JSON.parse(localStorage.getItem('vocabdna-study-v1')); const q=s.session.questions[0]; for(const id of q.answerIds) [...document.querySelectorAll('[data-study-option]')].find(b=>b.dataset.studyOption===id).click(); })()`);
   await settleLayout();
   const correctRect = await evaluate(`(() => { const q=JSON.parse(localStorage.getItem('vocabdna-study-v1')).session.questions[0]; return [...document.querySelectorAll('[data-study-option]')].find(b=>q.answerIds.includes(b.dataset.studyOption)).getBoundingClientRect().toJSON(); })()`);
+  const reviewPrompt = await evaluate("document.querySelector('.study-prompt').textContent");
+  const reviewTop = await evaluate("document.querySelector('.study-prompt').getBoundingClientRect().top");
   await click('[data-study-action=submit]');
   await settleLayout();
-  assert.ok(await evaluate("Boolean(document.querySelector('[data-study-option]')) && !document.querySelector('[data-study-action=next]')"), 'correct answer advances immediately');
+  assert.ok(await evaluate("Boolean(document.querySelector('.study-correct-review')) && document.querySelectorAll('.study-gold').length===2"), 'old prompt and correct option stay highlighted');
+  assert.equal(await evaluate("document.querySelector('.study-prompt').textContent"), reviewPrompt);
+  assert.equal(await evaluate("document.querySelector('.study-prompt').getBoundingClientRect().top"), reviewTop);
+  await evaluate("document.querySelector('[data-study-option]').dispatchEvent(new MouseEvent('click',{bubbles:true})); document.querySelector('[data-study-action=uncertain]').dispatchEvent(new MouseEvent('click',{bubbles:true}))");
+  assert.equal(await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).events.length"), 1, 'review locks repeated input');
   assert.equal(await evaluate("document.querySelector('.study-reward-float').textContent"), 'EXP +1铜币 +1本词累计答对 1 / 1 次');
   assert.equal(await evaluate("getComputedStyle(document.querySelector('.study-reward-layer')).pointerEvents"), 'none');
   assert.equal(await evaluate("getComputedStyle(document.querySelector('.study-reward-float')).animationDuration"), '1.5s');
@@ -112,6 +133,8 @@ try {
   await checkMobileQuestion();
   const rewardScreenshot = await send('Page.captureScreenshot', { format: 'png' });
   await writeFile(path.join(output, 'mobile-reward.png'), Buffer.from(rewardScreenshot.data, 'base64'));
+  await waitFor("!document.querySelector('.study-correct-review')");
+  assert.ok(await evaluate("Boolean(document.querySelector('.study-reward-float')) && !document.querySelector('[data-study-action=next]')"), 'next question starts before the 1.5-second reward ends');
   await waitFor("!document.querySelector('.study-reward-float')");
   assert.ok(await evaluate("document.querySelector('[data-study-rewards]').textContent.includes('EXP 1 · 铜币 1')"));
   assert.equal(await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).events[0].outcome"), 'correct');
@@ -188,11 +211,14 @@ try {
   await click('[data-study-action=close]'); await click('#study-open'); await settleLayout();
   const selectCorrect = () => evaluate(`(() => { const s=JSON.parse(localStorage.getItem('vocabdna-study-v1')); const q=s.session.questions[s.session.answers.length]; for (const id of q.answerIds) { const b=[...document.querySelectorAll('[data-study-option]')].find(b=>b.dataset.studyOption===id); if (b.getAttribute('aria-pressed') !== 'true') b.click(); } })()`);
   await selectCorrect(); await settleLayout(); await click('[data-study-action=submit]'); await settleLayout();
-  assert.ok(await evaluate("Boolean(document.querySelector('.study-reward-float')) && Boolean(document.querySelector('[data-study-option]'))"), 'desktop advances while rewards animate');
+  assert.ok(await evaluate("Boolean(document.querySelector('.study-reward-float')) && Boolean(document.querySelector('.study-correct-review'))"), 'desktop shows the gold review with rewards');
   const desktopRewardScreenshot = await send('Page.captureScreenshot', { format: 'png' });
   await writeFile(path.join(output, 'desktop-reward.png'), Buffer.from(desktopRewardScreenshot.data, 'base64'));
+  await waitFor("!document.querySelector('.study-correct-review')");
   await send('Emulation.setEmulatedMedia', { features: [{ name: 'prefers-reduced-motion', value: 'reduce' }] });
   await selectCorrect(); await settleLayout(); await click('[data-study-action=submit]'); await settleLayout();
+  assert.equal(await evaluate("getComputedStyle(document.querySelector('.study-gold')).animationName"), 'none', 'reduced motion retains static gold highlighting');
+  await waitFor("!document.querySelector('.study-correct-review')");
   assert.ok(await evaluate("document.querySelector('#study-host').textContent.includes('本轮完成') && !document.querySelector('[data-study-action=next]')"), 'last correct answer goes straight to round summary');
   assert.ok(await evaluate("[...document.querySelectorAll('.study-reward-float')].every(n=>getComputedStyle(n).animationName==='study-reward-fade')"));
   assert.equal(await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).events.filter(e=>e.reward).length"), 3);
@@ -206,6 +232,7 @@ try {
   const fastBaseline = await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).events.length");
   await selectCorrect(); await settleLayout();
   assert.equal(await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).session.answers.length"), 1, 'single click settles and advances on desktop');
+  await waitFor("!document.querySelector('.study-correct-review')");
   await send('Emulation.setDeviceMetricsOverride', { width: 390, height: 844, deviceScaleFactor: 1, mobile: true });
   await click('[data-study-action=close]'); await click('#study-open'); await settleLayout();
   const multiFirst = await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).session.questions[1].answerIds[0]");
@@ -223,6 +250,8 @@ try {
   await writeFile(path.join(output, 'mobile-fast-mode.png'), Buffer.from(fastScreenshot.data, 'base64'));
   await selectCorrect(); await settleLayout();
   assert.equal(await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).session.answers.length"), 2, 'second distinct selection settles the pair once');
+  assert.equal(await evaluate("document.querySelectorAll('.study-options .study-gold').length"), 2, 'both correct options stay clear in five choose two');
+  await waitFor("!document.querySelector('.study-correct-review')");
   const wrongId = await evaluate("(() => {const q=JSON.parse(localStorage.getItem('vocabdna-study-v1')).session.questions[2]; return q.options.find(o=>!q.answerIds.includes(o.id)).id;})()");
   await click(`[data-study-option="${wrongId}"]`); await settleLayout();
   assert.ok(await evaluate("Boolean(document.querySelector('.study-wrong')) && Boolean(document.querySelector('[data-study-action=next]'))"), 'fast wrong answer pauses in feedback');
