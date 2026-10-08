@@ -33,3 +33,10 @@ examples:
   - en: The plan's abandonment surprised investors.
     zh: 这个计划被放弃让投资者感到意外。
 why_confusing: 和 abandon 的名词义“放纵”不同，abandonment 更强调抛弃/放弃。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":5,"number":3,"term":"abandonment","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

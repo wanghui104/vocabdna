@@ -44,3 +44,10 @@ examples:
   - en: The researcher tried to disentangle the two causes.
     zh: 研究者试图分清这两个原因。
 why_confusing: disentangle 与 untangle 近义；不要漏掉中间的 en。其反向含义来自 dis-。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

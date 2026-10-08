@@ -43,3 +43,10 @@ confusables:
 examples:
   []
 why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":1022,"number":1921,"term":"external","sourcePage":"http://toefl.xdf.cn/202110/11225603.html"},{"sheet":"2001-3000","row":754,"number":2679,"term":"external","sourcePage":"http://toefl.xdf.cn/202110/11227524.html"}]
+  gre:
+    status: unchecked
+    matches: []

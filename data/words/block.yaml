@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: city block 指街区；writer's block 指写作障碍。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":658,"number":556,"term":"block","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

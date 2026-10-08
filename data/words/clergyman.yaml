@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 现代可用 clergy member 更中性。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":974,"number":829,"term":"clergyman","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

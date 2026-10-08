@@ -33,3 +33,10 @@ examples:
   - en: He admitted that the estimate was wrong.
     zh: 他承认估算错了。
 why_confusing: admit doing something；admit that...；admit to a place。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":133,"number":120,"term":"admit","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

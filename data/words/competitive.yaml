@@ -55,3 +55,10 @@ examples:
   - en: She is competitive but fair.
     zh: 她好胜但公平。
 why_confusing: competitive 是竞争性的；competent 是胜任的、能力足够的。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

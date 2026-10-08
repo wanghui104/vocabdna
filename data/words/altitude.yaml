@@ -31,3 +31,10 @@ confusables:
 examples:
   []
 why_confusing: altitude 是高度/海拔；latitude 是纬度。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":237,"number":201,"term":"altitude","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

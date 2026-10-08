@@ -40,3 +40,10 @@ confusables:
 examples:
   []
 why_confusing: breathing room 可比喻喘息空间。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":721,"number":607,"term":"breathing","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

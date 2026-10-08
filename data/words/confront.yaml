@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: confront a problem; be confronted with.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":20,"number":1019,"term":"confront","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

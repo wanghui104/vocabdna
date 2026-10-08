@@ -43,3 +43,10 @@ examples:
   - en: The company became entangled in a lengthy dispute.
     zh: 公司卷入了一场旷日持久的争端。
 why_confusing: entangled 与 tangled 的意思有重叠；entangled 常强调困住或卷入某事。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

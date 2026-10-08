@@ -41,3 +41,10 @@ examples:
   - en: The research team recorded postnatal growth.
     zh: 研究团队记录了出生后的生长情况。
 why_confusing: postnatal 与 prenatal“出生前的”相对。postnatal 常用于婴儿出生后的发育，也可用于产后护理；postpartum 更突出分娩后语境，两者并非完全互斥。副词为 postnatally。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

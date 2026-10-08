@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"3001-4000","row":588,"number":3537,"term":"capillary","sourcePage":"http://toefl.xdf.cn/202110/11228661.html"}]
+  gre:
+    status: unchecked
+    matches: []

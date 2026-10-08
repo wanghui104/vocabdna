@@ -35,3 +35,10 @@ examples:
   - en: Wildflowers abound in the valley.
     zh: 山谷里野花遍布。
 why_confusing: abound 常与 in/with 搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":24,"number":21,"term":"abound","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

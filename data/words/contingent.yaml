@@ -48,3 +48,10 @@ examples:
   - en: A student contingent attended the conference.
     zh: 一组学生代表参加了会议。
 why_confusing: contingent on/upon 是高频搭配；contiguous 是“相邻接触的”，不是“取决于”。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

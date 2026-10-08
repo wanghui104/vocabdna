@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: boring 是事物令人无聊；bored 是人感到无聊。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":694,"number":583,"term":"bore","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

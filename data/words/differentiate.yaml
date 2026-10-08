@@ -41,3 +41,10 @@ confusables:
 examples:
   []
 why_confusing: differentiate from/between 是常见搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":509,"number":1457,"term":"differentiate","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

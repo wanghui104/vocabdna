@@ -37,3 +37,10 @@ examples:
   - en: The animal became aggressive when threatened.
     zh: 动物受到威胁时变得有攻击性。
 why_confusing: 可正面表示进取，也可负面表示好斗。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":183,"number":159,"term":"aggressive","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

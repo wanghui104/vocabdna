@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: deserve praise/punishment；后接 to do 表示值得做。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":454,"number":1405,"term":"deserve","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

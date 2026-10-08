@@ -27,3 +27,10 @@ examples:
   - en: Trains transport passengers across the city.
     zh: 火车把乘客运送穿过城市。
 why_confusing: transport 偏运输；transfer 偏转移位置或权限。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

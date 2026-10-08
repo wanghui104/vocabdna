@@ -40,3 +40,10 @@ examples:
   - en: The leaf has an undulate margin.
     zh: 这片叶子的边缘呈波状。
 why_confusing: undulate 强调波状起伏；inundate 强调水或大量事物涌上来并覆盖、压过来。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -34,3 +34,10 @@ examples:
   - en: The proposal was discussed in several international fora.
     zh: 该提案在数个国际论坛上进行了讨论。
 why_confusing: fora /ˈfɔːrə/ 是复数，单数用 forum；常见于正式语境，forums 也是正确复数。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

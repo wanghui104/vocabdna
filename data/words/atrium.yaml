@@ -42,3 +42,10 @@ examples:
   - en: The left atrium receives blood from the lungs.
     zh: 左心房接收来自肺部的血液。
 why_confusing: 读音 /ˈeɪtriəm/。单数用 atrium；复数 atriums 和 atria 都正确。建筑中常用 atriums，解剖学中常见 atria，但不是两义各自专用的唯一复数。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

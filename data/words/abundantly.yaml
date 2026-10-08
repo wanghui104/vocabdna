@@ -47,3 +47,10 @@ examples:
   - en: The data make the point abundantly clear.
     zh: 数据把这一点说明得非常清楚。
 why_confusing: abundantly clear 是常见搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":40,"number":36,"term":"abundantly","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

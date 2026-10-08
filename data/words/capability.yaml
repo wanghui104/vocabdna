@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: capability 偏能力/潜力，capacity 也可指容量。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":13,"number":10,"term":"capability","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"},{"sheet":"1-1000","row":811,"number":685,"term":"capability","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

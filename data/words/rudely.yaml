@@ -35,3 +35,10 @@ examples:
   - en: Their conversation was rudely interrupted by an alarm.
     zh: 警报突然打断了他们的谈话。
 why_confusing: rudely 保留末尾 e；rudely interrupted 常表示突然而令人不快地被打断，不一定指某人故意失礼。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

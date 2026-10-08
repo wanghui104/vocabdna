@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: buzz 也可指兴奋气氛或传言。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":779,"number":655,"term":"buzz","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

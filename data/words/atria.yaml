@@ -41,3 +41,10 @@ examples:
   - en: The museum plan includes three covered atria.
     zh: 博物馆的设计方案包括三个有顶中庭。
 why_confusing: 读音 /ˈeɪtriə/。atria 已是复数，通常不写 atrias；一个心房或中庭用 atrium。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

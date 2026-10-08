@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: despoil 比 spoil 更正式，常指掠夺或破坏资源。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":463,"number":1413,"term":"despoil","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

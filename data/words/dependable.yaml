@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: dependable 强调可靠稳定。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":420,"number":1380,"term":"dependable","sourcePage":"http://toefl.xdf.cn/202110/11225503.html"}]
+  gre:
+    status: unchecked
+    matches: []

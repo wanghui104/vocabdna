@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: condiment 是调味品，不是 condimented food。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1147,"number":986,"term":"condiment","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

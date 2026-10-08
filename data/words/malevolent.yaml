@@ -27,3 +27,10 @@ examples:
   - en: The rumor had a malevolent purpose.
     zh: 这个谣言带有恶意目的。
 why_confusing: malevolent 强调意图；malignant 常用于恶性或有害性质。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

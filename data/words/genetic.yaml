@@ -48,3 +48,10 @@ examples:
   - en: The essay offers a genetic account of the literary form.
     zh: 这篇文章从起源与发展角度说明这种文学形式。
 why_confusing: 读音 /dʒəˈnetɪk/。 genetic 与 generic（通用的）仅差一个字母，意义不同；历史上不是简单 gene + -tic。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":245,"number":2206,"term":"genetic","sourcePage":"http://toefl.xdf.cn/202110/11227498.html"}]
+  gre:
+    status: unchecked
+    matches: []

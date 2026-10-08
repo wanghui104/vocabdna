@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: commuter rail/train 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1061,"number":907,"term":"commuter","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

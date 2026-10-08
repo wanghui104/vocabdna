@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: burden of proof 指举证责任。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

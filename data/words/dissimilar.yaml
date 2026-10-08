@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: dissimilar 是形容词，常接 to/from。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":600,"number":1538,"term":"dissimilar","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

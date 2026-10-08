@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: compatible with。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1070,"number":915,"term":"compatible","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

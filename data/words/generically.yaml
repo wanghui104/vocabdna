@@ -46,3 +46,10 @@ examples:
   - en: These devices are generically called sensors.
     zh: 这些设备统称为传感器。
 why_confusing: 与 genetically（在遗传上）区别。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -24,3 +24,10 @@ examples:
   - en: The match was delayed on account of rain.
     zh: 比赛因下雨而推迟。
 why_confusing: 较正式，可用 because of 替换。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":73,"number":65,"term":"on account of","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

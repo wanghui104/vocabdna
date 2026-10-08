@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: condition 兼有条件、状况、训练等义。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1148,"number":987,"term":"condition","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

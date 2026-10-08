@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: devastate 可指物理毁坏，也可指情感打击。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":483,"number":1432,"term":"devastate","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

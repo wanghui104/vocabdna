@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: disaster 可指真实灾难，也可指彻底失败。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":539,"number":1486,"term":"disaster","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

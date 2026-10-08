@@ -31,3 +31,10 @@ confusables:
 examples:
   []
 why_confusing: diplomatic 可指外交，也可指说话圆滑。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":536,"number":1483,"term":"diplomatic","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

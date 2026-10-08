@@ -43,3 +43,10 @@ examples:
   - en: Administrative tasks delayed the research.
     zh: 行政事务耽误了研究。
 why_confusing: administrative work 通常指办公室/组织管理事务。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":129,"number":116,"term":"administrative","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

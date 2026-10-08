@@ -27,3 +27,10 @@ confusables:
 examples:
   - en: Physiology explains how muscles, nerves, and organs work.
     zh: 生理学解释肌肉、神经和器官如何工作。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"3001-4000","row":582,"number":3531,"term":"physiology","sourcePage":"http://toefl.xdf.cn/202110/11228661.html"}]
+  gre:
+    status: unchecked
+    matches: []

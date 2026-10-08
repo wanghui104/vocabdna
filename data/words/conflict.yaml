@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 名词重音常在第一音节，动词常在第二音节。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":13,"number":1012,"term":"conflict","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

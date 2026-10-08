@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: court 可指法庭、球场，也可作动词追求。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":190,"number":1176,"term":"court","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

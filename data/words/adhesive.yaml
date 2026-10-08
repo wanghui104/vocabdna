@@ -37,3 +37,10 @@ examples:
   - en: Adhesive tape sealed the box.
     zh: 胶带封住了盒子。
 why_confusing: 作名词是胶黏剂；作形容词是有粘性的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":118,"number":107,"term":"adhesive","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

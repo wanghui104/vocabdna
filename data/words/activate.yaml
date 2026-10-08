@@ -35,3 +35,10 @@ examples:
   - en: Press the button to activate the alarm.
     zh: 按下按钮激活警报。
 why_confusing: activate 比 actuate 更常用于系统、账户、功能。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":101,"number":91,"term":"activate","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

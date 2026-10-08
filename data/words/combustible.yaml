@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: combustible material 指可燃材料。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":774,"number":650,"term":"combustible","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"},{"sheet":"1-1000","row":1031,"number":879,"term":"combustible","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

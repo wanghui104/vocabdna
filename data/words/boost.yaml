@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: boost confidence/sales/immunity 都常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":691,"number":580,"term":"boost","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

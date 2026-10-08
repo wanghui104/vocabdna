@@ -33,3 +33,10 @@ examples:
   - en: The lab is an adjunct to the main course.
     zh: 实验课是主课的附属部分。
 why_confusing: adjunct professor 是兼职/附属职位，不等于 assistant professor。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":123,"number":111,"term":"adjunct","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

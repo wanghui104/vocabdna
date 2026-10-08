@@ -55,3 +55,10 @@ examples:
   - en: The breeze dispersed the smoke above the fire.
     zh: 微风吹散了火堆上方的烟。
 why_confusing: 读音 /dɪˈspɜːrs/。可不及物：people disperse；也可及物：disperse seeds/particles。disperse 是动词，dispersal/dispersion 是名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":580,"number":1520,"term":"disperse","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

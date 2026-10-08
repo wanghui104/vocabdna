@@ -29,3 +29,10 @@ confusables:
 examples:
   []
 why_confusing: disciplined 可形容人、方法或团队。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":553,"number":1496,"term":"disciplined","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

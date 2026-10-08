@@ -48,3 +48,10 @@ examples:
   - en: The artificiality of the dialogue made the scene unconvincing.
     zh: 对白的做作让这一幕显得不可信。
 why_confusing: 通常是不可数抽象名词。与 artifice 区分：artifice 可指具体计谋或技巧，artificiality 指性质。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

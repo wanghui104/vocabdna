@@ -26,3 +26,10 @@ examples:
   - en: Science fiction is her favorite literary genre.
     zh: 科幻是她最喜欢的文学类型。
 why_confusing: 读音 /ˈʒɑːnrə/（美式常见读法）。 首音是 /ʒ/，不是 gene 的 /dʒ/；与 gender 同源，但现代意义不同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":250,"number":2211,"term":"genre","sourcePage":"http://toefl.xdf.cn/202110/11227498.html"}]
+  gre:
+    status: unchecked
+    matches: []

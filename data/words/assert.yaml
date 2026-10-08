@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: assert 是坚定声称；assess 是评估判断。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":416,"number":353,"term":"assert","sourcePage":"http://toefl.xdf.cn/202110/11225214.html"}]
+  gre:
+    status: unchecked
+    matches: []

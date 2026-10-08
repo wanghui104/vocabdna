@@ -35,3 +35,10 @@ examples:
   - en: The map is accurate.
     zh: 这张地图很准确。
 why_confusing: accurate 是准确；precise 是精确，二者可重叠但不完全一样。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":81,"number":73,"term":"accurate","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

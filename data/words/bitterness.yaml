@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: bitterness 可指味觉，也可指心里的怨气。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":641,"number":540,"term":"bitterness","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 常修饰 duty/rule/task。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":765,"number":643,"term":"burdensome","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

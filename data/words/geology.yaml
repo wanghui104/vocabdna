@@ -27,3 +27,10 @@ confusables:
 examples:
   - en: Geology explains how mountains form and erode.
     zh: 地质学解释山脉如何形成和侵蚀。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

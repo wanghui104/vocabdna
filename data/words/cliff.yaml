@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: cliff 和 bluff 都可指悬崖，但词源不同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":975,"number":830,"term":"cliff","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

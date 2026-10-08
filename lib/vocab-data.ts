@@ -12,6 +12,10 @@ export type WordComponent = {
 };
 
 export type WordEntry = {
+  word_lists: Record<string, {
+    status: 'Y' | 'N' | 'unchecked';
+    matches: Array<{ sheet: string; row: number; number: number | null; term: string; sourcePage: string }>;
+  }>;
   id: string;
   word: string;
   pos: string;
@@ -177,6 +181,7 @@ function scoreText(query: string, text: string) {
 
 function normalizeWord(record: RawRecord): WordEntry {
   return {
+    word_lists: (record.word_lists ?? {}) as WordEntry['word_lists'],
     id: asString(record.id),
     word: asString(record.word),
     pos: asString(record.pos),
@@ -380,6 +385,9 @@ function assignPair(
 
 function parseScalar(value: string) {
   const trimmed = value.trim();
+  if (trimmed.startsWith('[') && trimmed.endsWith(']')) {
+    try { return JSON.parse(trimmed); } catch { /* Fall through for non-JSON YAML. */ }
+  }
   if (
     (trimmed.startsWith('"') && trimmed.endsWith('"')) ||
     (trimmed.startsWith("'") && trimmed.endsWith("'"))

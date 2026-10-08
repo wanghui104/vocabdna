@@ -23,3 +23,10 @@ confusables:
 examples:
   []
 why_confusing: delay doing something; flight delay。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":376,"number":1343,"term":"delay","sourcePage":"http://toefl.xdf.cn/202110/11225502.html"}]
+  gre:
+    status: unchecked
+    matches: []

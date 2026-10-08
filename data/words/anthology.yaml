@@ -26,3 +26,10 @@ confusables:
 examples:
   - en: The course begins with an anthology of modern essays.
     zh: 这门课从一本现代散文选集开始。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":299,"number":259,"term":"anthology","sourcePage":"http://toefl.xdf.cn/202110/11225212.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: biographer 写 biography，不是 autobiography。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":635,"number":535,"term":"biographer","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

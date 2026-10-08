@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: castaway 是漂流者/被抛弃者。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":838,"number":710,"term":"cast away","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

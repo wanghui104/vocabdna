@@ -35,3 +35,10 @@ examples:
   - en: The discovery filled them with admiration.
     zh: 这项发现让他们充满赞叹。
 why_confusing: admiration for someone/something 是常见搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":132,"number":119,"term":"admiration","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

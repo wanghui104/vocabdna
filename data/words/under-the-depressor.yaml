@@ -45,3 +45,10 @@ confusables:
 examples:
   []
 why_confusing: 原表短语待核实；不应当作通用固定搭配背诵。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":436,"number":1392,"term":"under the depressor","sourcePage":"http://toefl.xdf.cn/202110/11225503.html"}]
+  gre:
+    status: unchecked
+    matches: []

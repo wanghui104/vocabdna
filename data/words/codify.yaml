@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 常用于 law/rules/principles。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":997,"number":849,"term":"codify","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

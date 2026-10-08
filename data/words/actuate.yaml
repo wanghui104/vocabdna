@@ -29,3 +29,10 @@ examples:
   - en: A sensor actuates the valve.
     zh: 传感器启动阀门。
 why_confusing: actuate 偏机械启动或动机促使；activate 更常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":100,"number":90,"term":"actuate","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

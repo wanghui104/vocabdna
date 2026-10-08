@@ -53,3 +53,10 @@ examples:
   - en: Each competitor presented a different design.
     zh: 每个参赛者都展示了不同的设计。
 why_confusing: competitor 是竞争者；competent 是有能力的。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

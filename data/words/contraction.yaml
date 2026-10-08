@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: muscle contraction；can't 是 cannot 的 contraction。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":119,"number":1110,"term":"contraction","sourcePage":"http://toefl.xdf.cn/202110/11225498.html"}]
+  gre:
+    status: unchecked
+    matches: []

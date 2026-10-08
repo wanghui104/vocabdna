@@ -29,3 +29,10 @@ examples:
   - en: The fund was created by a benevolent donor.
     zh: 这项基金由一位仁慈的捐赠者创立。
 why_confusing: benevolent 是态度仁慈；beneficial 是结果有益。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

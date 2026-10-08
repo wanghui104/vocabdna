@@ -45,3 +45,10 @@ examples:
   - en: The administration announced a new policy.
     zh: 政府宣布了一项新政策。
 why_confusing: 可指管理行为，也可指政府/校方等管理机构。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":127,"number":115,"term":"administration","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

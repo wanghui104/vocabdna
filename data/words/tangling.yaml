@@ -34,3 +34,10 @@ examples:
   - en: Separate the cords to prevent tangling.
     zh: 把线分开放，防止缠结。
 why_confusing: tangle 去 e 加 -ing，写作 tangling；tangled 常表示已经缠住的状态。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

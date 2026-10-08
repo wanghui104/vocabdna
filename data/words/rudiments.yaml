@@ -37,3 +37,10 @@ examples:
   - en: Students first learn the rudiments of programming.
     zh: 学生首先学习编程基础。
 why_confusing: 高频搭配 the rudiments of + 学科或技能。作为 rudiment 的复数标签，与 rudimentary 共用词族页面。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

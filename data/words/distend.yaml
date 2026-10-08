@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: distend 常用于腹部、组织、容器膨胀。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":606,"number":1544,"term":"distend","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

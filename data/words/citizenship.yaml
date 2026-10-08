@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: dual citizenship 指双重国籍。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":950,"number":809,"term":"citizenship","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

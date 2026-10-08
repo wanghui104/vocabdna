@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: dagger 也可指印刷中的剑号符号。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":296,"number":1269,"term":"dagger","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

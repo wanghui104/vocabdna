@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: 可指身体平衡、财务余额、观点平衡。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":536,"number":456,"term":"balance","sourcePage":"http://toefl.xdf.cn/202110/11225216.html"}]
+  gre:
+    status: unchecked
+    matches: []

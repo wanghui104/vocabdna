@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: workers' compensation 是工伤赔偿。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1074,"number":919,"term":"compensation","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

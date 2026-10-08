@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: antique 作名词常指古董；作形容词指古旧或古风。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":307,"number":266,"term":"antique","sourcePage":"http://toefl.xdf.cn/202110/11225212.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -53,3 +53,10 @@ examples:
   - en: The hospital opened a new pediatric clinic.
     zh: 这家医院开设了一间新的儿科门诊。
 why_confusing: 美式常用拼写；英式常见 paed-。 pediatric 的 ped-/paed- 是 Greek pais/paidos 儿童；pedestrian 的 pedestr- 来自 Latin pes/pedis 足，不能把两者当成同源词。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -49,3 +49,10 @@ examples:
   - en: The school offers an accelerated program.
     zh: 学校提供加速课程。
 why_confusing: accelerated program 指压缩或加快进度的课程。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":47,"number":43,"term":"accelerated","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

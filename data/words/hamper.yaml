@@ -36,3 +36,10 @@ examples:
   - en: Put the towels in the laundry hamper.
     zh: 把毛巾放进洗衣篮里。
 why_confusing: 读音 /ˈhæmpər/。动词通常直接接宾语：hamper progress/efforts/movement；常用 be hampered by。篮筐义不是妨碍动作的名词化，两义是否同源未定。hinder/impede 是近义词，不是 hamper 的派生词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":352,"number":2306,"term":"hamper","sourcePage":"http://toefl.xdf.cn/202110/11227501.html"}]
+  gre:
+    status: unchecked
+    matches: []

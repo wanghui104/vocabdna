@@ -47,3 +47,10 @@ examples:
   - en: The interviewee described herself as an atheist.
     zh: 受访者称自己是一名无神论者。
 why_confusing: atheist /ˈeɪθiɪst/ 与 theist“有神论者”相对。theologian 是神学研究者，属于研究身份；atheism 则是信仰立场名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":458,"number":387,"term":"atheist","sourcePage":"http://toefl.xdf.cn/202110/11225214.html"}]
+  gre:
+    status: unchecked
+    matches: []

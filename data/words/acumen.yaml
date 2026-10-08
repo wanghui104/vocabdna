@@ -29,3 +29,10 @@ examples:
   - en: Her business acumen impressed investors.
     zh: 她的商业敏锐度给投资者留下深刻印象。
 why_confusing: 常见搭配 business acumen。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":105,"number":94,"term":"acumen","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

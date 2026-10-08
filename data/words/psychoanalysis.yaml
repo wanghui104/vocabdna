@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 这是心理/精神分析，不是普通 analysis 的直接同义词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":274,"number":234,"term":"psychoanalysis","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

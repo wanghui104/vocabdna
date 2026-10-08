@@ -23,3 +23,10 @@ confusables:
 examples:
   []
 why_confusing: make a dent in 也可表示取得一点进展或消耗一部分。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":403,"number":1366,"term":"dent","sourcePage":"http://toefl.xdf.cn/202110/11225503.html"}]
+  gre:
+    status: unchecked
+    matches: []

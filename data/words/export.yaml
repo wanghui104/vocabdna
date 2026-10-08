@@ -27,3 +27,10 @@ examples:
   - en: The app can export your notes as a PDF.
     zh: 这个应用可以把笔记导出为 PDF。
 why_confusing: export 是输出；exploit 是利用或剥削。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

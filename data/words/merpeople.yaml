@@ -27,3 +27,10 @@ examples:
   - en: The fantasy novel describes merpeople living below the reef.
     zh: 那本奇幻小说描写了生活在礁石下方的人鱼族。
 why_confusing: Merpeople and merfolk overlap; merpeople is often chosen when a gender-neutral wording is wanted.
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

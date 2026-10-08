@@ -50,3 +50,10 @@ confusables:
 examples:
   []
 why_confusing: Potential source spelling issues are documented in the batch report.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":254,"number":217,"term":"amendment","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"},{"sheet":"1-1000","row":255,"number":218,"term":"Amendment","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"},{"sheet":"3001-4000","row":48,"number":3043,"term":"amendment","sourcePage":"http://toefl.xdf.cn/202110/11228650.html"}]
+  gre:
+    status: unchecked
+    matches: []

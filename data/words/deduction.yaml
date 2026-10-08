@@ -44,3 +44,10 @@ examples:
   - en: Tax deductions lowered the final bill.
     zh: 税务扣除降低了最终账单。
 why_confusing: deduction 是扣除或演绎；reduction 是减少；induction 是归纳。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -41,3 +41,10 @@ examples:
   - en: The generic name is written with an initial capital letter.
     zh: 属名的首字母要大写。
 why_confusing: 读音 /dʒəˈnerɪk/。 generic /dʒəˈnerɪk/ ≠ genetic /dʒəˈnetɪk/；general 更常强调总体或大致。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

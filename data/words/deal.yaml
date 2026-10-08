@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: deal with 是处理；a great deal 是大量。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":316,"number":1288,"term":"deal","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -21,3 +21,10 @@ confusables:
 examples:
   []
 why_confusing: 词根拆解按可见学习结构处理；来源不稳定或专名物名保留为底层词根并在 morpheme note 中说明。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":933,"number":2841,"term":"pledge","sourcePage":"http://toefl.xdf.cn/202110/11227529.html"},{"sheet":"3001-4000","row":637,"number":3579,"term":"pledge","sourcePage":"http://toefl.xdf.cn/202110/11228663.html"}]
+  gre:
+    status: unchecked
+    matches: []

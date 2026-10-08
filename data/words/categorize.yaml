@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 也拼作 categorise（英式）。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":851,"number":723,"term":"categorize","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

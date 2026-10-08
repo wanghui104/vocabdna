@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: dialect 指语言变体；accent 更偏发音口音。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":496,"number":1445,"term":"dialect","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

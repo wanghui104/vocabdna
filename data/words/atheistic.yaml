@@ -51,3 +51,10 @@ examples:
   - en: The article examines atheistic arguments in modern philosophy.
     zh: 文章考察了现代哲学中的无神论论证。
 why_confusing: 常修饰 argument、view、philosophy；atheistic 描述观点，atheist 常指持该观点的人。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

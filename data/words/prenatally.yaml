@@ -44,3 +44,10 @@ examples:
   - en: The team collected the first set of data prenatally.
     zh: 团队在产前收集了第一组数据。
 why_confusing: prenatally 是副词，prenatal 是形容词。与 postnatally“在出生后”相对。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

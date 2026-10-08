@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: beat around the bush 指拐弯抹角。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":771,"number":647,"term":"bush","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

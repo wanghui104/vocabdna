@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: disseminate 常用于信息、知识、思想。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":596,"number":1534,"term":"disseminate","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

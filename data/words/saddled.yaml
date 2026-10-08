@@ -46,3 +46,10 @@ examples:
   - en: The company was saddled with heavy debt.
     zh: 公司背负着沉重债务。
 why_confusing: 常见 be saddled with；saddled 不表示“跨坐着”，后者可用 straddling。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -30,3 +30,10 @@ confusables:
 examples:
   []
 why_confusing: take care, care for, care about 搭配不同。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

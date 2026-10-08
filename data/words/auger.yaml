@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: auger 钻具；augment 增加。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":491,"number":416,"term":"auger","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"}]
+  gre:
+    status: unchecked
+    matches: []

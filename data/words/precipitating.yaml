@@ -64,3 +64,10 @@ examples:
   - en: The report identified the precipitating factor in the crisis.
     zh: 报告指出了危机的诱发因素。
 why_confusing: 常见 precipitating factor/event；不是形容“仓促”的 precipitate，也不等于形容陡峭的 precipitous。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

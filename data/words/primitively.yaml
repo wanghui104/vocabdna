@@ -55,3 +55,10 @@ examples:
   - en: The cabin was primitively equipped with a stove and a single lamp.
     zh: 小屋设备简陋，只有一个炉子和一盏灯。
 why_confusing: 副词修饰动作或状态；描述设备简陋时可用 primitively equipped。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

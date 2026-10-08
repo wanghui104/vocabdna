@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: di-（dis- 简化）+ stingu- 标记、区别 + -ish 法语动词结尾；与 distinct 同源，不把 -ish 当“有点”。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":616,"number":1553,"term":"distinguish","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

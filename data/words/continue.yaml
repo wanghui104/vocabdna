@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: continue doing / continue to do 都常见。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -58,3 +58,10 @@ examples:
   - en: The library is generally quiet in the morning.
     zh: 图书馆早晨通常很安静。
 why_confusing: generally speaking = 一般来说；不是“总是”。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

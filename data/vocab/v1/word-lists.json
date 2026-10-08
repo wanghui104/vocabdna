@@ -1,0 +1,17 @@
+{
+  "lists": {
+    "toefl-5400": {
+      "name": "新东方 TOEFL 5400",
+      "exam": "TOEFL",
+      "status": "checked",
+      "source": "_appendix/NewOriental_TOEFL_5400.xlsx",
+      "sha256": "8cf534be6879b922756412b5f59fb77c542759387fc0036a3b8b7ce07cae5d64",
+      "matching": "lowercase; non-ASCII-alphanumeric runs become hyphens; exact normalized term match; no family inheritance"
+    },
+    "gre": {
+      "name": "GRE（词表待导入）",
+      "exam": "GRE",
+      "status": "unchecked"
+    }
+  }
+}

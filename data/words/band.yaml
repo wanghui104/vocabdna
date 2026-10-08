@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: band 可指乐队、带状物、频段等。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":552,"number":471,"term":"band","sourcePage":"http://toefl.xdf.cn/202110/11225216.html"}]
+  gre:
+    status: unchecked
+    matches: []

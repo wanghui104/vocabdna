@@ -40,3 +40,10 @@ examples:
   - en: Researchers studied a gene involved in flower color.
     zh: 研究人员研究了一个参与花色形成的基因。
 why_confusing: 读音 /dʒiːn/。 基因参与性状形成，不意味着每种性状都由单个基因独自决定。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

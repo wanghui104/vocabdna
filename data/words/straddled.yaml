@@ -45,3 +45,10 @@ examples:
   - en: She straddled the bicycle and checked the brakes.
     zh: 她跨坐在自行车上，检查刹车。
 why_confusing: straddle—straddled—straddled；不是 saddled（装了鞍、使背负）。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

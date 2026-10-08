@@ -29,3 +29,10 @@ examples:
   - en: The agency accredits universities.
     zh: 该机构认证大学。
 why_confusing: accredit 强调正式认可或授权。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":78,"number":70,"term":"accredit","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

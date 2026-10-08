@@ -27,3 +27,10 @@ examples:
   - en: The floodwater began to recede.
     zh: 洪水开始退去。
 why_confusing: recede 是退去；reseed 是重新播种。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

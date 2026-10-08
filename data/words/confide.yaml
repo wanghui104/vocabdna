@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: confide in someone; confide something to someone.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":2,"number":1001,"term":"confide","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

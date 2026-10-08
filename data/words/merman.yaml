@@ -27,3 +27,10 @@ examples:
   - en: The painting shows a merman rising from the waves.
     zh: 画中有一位男性人鱼从海浪中升起。
 why_confusing: Merman is a counterpart to mermaid, not a derivative form of the word mermaid.
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -36,3 +36,10 @@ examples:
   - en: She studied accounting in college.
     zh: 她在大学学习会计。
 why_confusing: accounting 是学科/工作；accountant 是人。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":76,"number":68,"term":"accounting","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

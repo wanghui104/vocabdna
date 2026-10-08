@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: blazing sun/fire/row 都常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":17,"number":14,"term":"blazing","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"},{"sheet":"1-1000","row":650,"number":547,"term":"blazing","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

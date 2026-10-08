@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: circular argument 是循环论证。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":939,"number":800,"term":"circular","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

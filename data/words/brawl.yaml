@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: 比 quarrel 更粗暴、混乱。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":709,"number":597,"term":"brawl","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

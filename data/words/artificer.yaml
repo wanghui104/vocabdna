@@ -38,3 +38,10 @@ examples:
   - en: A skilled artificer repaired the clock’s delicate mechanism.
     zh: 一位巧匠修好了钟表的精密机械装置。
 why_confusing: 较正式或文学用语；一般手艺人更常用 artisan 或 craftsperson。它与 artifice 同源，但不必带有欺骗含义。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

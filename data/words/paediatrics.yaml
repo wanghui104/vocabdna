@@ -52,3 +52,10 @@ examples:
   - en: Paediatrics is her chosen specialty.
     zh: 儿科学是她选择的专业。
 why_confusing: 英式常用拼写；对应美式 ped-。 表示学科时通常接单数动词，如 Pediatrics is ...；不可把词尾 s 简单理解为多个儿科。 pediatric 的 ped-/paed- 是 Greek pais/paidos 儿童；pedestrian 的 pedestr- 来自 Latin pes/pedis 足，不能把两者当成同源词。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

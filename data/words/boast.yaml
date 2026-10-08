@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: boast of/about 可表示吹嘘，也可中性表示拥有。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":677,"number":569,"term":"boast","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

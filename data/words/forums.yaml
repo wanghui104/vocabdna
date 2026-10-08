@@ -40,3 +40,10 @@ examples:
   - en: Several online forums discuss the new software.
     zh: 几个网络论坛在讨论这款新软件。
 why_confusing: forums 和 fora 都可作 forum 的复数；不是把 forum 的 -um 替换成 -s。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

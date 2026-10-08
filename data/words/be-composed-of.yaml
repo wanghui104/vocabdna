@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 主语是整体，of 后是组成部分。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1100,"number":943,"term":"be composed of","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

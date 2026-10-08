@@ -33,3 +33,10 @@ examples:
   - en: In addition to lectures, the course includes labs.
     zh: 除讲座外，这门课还包括实验课。
 why_confusing: 后面接名词、代词或动名词；不要直接接完整句子。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":113,"number":103,"term":"in addition to","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

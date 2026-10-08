@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: anecdotal evidence 不能等同于系统性证据。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":280,"number":240,"term":"anecdotal","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

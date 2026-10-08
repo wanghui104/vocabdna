@@ -57,3 +57,10 @@ examples:
   - en: The essay examines the appeal of primitivism in an industrial society.
     zh: 这篇文章探讨了原始主义在工业社会中的吸引力。
 why_confusing: 艺术史专门术语；不等于“史前艺术”本身。也有原始状态或做法的用法，描述单纯性质时可比较 primitiveness/primitivity。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

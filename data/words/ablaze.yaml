@@ -29,3 +29,10 @@ examples:
   - en: The sky was ablaze at sunset.
     zh: 日落时天空一片灿烂。
 why_confusing: ablaze 通常作表语：the room was ablaze。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":16,"number":13,"term":"ablaze","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

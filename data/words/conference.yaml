@@ -35,3 +35,10 @@ examples:
   - en: Researchers presented their findings at the conference.
     zh: 研究人员在会议上展示了他们的发现。
 why_confusing: conference 通常指较正式的会议或大会；meeting 更普通，convention 更像大型集会或行业大会。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1162,"number":998,"term":"conference","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

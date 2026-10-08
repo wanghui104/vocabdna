@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: envelop 动词包裹；envelope 名词信封。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":880,"number":1791,"term":"envelop","sourcePage":"http://toefl.xdf.cn/202110/11225530.html"}]
+  gre:
+    status: unchecked
+    matches: []

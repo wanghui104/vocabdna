@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: digression 是离题，不是 regression 倒退。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":518,"number":1465,"term":"digression","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

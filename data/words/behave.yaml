@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: behave oneself 指守规矩。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":604,"number":509,"term":"behave","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

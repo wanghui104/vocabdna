@@ -35,3 +35,10 @@ confusables:
 examples:
   []
 why_confusing: critical 可褒可贬：critical thinking 是审辨思维；critical condition 是危急状态。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":242,"number":1221,"term":"critical","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

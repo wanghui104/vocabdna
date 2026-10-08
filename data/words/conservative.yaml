@@ -46,3 +46,10 @@ confusables:
 examples:
   []
 why_confusing: political conservative 和 conservative estimate 含义不同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":52,"number":1050,"term":"conservative","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

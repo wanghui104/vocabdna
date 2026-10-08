@@ -40,3 +40,10 @@ confusables:
 examples:
   []
 why_confusing: dimensional 常与 two-/three- 搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":529,"number":1476,"term":"dimensional","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

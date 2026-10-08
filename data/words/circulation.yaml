@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: blood circulation/newspaper circulation 含义不同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":944,"number":803,"term":"circulation","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

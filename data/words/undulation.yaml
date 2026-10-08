@@ -38,3 +38,10 @@ examples:
   - en: The dunes formed gentle undulations across the desert.
     zh: 沙丘在沙漠中形成柔和的起伏。
 why_confusing: undulation 是波动/起伏；inundation 是洪水/大量涌入。两个词只差 in-，意义方向完全不同。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

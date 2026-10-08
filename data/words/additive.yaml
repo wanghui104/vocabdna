@@ -29,3 +29,10 @@ examples:
   - en: The model assumes an additive effect.
     zh: 这个模型假设存在累加效应。
 why_confusing: 作名词常指食品、化学品里的添加剂。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":110,"number":101,"term":"additive","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

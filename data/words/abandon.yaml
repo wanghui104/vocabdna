@@ -29,3 +29,10 @@ examples:
   - en: The children danced with abandon.
     zh: 孩子们尽情地跳舞。
 why_confusing: 注意名词 abandon 表示放纵，不等于 abandonment。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":2,"number":1,"term":"abandon","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

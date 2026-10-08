@@ -35,3 +35,10 @@ examples:
   - en: Students actively discussed the problem.
     zh: 学生们积极讨论了这个问题。
 why_confusing: active 本身未在本批 Excel 行中，后续可按需要补充。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":102,"number":92,"term":"actively","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

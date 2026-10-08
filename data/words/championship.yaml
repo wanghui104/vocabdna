@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: championship 可指赛事，也可指冠军头衔。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":802,"number":676,"term":"championship","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"},{"sheet":"1-1000","row":886,"number":753,"term":"championship","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

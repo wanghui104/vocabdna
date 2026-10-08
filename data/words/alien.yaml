@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: alien 可指外国的、陌生的，也可在科幻里指外星的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":208,"number":178,"term":"alien","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

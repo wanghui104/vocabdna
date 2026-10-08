@@ -32,3 +32,10 @@ examples:
   - en: Adjust the microscope before recording data.
     zh: 记录数据前先调整显微镜。
 why_confusing: adjust 可指微调；adapt 更偏适应新环境。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":124,"number":112,"term":"adjust","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

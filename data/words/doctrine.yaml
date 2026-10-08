@@ -27,3 +27,10 @@ confusables:
 examples:
   []
 why_confusing: doctr- 教导 + -ine；Latin doctrina ← doctor 教师 ← docere 教。-r- 属历史名词词干层。不是 doctr 整词根已到底层。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":648,"number":1583,"term":"doctrine","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

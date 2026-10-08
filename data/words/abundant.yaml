@@ -41,3 +41,10 @@ examples:
   - en: The region has abundant rainfall.
     zh: 该地区雨水充沛。
 why_confusing: abundant 常修饰 resources, evidence, rainfall。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":39,"number":35,"term":"abundant","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

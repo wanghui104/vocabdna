@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: dilemma 严格说是两难，但现代也泛指困境。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":520,"number":1467,"term":"dilemma","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

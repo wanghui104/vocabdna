@@ -41,3 +41,10 @@ examples:
   - en: Admittedly, the plan is expensive, but it is effective.
     zh: 诚然，这个计划很贵，但它有效。
 why_confusing: 常放句首，引出让步：Admittedly, ..., but ...
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":135,"number":121,"term":"admittedly","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

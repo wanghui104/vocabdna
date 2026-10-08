@@ -21,3 +21,10 @@ confusables:
 examples:
   []
 why_confusing: 作动词时常指缓冲坏影响。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":284,"number":1258,"term":"cushion","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

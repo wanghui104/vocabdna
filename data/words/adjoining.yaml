@@ -41,3 +41,10 @@ examples:
   - en: They booked adjoining rooms.
     zh: 他们订了相邻连通的房间。
 why_confusing: adjacent rooms may simply be nearby; adjoining rooms normally touch or connect.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":122,"number":110,"term":"adjoining","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

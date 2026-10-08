@@ -57,3 +57,10 @@ examples:
   - en: The wind is dispersing the seeds over the field.
     zh: 风正把种子吹散到田野各处。
 why_confusing: 进行时用 be dispersing；dispersed 通常表示已分散或过去动作。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

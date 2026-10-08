@@ -21,3 +21,10 @@ confusables:
 examples:
   []
 why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":410,"number":2359,"term":"hem","sourcePage":"http://toefl.xdf.cn/202110/11227503.html"}]
+  gre:
+    status: unchecked
+    matches: []

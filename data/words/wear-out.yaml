@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"5001-5400","row":371,"number":5335,"term":"wear out","sourcePage":"http://toefl.xdf.cn/202111/11229928.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -37,3 +37,10 @@ examples:
   - en: Absentees must submit the form later.
     zh: 缺席者必须稍后提交表格。
 why_confusing: absentee 可用于 absentee ballot，指缺席投票相关。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":29,"number":26,"term":"absentee","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

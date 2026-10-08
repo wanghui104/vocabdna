@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: 不要和 carefully 混淆。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":824,"number":697,"term":"carelessly","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

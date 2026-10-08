@@ -46,3 +46,10 @@ confusables:
 examples:
   []
 why_confusing: 偏正式，比 politely 更书面。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":195,"number":1180,"term":"courteously","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

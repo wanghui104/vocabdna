@@ -47,3 +47,10 @@ examples:
   - en: She spoke eruditely about the history of the manuscript.
     zh: 她谈论这份手稿的历史时展现了渊博的学识。
 why_confusing: 正式副词，频率较低；拼写保留 erudite 末尾的 e：eruditely。修饰 spoke、wrote 等，形容人或文章用 erudite。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

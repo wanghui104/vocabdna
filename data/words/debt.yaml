@@ -25,3 +25,10 @@ confusables:
 examples:
   []
 why_confusing: b 不发音；in debt 表示负债。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":324,"number":1296,"term":"debt","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -41,3 +41,10 @@ examples:
   - en: The forest provides an abundance of food.
     zh: 森林提供大量食物。
 why_confusing: an abundance of 后接不可数或复数名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":41,"number":37,"term":"abundance","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

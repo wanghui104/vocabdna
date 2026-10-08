@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: blast 可指爆破、强风、巨响或猛烈批评。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":647,"number":545,"term":"blast","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

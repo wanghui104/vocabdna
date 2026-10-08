@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: disconnect from Wi-Fi/power; emotional disconnect 可作名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":39,"number":1038,"term":"disconnect","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

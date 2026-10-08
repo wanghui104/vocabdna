@@ -27,3 +27,10 @@ confusables:
 examples:
   []
 why_confusing: give credence to = 认为有可信度。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":220,"number":1202,"term":"credence","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

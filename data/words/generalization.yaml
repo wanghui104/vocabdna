@@ -65,3 +65,10 @@ examples:
   - en: That generalization does not apply to every case.
     zh: 那一概括并不适用于所有情况。
 why_confusing: -ization 拼写。 常用 make a generalization；结论可能过度概括。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":239,"number":2202,"term":"generalization","sourcePage":"http://toefl.xdf.cn/202110/11227498.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: candid 可以是坦率，也可指抓拍照片 candid photo。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":805,"number":679,"term":"candid","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

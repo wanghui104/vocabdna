@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: keyboard 也可作动词，表示用键盘输入。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":675,"number":567,"term":"keyboard","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -35,3 +35,10 @@ examples:
   - en: His inability to focus hurt his performance.
     zh: 他无法集中注意力影响了表现。
 why_confusing: inability 后常接 to do。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":12,"number":9,"term":"inability","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

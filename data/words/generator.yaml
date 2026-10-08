@@ -51,3 +51,10 @@ examples:
   - en: A backup generator supplies power during an outage.
     zh: 备用发电机在停电期间供电。
 why_confusing: 常指发电机；在软件中也可指生成器。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

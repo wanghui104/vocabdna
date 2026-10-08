@@ -43,3 +43,10 @@ examples:
   - en: The administrator updated the database.
     zh: 管理员更新了数据库。
 why_confusing: 在计算机语境中常指系统管理员或管理员权限。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":130,"number":117,"term":"administrator","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -27,3 +27,10 @@ examples:
   - en: She succeeded through steady practice.
     zh: 她通过稳定练习取得了成功。
 why_confusing: succeed in doing something；不要直接说 succeed to do。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

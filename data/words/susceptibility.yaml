@@ -65,3 +65,10 @@ examples:
   - en: The model includes the dielectric’s electric susceptibility.
     zh: 该模型包含了电介质的电极化率。
 why_confusing: 常用 susceptibility to + 名词；形容词是 susceptible。物理专门义须结合 magnetic/electric 等修饰语，不应一律译为“易感性”。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

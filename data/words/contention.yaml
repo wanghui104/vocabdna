@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: bone of contention 指争议焦点。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":100,"number":1095,"term":"contention","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

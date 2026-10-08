@@ -43,3 +43,10 @@ examples:
   - en: She works at a prenatal clinic.
     zh: 她在一家产前诊所工作。
 why_confusing: prenatal 与 postnatal“出生后的”相对；在孕期护理语境中与 antepartum 接近。副词为 prenatally。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

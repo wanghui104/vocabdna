@@ -45,3 +45,10 @@ examples:
   - en: The complex has two atriums connected by a corridor.
     zh: 这座建筑群有两个由走廊相连的中庭。
 why_confusing: 读音 /ˈeɪtriəmz/。atriums 是正确复数，不必一律改成 atria；对应单数仍是 atrium。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

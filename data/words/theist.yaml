@@ -43,3 +43,10 @@ examples:
   - en: The panel included both a theist and an atheist.
     zh: 讨论小组中既有有神论者，也有无神论者。
 why_confusing: theist /ˈθiːɪst/ 与 atheist 对照。theist 不等于 theologian：前者指信仰立场，后者指神学研究者；theism 是相应的立场名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":459,"number":388,"term":"theist","sourcePage":"http://toefl.xdf.cn/202110/11225214.html"}]
+  gre:
+    status: unchecked
+    matches: []

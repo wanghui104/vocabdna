@@ -37,3 +37,10 @@ examples:
   - en: The ruins show where the town’s forum once stood.
     zh: 这些遗址显示了小镇昔日公共广场的位置。
 why_confusing: forum /ˈfɔːrəm/ 的复数有 forums 和 fora；现代网络论坛常用 forums。forum 与 forensic 同源，但不是 forensic 的词形变化。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

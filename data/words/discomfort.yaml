@@ -30,3 +30,10 @@ confusables:
 examples:
   []
 why_confusing: discomfort 通常比 pain 轻。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":554,"number":1497,"term":"discomfort","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: dampen enthusiasm 表示打击热情。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":299,"number":1272,"term":"dampen","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

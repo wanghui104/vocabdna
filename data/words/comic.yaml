@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: comic 也可作名词指漫画/喜剧演员。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1035,"number":883,"term":"comic","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

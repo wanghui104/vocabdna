@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: campaign 可指政治、军事、商业或公益活动。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":800,"number":674,"term":"campaign","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

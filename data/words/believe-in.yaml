@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: believe in 强调信任、支持或信仰；believe 直接接人/事更像相信其真实。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":607,"number":512,"term":"believe in","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

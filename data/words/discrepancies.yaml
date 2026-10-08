@@ -52,3 +52,10 @@ examples:
   - en: The editor asked the authors to explain the discrepancies in the dates.
     zh: 编辑请作者解释日期中的几处不一致。
 why_confusing: 复数拼写为 discrepancies，不是 discrepancys；常见 identify、explain、resolve discrepancies。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

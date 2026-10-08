@@ -45,3 +45,10 @@ examples:
   - en: The redesign improved accessibility.
     zh: 重新设计提升了可达性。
 why_confusing: 技术和建筑语境中常指无障碍性。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":53,"number":48,"term":"accessibility","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

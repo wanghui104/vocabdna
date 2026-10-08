@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: anesthesia 是麻醉状态；anesthetic 是麻醉剂/麻醉的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":282,"number":242,"term":"anesthesia","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -47,3 +47,10 @@ examples:
   - en: Her affected accent sounded unnatural.
     zh: 她装出来的口音听起来不自然。
 why_confusing: affected 作形容词可指“受影响的”，也可指“做作的”；本批强调后者。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":163,"number":142,"term":"affected","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -43,3 +43,10 @@ examples:
   - en: Her absence was noticed immediately.
     zh: 她的缺席立刻被注意到了。
 why_confusing: absence 可指人不在，也可指某物缺乏。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":31,"number":28,"term":"absence","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -46,3 +46,10 @@ examples:
   - en: The proposal generated considerable interest.
     zh: 这项提议引起了相当大的兴趣。
 why_confusing: 读音 /ˈdʒenəreɪt/。 常用 generate electricity/ideas/income；与 gene 有远源联系，但不是“制造基因”的专用动词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":240,"number":2203,"term":"generate","sourcePage":"http://toefl.xdf.cn/202110/11227498.html"}]
+  gre:
+    status: unchecked
+    matches: []

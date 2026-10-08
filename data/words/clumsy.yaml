@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: 可形容人、动作、设计、措辞。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":986,"number":840,"term":"clumsy","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

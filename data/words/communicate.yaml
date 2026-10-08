@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: communicate with/to 含义略不同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1057,"number":903,"term":"communicate","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

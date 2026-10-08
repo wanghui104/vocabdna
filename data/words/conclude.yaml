@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: conclude that... 表示推断。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1134,"number":975,"term":"conclude","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

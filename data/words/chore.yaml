@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: 不要和 choreography 的 choreo- 混淆。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":925,"number":786,"term":"chore","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

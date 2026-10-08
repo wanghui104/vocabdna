@@ -23,3 +23,10 @@ confusables:
 examples:
   []
 why_confusing: 表层 domain；深层 dominium 统辖权 ← dominus 主人 ← domus 房屋，现代引申为领域。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":656,"number":1591,"term":"domain","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

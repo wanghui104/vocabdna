@@ -46,3 +46,10 @@ confusables:
 examples:
   []
 why_confusing: 既可用于科学结晶，也可用于抽象想法成形。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":260,"number":1236,"term":"crystallization","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

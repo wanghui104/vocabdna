@@ -29,3 +29,10 @@ examples:
   - en: Market agility helped the firm survive.
     zh: 市场敏捷性帮助公司存活下来。
 why_confusing: 在商业或软件语境中也可指组织灵活性。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":187,"number":162,"term":"agility","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

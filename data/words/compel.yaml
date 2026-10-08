@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: be compelled to do sth。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1072,"number":917,"term":"compel","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

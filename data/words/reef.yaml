@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: reef 可由岩石、沙或珊瑚形成。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":159,"number":1149,"term":"reef","sourcePage":"http://toefl.xdf.cn/202110/11225498.html"}]
+  gre:
+    status: unchecked
+    matches: []

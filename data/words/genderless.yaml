@@ -36,3 +36,10 @@ examples:
   - en: The design uses a genderless figure.
     zh: 这个设计使用了一个不区分性别的人物形象。
 why_confusing: 描述不带性别标记的对象或表达；不等于所有性别身份术语。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

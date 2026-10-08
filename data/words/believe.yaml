@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: believe someone 是相信某人说的话；believe in someone 是信任/信仰。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

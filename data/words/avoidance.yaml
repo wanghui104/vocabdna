@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: avoidance 可指心理上的回避。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":524,"number":445,"term":"avoidance","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"}]
+  gre:
+    status: unchecked
+    matches: []

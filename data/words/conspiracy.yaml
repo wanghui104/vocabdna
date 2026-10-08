@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: conspiracy theory 是阴谋论。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":68,"number":1066,"term":"conspiracy","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

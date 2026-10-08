@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: 常搭配 beneficial effect/relationship/change。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":614,"number":518,"term":"beneficial","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

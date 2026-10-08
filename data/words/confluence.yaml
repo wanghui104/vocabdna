@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 可指河流汇合，也可比喻因素汇聚。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":15,"number":1014,"term":"confluence","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

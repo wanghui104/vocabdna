@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: shipping container 指集装箱。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":93,"number":1089,"term":"container","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

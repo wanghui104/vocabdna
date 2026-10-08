@@ -37,3 +37,10 @@ examples:
   - en: With the cables untangled, the technician could trace each connection.
     zh: 线缆解开后，技术人员就能追踪每处连接了。
 why_confusing: 这里按 untangle 的结果状态分析；形容词也可理解为 not tangled（未缠结的），需结合语境。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

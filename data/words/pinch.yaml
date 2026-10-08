@@ -47,3 +47,10 @@ examples:
   - en: Pinch off the tips to encourage bushier growth.
     zh: 掐去嫩梢，促使植株长得更茂密。
 why_confusing: pinch 强调局部夹捏；squeeze 泛指挤压；punch 是挥拳击打。pinched / pinching / pincher 为同页词形；pincer(s) 是法语同源工具词，列在同根关联中。pinch 的更早词源未定；take something with a pinch of salt 表示对某事将信将疑。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"3001-4000","row":591,"number":3540,"term":"pinch","sourcePage":"http://toefl.xdf.cn/202110/11228661.html"}]
+  gre:
+    status: unchecked
+    matches: []

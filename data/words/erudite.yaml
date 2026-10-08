@@ -46,3 +46,10 @@ examples:
   - en: Her erudite essay connects ancient poetry with modern philosophy.
     zh: 她那篇体现渊博学识的文章将古代诗歌与现代哲学联系起来。
 why_confusing: erudite /ˈerədaɪt/ 是正式形容词，可修饰人、文章或演讲；强调学习积累的学识，不能只译为“聪明”。名词是 erudition，副词是 eruditely。虽与 rude 同源，现代 erudite 并不简单等于“有礼貌的”。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

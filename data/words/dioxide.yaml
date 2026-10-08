@@ -29,3 +29,10 @@ confusables:
 examples:
   []
 why_confusing: dioxide 是总类；carbon dioxide 是二氧化碳。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":533,"number":1480,"term":"dioxide","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

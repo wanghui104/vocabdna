@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: aversion 常接 to/toward。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":514,"number":435,"term":"aversion","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"}]
+  gre:
+    status: unchecked
+    matches: []

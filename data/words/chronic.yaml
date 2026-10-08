@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: chronic disease/problem 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":931,"number":792,"term":"chronic","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

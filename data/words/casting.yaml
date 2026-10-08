@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: casting 在影视中也指选角。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":835,"number":707,"term":"casting","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

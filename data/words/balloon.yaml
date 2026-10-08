@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: 作动词可指 costs/debt balloon 激增。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":544,"number":463,"term":"balloon","sourcePage":"http://toefl.xdf.cn/202110/11225216.html"}]
+  gre:
+    status: unchecked
+    matches: []

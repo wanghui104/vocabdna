@@ -29,3 +29,10 @@ examples:
   - en: Airborne pollen can trigger allergies.
     zh: 空气传播的花粉会引发过敏。
 why_confusing: airborne disease 是空气传播疾病；airborne troops 是空降部队。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":199,"number":171,"term":"airborne","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

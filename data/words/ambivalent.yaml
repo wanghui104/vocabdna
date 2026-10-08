@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: ambivalent 不是 indifferent；它是有相反情绪，不是无所谓。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":249,"number":212,"term":"ambivalent","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

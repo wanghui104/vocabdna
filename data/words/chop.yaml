@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: chop up 是切碎。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":922,"number":783,"term":"chop","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

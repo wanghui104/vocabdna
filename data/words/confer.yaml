@@ -31,3 +31,10 @@ examples:
   - en: The university conferred an honorary degree on her.
     zh: 大学授予她荣誉学位。
 why_confusing: confer with someone = 商议；confer something on/upon someone = 授予。不要和 confirm 混淆。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1160,"number":997,"term":"confer","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

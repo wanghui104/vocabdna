@@ -40,3 +40,10 @@ confusables:
 examples:
   []
 why_confusing: 不要误作 vocational；vocational 更偏职业训练。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":521,"number":442,"term":"avocational","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"}]
+  gre:
+    status: unchecked
+    matches: []

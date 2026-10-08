@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: deadly serious 表示极其严肃。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":315,"number":1287,"term":"deadly","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

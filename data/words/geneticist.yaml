@@ -52,3 +52,10 @@ examples:
   - en: A geneticist analyzed the inherited pattern.
     zh: 一位遗传学家分析了这种遗传模式。
 why_confusing: geneticist 是研究者，genetics 是学科。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

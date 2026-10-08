@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: bankrupt 可作形容词、动词或名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":559,"number":476,"term":"bankrupt","sourcePage":"http://toefl.xdf.cn/202110/11225216.html"}]
+  gre:
+    status: unchecked
+    matches: []

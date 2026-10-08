@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: It dawned on me = 我开始明白。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":312,"number":1284,"term":"dawn","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

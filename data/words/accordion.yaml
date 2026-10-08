@@ -27,3 +27,10 @@ examples:
   - en: He played the accordion at the festival.
     zh: 他在节日上演奏手风琴。
 why_confusing: 这是乐器名，词根教学只做辅助记忆。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":69,"number":63,"term":"accordion","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

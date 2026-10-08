@@ -55,3 +55,10 @@ examples:
   - en: The report commented on the primitivity of the tools.
     zh: 报告评论了这些工具的简陋性。
 why_confusing: 较少见的书面性质名词；理解时可对应 primitiveness，不等同于原始主义 primitivism。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

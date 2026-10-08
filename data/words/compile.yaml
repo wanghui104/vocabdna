@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: compile code 是编译代码。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1082,"number":927,"term":"compile","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -37,3 +37,10 @@ examples:
   - en: The dispute threatened to entangle several neighboring towns.
     zh: 这场争端可能把附近几个城镇牵扯进来。
 why_confusing: 常用 entangle A in B；entangle 强调缠住或牵连，tangle 也可直接说线自己打结。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

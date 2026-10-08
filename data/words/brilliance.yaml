@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 可指视觉亮度，也可指智力才华。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":730,"number":615,"term":"brilliance","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

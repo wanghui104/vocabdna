@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: clinic 和 clinical 同族；cline slope 是另词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":980,"number":834,"term":"clinic","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

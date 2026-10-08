@@ -37,3 +37,10 @@ examples:
   - en: An adaptable team can work under pressure.
     zh: 适应力强的团队能在压力下工作。
 why_confusing: adaptable 描述人、系统或物种的适应能力。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":107,"number":96,"term":"adaptable","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

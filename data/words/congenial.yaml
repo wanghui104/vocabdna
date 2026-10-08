@@ -35,3 +35,10 @@ confusables:
 examples:
   []
 why_confusing: Reviewed in the 2201-2400 pass; uncertain historical details are noted on morphemes or retained as conservative roots.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":24,"number":1023,"term":"congenial","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"},{"sheet":"2001-3000","row":249,"number":2210,"term":"congenial","sourcePage":"http://toefl.xdf.cn/202110/11227498.html"}]
+  gre:
+    status: unchecked
+    matches: []

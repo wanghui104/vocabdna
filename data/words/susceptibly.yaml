@@ -61,3 +61,10 @@ examples:
   - en: In the novel, the young narrator responds susceptibly to praise.
     zh: 在这部小说中，年轻的叙述者对赞美表现得很容易动心。
 why_confusing: 这是较少见的副词；一般表达中 more easily influenced 等说法更自然。拼写不是 susceptiblely。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

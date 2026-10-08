@@ -26,3 +26,10 @@ confusables:
 examples:
   - en: Entomology includes the study of bees, beetles, and butterflies.
     zh: 昆虫学包括对蜜蜂、甲虫和蝴蝶的研究。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

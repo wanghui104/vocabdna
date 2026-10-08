@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: 这些义项同形但来源不同，学习时按语境拆开。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":627,"number":530,"term":"bill","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

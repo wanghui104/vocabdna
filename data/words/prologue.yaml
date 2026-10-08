@@ -25,3 +25,10 @@ confusables:
 examples:
   - en: The prologue gives readers the political background.
     zh: 序言向读者交代政治背景。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

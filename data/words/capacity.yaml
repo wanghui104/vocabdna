@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: capacity for work/volume/production 含义随搭配变化。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":813,"number":687,"term":"capacity","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

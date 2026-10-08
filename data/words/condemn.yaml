@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: condemn a policy/person/building 含义随宾语变化。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1142,"number":981,"term":"condemn","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

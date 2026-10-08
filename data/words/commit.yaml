@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: commit a crime/error；commit to a plan。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1050,"number":896,"term":"commit","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -35,3 +35,10 @@ examples:
   - en: The set combines technical artifice with simple materials.
     zh: 这套布景将精巧技法与简单材料结合起来。
 why_confusing: artifice 不等于 artifact（人工制品／伪象）。artificer 保留工匠、创造者义，并不默认指骗子。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

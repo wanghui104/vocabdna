@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: 源表拼写为 `romote`，疑为 remote；按源表 slug 保留，并用 re-/mote 解释。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"4001-5000","row":44,"number":4041,"term":"romote","sourcePage":"http://toefl.xdf.cn/202111/11229813.html"}]
+  gre:
+    status: unchecked
+    matches: []

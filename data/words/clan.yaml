@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: 可指苏格兰氏族，也可泛指小圈子。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":964,"number":820,"term":"clan","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

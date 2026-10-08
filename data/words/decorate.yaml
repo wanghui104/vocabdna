@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: decorate 也可指授勋。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":344,"number":1312,"term":"decorate","sourcePage":"http://toefl.xdf.cn/202110/11225502.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -39,3 +39,10 @@ examples:
   - en: The adventurer crossed the desert alone.
     zh: 那位冒险家独自穿越沙漠。
 why_confusing: 有时可带负面含义，指投机冒险者。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":153,"number":134,"term":"adventurer","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

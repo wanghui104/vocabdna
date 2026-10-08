@@ -29,4 +29,11 @@ confusables:
 examples:
   - en: Fragile ecosystems recover slowly.
     zh: 脆弱生态系统恢复缓慢。
-why_confusing: 
+why_confusing:
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":188,"number":163,"term":"fragile","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"},{"sheet":"2001-3000","row":149,"number":2128,"term":"fragile","sourcePage":"http://toefl.xdf.cn/202110/11227495.html"}]
+  gre:
+    status: unchecked
+    matches: []

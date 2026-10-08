@@ -26,3 +26,10 @@ confusables:
 examples:
   - en: The two teams made simultaneous announcements.
     zh: 两个团队同时发布了公告。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"4001-5000","row":508,"number":4441,"term":"simultaneous","sourcePage":"http://toefl.xdf.cn/202111/11229821.html"}]
+  gre:
+    status: unchecked
+    matches: []

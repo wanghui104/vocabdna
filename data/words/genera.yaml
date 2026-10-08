@@ -26,3 +26,10 @@ examples:
   - en: The specimens represent three different genera.
     zh: 这些标本代表三个不同的属。
 why_confusing: 读音 /ˈdʒenərə/；一个属用 genus，多个属用 genera。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

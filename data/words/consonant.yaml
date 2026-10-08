@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: consonant with 表示与……一致；语音学中指辅音。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":64,"number":1062,"term":"consonant","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: Grand Canyon 是典型搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":810,"number":684,"term":"canyon","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"},{"sheet":"1001-2000","row":218,"number":1200,"term":"canyon","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

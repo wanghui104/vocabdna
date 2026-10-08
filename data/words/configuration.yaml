@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: computer/system configuration 指配置。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":6,"number":1005,"term":"configuration","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

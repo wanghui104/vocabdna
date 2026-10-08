@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: dispose of 是“处理掉”；be disposed to 是“倾向于”。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: woodcarver 可更具体。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":831,"number":704,"term":"carver","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

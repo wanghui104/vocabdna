@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: 注意具体词性和搭配，不要只按中文直译。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":374,"number":319,"term":"armor","sourcePage":"http://toefl.xdf.cn/202110/11225213.html"}]
+  gre:
+    status: unchecked
+    matches: []

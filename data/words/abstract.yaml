@@ -29,3 +29,10 @@ examples:
   - en: The article begins with an abstract.
     zh: 这篇文章以摘要开头。
 why_confusing: abstract 作名词是摘要；作形容词是抽象的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":36,"number":33,"term":"abstract","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

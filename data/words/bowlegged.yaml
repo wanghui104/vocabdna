@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 也写 bow-legged。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":703,"number":591,"term":"bowlegged","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

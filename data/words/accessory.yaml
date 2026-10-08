@@ -33,3 +33,10 @@ examples:
   - en: The case is sold as a phone accessory.
     zh: 这个保护壳作为手机配件出售。
 why_confusing: accessory 不等于 access；法律上 accessory 也可指从犯。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":54,"number":49,"term":"accessory","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

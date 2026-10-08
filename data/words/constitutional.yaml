@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: constitutional right/amendment/crisis 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":78,"number":1074,"term":"constitutional","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

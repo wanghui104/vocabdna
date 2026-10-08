@@ -40,3 +40,10 @@ confusables:
 examples:
   []
 why_confusing: 大小写和政治语境需按上下文判断。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":53,"number":1051,"term":"conservatism","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -37,3 +37,10 @@ examples:
   - en: The building has wheelchair access.
     zh: 这栋楼有轮椅通道。
 why_confusing: access 是接近/使用机会；excess 是过量。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":50,"number":46,"term":"access","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: increase by a factor of 3 是变为 3 倍，不是增加 3%。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":781,"number":657,"term":"by a factor of","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 常用于 be characterized by 被…所体现/以…为特征。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":893,"number":759,"term":"characterize","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

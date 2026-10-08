@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: dispense with 是固定短语，意思转为“省去”。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":578,"number":1518,"term":"dispense","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

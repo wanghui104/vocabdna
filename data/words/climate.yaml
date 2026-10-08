@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: political/economic climate 是社会风气/形势。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":976,"number":831,"term":"climate","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

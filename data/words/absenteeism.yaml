@@ -43,3 +43,10 @@ examples:
   - en: The company tried to reduce absenteeism.
     zh: 公司试图减少旷工现象。
 why_confusing: absenteeism 指旷课/旷工现象，不是一次 absence。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":28,"number":25,"term":"absenteeism","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

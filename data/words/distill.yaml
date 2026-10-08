@@ -29,3 +29,10 @@ confusables:
 examples:
   []
 why_confusing: 表层 di- + still- 滴。Etymonline 解释 dis- + stillare；Merriam-Webster 指 Late Latin distillare 改自 de- + stillare 的 destillare。保留两条前缀历史解释，滴落词根明确。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":609,"number":1547,"term":"distill","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

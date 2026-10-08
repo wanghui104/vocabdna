@@ -46,3 +46,10 @@ examples:
   - en: The author presents a theistic interpretation of the text.
     zh: 作者对这段文本提出了一种有神论的解读。
 why_confusing: theistic 表示有神论立场；theological 表示神学相关，两者不能不看语境地互换。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

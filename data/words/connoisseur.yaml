@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: 拼写注意 double n + oi + ss + eur。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":40,"number":1039,"term":"connoisseur","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: conventional wisdom/method/weapons 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":133,"number":1123,"term":"conventional","sourcePage":"http://toefl.xdf.cn/202110/11225498.html"}]
+  gre:
+    status: unchecked
+    matches: []

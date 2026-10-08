@@ -30,3 +30,10 @@ confusables:
 examples:
   []
 why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":844,"number":2761,"term":"juncture","sourcePage":"http://toefl.xdf.cn/202110/11227528.html"}]
+  gre:
+    status: unchecked
+    matches: []

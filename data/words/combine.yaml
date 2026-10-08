@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: combine A with B。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1030,"number":878,"term":"combine","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

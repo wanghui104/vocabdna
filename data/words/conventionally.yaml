@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: conventionally understood/used 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":134,"number":1124,"term":"conventionally","sourcePage":"http://toefl.xdf.cn/202110/11225498.html"}]
+  gre:
+    status: unchecked
+    matches: []

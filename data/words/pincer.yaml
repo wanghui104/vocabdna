@@ -31,3 +31,10 @@ examples:
   - en: The lobster raised one pincer.
     zh: 龙虾举起了一只螯。
 why_confusing: 一只螯可用 a pincer；工具通常用复数 pincers，计件说 a pair of pincers。pincer movement 指钳形夹击。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: comprehend 比 understand 更正式。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1107,"number":949,"term":"comprehend","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

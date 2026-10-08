@@ -21,3 +21,10 @@ confusables:
 examples:
   []
 why_confusing: Doll 是 Dorothy 的昵称，后来指玩偶；姓名更深来自 Greek doron 礼物 + theos 神，但现代 doll 不按字母硬拆。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":654,"number":1589,"term":"doll","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

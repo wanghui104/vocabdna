@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: audience 是受众；audition 是试演/试听。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":488,"number":413,"term":"audience","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -18,6 +18,32 @@
   ],
   "additionalProperties": false,
   "properties": {
+    "wordLists": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["status", "matches"],
+        "additionalProperties": false,
+        "properties": {
+          "status": { "enum": ["Y", "N", "unchecked"] },
+          "matches": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["sheet", "row", "number", "term", "sourcePage"],
+              "additionalProperties": false,
+              "properties": {
+                "sheet": { "type": "string" },
+                "row": { "type": "integer", "minimum": 2 },
+                "number": { "type": ["number", "null"] },
+                "term": { "type": "string" },
+                "sourcePage": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
     "id": {
       "type": "string",
       "pattern": "^word:[a-z0-9-]+$"
@@ -168,4 +194,3 @@
     }
   }
 }
-

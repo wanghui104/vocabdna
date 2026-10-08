@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: chaos 是名词；chaotic 是形容词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":887,"number":754,"term":"chaos","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

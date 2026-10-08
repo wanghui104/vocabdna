@@ -35,3 +35,10 @@ examples:
   - en: A minor adjustment improved the results.
     zh: 一次小调整改善了结果。
 why_confusing: 可数时指一次具体调整；不可数时可指适应过程。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":125,"number":113,"term":"adjustment","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -66,3 +66,10 @@ examples:
   - en: Moisture may precipitate as snow at higher elevations.
     zh: 在较高海拔处，水分可能以雪的形式降落。
 why_confusing: 动词常读 /prɪˈsɪpəteɪt/；形容词读 /prɪˈsɪpətət/，名词两种读法均见。precipitate 常指促使事件突然发生，不只是加快已有过程。化学中 a precipitate 是产物，precipitation 是形成过程。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"3001-4000","row":736,"number":3670,"term":"precipitate","sourcePage":"http://toefl.xdf.cn/202110/11228665.html"}]
+  gre:
+    status: unchecked
+    matches: []

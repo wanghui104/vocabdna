@@ -35,3 +35,10 @@ examples:
   - en: The city needs affordable housing.
     zh: 这座城市需要可负担住房。
 why_confusing: affordable 不一定等于 cheap；重点是“能负担”。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":176,"number":153,"term":"affordable","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

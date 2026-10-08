@@ -44,3 +44,10 @@ examples:
   - en: It is hard to conceive of a fair solution without compromise.
     zh: 没有妥协，很难想象一个公平的解决方案。
 why_confusing: conceive 是构想/受孕；receive 是收到；concept 是已经形成的概念名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1122,"number":964,"term":"conceive","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

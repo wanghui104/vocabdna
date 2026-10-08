@@ -1476,6 +1476,9 @@ function assignPair(target, text, lines, nextIndex, childIndent) {
 
 function parseScalar(value) {
   const trimmed = value.trim();
+  if (trimmed.startsWith('[') && trimmed.endsWith(']')) {
+    try { return JSON.parse(trimmed); } catch { /* Fall through for non-JSON YAML. */ }
+  }
   if (
     (trimmed.startsWith('"') && trimmed.endsWith('"')) ||
     (trimmed.startsWith("'") && trimmed.endsWith("'"))

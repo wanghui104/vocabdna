@@ -39,3 +39,10 @@ confusables:
 examples:
   []
 why_confusing: independent of/from 均可见；名词可指无党派人士。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":421,"number":1381,"term":"independent","sourcePage":"http://toefl.xdf.cn/202110/11225503.html"}]
+  gre:
+    status: unchecked
+    matches: []

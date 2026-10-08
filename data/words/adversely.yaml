@@ -41,3 +41,10 @@ examples:
   - en: Noise can adversely affect sleep.
     zh: 噪音会对睡眠产生不利影响。
 why_confusing: 常见搭配 adversely affect。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":156,"number":136,"term":"adversely","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

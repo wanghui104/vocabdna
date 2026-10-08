@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: 复数可作 cacti 或 cactuses。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

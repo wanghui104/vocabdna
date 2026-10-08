@@ -29,4 +29,11 @@ confusables:
   []
 examples:
   []
-why_confusing: 
+why_confusing:
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":832,"number":1751,"term":"encompass","sourcePage":"http://toefl.xdf.cn/202110/11225530.html"}]
+  gre:
+    status: unchecked
+    matches: []

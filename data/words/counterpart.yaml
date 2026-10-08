@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: one's counterpart in another country/company.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":184,"number":1171,"term":"counterpart","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

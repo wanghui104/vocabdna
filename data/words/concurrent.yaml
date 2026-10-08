@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: concurrent events 同时发生的事件；concurrent powers 共同权力。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1141,"number":980,"term":"concurrent","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"},{"sheet":"1001-2000","row":282,"number":1256,"term":"concurrent","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: 通常形容皮肤。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":741,"number":626,"term":"sun-bronzed","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

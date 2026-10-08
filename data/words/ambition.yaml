@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: ambition 可褒可贬；既可指抱负，也可指野心。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":247,"number":210,"term":"ambition","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -33,3 +33,10 @@ examples:
   - en: The course has separate sections on antepartum and postpartum care.
     zh: 这门课程分别设有产前护理和产后护理章节。
 why_confusing: antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 与 prenatal“出生前的；产前的”在孕期语境中接近。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

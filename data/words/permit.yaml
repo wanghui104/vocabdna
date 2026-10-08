@@ -27,3 +27,10 @@ examples:
   - en: The city issued a parking permit.
     zh: 市政府签发了一张停车许可证。
 why_confusing: permit 作名词和动词重音可能不同。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

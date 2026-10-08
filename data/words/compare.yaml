@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: compare with/to 搭配语义略不同。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -39,3 +39,10 @@ examples:
   - en: The vase needed no adornment.
     zh: 这个花瓶无需装饰。
 why_confusing: 可以抽象指装饰，也可以具体指装饰品。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":141,"number":126,"term":"adornment","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: deception 可指行为，也可指具体骗局。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":333,"number":1303,"term":"deception","sourcePage":"http://toefl.xdf.cn/202110/11225502.html"}]
+  gre:
+    status: unchecked
+    matches: []

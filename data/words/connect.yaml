@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: connect A to/with B.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":37,"number":1036,"term":"connect","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

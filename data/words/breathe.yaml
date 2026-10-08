@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: 结尾 e 改变读音：breathe /briːð/。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":723,"number":609,"term":"breathe","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

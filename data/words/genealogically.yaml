@@ -58,3 +58,10 @@ examples:
   - en: The two families are genealogically connected.
     zh: 这两个家族在谱系上有关联。
 why_confusing: 是 genealogy 的副词形式，不等于 genetically。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

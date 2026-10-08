@@ -33,4 +33,11 @@ confusables:
   []
 examples:
   []
-why_confusing: 
+why_confusing:
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":108,"number":2090,"term":"forerunner","sourcePage":"http://toefl.xdf.cn/202110/11227493.html"}]
+  gre:
+    status: unchecked
+    matches: []

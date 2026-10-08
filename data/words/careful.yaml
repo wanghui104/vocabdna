@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: careful 后可接 with/about/to do。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":825,"number":698,"term":"careful","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

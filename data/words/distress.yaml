@@ -27,3 +27,10 @@ confusables:
 examples:
   []
 why_confusing: 历史词来自 French destresse ← Latin districtus/distringere 紧勒、约束；Word DNA di- + stress 保留法语变体，深层是 dis- + stringere 拉紧。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":622,"number":1559,"term":"distress","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

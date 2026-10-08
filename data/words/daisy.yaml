@@ -27,3 +27,10 @@ confusables:
 examples:
   []
 why_confusing: Daisy 也可作人名。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":297,"number":1270,"term":"daisy","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

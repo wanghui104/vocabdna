@@ -31,3 +31,10 @@ confusables:
 examples:
   []
 why_confusing: workbook gloss 令人震惊的偏弱；常见义是严重削弱的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":235,"number":1214,"term":"crippling","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

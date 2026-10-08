@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 可用于 cultivate crops, skills, friendship。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":268,"number":1244,"term":"cultivate","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

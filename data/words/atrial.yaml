@@ -39,3 +39,10 @@ examples:
   - en: The illustration shows the atrial walls in detail.
     zh: 这幅插图详细展示了心房壁。
 why_confusing: 读音 /ˈeɪtriəl/。atrial 是形容词，atria 是复数名词；两者不能互换。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

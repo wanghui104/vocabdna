@@ -40,3 +40,10 @@ confusables:
 examples:
   []
 why_confusing: U.S. usage may include county offices.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":192,"number":1177,"term":"courthouse","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -37,3 +37,10 @@ examples:
   - en: Sandstone is an aggregate of mineral grains.
     zh: 砂岩是矿物颗粒的集合体。
 why_confusing: 作名词是总数/集合体；作动词也可表示汇总。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":180,"number":157,"term":"aggregate","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

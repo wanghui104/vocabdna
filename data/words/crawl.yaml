@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: traffic can crawl, meaning move very slowly.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":216,"number":1198,"term":"crawl","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

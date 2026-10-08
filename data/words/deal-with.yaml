@@ -40,3 +40,10 @@ confusables:
 examples:
   []
 why_confusing: deal with a problem/person/text 按语境译。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":320,"number":1292,"term":"deal with","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

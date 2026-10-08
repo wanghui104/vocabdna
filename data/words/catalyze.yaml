@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 美式 -yze；英式也见 catalyse。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":846,"number":718,"term":"catalyze","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

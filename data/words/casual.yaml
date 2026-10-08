@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: casual clothes/conversation/attitude 含义不同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":844,"number":716,"term":"casual","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

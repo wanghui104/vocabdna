@@ -25,3 +25,10 @@ confusables:
 examples:
   []
 why_confusing: 和 claim/clamor 不同词族。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":961,"number":817,"term":"clam","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

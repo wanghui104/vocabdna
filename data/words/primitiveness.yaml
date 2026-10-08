@@ -55,3 +55,10 @@ examples:
   - en: The primitiveness of the equipment made the task difficult.
     zh: 设备的简陋使这项任务很难完成。
 why_confusing: 性质名词；primitiveness of the equipment 指设备简陋，不表示原始主义艺术风格。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

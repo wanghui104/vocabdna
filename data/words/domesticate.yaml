@@ -43,3 +43,10 @@ confusables:
 examples:
   []
 why_confusing: domest- 是 domesticus 的家庭词干层，domus + 历史扩展 -est-；不是最高级 -est。与英语 -dom 后缀分开。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":659,"number":1593,"term":"domesticate","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

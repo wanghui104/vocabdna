@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 用于动物、植物或遗传育种语境。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":726,"number":612,"term":"crossbreeding","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"},{"sheet":"1001-2000","row":241,"number":1220,"term":"crossbreeding","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

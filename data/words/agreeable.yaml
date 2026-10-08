@@ -37,3 +37,10 @@ examples:
   - en: He is agreeable in group work.
     zh: 他在小组工作中很好相处。
 why_confusing: agreeable person 是好相处的人；agreeable idea 是令人接受的想法。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":191,"number":166,"term":"agreeable","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

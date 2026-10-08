@@ -29,3 +29,10 @@ examples:
   - en: The crew had to abort the launch.
     zh: 工作人员不得不中止发射。
 why_confusing: 现代常作动词；Excel 中列为名词义时可理解为中止任务的行为。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":23,"number":20,"term":"abort","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

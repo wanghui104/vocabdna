@@ -29,3 +29,10 @@ examples:
   - en: An agile mind adapts to new evidence.
     zh: 敏捷的头脑能适应新证据。
 why_confusing: agile 可形容身体敏捷，也可形容思维或团队灵活。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":186,"number":161,"term":"agile","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

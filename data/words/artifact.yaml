@@ -59,3 +59,10 @@ examples:
   - en: Heavy compression left visible artifacts around the letters.
     zh: 过度压缩使文字周围出现了明显的图像瑕疵。
 why_confusing: artifact 常见于美式英语，artefact 常见于英式英语。artifactual 是它的形容词；artificial 泛指人造或不自然。artifact 文物强调人工制作；fossil 化石是古生物遗存，relic 强调遗留物，article 可指文章或一件物品。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

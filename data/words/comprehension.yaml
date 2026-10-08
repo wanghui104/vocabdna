@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: reading/listening comprehension 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1109,"number":951,"term":"comprehension","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

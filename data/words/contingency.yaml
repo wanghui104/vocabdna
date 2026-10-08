@@ -43,3 +43,10 @@ examples:
   - en: The team prepared a plan for every contingency.
     zh: 团队为各种可能情况准备了方案。
 why_confusing: contingency plan 是“应急预案”；不是 ordinary plan。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

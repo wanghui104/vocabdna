@@ -41,3 +41,10 @@ examples:
   - en: The cave fish has rudimentary eyes.
     zh: 这种洞穴鱼有发育不完全的眼睛。
 why_confusing: rudimentary 可形容知识、工具或生物结构；basic 强调基础，rudimentary 常额外暗示程度有限或发展不足。与 erudite 比较的是知识深度，不是礼貌程度。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"4001-5000","row":236,"number":4209,"term":"rudimentary","sourcePage":"http://toefl.xdf.cn/202111/11229817.html"}]
+  gre:
+    status: unchecked
+    matches: []

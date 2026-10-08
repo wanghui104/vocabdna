@@ -29,3 +29,10 @@ examples:
   - en: Can you describe the route?
     zh: 你能描述一下路线吗？
 why_confusing: describe 用语言描述；depict 用图像或文字描绘。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

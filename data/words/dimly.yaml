@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: dimly lit 是常见搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":526,"number":1473,"term":"dimly","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

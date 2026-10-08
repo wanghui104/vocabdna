@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: clamor for reform 指强烈要求改革。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":962,"number":818,"term":"clamor","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

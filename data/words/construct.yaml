@@ -31,3 +31,10 @@ examples:
   - en: Engineers construct a bridge from many smaller parts.
     zh: 工程师用许多小部件建造一座桥。
 why_confusing: construct 强调建造；constitute 强调构成。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":83,"number":1079,"term":"construct","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

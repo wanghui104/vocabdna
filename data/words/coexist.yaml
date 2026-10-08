@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: coexist with 可指和平共处或同时存在。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":998,"number":850,"term":"coexist","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: aloft 是副词，常见于文学或正式描写。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":225,"number":192,"term":"aloft","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -44,3 +44,10 @@ confusables:
 examples:
   []
 why_confusing: convict someone of a crime.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":145,"number":1135,"term":"convict","sourcePage":"http://toefl.xdf.cn/202110/11225498.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -29,3 +29,10 @@ examples:
   - en: Plants absorb water through their roots.
     zh: 植物通过根吸收水分。
 why_confusing: absorb 是吸收进入内部；adsorb 是吸附在表面。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":34,"number":31,"term":"absorb","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

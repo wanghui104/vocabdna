@@ -51,3 +51,10 @@ examples:
   - en: We bought a new saddle at the local saddlery.
     zh: 我们在当地鞍具店买了一个新马鞍。
 why_confusing: saddler 是人，saddlery 是行业、器具总称或店铺；器具总称常不可数，店铺义可数。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

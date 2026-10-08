@@ -27,3 +27,10 @@ examples:
   - en: The ring has a short inscription inside.
     zh: 戒指内侧有一段短题词。
 why_confusing: inscription 是铭文；subscription 是订阅。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

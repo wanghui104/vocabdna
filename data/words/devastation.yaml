@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: devastation 是名词；devastating 是形容词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":484,"number":1433,"term":"devastation","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

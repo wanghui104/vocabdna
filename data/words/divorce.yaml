@@ -27,3 +27,10 @@ confusables:
 examples:
   []
 why_confusing: di- 分开 + vorce-，经 French divorce ← Latin divortium，关联 divertere 转开（vert-/vers-）。保留法语词形变化，不能把 vorce 解作 vor- 吞食。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":643,"number":1579,"term":"divorce","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

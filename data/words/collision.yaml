@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: collision course 可比喻冲突路线。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1020,"number":869,"term":"collision","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

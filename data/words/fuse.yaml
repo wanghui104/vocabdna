@@ -26,4 +26,11 @@ confusables:
   []
 examples:
   []
-why_confusing: 
+why_confusing:
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":212,"number":2179,"term":"fuse","sourcePage":"http://toefl.xdf.cn/202110/11227497.html"}]
+  gre:
+    status: unchecked
+    matches: []

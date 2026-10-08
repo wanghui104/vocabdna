@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: alternation 是过程/模式；alternative 是可选项。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":234,"number":199,"term":"alternation","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

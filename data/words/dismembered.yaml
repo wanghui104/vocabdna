@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: 可用于身体，也可用于抽象整体。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":573,"number":1514,"term":"dismembered","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

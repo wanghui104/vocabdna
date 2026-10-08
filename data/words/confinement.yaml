@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: solitary confinement 指单独监禁。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":10,"number":1009,"term":"confinement","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

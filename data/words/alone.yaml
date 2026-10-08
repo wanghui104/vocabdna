@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: alone 可作形容词也可作副词；不是动词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":226,"number":193,"term":"alone","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

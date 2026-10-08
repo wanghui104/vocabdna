@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: classify information/species/documents。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":969,"number":824,"term":"classify","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

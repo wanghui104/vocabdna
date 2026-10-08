@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: diagonal 既可作名词也可作形容词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":493,"number":1442,"term":"diagonal","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -33,3 +33,10 @@ examples:
   - en: The report helps untangle the sequence of events.
     zh: 这份报告有助于理清事件的先后顺序。
 why_confusing: untangle 与 disentangle 都可表示解开或理清；untangle 是反向动作，不只是“不缠绕”。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

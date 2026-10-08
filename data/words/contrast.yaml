@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: in contrast to/with 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":124,"number":1115,"term":"contrast","sourcePage":"http://toefl.xdf.cn/202110/11225498.html"}]
+  gre:
+    status: unchecked
+    matches: []

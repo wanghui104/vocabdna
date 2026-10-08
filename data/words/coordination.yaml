@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: hand-eye coordination; coordination among teams.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":156,"number":1146,"term":"coordination","sourcePage":"http://toefl.xdf.cn/202110/11225498.html"}]
+  gre:
+    status: unchecked
+    matches: []

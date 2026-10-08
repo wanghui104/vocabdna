@@ -35,3 +35,10 @@ examples:
   - en: The staff were very accommodating.
     zh: 工作人员非常乐于帮忙。
 why_confusing: 常形容人或服务态度通融。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":62,"number":56,"term":"accommodating","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

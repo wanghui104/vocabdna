@@ -48,3 +48,10 @@ examples:
   - en: The disentanglement of the two accounts took several weeks.
     zh: 把两个账户的账目理清花了好几个星期。
 why_confusing: 表层 disentangle + -ment；内层 dis- + en- + tangle。较正式，日常常直接使用 disentangle。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

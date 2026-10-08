@@ -33,3 +33,10 @@ examples:
   - en: Scientific advancement depends on shared evidence.
     zh: 科学进步依赖共享证据。
 why_confusing: career advancement 常指职业晋升。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":148,"number":129,"term":"advancement","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

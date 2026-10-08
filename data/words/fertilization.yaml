@@ -49,4 +49,11 @@ confusables:
   []
 examples:
   []
-why_confusing: 
+why_confusing:
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

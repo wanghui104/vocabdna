@@ -39,3 +39,10 @@ examples:
   - en: She joined the school’s forensics team to practice public speaking.
     zh: 她加入了学校的演讲辩论队，以练习公众演讲。
 why_confusing: 形态带 -s，指学科时可接单数谓语（Forensics is ...）；词典也收录复数句法。forensics team 在学校语境常指演讲辩论队，需看上下文。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

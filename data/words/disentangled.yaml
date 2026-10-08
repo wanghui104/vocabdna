@@ -48,3 +48,10 @@ examples:
   - en: Once disentangled from the net, the animal swam away.
     zh: 从网中解脱后，那只动物游走了。
 why_confusing: 常见 disentangled from；词尾保留 -ed 结果层，词干 tangle 的 e 被省去。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

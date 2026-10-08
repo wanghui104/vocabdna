@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: buckle up 指系安全带。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":747,"number":631,"term":"buckle","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

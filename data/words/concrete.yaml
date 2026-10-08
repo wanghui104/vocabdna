@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: concrete idea/evidence 和 concrete material 两个常见义。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1139,"number":979,"term":"concrete","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

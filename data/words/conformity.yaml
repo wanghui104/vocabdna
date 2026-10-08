@@ -42,3 +42,10 @@ confusables:
 examples:
   []
 why_confusing: in conformity with 是正式搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":17,"number":1016,"term":"conformity","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: alignment 可指物理排齐，也可指组织/观点一致。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":210,"number":180,"term":"alignment","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

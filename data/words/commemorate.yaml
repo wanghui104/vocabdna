@@ -53,3 +53,10 @@ confusables:
 examples:
   []
 why_confusing: Potential source spelling issues are documented in the batch report.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1038,"number":886,"term":"commemorate","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"},{"sheet":"3001-4000","row":42,"number":3038,"term":"commemorate","sourcePage":"http://toefl.xdf.cn/202110/11228650.html"}]
+  gre:
+    status: unchecked
+    matches: []

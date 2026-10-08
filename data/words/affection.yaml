@@ -47,3 +47,10 @@ examples:
   - en: Children need affection and security.
     zh: 孩子需要关爱和安全感。
 why_confusing: affection 通常是温情；infection 是感染，拼写相近但来源不同前缀。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":164,"number":143,"term":"affection","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

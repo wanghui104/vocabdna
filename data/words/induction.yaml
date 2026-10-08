@@ -41,3 +41,10 @@ examples:
   - en: The induction ceremony welcomed the new members.
     zh: 入会仪式欢迎了新成员。
 why_confusing: induction 是引入或归纳；deduction 是扣除或演绎推理。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

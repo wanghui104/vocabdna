@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: cancel a meeting/order/subscription 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":803,"number":677,"term":"cancel","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

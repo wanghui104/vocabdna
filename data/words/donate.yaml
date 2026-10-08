@@ -33,3 +33,10 @@ confusables:
 examples:
   []
 why_confusing: don- 礼物 → donare 赠与；donation 先进入英语，donate 后由其逆构。现代学习可比较 don + -ate/-ation/-or。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":666,"number":1599,"term":"donate","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

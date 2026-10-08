@@ -29,3 +29,10 @@ examples:
   - en: Demography helps planners understand population change.
     zh: 人口统计学帮助规划者理解人口变化。
 why_confusing: demography 是人口研究；democracy 是民主制度。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

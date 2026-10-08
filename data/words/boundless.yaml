@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: boundless energy/enthusiasm 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":700,"number":588,"term":"boundless","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

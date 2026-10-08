@@ -51,3 +51,10 @@ examples:
   - en: The proposal received strong support.
     zh: 这个提议得到了强烈支持。
 why_confusing: receive 是接收；recipe 是配方；receipt 是收据，三者同源但现代用法分开。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

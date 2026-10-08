@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: coinage 可指货币，也可指新词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1010,"number":859,"term":"coinage","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

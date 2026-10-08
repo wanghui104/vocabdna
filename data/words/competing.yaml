@@ -44,3 +44,10 @@ confusables:
 examples:
   []
 why_confusing: competing claims/interests/teams。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1081,"number":926,"term":"competing","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

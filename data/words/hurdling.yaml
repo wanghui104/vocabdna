@@ -40,3 +40,10 @@ examples:
   - en: The runners were hurdling the barriers in quick succession.
     zh: 跑者们正接连跨越栏架。
 why_confusing: 去掉 hurdle 末尾的 e 后加 -ing，写作 hurdling。hurtling 指疾驰，hurling 可指投掷或爱尔兰曲棍球运动；三个词不要混写。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

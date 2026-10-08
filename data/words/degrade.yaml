@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: degrade 可用于社会地位、环境、材料质量。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":369,"number":1336,"term":"degrade","sourcePage":"http://toefl.xdf.cn/202110/11225502.html"}]
+  gre:
+    status: unchecked
+    matches: []

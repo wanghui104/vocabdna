@@ -33,3 +33,10 @@ examples:
   - en: The tool converts speech into text.
     zh: 这个工具把语音转换成文字。
 why_confusing: convert 是转换；convey 是传达或运输。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":142,"number":1132,"term":"convert","sourcePage":"http://toefl.xdf.cn/202110/11225498.html"}]
+  gre:
+    status: unchecked
+    matches: []

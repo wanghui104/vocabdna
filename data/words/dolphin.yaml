@@ -21,3 +21,10 @@ confusables:
 examples:
   []
 why_confusing: 表层借词 dolphin；与 Greek delphys 子宫的联系有解释空间，不把 dolphin 拼成英语 dol + phin。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":655,"number":1590,"term":"dolphin","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

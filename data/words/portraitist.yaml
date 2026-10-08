@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 词根拆解按 skill 的可见学习结构处理；能拆的复合词、前后缀和同族词已拆到底层教学单位，来源不稳定或不适合继续拆的词保留为底层词根并在 morpheme note 中说明。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"3001-4000","row":680,"number":3618,"term":"portraitist","sourcePage":"http://toefl.xdf.cn/202110/11228664.html"},{"sheet":"5001-5400","row":10,"number":5008,"term":"portraitist","sourcePage":"http://toefl.xdf.cn/202111/11229922.html"}]
+  gre:
+    status: unchecked
+    matches: []

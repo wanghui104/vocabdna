@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: software bundle 指软件包。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":763,"number":642,"term":"bundle","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

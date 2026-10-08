@@ -49,3 +49,10 @@ examples:
   - en: They faced accelerating costs.
     zh: 他们面临不断加速上涨的成本。
 why_confusing: accelerating 可修饰增长、成本、变化等。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":48,"number":44,"term":"accelerating","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

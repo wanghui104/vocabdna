@@ -29,3 +29,10 @@ examples:
   - en: Please abbreviate the title in the chart.
     zh: 请在图表中缩写标题。
 why_confusing: 不要和 alleviate 混淆；abbreviate 是缩短，不是减轻。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":6,"number":4,"term":"abbreviate","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

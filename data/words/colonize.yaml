@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 带有殖民历史语境，使用需注意。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1023,"number":872,"term":"colonize","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

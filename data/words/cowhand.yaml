@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: cowhand 比 cowboy 更强调牧场工人。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":198,"number":1183,"term":"cowhand","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

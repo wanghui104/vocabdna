@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: confess to a crime/mistake; confess that...
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1163,"number":999,"term":"confess","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

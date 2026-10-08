@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: 常修饰 move/approach/say。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":859,"number":730,"term":"cautiously","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -29,3 +29,10 @@ examples:
   - en: She achieved her dream.
     zh: 她实现了自己的梦想。
 why_confusing: achieve 强调达成目标。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":86,"number":78,"term":"achieve","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

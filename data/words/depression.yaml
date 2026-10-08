@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: 可指经济萧条、地面凹陷或心理抑郁。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":437,"number":1393,"term":"depression","sourcePage":"http://toefl.xdf.cn/202110/11225503.html"}]
+  gre:
+    status: unchecked
+    matches: []

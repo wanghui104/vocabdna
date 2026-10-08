@@ -43,3 +43,10 @@ examples:
   - en: The book compares the theologies of two religious traditions.
     zh: 这本书比较了两个宗教传统的神学体系。
 why_confusing: theology 是学科或思想体系，theism 是相信神存在的立场。theology 不等同于一切 religious studies；常涉及对神、信仰及教义的系统论述。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

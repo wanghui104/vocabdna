@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: digestive system 是高频搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":515,"number":1462,"term":"digestive","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

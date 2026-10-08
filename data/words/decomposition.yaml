@@ -40,3 +40,10 @@ confusables:
 examples:
   []
 why_confusing: chemical/organic decomposition 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1104,"number":946,"term":"decomposition","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"},{"sheet":"1001-2000","row":342,"number":1310,"term":"decomposition","sourcePage":"http://toefl.xdf.cn/202110/11225502.html"}]
+  gre:
+    status: unchecked
+    matches: []

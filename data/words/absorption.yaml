@@ -35,3 +35,10 @@ examples:
   - en: The material improves sound absorption.
     zh: 这种材料改善吸音效果。
 why_confusing: 注意 absorption 和 adsorption 拼写及含义不同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":35,"number":32,"term":"absorption","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

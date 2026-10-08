@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: bias 可中性指偏向，也可负面指偏见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":623,"number":526,"term":"bias","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

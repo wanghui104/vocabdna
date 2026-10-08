@@ -40,3 +40,10 @@ examples:
   - en: I pinched my finger in the drawer.
     zh: 我的手指被抽屉夹了一下。
 why_confusing: pinched 可作形容词，也可作过去式或过去分词；-ed 在此读 /t/。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

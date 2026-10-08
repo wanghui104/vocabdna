@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: commission 可指委托、委员会或佣金。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1046,"number":893,"term":"commission","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

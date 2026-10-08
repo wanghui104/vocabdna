@@ -33,3 +33,10 @@ examples:
   - en: The abolition of the rule took years.
     zh: 这条规则的废除花了多年。
 why_confusing: 历史语境中 abolition 常特指废奴。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":21,"number":18,"term":"abolition","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -29,3 +29,10 @@ examples:
   - en: The actual cost was lower.
     zh: 实际成本更低。
 why_confusing: actual 是实际的；virtual 是虚拟的或实质上的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":98,"number":88,"term":"actual","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

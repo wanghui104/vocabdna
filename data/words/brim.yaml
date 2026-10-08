@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: to the brim 表示满到边缘。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":732,"number":617,"term":"brim","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

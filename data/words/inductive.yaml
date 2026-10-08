@@ -39,3 +39,10 @@ examples:
   - en: Inductive reasoning moves from examples to a broader pattern.
     zh: 归纳推理从例子走向更广泛的规律。
 why_confusing: inductive 是归纳的；deductive 是演绎的。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

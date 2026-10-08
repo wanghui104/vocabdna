@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 不要和 ardent 热烈混淆。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":368,"number":313,"term":"arduous","sourcePage":"http://toefl.xdf.cn/202110/11225213.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: claim 可指索赔、权利主张或声称。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":959,"number":816,"term":"claim","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

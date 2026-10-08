@@ -34,3 +34,10 @@ examples:
   - en: In French, adjectives often agree with the gender of the noun.
     zh: 在法语中，形容词常与名词的性保持一致。
 why_confusing: 读音 /ˈdʒendər/。 gender 在日常用法中也可指性别；学术语境常着重身份和社会文化角色，sex 常指生物性别。语法的性不必等同人的性别。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

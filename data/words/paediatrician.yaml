@@ -58,3 +58,10 @@ examples:
   - en: The paediatrician explained the examination to the parents.
     zh: 儿科医生向家长说明了检查情况。
 why_confusing: 英式常用拼写；对应美式 ped-。 指医生；学科用 pediatrics，形容词用 pediatric。 pediatric 的 ped-/paed- 是 Greek pais/paidos 儿童；pedestrian 的 pedestr- 来自 Latin pes/pedis 足，不能把两者当成同源词。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

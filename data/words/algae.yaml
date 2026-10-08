@@ -21,3 +21,10 @@ examples:
   - en: Algae grew on the surface of the pond.
     zh: 藻类长在池塘表面。
 why_confusing: algae 是复数或集合用法；单数是 alga，但日常多见 algae。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":207,"number":177,"term":"algae","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

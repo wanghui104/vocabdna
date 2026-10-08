@@ -40,3 +40,10 @@ examples:
   - en: There is no conceivable reason to delay the repair.
     zh: 没有任何可想象的理由推迟维修。
 why_confusing: conceivable 是可想象/可能；conceited 是自负；perceivable 是可感知。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

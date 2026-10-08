@@ -52,3 +52,10 @@ examples:
   - en: The archive contains valuable genealogical records.
     zh: 档案馆保存着珍贵的家谱记录。
 why_confusing: 不要把 genea 拆成 gene + a；形容词拼写为 genealogical。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

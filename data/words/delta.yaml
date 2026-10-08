@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: delta 也可指希腊字母或变量变化量。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":387,"number":1351,"term":"delta","sourcePage":"http://toefl.xdf.cn/202110/11225503.html"}]
+  gre:
+    status: unchecked
+    matches: []

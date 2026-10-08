@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: 常用于冶金语境。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":649,"number":546,"term":"blast furnace","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

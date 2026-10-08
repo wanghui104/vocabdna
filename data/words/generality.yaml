@@ -58,3 +58,10 @@ examples:
   - en: The discussion stayed at the level of generalities.
     zh: 讨论停留在笼统的说法上。
 why_confusing: generalities 常指空泛说法；generality 也可中性表示普遍适用性。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

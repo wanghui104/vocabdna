@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: 写作评价中常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1133,"number":974,"term":"conciseness","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

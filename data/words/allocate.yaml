@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: allocate 强调正式分配资源；不要和 locate “定位”混。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":218,"number":187,"term":"allocate","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

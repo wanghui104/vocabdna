@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 不要把 allegory 和 allegation 混。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":216,"number":185,"term":"allegory","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

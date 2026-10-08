@@ -57,3 +57,10 @@ examples:
   - en: The philosopher interprets the question theistically.
     zh: 这位哲学家从有神论角度解释这个问题。
 why_confusing: 较少见的正式副词；一般也可说 from a theistic perspective。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

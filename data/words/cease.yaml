@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: cease to exist/fire/work 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":864,"number":734,"term":"cease","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: ardent 是热烈；arduous 是艰难费力。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":367,"number":312,"term":"ardent","sourcePage":"http://toefl.xdf.cn/202110/11225213.html"}]
+  gre:
+    status: unchecked
+    matches: []

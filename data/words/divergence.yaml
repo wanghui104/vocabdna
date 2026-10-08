@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: 结合例句理解词义，不把词源意象当成全部现代释义。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":632,"number":1569,"term":"divergence","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: average 作形容词可指普通、不特别。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":511,"number":434,"term":"average","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"}]
+  gre:
+    status: unchecked
+    matches: []

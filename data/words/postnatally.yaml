@@ -44,3 +44,10 @@ examples:
   - en: The participants were interviewed prenatally and postnatally.
     zh: 参与者在产前和产后分别接受了访谈。
 why_confusing: postnatally 是副词，修饰发生或记录的时间；postnatal 是形容词。与 prenatally“在出生前”相对。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

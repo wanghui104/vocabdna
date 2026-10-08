@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: disgust 可指生理恶心，也可指道德反感。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":564,"number":1506,"term":"disgust","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

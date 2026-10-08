@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: consult a doctor/dictionary; consult with someone.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":85,"number":1081,"term":"consult","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

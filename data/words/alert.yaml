@@ -31,3 +31,10 @@ examples:
   - en: The city issued a storm alert.
     zh: 城市发布了风暴警报。
 why_confusing: alert 作形容词是警觉的；作动词是提醒；作名词是警报。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":204,"number":176,"term":"alert","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

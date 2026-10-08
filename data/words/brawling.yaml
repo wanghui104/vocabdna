@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 常指公共场合的吵闹斗殴。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":710,"number":598,"term":"brawling","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

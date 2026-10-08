@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: 通常作复数形式 the blues。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":663,"number":559,"term":"blues","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

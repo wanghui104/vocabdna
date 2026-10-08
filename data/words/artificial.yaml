@@ -46,3 +46,10 @@ examples:
   - en: Her artificial smile vanished when the camera was turned off.
     zh: 摄像机关掉后，她那做作的笑容就消失了。
 why_confusing: artificial 不总是贬义；artificial intelligence 是人工智能。artifactual 常专指文物相关或测量过程引入的伪象；artifice 是技巧或计谋。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":394,"number":335,"term":"artificial","sourcePage":"http://toefl.xdf.cn/202110/11225213.html"}]
+  gre:
+    status: unchecked
+    matches: []

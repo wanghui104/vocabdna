@@ -41,3 +41,10 @@ examples:
   - en: She returned for an interview eight weeks postpartum.
     zh: 她在产后八周回来接受了访谈。
 why_confusing: postpartum /ˌpoʊstˈpɑːrtəm/ 本身可作形容词或副词，如 postpartum care 和 eight weeks postpartum。antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 postnatal 泛指出生后，也用于产后护理；两词有重叠，不能简单按“母亲/婴儿”绝对划分。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

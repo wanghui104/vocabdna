@@ -33,3 +33,10 @@ examples:
   - en: She apologized for her rudeness during the meeting.
     zh: 她为自己在会议上的无礼道歉。
 why_confusing: rudeness 通常不可数；rude 为形容词，rudely 为副词。末尾 e 保留：rudeness。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

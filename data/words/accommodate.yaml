@@ -37,3 +37,10 @@ examples:
   - en: The hotel can accommodate 200 guests.
     zh: 这家酒店可容纳 200 位客人。
 why_confusing: accommodate 拼写有 double c, double m。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":61,"number":55,"term":"accommodate","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

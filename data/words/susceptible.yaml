@@ -57,3 +57,10 @@ examples:
   - en: The claim is susceptible to verification.
     zh: 这一说法可以加以核实。
 why_confusing: 读音 /səˈseptəbəl/。通常用 susceptible to + 名词或动名词；正式用法也有 susceptible of。它不等同于 allergic“过敏的”。receptive 常强调愿意接纳，susceptible 常强调容易受到作用或影响。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"4001-5000","row":932,"number":4808,"term":"susceptible","sourcePage":"http://toefl.xdf.cn/202111/11229829.html"}]
+  gre:
+    status: unchecked
+    matches: []

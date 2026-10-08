@@ -53,3 +53,10 @@ examples:
   - en: The lecture focused on the theological meaning of the ritual.
     zh: 讲座着重讨论了这一仪式的神学含义。
 why_confusing: theological 是 theology 的常用形容词；theistic 则强调有神论的信仰立场。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

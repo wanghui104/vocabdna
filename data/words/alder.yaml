@@ -21,3 +21,10 @@ examples:
   - en: Alders grew along the stream.
     zh: 溪边长着赤杨树。
 why_confusing: alder 是树；elder 可指年长者或接骨木。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":203,"number":175,"term":"alder","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

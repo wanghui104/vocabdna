@@ -50,3 +50,10 @@ confusables:
 examples:
   []
 why_confusing: ethically 合乎道德地；不是 ethnically 民族方面。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":919,"number":1827,"term":"ethically","sourcePage":"http://toefl.xdf.cn/202110/11225601.html"}]
+  gre:
+    status: unchecked
+    matches: []

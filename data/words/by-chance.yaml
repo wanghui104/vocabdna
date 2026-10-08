@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: by chance 近义 accidentally。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":782,"number":658,"term":"by chance","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

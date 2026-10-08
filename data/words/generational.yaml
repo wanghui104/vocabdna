@@ -50,3 +50,10 @@ examples:
   - en: The survey revealed a generational difference in reading habits.
     zh: 调查显示不同代际的阅读习惯存在差异。
 why_confusing: generational gap/difference 指代际差异；与 generative 区分。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

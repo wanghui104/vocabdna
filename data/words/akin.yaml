@@ -27,3 +27,10 @@ examples:
   - en: The method is akin to natural selection.
     zh: 这种方法类似于自然选择。
 why_confusing: 常用 akin to，表示“类似于”。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":201,"number":173,"term":"akin","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

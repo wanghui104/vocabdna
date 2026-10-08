@@ -37,3 +37,10 @@ examples:
   - en: Several students were absent today.
     zh: 今天有几名学生缺席。
 why_confusing: absent-minded 是心不在焉，不只是缺席。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":30,"number":27,"term":"absent","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -29,3 +29,10 @@ examples:
   - en: The library is adjacent to the science building.
     zh: 图书馆紧邻科学楼。
 why_confusing: adjacent 不一定接触；adjoining 更强调相接。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":120,"number":108,"term":"adjacent","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

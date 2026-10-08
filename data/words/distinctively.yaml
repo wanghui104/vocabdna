@@ -53,3 +53,10 @@ confusables:
 examples:
   []
 why_confusing: distinct/distinguish 共用词干。更深层“刺点”与“推开”解释有争议，只把 mark off 作为可靠学习层。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":615,"number":1552,"term":"distinctively","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

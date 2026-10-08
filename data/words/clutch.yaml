@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: clutch at straws 是抓救命稻草。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":989,"number":842,"term":"clutch","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

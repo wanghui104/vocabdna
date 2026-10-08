@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: condor 不是一般 eagle。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1151,"number":990,"term":"condor","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

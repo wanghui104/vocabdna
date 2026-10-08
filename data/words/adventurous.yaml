@@ -39,3 +39,10 @@ examples:
   - en: An adventurous scientist tested the new method.
     zh: 一位敢于冒险的科学家测试了新方法。
 why_confusing: 可形容人，也可形容计划、旅行、选择。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":152,"number":133,"term":"adventurous","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -42,3 +42,10 @@ confusables:
 examples:
   []
 why_confusing: the Constitution 大写常指一国宪法。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":76,"number":1072,"term":"constitution","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

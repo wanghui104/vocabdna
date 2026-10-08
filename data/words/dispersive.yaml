@@ -57,3 +57,10 @@ examples:
   - en: The prism is a dispersive optical element.
     zh: 棱镜是一种具有色散作用的光学元件。
 why_confusing: 常见于技术语境；dispersive 描述作用或性质，dispersed 表示已经分散的状态。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

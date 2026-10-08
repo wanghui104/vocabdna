@@ -31,3 +31,10 @@ confusables:
 examples:
   []
 why_confusing: 常用 amenable to，表示愿意接受或受……约束；不要和 amenity/amend 混。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":253,"number":216,"term":"amenable","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -40,3 +40,10 @@ confusables:
 examples:
   []
 why_confusing: diligently 修饰 work/study/check 等动作。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":522,"number":1469,"term":"diligently","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

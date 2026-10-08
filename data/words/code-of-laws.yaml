@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: legal code/code of laws 都可见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":996,"number":848,"term":"code of laws","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

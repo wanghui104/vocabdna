@@ -28,3 +28,10 @@ examples:
   - en: Climate policy is high on the agenda.
     zh: 气候政策是议程上的重点。
 why_confusing: agenda 形式像复数，但现代英语常作单数集合名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":177,"number":154,"term":"agenda","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

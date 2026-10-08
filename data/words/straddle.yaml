@@ -49,3 +49,10 @@ examples:
   - en: The gymnast held a wide straddle on the mat.
     zh: 体操运动员在垫上保持大幅分腿姿势。
 why_confusing: straddle /ˈstrædəl/ 是跨坐或横跨；saddle /ˈsædəl/ 是鞍，也可作“装鞍、加负担”的动词。straddle the fence 指骑墙、两边讨好。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

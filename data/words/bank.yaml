@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: bank 还有河岸义，本批 banker/bankruptcy 走金融义。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

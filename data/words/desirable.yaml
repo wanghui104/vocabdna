@@ -29,3 +29,10 @@ confusables:
 examples:
   []
 why_confusing: desirable 强调有吸引力或值得拥有，不只是 possible。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":459,"number":1409,"term":"desirable","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

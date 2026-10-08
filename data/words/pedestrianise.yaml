@@ -59,3 +59,10 @@ examples:
   - en: The council plans to pedestrianise the market street.
     zh: 市政委员会计划把集市街改为步行街。
 why_confusing: 英式常用 -ise/-isation 拼写。 及物动词，宾语是街道或区域；这里不从“平庸的”义派生。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

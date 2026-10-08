@@ -51,3 +51,10 @@ examples:
   - en: A generative model can produce new text.
     zh: 生成模型可以产生新的文本。
 why_confusing: generative 描述生成能力，genetic 描述基因或遗传。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

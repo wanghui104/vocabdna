@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: 常带讽刺：He did not deign to reply。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":374,"number":1341,"term":"deign","sourcePage":"http://toefl.xdf.cn/202110/11225502.html"}]
+  gre:
+    status: unchecked
+    matches: []

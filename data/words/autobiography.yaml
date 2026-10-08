@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: memoir 更偏回忆录，不一定覆盖完整一生。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":499,"number":423,"term":"autobiography","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"},{"sheet":"1-1000","row":634,"number":534,"term":"autobiography","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

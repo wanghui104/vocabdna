@@ -29,3 +29,10 @@ examples:
   - en: The award recognized his achievement.
     zh: 这个奖项表彰了他的成就。
 why_confusing: achievement 更强调取得的成果。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":87,"number":79,"term":"achievement","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

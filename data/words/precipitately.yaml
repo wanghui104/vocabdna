@@ -64,3 +64,10 @@ examples:
   - en: They signed the agreement precipitately, before reading every clause.
     zh: 他们尚未读完所有条款，就仓促签署了协议。
 why_confusing: 主要突出行动缺乏考虑；precipitously 常用于幅度很大的骤变或陡降，两词在仓促义上有重叠。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -27,3 +27,10 @@ examples:
   - en: The garden abuts the river.
     zh: 花园紧邻河流。
 why_confusing: abut 是正式词；about 是介词/副词，拼写相近但不同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":43,"number":39,"term":"abut","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

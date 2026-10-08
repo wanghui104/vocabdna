@@ -31,3 +31,10 @@ confusables:
 examples:
   []
 why_confusing: amenity 常用复数 amenities 表示酒店、小区等设施。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":257,"number":220,"term":"amenity","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

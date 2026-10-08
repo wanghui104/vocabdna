@@ -33,3 +33,10 @@ examples:
   - en: Paintings adorn the hallway.
     zh: 画作装饰着走廊。
 why_confusing: 常用于较正式或书面语境。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":140,"number":125,"term":"adorn","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

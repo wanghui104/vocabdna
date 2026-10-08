@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 作为专名通常大写；slug 保留 the-red-cross。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":237,"number":1216,"term":"the Red Cross","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

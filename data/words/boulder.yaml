@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: 和 shoulder 拼写不同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":695,"number":584,"term":"boulder","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

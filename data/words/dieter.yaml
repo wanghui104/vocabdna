@@ -41,3 +41,10 @@ confusables:
 examples:
   []
 why_confusing: dieter 指节食或控制饮食的人。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":506,"number":1454,"term":"dieter","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

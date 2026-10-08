@@ -25,3 +25,10 @@ confusables:
 examples:
   []
 why_confusing: chilli/chili/chile 拼法因地区不同；和 chill 不同源。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":915,"number":777,"term":"chilli","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

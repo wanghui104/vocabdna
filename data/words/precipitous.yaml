@@ -62,3 +62,10 @@ examples:
   - en: The board warned against a precipitous withdrawal from the project.
     zh: 董事会提醒不要仓促退出该项目。
 why_confusing: 本页保留既有同源语义分支标签：precipitous 并非 precipitate 简单更换词尾形成的普通形容词。它不表示“多雨的”；与形容词 precipitate 的仓促义确有重叠，不能绝对割裂。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"3001-4000","row":740,"number":3672,"term":"precipitous","sourcePage":"http://toefl.xdf.cn/202110/11228665.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -69,3 +69,10 @@ examples:
   - en: The speaker took care not to offend the audience’s susceptibilities.
     zh: 演讲者注意不伤害听众的感情。
 why_confusing: 拼写变化 -ity → -ities；offend someone’s susceptibilities 指触伤某人的感情，不是让其感染疾病。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

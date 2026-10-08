@@ -29,3 +29,10 @@ examples:
   - en: You are absolutely right.
     zh: 你完全正确。
 why_confusing: 口语中 absolutely 也可表示强烈同意。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":33,"number":30,"term":"absolutely","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

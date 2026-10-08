@@ -27,3 +27,10 @@ confusables:
 examples:
   []
 why_confusing: dogg-（dog 双写 g）+ -ed 性质；顽强不放的形象来自狗。形容词读两音节 /ˈdɒɡɪd/，不要与动词 dog 的过去式混同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":652,"number":1587,"term":"dogged","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

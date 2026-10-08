@@ -48,3 +48,10 @@ confusables:
 examples:
   []
 why_confusing: contingently 比 contingent 少见，常见于正式、哲学或法律语境。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

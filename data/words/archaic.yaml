@@ -26,3 +26,10 @@ confusables:
 examples:
   - en: The poem uses several archaic words.
     zh: 这首诗使用了几个古旧词。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

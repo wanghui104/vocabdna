@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: boring 修饰事物；bored 修饰人的感受。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":692,"number":581,"term":"boring","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

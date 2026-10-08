@@ -28,3 +28,10 @@ examples:
   - en: Alchemy helped shape early chemistry.
     zh: 炼金术推动了早期化学的发展。
 why_confusing: 现代多指中世纪炼金术，也可比喻神奇转化。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":202,"number":174,"term":"alchemy","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

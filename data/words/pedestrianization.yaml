@@ -66,3 +66,10 @@ examples:
   - en: The pedestrianization of the square created more space for walking.
     zh: 广场步行化改造增加了供人步行的空间。
 why_confusing: -ize/-ization 拼写，美式常用；英式也可用。 通常作不可数过程名词，常用 pedestrianization of a street。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

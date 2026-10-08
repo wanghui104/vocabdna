@@ -34,3 +34,10 @@ examples:
   - en: The school thanked its benefactor publicly.
     zh: 学校公开感谢了它的捐助者。
 why_confusing: benefactor 给帮助；beneficiary 接受好处。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

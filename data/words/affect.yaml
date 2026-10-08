@@ -43,3 +43,10 @@ examples:
   - en: He affected a calm voice.
     zh: 他装出平静的语气。
 why_confusing: affect 通常是动词“影响”；effect 常作名词“结果/影响”。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":162,"number":141,"term":"affect","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

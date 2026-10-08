@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: conscience 是良心；conscious 是有意识的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":41,"number":1040,"term":"conscience","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

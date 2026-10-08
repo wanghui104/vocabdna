@@ -38,3 +38,10 @@ examples:
   - en: Poor visibility is hampering the search.
     zh: 能见度低正妨碍搜寻工作。
 why_confusing: 进行时用 be hampering；不要与表示受到妨碍的 hampered 混淆。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

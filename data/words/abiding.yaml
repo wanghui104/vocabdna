@@ -29,3 +29,10 @@ examples:
   - en: He has an abiding interest in history.
     zh: 他对历史有持久的兴趣。
 why_confusing: abiding 多修饰 interest, faith, influence 等抽象名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":10,"number":7,"term":"abiding","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

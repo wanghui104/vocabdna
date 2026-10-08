@@ -48,3 +48,10 @@ examples:
   - en: The report compares artifactual evidence from two settlements.
     zh: 报告比较了两个聚落的人工遗物证据。
 why_confusing: artifactual / artefactual 是美式、英式常见对应拼写。在科研语境中不等于人为造假；artificial 的含义更宽泛。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

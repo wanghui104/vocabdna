@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: 这是意大利语进入英语的历史复合，按 learner-useful 层面拆 archi + pelago。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":363,"number":308,"term":"archipelago","sourcePage":"http://toefl.xdf.cn/202110/11225213.html"}]
+  gre:
+    status: unchecked
+    matches: []

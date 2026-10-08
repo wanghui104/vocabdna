@@ -43,3 +43,10 @@ examples:
   - en: The new policy may accelerate growth.
     zh: 新政策可能加速增长。
 why_confusing: accelerate 可及物也可不及物。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":46,"number":42,"term":"accelerate","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

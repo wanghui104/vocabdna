@@ -58,3 +58,10 @@ examples:
   - en: We should not generalise from a single example.
     zh: 我们不应凭一个例子就作一般性推断。
 why_confusing: 英式常用 -ise 拼写。 generalize from ... = 根据……概括。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

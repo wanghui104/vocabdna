@@ -29,3 +29,10 @@ examples:
   - en: Walking can reduce stress.
     zh: 散步可以降低压力。
 why_confusing: reduce 是减少；deduce 是推论。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

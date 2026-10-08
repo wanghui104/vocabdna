@@ -43,3 +43,10 @@ confusables:
 examples:
   []
 why_confusing: at one's disposal 表示可供某人使用。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":586,"number":1525,"term":"disposal","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

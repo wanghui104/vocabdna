@@ -45,3 +45,10 @@ examples:
   - en: The discovery was accidental.
     zh: 这个发现是偶然的。
 why_confusing: accidental 是偶然的；incidental 是附带的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":55,"number":50,"term":"accidental","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

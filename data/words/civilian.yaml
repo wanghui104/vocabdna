@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: civilian casualties 指平民伤亡。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":957,"number":815,"term":"civilian","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

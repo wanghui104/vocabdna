@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: creep 可带令人不安的感觉；crawl 更中性。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":228,"number":1207,"term":"creep","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

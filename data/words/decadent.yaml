@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 现代还可形容甜点等过度奢华。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":326,"number":1298,"term":"decadent","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

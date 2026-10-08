@@ -37,3 +37,10 @@ examples:
   - en: The adoption of solar power reduced costs.
     zh: 太阳能的采用降低了成本。
 why_confusing: technology adoption 指技术采用；child adoption 指收养。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":139,"number":124,"term":"adoption","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

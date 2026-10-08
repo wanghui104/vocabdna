@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: in bud 指含苞待放。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":749,"number":632,"term":"bud","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

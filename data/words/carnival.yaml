@@ -27,3 +27,10 @@ confusables:
 examples:
   []
 why_confusing: 现代可泛指游乐会/嘉年华。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":828,"number":701,"term":"carnival","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

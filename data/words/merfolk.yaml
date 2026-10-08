@@ -27,3 +27,10 @@ examples:
   - en: In the tale, the merfolk guarded a city under the sea.
     zh: 故事里，人鱼族守护着海底城市。
 why_confusing: Merfolk is usually collective; for one female figure use mermaid, and for one male figure use merman.
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: amazing 描述令人惊奇的事物；amazed 描述感到惊奇的人。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":245,"number":208,"term":"amazing","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

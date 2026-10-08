@@ -50,3 +50,10 @@ confusables:
 examples:
   []
 why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":1053,"number":2950,"term":"magnetic","sourcePage":"http://toefl.xdf.cn/202110/11227531.html"},{"sheet":"2001-3000","row":1055,"number":2951,"term":"magnetic","sourcePage":"http://toefl.xdf.cn/202110/11227532.html"}]
+  gre:
+    status: unchecked
+    matches: []

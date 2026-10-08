@@ -45,3 +45,10 @@ examples:
   - en: Graduation was a major accomplishment.
     zh: 毕业是一项重大成就。
 why_confusing: accomplishment 可指成就，也可指技能。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":68,"number":62,"term":"accomplishment","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

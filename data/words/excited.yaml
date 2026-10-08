@@ -46,3 +46,10 @@ confusables:
 examples:
   []
 why_confusing: excited 感到兴奋；exciting 令人兴奋。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

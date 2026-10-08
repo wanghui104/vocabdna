@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: in concert with 表示与……协同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1128,"number":970,"term":"concert","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

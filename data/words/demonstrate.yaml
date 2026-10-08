@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: demonstrate skill/evidence/product 都常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":393,"number":1357,"term":"demonstrate","sourcePage":"http://toefl.xdf.cn/202110/11225503.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -35,3 +35,10 @@ examples:
   - en: The cleaner contains abrasive particles.
     zh: 这种清洁剂含有研磨颗粒。
 why_confusing: abrasive 也可形容人说话刺耳。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":26,"number":23,"term":"abrasive","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

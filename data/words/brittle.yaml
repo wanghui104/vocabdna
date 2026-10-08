@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: 也可比喻声音或情绪紧绷易碎。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":737,"number":622,"term":"brittle","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

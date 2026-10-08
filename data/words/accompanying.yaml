@@ -39,3 +39,10 @@ examples:
   - en: Read the accompanying notes.
     zh: 请阅读随附说明。
 why_confusing: 常用于 accompanying documents/notes。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":64,"number":58,"term":"accompanying","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

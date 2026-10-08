@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: cue 作名词是提示；queue 是队列，发音相同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":264,"number":1240,"term":"cue","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

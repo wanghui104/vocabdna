@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: 常用 A culminates in B，表示以 B 达到顶点。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":267,"number":1243,"term":"culminate","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

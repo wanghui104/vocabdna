@@ -50,3 +50,10 @@ examples:
   - en: The test measured the resilience of the foam.
     zh: 这项测试测量了泡沫材料的回弹性。
 why_confusing: 读音 /rɪˈzɪliəns/。resilience 与 resiliency 是同义名词形式；形容词用 resilient。 表示一般能力时通常不可数。resistance 侧重抵抗或阻止影响，resilience/resiliency 侧重受扰后的恢复或适应，具体含义随领域而变。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

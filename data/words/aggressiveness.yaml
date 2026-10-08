@@ -41,3 +41,10 @@ examples:
   - en: Excessive aggressiveness can damage cooperation.
     zh: 过度强势会破坏合作。
 why_confusing: 可以指行为攻击性，也可以指商业策略的强势。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":185,"number":160,"term":"aggressiveness","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

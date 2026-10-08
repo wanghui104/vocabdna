@@ -37,3 +37,10 @@ examples:
   - en: Researchers conducted a survey.
     zh: 研究人员开展了一项调查。
 why_confusing: conduct 作名词可指行为，作动词可指实施。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1152,"number":991,"term":"conduct","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: 比 drink 更正式，常见 food and beverage。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":622,"number":525,"term":"beverage","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

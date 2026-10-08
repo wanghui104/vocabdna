@@ -31,3 +31,10 @@ confusables:
 examples:
   []
 why_confusing: dissipate 可指雾/热/精力消散，也可指挥霍。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":601,"number":1539,"term":"dissipate","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

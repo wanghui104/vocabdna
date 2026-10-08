@@ -29,3 +29,10 @@ confusables:
 examples:
   []
 why_confusing: 更深层关联 tribus 部族：按群体分配；tribus 的更深来源不强拆成 tri- 三。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":623,"number":1560,"term":"distribute","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: departure time 出发时间；a departure from tradition 背离传统。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":415,"number":1376,"term":"departure","sourcePage":"http://toefl.xdf.cn/202110/11225503.html"}]
+  gre:
+    status: unchecked
+    matches: []

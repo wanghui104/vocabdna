@@ -33,3 +33,10 @@ examples:
   - en: Affluent neighborhoods often have more services.
     zh: 富裕社区通常拥有更多服务。
 why_confusing: affluent 常指富裕人群或地区；fluent 是说话流利。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":173,"number":151,"term":"affluent","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

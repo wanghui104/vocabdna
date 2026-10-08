@@ -35,3 +35,10 @@ examples:
   - en: The report advocates stronger protections.
     zh: 报告主张采取更强保护措施。
 why_confusing: 作名词读音重音常在首音节；作动词常表示公开支持。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":158,"number":138,"term":"advocate","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

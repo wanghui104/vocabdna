@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 常用于关系、组织或国家之间。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":714,"number":601,"term":"break all ties with","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

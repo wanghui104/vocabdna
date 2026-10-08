@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: engine cylinder 发动机气缸；cylindrical 是形容词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":295,"number":1268,"term":"cylinder","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

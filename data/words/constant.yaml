@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: constant noise/change 也可指持续不断。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":69,"number":1067,"term":"constant","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

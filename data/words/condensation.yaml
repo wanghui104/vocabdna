@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: 物理中常指冷凝。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1144,"number":983,"term":"condensation","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

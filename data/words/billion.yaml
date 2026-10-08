@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: 现代英语 billion 通常是 10^9。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":632,"number":532,"term":"billion","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: cast 的义项很多：投、铸、选角、投射。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":833,"number":706,"term":"cast","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

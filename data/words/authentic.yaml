@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: authentic 是真实可信；authority 是权威/权限。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":494,"number":419,"term":"authentic","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"}]
+  gre:
+    status: unchecked
+    matches: []

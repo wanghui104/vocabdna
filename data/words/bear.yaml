@@ -30,3 +30,10 @@ confusables:
 examples:
   []
 why_confusing: bare 是赤裸/仅仅，和 bear 同音但不同源。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":592,"number":502,"term":"bear","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -35,3 +35,10 @@ examples:
   - en: The helmet had signs of abrasion.
     zh: 头盔有磨损痕迹。
 why_confusing: abrasion 是磨损结果；abrasive 是会磨损的材料或态度。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":25,"number":22,"term":"abrasion","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

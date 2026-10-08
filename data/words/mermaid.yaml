@@ -28,3 +28,10 @@ examples:
   - en: The old sailors told a story about a mermaid singing near the rocks.
     zh: 老水手们讲了一个美人鱼在礁石旁歌唱的故事。
 why_confusing: Do not confuse mer- here with modern mere meaning 'only', or with Latin mar-/mare in marine.
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

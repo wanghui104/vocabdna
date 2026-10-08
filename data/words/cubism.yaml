@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: Cubism 是艺术流派名，常大写。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":261,"number":1237,"term":"cubism","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

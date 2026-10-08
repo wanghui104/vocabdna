@@ -24,3 +24,10 @@ confusables:
 examples:
   []
 why_confusing: 注意 cassette 指盒式磁带或类似盒装结构。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":421,"number":357,"term":"cassette","sourcePage":"http://toefl.xdf.cn/202110/11225214.html"}]
+  gre:
+    status: unchecked
+    matches: []

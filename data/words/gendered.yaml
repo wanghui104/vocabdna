@@ -37,3 +37,10 @@ examples:
   - en: The article challenges gendered assumptions about work.
     zh: 这篇文章质疑关于工作的性别化假设。
 why_confusing: gendered language/roles 指具有性别关联的语言或角色。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

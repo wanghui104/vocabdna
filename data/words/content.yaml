@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: content 内容重音常在第一音节；content 满足的重音常在第二音节。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":101,"number":1096,"term":"content","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

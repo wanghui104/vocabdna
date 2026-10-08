@@ -30,3 +30,10 @@ examples:
   - en: Fans waited for the actor's autograph.
     zh: 粉丝等待演员的亲笔签名。
 why_confusing: autograph 是签名；autobiography 是自传。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

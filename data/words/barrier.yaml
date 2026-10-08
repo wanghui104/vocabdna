@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: barrier 可指实体屏障，也可指 language/cultural barrier。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":580,"number":491,"term":"barrier","sourcePage":"http://toefl.xdf.cn/202110/11225216.html"}]
+  gre:
+    status: unchecked
+    matches: []

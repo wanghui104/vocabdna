@@ -39,3 +39,10 @@ examples:
   - en: The museum is accessible by subway.
     zh: 这个博物馆可以乘地铁到达。
 why_confusing: accessible 也常表示无障碍或易懂。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":52,"number":47,"term":"accessible","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

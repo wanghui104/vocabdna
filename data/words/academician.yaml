@@ -29,3 +29,10 @@ examples:
   - en: The academician presented new research.
     zh: 这位院士展示了新的研究。
 why_confusing: 在不同国家 academician 的制度含义可能不同。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":45,"number":41,"term":"academician","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

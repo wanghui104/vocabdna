@@ -50,3 +50,10 @@ examples:
   - en: Payment is due upon receipt of the invoice.
     zh: 收到发票后即应付款。
 why_confusing: receipt 是收据；recipe 是配方；receive 是动词“收到”。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

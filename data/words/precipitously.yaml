@@ -66,3 +66,10 @@ examples:
   - en: The ground drops precipitously beyond the fence.
     zh: 围栏外的地面陡然下落。
 why_confusing: fall/drop/decline precipitously 表示骤降；不表示“下大雨”。描述轻率行动时可与 precipitately 有意义重叠。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

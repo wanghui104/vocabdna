@@ -29,3 +29,10 @@ examples:
   - en: The factory manufactures medical equipment.
     zh: 这家工厂制造医疗设备。
 why_confusing: manufacture 强调生产过程；produce 更宽泛。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

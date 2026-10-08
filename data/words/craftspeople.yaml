@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: craftspeople is gender-neutral; craftsman/craftswoman are alternatives.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":206,"number":1189,"term":"craftspeople","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

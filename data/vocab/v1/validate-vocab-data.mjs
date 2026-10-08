@@ -32,6 +32,7 @@ const warnings = [];
 const rootIds = new Set();
 const wordSlugs = new Set();
 const duplicateWordCheck = new Set();
+const listCatalog = readJson(path.join(baseDir, "word-lists.json")).lists;
 
 for (const root of rootsDoc.roots) {
   pushIf(!root.id, issues, "root entry is missing id");
@@ -50,6 +51,16 @@ for (const word of wordsDoc.words) {
   pushIf(!word.term, issues, `${word.slug || word.id} is missing term`);
   pushIf(duplicateWordCheck.has(word.slug), issues, `duplicate word slug: ${word.slug}`);
   duplicateWordCheck.add(word.slug);
+  for (const id of Object.keys(listCatalog)) {
+    const membership = word.wordLists?.[id];
+    pushIf(!membership, issues, `${word.slug} is missing word list ${id}`);
+    if (!membership) continue;
+    pushIf(!["Y", "N", "unchecked"].includes(membership.status), issues, `${word.slug}.${id} invalid membership status`);
+    requireArray(membership.matches, `${word.slug}.${id}.matches`);
+    pushIf(membership.status === "Y" && membership.matches.length === 0, issues, `${word.slug}.${id} needs source evidence`);
+    pushIf(membership.status !== "Y" && membership.matches.length > 0, issues, `${word.slug}.${id} unexpected source evidence`);
+    pushIf(listCatalog[id].status === "unchecked" && membership.status !== "unchecked", issues, `${word.slug}.${id} source not yet checked`);
+  }
 
   requireArray(word.rootIds, `${word.slug}.rootIds`);
   requireArray(word.morphemes, `${word.slug}.morphemes`);
@@ -90,4 +101,3 @@ console.log(JSON.stringify(result, null, 2));
 if (issues.length > 0) {
   process.exitCode = 1;
 }
-

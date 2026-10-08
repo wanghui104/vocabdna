@@ -46,3 +46,10 @@ examples:
   - en: The rider is saddling her horse in the yard.
     zh: 骑手正在院子里给她的马装鞍。
 why_confusing: saddling a horse = 给马装鞍；saddling someone with work = 把工作负担加给某人。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

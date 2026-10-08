@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: convex 与 concave 凹的相对。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":144,"number":1134,"term":"convex","sourcePage":"http://toefl.xdf.cn/202110/11225498.html"}]
+  gre:
+    status: unchecked
+    matches: []

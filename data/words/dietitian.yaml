@@ -41,3 +41,10 @@ confusables:
 examples:
   []
 why_confusing: dietitian 是人；dietetics 是学科。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":507,"number":1455,"term":"dietitian","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -35,3 +35,10 @@ confusables:
 examples:
   []
 why_confusing: diet 不一定是减肥，也可指日常饮食结构。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":503,"number":1452,"term":"diet","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

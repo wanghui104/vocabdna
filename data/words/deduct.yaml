@@ -33,3 +33,10 @@ examples:
   - en: The fee will be deducted from your account.
     zh: 这笔费用将从你的账户中扣除。
 why_confusing: deduct 是扣除；deduce 是推论。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

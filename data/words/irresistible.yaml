@@ -40,3 +40,10 @@ confusables:
 examples:
   []
 why_confusing: 词根拆解按可见学习结构处理；来源不稳定、重复源词或专名物名保留为底层词根并在 morpheme note 中说明。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":796,"number":2720,"term":"irresistible","sourcePage":"http://toefl.xdf.cn/202110/11227526.html"},{"sheet":"4001-5000","row":105,"number":4096,"term":"irresistible","sourcePage":"http://toefl.xdf.cn/202111/11229814.html"}]
+  gre:
+    status: unchecked
+    matches: []

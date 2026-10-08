@@ -64,3 +64,10 @@ examples:
   - en: The essay approaches the question atheistically.
     zh: 这篇文章从无神论角度探讨这个问题。
 why_confusing: 较少见的正式副词；一般也可说 from an atheist perspective。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

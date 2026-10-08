@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: 可指艺术时期，也可泛指过度繁复。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":576,"number":487,"term":"baroque","sourcePage":"http://toefl.xdf.cn/202110/11225216.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 源表拼写为 `ploished`，疑为 polished；按源表 slug 保留，并用 polish + -ed 解释。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"3001-4000","row":655,"number":3593,"term":"ploished","sourcePage":"http://toefl.xdf.cn/202110/11228663.html"}]
+  gre:
+    status: unchecked
+    matches: []

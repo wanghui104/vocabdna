@@ -48,3 +48,10 @@ examples:
   - en: The delay could saddle the team with extra costs.
     zh: 延误可能使团队承担额外费用。
 why_confusing: saddle someone with something = 使某人承担某事；be saddled with debt = 背负债务。straddle 表示跨坐动作。saddle 不是 sad“悲伤”加后缀。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"4001-5000","row":254,"number":4224,"term":"saddle","sourcePage":"http://toefl.xdf.cn/202111/11229817.html"}]
+  gre:
+    status: unchecked
+    matches: []

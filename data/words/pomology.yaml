@@ -26,3 +26,10 @@ confusables:
 examples:
   - en: Pomology studies fruit varieties and orchard practices.
     zh: 果树学研究果实品种和果园栽培方法。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

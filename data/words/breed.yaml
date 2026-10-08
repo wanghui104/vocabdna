@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: breed 可指繁殖，也可指产生某种结果。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":725,"number":611,"term":"breed","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

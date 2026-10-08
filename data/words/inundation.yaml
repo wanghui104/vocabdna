@@ -38,3 +38,10 @@ examples:
   - en: The inundation damaged roads and homes near the river.
     zh: 洪水损坏了河边的道路和房屋。
 why_confusing: inundation 可指真正的洪水，也可比喻大量信息、请求、邮件等涌入。不要和 undulation（波动、起伏）混淆。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

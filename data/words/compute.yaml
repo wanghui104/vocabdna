@@ -31,3 +31,10 @@ confusables:
 examples:
   []
 why_confusing: 偏正式或技术语境；日常可用 calculate。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1117,"number":959,"term":"compute","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

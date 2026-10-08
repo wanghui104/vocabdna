@@ -46,3 +46,10 @@ examples:
   - en: A saddleless horse stood beside the gate.
     zh: 一匹未装鞍的马站在门边。
 why_confusing: 保留 saddle 词尾 e，再接 -less；骑马“不用鞍”的常用表达还有 ride bareback。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

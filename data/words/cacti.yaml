@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: cacti 是拉丁式复数；cactuses 也可见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":791,"number":667,"term":"cacti","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

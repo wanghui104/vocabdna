@@ -58,3 +58,10 @@ examples:
   - en: We should not generalize from a single example.
     zh: 我们不应凭一个例子就作一般性推断。
 why_confusing: -ize 拼写，美式常用，英式也可用。 generalize from ... = 根据……概括。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":238,"number":2201,"term":"generalize","sourcePage":"http://toefl.xdf.cn/202110/11227498.html"}]
+  gre:
+    status: unchecked
+    matches: []

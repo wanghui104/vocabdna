@@ -39,3 +39,10 @@ confusables:
 examples:
   []
 why_confusing: detectable 常用于痕迹、变化、信号可被检测到。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":473,"number":1422,"term":"detectable","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

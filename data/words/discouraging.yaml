@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: discouraging news/results 常指让人泄气。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":560,"number":1502,"term":"discouraging","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

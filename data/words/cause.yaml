@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: cause 作名词还可指事业/目标。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":856,"number":728,"term":"cause","sourcePage":"http://toefl.xdf.cn/202110/11225222.html"}]
+  gre:
+    status: unchecked
+    matches: []

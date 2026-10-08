@@ -58,3 +58,10 @@ examples:
   - en: The two populations are genetically distinct.
     zh: 这两个种群在遗传上存在区别。
 why_confusing: -ically 教学展开为 -ic + -al + -ly；不是 generic 的副词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":247,"number":2208,"term":"genetically","sourcePage":"http://toefl.xdf.cn/202110/11227498.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: confession 可指供词，也可指宗教忏悔。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1164,"number":1000,"term":"confession","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

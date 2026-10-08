@@ -33,3 +33,10 @@ examples:
   - en: A guide will accompany the group.
     zh: 一名导游将陪同这个团队。
 why_confusing: accompany 可指人陪伴，也可指音乐伴奏。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":63,"number":57,"term":"accompany","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

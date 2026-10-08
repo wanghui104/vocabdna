@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: desperate for something 是“非常需要”；desperate action 是“不顾后果的行动”。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":461,"number":1411,"term":"desperate","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

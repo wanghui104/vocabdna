@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: beaded 可指衣服串珠，也可指液滴成珠。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":587,"number":498,"term":"beaded","sourcePage":"http://toefl.xdf.cn/202110/11225216.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: decorative 可暗示主要不是实用功能。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":346,"number":1314,"term":"decorative","sourcePage":"http://toefl.xdf.cn/202110/11225502.html"}]
+  gre:
+    status: unchecked
+    matches: []

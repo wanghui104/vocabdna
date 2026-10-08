@@ -29,3 +29,10 @@ examples:
   - en: Many students admire her courage.
     zh: 许多学生钦佩她的勇气。
 why_confusing: admire 可表示钦佩，也可表示欣赏景色或作品。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":131,"number":118,"term":"admire","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -37,3 +37,10 @@ examples:
   - en: The plan aims for a reduction in waste.
     zh: 该计划旨在减少废弃物。
 why_confusing: reduction 是减少；deduction 是扣除或推论。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -39,3 +39,10 @@ examples:
   - en: The crab held the shell with its pincers.
     zh: 螃蟹用双螯夹住贝壳。
 why_confusing: pincers 与 pincer 在同一工具词族页；与 pinch 为同根关联。工具用复数，a pair of pincers 作主语时动词与 pair 一致。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

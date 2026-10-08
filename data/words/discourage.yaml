@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: discourage from doing 是常见搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":559,"number":1501,"term":"discourage","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 偏科学语境。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1034,"number":882,"term":"cometary","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

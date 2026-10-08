@@ -39,3 +39,10 @@ confusables:
 examples:
   []
 why_confusing: detective 作名词是侦探，作形容词可指侦查的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":471,"number":1421,"term":"detective","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

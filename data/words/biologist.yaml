@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: biologist 是人；biology 是学科。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":636,"number":536,"term":"biologist","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

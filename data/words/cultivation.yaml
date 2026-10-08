@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 农业义和抽象培养义都常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":269,"number":1245,"term":"cultivation","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: defend against attack; defend a claim/person。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":351,"number":1319,"term":"defend","sourcePage":"http://toefl.xdf.cn/202110/11225502.html"}]
+  gre:
+    status: unchecked
+    matches: []

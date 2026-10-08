@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 常用复数 congratulations。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":28,"number":1027,"term":"congratulation","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

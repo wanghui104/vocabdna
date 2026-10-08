@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: cram for an exam 指临时抱佛脚。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":210,"number":1193,"term":"cram","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

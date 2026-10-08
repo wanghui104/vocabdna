@@ -31,3 +31,10 @@ examples:
   - en: Researchers must adhere to ethical standards.
     zh: 研究人员必须遵守伦理标准。
 why_confusing: adhere to 可表示物理粘附，也可表示遵守规则。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":116,"number":106,"term":"adhere","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

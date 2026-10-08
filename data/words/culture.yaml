@@ -30,3 +30,10 @@ confusables:
 examples:
   []
 why_confusing: culture 不是 top-tab 派生，而是同根核心词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":270,"number":1246,"term":"culture","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

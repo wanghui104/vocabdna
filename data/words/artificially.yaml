@@ -50,3 +50,10 @@ examples:
   - en: The subsidy kept prices artificially low.
     zh: 补贴使价格被人为地维持在低位。
 why_confusing: 修饰动词或形容词，用 artificially；修饰名词用 artificial，如 artificial light。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

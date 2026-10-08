@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: combination lock 指密码锁。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1029,"number":877,"term":"combination","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

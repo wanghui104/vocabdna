@@ -57,3 +57,10 @@ examples:
   - en: The powder is readily dispersible in water.
     zh: 这种粉末容易分散在水中。
 why_confusing: 常用 dispersible in water；可分散不必然意味着可溶解，颗粒也可以悬浮在介质中。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

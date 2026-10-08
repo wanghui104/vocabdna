@@ -48,3 +48,10 @@ examples:
   - en: The two totals show a discrepancy of five units.
     zh: 两个合计数相差五个单位。
 why_confusing: 正确拼写 discrepancy /dɪˈskrepənsi/，不是 descrepancy。常用 a discrepancy between A and B、discrepancies in the records。difference 泛指差别；discrepancy 常突出本应一致却不符，不一定表示有人故意造假。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

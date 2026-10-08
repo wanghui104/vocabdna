@@ -35,3 +35,10 @@ examples:
   - en: The club inducted three new members.
     zh: 俱乐部吸纳了三名新成员。
 why_confusing: induct 是引入/就任；deduct 是扣除。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

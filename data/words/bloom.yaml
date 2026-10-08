@@ -23,3 +23,10 @@ confusables:
 examples:
   []
 why_confusing: Potential source spelling and etymology uncertainties are documented in the batch report.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":661,"number":557,"term":"bloom","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"},{"sheet":"2001-3000","row":1023,"number":2922,"term":"bloom","sourcePage":"http://toefl.xdf.cn/202110/11227531.html"}]
+  gre:
+    status: unchecked
+    matches: []

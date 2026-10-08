@@ -23,3 +23,10 @@ confusables:
 examples:
   []
 why_confusing: credit 可指信誉、学分、存款，也可作动词表示归功于。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":222,"number":1204,"term":"credit","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

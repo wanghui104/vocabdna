@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: cold calculation 可指冷静算计。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":794,"number":670,"term":"calculation","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

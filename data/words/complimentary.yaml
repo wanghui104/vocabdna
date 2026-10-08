@@ -30,3 +30,10 @@ confusables:
 examples:
   []
 why_confusing: complimentary ticket 是赠票，不是互补票。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1095,"number":938,"term":"complimentary","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

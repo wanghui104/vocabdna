@@ -45,3 +45,10 @@ examples:
   - en: The report examines communities straddling the border.
     zh: 报告研究了横跨边境的社区。
 why_confusing: 可表示稳定的跨界位置，不一定指正在移动；如 a town straddling a river。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

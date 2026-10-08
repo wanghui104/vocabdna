@@ -31,3 +31,10 @@ confusables:
 examples:
   []
 why_confusing: diplomacy 也可泛指圆滑得体的处理方式。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":535,"number":1482,"term":"diplomacy","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

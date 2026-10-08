@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: forest canopy 指森林冠层。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":808,"number":682,"term":"canopy","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: compensate for loss; compensate someone。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1073,"number":918,"term":"compensate","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

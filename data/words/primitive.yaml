@@ -55,3 +55,10 @@ examples:
   - en: In this theory, space is treated as a primitive.
     zh: 在这一理论中，空间被视为一个基本概念。
 why_confusing: primitive 不只指年代古老，也能指设施简陋或理论上的基本项。称当代人群或文化为 primitive 可能含贬义，应说明具体特征。prime、primary 是独立同源词，不是此词的变形。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"3001-4000","row":801,"number":3726,"term":"primitive","sourcePage":"http://toefl.xdf.cn/202110/11228666.html"}]
+  gre:
+    status: unchecked
+    matches: []

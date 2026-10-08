@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: contain information/liquid/fire.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":92,"number":1088,"term":"contain","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: chart 和 charter 同源但不同词页。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":899,"number":764,"term":"chart","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

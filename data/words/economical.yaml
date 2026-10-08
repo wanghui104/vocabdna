@@ -56,3 +56,10 @@ confusables:
 examples:
   []
 why_confusing: economical 节约、实惠；economic 经济的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":749,"number":1674,"term":"economical","sourcePage":"http://toefl.xdf.cn/202110/11225528.html"}]
+  gre:
+    status: unchecked
+    matches: []

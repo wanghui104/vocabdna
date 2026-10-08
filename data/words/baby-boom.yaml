@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: baby boomer 指婴儿潮一代。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":688,"number":577,"term":"baby boom","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: running commentary 指现场连续解说。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1042,"number":889,"term":"commentary","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

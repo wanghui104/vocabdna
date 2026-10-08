@@ -42,3 +42,10 @@ confusables:
 examples:
   []
 why_confusing: constitute a crime/majority/problem 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":77,"number":1073,"term":"constitute","sourcePage":"http://toefl.xdf.cn/202110/11225497.html"}]
+  gre:
+    status: unchecked
+    matches: []

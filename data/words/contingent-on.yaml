@@ -37,3 +37,10 @@ examples:
   - en: Funding is contingent on meeting the deadline.
     zh: 资金拨付取决于是否按期完成。
 why_confusing: contingent on 和 contingent upon 意思相同，upon 更正式。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

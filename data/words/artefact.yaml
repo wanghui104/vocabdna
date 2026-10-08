@@ -45,3 +45,10 @@ examples:
   - en: Heavy compression left visible artifacts around the letters.
     zh: 过度压缩使文字周围出现了明显的图像瑕疵。
 why_confusing: 英式英语常用 artefact；美式常用 artifact。两种拼写含义相同；相应形容词为 artefactual / artifactual。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

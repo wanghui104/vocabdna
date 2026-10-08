@@ -31,3 +31,10 @@ confusables:
 examples:
   []
 why_confusing: trample 只是拼写含 ample，不是 ample 的派生词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":264,"number":225,"term":"ample","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

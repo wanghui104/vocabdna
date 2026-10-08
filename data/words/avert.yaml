@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: avert 常接 crisis/disaster/eyes；avoid 更普通。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":516,"number":437,"term":"avert","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"}]
+  gre:
+    status: unchecked
+    matches: []

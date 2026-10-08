@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: 和 bust 半身像无关。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":773,"number":649,"term":"combustion","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"},{"sheet":"1-1000","row":1032,"number":880,"term":"combustion","sourcePage":"http://toefl.xdf.cn/202110/11225225.html"}]
+  gre:
+    status: unchecked
+    matches: []

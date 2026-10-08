@@ -47,3 +47,10 @@ examples:
   - en: Genetics helps explain how traits pass between generations.
     zh: 遗传学帮助解释性状如何代际传递。
 why_confusing: 表示学科时通常用单数动词：Genetics is ...。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":246,"number":2207,"term":"genetics","sourcePage":"http://toefl.xdf.cn/202110/11227498.html"}]
+  gre:
+    status: unchecked
+    matches: []

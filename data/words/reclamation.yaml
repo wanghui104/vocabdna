@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: land/waste reclamation 常见。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":963,"number":819,"term":"reclamation","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

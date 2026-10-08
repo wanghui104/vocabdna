@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: blunt 可褒可贬，取决于语境。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":665,"number":561,"term":"blunt","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -56,3 +56,10 @@ confusables:
 examples:
   []
 why_confusing: Potential source spelling issues and conservative etymology choices are documented in the batch report.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":567,"number":1509,"term":"disintegrate","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"},{"sheet":"2001-3000","row":727,"number":2652,"term":"disintegrate","sourcePage":"http://toefl.xdf.cn/202110/11227524.html"}]
+  gre:
+    status: unchecked
+    matches: []

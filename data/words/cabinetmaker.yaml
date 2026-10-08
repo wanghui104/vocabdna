@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 不是 government cabinet 的成员。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":788,"number":664,"term":"cabinetmaker","sourcePage":"http://toefl.xdf.cn/202110/11225220.html"}]
+  gre:
+    status: unchecked
+    matches: []

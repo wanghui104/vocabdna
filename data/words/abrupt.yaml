@@ -27,3 +27,10 @@ examples:
   - en: The meeting came to an abrupt end.
     zh: 会议突然结束了。
 why_confusing: abrupt 可指变化突然，也可指态度生硬。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":27,"number":24,"term":"abrupt","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

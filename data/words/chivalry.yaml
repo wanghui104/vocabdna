@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: 现代常有礼貌待人的含义。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":920,"number":781,"term":"chivalry","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

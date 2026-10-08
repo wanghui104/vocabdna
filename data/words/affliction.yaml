@@ -35,3 +35,10 @@ examples:
   - en: The disease became a lifelong affliction.
     zh: 这种疾病成了终身折磨。
 why_confusing: affliction 指苦难；infliction 指施加某种痛苦的行为。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":172,"number":150,"term":"affliction","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -24,3 +24,10 @@ confusables:
 examples:
   []
 why_confusing: chill out 是放松；chilli 是辣椒，不同源。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":912,"number":775,"term":"chill","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

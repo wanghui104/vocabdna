@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: dilution 是名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":524,"number":1471,"term":"dilution","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

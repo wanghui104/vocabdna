@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: break 的短语义很多，要按介词识别。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

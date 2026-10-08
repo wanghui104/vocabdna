@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: barge into 表示鲁莽闯入，是动词搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":572,"number":484,"term":"barge","sourcePage":"http://toefl.xdf.cn/202110/11225216.html"}]
+  gre:
+    status: unchecked
+    matches: []

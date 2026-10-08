@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: cabinet 可指家具，也可指政府内阁。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -23,3 +23,10 @@ confusables:
 examples:
   []
 why_confusing: desire 可作名词或动词；desirable 是“令人想要的”。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":457,"number":1408,"term":"desire","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

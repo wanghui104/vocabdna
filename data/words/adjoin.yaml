@@ -35,3 +35,10 @@ examples:
   - en: The garden adjoins the museum.
     zh: 花园与博物馆相邻。
 why_confusing: adjoin 常表示地块、房间、建筑相接。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":121,"number":109,"term":"adjoin","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

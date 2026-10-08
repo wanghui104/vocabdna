@@ -51,3 +51,10 @@ examples:
   - en: The same event was described discrepantly in the two reports.
     zh: 两份报告对同一事件的描述存在出入。
 why_confusing: 较少见的正式副词；一般写作中 inconsistently 或 in different ways 往往更自然。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

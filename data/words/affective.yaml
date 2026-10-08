@@ -47,3 +47,10 @@ examples:
   - en: The study measured affective responses.
     zh: 该研究测量了情感反应。
 why_confusing: affective 是情感的；effective 是有效的。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":165,"number":144,"term":"affective","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -45,3 +45,10 @@ examples:
   - en: The editorial criticized him as a straddler on the issue.
     zh: 社论批评他在该议题上是个骑墙派。
 why_confusing: 较少见的人物名词；比喻义常带批评色彩。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

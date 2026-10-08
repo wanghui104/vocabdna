@@ -35,3 +35,10 @@ examples:
   - en: The instrument's accuracy is high.
     zh: 这台仪器的准确性很高。
 why_confusing: accuracy 偏正确性；precision 偏精密一致。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":82,"number":74,"term":"accuracy","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

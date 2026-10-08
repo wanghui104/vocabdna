@@ -23,3 +23,10 @@ examples:
   - en: The policy aims to reduce waste.
     zh: 该政策旨在减少浪费。
 why_confusing: aim at + 名词/动名词；aim to do 表示打算做。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":195,"number":169,"term":"aim","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

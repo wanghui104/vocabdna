@@ -62,3 +62,10 @@ examples:
   - en: An inexperienced buyer may be susceptible to being misled.
     zh: 没有经验的买家可能容易受误导。
 why_confusing: to 后接名词或动名词：susceptible to damage / to being misled；不能照搬不定式写成 susceptible to be misled。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"4001-5000","row":933,"number":4809,"term":"susceptible to","sourcePage":"http://toefl.xdf.cn/202111/11229829.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: chronological order 是按时间顺序。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":932,"number":793,"term":"chronological","sourcePage":"http://toefl.xdf.cn/202110/11225223.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -46,3 +46,10 @@ examples:
   - en: The two surveys produced discrepant results.
     zh: 两次调查得出了不一致的结果。
 why_confusing: 形容词修饰 results、accounts、figures 等；名词用 discrepancy。可用 discrepant from 表示与某个标准不一致。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -42,3 +42,10 @@ examples:
   - en: He hurdles the fence on his way to the track.
     zh: 他在前往跑道的路上跨过了围栏。
 why_confusing: 比赛项目用 hurdles；a hurdle 指一个栏架或一道难关。the hurdles 指一个项目时可接单数动词，而 several hurdles 指多个栏架／难关时接复数动词。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: dismember 可真实指肢解，也可比喻分割组织/国家。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":572,"number":1513,"term":"dismember","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

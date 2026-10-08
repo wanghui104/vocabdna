@@ -49,3 +49,10 @@ examples:
   - en: The samples were examined forensically before the report was written.
     zh: 撰写报告前，这些样本接受了司法鉴定。
 why_confusing: 拼写为 forensically，不是 forensicly。常与 examine、analyze 等动词连用。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

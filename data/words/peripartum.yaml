@@ -32,3 +32,10 @@ examples:
   - en: The interviews were conducted peripartum.
     zh: 访谈在分娩前后进行。
 why_confusing: antepartum 为分娩前，intrapartum 为分娩过程中，peripartum 为分娩前后，postpartum 为分娩后；具体时间范围依上下文而定。 peripartum 不等于仅指产后的 postpartum。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

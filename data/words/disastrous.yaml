@@ -35,3 +35,10 @@ confusables:
 examples:
   []
 why_confusing: disastrous result/effect 是常见搭配。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":540,"number":1487,"term":"disastrous","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

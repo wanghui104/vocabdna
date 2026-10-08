@@ -37,3 +37,10 @@ examples:
   - en: Nurses administer the vaccine carefully.
     zh: 护士小心施用疫苗。
 why_confusing: administer medicine 是给药；administer a program 是管理项目。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":126,"number":114,"term":"administer","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

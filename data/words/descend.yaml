@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: descend from 表示源自/传自祖先。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":446,"number":1400,"term":"descend","sourcePage":"http://toefl.xdf.cn/202110/11225503.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: 可形容光，也可形容表现非常精彩。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":314,"number":1286,"term":"dazzling","sourcePage":"http://toefl.xdf.cn/202110/11225501.html"}]
+  gre:
+    status: unchecked
+    matches: []

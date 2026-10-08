@@ -58,3 +58,10 @@ examples:
   - en: The catalogue discusses the work’s primitivist style.
     zh: 图录讨论了这件作品的原始主义风格。
 why_confusing: 不是“原始人”的中性称呼；指艺术或思想倾向的参与者，或描述这种倾向。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

@@ -33,3 +33,10 @@ confusables:
 examples:
   []
 why_confusing: 现代无独立可用的 dizz 基词；保留 dizzy，历史 -ig 对应英语 -y，但更深底层不确定。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":646,"number":1581,"term":"dizzying","sourcePage":"http://toefl.xdf.cn/202110/11225508.html"}]
+  gre:
+    status: unchecked
+    matches: []

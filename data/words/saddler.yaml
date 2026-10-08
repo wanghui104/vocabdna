@@ -46,3 +46,10 @@ examples:
   - en: The saddler repaired the worn leather seat.
     zh: 马鞍匠修好了磨损的皮革鞍座。
 why_confusing: 职业名词；不是泛指骑马的人（rider）。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

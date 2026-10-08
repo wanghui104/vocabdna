@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: anesthetic 是药物或麻醉相关；aesthetic 是审美。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":161,"number":140,"term":"anesthetic","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"},{"sheet":"1-1000","row":283,"number":243,"term":"anesthetic","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

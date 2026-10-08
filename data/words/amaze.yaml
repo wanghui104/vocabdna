@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: amaze 是动词；amazing 形容事物令人惊奇，amazed 形容人感到惊奇。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":243,"number":206,"term":"amaze","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

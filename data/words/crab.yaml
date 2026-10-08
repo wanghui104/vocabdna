@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: crab 也可作动词或形容脾气差的人，但本批用名词义。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":201,"number":1186,"term":"crab","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

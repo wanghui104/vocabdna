@@ -33,3 +33,10 @@ examples:
   - en: They found an abandoned cabin near the road.
     zh: 他们在路边发现了一间废弃小屋。
 why_confusing: abandoned 可形容地点、物品或人，也可有情感色彩。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":4,"number":2,"term":"abandoned","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -42,4 +42,11 @@ confusables:
   []
 examples:
   []
-why_confusing: 
+why_confusing:
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":1014,"number":1913,"term":"expressive","sourcePage":"http://toefl.xdf.cn/202110/11225603.html"}]
+  gre:
+    status: unchecked
+    matches: []

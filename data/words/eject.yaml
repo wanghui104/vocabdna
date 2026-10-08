@@ -27,3 +27,10 @@ examples:
   - en: The pilot ejected from the aircraft.
     zh: 飞行员从飞机中弹射出来。
 why_confusing: eject 可指弹出；evict 常指依法驱逐。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":765,"number":1690,"term":"eject","sourcePage":"http://toefl.xdf.cn/202110/11225528.html"}]
+  gre:
+    status: unchecked
+    matches: []

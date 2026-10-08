@@ -23,3 +23,10 @@ confusables:
 examples:
   []
 why_confusing: to one's dismay 表示“令某人沮丧/惊慌的是”。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":570,"number":1512,"term":"dismay","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

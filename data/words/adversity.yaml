@@ -41,3 +41,10 @@ examples:
   - en: The community showed strength in adversity.
     zh: 这个社区在逆境中展现力量。
 why_confusing: adversity 强调困境/逆境，不只是一个 negative effect。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":157,"number":137,"term":"adversity","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

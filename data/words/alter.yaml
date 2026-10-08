@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: alter 通常指局部修改；change 更宽泛。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":228,"number":195,"term":"alter","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

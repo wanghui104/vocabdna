@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: consist of/in/with 的搭配不同。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

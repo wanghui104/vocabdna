@@ -33,3 +33,10 @@ examples:
   - en: The course covers advanced biology.
     zh: 这门课讲授高级生物学。
 why_confusing: advanced age 指高龄；advanced technology 指先进技术。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":149,"number":130,"term":"advanced","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

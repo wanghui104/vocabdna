@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: concept 和 conception 相近，但 concept 更强调抽象概念本身。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1124,"number":966,"term":"concept","sourcePage":"http://toefl.xdf.cn/202110/11225228.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -21,3 +21,10 @@ examples:
   - en: The old house was built from adobe.
     zh: 这栋老房子由土坯建成。
 why_confusing: Adobe 首字母大写时也可指公司名；这里是普通名词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":136,"number":122,"term":"adobe","sourcePage":"http://toefl.xdf.cn/202110/11225208.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: corrosive chemicals; corrosive criticism 可比喻。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":169,"number":1158,"term":"corrosive","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

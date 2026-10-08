@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: 不要和 bow 弓形混为一条词源。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":704,"number":592,"term":"bowl","sourcePage":"http://toefl.xdf.cn/202110/11225218.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -66,3 +66,10 @@ examples:
   - en: The precipitated solid was collected on a filter.
     zh: 析出的固体被收集在滤纸上。
 why_confusing: was precipitated by ... 表示由……引发；precipitated solid 指析出的固体。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

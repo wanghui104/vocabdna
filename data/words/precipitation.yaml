@@ -62,3 +62,10 @@ examples:
   - en: The committee acted with unnecessary precipitation.
     zh: 委员会行事过于仓促。
 why_confusing: precipitation 包括雨、雪、冰雹等，不应只译为“降雨量”。仓促义较正式；precipitous 不表示 rainy。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"3001-4000","row":739,"number":3671,"term":"precipitation","sourcePage":"http://toefl.xdf.cn/202110/11228665.html"}]
+  gre:
+    status: unchecked
+    matches: []

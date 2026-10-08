@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: detergent 是清洁剂，不是 deterrent 威慑物。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":477,"number":1426,"term":"detergent","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

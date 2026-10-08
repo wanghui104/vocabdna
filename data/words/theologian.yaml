@@ -48,3 +48,10 @@ examples:
   - en: The theologian compared several interpretations of the passage.
     zh: 这位神学家比较了对该段文本的几种解释。
 why_confusing: theologian 指研究领域，theist 指是否相信神存在。不能把所有有神论者都称为神学家。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

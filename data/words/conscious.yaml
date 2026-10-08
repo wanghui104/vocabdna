@@ -42,3 +42,10 @@ confusables:
 examples:
   []
 why_confusing: be conscious of; conscious effort/decision.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":43,"number":1042,"term":"conscious","sourcePage":"http://toefl.xdf.cn/202110/11225496.html"}]
+  gre:
+    status: unchecked
+    matches: []

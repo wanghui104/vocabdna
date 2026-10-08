@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: biography 是别人写的传记；autobiography 是自传。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":501,"number":425,"term":"biography","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"},{"sheet":"1-1000","row":633,"number":533,"term":"biography","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

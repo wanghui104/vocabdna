@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: deciduous trees 落叶树；evergreen 常绿。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":334,"number":1304,"term":"deciduous","sourcePage":"http://toefl.xdf.cn/202110/11225502.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: displace 可指物理位移，也可指取代。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":582,"number":1522,"term":"displace","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -60,3 +60,10 @@ examples:
   - en: Birds play an important role in seed dispersal.
     zh: 鸟类在种子传播中发挥着重要作用。
 why_confusing: 读音 /dɪˈspɜːrsəl/。常见 seed dispersal、the dispersal of a crowd。与 dispersion 在一般散布义上重叠；光学色散和统计离散程度通常用 dispersion。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":581,"number":1521,"term":"dispersal","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

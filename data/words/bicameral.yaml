@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 美国国会就是 bicameral legislature。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":625,"number":528,"term":"bicameral","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

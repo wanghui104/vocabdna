@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: Historical uncertainties and source-spelling issues are documented in the batch report when relevant.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"2001-3000","row":535,"number":2472,"term":"imagery","sourcePage":"http://toefl.xdf.cn/202110/11227519.html"}]
+  gre:
+    status: unchecked
+    matches: []

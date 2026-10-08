@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: cubic meter 是立方米。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":263,"number":1239,"term":"cubic","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -25,3 +25,10 @@ examples:
   - en: Open the windows to air the room.
     zh: 打开窗户给房间通风。
 why_confusing: air 作动词可指通风；on the air 指广播中。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":197,"number":170,"term":"air","sourcePage":"http://toefl.xdf.cn/202110/11225210.html"}]
+  gre:
+    status: unchecked
+    matches: []

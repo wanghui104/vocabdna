@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: composition 可指构成，也可指作文/乐曲。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1102,"number":945,"term":"composition","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

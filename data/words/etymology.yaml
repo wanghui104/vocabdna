@@ -27,3 +27,10 @@ confusables:
 examples:
   - en: Etymology can reveal old metaphors hidden inside modern words.
     zh: 词源学能揭示现代词汇中隐藏的古老隐喻。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

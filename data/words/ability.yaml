@@ -29,3 +29,10 @@ examples:
   - en: The test measures reading ability.
     zh: 这项测试衡量阅读能力。
 why_confusing: ability 泛指能力；capability 更强调可发挥的能力或性能。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":11,"number":8,"term":"ability","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

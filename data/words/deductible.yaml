@@ -39,3 +39,10 @@ examples:
   - en: Some business expenses are deductible.
     zh: 一些商业开支是可以扣除的。
 why_confusing: deductible 可作形容词，也可作保险中的免赔额名词。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

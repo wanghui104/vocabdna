@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: discernible 和 discernable 都可见，TOEFL 行给出等同提示。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":543,"number":1490,"term":"discernible","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

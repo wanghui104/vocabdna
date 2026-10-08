@@ -46,3 +46,10 @@ confusables:
 examples:
   []
 why_confusing: crystallized sugar 是结晶糖；crystallized idea 是成形的想法。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":259,"number":1235,"term":"crystallized","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

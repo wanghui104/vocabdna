@@ -30,3 +30,10 @@ confusables:
 examples:
   []
 why_confusing: civil war 是内战；civil rights 是公民权。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":951,"number":810,"term":"civil","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

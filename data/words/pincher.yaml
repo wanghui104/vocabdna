@@ -38,3 +38,10 @@ examples:
   - en: Keep your fingers away from the crab’s pinchers.
     zh: 把手指远离螃蟹的螯。
 why_confusing: 单独使用频率较低；工具或螯常见复数 pinchers，也拼 pincers。不要与犬种名中的 pinscher 混淆。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

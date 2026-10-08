@@ -48,6 +48,12 @@ for (const word of wordsDoc.words) {
   const exists = existingWordFiles.has(word.slug);
 
   if (exists && !(await canWriteExistingFile(filePath))) {
+    if (shouldWrite && word.wordLists) {
+      const existing = await readFile(filePath, "utf8");
+      const membershipYaml = yaml.slice(yaml.indexOf("word_lists:\n"), yaml.indexOf("components:\n"));
+      const withoutMembership = existing.replace(/^word_lists:\r?\n(?:[ \t].*\r?\n)*/m, "");
+      await writeGeneratedFileWithRetry(filePath, withoutMembership.trimEnd() + "\n" + membershipYaml);
+    }
     generated.skippedWords.push(word.slug);
     continue;
   }
@@ -56,6 +62,15 @@ for (const word of wordsDoc.words) {
     await writeGeneratedFileWithRetry(filePath, yaml);
   }
   generated.words.push(word.slug);
+}
+
+const supplementalMemberships = await readJson(path.join(sourceDir, "word-list-supplement.json"));
+for (const [slug, memberships] of Object.entries(supplementalMemberships)) {
+  if (wordsBySlug.has(slug)) continue;
+  const filePath = path.join(wordsOutputDir, `${slug}.yaml`);
+  const existing = await readFile(filePath, "utf8");
+  const membershipYaml = "word_lists:\n" + Object.entries(memberships).map(([id, membership]) => `  ${id}:\n    status: ${plain(membership.status)}\n    matches: ${JSON.stringify(membership.matches)}`).join("\n") + "\n";
+  if (shouldWrite) await writeGeneratedFileWithRetry(filePath, existing.replace(/^word_lists:\r?\n(?:[ \t].*\r?\n)*/m, "").trimEnd() + "\n" + membershipYaml);
 }
 
 for (const root of rootsDoc.roots) {
@@ -93,6 +108,11 @@ console.log(
 );
 
 async function writeGeneratedFileWithRetry(filePath, yaml) {
+  try {
+    if (await readFile(filePath, "utf8") === yaml) return;
+  } catch (error) {
+    if (error.code !== "ENOENT") throw error;
+  }
   const retryableCodes = new Set(["UNKNOWN", "EPERM", "EBUSY", "ETXTBSY"]);
   let lastError;
   for (let attempt = 0; attempt < 6; attempt += 1) {
@@ -187,6 +207,8 @@ word: ${plain(word.term)}
 pos: ${plain(formatPartOfSpeech(word.partOfSpeech))}
 zh: ${plain(definition.zh)}
 en: ${plain(definition.en)}
+word_lists:
+${Object.entries(word.wordLists ?? {}).map(([id, membership]) => `  ${id}:\n    status: ${plain(membership.status)}\n    matches: ${JSON.stringify(membership.matches)}`).join("\n")}
 components:
 ${word.morphemes.map((morpheme) => formatWordComponent(morpheme, rootsById)).join("\n")}
 word_family:

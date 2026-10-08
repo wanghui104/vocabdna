@@ -33,3 +33,10 @@ examples:
   - en: I accidentally deleted the file.
     zh: 我不小心删除了文件。
 why_confusing: 口语里可表示不小心。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":56,"number":51,"term":"accidentally","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

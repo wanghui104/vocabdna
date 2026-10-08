@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: circumference 是周长，不是面积。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":945,"number":804,"term":"circumference","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

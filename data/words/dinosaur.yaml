@@ -26,3 +26,10 @@ confusables:
 examples:
   []
 why_confusing: dinosaur 也可比喻过时的人或制度。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":532,"number":1479,"term":"dinosaur","sourcePage":"http://toefl.xdf.cn/202110/11225505.html"}]
+  gre:
+    status: unchecked
+    matches: []

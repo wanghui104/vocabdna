@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: blaze a trail 表示开辟道路。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":651,"number":548,"term":"blaze","sourcePage":"http://toefl.xdf.cn/202110/11225217.html"}]
+  gre:
+    status: unchecked
+    matches: []

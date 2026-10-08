@@ -22,3 +22,10 @@ confusables:
 examples:
   []
 why_confusing: 注意具体词性和搭配，不要只按中文直译。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":371,"number":316,"term":"arid","sourcePage":"http://toefl.xdf.cn/202110/11225213.html"}]
+  gre:
+    status: unchecked
+    matches: []

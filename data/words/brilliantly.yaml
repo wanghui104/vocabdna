@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: brilliantly 可指光，也可指表现出色。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":731,"number":616,"term":"brilliantly","sourcePage":"http://toefl.xdf.cn/202110/11225219.html"}]
+  gre:
+    status: unchecked
+    matches: []

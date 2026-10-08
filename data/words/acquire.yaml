@@ -29,3 +29,10 @@ examples:
   - en: Children acquire language naturally.
     zh: 儿童自然习得语言。
 why_confusing: acquire 是获得；require 是要求。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":96,"number":86,"term":"acquire","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

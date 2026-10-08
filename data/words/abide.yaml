@@ -25,3 +25,10 @@ examples:
   - en: She cannot abide unfair treatment.
     zh: 她无法忍受不公平待遇。
 why_confusing: abide 常和 by 搭配表示遵守；作“忍受”时多用于否定。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":8,"number":6,"term":"abide","sourcePage":"http://toefl.xdf.cn/202110/11225205.html"}]
+  gre:
+    status: unchecked
+    matches: []

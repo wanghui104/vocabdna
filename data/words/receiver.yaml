@@ -57,3 +57,10 @@ examples:
   - en: The radio receiver picked up a clear signal.
     zh: 无线电接收器接收到清晰信号。
 why_confusing: receiver 常指设备或收件人；recipient 更偏正式地指收到某物的人。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

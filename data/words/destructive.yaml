@@ -38,3 +38,10 @@ confusables:
 examples:
   []
 why_confusing: destructive describes the thing that causes damage.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":469,"number":1419,"term":"destructive","sourcePage":"http://toefl.xdf.cn/202110/11225504.html"}]
+  gre:
+    status: unchecked
+    matches: []

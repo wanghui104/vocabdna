@@ -66,3 +66,10 @@ examples:
   - en: Cafes line the pedestrianized street.
     zh: 这条步行街两旁都是咖啡馆。
 why_confusing: -ize/-ization 拼写，美式常用；英式也可用。 这里是过去分词形容词或动词过去形式；注意与 pedestrian 的“平庸的”义区别。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

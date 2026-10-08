@@ -28,3 +28,10 @@ examples:
   - en: The mountain is visible from the window.
     zh: 从窗户可以看见那座山。
 why_confusing: visible 是可见；visual 是视觉的。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

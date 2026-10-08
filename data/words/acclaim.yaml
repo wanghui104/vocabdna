@@ -31,3 +31,10 @@ examples:
   - en: The film won critical acclaim.
     zh: 这部电影赢得评论界赞誉。
 why_confusing: acclaim 是赞誉；claim 是声称或要求。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":58,"number":53,"term":"acclaim","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

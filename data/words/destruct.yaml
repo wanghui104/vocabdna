@@ -33,3 +33,10 @@ examples:
   - en: The device is designed to self-destruct.
     zh: 这个装置被设计为自毁。
 why_confusing: destruct 较正式或技术化；destroy 更常用。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

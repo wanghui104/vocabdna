@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 常用于 ideas/groups/materials coalesce。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":991,"number":843,"term":"coalesce","sourcePage":"http://toefl.xdf.cn/202110/11225224.html"}]
+  gre:
+    status: unchecked
+    matches: []

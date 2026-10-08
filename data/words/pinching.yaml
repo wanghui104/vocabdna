@@ -38,3 +38,10 @@ examples:
   - en: The tight strap is pinching my shoulder.
     zh: 紧绷的带子夹得我的肩膀疼。
 why_confusing: 保留完整词干 pinch，直接加 -ing；不要写成 pinching 的双写辅音形式。penny-pinching 指过分节省、吝啬。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

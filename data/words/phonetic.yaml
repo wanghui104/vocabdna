@@ -21,3 +21,10 @@ examples:
   - en: The dictionary includes phonetic symbols.
     zh: 这本词典包含音标。
 why_confusing: phonetic 偏语音学；phonics 偏自然拼读教学。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

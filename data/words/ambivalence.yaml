@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: ambivalence 是名词；ambivalent 是形容词。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":250,"number":213,"term":"ambivalence","sourcePage":"http://toefl.xdf.cn/202110/11225211.html"}]
+  gre:
+    status: unchecked
+    matches: []

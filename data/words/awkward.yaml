@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: awkward 可形容动作、局面、沉默或问题。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":526,"number":447,"term":"awkward","sourcePage":"http://toefl.xdf.cn/202110/11225215.html"}]
+  gre:
+    status: unchecked
+    matches: []

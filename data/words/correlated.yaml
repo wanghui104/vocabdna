@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: correlated with 不表示必然因果。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":165,"number":1155,"term":"correlated","sourcePage":"http://toefl.xdf.cn/202110/11225499.html"}]
+  gre:
+    status: unchecked
+    matches: []

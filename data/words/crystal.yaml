@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: crystal clear 表示非常清楚。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":255,"number":1232,"term":"crystal","sourcePage":"http://toefl.xdf.cn/202110/11225500.html"}]
+  gre:
+    status: unchecked
+    matches: []

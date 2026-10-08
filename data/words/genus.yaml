@@ -28,3 +28,10 @@ examples:
   - en: These two species belong to the same genus.
     zh: 这两个物种属于同一个属。
 why_confusing: 读音 /ˈdʒiːnəs/。 常见复数 genera /ˈdʒenərə/，也有 genuses；genus 不是 gene（基因）。
+word_lists:
+  toefl-5400:
+    status: N
+    matches: []
+  gre:
+    status: unchecked
+    matches: []

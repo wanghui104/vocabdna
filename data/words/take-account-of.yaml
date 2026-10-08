@@ -24,3 +24,10 @@ examples:
   - en: The plan must take account of local needs.
     zh: 这个计划必须考虑当地需求。
 why_confusing: 和 take into account 意思接近。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":74,"number":66,"term":"take account of","sourcePage":"http://toefl.xdf.cn/202110/11225207.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -20,3 +20,10 @@ confusables:
 examples:
   []
 why_confusing: barn 与 bar 不同源。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":575,"number":486,"term":"barn","sourcePage":"http://toefl.xdf.cn/202110/11225216.html"}]
+  gre:
+    status: unchecked
+    matches: []

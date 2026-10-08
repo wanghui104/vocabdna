@@ -36,3 +36,10 @@ confusables:
 examples:
   []
 why_confusing: disinterested 标准义是公正无私，不是 uninterested 的“不感兴趣”。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1001-2000","row":568,"number":1510,"term":"disinterested","sourcePage":"http://toefl.xdf.cn/202110/11225507.html"}]
+  gre:
+    status: unchecked
+    matches: []

@@ -28,3 +28,10 @@ confusables:
 examples:
   []
 why_confusing: 可指自然荒凉，也可指思想或成果贫乏。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":579,"number":490,"term":"barrenness","sourcePage":"http://toefl.xdf.cn/202110/11225216.html"}]
+  gre:
+    status: unchecked
+    matches: []

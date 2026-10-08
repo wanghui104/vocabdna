@@ -32,3 +32,10 @@ confusables:
 examples:
   []
 why_confusing: 可指音乐、文字或结构重组。
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"1-1000","row":1101,"number":944,"term":"recompose","sourcePage":"http://toefl.xdf.cn/202110/11225226.html"}]
+  gre:
+    status: unchecked
+    matches: []

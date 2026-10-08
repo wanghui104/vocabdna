@@ -34,3 +34,10 @@ confusables:
 examples:
   []
 why_confusing: Potential source spelling issues are documented in the batch report.
+word_lists:
+  toefl-5400:
+    status: Y
+    matches: [{"sheet":"3001-4000","row":130,"number":3121,"term":"moisten","sourcePage":"http://toefl.xdf.cn/202110/11228652.html"}]
+  gre:
+    status: unchecked
+    matches: []
