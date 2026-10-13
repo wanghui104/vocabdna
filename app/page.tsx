@@ -3,6 +3,7 @@
 import { Fragment, useCallback, useEffect, useMemo, useState } from 'react';
 import { StudyPanel } from '@/components/study-panel';
 import { MobileApp } from '@/components/mobile-app';
+import { installSummaryNavigation } from '@/lib/summary-navigation.mjs';
 import '@/lib/study.css';
 import { BookOpen, ChevronDown, Network, Search, X } from 'lucide-react';
 
@@ -44,7 +45,7 @@ function parseRoute(): RouteState {
 function navigate(next: RouteState) {
   const hash = `#${next.type}/${next.id}`;
   if (window.location.hash === hash) window.dispatchEvent(new HashChangeEvent('hashchange'));
-  else window.location.hash = hash;
+  else window.dispatchEvent(new CustomEvent('vocabdna-route', { detail: hash }));
 }
 
 export default function Home() {
@@ -70,6 +71,11 @@ export default function Home() {
       String(freezeTopPane),
     ); } catch { /* Dictionary remains usable without storage. */ }
   }, [freezeTopPane]);
+
+  useEffect(() => installSummaryNavigation({
+    showSummary: () => setShowStudy(true),
+    showDictionary: () => setShowStudy(false),
+  }), []);
 
   const wordResults = useMemo(() => searchWords(query).slice(0, 9), [query]);
   const morphemeResults = useMemo(

@@ -18,6 +18,7 @@ const supplement = JSON.parse(await readFile(path.join(projectRoot, 'lib/study-s
 const studyCss = await readFile(path.join(projectRoot, 'lib/study.css'), 'utf8');
 const studyEngine = (await readFile(path.join(projectRoot, 'lib/study-engine.mjs'), 'utf8')).replace(/^export /gm, '');
 const studySync = (await readFile(path.join(projectRoot, 'lib/study-sync.mjs'), 'utf8')).replace(/^import .*;\r?\n/gm, '').replace(/^export /gm, '');
+const summaryNavigation = (await readFile(path.join(projectRoot, 'lib/summary-navigation.mjs'), 'utf8')).replace(/^export /gm, '');
 const studyView = studySync + '\n' + (await readFile(path.join(projectRoot, 'lib/study-view.mjs'), 'utf8')).replace(/^import .*;\r?\n/gm, '').replace(/^export /gm, '');
 
 const html = buildHtml({
@@ -805,7 +806,7 @@ function buildHtml(data) {
     }
 
     function setRoute(type, id) {
-      location.hash = type + '/' + id;
+      window.dispatchEvent(new CustomEvent('vocabdna-route', { detail: '#' + type + '/' + id }));
     }
 
     function routeButton(type, id, label, className = 'inline-link') {
@@ -1337,6 +1338,7 @@ function buildHtml(data) {
   (() => {
     ${studyEngine}
     ${studyView}
+    ${summaryNavigation}
     const catalog = ${JSON.stringify(studyCatalog).replaceAll('<', '\\u003c')};
     const supplement = ${JSON.stringify(supplement).replaceAll('<', '\\u003c')};
     const host = document.getElementById('study-host');
@@ -1349,14 +1351,17 @@ function buildHtml(data) {
       shell.hidden = false;
       document.getElementById('study-open').setAttribute('aria-pressed', 'false');
     }
-    document.getElementById('study-open').addEventListener('click', () => {
-      if (!host.hidden) { closeStudy(); return; }
+    function openStudy() {
+      if (!host.hidden) return;
       shell.hidden = true;
       host.hidden = false;
       document.getElementById('study-open').setAttribute('aria-pressed', 'true');
       cleanup = mountStudy(host, catalog, supplement, closeStudy);
+    }
+    document.getElementById('study-open').addEventListener('click', () => {
+      if (!host.hidden) closeStudy(); else openStudy();
     });
-    window.addEventListener('hashchange', closeStudy);
+    installSummaryNavigation({ showSummary: openStudy, showDictionary: closeStudy });
   })();
   </script>
 </body>

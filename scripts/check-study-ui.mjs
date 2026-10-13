@@ -54,9 +54,12 @@ try {
   }
   async function waitFor(expression) {
     for (let i = 0; i < 100; i++) { if (await evaluate(expression)) return; await new Promise(r => setTimeout(r, 50)); }
-    throw new Error(`Timed out: ${expression}`);
+    throw new Error(`Timed out: ${expression}; history=${JSON.stringify(await send("Page.getNavigationHistory"))}; exceptions=${JSON.stringify(exceptions)}; ${await evaluate("JSON.stringify({hash:location.hash,state:history.state,hidden:document.querySelector(\"#study-host\")?.hidden,body:document.querySelector(\"#study-host\")?.textContent.slice(-300)})")}`);
   }
-  const click = selector => evaluate(`document.querySelector(${JSON.stringify(selector)}).click()`);
+  const click = async selector => {
+    const result = await send('Runtime.evaluate', { expression: `document.querySelector(${JSON.stringify(selector)}).click()`, userGesture: true, returnByValue: true });
+    if (result.exceptionDetails) throw new Error(JSON.stringify(result.exceptionDetails));
+  };
   const settleLayout = () => evaluate('new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)))');
   async function checkMobileQuestion() {
     await settleLayout();
@@ -304,6 +307,47 @@ try {
     await evaluate('window.scrollTo(0, document.documentElement.scrollHeight)'); await settleLayout();
     await click('.study-round-summary > [data-study-action=new]'); await settleLayout();
     assert.ok(await evaluate("document.querySelector('#study-settings').getBoundingClientRect().top >= 0 && document.querySelector('#study-settings').getBoundingClientRect().bottom <= innerHeight"), 'bottom next-round action focuses settings');
+  }
+  // Review links restore the exact summary entry, including a last uncertain answer.
+  for (const device of [{ width: 390, height: 844, mobile: true }, { width: 1440, height: 1000, mobile: false }]) {
+    await send('Emulation.setDeviceMetricsOverride', { ...device, deviceScaleFactor: 1 });
+    if (await evaluate("!document.querySelector('#study-host').hidden")) await click('[data-study-action=close]');
+    await evaluate("window.dispatchEvent(new CustomEvent('vocabdna-route',{detail:'#word/archaeology'}))"); await settleLayout();
+    const reviewRound = structuredClone(completedRound);
+    reviewRound.answers[0] = { ...reviewRound.answers[0], outcome: 'wrong', score: 0 };
+    const wordId = reviewRound.answers[0].wordId;
+    const state = { version: 1, events: reviewRound.answers, session: reviewRound, markEvents: [
+      { kind: 'word-mark', id: 'mark:summary-star', wordId, mark: 'important', value: true, changedAt: '2026-10-13T00:00:00Z' },
+      { kind: 'word-mark', id: 'mark:summary-check', wordId, mark: 'mastered', value: true, changedAt: '2026-10-13T00:00:00Z' },
+    ] };
+    await evaluate(`localStorage.setItem('vocabdna-study-v1',${JSON.stringify(JSON.stringify(state))}); window.dispatchEvent(new CustomEvent('vocabdna-route',{detail:'#study/summary'}))`);
+    await waitFor("!document.querySelector('#study-host').hidden && Boolean(document.querySelector('.study-round-summary'))"); await settleLayout();
+    assert.equal(await evaluate("document.querySelectorAll('.study-results li:first-child .is-important, .study-results li:first-child .is-mastered').length"), 2);
+    assert.notEqual(await evaluate("getComputedStyle(document.querySelector('.study-result-wrong')).color"), await evaluate("getComputedStyle(document.querySelector('.study-result-uncertain')).color"));
+    await evaluate("document.querySelectorAll('[data-summary-word]')[50].scrollIntoView({block:'center'})"); await settleLayout();
+    const position = await evaluate('scrollY');
+    const rowPosition = await evaluate("document.querySelectorAll('[data-summary-word]')[50].getBoundingClientRect().top");
+    const openedId = await evaluate("document.querySelectorAll('[data-summary-word]')[50].dataset.summaryWord");
+    await click('.study-results li:nth-child(51) [data-summary-word]');
+    await waitFor("document.querySelector('#study-host').hidden && !document.querySelector('.study-dictionary-return').hidden"); await settleLayout();
+    assert.equal(await evaluate('location.hash'), '#word/' + openedId);
+    await evaluate('window.scrollTo(0, 200)'); await settleLayout();
+    const wordPosition = await evaluate('scrollY');
+    const wordHash = await evaluate('location.hash');
+    assert.ok(await evaluate("[...document.querySelectorAll('#detail [data-route]')].some(b=>'#'+b.dataset.route.replace(':','/')!==location.hash)"), 'word detail exposes related word or root links');
+    await evaluate("[...document.querySelectorAll('#detail [data-route]')].find(b=>'#'+b.dataset.route.replace(':','/')!==location.hash).click()");
+    await waitFor(`location.hash !== ${JSON.stringify(wordHash)}`); await settleLayout();
+    await click('[data-review-back]'); await waitFor(`location.hash === ${JSON.stringify(wordHash)}`); await settleLayout();
+    assert.ok(Math.abs(await evaluate('scrollY') - wordPosition) < 2, 'nested back restores dictionary scroll');
+    await click('[data-review-back]'); await waitFor("location.hash==='#study/summary' && !document.querySelector('#study-host').hidden"); await settleLayout();
+    assert.ok(await evaluate("Boolean(document.querySelector('.study-round-summary')) && !document.querySelector('.study-feedback-panel')"));
+    assert.ok(Math.abs(await evaluate('scrollY') - position) < 2, 'back restores summary scroll');
+    assert.ok(Math.abs(await evaluate("document.querySelectorAll('[data-summary-word]')[50].getBoundingClientRect().top") - rowPosition) < 2, 'clicked row remains in the same screen position');
+    await click('.study-results li:nth-child(51) [data-summary-word]'); await settleLayout(); await waitFor("document.querySelector('#study-host').hidden"); await settleLayout();
+    await evaluate("[...document.querySelectorAll('#detail [data-route]')].find(b=>'#'+b.dataset.route.replace(':','/')!==location.hash).click()"); await waitFor(`location.hash !== ${JSON.stringify(wordHash)}`); await settleLayout();
+    await click('[data-review-summary]'); await waitFor("location.hash==='#study/summary' && !document.querySelector('#study-host').hidden"); await settleLayout();
+    assert.ok(Math.abs(await evaluate('scrollY') - position) < 2, 'direct summary return skips nested pages and restores scroll');
+    assert.equal(await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).events.length"), 120, 'lookup never changes answer history');
   }
   assert.equal(exceptions.length, 0, JSON.stringify(exceptions));
   assert.ok(!requests.some(url => /^https?:/.test(url)), 'static quiz uses no network resources');
