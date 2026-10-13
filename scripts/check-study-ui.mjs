@@ -4,9 +4,11 @@ import { spawn } from 'node:child_process';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
-import { createQuestionBank, getQuestionExamples } from '../lib/study-engine.mjs';
+import { createQuestionBank, getQuestionExamples, answerQuestion } from '../lib/study-engine.mjs';
 const catalog = JSON.parse(await readFile(new URL('../lib/study-catalog.json', import.meta.url), 'utf8'));
 const supplement = JSON.parse(await readFile(new URL('../lib/study-supplement.json', import.meta.url), 'utf8'));
+const completedRound = createQuestionBank(catalog, supplement).start(120, 'en-zh');
+while (completedRound.answers.length < completedRound.questions.length) completedRound.answers.push(answerQuestion(completedRound, [], true));
 const hintQuestion = createQuestionBank(catalog.filter(w => w.senses.every(s => s.example)), supplement).start(1, 'zh-en').questions[0];
 const noHintQuestion = createQuestionBank(catalog.filter(w => w.senses.every(s => !s.example)), supplement).start(1, 'en-zh').questions[0];
 const longQuestion = createQuestionBank(catalog, supplement).start(500, 'en-zh').questions.find(q => q.answerIds.length === 2);
@@ -83,6 +85,17 @@ try {
   await waitFor("Boolean(document.querySelector('[data-study-option]'))");
   await checkMobileQuestion();
   // Sync finishes after a question is already readable: status wrapping must not move it.
+  assert.equal(await evaluate("document.querySelectorAll('[data-study-mark][aria-pressed=false]').length"), 2);
+  const markScroll = await evaluate('scrollY');
+  await click('[data-study-mark=important]');
+  await click('[data-study-mark=mastered]');
+  assert.equal(await evaluate("document.querySelectorAll('[data-study-mark][aria-pressed=true]').length"), 2);
+  assert.equal(await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).events.length"), 0, 'marks never submit answers');
+  assert.equal(await evaluate('scrollY'), markScroll, 'marking never scrolls the question');
+  assert.ok(await evaluate("[...document.querySelectorAll('[data-study-mark]')].every(b=>b.getBoundingClientRect().width>=44&&b.getBoundingClientRect().height>=44&&b.getAttribute('aria-label'))"));
+  await click('[data-study-mark=mastered]');
+  assert.equal(await evaluate("document.querySelector('[data-study-mark=mastered]').getAttribute('aria-pressed')"), 'false');
+  assert.equal(await evaluate("document.querySelector('[data-study-mark=important]').getAttribute('aria-pressed')"), 'true');
   const stableTop = await evaluate("document.querySelector('.study-prompt').getBoundingClientRect().top");
   const stableScroll = await evaluate('scrollY');
   await evaluate("document.querySelector('[data-sync-status]').textContent='正在同步学习记录…'");
@@ -261,6 +274,37 @@ try {
   assert.ok(await evaluate("Boolean(document.querySelector('.study-uncertain')) && Boolean(document.querySelector('[data-study-action=next]'))"), 'fast unsure answer pauses in feedback');
   await click('[data-study-action=close]'); await click('#study-open');
   assert.equal(await evaluate("document.querySelector('[data-study-action=mode-quick]').getAttribute('aria-pressed')"), 'true', 'answer mode survives remount');
+  // A long completed round offers the next-round action at both ends on both devices.
+  const beforeLongRound = await evaluate("localStorage.getItem('vocabdna-study-v1')");
+  for (const device of [{ width: 390, height: 844, mobile: true }, { width: 1440, height: 1000, mobile: false }]) {
+    await send('Emulation.setEmulatedMedia', { features: [{ name: 'prefers-reduced-motion', value: device.mobile ? 'no-preference' : 'reduce' }] });
+    await send('Emulation.setDeviceMetricsOverride', { ...device, deviceScaleFactor: 1 });
+    await evaluate(`(() => { const s=JSON.parse(${JSON.stringify(beforeLongRound)}); s.events.push(...${JSON.stringify(completedRound.answers)}); s.session=${JSON.stringify(completedRound)}; localStorage.setItem('vocabdna-study-v1',JSON.stringify(s)); })()`);
+    await click('[data-study-action=close]'); await click('#study-open');
+    await evaluate('window.scrollTo(0, document.documentElement.scrollHeight)');
+    await click('[data-study-action=next]'); await settleLayout();
+    assert.equal(await evaluate("document.querySelectorAll('.study-round-summary [data-study-action=new]').length"), 2);
+    assert.ok(await evaluate("document.querySelector('.study-round-next button').getBoundingClientRect().bottom <= innerHeight"), 'summary opens with next-round action visible');
+    assert.ok(await evaluate("document.querySelector('[data-study-action=summary-top]').hidden"));
+    const topScreenshot = await send('Page.captureScreenshot', { format: 'png' });
+    await writeFile(path.join(output, `${device.mobile ? 'mobile' : 'desktop'}-round-summary.png`), Buffer.from(topScreenshot.data, 'base64'));
+    await evaluate('window.scrollBy(0, innerHeight + 100)'); await settleLayout();
+    await waitFor("!document.querySelector('[data-study-action=summary-top]').hidden");
+    assert.equal(await evaluate("getComputedStyle(document.querySelector('[data-study-action=summary-top]')).position"), 'fixed');
+    assert.ok(await evaluate("document.querySelector('[data-study-action=summary-top]').getBoundingClientRect().bottom <= innerHeight"));
+    await click('[data-study-action=summary-top]');
+    await waitFor("document.querySelector('[data-study-action=summary-top]').hidden && document.querySelector('.study-round-next button').getBoundingClientRect().top >= document.querySelector('body > header').getBoundingClientRect().bottom && document.querySelector('.study-round-next button').getBoundingClientRect().bottom < innerHeight");
+    const savedEvents = await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).events.length");
+    await click('.study-round-next [data-study-action=new]'); await settleLayout();
+    assert.ok(await evaluate("Boolean(document.querySelector('#study-settings')) && !document.querySelector('[data-study-action=summary-top]')"));
+    assert.equal(await evaluate("JSON.parse(localStorage.getItem('vocabdna-study-v1')).events.length"), savedEvents, 'starting next round retains history');
+    // Restore the completed round and verify the bottom action as well.
+    await evaluate(`(() => { const s=JSON.parse(localStorage.getItem('vocabdna-study-v1')); s.session=${JSON.stringify(completedRound)}; localStorage.setItem('vocabdna-study-v1',JSON.stringify(s)); })()`);
+    await click('[data-study-action=close]'); await click('#study-open'); await click('[data-study-action=next]');
+    await evaluate('window.scrollTo(0, document.documentElement.scrollHeight)'); await settleLayout();
+    await click('.study-round-summary > [data-study-action=new]'); await settleLayout();
+    assert.ok(await evaluate("document.querySelector('#study-settings').getBoundingClientRect().top >= 0 && document.querySelector('#study-settings').getBoundingClientRect().bottom <= innerHeight"), 'bottom next-round action focuses settings');
+  }
   assert.equal(exceptions.length, 0, JSON.stringify(exceptions));
   assert.ok(!requests.some(url => /^https?:/.test(url)), 'static quiz uses no network resources');
   console.log('PASS: desktop/mobile fast and confirmation modes, two-choice cancellation, mode persistence, rewards, offline results, resume, dictionary return, storage failure.');

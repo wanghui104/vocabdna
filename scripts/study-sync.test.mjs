@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { createQuestionBank, answerQuestion, emptyState, readState, saveState, mergeEvents, validateEvents } from '../lib/study-engine.mjs';
+import { createQuestionBank, answerQuestion, emptyState, readState, saveState, mergeEvents, validateEvents, setWordMark, mergeMarkEvents, wordMarks } from '../lib/study-engine.mjs';
 import { createStudySync } from '../lib/study-sync.mjs';
 import catalog from '../lib/study-catalog.json' with { type: 'json' };
 import supplement from '../lib/study-supplement.json' with { type: 'json' };
@@ -26,15 +26,20 @@ test('cloud round-trip merges device history, preserves local round and retries 
   const originalFetch = globalThis.fetch;
   const originalNavigator = Object.getOwnPropertyDescriptor(globalThis, 'navigator');
   Object.defineProperty(globalThis, 'navigator', { value: { onLine: true }, configurable: true });
-  let raw, remote = [b], uploads = 0, failUpload = true;
+  let raw, remote = [b], remoteMarks = [], uploads = 0, failUpload = true;
   const storage = { getItem() { return raw; }, setItem(_key, value) { raw = value; } };
   const initial = { ...emptyState(), events: [a], session: { ...sessionA, answers: [a] } };
-  saveState(storage, initial);
+  const marked = setWordMark(initial, a.wordId, 'mastered', true, '2026-10-10T00:00:00Z');
+  const cancelled = setWordMark(marked, a.wordId, 'mastered', false, '2026-10-11T00:00:00Z');
+  remoteMarks = cancelled.markEvents;
+  saveState(storage, setWordMark(marked, a.wordId, 'important', true, '2026-10-12T00:00:00Z'));
   globalThis.fetch = async (_url, options) => {
-    if (options.method === 'GET') return Response.json({ events: remote });
+    if (options.method === 'GET') return Response.json({ events: remote, markEvents: remoteMarks });
     uploads++;
     if (failUpload) return Response.json({}, { status: 503 });
-    remote = mergeEvents(remote, JSON.parse(options.body).events);
+    const body = JSON.parse(options.body);
+    remote = mergeEvents(remote, body.events);
+    remoteMarks = mergeMarkEvents(remoteMarks, body.markEvents);
     return Response.json({ saved: remote.length });
   };
   let status;
@@ -47,6 +52,8 @@ test('cloud round-trip merges device history, preserves local round and retries 
     failUpload = false;
     await sync.sync();
     assert.equal(remote.length, 2);
+    assert.deepEqual(wordMarks(remoteMarks).get(a.wordId), { important: true, mastered: false });
+    assert.deepEqual(readState(storage).markEvents, remoteMarks);
     const previousUploads = uploads;
     await sync.sync();
     assert.equal(uploads, previousUploads, 'acknowledged answers not uploaded again');

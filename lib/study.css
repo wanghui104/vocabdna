@@ -35,6 +35,10 @@
 .study-panel table { width: 100%; min-width: 580px; table-layout: auto; border-collapse: collapse; font-size: 14px; }
 .study-panel th, .study-panel td { border-bottom: 1px solid #d8d0bf; padding: 10px; text-align: left; }
 .study-results { list-style: none; padding: 0; margin: 20px 0; }
+.study-round-next { margin: 16px 0 24px; }
+.study-back-top { position: fixed; z-index: 40; right: max(16px, env(safe-area-inset-right)); bottom: calc(20px + env(safe-area-inset-bottom)); min-height: 48px; padding: 10px 16px; border: 1px solid #165f75; border-radius: 24px; background: #165f75; color: #fff; font: inherit; cursor: pointer; box-shadow: 0 3px 14px rgb(24 35 52 / 20%); }
+.study-back-top[hidden] { display: none; }
+.study-back-top:focus-visible { outline: 3px solid #60b6ce; outline-offset: 3px; }
 .study-results li { display: flex; justify-content: space-between; border-bottom: 1px solid #d8d0bf; padding: 8px; }
 .study-sync { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; color: #627083; font-size: 14px; margin-bottom: 18px; }
 .study-sync button { min-height: 44px; }
@@ -86,3 +90,13 @@
 }
 @media (max-width: 767px) { .study-host { margin: 12px auto; padding: 0 12px; } .study-toolbar button { min-height: 44px; } .study-actions button { flex: 1; min-height: 48px; } .study-panel { padding-bottom: max(18px, env(safe-area-inset-bottom)); } }
 @media (max-width: 600px) { .study-panel { padding: 18px; } .study-toolbar { gap: 10px; } #study-settings { align-items: stretch; flex-direction: column; } #study-settings input { width: 100%; } }
+
+.study-question-tools { display: flex; align-items: center; gap: 8px; margin: 16px 0; }
+.study-question-tools .study-hint { flex: 1; min-width: 0; margin: 0; }
+.study-marks { display: flex; flex-shrink: 0; gap: 6px; }
+.study-panel .study-marks button { display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; padding: 8px; color: #7b858c; background: transparent; border-color: transparent; }
+.study-marks svg { width: 26px; height: 26px; }
+.study-marks [data-study-mark="important"][aria-pressed="true"] { color: #ac7600; background: #fff3ce; }
+.study-marks [data-study-mark="important"][aria-pressed="true"] svg { fill: #f4c342; }
+.study-marks [data-study-mark="mastered"][aria-pressed="true"] { color: #247145; background: #e5f2e8; }
+@media (max-width: 767px) { .study-question-tools .study-hint > .study-muted { display: none; } }

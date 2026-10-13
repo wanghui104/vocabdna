@@ -1,5 +1,5 @@
 import { studyDB } from '@/lib/study-db';
-import { validateEvents } from '@/lib/study-engine.mjs';
+import { validateEvents, validateMarkEvents } from '@/lib/study-engine.mjs';
 
 export const dynamic = 'force-dynamic';
 const json = (body: unknown, status = 200) => Response.json(body, { status, headers: { 'Cache-Control': 'no-store' } });
@@ -9,7 +9,8 @@ export async function GET(request: Request) {
   if (!user) return json({ error: '请先登录，再同步学习记录。' }, 401);
   try {
     const result = await studyDB().prepare('SELECT payload FROM study_events WHERE user_id = ? ORDER BY event_id').bind(user).all<{ payload: string }>();
-    return json({ events: result.results.map(row => JSON.parse(row.payload)) });
+    const records = result.results.map(row => JSON.parse(row.payload));
+    return json({ events: records.filter(e => e.kind !== 'word-mark'), markEvents: records.filter(e => e.kind === 'word-mark') });
   } catch (error) {
     console.error('Study read failed', error);
     return json({ error: '云端记录暂不可用，本机记录仍保留。' }, 503);
@@ -27,9 +28,15 @@ export async function POST(request: Request) {
   try {
     const text = await request.text();
     if (text.length > 500_000) return json({ error: '请分批同步' }, 413);
-    events = JSON.parse(text).events;
-    if (!Array.isArray(events) || events.length > 100) throw new Error('无效批次');
+    const body = JSON.parse(text);
+    events = body.events;
+    const marks = body.markEvents ?? [];
+    if (!Array.isArray(events) || !Array.isArray(marks) || events.length + marks.length > 100) throw new Error('无效批次');
     validateEvents(events);
+    validateMarkEvents(marks);
+    // Keep the answer namespace disjoint from mark IDs and old-client GETs.
+    if (events.some(e => e.kind !== undefined || e.id.startsWith('mark:'))) throw new Error('无效记录');
+    events = [...events, ...marks];
   } catch { return json({ error: '学习记录格式异常' }, 400); }
   try {
     const db = studyDB();
